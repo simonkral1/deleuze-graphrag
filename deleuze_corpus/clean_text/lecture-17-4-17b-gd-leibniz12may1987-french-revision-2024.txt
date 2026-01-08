@@ -1,0 +1,1248 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Principes et la Liberté
+
+Séance 17, le 12 mai 1987 : Les Principes et la Liberté (12) -- Les critères de la substance et
+“avoir un corps”
+
+Transcription augmentée, Charles J. Stivale
+
+Partie 1
+
+[Alors on travaille. Tout va bien ? (Texte de WebDeleuze)] Eh bien, eh bien, nous sommes dans
+le thème, que vous vous rappelez peut-être. Il y aurait ou on pourrait distinguer – mais les textes
+sont très mélangés – on pourrait distinguer comme quatre grands critères de la substance chez
+Leibniz. Critères de la substance, ça signifie des moyens d'assigner ce qui est substance, et ces
+critères, ce serait: le critère logique, le critère que j’ai proposé d’appeler (ou je ne sais plus si je
+l’avais déjà dit) épistémologique, le critère physique ou physicaliste, et le critère psychologique.
+[Pause] [1 :00] Or je dis que là, déjà, toutes sortes de difficultés nous viennent. Il faut que vous
+les ayez présentes à l'esprit en même temps qu'on va avancer un petit peu. Ces difficultés, ce n'est
+pas seulement que ces critères souvent se renvoient les uns aux autres, et même s'insèrent les uns
+dans les autres. Mais c'est que aussi, deuxième difficulté, intervient constamment un appel au
+corps. Or c'est surprenant pour nous. Pourquoi ? Parce que le corps, on n'a pas encore du tout
+éprouvé le besoin d'en parler. Vous vous rappelez? On a éprouvé le besoin de parler des
+événements et des monades, [2 :00] les monades contenant les événements à titre de prédicats.
+Mais les monades, c'est quoi? Ce sont des âmes ou esprits. Pourquoi les âmes auraient-elles des
+corps? Ça, on n’a même pas du tout abordé ça.
+
+Et d'où ça vient, avoir un corps? Et qu'est-ce que ça veut dire, avoir un corps? Nous avons
+montré que les monades avaient un point de vue, ça oui. Et on est resté longtemps sur l'idée du
+point de vue de la monade, et qu'une monade était inséparable d'un point de vue. Et peut-être que
+nous sentons qu'avoir un corps et avoir un point de vue, ce ne sont pas des choses indifférentes
+de l'une à l'autre. Mais ce qu'on ne voit pas du tout, [3 :00] c’est en quoi consiste et pourquoi
+sans doute avoir un corps, ça veut dire autre chose que avoir un point de vue, même si les deux
+choses sont liées.
+
+Et enfin tous ces critères vont mettre en jeu, non seulement des notions qu'on pourrait appeler
+corporelles, mais des notions nouvelles pour nous, et là je dis franchement: il faut se débrouiller.
+Enfin, je dis franchement, il faut se débrouiller parce que ce n'est pas du tout un domaine vide de
+commentaires ; il y a beaucoup de commentateurs de Leibniz, et de très grands commentateurs.
+Et puis quand on les lit, on sent la nécessité -- c'est un peu vrai de tous les philosophes, mais
+peut-être est-ce que c'est plus particulièrement vrai [4 :00] pour Leibniz -- on ne pourra peut-être
+même pas saisir ce que veulent dire les commentateurs si on ne reprend pas à son compte, si on
+n’essaie pas de débrouiller tellement les notions peuvent paraître bizarres. Au point où nous en
+sommes la bizarrerie leibnizienne va redoubler.
+
+                                                                                                        2
+
+Si bien que là encore on sera emmenés à prendre des risques pour arriver à dire: c'est peut-être
+ça, mais ce que je vous proposerais moi, si vous voyez tout à fait autre chose, si vous voyez un
+commentateur tout à fait intéressant, ne lui donnez pas forcément raison, mais ne me donnez pas
+forcément raison. On peut dire qu'on a raison pour chacun de vous, celui qui vous permettra de
+vous y reconnaître. Et si vous avez une autre idée pour vous y reconnaître, c'est celle-là qui sera
+la bonne. [5 :00] Comme je disais, il y a des choses qu'on ne peut pas dire, mais il y a beaucoup
+de choses qu'on peut dire.
+
+Je vous disais, le critère logique de la substance: celui-là, on le connaît, et on lui a dit adieu un
+peu la dernière fois, mais on lui a dit adieu d'une telle manière que il nous relançait dans le
+problème du corps. C'est ça que je voudrais déjà introduire, ce nouveau problème du corps. Une
+des plus belles phrases de Leibniz, c'est: "je me croyais arrivé au port, et je fus rejeté en pleine
+mer", "je me croyais arrivé au port, et je fus rejeté en pleine mer". Quoi de plus beau, parce que
+c'est l'énoncé même de la démarche philosophique: [6 :00] on se croit arrivé et puis nous revoilà
+relancés en pleine mer. J'ai l'impression que le "avoir un corps" et l'exigence d'avoir un corps,
+opère précisément ce "être lancé en pleine mer". [Deleuze cite cette phrase leibnizienne à propos
+de Foucault, dans Pourparlers, p. 206; Negotiations, p. 151.]
+
+Or ce qu'on a vu la dernière fois pour le critère logique de la substance, c'est -- je résume -- il me
+semble, relativement clair. Aujourd'hui plus que jamais vous m'interrompez si il y a quelque
+chose d'obscur. Je vous disais chez Descartes c'est relativement simple: le critère logique de la
+substance, c'est la simplicité, et ça revient à dire que la substance est définie par un attribut
+essentiel dont elle n'est distincte que par une distinction de raison: corps et étendue, esprit et
+pensée. [7 :00] Et je vous disais à première vue -- là c'est un très bon cas de notion, à quel point
+il faut être sensible à la tonalité des concepts -- je vous disais: jamais Leibniz ne définira la
+substance par la simplicité. [Pause] Il emploiera bien l'expression "substance simple", mais
+tardivement, et il n'emploiera cette expression que quand il s'agira de distinguer les substances
+simples ou monades, d'autres choses qu'il appellera les substances composées. A ce moment-là,
+il dira non pas: la substance, c'est la simplicité, mais il dira: il y a des substances simples et il y a
+des substances composées. Mais il ne définit jamais la substance par la simplicité. En revanche,
+il définit toute substance par l'unité. [8 :00]
+
+Et on a vu qu’en effet, entre simplicité et unité, il y avait une différence fondamentale parce que
+l'unité, c'était l'unité active d'un quelque chose qui se meut ou change. L’unité, c'est l'unité
+intérieure d'un mouvement, ou c'est l'unité active d'un changement. On sent déjà que ces deux
+définitions ne sont pas au même car, enfin, unité intérieure d'un mouvement, qu'est-ce que ça
+veut dire, ça? Mouvement? Mouvement, ça implique un mobile. Le mobile, c'est un corps.
+Qu'est-ce que vient faire là ce corps, alors que jusqu'à maintenant on a parlé que des âmes ou
+esprits nommés monades? Alors que une âme ou un esprit traversent [9 :00] des changements,
+oui. D'où la définition: unité active d'un changement, unité active d'un changement intérieur à la
+monade, ne nous fait pas de difficulté. Mais la définition : unité d'un mouvement qui est
+nécessairement extérieur à la monade puisqu'il concerne un corps, elle nous fait difficulté. On l'a
+caché la dernière fois, mais parce qu’on n’en était pas là encore, mais il faudra bien la retrouver
+cette difficulté. Qu'est-ce que ça peut être? Tout ce qu'on peut dire, c'est que le changement
+qualitatif, intérieur à la monade, est plus profond que le mouvement, donc que si on arrive à
+
+                                                                                                        3
+
+comprendre ce que c'est que le mouvement, on s'apercevra que [10 :00] il a pour raison le
+changement qualitatif intérieur à la monade. Mais, enfin, d'où il vient ce corps et ce mobile?
+
+Alors je dis juste: retenons la définition: unité active du changement intérieur. C'est la
+spontanéité. Et si le changement intérieur, c'est le prédicat de la monade, c'est ce qui se passe
+dans la monade, [Pause] il faut dire qu'il y a à la fois spontanéité, que l'unité active du
+changement signifie une double spontanéité -- et la spontanéité de la substance qui change, et la
+spontanéité du changement, c'est-à-dire la spontanéité du prédicat. On a vu en quoi consistait la
+spontanéité du [11 :00] prédicat, c'était sa propriété de sortir à l'instant "b" de l'instant "a", la
+nécessité pour l'instant "a" d'être gros de l'instant "b". [Pause]
+
+Et dès lors s'était développée l'opposition entre Leibniz et Descartes, sous quelle forme? Vous
+voyez bien: la monade tire tout de son propre fond par une spontanéité. Elle tire tout de son
+propre fond par spontanéité, expression que vous trouvez constamment. Et je vous rappelle la
+polémique avec [Pierre] Bayle qui nous a paru très importante à cet égard. Alors, quoi ? L’âme
+du chien tire de son propre fond la douleur [12 :00] qu'il éprouve lorsque son corps – tiens,
+encore son corps qu'on nous flanque là -- lorsque son corps reçoit un coup de bâton. Et la
+réponse très belle de Leibniz était: mais faites attention ; ne considérez pas des abstractions. Ce
+n'est pas du tout que l'âme du chien tire de son fond une douleur qui viendrait brusquement, mais
+c'est que l'âme du chien tire de son fond une douleur qui intègre mille petites perceptions
+intérieures à l'âme qui définissaient son inquiétude. [Deleuze avait défini “l’inquiétude” lors de
+la séance du 24 février 1987, en se référant au terme allemand, Unruhe ; voir Le Pli, p. 94, The
+Fold, p. 69.] Et je dis là, en pesant bien mes mots, que je crois vraiment que Leibniz est
+l'inventeur [13 :00] de la psychologie animale.
+
+La psychologie animale commence à partir du moment où, non seulement, vous croyez à l'âme
+des bêtes, mais où vous avez défini la situation de cette âme comme étant dans la situation de
+l'être aux aguets. [Voir la discussion de cette expression dans "C comme la Culture",
+L’Abécédaire de Gilles Deleuze. “Etre aux aguets” se lie de manière important à l’harmonie et
+l’inquiétude, voir Le Pli, p. 178 ; The Fold, pp. 130-131.] Quand vous vous promenez à la
+campagne il faut faire le jeu suivant, mais aussi bien à la ville, imaginez que vous soyez une
+bête. Imaginez que vous soyez une bête, ça veut dire quoi, être une bête? Ça veut dire que, quoi
+que vous fassiez, être aux aguets de ce qui peut survenir. Je dirais: c'est ce que Leibniz dans les
+Nouveaux essais sur l'entendement humain appelle l'inquiétude, [14 :00] la perpétuelle
+inquiétude: quel animal a mangé en paix? Il peut avoir une paix, mais la paix de l'animal est
+intégration d'une inquiétude perpétuelle: qui va venir me voler mon morceau de je ne sais pas
+quoi? Voyez l'inquiétude de l’hyène, l'inquiétude du vautour. Voyez comment un animal se
+repose, tout ça. A quel point cela donne raison à Leibniz ; Leibniz, c'est le premier à avoir vu ça,
+à avoir dit: évidemment les bêtes ont une âme!
+
+Pourquoi [est-ce qu’] il dit ça contre Descartes? Ce n'est pas qu’on ne puisse pas considérer les
+bêtes comme des machines ; pour ceux qui connaissent un peu Descartes, il y a la célèbre théorie
+des animaux machines. On peut toujours, c'est des modèles de construction. [15 :00] Mais qu'estce qui manquera à la machine? Ce qui manquera, c'est l'inquiétude bestiale, à savoir que, on
+pourra reconstruire avec des modèles artificiels tout ce qu'on veut de l'animal, on fera manger un
+
+                                                                                                         4
+
+robot, etc. On pourra aussi lui donner des signes d'inquiétude, oui, à ce moment-là, c'est qu’on
+connaîtra d'une certaine manière que la bête est autre chose qu'un robot.
+
+Mais vous pouvez jouer à ça dans la campagne, c'est plus commode qu'à la ville: vous vous
+mettez dans une prairie, et vous vous dites assez fort: je suis un lapin, [Rires] ou autre chose si
+vous n'aimez pas les lapins, et vous essayez d'imaginer un peu ce que c'est que la vie de ces bêtes
+là, cette espèce de… Mais il ne leur arrive pas un coup de fusil -- c'est ça qui donne à Leibniz
+tellement raison -- [16 :00] il ne leur arrive pas un coup de fusil comme ça. La douleur du coup
+de fusil, mais elle vient tout d'un coup, à la lettre, comme intégrer mille petites sollicitations de
+l'ambiance, à savoir: la petite perception confuse que la chasse a commencée. Ils ont entendu des
+coups de fusil ; bien plus ils ont entendu l'appel des chasseurs: "Hé Toto, t'en as vu un?", par
+exemple. Ils n’ont pas compris, mais il y a une voix spéciale de la chasse et des chasseurs. Ils
+ont vu des gens traverser à leur manière ; il y a un pas des chasseurs. Les bêtes sont [17 :00] aux
+aguets.
+
+Et ce que Leibniz nous propose c'est l'idée que -- et c'est ça qu'il répond à Bayle -- : quand je dis
+que l'âme produit spontanément sa propre douleur, je veux seulement dire, dit-il, elle ne reçoit
+pas l'impression de douleur comme venant brusquement sans que rien ne la prépare.
+L'impression de douleur vient intégrer tout d'un coup mille petites perceptions qui étaient là, et
+qui auraient pu rester non intégrées -- à ce moment-là, le lapin aurait fini de manger sa carotte,
+c'est-à-dire: plaisir -- mais vous voyez cette espèce de changement dans la monade, que ce soit
+celle d'un homme ou celle d'un animal, se fait sur ce fond. [18 :00]
+
+Et je vous disais, dès lors, il y a moyen de donner au concept de maniérisme une certaine
+consistance en philosophie. Et je vous disais, vraiment, Leibniz est le premier grand philosophe -
+-je crois -- à lancer ce thème du fond de l'âme. Par là peut-être que les Romantiques se
+rappelleront Leibniz, mais avant on ne nous parlait guère du fond de l'âme, ou bien quand on en
+parlait c'était comme une image. Tandis que c'est dans le statut de l'âme: "elle tire tout de son
+propre fond", c'est ça la monade. Donc je vous disais: le couple maniériste c'est: fondspontanéité, par opposition au couple classique de Descartes: forme-essentialité. [Pause] [19 :00]
+
+Mais alors continuons un peu, eh, pour en finir avec ce premier critère. Ce premier critère, vous
+l'avez reconnu, on a tellement traîné dessus, ce premier critère, c’est l'inhérence, vous savez, les
+prédicats sont dans le sujet, ou, si vous préférez, chaque monade exprime le monde. Chaque
+monade exprime l'ensemble du monde, ou le monde est dans la monade. Vous vous rappelez,
+c'est l'inclusion. Et quand je vous disais, nous avons une confirmation ultime, je vous disais:
+mais faites attention, on a généralement confondu la prédication, chez Leibniz, et l'attribution,
+c'est juste le contraire, c'est juste le contraire puisque le jugement d'attribution, c'est le rapport
+[20 :00] attribut-substance, [Pause] dans la mesure où l'attribut détermine l'essence de la
+substance. [Pause] L'inhérence, c'est absolument différent: c'est l'inclusion du prédicat dans la
+substance, dans la mesure où la substance tire les prédicats et la succession des prédicats de son
+propre fond. Le prédicat n'est pas attribut, il est événement. [Pause]
+
+Donc je suppose que tout, ça c'est clair. C'est ça le critère logique de la substance qui, chez
+Leibniz, s'oppose au critère classique [21 :00] de la substance tel que vous le trouvez chez
+Descartes, substance-attribut essentiel. Mais j'en profite pour pousser un peu. Dés lors, même à
+
+                                                                                                          5
+
+ce niveau, j’ai défini la substance par l'inclusion: c'est ce qui inclut l'ensemble des prédicats
+comme événements, ou l'ensemble des prédicats comme changement. [Pause] Donc elle est
+source active de changement, elle est unité active de changement, le changement s'opposant dans
+le maniérisme à [22 :00] l'attribut fixe et solide de la substance. Là, c'est, au contraire, une source
+vive, source vive de changement.
+
+Mais, donc, voilà la question que je pose, alors je la pose d'abord comme en latin, pour mieux
+vous convaincre: et pourquoi que tout ne s'arrêterait-il pas là, c'est-à-dire pourquoi [est ce que]
+toute chose ne serait pas un percipit de la substance, de la monade? Un percipit, qu'est-ce que ça
+veut dire? Ça veut dire un être perçu. Percipere, c'est percevoir, percipit, c'est être perçu. [Pause]
+[23 :00] La monade exprime l'univers et l'inclut, chaque monade inclut l'univers. Ses prédicats
+sont des changements, ou d'un prédicat à l'autre, il y a changement. Les perceptions, nous dira
+Leibniz, sont les actions de la substance. Je le précise parce que ça nous importera plus tard. On
+aurait pu croire plus facile de dire que les perceptions c'était ce que la substance recevait. Vous
+voyez qu'on ne peut pas le dire à moins de ne rien comprendre. [24 :00] On ne peut pas nous dire
+que la substance reçoit ; elle reçoit quoi ? Elle ne reçoit rien. Elle a tout en elle-même. Leibniz
+est le dernier philosophe qui puisse dire que la substance reçoive des perceptions ; elle est unité
+active.
+
+Et un texte entre autres, Leibniz ne l’oublie pas [Pause ; Deleuze cherche dans son édition], texte
+tiré d’une lettre: [25 :00] "L'action propre à l'âme" – l’action -- "L'action propre à l'âme est la
+perception, et l'unité de ce qui perçoit" – c’est-à-dire, la substance – "et l'unité de ce qui perçoit
+vient de la liaison des perceptions suivant lesquelles celles qui suivent dérivent de celles qui
+précédent". On a vu selon quelles lois celles qui suivent dérivent de celles qui précédent: il faut
+que celles qui précédent soient grosses de celles sui suivent. On a vu que, bien sûr, la douleur du
+chien n'était pas, plutôt que le plaisir que le chien avait à manger, n'était pas gros de la douleur
+qu'il allait éprouver quand il reçoit le coup de bâton. En revanche, les petites perceptions [26 :00]
+qui ont précédé les coups de bâton sont grosses de la douleur qu'il va éprouver.
+
+Donc, pourquoi ne pas dire, il n'y a pas de choses ni de corps ? Il y a la monade et ses
+perceptions. Le monde, c'est ce que perçoit la monade, c'est-à-dire que c'est ce qui est dans la
+monade. Dès lors, le monde c'est uniquement le "être perçu" de la monade, c'est ce qui est perçu
+par la monade. [Pause] Et le corps, mon corps, ce serait une région de ce qui est perçu par la
+monade, par ma monade. Et je pourrais dire: [27 :00] "être", c'est ou bien être une monade, ou
+bien être perçu par une monade. Être, c'est être perçu. C'est ce qu'on appellerait un système
+idéaliste. Tout nous y pousse puisque, vous vous rappelez : le monde n'existe pas hors des
+monades qui l'expriment ou l'incluent, le monde n'existe pas hors des monades. Il faut s'en tenir
+là, il faut revenir là. Vous vous rappelez notre schéma: le monde est peut-être l'horizon virtuel de
+toutes les monades, ça n’empêche pas [qu’] il n'existe pas hors de telle, telle, telle et telle
+monade, du nombre = x des monades qu'il inclut. [28 :00] C'est ce qu'on appelle de tout temps de
+l'idéalisme.
+
+Et dès lors, il n'y a pas de choses, il y a des perceptions. Il n'y a pas de coups de bâton, il y a des
+douleurs. C'est ce que Bayle dit très bien à Leibniz: mais de quoi vous avez besoin de faire
+intervenir un coup de bâton ? Il n'y aurait pas de bâton, il n'y aurait pas de coup de bâton, il n'y
+aurait pas de corps du chien, qu'est-ce qui serait changé? [Interruption de la transcription Web
+
+                                                                                                            6
+
+Deleuze] Vous comprenez ? Qu’est-ce qui serait changé ? Absolument rien. Vous auriez l’âme
+du chien qui éprouverait un plaisir. Il n’y aurait pas de repas, mais il éprouverait un plaisir,
+[29 :00] le même plaisir que celui qu’il éprouve d’ailleurs. [Retour à la transcription Web
+Deleuze] Dieu peut tout, donc pourquoi est-ce que Dieu aurait fait des corps ce qui est très
+fatiguant alors qu'il pouvait ne faire que des esprits, des âmes? Rien n'aurait changé: le chien
+éprouverait un plaisir, il éprouverait toutes les petites inquiétudes dont on a parlé, et puis la
+douleur intégrerait ces petites inquiétudes. Tout ça se passe dans l'âme, donc il n'y a aucun
+besoin qu'en plus il y ait un bâton réel. Il y aurait une perception de bâton, et le bâton n'existerait
+pas en dehors de la perception de bâton. Il y aurait une perception de nourriture et la nourriture
+n’existerait pas en dehors de la perception de la nourriture. Esse serait pour un corps ou un objet,
+esse, être, serait percipit, c'est-à-dire être perçu. [30 :00]
+
+Vous comprenez ? "Je [me] croyais arrivé au port." Les monades rendent compte de la totalité,
+elles rendent compte de tout ce que vous voulez. Il suffit de dire: il n'y a que des monades. Et
+pourtant, jamais Leibniz n'a pensé à dire ça, jamais. Alors ça pose un problème: d’abord, il
+pouvait le dire, si c'est vrai qu'il pouvait le dire. En plus, c'est quelqu'un d'autre qui l’a dit. Ça se
+complique. C'est [George] Berkeley. Je fais du Berkeley facile mais là, je ne vais pas
+consacrer… Mais Berkeley est célèbre pour avoir lancé la formule "esse est percipit", et pour
+avoir fondé un nouveau type d'idéalisme d'après lequel il n'y avait que des âmes [31 :00] ou
+esprits.
+
+Et au début de sa philosophie, il présente lui-même son entreprise en disant: il n'y a que les
+irlandais -- c'est un irlandais Berkeley ; [Rires] je trouve ça très important parce que d'abord ça
+fait un lien avec Beckett, [Rires] qui connaît admirablement Berkeley, il le connaît très, très bien,
+oui, et puis, puisqu’il y a tout un film, le petit film de Beckett là, la petite merveille que Beckett a
+faite au cinéma est mise sous le signe "esse est percipit," c’est-à-dire c'est la réponse de Beckett à
+Berkeley, mais ce n’est pas ça que je fais un rapprochement. [32 :00] Mais Berkeley, il passe son
+temps à dire: vous autres Irlandais, du moins dans ses premières œuvres. Il ne dit pas ça par
+malice. Il veut dire: il y a un truc dans ce que je dis que seul un Irlandais peut comprendre. Alors
+ça, ça m'intéresse beaucoup parce que ça poserait vraiment le rapport des philosophes et de la
+philosophie avec les nationalités. Il se vit comme faisant une philosophie pour Irlandais, à l'usage
+des Irlandais.
+
+Bon, esse est percipi : c'est ce qu'il présente d'une autre manière comme une double
+transformation, la double transformation des choses en idées et des idées en choses, ou si vous
+préférez, en impressions sensibles et des impressions sensibles en choses. Il n'y a pas d'autres
+choses que les impressions sensibles. Qu'est-ce que c'est que la table? [33 :00] [Deleuze frappe la
+table] Eh ben, la table, c'est son percipit, son être perçu. Peu importe ce que Berkeley veut dire,
+ça va se révéler très compliqué, etc... Peu importe ; ce n'est pas notre affaire. Mais ce qui va être
+notre affaire, c'est que les premiers livres de Berkeley tournent autour de 1714, et que Leibniz,
+ayant gardé une très grande curiosité d'esprit, les lit. Ce qui est très intéressant, c'est la réaction
+de Leibniz à sa lecture, lecture très rapide, je crois, très rapide. On a des notes ; on a les notes de
+lecture de Leibniz sur Berkeley qui, il est vrai, à ce moment-là, est un très jeune philosophe.
+[34 :00] La première réaction de Leibniz, elle n'est pas bonne. Il dit: c'est un Irlandais
+extravagant! [Rires] Il est vraiment extravagant, ce jeune homme ; il dit des choses pour se
+rendre intéressant ; "esse est percipit", ce n'est pas sérieux. Et puis, d'une manière plus
+
+                                                                                                                7
+
+intéressante, dans ses notes, il les réécrit, et dans ses notes, il marque que ça lui convient tout à
+fait, et que ça, il aurait pu le dire. Je ne dis pas qu'il l'a dit, mais qu’il aurait pu le dire. Il faudrait
+essayer de voir en quel sens il aurait pu le dire, mais justement il ne le dit pas et il ne le dira pas.
+Et ma question, c'est: pourquoi est-ce qu'il ne le dit pas alors que le premier critère de la
+substance lui permettait de le dire?
+
+Voilà en quoi je termine donc l'analyse du premier critère [35 :00] de la substance. Il faut que
+tout ça soit très ordonné pour que vous vous y reconnaissiez tellement tout ça c'est très
+compliqué. Je termine: on est relancé en pleine mer. Pourquoi est-ce que à l'issu de ce premier
+critère, Leibniz ne se réveille pas -- malgré son vieil âge -- pourquoi est-ce qu'il ne se réveille pas
+berkeleyen, c'est-à-dire, disant, eh bien, il n'y a que des monades et leurs perceptions, si bien que
+les corps et les choses sont de simples percipits ? Il n'y a que des âmes ou des esprits, et leurs
+perceptions.
+
+Là je voudrais que vous vous rappeliez certaines choses: [Pause] chaque monade, vous ou moi,
+nous exprimons le monde entier. [36 :00] Remarquez que jamais Berkeley n'aurait dit ça, et vous
+devez pressentir pourquoi jamais Berkeley n'aurait dit ça. Nous exprimons le monde entier à
+l'infini, chacun de nous l'exprime, et le monde n'existe pas hors de nous tous qui l'exprimons.
+Mais vous vous rappelez: chacun de nous a une petite région privilégiée, ce que Leibniz appelle
+son département, [Pause] qu’on peut appeler, oui, sa zone, son quartier. Mais qu'est-ce que c'est?
+C'est la part du monde que nous exprimons clairement ou, [37 :00] dit Leibniz d'une manière
+beaucoup plus mystérieuse, "distinctement" ou, d'une manière beaucoup plus générale, que nous
+exprimons "particulièrement". Là le vocabulaire déjà est très intéressant à étudier:
+particulièrement, clairement, distinctement, une petite partie du monde, c'est-à-dire une portion
+finie: notre département, notre quartier.
+
+Et sur le moment, je vous disais: ben oui, vous avez votre petite zone, par exemple, la date où
+vous vivez, le milieu dans lequel vous évoluez, etc. : ça c'est la portion claire de ce que vous
+exprimez. Et ça, cette région-là, autant vous exprimez l'infinité du monde, autant vous
+n'exprimez clairement qu'une portion limitée. [38 :00] Cette portion limite, c'est votre finitude,
+[Pause] ou, si vous préférez, c'est votre limitation. Pourquoi [est-ce que] c'est votre limitation?
+Parce que c'est ça qui vous distingue de Dieu. Si Dieu est une monade, c'est que, d'une part, lui, il
+exprime tous les mondes, même incompossibles entre eux, et d'autre part, dans le monde qu'il
+choisit, il exprime clairement et distinctement la totalité infinie de ce monde. [Fin de
+l’enregistrement BNF et YouTube ; texte de WebDeleuze] [38 :43] Dieu a tous les départements à
+la fois. Donc ce qui définit la limitation d'une monade comme vous et moi, d'une monade finie,
+la finitude d'une monade, c'est le fait qu'elle n'exprime clairement qu'une toute petite portion du
+monde. [Retour à l’enregistrement BNF & YouTube]
+
+Partie 2
+
+Traduisons, essayons de traduire. Qu'est-ce que j'exprime clairement, qu'est-ce que j'exprime
+clairement dans le monde? [Pause] [39 :00] Peut-être est-ce que vous vous souvenez aussi, j'ai
+insisté beaucoup là-dessus: le prédicat chez Leibniz, ce qui est contenu dans la substance, le
+prédicat est d'autant moins un attribut que, en fait, c'est toujours un événement ou un rapport. Un
+événement, c'est un rapport particulièrement complexe ; on l'a vu quand on a analysé Whitehead,
+
+                                                                                                         8
+
+dans ses rapports avec Leibniz. Mais un prédicat, c'est toujours un rapport. C'est pour ça que ce
+n'est pas un attribut, qui lui est toujours une qualité. Et c’est pour ça qu’il est tellement ruineux:
+croire que le jugement d'inclusion chez Leibniz est un jugement d'attribution, puisque on ne
+comprend absolument [40 :00] plus rien à ce qu'est un prédicat pour Leibniz, une fois dit qu'un
+prédicat, c'est un rapport et ça ne peut être qu'un rapport. Bien.
+
+Qu'est-ce que j'exprime clairement? Il y a une formule qui résume tout, alors pourquoi ne pas
+l’employer ? Et voilà qu'on va l'employer, en même temps qu'elle devrait tout nous simplifier,
+elle va tout nous compliquer. Tant pis ; on sera rejetés en pleine mer. Il serait bien facile et bien
+exact, sûrement, de dire: bien oui, la zone que j'exprime clairement, c'est celle qui touche à mon
+corps. Ce que j'exprime clairement c'est, dans le monde, ce qui a rapport à mon corps. [41 :00]
+Nous retrouvons l'idée de rapport. Le prédicat clair inclus dans la monade, ou l'ensemble des
+prédicats clairs ou particuliers qui définissent mon département, ma zone, mon quartier, c'est
+l'ensemble des événements qui passent par mon corps. C'est ça que je suis voué à exprimer, à
+exprimer particulièrement. On a l'impression que, bon ben ce n'était pas compliqué à dire. Mais
+justement, pourquoi est-ce qu'il ne l'a pas dit, pourquoi est-ce qu'il n'a pas commencé à le dire?
+Pourquoi il le dit dans les Lettres à Arnauld, il dit, et oui: "ce que la monade exprime clairement
+c'est ce qui a rapport à son corps". Voilà que la monade a un corps. [Pause] [42 :00]
+
+Par exemple, la monade Jules César, elle exprime clairement toutes sortes de choses, mais
+regardez bien, tout ce qu'elle exprime à trait à son corps. Même la monade Adam, tout ce qu'elle
+exprime, tout ce qu'elle exprime particulièrement -- être le premier homme, être dans un jardin,
+avoir une femme née de sa côte -- tout ça, c'est ce qui a rapport à son corps. Et vous ne trouverez
+rien dans vos expressions claires qui n'ait rapport à votre corps. Ce qui ne veut pas dire que ce
+que vous exprimez clairement [43 :00] ce soit des phénomènes de votre corps. C'est que ça se
+complique. C'est là qu'on va commencer à nager. Car ça me parait incontestable que ce que
+j'exprime clairement c'est ce qui a rapport à mon corps. Mais ce qui arrive dans mon corps, mon
+corps lui-même, je ne l'exprime pas clairement du tout. Je ne peux pas dire que j'exprime
+clairement les mouvements de mon sang, et bien plus, s’il y a quelque chose qui m'est obscure,
+c'est mon corps. Voilà qu’une chose si obscure est en même temps [Pause] ce avec quoi est en
+rapport pour que je perçoive clairement. [44 :00]
+
+Sentez qu'il va falloir un drôle de statut du corps. Et vous le sentez bien surtout qu'on a un
+embryon de réponse. C'est que le fait d'avoir un corps, il doit bien être en rapport avec les petites
+perceptions. Or les petites perceptions, elles sont obscures et confuses. Ce que j'exprime
+clairement, le clair, c'est lorsque j'intègre des petites perceptions. Alors je tire quelque chose de
+clair de tout ce fond obscur. Tirer quelque chose de clair d'un fond obscur, c'est une très drôle
+d'opération. Chez Descartes, ça n'arrive jamais. C'est proprement leibnizien: le clair, c'est ce qui
+se tire d'un fond obscur. [45 :00] Bien plus, il n'y a pas de clarté qui ne se tire d'un fond obscur.
+On disait: c'est une conception baroque de la lumière, par opposition à une conception classique.
+Mais ce n’est pas à revenir à tout ça ; tout ça est très cohérent.
+
+Vous voyez, invoquer le corps, ça va nous soulever toutes sortes de problèmes, mais ce que je
+dis, c'est: voyez dans quel ordre on peut l'invoquer. Voilà ma question: est-ce que je peux dire,
+oui ou non, est-ce que je peux dire j’exprime, moi monade, moi esprit, j'exprime [46 :00]
+particulièrement ou clairement une région du monde parce que j'ai un corps et parce que c'est
+
+                                                                                                      9
+
+cette région là qui concerne mon corps ou qui est en rapport avec mon corps ? En d’autres
+termes, est-ce que, ou plutôt en mêmes termes, je recommence : est-ce que c'est parce que j'ai un
+corps que j'exprime clairement une partie du monde qui a rapport à ce corps ? [Pause] Réponse
+radicale: non, impossible! Pourquoi impossible? Eh ben, parce que Leibniz ne serait pas Leibniz,
+parce qu’on ne serait pas en train de parler de Leibniz, on serait en train de parler d'autre chose.
+[47 :00] On serait en train de parler d'une philosophie qui depuis longtemps nous aurait expliqué
+ce que c'était qu'un corps. Et on a vu que le chemin est même l'inverse. Ce qu'il faut dire, c'est
+quoi? Là, je n'ai pas le choix, mais je préfère beaucoup la seconde proposition à la première, elle
+est plus intelligente. Il faut dire: j'ai un corps parce que mon âme exprime clairement une petite
+région du monde. C'est la seule chose que je puisse dire.
+
+Que j'ai un département, c'est-à-dire que mon âme exprime clairement une petite région du
+monde, [48 :00] c'est la raison suffisante d'avoir un corps. Si bien que je pourrais dire à ce
+moment-là: oui, ce que j'exprime clairement c'est ce qui a rapport à mon corps, pour une raison
+très simple: c'est que mon corps se déduit de la région claire que j'exprime. En d'autres termes, ce
+que je dois faire, c'est une genèse du corps. Cette genèse du corps m'interdit de commencer par
+lui. On pourra me dire: j'ai un corps de tout temps? Oui, j'ai un corps de tous temps ; vous vous
+rappelez peut-être: avant de naître, j'avais un corps ; après ma mort, j'ai un corps. [49 :00] La
+question, ce n'est pas si j'ai un corps de tout temps ; la question c'est: quoi dérive de quoi? Et
+l'ordre m'est fixe. Pourquoi est-ce que j'exprime une petite région claire, alors que j'exprime le
+monde tout entier, mais obscurément? Pourquoi est-ce que j'exprime clairement une petite
+région? On a vu qu'on ne pouvait pas répondre: "parce que j'ai un corps". C'est, au contraire,
+parce que j'exprime clairement une petite région que, dès lors, j'ai un corps, genèse du corps.
+D'où nécessité de la question: mais alors, pourquoi [est-ce que] tu exprimes une petite région
+claire puisque ce n'est pas parce que tu as un corps, c'est le contraire, c'est parc... non merde, c'est
+le contraire... enfin vous avez compris ! [Rires]
+
+On l'a vue, la réponse, si vous vous la rappelez. [50 :00] On a vu que chaque monade était
+construite au voisinage d'un petit nombre de singularités, chaque monade est construite autour
+d'un certain nombre de singularités prolongeables dans d'autres singularités, jusqu'au voisinage
+d'autres singularités. Mais chaque monade est construite autour d'un certain nombre de
+singularités principales. J'exprime le monde parce que les singularités principales, autour
+desquelles je suis constitué, se prolongent dans toutes les directions vers les autres, et au
+voisinage des autres singularités. [Pause] [51 :00] Mais je suis construit autour d'un petit nombre
+de singularités privilégiées. Celles d'Adam, c'est: être un premier homme, être dans un jardin,
+avoir une femme née de sa cote, cherchez les autres. [Rires] L'âme de chacun est un condensé
+d'un ensemble de singularités limité. Pourquoi est-ce qu'il exprime le monde illimité? Parce que
+ces singularités se prolongent jusqu'au voisinage de toutes les autres singularités, mais chacun de
+nous est construit autour d'un petit nombre de singularités. C'est parce que chacun de nous est
+construit autours d'un petit nombre de singularités -- [52 :00] là je m'avance un peu: la réponse
+n'est jamais donnée telle quelle par Leibniz, là je vous en préviens quand… mais qui me paraît
+suggérée par les textes, suggérée d'une manière aussi forte que s’il l'avait dit, donc il l'a dit,
+[Rires] mais il l'a dit dans des textes qui ne nous sont pas parvenus. Mais ils n'en existent pas
+moins, qu’on trouvera un jour. Et puis c'est forcé ; c’est pour ça parce que les autres réponses
+sont, il me semble, impossibles. Quand même il n'est pas loin, mais enfin, peu importe. Je
+n'aurais jamais dû dire ça....
+
+                                                                                                   10
+
+Vous voyez la genèse ; première proposition: bien entendu chaque monade exprime le monde
+entier, mais [53 :00] chaque monade individuelle, qu'est-ce que c'est être un individu? C'est
+concentrer, concentration -- mot que Leibniz emploie -- concentration d'un ensemble limité de
+singularités. Je n'en exprime pas moins le monde entier parce que, encore une fois, ces
+singularités sont prolongeables jusqu'au voisinage de toutes les autres singularités. Donc
+première proposition: je suis construit au voisinage d'un certain nombre de singularités, ou d'un
+ensemble déterminé de singularités.
+
+Deuxième proposition: dès lors, c'est ça la raison pour laquelle j'exprime une portion déterminée
+du monde, celle qui [54 :00] unit ces singularités constituantes. Mais j’exprime confusément le
+monder entier, c’est-à-dire toutes les singularités du monde que Dieu a choisi. Mais je fais mon
+quartier, ou mon département, de la portion du monde délimitée par mes singularités
+constituantes. Troisième proposition: j'ai un corps [Pause] parce que j'exprime une région
+privilégiée, [Pause] si bien que je pourrais dire: ma région privilégiée, [55 :00] c'est ce qui a
+rapport à mon corps. [Interruption de la transcription Web Deleuze] La région privilégiée de
+mon esprit, ce qui a rapport à mon corps.
+
+Là-dessus, je suis lancé dans toutes sortes de problèmes, notamment comment expliquer que
+mon corps ne soit que perçu obscurément par ma monade. Je me contente uniquement de ceci :
+chaque monade a un corps et doit avoir un corps. Chaque monade a un corps, je ne sais pas. Non,
+tout ce que je peux dire, c’est que chaque monade doit avoir un corps. Elle doit avoir un corps
+puisque l’exigence d’avoir un corps découle de la portion claire que j’exprime. [56 :00] Voilà,
+j’en ai fini avec le premier point.
+
+Dès lors, voyez que lorsque dans le premier point j’introduisais la monade comme unité de
+mouvement, c’était justifié dans la mesure où j’ai un corps et où, dès lors, il y a des corps.
+[Pause] Pourquoi pas un seul corps ? Cela, on le verra, parce que la loi du corps, c’est
+précisément subir l’action d’autres corps. Et peu importe. Voilà le premier point. Il faut que ce
+soit très clair. C’est clair… Pas de… ? Si vous renversez l’ordre, à mon avis, ça n’est plus
+Leibniz. Si vous partez du corps, c’est fichu. [Pause] [57 :00] Comprenez ? C’est une déduction
+génétique du corps qu’il nous propose à ce niveau. [Pause] Pas de problèmes ?... Oui ?
+
+Un étudiant: [Propos inaudibles]
+
+Deleuze: Je vais vous dire que vous n’êtes pas assez sévère même. [58 :00] En toute rigueur, à ce
+niveau, ce que je peux dire, ce n’est même pas [que] les êtres animés ont un corps. Ce que je
+peux dire, c’est, les âmes raisonnables ont un corps. Je ne peux rien dire d’autre même ; je ne
+peux rien dire d’autre parce que [Retour à la transcription Web Deleuze] on est parti de la
+monade. Pour le moment, la monade, pour nous, c'est un esprit qui exprime le monde entier sous
+les espèces de la raison, c’est-à-dire c'est vous ou moi. Les bêtes, nous les avons rencontrées. Les
+bêtes, nous les avons rencontrées. Mais on ne sait pas ce que c'est, on les a rencontrés comme ça,
+parce qu'on les a fait intervenir. On ne sait pas ce que c'est. [59 :00] Et les choses, l'exemple tant
+aimé de Leibniz pour vous plaire: l'arc-en-ciel, tout ça. Les bêtes et les phénomènes du type: la
+lumière, l'arc-en-ciel, etc., ils sont pour le moment -- vous sentez qu'ils doivent faire partie, et
+votre question est très juste -- qu'ils doivent faire partie de la genèse. Ils doivent survenir à un
+moment. À quel moment? On ne sait pas, on ne sait pas encore. [Pause]
+
+                                                                                                   11
+
+Deuxième critère de la substance, la substance étant toujours prise comme monade présentée
+comme esprit d'un être raisonnable. [Pause] [60 :00] On vient juste de voir qu’en vertu du
+premier critère, la monade comme esprit d'un être raisonnable devait avoir un corps. Et pourquoi
+[est-ce qu’] elle doit avoir un corps? Elle doit avoir un corps, encore une fois, parce qu'elle
+exprime un département privilégié, parce qu'elle a un département privilégié dans son expression
+totale.
+
+Critère épistémologique, deuxième critère. Pourquoi [est-ce que] je l'appelle critère
+épistémologique? On l'a vu, c'est parce que j'ai insisté sur l’originalité de la logique de Leibniz
+qui consiste à réclamer une définition en fonction des réquisits de la chose. Et qu'est-ce que c'est
+les réquisits de la chose? C'est déjà quelque chose [61 :00] de très nouveau: ce sont les
+conditions, ce sont les conditions constitutives de la chose. Il faut distinguer les conditions
+constitutives de la chose des parties constituantes. [Pause] Les réquisits ne sont pas des parties
+constituantes ; ce sont des conditions auxquelles la chose doit obéir pour être ce qu'elle est.
+[Pause]
+
+Or on a vu que, sur ce point aussi, Leibniz s'accrochait avec [62 :00] Descartes, puisque le
+second critère de la substance chez Descartes, c'était -- vous vous rappelez -- la distinction réelle,
+que deux choses soient conçues sans que l'une soit pensée en faisant intervenir des éléments de
+l'autre. [Pause] Et que pour Descartes, deux choses réellement distinctes, c'est-à-dire [choses]
+pensées comme réellement distinctes, on a vu que c'était la même chose, qu'il s'agissait toujours
+de penser dans la distinction réelle, eh bien, que deux choses pensées comme réellement
+distinctes étaient séparables. [Pause] [63 :00] Descartes pourrait ajouter: et bien plus, et ce qui
+est séparable est séparé, et ça c'est autre chose. Si ce qui est séparé est séparable pour Descartes,
+c'est parce que, sinon, Dieu serait trompeur ; il nous ferait penser des choses comme séparables,
+et il ne les séparerait pas. Donc il nous mentirait. [Pause]
+
+Leibniz répond une seconde fois: non! Il dit: ce que Descartes n'a pas vu, c'est que deux choses
+peuvent être réellement distinctes, c'est-à-dire pensées comme réellement distinctes, et pourtant
+avoir les mêmes réquisits, c'est-à-dire avoir les mêmes conditions constituantes. Or deux choses
+qui ont les mêmes réquisits peuvent [64 :00] être réellement distinctes, et pourtant elles ne sont
+pas séparables. Et la grande idée de Leibniz, c'est que rien n'est séparable dans le monde. [Pause]
+Exemple : les monades. Elles sont réellement distinctes ; l'une peut être pensée sans l'autre. Elles
+ne sont pas séparables pour cela ; bien plus, elles sont inséparables. Pourquoi? Parce qu'elles ont
+les mêmes réquisits. Quels réquisits? Le monde commun qu'elles expriment : [65 :00] chacun de
+son point de vue exprime un seul et même monde ; elles sont réellement distinctes puisque les
+points de vue sont réellement distincts. Vous pouvez penser la monade César sans rien penser de
+la monade Alexandre, ça n'empêche pas qu’elles ne sont pas séparables ; elles ne sont pas
+séparables Elles ont les mêmes réquisits; elles expriment un seul et même monde. Et il faut bien
+que ce réquisit singulier, toutes les singularités d'un même monde, s'exprime en termes généraux,
+c'est-à-dire, du point de vue d'une logique des réquisits, qu'est-ce qu'on va dire? [66 :00]
+
+On l'a vu la dernière fois, on commençait à le voir : c'est là qu'il [Leibniz] fait sa grande
+réactivation d'Aristote pour se moquer de Descartes. Descartes croyait en avoir fini avec Aristote
+et avec les abstractions aristotéliciennes qui consistaient à nous dire: la substance est composée --
+vous voyez, c'était assez loin de Leibniz, là, des parties composantes -- la substance est
+
+                                                                                                      12
+
+composée d'une matière, d'une forme et de l'ensemble de la matière et de la forme. [Aristote]
+ajoutait: la matière est puissance [67 :00] de recevoir les contraires ; c'est ça le changement, d'où
+la substance est unité du changement. C'était proche de Leibniz, la matière est puissance de
+recevoir les contraires. L'un de ces contraires est: possession de la forme. Dés lors, la forme est
+l'acte qui fait passer la puissance à l'acte, et la forme qui actualise la puissance, et la matière sans
+la forme, c'est la privation. [68 :00] D'où le couple sous lequel, plutôt le trio sous lequel, ou
+plutôt la condition sous laquelle vous pensez le trio matière-forme-composé des deux, c'est la
+distinction, c'est l'opposition possession-privation. C'était tout un ensemble de réquisits de la
+substance.
+
+Et voilà ce que dans son projet [de Leibniz] -- qui est à la fois garder, encore une fois, des acquis
+du cartésianisme pour les retourner contre Descartes et réactiver Aristote -- voilà comment
+Leibniz [69 :00] va reprendre le problème, et il va le présenter comme le problème des réquisits
+de la substance. Et c'est le plus difficile de ce que j'ai à vous dire aujourd'hui, donc on va assez
+doucement.
+
+Pour qu'il y ait substance, il faut d'abord qu'il y ait unité active. On l'a vu, c'était lié au premier
+critère. Mais, vous vous souvenez, on peut le tirer, on peut l'extraire du premier critère, puisque
+l'unité, elle pouvait être aussi bien unité d'un mouvement qu’unité d'un changement intérieur à la
+monade. Pour qu'il y ait substance, il faut, de toute manière, qu'il y ait unité, unité active ou
+spontanéité. Ce qu'on appellera forme substantielle, [70 :00] ou suivant un terme aristotélicien --
+que je n'ai pas le temps de définir, sinon on s'y perdrait dans tout ça, mais si vous le trouvez, ne
+vous inquiétez pas -- l'acte parfait, c’est-à-dire Entéléchie, [Deleuze l’épèle] la forme
+substantielle achevée ou l'entéléchie parfaite, la forme substantielle, l'entéléchie, c'est cette unité
+active, c'est-à-dire ce qu'on a appelé pour le moment: monade. C'est la spontanéité. On
+l'appellera puissance active primitive. Vous voyez déjà que puissance ne s'oppose plus à acte,
+[71 :00] mais la puissance passe à l'acte, et elle n'a besoin de rien d'autre qu'elle même pour
+passer à l'acte.
+
+Puissance active primitive. Pourquoi? Parce qu'elle ne fait pas passer à l'acte une puissance ou
+une matière ; elle est en elle-même puissance d'agir: ça va être, et ça, Leibniz l'emprunte à la
+Renaissance, c'est-à-dire aux aristotéliciens qui ont singulièrement changé le rapport puissanceacte, à savoir: la puissance est elle-même puissance d'agir. Il n'y a plus un acte qui actualise une
+puissance, [72 :00] il y a une puissance qui passe à l'acte, si rien ne l'empêche. C'est pour ça
+qu'elle est dite : puissance. Si rien ne l'empêche, elle passe à l'acte, spontanéité de la puissance
+active.
+
+D'où l'expression splendide de Nicolas de Cues, philosophe de la renaissance auquel Leibniz doit
+beaucoup, quand il parle du "possest". Pour ceux qui savent du latin, possest, c'est un mot
+composé de "posse", pouvoir, et "est", est. Ça veut dire exactement: la puissance qui n'est pas
+puissance d'Etre, [73 :00] mais la puissance qui Est, la puissance qui est acte, la puissance en
+acte, le possest. Chez Leibniz, encore une fois, vous trouvez constamment ce terme, puissance
+primitive active. Vous voyez que ce n'est pas une forme, forme substantielle, mais ce n'est pas
+une forme qui agit sur une matière ; c'est une forme, dira Leibniz, dont toutes les actions sont
+internes. Si rien ne l'empêche, elle passe à l'acte. Très souvent Leibniz nous dira que la monade,
+
+                                                                                                      13
+
+[74 :00] par définition, n'a d'actions qu'internes. Elle est active et toutes ses actions sont internes,
+pourquoi? En vertu du principe d'inclusion, en vertu du principe d'inhérence.
+
+Donc il y a puissance active parce que l'acte ne s'exerce pas sur une matière extérieure, mais la
+puissance est en acte puisque toutes ses actions sont intérieures. [Pause] Je dirais: la forme
+substantielle s'est identifiée chez Leibniz à la substance comme sujet, c'est-à-dire à la monade,
+c'est-à-dire à la puissance active dont toutes les passions sont internes. [Pause] [75 :00] Et vous
+l'avez vu: qu'est-ce que c'est que les actions internes de la substance, de la monade ? Ce sont ses
+perceptions. Les perceptions sont les actions de la monade. [Pause]
+
+Seulement voilà, deuxième réquisit: il est vrai que notre différence avec Dieu, c'est que nous
+sommes limités. Et on l'a vu, là aussi et ça s'explique tout seul, on a vu que chez Leibniz, de
+même qu'il y avait un [76 :00] remaniement absolu des rapports puissance-acte, il y avait un
+renoncement à l'opposition privation-possession. Au profit de quoi? De la limitation. [Pause]
+Notre seule privation, c'est que nous soyons limités. Nous sommes limités parce que nous
+sommes des créatures: les monades sont limitées. Mais ce n’est pas parce que on est limité qu’on
+n’a pas des actions même infinies, il le dira; c'est autre chose. Mais en tous cas, parce que nous
+sommes limités, nous n'avons une région d'expression claire, on l’a vu, que très partielle. La
+marque de la limitation dans la monade c'est précisément que nous n'ayons qu'un seul
+département.
+
+La limitation n'empêche pas l'action. [77 :00] Une autre lettre: [Pause] "Je réponds que même
+lorsqu'elle est empêchée" -- la substance – "lorsqu'elle est empêchée" -- c'est-à-dire, lorsque sa
+force active, sa puissance active est empêchée --, "même lorsqu'elle est empêchée, elle exerce
+simultanément des actions infinies car, comme je l'ai déjà dit, aucun empêchement ne supprime
+complètement l'action". Ensuite viennent des considérations sur le corps, etc. C'est tout le temps
+merveilleux. [78 :00] Bon. La monade est limitée. C'est le deuxième réquisit. Le premier réquisit
+c'est: puissance primitive active. La limitation, Leibniz lui donnera le nom de puissance
+primitive, également primitive, passive. [Pause]
+
+Seulement voilà le problème: comment il définit la limitation? [Pause] Comment il définit la
+limitation? C'est très important là, parce que toujours du point de vue de la genèse [79 :00] dans
+lequel on est. En toute rigueur, j'invoque les Lettres au père Des Bosses, comme une bosse en
+deux mots, les Lettres au père Des Bosses qui sont des lettres de la fin de sa vie, donc on peut
+considérer qu'elles expriment l'état final de sa pensée. Il ne cesse de nous dire: la limitation est
+exigence. La limitation, c'est exigence de quoi? Elle est l'exigence d'étendue et – mot un peu
+mystérieux -- d'antitypie, d’antitypie. L'antitypie, c'est la résistance ou l'inertie. [80 :00] Pour des
+raisons que nous verrons peut-être plus tard, ou peut-être on n’aura pas le temps de les voir,
+Leibniz pense que l'étendue est incapable de rendre compte elle-même de l'inertie et de la
+résistance.
+
+Donc, ce ne sont pas deux choses, et nous, nous le savons, que ce n'est pas la même chose. Car
+on l’a vu, vous vous rappelez ? Je vous le rappelle très brièvement: l'étendue, c'est une série, c'est
+une série infinie dont les parties s'organisent suivant les rapports de Tout-parties, et qui ne tend
+vers aucune limite; [Pause] tandis que la résistance ou l'antitypie, c'est la limite vers laquelle
+tend quelque chose, dans l'étendue, [Pause] [81 :00] qui entre dans une série convergente. Mais
+
+                                                                                                     14
+
+peu importe. Leibniz nous dit: la limitation, c'est une exigence, ou c'est l'exigence d'étendue et
+d'antitypie, ou l'exigence d'étendue et de résistance. Il l’appellera masse, [82 :00] mais comme
+signale un commentateur, le latin a deux mots pour dire "masse". Il appelle "masse" en latin
+"moles" [Deleuze l’épèle], et il précise: masse sans forme. En fait, cette masse sans forme -- vous
+voyez pourquoi c'est sans forme? -- ce n'est même pas de l'étendue, ce n'est même pas de la
+résistance, c'est une exigence. En d'autres termes, c'est un réquisit à l'état pur. Alors, si vous
+dites: c'est là qu'intervient l'étendue, vous vous trompez ; l'étendue n'intervient certainement pas
+là. C'est là qu'il y a une exigence d'étendue. [83 :00] La limitation, c'est une exigence d'étendue et
+de résistance, sous-entendu de résistance au mouvement, mais on ne sait pas, ou de résistance au
+changement. On peut dire, exigence d’étendue… [Pause]
+
+On dira, si j’en reste là, on dira: la monade comme substance, comme substance spirituelle, a
+deux réquisits: [Pause] la forme substancielle ou entéléchie ou puissance active primitive, et la
+limitation, [Pause] [84 :00] ou exigence d'étendue et de résistance. Si vous voulez en tirer plus,
+vous n'avez pas le droit, à mon avis; pour le moment, c'est bloqué. On ne peut pas en dire plus.
+Reste un problème, vous pouvez toujours analyser cette exigence. Je peux vous dire déjà d’où
+elle viendrait, et ça va nous engager. Peut-être que je serai forcé de vous le répéter.
+
+Je dis très vite: ce n'est pas rien, cette histoire, pour que vous pressentiez un peu la cohérence
+profonde. Vous vous rappelez que chaque monade a un point de vue. Le point de vue permet de
+définir, déjà, quelque chose dont on a pas du tout parlé, qui est ce que Leibniz appelle: [85 :00]
+l'espace, à savoir, en latin -- on ne peut que parler latin, sinon on va tout embrouiller -- : le
+spatium. Le spatium n'a strictement aucune réalité physique et ne concerne pas les corps. Le
+spatium est un ordre logique, c'est l'ordre des points de vue coexistants; [Interruption de
+l’enregistrement BNF & YouTube ; texte de WebDeleuze] [1 :25 :30] ça n'implique aucune
+étendue physique ni même géométrique. Le spatium, c'est l'ordre des points de vue coexistants,
+ou si vous préférez c'est l'ordre des places coexistantes, les places étant des points de vue.
+[Retour à l’enregistrement BNF & YouTube]
+
+Partie 3
+
+Qu'est-ce que c'est que l'exigence d'étendue et de résistance ? C'est la diffusion des places.
+[Pause] C'est une conséquence du spatium. Il n'est toujours pas question d'étendue. C'est une
+exigence d'étendue, [86 :00] une exigence d'antitypie. [Pause]
+
+A la limite, je peux dire quoi? Ben oui, la limitation, c’est quoi ? Cette exigence d'étendue,
+finalement qu'est-ce que c'est? La limitation de chaque monade, c'est le fait qu'il y ait plusieurs
+monades, le fait qu'il y ait une infinité de monades. Je dirais presque: ma limitation, c'est l'ombre
+des autres monades sur la mienne. Tout commence par l'ombre. [87 :00] Remarquez que ma
+situation n'est pas brillante! L'ombre des autres monades sur la mienne, est-ce que ce ne serait
+pas une manière de rejoindre quelque chose ? Qu'est-ce que c'est ma limitation? Je répète la
+question pour donner à chaque fois une autre réponse. Ma limitation, c'est le fait que je n'exprime
+clairement qu'une toute petite portion d'univers, et que le reste gise dans mon fond obscur. Ma
+limitation, c'est le fond obscur de mon âme. [Pause]
+
+                                                                                                      15
+
+Bien. Qu'est-ce que le fond obscur de mon âme? Je peux recommencer: c'est le fait que je ne
+puisse exprimer clairement qu'une petite portion. Pourquoi [est-ce que] je ne peux exprimer
+clairement qu'une petite portion? On l'a vu. Mais la réponse [88 :00] ultime, c'est toujours, c’est:
+parce qu'il y a d'autres monades. En d'autres termes, qu'est-ce qui fait le fond obscur de mon
+âme? L'ombre que jettent sur moi les autres monades. C'est votre ombre qui fait mon fond
+obscur, [Interruption de la transcription WebDeleuze] à charge de revanche. [Pause]
+
+On ne communique pas autrement. C’est une merveille, ça. C’est Leibniz, vous vous
+rappelez ? Les monades sont sans portes ni fenêtres. Elles ne se communiquent pas puisqu’elles
+n’ont strictement rien à se dire. Elles n’ont strictement rien à se dire, elles expriment toutes le
+même monde de leur point de vue, chacune de son point de vue. Chacune n’a qu’une petite
+portion claire d’expression, un petit département, son quartier, d’accord. [89 :00] J’ai mon
+quartier, vous avez le vôtre. Tout le reste, c’est le fond obscur de chacun de nous. On, on, --
+comment dis-je là quand on trempe les pieds ? Je ne sais plus quoi, là – enfin, [Retour à la
+transcription WebDeleuze] on barbotte, on barbotte dans ce fond obscur, ou on patauge. Et
+qu'est-ce que c'est ce fond obscur de votre ombre sur moi? La seule chose que vous me donniez.
+Notez que c'est formidable: donner un peu d'ombre aux autres, quoi de plus beau?
+
+Un étudiant [près de Deleuze] : Diogène n’aimerait pas ça !
+
+Deleuze : Diogène, est-ce qu’il ne l’aurait pas aimé ? C’est qu’il se serait arrangé, eh ? Je ne sais
+pas. C’est son… [90 :00] En tout cas, il n’y a pas lieu de faire des reproches, pas du tout, parce
+que qu’est-ce que… Il faut ce fond obscur. Il est absolument nécessaire sans que j’arrive à être
+un être quelconque. [Retour à la transcription Web Deleuze] Il me faut tout ça, il me faut toute
+cette ombre sur moi. Vous comprenez?
+
+Je dirais donc: l'exigence d'étendue et d'antitypie, elle est si peu étendue et antitypie, elle ne l'est
+pas encore, que, en toute rigueur, elle est l'ombre que toutes les autres monades portent sur
+chacune. Par-là même, elle constitue le fond obscur de chaque monade. Vous voyez qu’on n'en
+sort pas, toujours, on est toujours… Il me faut un corps, [91 :00] mais dans la genèse, on n’en est
+même pas à l'exigence d'un corps, mais l'exigence de [Pause] quelque chose que je puisse
+nommer étendue et inertie. Et je ne peux analyser que cette exigence. Et je dirais, avec mes deux
+premiers réquisits, je dirais: la puissance primitive active et la puissance primitive passive sont
+les deux réquisits de la substance dite monade, substance que je peux appeler : substance simple,
+maintenant que tout danger est conjuré puisque je sais que "simple" ne définit pas la substance.
+[92 :00] Ce qui définit la substance, c'est les deux réquisits. Je peux ajouter: la limitation n'est
+pas séparable de la puissance active. [Pause] Les monades simples sont toutes séparables les
+unes des autres… Non, même pas ; pardon, je dis des bêtises. Les monades simples sont
+réellement distinctes les unes des autres, mais elles ont les mêmes réquisits, et ces réquisits sont
+eux-mêmes inséparables. Et elles ne sont pas séparables elles-mêmes, les monades, puisque
+chacune emporte l'ombre de toutes les autres. [93 :00] Voilà.
+
+Qu'est-ce qui nous reste ? Le plus difficile, et après, qu’est-ce qui va se passer ? À savoir, nous
+avons une exigence ; comment l'exigence va-t-elle se réaliser? Comment les réquisits vont-ils
+être remplis? J'ajoute, ah oui, j'ai oublié l'essentiel: la puissance passive primitive ou limitation,
+c'est cela -- méfiez-vous des textes, méfiez-vous --, ou "moles", la masse au sens de moles, masse
+
+                                                                                                       16
+
+qui ne comporte encore ni étendue ni inertie, qui est exigence d’étendue et d’inertie ; c'est ce que
+Leibniz appelle: matière première [94 :00] ou nue, toute nue, matière première ou matière nue.
+Si vous me dites: montrez-la-moi, je ne peux pas vous la montrer, c'est une exigence. En tout cas,
+elle ne comporte encore rien d'étendue ; elle est pure limitation. Elle est exigence d'étendue.
+
+Troisième point, toujours dans ce second critère, vous voyez tout de suite là où on ne peut plus se
+défiler : comment l'exigence va-t-elle être réalisée? -- [Pause ; interruption, question d’un
+étudiant] Oui, juste une tout petite seconde que je cherche ça… -- [95 :00] Sentez tout de suite ce
+que notre réponse va être, mais que ça va être compliqué à montrer: la seule chose qui puisse
+réaliser l'exigence d'étendue et d'antitypie… Vous devez m'attendre au tournant normalement, ou
+plutôt attendre Leibniz au tournant, ça serait qu'il nous réponde: c'est l'étendue et l'antitypie, et
+qu'il nous montre comment alors l'étendue vient réaliser l'exigence d'étendue? Ce serait nul, ce
+serait nul, ce ne serait pas de la philosophie, pas possible. Je ne peux pas fonder une exigence
+d'étendue et puis répondre que c'est l'étendue qui réalise l'exigence d'étendue. Ce serait alors le
+pire verbalisme. Aussi vous sentez ce que doit être la réponse là: il faut se laisser guider par les
+nécessités, [96 :00] sinon on est perdus! Là encore on n’a pas le choix parce que Leibniz, il n'a
+pas le choix: il ne peut y avoir qu'une réponse. C'est le corps. C'est lorsque nous avons un corps
+et en tant que nous avons un corps, que la limitation conçue comme exigence d'étendue et
+d'antitypie est réalisée; seul le corps peut réaliser l'exigence.
+
+Mais alors le corps, ce n'est pas de l'étendue? Ce n’en est pas? Ou alors il la fabrique, il la
+sécrète? Peut-être que le corps sécrète l'étendue? Et il sécrète l'antitypie? Peut-être qu'il fait tout
+ça! Ça devient possible à dire, je ne sais pas si c'est possible à montrer. Mais la seule réponse, on
+est bloqué, sinon, [97 :00] il faut arrêter, ce serait bien: si Leibniz avait arrêté, il faudrait arrêter
+là; on n’irait pas. Il n'a pas pu aller plus loin, il a été englouti par la haute mer, ou, comme
+Nietzsche, il s'est arrêté ; il a eu un petit accident qui l'a fait s'arrêter. Sinon, nous on a la tâche
+pénible: il faut continuer, il faut continuer, il faut continuer! Nous savons au moins où nous
+attendons notre réponse, on n’a pas le choix: seul le corps peut remplir l'exigence. [Question
+d’un étudiant] Oui ?
+
+Un étudiant : [Sur le problème du mal chez Leibniz] [98 :00]
+
+Deleuze: Non, c'est absolument juste. Le mal… Mais là, il faut distinguer ce qui est leibnizien et
+ce qui est général, ce qui est un thème général de l’époque -- ceci ne veut pas dire que ce n’est
+pas bien comme généraux -- ce qui appartient à [Leibniz] et ce qu'on retrouve un petit peu
+partout. Ce qu'on retrouve un petit peu partout, au dix-septième siècle, dans la philosophie, c'est
+l'idée que le mal a pour source unique la limitation ; la limitation étant condition de toute
+créature, [99 :00] Dieu est responsable du Bien, mais n'est pas responsable du Mal. Il n'y a de
+créature que limitée ; la limitation est la source du mal. Ça, ce n'est pas leibnizien, c'est général.
+Vous le trouvez chez Descartes, chez Spinoza, et cela vient d'une opération alors plus profonde.
+Ce n'est pas simplement une platitude théologique ; c'est leur conception d'après laquelle -- c'est
+leur anti-aristotélisme --, il n'y a pas de privations, il n'y a que des limitations. Ce qui est une
+thèse extrêmement originale, qui a occupé tout le dix-septième siècle: la tentative de réduire la
+privation à une simple limitation. Ça, c'est un premier point, c'est général.
+
+                                                                                                      17
+
+Deuxième point qui te donne raison, propre à Leibniz: Leibniz [100 :00] a une manière originale
+de concevoir le rapport propre entre la limitation et la positivité, la puissance positive. Cette
+manière originale -- alors Spinoza en a une autre, Descartes en a une autre, Malebranche en a une
+autre, je crois, chacun dans l'originalité de sa philosophie a une certaine manière de concevoir le
+rapport entre la réalité, qui est nécessairement positive, la réalité positive et la limitation, la
+limitation de cette réalité -- La manière originale de Leibniz, nous l'avons vue -- si on veut la
+comparer aux autres, ce serait [101 :00] un tout autre sujet -- alors je me tiens à ça en disant,
+l'originalité de Leibniz me paraît être celle-ci: c'est que la limitation est par lui conçue comme
+puissance primitive passive, c'est-à-dire exigence d'étendue et de résistance; ça, c'est propre à
+Leibniz. Si vous préférez, je vais dans un texte encore plus précis, dans un texte de la Théodicée,
+qui nous sera très important, mais lorsqu'on en sera à la physique. Et ce texte, il faut que je le
+retrouve parce que… Je l’ai noté quelque part, mais il indique bien l’originalité de… [Pause]
+[102 :00] Théodicée, première partie, paragraphe 30 -- ça sera bien parce que pour la prochaine
+fois j'aimerais bien que certains d'entre vous le lisent -- : [Pause] "La matière est portée
+originairement à la tardiveté ou à la privation de la vitesse..." Peu importe s’il s’agit ici d’une
+matière physique, vous allez voir ensuite. Voilà ce qu’il dit, ça mérite alors… Je me permets de
+développer maintenant ce texte, parce qu'il est très beau, et vous allez voir, je pourrais le placer
+là justement en réponse à cette question.
+
+Leibniz prend un exemple physique alors qu'il s'agit du problème de la métaphysique et de la
+limitation métaphysique des créatures. [103 :00] Il dit: pour que vous compreniez le problème de
+la limitation métaphysique des créatures, il faut que je vous explique quelque chose qui concerne
+la physique, ça vous aidera. Et voilà ce qu'il dit: "Posons que le courant d'une même rivière
+emporte avec soi plusieurs bateaux qui ne diffèrent entre eux que par la charge, les uns étant
+chargés de bois, les autres de pierres, et les uns plus, les autres moins." – Voyez, sur la même
+rivière, au même moment, il y a ces bateaux ; vous supposez la rivière égale pour tous les
+bateaux, le courant égal pour tous les bateaux, c’est l’hypothèse physique -- "Cela étant, il
+arrivera que les bateaux les plus chargés iront plus lentement que les autres [104 :00] pourvu
+qu'on suppose que le vent, ou la rame, ou quelque autre moyen semblable ne les aide pas".
+
+Donc ils suivent le courant, ils sont plus ou moins chargés, eh ben, les plus chargés vont plus
+lentement que les autres. Voyez ? Ils n'ont pas la même matière, je dirais, première, ils n'ont pas
+la même masse. "Ce n’est pas…"… Alors, première possibilité: est-ce que c'est la pesanteur qui
+explique ça, que les bateaux aillent plus ou moins vite? Réponse: "Ce n'est pas proprement la
+pesanteur qui est la cause de ce retardement" -- du fait que certains bateaux aillent plus
+lentement, ce n’est pas la pesanteur – "puisque les bateaux descendent au lieu de monter,
+[105 :00] mais c'est la même cause qui augmente aussi la pesanteur dans les corps qui ont plus de
+densité" -- il ne faut surtout pas faire intervenir la pesanteur seule dans les corps qui ont plus de
+densité, c'est-à-dire, qui sont moins spongieux et qui sont plus chargés de matière que leur est
+propre. "C'est donc" -- voilà le premier texte essentiel – "C’est donc" – si les bateaux n’ont pas la
+même vitesse – "C’est donc que la matière est portée originairement à la tardivité ou à la
+privation de vitesse, non pas pour la diminuer par soi-même" -- la matière [106 :00] est portée
+originairement à la tardivité ou à la privation de vitesse, non pas pour la diminuer par soi-même
+– là, vous pouvez inventer la suite: "non pas pour la diminuer par soi-même, quand elle a déjà
+reçu cette vitesse". Il nous dit: la matière retarde, elle est portée à la tardivité ou à la privation de
+la vitesse, "non pas pour la diminuer par soi-même car" – vous pouvez ajouter -- ce serait agir."
+
+                                                                                                     18
+
+Vous avez reconnu, c'est la pure puissance passive, c'est la puissance passive limitative, donc "la
+matière est portée à la tardivité ou à la privation de la vitesse, non pas pour la diminuer par soimême [107 :00] car ce serait [agir]," quand elle a déjà reçu cette vitesse, et elle la reçoit du
+courant. Vous voyez: tous les bateaux reçoivent du courant leur vitesse, les uns vont plus
+lentement que les autres. Est-ce que c'était par pesanteur, dit Leibniz? Non ce n'est pas par
+pesanteur, puisqu'ils descendent au lieu de monter. Ce serait la pesanteur qui interviendrait s’il
+s'agissait de monter, avec rames, tout ça. "Non pas pour la diminuer par soi-même quand elle a
+déjà reçu cette vitesse car ce serait agir, mais pour modérer par sa réceptivité" -- quel beau texte
+pour ceux qui tiennent à trouver des prémices de Kant chez Leibniz – [108 :00] "car ce serait
+agir, mais pour modérer par sa réceptivité l'effet de l'impression" -- l'impression, c'est vraiment le
+mouvement communiqué, le mouvement communiqué par le courant: c'est le courant qui fait
+impression – "pour modérer par sa réceptivité l'effet de l'impression quand elle le doit recevoir."
+Vous comprenez, ou je dois relire doucement ?
+
+J'essaie de résumer: les bateaux diversement chargés reçoivent le mouvement du même courant
+supposé égal pour tous. C'est-à-dire ils reçoivent de la vitesse, ils reçoivent de la vitesse ou, si
+vous préférez, ils reçoivent du mouvement d'une certaine vitesse. [109 :00] Les uns vont plus
+lentement. Pourquoi? Est-ce qu'ils vont plus lentement parce que plus pesants? Non! Encore une
+fois, ils descendent le courant et la pesanteur ne jouerait que s’ils remontaient le courant. Alors
+pourquoi est-ce que les uns vont plus lentement? Parce que plus il a de matière, plus il a de
+matière, moins sa réceptivité de la quantité de mouvement imprimée par le courant, moins sa
+réceptivité sera… sera quoi ? Eh ben, sera en peu de temps, plus sa réceptivité prendra du temps,
+plus sa réceptivité sera lente. [110 :00]
+
+En d'autres termes, qu'est-ce que c'est la matière? La matière, c'est exactement la réceptivité.
+Quand je dis que Kant n'est pas loin: la matière première, la puissance passive primitive, c'est la
+forme de réceptivité. La puissance primitive active, c'est la forme de spontanéité. Là ensuite ça
+devient lumineux. Ecoutez bien ce beau texte: "le courant est la cause du mouvement du bateau”
+– incontestable – "le courant est la cause du mouvement du bateau, [111 :00] mais non pas de
+son retardement" – là, il y a une belle distinction des deux réquisits, parce que c’est deux
+réquisits en même temps – "Le courant est la cause du mouvement du bateau, mais non pas de
+son retardement" – dans le cas où un bateau va plus lentement qu’un autre – [Pause] "Dieu de
+même " -- vous mettez Dieu à la place du courant -- "De même Dieu est la cause de la perfection
+dans la nature et dans les actions de la créature". [Deleuze répète la citation entière] [112 :00]
+Mouvements du bateau = puissance primitive active de la monade. Oui, Dieu en est cause de ça.
+[Pause]
+
+"Mais la limitation de la réceptivité", "Mais la limitation de la réceptivité et de la créature est la
+cause des défauts qu'il y a dans son action". Il a dissocié au niveau physique le courant comme
+cause du mouvement et la réceptivité comme cause de la variation du mouvement, c'est-à-dire du
+plus ou moins rapide. [113 :00] "De même Dieu est la cause de la perfection dans la Nature et
+dans les actions de la créature, mais ce qui est cause des défauts qu'il y a dans l'action," c’est-àdire que telle monade soit bonne et telle autre mauvaise, l'équivalent de aller vite ou de aller
+lentement, ça, ce n'est pas Dieu qui en est cause, c'est la limitation de la réceptivité de la créature.
+
+                                                                                                       19
+
+Et elle est variée -- cette question est excellente parce qu'elle me permet de préciser des choses --
+elle est variée. La matière première, la limitation, on n’a pas la même. On a plus ou moins
+d'ombre. Chacun a la sienne, tout comme chacun a sa réceptivité suivant sa masse. [114 :00]
+Chacun a sa masse, sa "moles", au niveau de l'âme. A la lettre, qu'estce que c'est que la
+réceptivité? C'est la quantité d'ombre dans son âme.
+
+Et je termine dès lors, si vous étiez là, si tu étais là quand on a fait ça, c’est-à-dire quand on a fait
+ce point, vous vous rappelez, ça rappelle… On rattraperait en plein le problème des damnés.
+Qu'est-ce que c'est qu'un damné? C'est celui dont l'ombre a envahi toute l'âme. C'est donc celui,
+comme il dit dans une formule si belle que – aie, aie, aie, je l’ai perdue enfin… [Deleuze cherche
+dans ses textes] [115 :00] De toute manière, en tant qu'âme, j'ai une réceptivité limitée. Vous
+voyez, une réceptivité limitée, c'est ma zone de clarté, c'est-à-dire en tant qu'elle est cernée par
+toute l'ombre. Je dirais plutôt c'est toute l'ombre qui cerne ma zone de clarté parce que ma zone
+de clarté, elle renvoie à l'action. Il y a des âmes qui ont une réceptivité extraordinairement
+limitée ; tout est ombre. Et le damné, vous vous rappelez ce qui se passe : [Deleuze déclame] Il
+n’y a pas d’âme ! Ou du moins vous sentez: on se trouve devant des problèmes qui sont de
+véritables abymes, parce que je parle toujours d'âmes raisonnables pour le moment, [116 :00] et
+j'allais dire: il n'y a pas d'âme qui n'ait sa zone de clarté. Peut-être, peut-être? Mais est-ce que
+c'est vrai des animaux même s'ils ont une âme, et on a vu que pour Leibniz, c'est évident qu'ils
+avaient une âme. C'est presque le point où il en veut le plus à Descartes, il dit: Descartes,
+vraiment non, quelqu'un qui vous raconte les animaux-machines, c'est quelqu'un de pas sérieux,
+même encore une fois s’il explique que c'est qu'un modèle explicatif, parce qu'après il ne
+comprend plus rien à ce qui se passe chez les hommes. Il ne voit pas qu'il y a un fond de l'âme.
+
+Le damné, c'est quoi? Est-ce que les bêtes aussi ont une zone claire ? A mon avis, on peut déjà
+répondre Oui, forcément. Ce n’est peut-être pas du tout du même type que chez nous, mais ils
+ont forcément une zone claire puisqu’ils ont un corps aussi, ils ont un corps, [117 :00] et puis ils
+expriment clairement ce qui passe par leur corps, ce qui a rapport à leurs corps. Quand un chien
+reçoit un coup de bâton, pour reprendre l'exemple de Leibniz, quand un chien reçoit un bon coup
+de bâton, eh bien, il exprime clairement la douleur ; donc, il a une zone d'expression claire qui a
+rapport avec son corps.
+
+Mais le damné, vous vous rappelez ? Il a tellement obscurci son âme que la seule petite lumière
+qui brille encore c'est: Dieu, je te hais! Et presque heureusement qu'il a ça, c'est une petite
+lumière Dieu je te hais! S il n'avait pas cette petite lumière là, alors à la lettre, il serait gâteux. Il
+n'a que ça pour vivre et pour survivre. Mais il survivra [118 :00] à l'éternité des temps parce qu’il
+a cette petite lumière qu’il pourrait agrandir. Il pourrait l'agrandir, quand il voudrait il cesserait
+d'être damné. Comme dit Leibniz: il n'y a pas de damné qui ne se damne à chaque instant. Le
+damné, ce n'est pas une histoire du passé: il suffirait qu'il abandonne le: "Dieu je te hais!" Mais
+c'est ce à quoi il tient le plus au monde, donc il n'abandonnera pas. Mais, même celui-là, voyez :
+alors, la tardivité ou la limitation de sa réceptivité est infinie. On a même l'impression qu'il ne
+bouge plus. Il ne peut plus bouger. Vous voyez on retombe sur ce problème pleinement de la
+limitation métaphysique, [119 :00] et en quoi Dieu n'est pas responsable de la limitation
+métaphysique, il est responsable uniquement non pas de la force passive limitative, mais de la
+force active primitive. Voilà tout ce que je voulais dire sur ce premier aspect. [Interruption de la
+transcription WebDeleuze] [1 :59 :16]
+
+                                                                                                   20
+
+Mais, saisissez encore une fois le problème ; c’est vraiment un dur problème. On a quand même
+fait un sérieux pas en avant. Ceux qui, dis-je… Je disais, mais pourquoi [est-ce que] les corps
+surgissent ? Mais, voilà que [Retour à la transcription WebDeleuze] maintenant on a un début de
+réponse, mais elle ne va pas être facile. On a un début de réponse.
+
+On demandait: pourquoi [est-ce que] les corps existent? On demandait pourquoi est-ce que le fait
+d'exprimer clairement une petite région fait que je dois avoir un corps ; c'était ça notre problème.
+Je dois avoir un corps puisque [120 :00] la petite région, c'est ce qui concernera mon corps -- je
+dis bien au futur -- une fois que je l'aurai. Et notre réponse maintenant, c'est que la monade avait
+une puissance passive primitive, que cette puissance passive primitive, ou limitation, était
+exigence d'étendue et de résistance, qu'est-ce qui peut... Là-dessus on passe à un autre truc:
+qu'est-ce qui peut satisfaire cette exigence, remplir cette exigence? Le corps et seulement le
+corps. Avoir un corps. A ce niveau, la monade soupire, vraiment elle soupire: Dieu, donnez-moi
+un corps, j'ai besoin d'un corps. [Pause] [121 :00] Soit. [Un étudiant pose une question] [Longue
+interruption de la transcription WebDeleuze, indiquée "Longue discussion autour des bateaux
+dans le courant] … Oui ?
+
+Le premier étudiant [Il résiste à la description des deux bateaux et l’effet du courant sur eux] : Il
+y a quelque chose qui me gêne dans le texte que vous avez lu. Il y a un problème quant au
+mouvement des deux objets dans le même courant. Dans un courant d’un fleuve, un standard et
+une feuille morte, ils vont tous les deux à la même vitesse. Je n’ai jamais vu une feuille morte
+doubler un standard dans le même courant. C’est peut-être vrai pour un trirème comme bateau,
+mais non pas lorsque les bateaux sont portés par le même courant.
+
+Deleuze : Alors, là, vous me troublez… [Rires] Tout d’un coup, je me dis, qu’est-ce qui se
+passe ? … Voyons, réfléchissons ; on peut ajouter autre chose. [122 :00]
+
+Le premier étudiant : Il n’y a pas de distinctions à faire entre les masses portées par le courant
+d’eau et la masse [122 :00] de l’eau, et en fait, l’expérience de Galilée, il lâchait un poids d’en
+haut de la tour de Pise, et la grosse masse arrive en même temps que la petite masse. C’est un cas
+particulier peut-être de ce fait de la chute des corps.
+
+Deleuze : Mais vous avez… Vous faites bien de me dire ça. Mais non, ce n’est pas du tout un cas
+particulier. [Pause, discussions diverses s’entendent, près de Deleuze et loin de lui] Il me semble
+que vous négligez complètement le courant, évidemment. Prenons par exemple deux… Je prends
+le jeu des gosses, [123 :00] deux allumettes dans un ruisseau qui partent en même temps. Elles
+font une course. Vous allez me dire qu’une des deux allumettes ne rencontre pas le même milieu.
+Supposons le courant égal, et une allumette et un groupe de deux allumettes bien attachées, et
+une allumette, et vous n’avez pas un milieu vide. A mon avis, il y a une particulière différence
+avec "Vous lâchez [des poids d’en haut]." Il est bien entendu que… [Le premier étudiant essaie
+d’intervenir] Le courant est supposé le même. Ce n’est pas du tout le cas de Galilée. Ce n’est pas
+du tout la chute, ce n’est pas du tout la chute parce que, dans le cas de la chute, vous avez ce
+qu’on appelle en physique – là, je me… Ce n’est pas pour vous noyer, c’est pour essayer de m’y
+retrouver [124 :00] parce que… -- un physicien, un physicien se marrerait ou bien de vous ou
+bien de moi – Mais je me dis, l’histoire de la chute, c’est ce qu’on appelle en physique un travail.
+Alors on peut très bien dire un travail, c’est lorsque un effet consume la cause. Par exemple, vous
+
+                                                                                                     21
+
+élevez un corps à un hauteur donné, et puis vous le laissez tomber là. Alors, en effet, dans les
+conditions qu’il tombe dans le vide, et bien, il tombe pareil [qu’un autre]. Dans le cas de mon
+courant, c’est une histoire complètement différente. Vous avez cette fois-ci un mouvement
+[125 :00] qui est imprimé de corps en corps. Je cherche les différences là ; ici il y a le courant qui
+imprime un bateau. Ce n’est pas un corps qui tombe. Vous avez un mouvement parce que, sinon,
+ils resteraient fixes. S’il n’y avait pas le courant, ils resteraient fixes. Ce n’est pas du tout
+assimilable à "vous lâchez".
+
+Le premier étudiant : C’est des corps avec le courant.
+
+Deleuze : C’est un corps qui reçoit son mouvement du courant, pas d’un travail. [On entend des
+objections] Non, on les pose. Ils n’ont pas de vitesse encore, eh ? On les pose ; on les suppose
+des petits bateaux, c’est des maquettes, et on les pose sur le courant. Ils n’ont pas d’abord une
+vitesse. Ils reçoivent donc le mouvement du courant. D’accord ? Vous me dites juste d’accord si
+ça va… [126 :00] C’est donc le cas, si vous voulez, d’un mouvement qui est communiqué à un
+corps [Pause] sans que… on suppose qu’il n’y ait pas de résistance, qu’il n’y ait pas de
+différences. C’est le cas d’un mouvement uniforme, comment dire ça, il y a une expression qui
+fuit ; je la cherche parce que Leibniz… C’est l’action motrice, en fait. C’est la différence entre le
+travail et l’action motrice, à mon avis, parce que… [Réponses de plusieurs étudiants, dont un
+second qui prend la relève du premier ; Deleuze écoute] [127 :00] Je ne comprends pas, là je ne
+comprends pas.
+
+Le second étudiant : [Il pose de nouveau la situation des deux corps dans l’eau ; diverses
+discussions ont lieu qui rend difficile la compréhension ; cet étudiant suggère que la différence
+entre les deux corps est nulle]
+
+Deleuze : Mais, non, elle n’est pas nulle. Elle est égale à zéro au premier instant ; elle est égale à
+zéro au premier instant, mais elle est imprimée aux corps. … Vous avez raison. Je sens qu’on va
+toucher à quelque chose. [128 :00] Elle est égale à zéro au premier instant parce que c’est
+exactement ce que Leibniz objecte à Descartes. Il lui dit, votre loi est, elle vaut pour le premier
+instant du mouvement. C’est vrai quand vous posez le corps au premier instant, et là, en effet,
+c’est zéro. Mais dès l’instant petit a, il a reçu du mouvement du courant.
+
+Richard Pinhas : [Il revient à l’exemple de la chute d’un corps ; [129 :00] la vitesse du débit de
+l’étudiant est de plus en plus rapide et excitée au fur et à mesure qu’il présente ses exemples]
+
+Le second étudiant : [Il intervient de nouveau, en parlant beaucoup plus lentement, avec
+l’exemple des bateaux dans l’eau, mais avec un autre exemple de l’eau immobile dans une
+casserole, commentaire qui soulève de nombreuses objections des étudiants. [130 :00]
+
+Une étudiante : [Elle met en place des différences de physique en répondant aux propos à Pinhas
+et au second étudiant]
+
+Deleuze : Voilà les textes, voilà les textes – écoute mois bien ! Il y a surement moyen de trouver
+quelque chose [131 :00] parce que… Enfin, quelle histoire ! [Rires] J’ai l’impression qu’on tient
+deux évidences et qu’on ne va pas parler de la même. Alors, écoute bien : [Retour à la
+
+                                                                                                     22
+
+transcription Web Deleuze] Leibniz distingue deux cas pour ses lois du mouvement. De toute
+manière, son problème est celui-ci: comment définir la force ou puissance. C'est très bien parce
+que ça me fait avancer pour les critères physiques de la substance. Comment définir la force ou
+puissance? Et il dit: Descartes a défini la force ou puissance par la quantité de mouvement, c'està-dire par m. Là-dessus il faut distinguer deux cas. Le premier cas, c'est ce qu'on a appelé depuis
+le cas du travail. [132 :00] Le cas du travail, c'est le cas d'une force qui se consume dans son
+effet. Exemple: tu hisses… – Là, je voudrais qu’on finisse là aujourd’hui là-dessus, sur ce point ;
+donc ça m’aurait fait avancer dans le critère physique – Tu hisses un corps à une hauteur
+quelconque, donc tu fournis un travail, puis tu lâches tout. [Pause] Voilà l'argument de Leibniz ;
+vous le trouvez largement… Quoi ?
+
+L’étudiante (qui avait parlé la dernière) : [Elle pose une question sur la physique einsteinienne ;
+pendant qu’elle parle, Deleuze tousse assez profondément avec des grognements] [133 :00]
+
+Deleuze : Ecoute, ce n’est pas le cas de Einstein. Je vous assure, c’est de la physique
+[élémentaire], parce que nous disons, lui et moi, c’est de la physique élémentaire. [Rires] Alors,
+si on prend le moindre argument savant, c’est évident que ça sera une manière de fuite.
+
+Donc, premier cas: je soulève un corps A de 1 livre à quatre mètres, A, un corps de 1 livre à
+quatre mètres. Puis, je soulève un corps B de quatre livres à 1 mètre. [Pause] [134 :00] Il me faut
+la même force pour élever dans les deux cas. [Pause] Mais -- et là il faut vérifier dans mon
+souvenir dans le Discours de Métaphysique, paragraphe je ne sais quoi ; il y a un petit dessin sur
+ce cas --, mais suivant le fameux théorème de Galilée, la chute dans le premier cas a une vitesse
+double du celle qu'elle a dans le second cas, [Pause] bien que la hauteur soit quadruple. Qu'est-ce
+qu'il en tire? Il en tire la conclusion [135 :00] triomphante contre Descartes : donc, la force et la
+quantité de mouvements ne peuvent pas se confondre. Ça c'est le premier cas. A mon avis, c’est
+de celui-là dont tu parles, mais on verra.
+
+Deuxième cas, il ne s'agit plus du tout d'une force qui se consume dans un travail, notamment, ça
+doit être ça, je crois. Dans ce premier cas, le temps n'a pas à intervenir. En effet, la force se
+consume, comme on dit, se consume dans l'instant. Il n'y a pas de considération du temps. Il n'y a
+pas physiquement de considération du temps, et en effet, [136 :00] si tu cherches ce qui se
+conserve dans les deux cas, tu arrives à la formule leibnizienne: mv2, et non pas mv comme le
+croyait Descartes, parce que Descartes a cru et a confondu la force et la quantité de mouvement.
+– Tu me laisses aller jusqu’au bout ? Jusque là, ça va ? Tu es d’accord ? Ça va ? … Ouf, je me
+dis, qu’est-ce que… --
+
+Deuxième cas, cas tout à fait différent, il ne s'agit plus, comment dire, [Deleuze écoute un
+étudiant à côté de lui qui l’aide] de travail. Il s'agit d'un mouvement uniforme d'un corps
+[137 :00] roulant, en vertu d'une vitesse acquise, mouvement uniforme d'un corps roulant, en
+vertu d'une vitesse acquise, par hypothèse sans résistance. Là, inutile de dire déjà que le cas est
+tout à fait différent puisqu'il faut introduire le temps. Dans quel sens [est-ce qu’] il faut introduire
+le temps? C'est ce qu'on appellera non plus du tout le travail, mais l'action motrice. L'exemple
+donné par Leibniz, c'est: deux lieux en deux heures, un corps mobile. Tout est différent. C'est
+peut-être moi qui me suis mal exprimé puisque [138 :00] le corps est supposé être un corps
+roulant en vertu d'une vitesse acquise. Parce que, en effet, au premier moment de la vitesse,
+
+                                                                                               23
+
+comme il dit, c'est la formule de Descartes qui vaut, si bien que Descartes n'a pu comprendre que
+le mouvement commençant. Mais il ne peut déjà pas comprendre le mouvement uniforme. Alors
+l'exemple qu'il donne c'est: un corps qui parcourt deux lieues en deux heures. Deux lieues en
+deux heures, c'est le double d’une lieue en une heure. [Pause ; on commence à entendre des voix]
+Une lieue en une heure, c'est le double d’une lieue en deux heures, une lieue en une heure, c'est
+le double [139 :00] d’une lieue en deux heures. [Interruption de la transcription WebDeleuze] –
+Des objections viennent d’ailleurs…. Qui dit non ?... Eh ? Pourquoi ?
+
+Une étudiante : [Propos inaudibles] [140 :00]
+
+Deleuze : Premier cas – vous ne me comprenez pas – premier cas : deux lieues en deux heures,
+c'est le double d’une lieue en une heure. [Pause]
+
+L’étudiante : [Elle continue à parler, inaudible]
+
+Deleuze : Un corps qui effectue deux lieues en deux heures opère… alors, qu’est-ce qu’il faut
+dire, en effet ?… [On lui suggère des réponses]… Non, ce n’est pas un travail, justement… Où
+est-ce que j’ai un texte ? [Pause] Je ne dois pas l’avoir pris, mon texte. [Bruits de divers
+mouvements et voix] Parcourt ! Oui, disons [Un corps qui effectue deux lieues en deux heures]
+parcourt un espace qui est le double d’une lieue. [141 :00] [Pause]
+
+L’étudiante : [Elle continue son objection]
+
+Deleuze : Non, je n’ai pas dit que c’est normal ; au contraire, on cherche le normal…. Donc, un
+corps qui parcourt deux lieues en deux heures parcourt un espace double que ceux ou de celui
+qui parcourt une lieue en une heure.
+
+Deuxième cas, [On entend toujours des bruit de voix] un corps qui parcourt – deuxième cas, eh ?
+– un corps qui parcourt une lieue en une heure, alors je dirais, met deux fois moins de temps que
+celui qui parcourt une lieue en deux heures. Eh ?
+
+Troisièmement : Un corps qui parcourt deux lieues en deux heures – on revient à la première –
+eh, alors là, parcourt [142 :00] un espace quadruple, et non pas double, de celui qui opère, qui
+traverse une lieue en deux heures. [Pause] Je relis, en abrégeant, puisque… [Nota bene : les trois
+paragraphes précédents, sans doute denses, ont été particulièrement vérifiés quant à la précision
+de ce que dit Deleuze.]
+
+Deux lieues en deux heures – première proposition – deux lieues en deux heures, double d’une
+lieue en une heure.
+
+L’étudiante : [Elle objecte toujours ; Deleuze lui répond]
+
+Deleuze : Espace et temps… [Pause]
+
+L’étudiante : [Elle continue]
+
+                                                                                                   24
+
+Deleuze : Non, on ne va pas prendre la vitesse. La vitesse, c’est, on va la faire intervenir ailleurs
+puisqu’on cherche espace et temps. On va appliquer la formule [143 :00] e=vt, et c’est ça qui va
+être important puisque dans ce cas, et ça va être le problème -- alors elle a tout compris – ça va
+être le problème du mouvement uniforme. Ce mouvement uniforme, ça va être mv multiplié par
+e. Mais, e, c’est vt, donc le mouvement uniforme vous donnera mv2t, mv multiplié par e égale
+mv multiplié par vt, mv2t. Vous retrouvez mv2.
+
+Ce qui importait à Leibniz, c’est ça, il y a transformation – on va y revenir tout à l’heure ; on n’a
+pas fini – il y a transformation où, dans toutes ces équations, il va trouver mv2, mais il ne peut
+pas le trouver de la même manière dans le cas [144 :00] du travail, de la cause qui se consume
+dans son effet, et dans le cas de l’action motrice, c’est-à-dire le mouvement uniforme d’un corps
+roulant en vertu d’une vitesse acquise puisque dans le second cas, il y aura mv2t ou mvvt ou
+mve.
+
+Alors on revient à… Voilà, tu as deux corps ; ça vaut ton exemple de la casserole que tu avais.
+Qu’est-ce qui va se passer ? J’ai une piste, j’ai une piste. Là, il ne faut pas exagérer, c’est
+évident, j’ai une piste, quoi. – Regarde-moi parce que j’ai besoin de suivre dans ta tête [145 :00]
+autant que… Et on a chacun deux petites autos [Pause] et…
+
+Un étudiant : Et on les lance !…
+
+Deleuze : Quoi ?
+
+L’étudiant : On les lance !
+
+Deleuze : On les lance, avec une force supposée exactement la même. La tienne, elle est chargée
+de… boulons, et la mienne, elle est chargée de… [Les étudiants suggèrent des objets possibles,
+et Deleuze ne termine pas la phrase] La force avec laquelle on la lance est strictement la même,
+c’est-à-dire, dirait Leibniz, on imprime aux deux mobiles la même quantité de mots. Il ne dit
+déjà… non ce que je croyais.
+
+L’étudiante : [Elle l’interrompt de nouveau]
+
+Deleuze : Quoi ?
+
+Le premier étudiant : [Il intervient de nouveau à propos des bateaux, [146 :00] en suggérant que
+l’exemple des bateaux ne marche que s’il s’agit de l’eau stagnante ; s’il y a une force motrice, si
+on est dans le cas des corps qui sont portés dans le courant, ça ne marcherait pas ; tout le monde
+parle en même temps]
+
+Deleuze : Le courant… Non, en effet,… Mais, l’erreur… La confusion ne vient pas de ce que tu
+dis. [Deleuze parle très fort afin de se faire entendre] La confusion vient de, pas ce qui fasse
+intervenir le courant, [mais de] c’est ce qui fait intervenir le courant comme la poussée initiale.
+
+Le second étudiant : Il y a quelqu’un qui lance le bateau…
+
+                                                                                                 25
+
+Deleuze : Et après, il ne s’occupe plus du courant, il ne s’en occupe plus. [147 :00]
+
+Le second étudiant : Ah ben oui, j’avais pensé que c’est la rivière qui avait le courant.
+
+Deleuze : Ah, c’est un argument pour un autre temps.
+
+L’étudiant : [Il continue, beaucoup de rires]
+
+Deleuze : C’est un argument, mais je ne veux pas qu’on termine là-dessus parce que c’est un
+argument très large. Tu pourrais dire aussi bien que, jusque maintenant, je n’avais jamais
+entendu dire qu’il n’y a pas de résistance au mouvement. Il est entendu en effet que les corps ne
+rencontrent pas de résistance de la même manière. Le courant intervient pour imprimer un
+mouvement, et puis n’intervient plus, c’est-à-dire le moindre mathématicien peut ne plus tenir
+compte d’un facteur qui a joué son effet, quoi. [Divers commentaires] Non, non, inversement,
+c’est moi qui ai mal lu le texte comme quoi…
+
+Alors, quand même, pour que vous voyiez où on en est, tout d’un coup, pour circuiter, [148 :00]
+on a pris le critère physique de la substance. Ce que je voudrais signaler après… Pour moi, cela a
+été très utile parce que je me suis dit, tout d’un coup, mon Dieu, qu’est-ce qui ne va pas, et
+comme je n’y pensais pas, j’avais des doutes affreux ; je me suis dit, il n’a pas pu se tromper,
+Leibniz, donc… Mais, bien, voilà.
+
+Ce que je voudrais que vous reteniez, c’est que lorsqu’il substitue mv2 à mv, cette substitution,
+elle se porte sur un problème précis, c’est [Pause] : qu’est-ce qui mesure la force ? Et son
+reproche à Descartes, c’est… Parce qu’ [Retour à la transcription Web Deleuze] on dit parfois
+qu'il substitue la force à la quantité de mouvement. Mais ce n'est pas vrai. Le vrai problème
+physique que pose Leibniz, [149 :00] ce n'est pas du tout que Descartes a ignoré la force. C'est
+que Descartes a cru possible de mesurer la force par la quantité de mouvement, mv. C'est très lié
+finalement à sa conception de la substance. Et l'idée de Leibniz, c’est que c'est physiquement
+faux.
+
+Donc retenez que c'est en vertu de la science actuelle, c'est en vertu de la science moderne – c’est
+pour ça que c’est très important -- c'est en vertu de la science moderne qu'il a besoin de réactiver
+quelque chose d'Aristote. Et ça va être quoi? Ça va être : considérer les deux cas que Descartes
+n'a pas su distinguer. Le cas du travail qui est, si vous voulez -- Leibniz le répète souvent -- un
+mouvement ascensionnel, [150 :00] un mouvement vertical. Ça, c'est le cas du travail ou de la
+force qui se consume dans son effet. Et deuxième cas, [c’est] le cas du mouvement horizontal,
+c'est-à-dire d'un mouvement supposé uniforme d'un corps roulant en vertu d'une vitesse acquise.
+[Pause] Dans le premier cas, la force se consume dans son effet dans l'instant. [Pause] Dans le
+deuxième cas, [151 :00] nécessité d'introduire le temps. Premier cas, la formule de la force c'est
+mv2, et non pas mv. Deuxième cas, la formule de la force c'est mv2t, action motrice.
+
+En quoi [est-ce que] c'est directement lié à l'idée de substance? Voyez dès lors que,
+contrairement à Descartes, l'étendue elle-même ne peut pas être substance. Si je dis mv, ça peut
+marcher, je peux traiter l'étendue comme une substance. Mv2, il faut que quelque chose s'ajoute à
+la substance, et dans le texte du Discours de métaphysique, [152 :00] Leibniz dira très bien: il
+
+                                                                                                   26
+
+faut que quelque chose qui soit comme une forme aristotélicienne, c'est-à-dire qui soit une force
+active. [Pause] Et on dira: le travail, c'est la force active dans l'instant, [Pause] et l'action
+motrice, c'est la force active dans l'unité de temps. [Pause] [153 :00] Dans les deux cas, c'est la
+force. Par nature, elle est toujours positive, et Leibniz y attache beaucoup d'importance.
+Pourquoi? Parce qu’un carré est toujours positif. C'est essentiel ça pour Leibniz. C'est essentiel:
+il y voit une espèce d'accord prodigieux, comme une espèce de preuve de plus de l'existence de
+Dieu, à savoir que la force qui se conserve dans le monde physique soit mv2, puisque v2 par
+nature, est toujours positif, cette force mv2, distincte de la quantité de mouvement, et dont
+[154 :00] l'étendue elle-même ne peut pas rendre compte, est une force active, c'est elle qui
+engendre le mouvement dans l'étendue. Descartes, selon Leibniz, est incapable de rendre compte
+de la genèse du mouvement dans l'étendue.
+
+D'où la grande formule de Leibniz que vous trouverez dans De la Nature en elle-même, un
+opuscule de la fin de [la vie de] Leibniz: le mécanisme prétend tout expliquer par le mouvement,
+mais il est absolument incapable de rendre compte du mouvement lui-même. Ce sera son
+objection perpétuelle contre Descartes et contre l'idée d'une substance étendue. Et cette force
+mv2, il va l'appeler: [155 :00] force dérivative. [Pause] La force dérivative sera la force active,
+vous voyez, qui engendre le mouvement et à laquelle répond une force passive dérivative. La
+force passive dérivative, c'est ce qu’on vient de voir, la limitation de la réceptivité, la limitation
+de la réceptivité suivant la loi de l'action motrice. Et c'est en ce sens qu'il pourra dire que les
+corps physiques [156 :00] symbolisent avec les monades ou substances métaphysiques, avec les
+substances spirituelles, puisque, de même que la substance spirituelle nous présentait force active
+primitive, [Il se corrige] force passive primitive ou limitation, les corps vont nous présenter force
+dérivative active et force passive de limitation définie par la limitation de la réceptivité du corps,
+de la réceptivité du corps aux mouvements qu'il reçoit.
+
+Bon, ça m'a mis du désordre, mais en même temps, c'était indispensable. Alors, eh bien, ce que je
+voudrais vous dire, c’est voilà où nous en sommes. [157 :00] On en est exactement dans le
+problème ; on est ramené à notre problème. Simplement, j'ai presque fait, je pourrai dire que j’ai
+presque fait les critères physiques de la substance. J’aurai peu de choses à ajouter à ce que j’ai dit
+aujourd’hui. Là où j'en suis, c'est exactement ceci: d’accord, la monade a et comporte une
+exigence d'étendue et d'antitypie, et de résistance. Nous sentons que la seule chose qui puisse
+réaliser cette exigence – réaliser, et le mot réaliser m'importe beaucoup ; on va voir pourquoi -- la
+seule chose qui puisse réaliser cette exigence, c'est "avoir un corps". S'il en est bien ainsi, la
+monade a un corps. Mais on retombe sur la question: qu'est-ce que c'est "avoir un corps"? Ce
+serait le troisième réquisit de la substance. [158:00] [Fin de la transcription WebDeleuze] Il n’y
+aurait pas seulement comme réquisit force primitive active, c’est-à-dire unité spontanée du
+changement. [Pause] Il n’y aurait pas seulement comme second réquisit force limitative passive,
+comme limitation. Il y aura encore un troisième réquisit qui nous donnerait la formule de ce que
+signifie "avoir un corps". Nous en sommes là. [Fin de l’enregistrement] [2 :38 :32]

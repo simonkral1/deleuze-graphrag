@@ -1,0 +1,667 @@
+1
+
+Gilles Deleuze
+Seminar on Leibniz: Philosophy and the Creation of Concepts
+Lecture 04, 06 May 1980
+Translation and supplements to transcript based on YouTube video1, Charles J.
+Stivale
+
+Part 1
+Deleuze: So, first point: I believe that Georges Comtesse wanted to speak about a rather
+strange text, but there are a lot of strange texts by Leibniz, where Leibniz… But I don’t
+want to say what it is ahead of him… So, go ahead.
+[Georges Comtesse, a faithful regular attendee at Deleuze’s seminars, reads some
+excerpts from a book not by Leibniz, but in which Leibniz provided some comments,
+entitled Treatise on a few points about the religion of the Chinese by the reverend father
+Nicolas Longobardi (1701), 0:25-9:50]
+Deleuze: That’s very good. I would like to say that he provided a very fine account, it
+seems to me. I would like to say only two relatively insignificant things in relation to
+what Comtesse has said. The first is a rather frequent theme during that era, at the end of
+the seventeenth century: a type of confrontation between Christian thought and Chinese
+thought. For example, there is a text by Malebranche that is rather odd, a conversation…
+the title is something I can’t remember, something like “Conversation of a Christian
+philosopher and a Chinese philosopher”, in which he creates a kind of dialogue, with very
+comparable themes to what you said about Leibniz.
+So, I ask myself, what makes this so urgent? Certainly, there is all kind of information at
+the end of the seventeenth century showing that there already was a great OrientOccident confrontation. So, one has to understand historically and geographically why
+philosophy at the end of the seventeenth century marks a turning point in this
+confrontation.
+But on the other hand, there is an anecdotal reason, a properly philosophical reason that
+adds an additional interest to this confrontation for philosophers at the end of the
+seventeenth century. In the end, it’s the great absence in this kind of text because as an
+aspect of a confrontation with Chinese thought, either to condemn it, or – as you showed
+well was the case for Leibniz – to appropriate something from it, the great absence from
+within this text is the name not cited, obviously that of Spinoza. What they want to show,
+in the end, and starting with the Jesuits, is that Spinoza does not think like a European,
+like an Occidental, but thinks like a Chinese, which is a grave accusation.
+
+So all that on the theme, matter, atheism, etc., it’s directly aimed against Chinese
+philosophy, it’s a mask behind or under which Spinozism is being denounced which in
+that ear has a very great influence in Europe and is considered the most dangerous form
+of thought. So there is a whole settling of scores with Spinoza who is assimilated to a
+
+                                                                                                2
+
+completely exoteric thought, you understand. In fact, everything is centered on life-matter
+relations. Is there a life-matter that is sufficient, and what does atheism mean?
+So, what I have for today, what I would like to do goes somewhat in this direction. We’ll
+see. What I’d like to do… The last time, we ended with this question, one that’s very
+funny, very important, very funny, very important, very funny, very important: what is
+compossibility and what is incompossibility? What are these two relationships, the
+relationship of compossibility and incompossibility? How do we define them?
+We saw that these questions created all kinds of problems and led us necessarily to the
+exercise, however cursory, of infinitesimal analysis. Today, I would like to create a third
+major rubric that would consist in showing the extent to which Leibniz organizes in a
+new manner and even creates some genuine principles. Creating principles is not a
+fashionable task of late. This third major introductory chapter for a possible reading of
+Leibniz is one I will call: Deduction of principles, precisely because principles are objects
+of a special kind of deduction, a philosophical deduction, which does not go without
+saying.
+
+There is such a rich abundance of principles in Leibniz's work. He constantly invokes
+principles while giving them, when necessary, names that did not previously exist. In
+order to situate oneself within his principles, one has to discover the progression
+(cheminement) of Leibnizian deduction.
+
+The first principle that Leibniz creates with a rapid justification is the principle of
+identity. It is the minimum, the minimum that he offers himself. What is the principle of
+identity? Every principle is a reason. A is A. A thing is a thing, it is what a thing is. I
+have already moved forward slightly. A thing is what it is, this is better than A is A.
+Why? Because it shows that it [the thing] is the region governed by the principle of
+identity. If the principle of identity can be expressed in the form: a thing is what it is, this
+is because identity consists in manifesting the proper identity between the thing and what
+the thing is.
+
+If identity governs the relationship between the thing and what the thing is, namely what
+thing is identical to the thing, and the thing is identical to what it is, I can say: what is the
+thing? What the thing is, everyone has called it the essence of the thing. I would say that
+the principle of identity is the rule of essences or, what comes down to the same thing,
+the rule of the possible. In fact, the impossible is contradictory. The possible is the
+identical so that, to the extent that the principle of identity is a reason, a ratio, then which
+ratio? It is the ratio of essences or, as the Latins used to say, or the Middle Age
+terminology long before: ratio essendi. I choose that as a typical example because I think
+that it is very difficult to do philosophy if you do not have a kind of terminological
+certainty. Never tell yourself that you can do without it, but also never tell yourself that it
+is difficult to acquire. It is exactly the same as scales on the piano. If you do not know
+rather precisely the rigor of concepts, that is, the sense of major notions, then it is very
+difficult. One has to approach that like an exercise. It is normal for philosophers to have
+their own scales; it is their mental piano. One must change the tune of the categories. The
+history of philosophy can only be created by philosophers, yet alas, it has fallen into the
+
+                                                                                                 3
+
+hands of philosophy professors, and that's not good because they have turned philosophy
+into examination material and not material for study, or for scales.
+
+Each time that I speak of a principle according to Leibniz, I am going to give it two
+formulations: a vulgar formulation and a scholarly one. This is a beautiful procedure on
+the level of principles, the necessary relation between pre-philosophy and philosophy,
+this relationship of exteriority in which philosophy needs a pre-philosophy.
+
+ The vulgar formulation of the principle of identity: the thing is what the thing is, the
+identity of the thing and of its essence. You already see, in the vulgar formulation, that
+there are lots of things implied. The scholarly formulation of the principle of identity:
+every analytical proposition is true. What is an analytical proposition? It is a proposition
+in which the predicate and the subject are identical. An analytical proposition is true, A is
+A, is true. By going into the detail of Leibniz's formulae, one can even complete the
+scholarly formulation: every analytical proposition is true in two cases: either by
+reciprocity or by inclusion.
+
+An example of a proposition of reciprocity: the triangle has three angles. Having three
+angles is what the triangle is. Second case: inclusion: the triangle has three sides. In fact,
+a closed figure having three angles envelops, includes, implies having three sides. We
+will say that analytical propositions of reciprocity are objects of intuition, and we will say
+that analytical propositions of inclusion are objects of demonstration.
+
+Thus, the principle of identity, the rule of essences, or of the possible, ratio essendi: what
+question does it answer? To what cry does the principle of identity respond? The pathetic
+cry that constantly appears in Leibniz's works, corresponding to the principle of identity,
+why is there something rather than nothing? It is the cry of the ratio essendi, of the reason
+for being (raison d'être). If there were no identity, no identity conceived as identity of the
+thing and what the thing is, then there would be nothing.
+
+Second principle: principle of sufficient reason.
+
+This refers us back to the whole domain that we located as being the domain of
+existences. The ratio corresponding to the principle of sufficient reason is no longer the
+ratio essendi, the reason of essences or the reason for being, it is now the ratio existendi,
+the reason for existing. It is no longer the question: why something rather than nothing,
+since the principle of identity assured us that there was something, namely the identical.
+It is no longer: why something rather than nothing, but rather it is why this rather than
+that?
+
+What would its vulgar formulation be? We saw that every thing has a reason. Indeed,
+every thing must have a reason. What would the scholarly formulation be? You see that
+we apparently are completely outside the principle of identity. Why? Because the
+principle of identity concerns the identity of the thing and what it is, but it does not state
+whether the thing exists. The fact that the thing exists or does not exist is completely
+different from what it is. I can always define what a thing is independently of the
+
+                                                                                                4
+
+question of knowing if it exists or not. For example, I know that the unicorn does not
+exist, but I can state what a unicorn is. Thus, a principle is indeed necessary that makes us
+think of the existent (l’existant). So just how does a principle, that appears to us as vague
+as "everything has a reason," make us think of the existent? It is precisely the scholarly
+formulation that will explain it to us. We find this scholarly formulation in Leibniz's
+works in the following statement: every predication (predication means the activity of
+judgment that attributes something to a subject; when I say "the sky is blue," I attribute
+blue to sky, and I operate a predication), every predication has a basis (fondement) in the
+nature of things. It is the ratio existendi.
+
+Let us try to understand better how every predication has a basis in the nature of things.
+This means: everything said about a thing, the entirety of what is said about a thing, is the
+predication concerning this thing. Everything said about a thing is encompassed,
+contained, included in the notion of the thing. This is the principle of sufficient reason.
+You see that the formula which appeared innocent a short while ago - every predication
+has a basis in the nature of things, taking it literally - becomes much stranger: everything
+said about a thing must be encompassed, contained, included in the notion of the thing.
+So, what is everything said about a thing? First, it is the essence. In fact, the essence is
+said about the thing. Only one finds at that level that there would be no difference
+between sufficient reason and identity. And this is normal since sufficient reason includes
+all the properties (tout l'acquis) of the principle of identity but is going to add something
+to it: what is said about a thing is not only the essence of the thing, it is the entirety of the
+affections, of the events that refer or belong to the thing.
+
+Thus, not only will the essence be contained in the notion of the thing, but the slightest of
+events, of affections concerning the thing as well, that is, what is attributed truthfully to
+the thing, is going to be contained in the notion of the thing.
+
+We have seen this: crossing the Rubicon, whether one likes it or not, must be contained in
+the notion of Caesar. Events, affections of the type "loving" and "hating" must be
+contained in the notion of that subject feeling these affections. In other words, each
+individual notion -- and the existent is precisely the object, the correlate of an individual
+notion -- each individual notion expresses the world. That is what the principle of
+sufficient reason is. Everything has a reason means that everything that happens to
+something must be contained forever in the individual notion of the thing.
+
+The definitive formulation of the principle of sufficient reason is quite simple: every true
+proposition is analytical, every true proposition, for example, every proposition that
+consists in attributing to something an event that really occurred and that concerns the
+something. So if it is indeed true, the event must be encompassed in the notion of the
+thing.
+
+What is this domain? It is the domain of infinite analysis whereas, on the contrary, at the
+level of the principle of identity, we were only dealing with finite analyses. There will be
+an infinite analytical relationship between the event and the individual notion that
+encompasses the event. In short, the principle of sufficient reason is the reciprocal of the
+
+                                                                                              5
+
+principle of identity. Only, what has occurred in the reciprocal? The reciprocal has taken
+over a radically new domain, the domain of existences. It was sufficient merely to
+reciprocate, to reverse the formula of identity in order to obtain the formula of sufficient
+reason; it was enough to reciprocate the formula of identity that concerns essences in
+order to obtain a new principle, the principle of sufficient reason concerning existences.
+You will tell me that this was not complicated. Yet it was enormously complicated, so
+why? The reciprocal, this reciprocation was only possible if one were able to extend the
+analysis to infinity. So the notion, the concept of infinite analysis is an absolutely original
+notion. Does that consist in saying that this takes place uniquely in the understanding
+(l'entendement) of God, which is infinite? Certainly not. This implies an entire technique,
+the technique of differential analysis or infinitesimal calculus.
+
+Third principle: is it true that the reciprocal of the reciprocal would yield the first? It is
+not certain. Everything depends, there are so many viewpoints. Let us try to vary the
+formulation of the principle of sufficient reason. For sufficient reason, where I left things
+was saying that everything that happens to a thing must be encompassed, included in the
+notion of the thing, which implies infinite analysis. In other words, for everything that
+happens or for every thing, there is a concept. I had insisted on this, that what matters is
+not at all a manner for Leibniz to hearken back to a famous principle. On the contrary, he
+does not want that at all; this would be the principle of causality. When Leibniz says that
+everything has a reason, this does not at all mean that everything has a cause. Saying
+everything has a cause signifies a refers to b, b refers to c, etc. ... Everything has a reason
+means that one must account for reason in causality itself, namely that everything has a
+reason means that the relationship that a maintains with b must be encompassed in one
+way or another in the notion of a. Just like the relationship that b maintains with c must
+be encompassed one way or another in the notion of b. Thus, the principle of sufficient
+reason goes beyond the principle of causality. It is in this sense that the principle of
+causality states only the necessary cause, but not the sufficient reason. Causes are only
+necessities that themselves refer to and presuppose sufficient reasons.
+
+Thus, I can state the principle of sufficient reason in the following way: for every thing
+there is a concept that takes account both of the thing and of its relations with other
+things, including its causes and its effects.
+
+For every thing, there is a concept, and that does not go without saying. Lots of people
+will think that existence indeed consists of not having a concept. For every thing there is
+a concept, so what would the reciprocal be? Understand that the reciprocal does not at all
+have the same meaning. In Aristotle's work, there is a treatise of ancient logic that deals
+solely with the table of opposites. What is the contradictory, the contrary, the subaltern,
+etc. ...? You cannot say the contradictory when it is the contrary, you cannot just say
+anything. Here I use the word reciprocal without specifying. When I say for every thing
+there is a concept (yet again, this is not at all certain), assume that you grant me that. In
+this, I cannot escape the reciprocal. What is the reciprocal?
+
+For a theory of the concept, we would have to start again from the bird song. The great
+difference between cries and songs -- cries of alarm, of hunger, and then bird songs. And
+
+                                                                                               6
+
+we can explain acoustically what the difference is between cries and songs. In the same
+way, on the level of thought, there are cries of thought and songs of thought (chants de
+pensée). How does one distinguish these cries and these songs? One cannot understand
+how a philosophy as song or a philosophical song develops if one does not refer it to
+coordinates that are kinds of cries, continuous cries. These cries and songs are complex.
+
+If I return to music, the example that I recall again and again is the two great operas of
+[Alban] Berg; there are two great death cries, the cry of Marie [in Wozzeck] and the cry of
+Lulu.2 When one dies, one does not sing, and yet there is someone who sings over the
+deceased, the mourner. The one who loses the loved one sings. Or cries, I do not know. In
+Wozzeck, it is a si-, it is a siren. When you put sirens into music, you are placing a cry
+there. It is strange. And the two cries are not the same type, even acoustically: there is a
+cry that flits upward and there is a cry that skims along the earth. And then there is the
+song (or chant). Lulu’s great woman friend sings death. It is fantastic. It is signed Berg. I
+would say that the signature of a great philosopher is the same. When a philosopher is
+great, although he writes very abstract pages, these are abstract only because you did not
+know how to locate the moment in which he raises a cry. There is a cry underneath, a cry
+that is horrible.
+
+Let us return to the song of sufficient reason. Everything has a reason is a song. It is a
+melody, we could harmonize, a harmony of concepts. But underneath there would be
+rhythmic cries: no, no, no. I return to my chanted formulation of the principle of
+sufficient reason. One can sing off key in philosophy. People who sing off key in
+philosophy know it very well, but it [philosophy] is completely dead. They can talk
+interminably. The song of sufficient reason: for every thing there is a concept. What is
+the reciprocal ? In music, one would speak of retrograde series. Let us look for the
+reciprocal of "every thing has a concept." The reciprocal is: for every concept there is one
+thing alone.
+
+Why is this the reciprocal of "for every thing a concept"? Suppose that a concept had two
+things that corresponded to it. There is a thing that has no concept and, in that case,
+sufficient reason is ruined (foutue). I cannot say "for every thing a concept". As soon as I
+have said "for every thing a concept," I have necessarily said that a concept had
+necessarily one thing alone, since if a concept has two things, there is something that has
+no concept, and therefore I already could no longer say "for every thing a concept." Thus,
+the true reciprocal of the principle of sufficient reason in Leibniz will be stated like this:
+for every concept, one thing alone. It is a reciprocal in a very funny sense. But in this
+case of reciprocation, sufficient reason and the other principle, notably "for every thing, a
+concept" and "for every concept, one thing alone," I cannot say one without saying the
+other. Reciprocation is absolutely necessary. If I do not recognize the second, I destroy
+the first.
+
+When I said that sufficient reason was the reciprocal of the principle of identity, it was
+not in the same sense since, if you recall the proposition of the principle of identity --
+namely, every analytical proposition is true – I reciprocate and I obtain sufficient reason,
+namely, every true proposition is analytical: here, there is no necessity. I can say that
+
+                                                                                              7
+
+every analytical proposition is true without, through this, that any true proposition only
+being analytical. I could very well say that there are true propositions that are something
+other than analytical. Thus, when Leibniz created his reciprocation of identity, he
+accomplished a master stroke. He accomplished this master stroke because he had the
+means to accomplish, that is, he let out a cry. He had himself created an entire method of
+infinite analysis. Otherwise, he could not have done so.
+
+Whereas in the case of the passage from sufficient reason to the third principle that I have
+yet to baptize, there reciprocation is absolutely necessary. It had to be discovered. What
+does it mean that for every concept there is a thing and only one thing? Here it gets
+strange, you have to understand. It means that there are no two absolutely identical
+things, or every difference is conceptual in the last instance. If you have two things, there
+must be two concepts, otherwise there would not be two things. Does that mean that there
+are no two absolutely identical things as far as the concept goes? It means that there are
+no two identical drops of water, no two identical leaves. In this, Leibniz is perfect, he gets
+delirious with this principle. He says that obviously you, you believe that two drops of
+water are identical, but this is because you do not go far enough in your analysis. They
+cannot have the same concept. Here this is very odd because all of classical logic tends to
+tell us rather that the concept, by its very nature, encompasses an infinite plurality of
+things.
+
+The concept of drops of water is applicable to all drops of water. Leibniz says, of course,
+if you have blocked off analysis of the concept at a certain point, at a finite moment; but
+if you push the analysis forward, there will be a moment in which the concepts are no
+longer the same. This is why the ewe recognizes its lamb, one of Leibniz's examples: how
+does the ewe recognize its little lamb? They [Eux] think it is via the concept. A little lamb
+does not have the same concept as the same individual concept, and it is in this manner
+that the concept extends to the individual, another little lamb. What is this principle?
+There is but a single thing; there is necessarily one thing per concept and only one.
+Leibniz names it the principle of indiscernibles. We can state it this way: there is one
+thing and only one thing per concept, or every difference is conceptual in the final
+instance.
+
+There is only conceptual difference. In other words, if you assign a difference between
+two things, there is necessarily a difference in the concept. Leibniz names this the
+principle of indiscernibles. And if I make it correspond to a ratio, what is this? You sense
+correctly that it consists in saying that we only gain knowledge through the concept. In
+other words, the principle of indiscernibles seems to me to correspond to the third ratio,
+the ratio as ratio cognoscendi, the reason as reason for knowing (raison de connaître).
+
+Let us look at the consequences of such a principle. If this principle of indiscernibles
+were true, namely that every difference is conceptual, there would be no difference
+except the conceptual. Here Leibniz asks us to accept something that is quite huge. Let us
+proceed in order: what other kind of difference is there other than conceptual? We see it
+immediately: there are numerical differences. For example, I say a drop of water, two
+drops, three drops. I distinguish the drops by the number alone (solo numero, that
+
+                                                                                                 8
+
+Deleuze translates as par le nombre seulement). I count the elements of a set (ensemble),
+one two three four, I neglect their individuality, I distinguish them by the number. This
+constitutes a first type of very classic distinction, the numerical distinction. Second type
+of distinction: I say, "take this chair"; some obliging person takes a chair, and I say, "not
+that one, but this one." This time, it is a spatio-temporal distinction of the here-now type.
+The thing that is here at a particular moment, and this other thing that is there at a
+particular moment. Finally, there are distinctions of figure and of movement: roof that
+has three angles, or something else. I would say that these are distinctions by extension
+and movement. Extension and movement.
+
+Understand that this commits Leibniz to a strange undertaking, merely with his principle
+of indiscernibles. He has to show that all these types of non-conceptual distinctions - and
+in fact, all of these distinctions are non-conceptual since two things can be distinguished
+by the number even though they have the same concept. You focus on the concept of a
+drop of water, and you say: first drop, second drop. It is the same concept. There is the
+first and there is the second. There is one that is here, and another that is there. There is
+one that goes fast, and another that goes slowly. We have now nearly completed the set of
+non-conceptual distinctions.
+
+Leibniz arrives and calmly tells us, no no. These are pure appearances, that is, these are
+only provisional ways of expressing a difference of another nature, and this difference is
+always conceptual. If there are two drops of water, they do not have the same concept.
+What of any great import does this mean? It is very important in problems of
+individuation. It is very well known, for example, that Descartes tells us that bodies are
+distinguished from one another by figure and by movement. Lots of thinkers have
+appreciated that. Notice that in the Cartesian formula, what is conserved in movement
+(mv) (the product of mass times movement) depends strictly on a vision of the world in
+which bodies are distinguished by the figure and movement. What does Leibniz commit
+himself to when he tells us no? It is absolutely necessary that to all these non-conceptual
+differences there correspond conceptual differences; they only cause it to be imperfectly
+translated. All non-conceptual differences only cause a basic conceptual difference to be
+imperfectly translated. Leibniz commits himself to a task of physics. He has to find a
+reason for which a body is either in a particular number, or in a particular here and now,
+or has a particular figure and a particular velocity. He will translate that quite well in his
+critique of Descartes when he says that velocity is a pure relative. Descartes was wrong;
+he took something that was purely relative for a principle. It is therefore necessary that
+figure and movement be surpassed (se dépassent) toward something deeper. This means
+something quite enormous for philosophy in the seventeenth century.
+
+Specifically, that there is no extended substance or that extent (l'étendue) cannot be a
+substance. That extent is a pure phenomenon. That it refers to something deeper. That
+there is no concept of extent, that the concept is of another nature. It is therefore
+necessary that figure and movement find their reason in something deeper. Henceforth,
+extent has no sufficiency. It is not by chance that this is precisely what makes a new
+physics, he completely recreates the physics of forces. He opposes force, on one hand, to
+figure and extent, on the other, figure and extent being only manifestations of force. It is
+
+                                                                                             9
+
+force that is the true concept. There is no concept of extent because the true concept is
+force. Force is the reason of figure and movement in extent.
+
+Hence the importance of this operation that appeared purely technical when he said that
+what is conserved in movement is not mv, but mv2. Squaring velocity is the translation of
+the concept of force, which is to say that everything changes. It is physics that
+corresponds to the principle of indiscernibles. There are no two similar or identical
+forces, and forces are the true concepts that must take account of or justify everything
+that is figure or movement in extent.
+
+Force is not a movement; it is the reason for movement. Hence the complete renewal of
+the physics of forces, and also of geometry, of kinematics (de la cinématique).
+Everything passes through this, merely by the squaring of velocity. Mv2 is a formula of
+forces, not a formula of movement. You see that this is essential.
+
+To sum up generally, I can also say that figure and movement must move forward toward
+force. Number must move forward toward the concept. Space and time must also move
+forward toward the concept.
+
+But this is how a fourth principle develops quite slowly, one that Leibniz names the law
+of continuity. Why did he say law? That is a problem. When Leibniz speaks of continuity
+that he considers to be a fundamental principle and one of his very own great discoveries,
+he no longer uses the term "principle," but uses the term "law." We have to explain that.
+If I look for a vulgar formulation of the law of continuity, it is quite simple: nature does
+not skip over anything (la nature ne fait pas de saut). There is no discontinuity. But there
+are two scholarly formulations. If two causes get as close as one would like, to the point
+of only differing by a difference decreasing to infinity, the effects must differ in like
+manner. I immediately say what Leibniz is thinking about because he has it in for
+Descartes so much. What are we told in the laws of the communication of movement?
+Here are two cases: two bodies of the same mass and velocity meet each other; one of the
+two bodies has a greater mass or a greater velocity, so it carries off the other. Leibniz
+says that this cannot be. Why? You have two states of the cause. First state of the cause:
+two bodies of the same mass and velocity. Second state of the cause: two bodies of
+different masses.
+
+Leibniz says that you can cause difference to decrease to infinity, you can act so these
+two states approach one another in the causes. And we are told that the two effects are
+completely different: in one case, there is a repulsion (rebondissement) of the two bodies,
+in the other case, the second body is dragged off by the first, in the direction of the first.
+There is a discontinuity in the effect whereas one can conceive of a continuity in the
+causes. It is in a continuous manner that we can pass from different masses to equal
+masses. Thus, it is not possible for there to be discontinuity in the acts (faits) if there is
+possible continuity in the cause. That leads him again into a whole, very important
+physical study of movement that will be centered on the substitution of a physics of
+forces for a physics of movement. I was citing this to refresh our memory.
+
+                                                                                             10
+
+But the other scholarly formulation of the same principle, and you will understand that it
+is the same thing as the preceding one: in a given case, the concept of the case ends in the
+opposite case. This is the pure statement of continuity. Example: a given case is
+movement, the concept of movement ends in the opposite case, that is, in rest. Rest is
+infinitely small movement. This is what we saw from the infinitesimal principle of
+continuity. Or I might say that the last possible scholarly formulation of continuity is: a
+given singularity extends itself into a whole series of ordinaries all the way to the
+neighborhood of the following singularity. This time it is the law of the composition of
+the continuous. We worked on that the last time.
+
+But right when we thought we had finished, there arises a very important problem.
+Something impels me to say that, between principle three and principle four, there is a
+contradiction, that is, between the principle of indiscernibles and the principle of
+continuity, there is a contradiction. First question: in what way is there a contradiction?
+Second question: the fact is that Leibniz never considered there to be the slightest
+contradiction. Here we are in that situation of liking and profoundly admiring a
+philosopher, yet of being disturbed because some texts seem contradictory to us, and he
+did not even see what we might tell him. Where would the contradiction be if there was
+one? I return to the principle of indiscernibles, every difference is conceptual, there are
+no two things having the same concept. At the limit, I might say that to every thing
+corresponds a determined difference, not only determined but assignable in the concept.
+The difference is not only determined or determinable, it is assignable in the very
+concept. There are no two drops of water having the same concept, that is, the difference
+one-two must be encompassed in the concept. It must be assigned in the concept. Thus
+every difference is an assignable difference in the concept. What does the principle of
+continuity tell us? It tells us that things proceed by vanishing differences, infinitely small
+differences, that is unassignable differences.
+
+That gets really awful. Can one say that every thing proceeds by unassignable difference
+and say at the same time that every difference is assigned and must be assigned in the
+concept? Ah! Doesn't Leibniz contradict himself? We can move forward a small bit by
+looking at the ratio of the principle of continuity since I found a ratio for each of the first
+three principles. Identity is the reason of essence or ratio essendi, sufficient reason is the
+reason of existence or the ratio existendi, the indiscernibles are the reason for knowing or
+the ratio cognoscendi, and the principle of continuity is the ratio fiendi, that is, the reason
+for becoming. Things become through continuity. Movement becomes rest, rest becomes
+movement, etc. The polygon becomes a circle by multiplying its sides, etc. This is a very
+different reason for becoming from the reasons of being or of existing. The ratio fiendi
+needed a principle, and it is the principle of continuity.
+
+How do we reconcile continuity and indiscernibles? Moreover, we have to show that the
+way in which we will reconcile them must take account of this at the same time: that
+Leibniz was right to see no contradiction at all between them. In this we have the
+experience of thought. I return to the proposition: each individual notion expresses the
+whole world. Adam expresses the world, Caesar expresses the world, each of you
+expresses the world. This formula is very strange. Concepts in philosophy are not a single
+
+                                                                                              11
+
+word. A great philosophical concept is a complex, a proposition, or a prepositional
+function. One would have to do exercises in philosophical grammar. Philosophical
+grammar would consist of this: with a given concept, find the verb. If you have not found
+the verb, you have not rendered the verb dynamic, you cannot live it. The concept is
+always subject to a movement, a movement of thought. A single thing counts: movement.
+When you do philosophy, you are looking only at movement, only it is a particular kind
+of movement, the movement of thought. What is the verb? Sometimes the philosopher
+states it explicitly, sometimes he does not state it. Is Leibniz going to state it? In each
+individual notion that expresses the world, there is a verb, this is expressing. But what
+does that mean? It means two things at once, as if two movements coexisted.
+
+Leibniz tells us at the same time: God does not create Adam the sinner, but creates the
+world in which Adam sinned. God does not create Caesar crossing the Rubicon, but
+creates the world in which Caesar crosses the Rubicon. Thus, what God creates is the
+world and not the individual notions that express the world. Second proposition by
+Leibniz: the world exists only in the individual notions that express it. If you privilege
+one individual notion over the other . . . If you accept that, what results is like two
+readings or two complementary and simultaneous ways of understanding, but two
+understandings of what? You can consider the world, but yet again the world does not
+exist in itself, it exists only in the notions that express it. But you can make this
+abstraction, you consider the world. How do you consider it? You consider it as a
+complex curve. A complex curve has singular points and ordinary points. A singular
+point extends itself into the ordinary points that depend on it all the way to the
+neighborhood of another singularity, etc. etc. . . . and you compose the curve in a
+continuous manner like that, by extending singularities into series of ordinaries.
+
+For Leibniz, that is what the world is. The continuous world is the distribution of
+singularities and regularities, or singularities and ordinaries that constitute precisely the
+aggregate chosen by God, that is, the set that unites the maximum of continuity. If you
+remain in this vision, the world is governed by the law of continuity since continuity is
+precisely this composition of singulars insofar as they extend into the series of ordinaries
+that depend on them. You have your world that is literally laid out in the form of a curve
+in which singularities and regularities are distributed. This is the first point of view that is
+completely subject to the law of continuity.
+
+Only here we are, this world does not exist in itself, it exists only in the individual
+notions that express this world. That means that an individual notion, a monad, that each
+one encompasses a small determined number of singularities. It encloses a small number
+of singularities. It is the small number of singularities. … You recall that individual
+notions or monads are points of view on the world. It is not the subject that explains the
+point of view, it is the point of view that explains the subject. Hence the need to ask
+oneself, what is this point of view?
+
+A point of view is defined by this: a small number of singularities drawn from the curve
+of the world. This is what is at the basis of an individual notion. What makes the
+difference between you and me is that you, on this kind of fictional curve, are constructed
+
+                                                                                           12
+
+around such and such singularities and me around such and such singularities. And what
+you call individuality is a complex of singularities insofar as they form a point of view.3
+
+[85 :00] There are two states of the world. It has a developed, unrolled state, and it has an
+enveloped, rolled up state – a rolled up state of the world, an enveloped state of the
+world: it’s the world such that it’s in each individual notion that expresses it. Developed
+state of the world, as all individual notions express the same world, you can always
+develop the world in order to consider it abstractly in itself, like this curve endowed with
+singularities. In that case, you will be speaking about the world.
+I would say that in light of this, [86:00] the world is an aggregate of compossible
+individual notions insofar as they are developed, and the individual notion is the world
+insofar as it’s enveloped in the points of view that express it. The world develops the
+individual notions; the individual notions envelop the world. Envelop, develop; roll up,
+unroll. An individual notion is the world rolled up from a certain point of view. The
+world is the aggregate of unrolled individual notions.
+To envelop, to develop. Here we have the dynamic verbs that I have been seeking.
+[87:00] To roll up, to unroll. When logic proposes to us, yet again the concept or the
+doublet, two concepts… to implicate, to explicate, you understand? Implicare, explicare,
+in Latin, it’s precisely involvere, devolvere. To implicate is to envelop, to roll into; to
+explicate is to unroll, to develop. The world develops an aggregate of individual notions;
+the individual notions envelop the world.
+It’s the dynamism and the coexistence of envelopment and development that is going to
+provide all the underlying movements, like geological movements, that run through
+Leibniz’s philosophy. [88:00] So, did he invent them? No, there is a whole tradition, a
+tradition going back to the neo-Platonists that create a kind of amazing mise en scène, the
+degrees of envelopment and development in the world, the sense in which the seed
+envelops the tree, the sense in which the tree develops the germ. (In this sense), all sorts
+of problems arise that are not only problems of logic.
+And certainly, just as Ariadne did things too well, there is a third concept that is rather
+pretty. In order to translate the simultaneity of the two movements of envelopment and
+development – the world that develops notions, the notions that envelop the world – a
+term is very necessary… What is there above the world and its subject, the world that
+develops the subjects, and the subjects that envelop the world? There’s always God;
+there’s always this story of God [89:00] since it’s a philosophy that is linked so much to a
+certain theology. But God is not a point of view; it’s not a subject; it’s not even the world.
+God creates the world, as we know, and in creating the world, he creates subjects, or vice
+versa. But you see, subject and world are completely correlative because one is in the
+developed state what the other is in the enveloped state. That’s what’s so great,
+understand? The subject is in the enveloped state what the world is in the developed state.
+It’s so beautiful!
+Moreover, from this you also grasp how continuity and the indiscernibles … there is no
+contradiction. The law of continuity is the law of development, and the indiscernibles are
+
+                                                                                            13
+
+the principle of envelopment. [90:00] If you look at what this expression applies to,
+“Everything distinguishes itself through the concept; every difference is conceptual,” it’s
+obviously to the state of enveloped things in subjects. On the contrary, the evanescent
+differences are the state of the world insofar as they are developed such that there is no
+contradiction. Difference, yes, is evanescent and unassignable to the point of view of the
+development of the subject in the world; it is assignable and conceptual to the point of
+view of the envelopment of the world in the subject.
+So, God, what does it do since… it’s neither enveloped, nor developed, God. What is it?
+There’s a lovely word, created by philosophers prior to Leibniz: God is the great
+complicator. [91:00] It does not implicate, and it does not explicate; it does not envelop,
+and it does not develop; it complicates. Superb definition of God: the universal
+complication. So, what is it, to complicate? It’s to maintain the mutual simultaneity and
+immanence of envelopment and development. If I say that that guy’s complicated, what
+does that mean? Complicare, it’s a very beautiful word. It complicates… And
+complicating is not necessarily a weakness; to complicate is really the equivalent of
+understanding, but understanding in the strong sense of the term. In fact, I was thinking
+that there was a doublet, but there’s a triplet: to complicate, to explicate, to implicate.
+God complicates the subjects in the world. In all of Renaissance philosophy, [92:00]
+complication is going to undergo development; it will be one of the most beautiful
+concepts of Renaissance philosophy, notably in two philosophers that Leibniz knows
+admirably, Nicolas de Cusa, and the great Italian philosopher, [Giordano] Bruno, who
+died burned to death, who dies complicated by fire. [Laughter] The movement through
+which someone was burned to death, it diminishes, then… So that’s complication; God is
+fire. There you are. God complicates.
+So you see, we have found the dynamism, and in then [we ask], why is continuity a law?
+It’s very simple: continuity [inaudible]. The world develops, responding solely to
+phenomena; it’s only a phenomenon. [93 :00] It’s the apparition; it’s not the thing. The
+thing is the subject; it’s the subject that envelops the world. If you develop the world, it’s
+as if you went to the world of pure apparitions, of pure phenomena. So, continuity will be
+the principle of all the laws of phenomena, whereas the indiscernibles will be the
+principle of all reasons of the thing or the subject.
+Finally, the fifth principle – we’ve just reconciled the third and fourth [principles]. With
+the fifth one, I am stopping to leave it for the next time. But finally, because the fifth
+principle has so many aspects that it’s valid for an infinity of principles, the aggregate
+[94:00] of what Leibniz presents as the principles of finality. And what is the ratio of the
+principles of finality? This refers to the last ratio; there are five ratios that have crossed
+through philosophy since philosophy has existed: it’s the ratio agenda, that is, the reason
+for acting (raison de faire). You have the list of five reasons that you have to learn by
+heart: reason for being, reason for existing, reason for knowing, reason for becoming, and
+reason for acting (raison d’être, raison d’exister, raison de connaître, raison de devenir,
+et raison de faire).
+
+                                                                                           14
+
+Good, so we will see. This is what remains to do, this story, but have you had enough?
+Ah yes, indeed!... So I close finally on this, because only… what I am going do at the
+start of our next meeting. [95:00]
+Understand the problem: what I would like is for you to think about this from now until
+the next time. What it is: as we will begin, we find ourselves facing a privileged example
+for our understanding of philosophy. I have indicated that after all, these five principles
+from Leibniz don’t go without saying. Imagine a philosopher – and this philosopher
+existed shortly after Leibniz – who really does not agree with these principles. I choose
+the example of Kant. He does not agree on two fundamental points that I will explain:
+here we really need to proceed in a very technical manner. Kant is the one who says, first,
+no, every proposition is not analytic. There are synthetic propositions, and it’s in this very
+way that there is knowledge. One person says white, the other one says black. Second
+Kantian proposition [96:00]: no, every difference is not conceptual. But a certain number
+of determinations, notably the number lets time pass, are irreducible to concepts. So, it’s
+a double negation by Kant that creates a great rupture with Leibniz after having been
+Kantian for quite a long time. This is his great rupture: he negates the principle of
+sufficient reason, and he negates the principle of indiscernibles.
+The next time, we will find ourselves facing a privileged case, that I insist on in order to
+attempt to deal with this stupid notion about the status of philosophy, when we are told :
+on one hand, philosopher spend their time saying the same thing, which doesn’t keep
+them from getting into fights, because it’s a question of words ; on the other hand, which
+comes down entirely to the same thing, we are told that philosophers never stop telling us
+the contrary, to one another; they fight among themselves. What I want to ask the next
+time is about this privileged Leibniz-Kant example: what does the Leibniz-Kant
+opposition mean? Is this an opposition? What’s going on? What are the conditions of
+these propositions? You see, I am organizing four propositions, two for Leibniz, two for
+Kant, and I’d like to comment on them as a function of my real project, which is what are
+concepts in philosophy? Take a proposition from Leibniz: every proposition is analytic;
+Kant’s anti-proposition is: no, there is knowledge only beginning with synthetic
+propositions. [98:00] Second proposition from Leibniz: every difference, in the final
+instance, is conceptual; second Kant anti-proposition: no, there are non-conceptual
+differences without which there would be no knowledge, such as numerical differences,
+spatio-temporal differences, etc. So, starting from this privileged example, what can this
+common expression mean, that two philosophers do not agree. So think about it. It’s
+obvious they don’t agree, and it can even be logically proved; it’s a proposition devoid of
+meaning.
+There we are; I bless you. [End of the session] [1:38:45]
+Notes
+
+    Cf. https://www.youtube.com/watch?v=vyd4sjEgU-c&t=718s [Verified June 28, 2023]
+    Cf. “N as in Neurology” and “O as in Opera” in L’Abécédaire de Gilles Deleuze.
+
+                                                                                        15
+
+ End of the tape, for the Web Deleuze recording; the seminar with the addition of the
+additional 13 minutes on YouTube recording, referenced above.

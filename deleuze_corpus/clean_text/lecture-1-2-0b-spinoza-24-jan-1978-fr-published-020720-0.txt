@@ -1,0 +1,872 @@
+Gilles Deleuze - Spinoza
+
+24 January 1978
+
+L’affect et l’idée
+
+Transcription de Web Deleuze ; transcription augmentée, Charles J. Stivale
+
+Aujourd’hui on fait une pause dans notre travail sur la variation continue, on fait un retour
+provisoire pour une séance à l’histoire de la philosophie, sur un point très précis. C’est comme
+une coupure, à la demande de certains d’entre vous. Ce point très précis concerne ceci: qu’est-ce
+qu’une idée et qu’est-ce qu’un affect chez Spinoza ?
+
+Idée et affect chez Spinoza. Dans le courant de mars, à la demande de certains d’entre vous, on
+fera aussi une coupure sur le problème de la synthèse et le problème du temps chez Kant.
+
+Ça me fait un effet curieux de revenir à l’histoire. Je voudrais presque que vous preniez ce
+morceau d’histoire de la philosophie comme une histoire tout court. Après tout, un philosophe ce
+n’est pas seulement quelqu’un qui invente des notions, il invente aussi peut-être des manières de
+percevoir. Je procède presque par numérotage. Je commence surtout par des remarques
+terminologiques. Je suppose que la salle est relativement mélangée. Je crois que, de tous les
+philosophes dont l’histoire de la philosophie nous parle, Spinoza est dans une situation très
+exceptionnelle: la manière dont il touche ceux qui entrent dans ses livres n’a pas d’équivalent.
+Peu importe que vous l’ayez lu ou pas, je raconte une histoire. Je commence par des
+avertissements terminologiques. Dans le livre principal de Spinoza, et qui s’appelle l’Éthique,
+c’est écrit en latin, on trouve deux mots : affectio et affectus. Certains traducteurs très
+bizarrement traduisent de la même manière. C’est une catastrophe. Ils traduisent les deux termes,
+affectio et affectus, par « affection ». Je dis que c’est une catastrophe parce que, quand un
+philosophe emploie deux mots c’est que, par principe, il a une raison, surtout que le français
+nous donne aisément les deux mots qui correspondent rigoureusement à affectio et à affectus, et
+c’est affection pour affectio et affect pour affectus. Certains traducteurs traduisent affectio par
+affection et affectus par sentiment, c’est mieux que de traduire par le même mot, mais je ne vois
+pas la nécessité de recourir au mot sentiment alors que le français dispose du mot affect. Donc,
+quand j’emploie le mot affect ça renvoie à l’affectus de Spinoza, quand je dirai le mot affection,
+ça renvoie à l’affectio.
+
+L’idée, mode de pensée représentatif
+
+Premier point : qu’est-ce que c’est une idée ? Qu’est-ce que c’est une idée pour comprendre
+même les propositions les plus simples de Spinoza. Sur ce point Spinoza n’est pas original, il va
+prendre le mot idée au sens où tout le monde l’a toujours pris. Ce qu’on appelle idée, au sens où
+tout le monde l’a toujours pris dans l’histoire de la philosophie, c’est un mode de pensée qui
+représente quelque chose. Un mode de pensée représentatif. Par exemple, l’idée du triangle est
+le mode de pensée qui représente le triangle. Du point de vue toujours de la terminologie, il est
+très utile de savoir que depuis le Moyen Âge cet aspect de l’idée est nommé « réalité objective ».
+
+Dans un texte du XVIIe siècle ou d’avant, quand vous rencontrez la réalité objective de l’idée
+cela veut dire toujours : l’idée envisagée comme représentation de quelque chose. L’idée, en
+tant qu’elle représente quelque chose, est dite avoir une réalité objective. C’est le rapport de
+l’idée à l’objet qu’elle représente.
+
+L’affect, mode de pensée non représentatif
+
+Donc, on part d’une chose toute simple : l’idée, c’est un mode de pensée défini par son caractère
+représentatif. Ça nous donne déjà un tout premier point de départ pour distinguer idée et affect
+(affectus), parce que on appellera affect tout mode de pensée qui ne représente rien. Qu’estce que ça veut dire, ça ? Prenez au hasard ce que n’importe qui appelle affect ou sentiment, une
+espérance par exemple, une angoisse, un amour, cela n’est pas représentatif. Il y a bien une idée
+de la chose aimée, il y a bien une idée d’un quelque chose d’espéré, mais l’espoir en tant que tel
+ou l’amour en tant que tel, ne représentent rien, strictement rien.
+
+Tout mode de pensée en tant que non représentatif sera nommé affect. Une volition, une volonté,
+elle implique bien, à la rigueur, que je veuille quelque chose, ce que je veux, cela est objet de
+représentation, ce que je veux est donné dans une idée, mais le fait de vouloir n’est pas une idée,
+c’est un affect parce que c’est un mode de pensée non représentatif.
+
+Ça marche ? Ce n’est pas compliqué.
+
+Il en conclut immédiatement un primat de l’idée sur l’affect, et c’est commun à tout le XVIIe
+siècle, on n’est même pas encore rentré dans ce qui est propre à Spinoza. Il y a un primat de
+l’idée sur l’affect pour une raison très simple qui est que pour aimer il faut avoir une idée, si
+confuse soit elle, si indéterminée soit elle, de ce qu’on aime. Pour vouloir il faut avoir une idée,
+si confuse, si indéterminée soit elle, de ce qu’on veut. Même lorsqu’on dit, «je ne sais pas ce que
+je sens», il y a une représentation, aussi confuse qu’elle soit, de l’objet. Il y a une idée si confuse.
+Il y a donc un primat à la fois chronologique et logique de l’idée sur l’affect, c’est-à-dire des
+modes représentatifs de la pensée sur les modes non représentatifs. Il y aurait un contresens tout
+à fait désastreux si le lecteur transformait ce primat logique en réduction. Que l’affect
+présuppose l’idée, cela surtout ne veut pas dire qu’il se réduise à l’idée ou à une combinaison
+d’idées. Nous devons partir de ceci, que idée et affect sont deux espèces de mode de pensée qui
+diffèrent en nature, irréductible l’un à l’autre, mais simplement pris dans une telle relation que
+l’affect présuppose une idée, si confuse soit elle. Ça, c’est le premier point.
+
+Réalité objective – réalité formelle
+
+Deuxième manière moins superficielle de présenter le rapport idée-affect. Vous vous rappelez
+qu’on est parti d’un caractère tout à fait simple de l’idée. L’idée c’est une pensée en tant que
+représentative, c’est un mode de pensée en tant que représentatif, et en ce sens on parlera de la
+réalité objective d’une idée. Seulement une idée n’a pas seulement une réalité objective, suivant
+aussi la terminologie consacrée elle a aussi une réalité formelle. Qu’est-ce que la réalité formelle
+de l’idée une fois dit que la réalité objective c’est la réalité de l’idée en tant qu’elle représente
+quelque chose ? La réalité formelle de l’idée, dira-t-on, c’est – alors là ça devient beaucoup
+
+plus compliqué et du coup plus intéressant –, c’est la réalité de l’idée en tant qu’elle est ellemême quelque chose.
+
+La réalité objective de l’idée de triangle, c’est l’idée de triangle en tant que représentant la chose
+triangle, mais l’idée de triangle, elle est elle-même quelque chose ; d’ailleurs, en tant qu’elle est
+quelque chose, je peux former une idée de cette chose, je peux toujours former une idée de
+l’idée. Je dirais donc que non seulement toute idée est idée de quelque chose – dire que toute
+idée est idée de quelque chose, c’est dire que toute idée a une réalité objective, elle représente
+quelque chose –, mais je dirais aussi que l’idée a une réalité formelle puisqu’elle est elle-même
+quelque chose en tant qu’idée. Qu’est-ce que ça veut dire, la réalité formelle de l’idée ? On ne va
+pas pouvoir continuer beaucoup plus loin à ce niveau, il va falloir mettre ça de côté. Il faut juste
+ajouter que cette réalité formelle de l’idée, ça va être ce que Spinoza nomme très souvent un
+certain degré de réalité ou de perfection que l’idée a en tant que telle. Chaque idée a, en tant
+que telle, un certain degré de réalité ou de perfection. Sans doute ce degré de réalité ou de
+perfection est lié à l’objet qu’elle représente, mais ça ne se confond pas : la réalité formelle de
+l’idée, à savoir la chose qu’est l’idée ou le degré de réalité ou de perfection qu’elle possède en
+soi, c’est son caractère intrinsèque. La réalité objective de l’idée, à savoir le rapport de l’idée
+à l’objet qu’elle représente, c’est son caractère extrinsèque ; il se peut que le caractère
+extrinsèque et le caractère intrinsèque de l’idée soient fondamentalement liés, mais ce n’est pas
+la même chose. L’idée de Dieu et l’idée de grenouille ont une réalité objective différente, à
+savoir : elles ne représentent pas la même chose, mais en même temps elles n’ont pas la même
+réalité intrinsèque, elles n’ont pas la même réalité formelle, à savoir que l’une – vous le sentez
+bien – a un degré de réalité infiniment plus grand que l’autre. L’idée de Dieu a une réalité
+formelle, un degré de réalité ou de perfection intrinsèque infiniment plus grand que l’idée de
+grenouille, qui est l’idée d’une chose finie.
+
+Si vous avez compris ça, vous avez presque tout compris. Il y a donc une réalité formelle de
+l’idée, c’est-à-dire que l’idée est quelque chose en elle-même, cette réalité formelle c’est son
+caractère intrinsèque et c’est le degré de réalité ou de perfection qu’elle enveloppe en elle-même.
+
+L’affect, variation continue de la force d’exister ou de la puissance d’agir
+
+Tout à l’heure, quand je définissais l’idée par sa réalité objective ou par son caractère
+représentatif, j’opposais immédiatement l’idée à l’affect en disant que l’affect c’est précisément
+un mode de pensée qui n’a pas de caractère représentatif. Maintenant je viens de définir l’idée
+par ceci : toute idée est quelque chose, non seulement est idée de quelque chose mais est quelque
+chose, c’est-à-dire a un degré de réalité ou de perfection qui lui est propre.
+
+Il faut donc que, à ce second niveau, je découvre une différence fondamentale entre idée et
+affect. Qu’est-ce qui se passe concrètement dans la vie? Il se passe deux choses… Et là, c’est
+curieux comme Spinoza emploie une méthode géométrique, vous savez que l’Éthique se présente
+sous forme de propositions, démonstrations, etc., et en même temps, plus c’est mathématique,
+plus c’est extraordinairement concret. Tout ce que je dis et tous ces commentaires sur idée et
+affect renvoient aux livres II et III de l’Éthique. Dans ces livres deux et trois, il nous fait une
+espèce de portrait géométrique de notre vie qui, il me semble, est très très convaincant.
+
+Ce portrait géométrique, ça consiste à nous dire en gros que nos idées se succèdent constamment
+: une idée chasse l’autre, une idée remplace une autre idée, par exemple à l’instant. Une
+perception, c’est un certain type d’idée, on verra pourquoi tout à l’heure. Tout à l’heure j’avais la
+tête tournée là, je voyais tel coin de la salle, je tourne, c’est une autre idée; je me promène dans
+une rue où je connais des gens, je dis bonjour Pierre, et puis je me tourne, et puis je dis bonjour
+Paul. Ou bien c’est les choses qui changent : je regarde le soleil, et le soleil petit à petit disparaît
+et je me trouve dans la nuit ; c’est donc une série de successions, de coexistences d’idées,
+successions d’idées. Mais qu’est-ce qui se passe aussi ? Notre vie quotidienne n’est pas faite
+seulement des idées qui se succèdent. Spinoza emploie le terme « automaton » ; nous sommes,
+dit-il, des automates spirituels, c’est-à-dire que c’est moins nous qui avons des idées que les
+idées qui s’affirment en nous. Qu’est-ce qui se passe aussi, à part cette succession d’idées ?
+
+Il y a autre chose, à savoir : quelque chose en moi ne cesse pas de varier. Il y a un régime de la
+variation qui n’est pas la même chose que la succession des idées elles-mêmes. Variations, ça
+doit nous servir pour ce que nous voulons faire, l’ennui c’est qu’il n’emploie pas le mot…
+Qu’est-ce que c’est que cette variation?
+
+Je reprends mon exemple : je croise dans la rue Pierre qui m’est très antipathique, et puis je le
+dépasse, je dis bonjour Pierre, ou bien j’en ai peur et puis je vois soudain Paul qui m’est très très
+charmant, et je dis bonjour Paul, rassuré, content. Bien. Qu’est-ce que c’est ? D’une part,
+succession de deux idées, idée de Pierre et idée de Paul ; mais il y a autre chose : s’est opérée
+aussi en moi une variation – là, les mots de Spinoza sont très précis, aussi je les cite :
+« (variation) de ma force d’exister », ou autre mot qu’il emploie comme synonyme, vis existendi,
+la force d’exister, ou petentia agendi, la puissance d’agir – et ces variations sont perpétuelles. Je
+dirais que pour Spinoza il y a variation continue – et exister cela veut dire ça – de la force
+d’exister ou de la puissance d’agir.
+
+Comment est-ce que ça se raccroche à mon exemple stupide, mais qui est de Spinoza, bonjour
+Pierre, bonjour Paul ? Lorsque je vois Pierre qui me déplaît, une idée, l’idée de Pierre, m’est
+donnée; lorsque je vois Paul qui me plaît, l’idée de Paul m’est donnée. Chacune de ces idées par
+rapport à moi a un certain degré de réalité ou de perfection. Je dirais que l’idée de Paul, par
+rapport à moi, a plus de perfection intrinsèque que l’idée de Pierre puisque l’idée de Paul me
+contente et l’idée de Pierre me chagrine. Lorsque l’idée de Paul succède à l’idée de Pierre, il
+convient de dire que ma force d’exister ou que ma puissance d’agir est augmentée ou favorisée ;
+lorsque, au contraire, c’est l’inverse, lorsque après avoir vu quelqu’un qui me rendait joyeux, je
+vois quelqu’un qui me rend triste, je dis que ma puissance d’agir est inhibée ou empêchée. A ce
+niveau, on ne sait même plus si on est encore dans des conventions terminologiques ou si on est
+déjà dans quelque chose de beaucoup plus concret.
+
+Je dirais donc que à mesure que les idées se succèdent en nous, chacune ayant son degré de
+perfection, son degré de réalité ou de perfection intrinsèque, celui qui a ces idées, moi, je ne
+cesse de passer d’un degré de perfection à un autre, en d’autres termes il y a une variation
+continue sous la forme d’augmentation-diminution-augmentation-diminution de la puissance
+d’agir ou de la force d’exister de quelqu’un d’après les idées qu’il a.
+
+À travers cet exercice pénible, sentez comment la beauté affleure. C’est pas mal, déjà, cette
+représentation de l’existence, c’est vraiment l’existence dans la rue, il faut imaginer Spinoza se
+baladant, et il vit vraiment l’existence comme cette espèce de variation continue: à mesure
+qu’une idée en remplace une autre, je ne cesse de passer d’un degré de perfection à un autre,
+même minuscule, et c’est cette espèce de ligne mélodique de la variation continue qui va définir
+l’affect (affectus) à la fois dans sa corrélation avec les idées et sa différence de nature avec les
+idées. Nous rendre compte de cette différence de nature et de cette corrélation. C’est à vous de
+dire si ça vous convient ou pas.
+
+Nous tenons tous une définition plus solide de l’affectus ; l’affectus chez Spinoza, c’est la
+variation (c’est lui qui parle par ma bouche ; il ne l’a pas dit parce qu’il est mort trop jeune…),
+c’est la variation continue de la force d’exister, en tant que cette variation est déterminée
+par les idées qu’on a. Dès lors, dans un texte très important de la fin du livre III, qui porte le
+titre de « Définition générale de l’affectus », Spinoza nous dit : surtout ne croyez pas que
+l’affectus tel que je le conçois dépende d’une comparaison des idées. Il veut dire que l’idée a
+beau être première par rapport à l’affect, l’idée et l’affect sont deux choses qui diffèrent en
+nature, l’affect ne se réduit pas à une comparaison intellectuelle des idées, l’affect est constitué
+par la transition vécue ou par le passage vécu d’un degré de perfection à un autre, en tant que ce
+passage est déterminé par les idées ; mais en lui-même il ne consiste pas en une idée, il constitue
+l’affect.
+
+Lorsque je passe de l’idée de Pierre à l’idée de Paul, je dis que ma puissance d’agir est
+augmentée ; lorsque je passe de l’idée de Paul à l’idée de Pierre, je dis que ma puissance d’agir
+est diminuée. Ce qui revient à dire que lorsque je vois Pierre, je suis affecté de tristesse ; lorsque
+je vois Paul, je suis affecté de joie. Et, sur cette ligne mélodique de la variation continue
+constituée par l’affect, Spinoza va assigner deux pôles, joie-tristesse, qui seront pour lui les
+passions fondamentales, et la tristesse ce sera toute passion, n’importe quelle passion
+enveloppant une diminution de ma puissance d’agir, et joie sera toute passion enveloppant une
+augmentation de ma puissance d’agir.
+
+Ce qui permettra à Spinoza de s’ouvrir par exemple sur un problème moral et politique très
+fondamental, qui sera sa manière à lui de poser le problème politique : comment se fait-il que les
+gens qui ont le pouvoir, dans n’importe quel domaine, ont besoin de nous affecter d’une manière
+triste ? Les passions tristes comme nécessaires. Inspirer des passions tristes est nécessaire à
+l’exercice du pouvoir. Et Spinoza dit, dans le Traité théologico-politique, que c’est cela le lien
+profond entre le despote et le prêtre, ils ont besoin de la tristesse de leurs sujets.
+
+Là, vous comprenez bien qu’il ne prend pas tristesse dans un sens vague, il prend tristesse au
+sens rigoureux qu’il a su lui donner : la tristesse c’est l’affect en tant qu’il enveloppe la
+diminution de la puissance d’agir.
+
+Lorsque je disais, dans ma première différence idée-affect, que l’affect c’est le mode de pensée
+qui ne représente rien, je dirais en termes techniques que ce n’était qu’une simple définition
+nominale, ou, si vous préférez, extérieure, extrinsèque. La seconde, lorsque je dis, d’une part,
+que l’idée, c’est ce qui a en soi une réalité intrinsèque, et l’affect, c’est la variation continue ou le
+passage d’un degré de réalité à un autre, ou d’un degré de perfection à un autre, nous ne sommes
+
+plus dans le domaine des définitions dites nominales, là nous tenons déjà une définition réelle, en
+appelant définition réelle la définition qui montre, en même temps qu’elle définit la chose, la
+possibilité de cette chose.
+
+Ce qui est important c’est que vous voyez comment, selon Spinoza, nous sommes fabriqués en
+tant qu’automates spirituels. En tant qu’automates spirituels, il y a tout le temps des idées qui se
+succèdent en nous, et suivant cette succession d’idées, notre puissance d’agir ou notre force
+d’exister est augmentée ou est diminuée d’une manière continue, sur une ligne continue, et c’est
+cela que nous appelons affectus, c’est ça que nous appelons exister.
+
+L’affectus c’est donc la variation continue de la force d’exister de quelqu’un, en tant que cette
+variation est déterminée par les idées qu’il a.
+
+Mais encore une fois, « déterminée » ne veut pas dire que la variation se réduise aux idées qu’il
+a, puisque l’idée que j’ai ne rend pas compte que sa conséquence, à savoir qu’elle augmente ma
+puissance d’agir ou au contraire la diminue par rapport à l’idée que j’avais tout à l’heure, et il ne
+s’agit pas d’une comparaison, il s’agit d’une espèce de glissade, de chute ou de hausse de la
+puissance d’agir.
+
+Pas de problème ? Pas de question ?
+
+Les trois sortes d’idées : affections, notions, essence
+
+Pour Spinoza, il va y avoir trois sortes d’idées. Pour le moment, on ne parle plus d’affectus, de
+l’affect, puisqu’en effet l’affect est déterminé par les idées qu’on a, il ne se réduit pas aux idées
+qu’on a, il est déterminé par les idées qu’on a ; donc ce qui est essentiel, c’est de voir un peu
+quelles sont ces idées qui déterminent les affects, tout en gardant bien présent dans notre esprit
+que l’affect ne se réduit pas aux idées qu’on a, il est absolument irréductible. Il est d’un autre
+ordre.
+
+Les trois espèces d’idées que Spinoza distingue, ce sont des idées affections, affectio. On va voir
+que l’affectio, contrairement à l’affectus, c’est un certain type d’idées. Il y aurait donc
+premièrement des idées affectio, deuxièmement il nous arrive aussi d’avoir des idées que
+Spinoza appelle des notions, et troisièmement, pour un petit nombre d’entre nous, parce que
+c’est très difficile, il arrive d’avoir des idées essences. C’est donc avant tout ces trois sortes
+d’idées.
+
+L’affection, mode de pensée inadéquat qui représente une affection du corps
+
+Qu’est-ce que c’est qu’une affection (affectio) ? Je vois littéralement vos yeux qui tombent…
+Pourtant c’est drôle, tout ça.
+
+A première vue, et à s’en tenir à la lettre au texte de Spinoza, ça n’a rien à voir avec une idée,
+mais ça n’a rien à voir non plus avec un affect. On avait déterminé l’affectus comme la variation
+
+de la puissance d’agir. Une affection, c’est quoi ? En première détermination, une affection, c’est
+ceci : c’est l’état d’un corps en tant qu’il subit l’action d’un autre corps. Qu’est-ce que ça veut
+dire ? « Je sens le soleil sur moi », ou bien, « un rayon de soleil se pose sur vous » ; c’est une
+affection de votre corps. Qu’est-ce qui est une affection de votre corps ? Pas la soleil, mais
+l’action du soleil ou l’effet du soleil sur vous. En d’autres termes, un effet, ou l’action qu’un
+corps produit sur un autre, une fois dit que Spinoza, pour des raisons de sa physique à lui, ne
+croit pas à une action à distance – l’action implique toujours un contact – eh bien c’est un
+mélange de corps. L’affectio c’est un mélange de deux corps, un corps qui est dit agir sur l’autre,
+et l’autre recueillir la trace du premier. Tout mélange de corps sera nommé affection.
+
+Spinoza en conclut que l’affectio étant défini comme un mélange de corps, elle indique la nature
+du corps modifié, la nature du corps affectionné ou affecté ; l’affection indique la nature du corps
+affecté beaucoup plus que la nature du corps affectant. Il analyse son exemple célèbre, « quand
+nous regardons le soleil, nous imaginons qu’il est distant de nous d’environ deux-cent pieds »
+[Livre II, proposition 35, scolie]. Ça c’est une affectio ou, tout du moins, c’est la perception
+d’une affectio. Il est clair que ma perception du soleil indique beaucoup plus la constitution de
+mon corps, la manière dont mon corps est constitué, que la manière dont le soleil est constitué. Je
+perçois le soleil ainsi en vertu de l’état de mes perceptions visuelles. Une mouche percevra le
+soleil autrement.
+
+Pour garder la rigueur de sa terminologie, Spinoza dira qu’une affectio indique la nature du corps
+modifié plutôt que la nature du corps modifiant, et elle enveloppe la nature du corps modifiant.
+Je dirais que la première sorte d’idée pour Spinoza, c’est tout mode de pensée qui
+représente une affection du corps ; c’est-à-dire le mélange d’un corps avec un autre corps, ou
+bien la trace d’un autre corps sur mon corps sera nommée idée d’affection. C’est en ce sens
+qu’on pourrait dire que c’est une idée-affection, c’est le premier type d’idées. Et ce premier type
+d’idées répond à ce que Spinoza nomme le premier genre de connaissance. C’est le plus bas.
+
+Pourquoi c’est le plus bas ? Ça va de soi que c’est le plus bas parce que ces idées d’affection ne
+connaissent les chose que par leurs effets : je sens l’affection du soleil sur moi, la trace du soleil
+sur moi. C’est l’effet du soleil sur mon corps. Mais les causes, à savoir ce qu’est mon corps, ce
+qu’est le corps du soleil, et le rapport entre ces deux corps de telle manière que l’un produise sur
+l’autre tel effet plutôt qu’autre chose, je n’en sais absolument rien. Prenons un autre exemple :
+« le soleil fait fondre la cire et durcir l’argile. » Ce n’est pas rien, ça. C’est des idées d’affectio.
+Je vois la cire qui coule, et puis juste à côté je vois l’argile qui durcit ; c’est une affection de la
+cire et une affection de l’argile, et moi j’ai une idée de ces affections, je perçois des effets. En
+vertu de quelle constitution corporelle l’argile durcit-elle sous l’action du soleil ? Tant que j’en
+reste à la perception de l’affection, je n’en sais rien. On dira que les idées-affections sont des
+représentations d’effets sans leurs causes, et c’est précisément cela que Spinoza appelle des idées
+inadéquates. C’est des idées de mélange séparées des causes du mélange.
+
+Et en effet, que, au niveau des idées-affections, nous n’ayons que des idées inadéquates et
+confuses, ça se comprend très bien puisque c’est quoi, dans l’ordre de la vie, les idées-affections
+? Et sans doute, hélas, beaucoup d’entre nous, qui ne font pas assez de philosophie, ne vivent que
+comme ça. Une fois, une seule fois, Spinoza emploie un mot latin, qui est très étrange mais très
+important, qui est ocursus. C’est littéralement la rencontre. Tant que j’ai des idées-affections, je
+
+vis au hasard des rencontres : je me promène dans la rue, je vois Pierre qui ne me plaît pas, c’est
+en fonction de la constitution de son corps et de son âme et de la constitution de mon corps et de
+mon âme. Quelqu’un qui me déplaît, corps et âme, qu’est-ce que ça veut dire ?
+
+Je voudrais vous faire comprendre pourquoi Spinoza a eu notamment une réputation très forte de
+matérialiste alors qu’il ne cessait de parler de l’esprit et de l’âme, une réputation d’athée alors
+qu’il ne cessait de parler de Dieu – c’est très curieux. On voit bien pourquoi les gens se disaient
+que c’est du pur matérialisme. Quand je dis : celui-là ne me plaît pas, ça veut dire, à la lettre, que
+l’effet de son corps sur le mien, l’effet de son âme sur la mienne, m’affecte désagréablement,
+c’est des mélanges de corps ou des mélanges d’âmes. Il y a un mélange nocif ou un bon mélange,
+aussi bien au niveau du corps que de l’âme. C’est exactement comme : je n’aime pas le fromage.
+Qu’est-ce que ça veut dire ? Je n’aime pas le fromage. Ça veut dire que ça se mélange avec
+mon corps de manière à ce que je suis modifié d’une manière désagréable, ça ne veut rien
+dire d’autre. Donc il n’y a aucune raison de faire des différences entre des sympathies spirituelles
+et des rapports corporels. Dans « je n’aime pas le fromage », il y a aussi une affaire d’âme, mais
+dans « Pierre ou Paul ne me plaît pas », il y a aussi une affaire de corps, c’est du pareil au même
+tout cela. Simplement pourquoi est-ce que c’est une idée confuse, cette idée-affection, ce
+mélange ? C’est forcément confus et inadéquat puisque je ne sais absolument pas, à ce niveau, en
+vertu de quoi et comment le corps ou l’âme de Pierre est constitué, de telle manière qu’elle ne
+convienne pas avec la mienne, ou de telle manière que son corps ne convienne pas avec le mien.
+Je peux juste dire que ça ne convient pas, mais en vertu de quelle constitution des deux corps, et
+du corps affectant et du corps affecté, et du corps qui agit et du corps qui subit, à ce niveau là je
+n’en sais rien. Comme dit Spinoza, ce sont des conséquences séparées de leurs prémices ou, si
+vous préférez, c’est une connaissance des effets indépendamment de la connaissance des causes.
+C’est donc au hasard des rencontres. Qu’est-ce qui peut se passer au hasard des rencontres ?
+
+Mais qu’est-ce qu’un corps ? Je ne vais pas développer, ça ferait l’objet d’un cours spécial. La
+théorie de qu’est-ce que c’est qu’un corps, ou bien une âme, ça revient au même, elle se trouve
+dans le livre II de l’Éthique. Pour Spinoza, l’individualité d’un corps se définit par ceci : c’est
+lorsque un certain rapport composé (j’insiste là-dessus, très composé, très complexe) ou
+complexe de mouvement et de repos se maintient à travers tous les changements qui affectent les
+parties de ce corps. C’est la permanence d’un rapport de mouvement et de repos à travers tous les
+changements qui affectent toutes les parties à l’infini du corps considéré. Vous comprenez qu’un
+corps est nécessairement composé à l’infini. Mon œil, par exemple, mon œil et la relative
+constance de mon œil, se définit par un certain rapport de mouvement et de repos à travers toutes
+les modifications des diverses parties de mon œil ; mais mon œil lui-même, qui a déjà une
+infinité de parties, il est une partie des parties de mon corps, l’œil à son tour est une partie du
+visage et le visage, à son tour, est une partie de mon corps, etc. Donc vous avez toutes sortes de
+rapports qui vont se composer les uns avec les autres pour former une individualité de tel ou tel
+degré. Mais à chacun de ces niveaux ou degrés, l’individualité sera définie par un certain rapport
+composé de mouvement et de repos.
+
+Qu’est-ce qui peut se passer si mon corps est ainsi fait, un certain rapport de mouvement et de
+repos qui subsume une infinité de parties ? Il peut se passer deux choses : je mange quelque
+chose que j’aime, ou bien, autre exemple, je mange quelque chose et je m’écroule empoisonné.
+À la lettre, dans un cas, j’ai fait une bonne rencontre, dans l’autre cas, j’ai fait une mauvaise
+
+rencontre. Tout ça, c’est de la catégorie de l’ocursus. Lorsque je fais une mauvaise rencontre,
+cela veut dire que le corps qui se mélange au mien détruit mon rapport constituant, ou tend à
+détruire un de mes rapports subordonnés. Par exemple, je mange quelque chose et j’ai mal au
+ventre, ça ne me tue pas ; ça a donc détruit ou ça a inhibé, compromis un de mes sous-rapports,
+un de mes rapports composants. Puis je mange quelque chose et je meurs. Là, ça a décomposé
+mon rapport composé, ça a décomposé le rapport complexe qui définissait mon individualité. Ça
+n’a pas simplement détruit un de mes rapports subordonnés qui composait une de mes sous
+individualités, ça a détruit le rapport caractéristique de mon corps. Inversement quand je mange
+quelque chose qui me convient.
+
+« Qu’est-ce que c’est que le mal ? » demande Spinoza. On trouve ça dans la correspondance. Ce
+sont des lettres qu’il envoya à un jeune hollandais qui était méchant comme tout. Ce hollandais
+n’aimait pas Spinoza et l’attaquait constamment, il lui demandait : dîtes moi ce que c’est pour
+vous que le mal. Vous savez qu’en ce temps-là, les lettres, c’était très important, et les
+philosophes envoyaient beaucoup de lettres. Spinoza, qui est très très gentil, croit au début que
+c’est un jeune homme qui veut s’instruire et, petit à petit, il comprend que ce n’est pas du tout ça,
+que le hollandais veut sa peau. De lettre en lettre, la colère de Blyenberg, qui était un bon
+chrétien, gonfle, et il finit par lui dire : mais vous êtes le diable ! Spinoza dit que le mal, ce n’est
+pas difficile, le mal c’est une mauvaise rencontre. Rencontrer un corps qui se mélange mal avec
+le vôtre. Se mélanger mal, ça veut dire se mélanger dans des conditions telles que un de vos
+rapports subordonnés ou que votre rapports constituant est, ou bien menacé ou compromis, ou
+bien même détruit. De plus en plus gai, voulant montrer qu’il a raison, Spinoza analyse à sa
+manière l’exemple d’Adam.
+
+Dans les conditions dans lesquelles nous vivons, nous semblons absolument condamnés à
+n’avoir qu’une seule sorte d’idées, les idées-affections. Par quel miracle on pourrait sortir de ces
+actions de corps qui ne nous ont pas attendus pour exister, comment pourrait-on s’élever à une
+connaissance des causes ? Pour le moment on voit bien que depuis que nous naissons nous
+sommes condamnés au hasard des rencontres, alors ça ne va pas fort. Ça implique quoi ? Ça
+implique déjà une réaction forcenée contre Descartes puisque Spinoza affirmera très fort, dans
+le livre II, que nous ne pouvons nous connaître nous-mêmes, et nous ne pouvons connaître les
+corps extérieurs que par les affections que les corps extérieurs produisent sur le nôtre.
+
+Pour ceux qui se rappellent un peu Descartes, c’est la proposition anti-cartésienne de base
+puisque cela exclut toute appréhension de la chose pensante par elle-même, à savoir cela exclut
+toute possibilité du cogito. Je ne connais jamais que les mélanges de corps et je ne me connais
+moi-même que par l’action des autres corps sur moi, et par les mélanges. C’est non seulement de
+l’anti-cartésianisme, mais c’est aussi de l’anti-christianisme. Pourquoi ? Parce qu’un des points
+fondamentaux de la théologie, c’est la perfection immédiate du premier homme créé, ce qu’on
+appelle, en théologie, la théorie de la perfection adamique. Adam, avant de pécher, est créé aussi
+parfait qu’il peut l’être, et puis il y a l’histoire du péché qui est précisément l’histoire de la chute,
+mais la chute présuppose un Adam parfait en tant que créature.
+
+Cette idée paraît très drôle à Spinoza. Son idée, c’est que ce n’est pas possible ; à supposer que
+l’on se donne l’idée d’un premier homme, on ne peut se la donner comme celle de l’être le plus
+impuissant, le plus imparfait qui soit puisque le premier homme ne peut exister qu’au hasard des
+
+rencontres et des actions des autres corps sur lui-même. Donc, à supposer qu’Adam existe, il
+existe sur un mode de l’imperfection et de l’inadéquation absolue, il existe sur le mode d’un petit
+bébé qui est livré au hasard des rencontres, à moins qu’il ne soit dans un milieu protégé, mais là
+j’en ai trop dit... Qu’est-ce que ce serait, un milieu protégé ?
+
+Le mal, c’est une mauvaise rencontre. Ça veut dire quoi ? Spinoza, dans sa correspondance au
+hollandais, lui dit : tu me rapportes tout le temps l’exemple de Dieu qui a interdit à Adam de
+manger la pomme, et tu cites ça comme l’exemple d’une loi morale. Le premier interdit. Spinoza
+lui dit : mais ce n’est pas du tout ça ce qui se passe, et Spinoza reprend toute l’histoire d’Adam
+sous la forme d’un empoisonnement et d’une intoxication. Qu’est-ce qui s’est passé en réalité ?
+Dieu n’a jamais interdit quoi que ce soit à Adam, il lui a accordé une révélation. Il l’a prévenu de
+l’effet nocif que le corps de la pomme aurait sur la constitution de son corps à lui, Adam. En
+d’autres termes, la pomme est un poison pour Adam. Le corps de la pomme existe sous un tel
+rapport caractéristique [que la pomme] ne peut agir sur le corps d’Adam tel qu’il est constitué
+qu’en décomposant le rapport du corps d’Adam. Et s’il a eu tort de ne pas écouter Dieu, ce n’est
+pas au sens de ceci qu’il aurait désobéi, c’est qu’il n’a rien compris. Ça existe aussi chez les
+animaux, certains ont un instinct qui les détourne de ce qui est poison pour eux, il y en a d’autres
+qui, sur tel point, n’ont pas cet instinct.
+
+Lorsque je fais une rencontre telle que le rapport du corps qui me modifie, qui agit sur moi, se
+combine avec mon propre rapport, avec le rapport caractéristique de mon propre corps, qu’est-ce
+qui se passe ? Je dirais que ma puissance d’agir est augmentée ; elle est au moins augmentée sous
+ce rapport-là. Lorsque, au contraire, je fais une rencontre telle que le rapport caractéristique du
+corps qui me modifie compromet ou détruit un de mes rapports, ou mon rapport caractéristique,
+je dirais que ma puissance d’agir est diminuée, ou même détruite. Nous retrouvons là nos deux
+affects – affectus –, fondamentaux : la tristesse et la joie.
+
+Pour tout regrouper à ce niveau, en fonction des idées d’affection que j’ai, il y a deux sortes
+d’idées d’affection : idée d’un effet qui se concilie ou qui favorise mon propre rapport
+caractéristique. Deuxième type d’idée d’affection : l’idée d’un effet qui compromet ou détruit
+mon propre rapport caractéristique. À ces deux types d’idées d’affection vont correspondre les
+deux mouvements de la variation dans l’affectus, les deux pôles de la variation : dans un cas ma
+puissance d’agir est augmentée et j’éprouve un affectus de joie, dans l’autre cas ma puissance
+d’agir est diminuée et j’éprouve un affectus de tristesse. Et toutes les passions, dans leurs détails,
+Spinoza va les engendrer à partir de ces deux affects fondamentaux : la joie comme
+augmentation de la puissance d’agir, la tristesse comme diminution ou destruction de la
+puissance d’agir. Ce qui revient à dire que chaque chose, corps ou âme, se définit par un certain
+rapport caractéristique, complexe, mais j’aurais aussi bien dit que chaque chose, corps ou âme, se
+définit par un certain pouvoir d’être affecté.
+
+Tout se passe comme si chacun de nous avait un certain pouvoir d’être affecté. Si vous
+considérez des bêtes, Spinoza sera très fort pour nous dire que ce qui compte dans les animaux,
+ce n’est pas du tout les genres et les espèces ; les genres et les espèces c’est des notions
+absolument confuses, c’est des idées abstraites. Ce qui compte, c’est : de quoi un corps est-il
+capable ? Et il lance là une des questions les plus fondamentales de toute sa philosophie (avant il
+y avait eu Hobbes et d’autres) en disant que la seule question, c’est que nous ne savons même
+
+pas de quoi un corps est capable, nous bavardons sur l’âme et sur l’esprit et nous ne savons pas
+ce que peut un corps. Or, un corps doit être défini par l’ensemble des rapports qui le composent,
+ou, ce qui revient exactement au même, par son pouvoir d’être affecté. Et tant que vous ne saurez
+pas quel est le pouvoir d’être affecté d’un corps, tant que vous l’apprendrez comme ça, au hasard
+des rencontres, vous n’aurez pas la vie sage, vous n’aurez pas la sagesse. Savoir de quoi vous
+êtes capable. Pas du tout comme question morale, mais avant tout comme question physique,
+comme question au corps et à l’âme. Un corps a quelque chose de fondamentalement caché : on
+pourra parler de l’espèce humaine, du genre humain, ça ne nous dira pas qu’est-ce qui est
+capable d’affecter notre corps, qu’est-ce qui est capable de le détruire. La seule question, c’est ce
+pouvoir d’être affecté.
+
+Qu’est-ce qui distingue une grenouille d’un singe ? Ce ne sont pas des caractères spécifiques ou
+génériques, dit Spinoza, c’est qu’ils ne sont pas capables des mêmes affections. Donc il faudrait
+faire, pour chaque animal, de véritables cartes d’affects, les affects dont une bête est capable. Et
+pareil pour les hommes : les affects dont tel homme est capable. On s’apercevrait à ce moment-là
+que, suivant les cultures, suivant les sociétés, les hommes ne sont capables des mêmes affects. Il
+est bien connu qu’une méthode avec laquelle certains gouvernements ont liquidé les Indiens
+d’Amérique du sud, ça a été de laisser sur les chemins où passent les Indiens des vêtements de
+grippés, des vêtements pris dans les dispensaires parce que les Indiens ne supportent pas l’affect
+grippe. Même pas besoin de mitrailleuse, ils tombaient comme des mouches. Il va de soi que
+nous, dans les conditions de vie de la forêt, on risque de ne pas vivre très longtemps. Donc, genre
+humain, espèce humaine ou même race, Spinoza dira que ça n’a aucune importance tant que
+vous n’aurez pas fait la liste des affects dont quelqu’un est capable, au sens le plus fort du mot
+capable, y compris les maladies dont il est capable. C’est évident que cheval de course et cheval
+de labour c’est la même espèce, ce sont deux variétés de la même espèce, pourtant les affects
+sont très différents, les maladies sont absolument différentes, la capacité d’être affecté est
+complètement différente et, de ce point de vue là, il faut dire que un cheval de labour est plus
+proche d’un bœuf que d’un cheval de course. Donc, une carte éthologique des affects, c’est très
+différent d’une détermination générique et spécifique des animaux.
+
+Vous voyez que le pouvoir d’être affecté peut être rempli de deux manières : lorsque je suis
+empoisonné, mon pouvoir d’être affecté est absolument rempli, mais il est rempli de telle
+manière que ma puissance d’agir tend vers zéro, c’est-à-dire qu’elle est inhibée ; inversement,
+lorsque j’éprouve de la joie, c’est à dire lorsque je rencontre un corps qui compose son rapport
+avec le mien, mon pouvoir d’être affecté est rempli également et ma puissance d’agir augmente
+et tend vers… quoi ? Dans le cas d’une mauvaise rencontre, toute ma force d’exister (vis
+existendi) est concentrée, tendue vers le but suivant : investir la trace du corps qui m’affecte pour
+repousser l’effet de ce corps, si bien que ma puissance d’agir est diminuée d’autant.
+
+Ce sont des choses très concrètes. Vous avez mal à la tête et vous dites : je ne peux même plus
+lire. Ça veut dire que votre force d’exister investit tellement la trace migraine, ça implique des
+changements dans un de vos rapports subordonnés, elle investit tellement la trace de votre
+migraine que votre puissance d’agir est diminuée d’autant. Au contraire, quand vous dites : oh !
+je me sens bien, et que vous êtes content, vous êtes content aussi parce que des corps se sont
+mélangés avec vous dans des proportions et des conditions qui sont favorables à votre rapport ; à
+ce moment-là, la puissance du corps qui vous affecte se combine avec la vôtre de telle manière
+
+que votre puissance d’agir est augmentée. Si bien que dans les deux cas votre pouvoir d’être
+affecté sera complètement effectué, mais il peut être effectué de telle manière que la puissance
+d’agir diminue à l’infini ou que la puissance d’agir augmente à l’infini.
+
+A l’infini ? Est-ce que c’est vrai ? Évidemment non, puisque à notre niveau les forces d’exister,
+les pouvoirs d’être affecté et les puissances d’agir sont forcément finis. Seul Dieu a une
+puissance absolument infinie. Bon, mais dans certaines limites, je ne cesserai de passer par ces
+variations de la puissance d’agir en fonction des idées d’affection que j’ai, je ne cesserai de
+suivre la ligne de variation continue de l’affectus en fonction des idées-affection que j’ai et des
+rencontres que je fais, de telle manière que, à chaque instant, mon pouvoir d’être affecté est
+complètement effectué, complètement rempli. Simplement rempli sur le mode de la tristesse ou
+sur le mode de la joie. Bien entendu les deux à la fois aussi puisque c’est bien entendu que, dans
+les sous-rapports qui nous composent, une partie de nous-mêmes peut être composée de tristesse
+et une autre partie de nous-mêmes être composée de joie. Il y a des tristesses locales et des joies
+locales. Par exemple, Spinoza donne comme définition du chatouillement : une joie locale, ça ne
+veut pas dire que tout est joie dans le chatouillement, ça peut être une joie d’une telle nature que
+ça implique une irritation coexistante d’une autre nature, irritation qui est tristesse: mon pouvoir
+d’être affecté tend à être dépassé. Rien n’est bon pour quelqu’un qui dépasse son pouvoir d’être
+affecté. Un pouvoir d’être affecté, c’est réellement une intensité ou un seuil d’intensité.
+
+Ce que veut réellement Spinoza, c’est définir l’essence de quelqu’un d’une façon intensive
+comme une quantité intensive. Tant que vous ne connaissez pas vos intensités, vous risquez la
+mauvaise rencontre et vous aurez beau dire: que c’est beau, et l’excès, et la démesure… pas de
+démesure du tout, il n’y a que l’échec, rien d’autre que l’échec. Avis pour les overdoses. C’est
+précisément le phénomène du pouvoir d’être affecté qui est dépassé avec une destruction totale.
+
+Sûrement dans ma génération, en moyenne, on était beaucoup plus cultivé ou savant en
+philosophie, quand on en faisait, et en revanche on avait une espèce d’inculture très frappante
+dans d’autres domaines, en musique, en peinture, en cinéma. J’ai l’impression que pour
+beaucoup d’entre vous le rapport a changé, c’est à dire que vous ne savez absolument rien, rien
+en philosophie et que vous savez, ou plutôt que vous avez un maniement concret de choses
+comme une couleur, vous savez ce que c’est qu’un son ou ce que c’est qu’une image. Une
+philosophie, c’est une espèce de synthétiseur de concepts, créer un concept ce n’est pas du tout
+de l’idéologie. Un concept, c’est une bête.
+
+Ce que j’ai défini jusqu’à maintenant c’est uniquement augmentation et diminution de la
+puissance d’agir, ou que la puissance d’agir augmente ou diminue, l’affect correspondant
+(affectus) est toujours une passion. Que ce soit une joie qui augmente ma puissance d’agir ou une
+tristesse qui diminue ma puissance d’agir, dans les deux cas ce sont des passions : passions
+joyeuses ou passions tristes. Encore une fois Spinoza dénonce un complot dans l’univers de
+ceux qui ont intérêt à nous affecter de passions tristes. Le prêtre a besoin de la tristesse de ses
+sujets, il a besoin que ses sujets se sentent coupables. Je n’ai pas encore défini ce qu’est la
+puissance d’agir. Les auto-affections ou affects actifs supposent que nous possédions notre
+
+puissance d’agir et que, sur tel ou tel point, nous soyons sortis du domaine des passions pour
+entrer dans le domaine des actions. C’est ce qui nous reste à voir.
+
+Comment pourrions-nous sortir des idées-affection, comment pourrions-nous sortir des affects
+passifs qui consistent en augmentation ou diminution de notre puissance d’agir, comment
+pourrions-nous sortir du monde des idées inadéquates une fois dit que notre condition semble
+nous condamner strictement à ce monde ? C’est par là qu’il faut lire l’Éthique comme préparant
+une espèce de coup de théâtre. Il va nous parler d’affects actifs où il n’y a plus de passions, où la
+puissance d’agir est conquise au lieu de passer par toutes ces variations continues. Là, il y a un
+point très strict. Il y a une différence fondamentale entre éthique et morale. Spinoza ne fait pas de
+la morale, pour une raison toute simple : jamais il ne se demande ce que nous devons, il se
+demande tout le temps de quoi nous sommes capables, qu’est-ce qui est en notre puissance ;
+l’éthique c’est un problème de puissance, c’est jamais un problème de devoir. En ce sens
+Spinoza est profondément immoral. Le problème moral, le bien et le mal, il a une heureuse
+nature parce qu’il ne comprend même pas ce que ça veut dire. Ce qu’il comprend, c’est les
+bonnes rencontres, les mauvaises rencontres, les augmentations et les diminutions de puissance.
+Là, il fait une éthique et pas du tout une morale. C’est pourquoi il a tant marqué Nietzsche.
+
+Nous sommes complètement enfermés dans ce monde des idées-affection et de ces variations
+affectives continues de joie et de tristesse, alors tantôt ma puissance d’agir augmente, d’accord,
+tantôt elle diminue ; mais qu’elle augmente ou qu’elle diminue, je reste dans la passion parce
+que, dans les deux cas, je ne la possède pas, je suis encore séparé de ma puissance d’agir. Alors
+quand ma puissance d’agir augmente ça veut dire que j’en suis relativement moins séparé, et
+inversement, mais je suis séparé formellement de ma puissance d’agir, je ne la possède pas. En
+d’autres termes, je ne suis pas cause de mes propres affects, et puisque je ne suis pas cause de
+mes propres affects, ils sont produits en moi par autre chose : je suis donc passif, je suis dans le
+monde de la passion. Mais il y a les idées-notion et les idées-essence.
+
+La notion, mode de pensée adéquat dû à la compréhension de la cause
+
+C’est déjà au niveau des idées-notion que va apparaître une espèce d’issue dans ce monde. On
+est complètement étouffé, on est enfermé dans un monde d’impuissance absolue, même quand
+ma puissance d’agir augmente, c’est sur un segment de variation, rien ne me garantit que, au coin
+de la rue, je ne vais pas recevoir un grand coup de bâton sur la tête et que ma puissance d’agir va
+retomber. Vous vous rappelez qu’une idée-affection, c’est l’idée d’un mélange, c’est-à-dire
+l’idée d’un effet d’un corps sur le mien.
+
+Une idée-notion ne concerne plus l’effet d’un autre corps sur le mien, c’est une idée qui concerne
+et qui a pour objet la convenance ou la disconvenance des rapports caractéristiques entre les deux
+corps.
+
+Si il y a une idée telle – on ne sait pas encore si il y en a, mais on peut toujours définir quelque
+chose quitte à conclure que ça ne peut pas exister –, c’est ce qu’on appellera une définition
+nominale. Je dirais que la définition nominale de la notion c’est que c’est une idée qui, au lieu de
+représenter l’effet d’un corps sur un autre, c’est à dire le mélange de deux corps, représente la
+convenance ou la disconvenance interne des rapports caractéristiques des deux corps.
+
+Exemple : si j’en savais assez sur le rapport caractéristique du corps nommé arsenic et sur le
+rapport caractéristique du corps humain, je pourrais former une notion de ce en quoi ces deux
+rapports disconviennent au point que l’arsenic, sous son rapport caractéristique, détruit le rapport
+caractéristique de mon corps. Je suis empoisonné, je meurs.
+
+Vous voyez que, à la différence de l’idée d’affection, au lieu d’être la saisie du mélange
+extrinsèque d’un corps avec un autre, ou de l’effet d’un corps sur un autre, la notion s’est élevée
+à la compréhension de la cause, à savoir, si le mélange a tel ou tel effet, c’est en vertu de la
+nature du rapport des deux corps considérés et de la manière dont le rapport de l’un des corps se
+compose avec le rapport de l’autre corps. Il y a toujours composition de rapports. Lorsque je suis
+empoisonné, c’est que le corps arsenic a induit les parties de mon corps à entrer sous un autre
+rapport que le rapport qui me caractérise. A ce moment-là, les parties de mon corps entrent sous
+un nouveau rapport induit par l’arsenic, qui se compose parfaitement avec l’arsenic; l’arsenic est
+heureux puisqu’il se nourrit de moi. L’arsenic éprouve une passion joyeuse car, comme le dit
+bien Spinoza, tout corps a une âme. Donc l’arsenic est joyeux, moi évidemment je ne le suis pas.
+Il a induit des parties de mon corps à entrer sous un rapport qui se compose avec le sien, arsenic.
+Moi je suis triste, je vais vers la mort. Vous voyez que la notion, si on pouvait y arriver, c’est un
+truc formidable.
+
+On n’est pas loin d’une géométrie analytique. Une notion, ce n’est pas du tout un abstrait, c’est
+très concret : ce corps-ci, ce corps-là. Si j’avais le rapport caractéristique de l’âme et du corps de
+celui dont je dis qu’il ne me plaît pas, par rapport à mon rapport caractéristique à moi, je
+comprendrais tout, je connaîtrais par les causes au lieu de ne connaître que des effets séparés de
+leurs causes. À ce moment-là, j’aurais une idée adéquate.
+
+De même, si je comprenais pourquoi quelqu’un me plaît. J’ai pris comme exemple les rapports
+alimentaires, il n’y a pas à changer une ligne pour les rapports amoureux. Ce n’est pas du tout
+que Spinoza conçoive l’amour comme de l’alimentation, il concevrait tout aussi bien
+l’alimentation comme de l’amour. Prenez un ménage à la Strinberg, cette espèce de
+décomposition des rapports et puis ils se recomposent pour recommencer. Qu’est-ce que c’est
+que cette variation continue de l’affectus, et comment ça se fait que certaine disconvenance
+convienne à certains ? Pourquoi certains ne peuvent vivre que sous la forme de la scène de
+ménage indéfiniment répétée ? Ils en sortent comme si ça avait été un bain d’eau fraîche pour
+eux.
+
+Vous comprenez la différence entre une idée-notion et une idée-affection. Une idée-notion est
+forcément adéquate puisque c’est une connaissance par les causes. Spinoza emploie là, non
+seulement le terme de notion pour qualifier cette deuxième sorte d’idée, mais il emploie le terme
+de notion commune. Le mot est très ambigu : est-ce que ça veut dire commune à tous les esprits
+? Oui et non, c’est très minutieux chez Spinoza. En tous cas, ne confondez jamais une notion
+commune avec une abstraction.
+
+Une notion commune, il la définit toujours comme ceci : c’est l’idée de quelque chose qui est
+commun à tous les corps ou à plusieurs corps – deux au moins – et qui est commun au tout et à la
+
+partie. Donc, il y a sûrement des notions communes qui sont communes à tous les esprits, mais
+elles ne sont communes à tous les esprits que dans la mesure où elles sont d’abord l’idée de
+quelque chose qui est commun à tous les corps. Donc ce n’est pas du tout des notions abstraites.
+Qu’est-ce qui est commun à tous les corps ? Par exemple, être en mouvement ou en repos. Le
+mouvement et le repos seront objets de notions dites communes à tous les corps. Donc il y a des
+notions communes qui désignent quelque chose de commun à deux corps ou à deux âmes. Par
+exemple, quelqu’un que j’aime. Encore une fois les notions communes, ça n’est pas abstrait, ça
+n’a rien à voir avec des espèces et des genres, c’est vraiment l’énoncé de ce qui est commun à
+plusieurs corps ou à tous les corps ; or, comme il n’y a pas un seul corps qui ne soit lui-même
+plusieurs, on peut dire qu’il y a des choses communes ou des notions communes dans chaque
+corps. D’où on retombe sur la question : comment est-ce qu’on peut sortir de cette situation qui
+nous condamnait aux mélanges ?
+
+Là, les textes de Spinoza sont très compliqués. On ne peut concevoir cette sortie que de la
+manière suivante : quand je suis affecté, au hasard des rencontres, ou bien je suis affecté de
+tristesse, ou bien de joie – en gros. Quand je suis affecté de tristesse, ma puissance d’agir
+diminue, c’est-à-dire que je suis encore plus séparé de cette puissance. Quand je suis affecté de
+joie, elle augmente, c’est-à-dire que je suis moins séparé de cette puissance. Bien. Si vous vous
+considérez comme affecté de tristesse, je crois que tout est foutu, il n’y a plus d’issue pour une
+raison simple : rien dans la tristesse qui diminue votre puissance d’agir, rien ne peut vous induire
+dans la tristesse à former la notion commune d’un quelque chose qui serait commun aux corps
+qui vous affectent de tristesse et au vôtre. Pour une raison très simple, c’est que le corps qui vous
+affecte de tristesse ne vous affecte de tristesse que dans la mesure où il vous affecte sous un
+rapport qui ne convient pas avec le vôtre. Spinoza veut dire quelque chose de très simple, c’est
+que la tristesse, ça ne rend pas intelligent. La tristesse, on est foutu. C’est pour ça que les
+pouvoirs ont besoin que les sujets soient tristes. L’angoisse n’a jamais été un jeu de culture de
+l’intelligence ou de la vivacité. Tant que vous avez un affect triste, c’est que un corps agit sur le
+vôtre, une âme agit sur la vôtre dans des conditions telles et sous un rapport qui ne convient pas
+avec le vôtre. Dès lors, rien dans la tristesse ne peut vous induire à former la notion commune,
+c’est-à-dire l’idée d’un quelque chose de commun entre les deux corps et les deux âmes. C’est
+plein de sagesse ce qu’il est en train de dire. C’est pour ça que penser à la mort, c’est la chose la
+plus immonde. Il s’oppose à toute la tradition philosophique qui est une méditation de la mort. Sa
+formule, c’est que la philosophie est une méditation de la vie et non de la mort. Évidemment,
+parce que la mort, c’est toujours une mauvaise rencontre.
+
+Autre cas. Vous êtes affecté de joie. Votre puissance d’agir est augmentée, ça ne veut pas dire
+que vous la possédiez encore, mais le fait que vous soyez affecté de joie signifie et indique que le
+corps ou l’âme qui vous affecte ainsi, vous affecte sous un rapport qui se combine avec le vôtre
+et qui se compose avec le vôtre, et ça va de la formule de l’amour à la formule alimentaire. Dans
+un affect de joie, donc, le corps qui vous affecte est indiqué comme composant son rapport avec
+le vôtre et non pas son rapport décomposant le vôtre. Dès lors, quelque chose vous induit pour
+former la notion de ce qui est commun au corps qui vous affecte et au vôtre, à l’âme qui vous
+affecte et à la vôtre. En ce sens, la joie rend intelligent.
+
+Là on sent que c’est un drôle de truc parce que, méthode géométrique ou pas, on lui accorde tout,
+il peut le démontrer. Mais il y a un appel évident à une espèce d’expérience vécue. Il y a un appel
+
+évident à une manière de percevoir, et bien plus, à une manière de vivre. Il faut déjà avoir une
+telle haine des passions tristes, la liste des passions tristes chez Spinoza est infinie, il va jusqu’à
+dire que toute idée de récompense enveloppe une passion triste, toute idée d’orgueil, la
+culpabilité. C’est un des moments les plus merveilleux de l’Éthique.
+
+Les affects de joie, c’est comme si c’était un tremplin, ils vous font passer à travers quelque
+chose qu’on aurait jamais pu passer s’il n’y avait que des tristesses. Il nous sollicite de former
+l’idée de ce qui est commun au corps affectant et au corps affecté. Ça peut rater, mais ça peut
+réussir et je deviens intelligent. Quelqu’un qui devient bon en latin en même temps qu’il devient
+amoureux… ça s’est vu dans les séminaires. C’est lié en quoi ? Comment quelqu’un fait des
+progrès ? On ne fait jamais des progrès sur une ligne homogène, c’est un truc ici qui nous fait
+faire des progrès là-bas, comme si une petite joie là avait déclenché un déclic. A nouveau
+nécessité d’une carte : qu’est-ce qui s’est passé là pour que ça se débloque ici ? Une petite joie
+nous précipite dans un monde d’idées concrètes qui a balayé les affects tristes ou qui est en train
+de lutter, tout ça fait partie de la variation continue. Mais en même temps, cette joie nous
+propulse en quelque sorte hors de la variation continue, elle nous fait acquérir au moins la
+potentialité d’une notion commune. Il faut concevoir ça très concrètement, c’est des trucs très
+locaux. Si vous réussissez à former une notion commune, sur quel point votre rapport de vous
+avec telle personne ou avec tel animal, vous dites : enfin j’ai compris quelque chose, je suis
+moins bête qu’hier. Le « j’ai compris » qu’on se dit, parfois c’est le moment où vous avez formé
+une notion commune. Vous l’avez formée très localement, ça ne vous a pas donné toutes les
+notions communes. Spinoza ne pense pas du tout comme un rationaliste – chez les rationalistes il
+y a le monde de la raison et il y a les idées. Si vous en avez une, évidemment vous les avez
+toutes: vous êtes raisonnable. Spinoza pense qu’être raisonnable, ou être sage, c’est un problème
+de devenir, ce qui change singulièrement le contenu du concept de raison. Il faut savoir faire les
+rencontres qui vous conviennent.
+
+Quelqu’un ne pourra jamais dire qu’est bon pour lui quelque chose qui dépasse son pouvoir
+d’être affecté. Le plus beau, c’est de vivre sur les bords, à la limite de son propre pouvoir d’être
+affecté, à condition que ce soit la limite joyeuse puisqu’il y a la limite de joie et la limite de
+tristesse; mais tout ce qui excède votre pouvoir d’être affecté est laid. Relativement laid– ce qui
+est bon pour les mouches n’est pas forcément bon pour vous…
+
+Il n’y a plus de notion abstraite, il n’y a aucune formule qui est bonne pour l’homme en général.
+Ce qui compte, c’est quel est votre pouvoir à vous. Lawrence disait une chose directement
+spinoziste : une intensité qui dépasse votre pouvoir d’être affecté, cette intensité là est mauvaise
+(cf. les écrits posthumes). C’est forcé : un bleu trop intense pour mes yeux, on ne me fera pas
+dire que c’est beau, ce sera peut-être beau pour quelqu’un d’autre. Il y a du bon pour tous, vous
+me direz… Oui, parce que les pouvoirs d’être affecté se composent. A supposer qu’il y ait un
+pouvoir d’être affecté qui définisse le pouvoir d’être affecté de l’univers entier, c’est bien
+possible puisque tous les rapports se composent à l’infini, mais pas dans n’importe quel ordre.
+Mon rapport ne se compose pas à celui de l’arsenic, mais qu’est-ce que ça peut faire ?
+Évidemment, à moi, ça fait beaucoup, mais à ce moment là les parties de mon corps rentrent sous
+un nouveau rapport qui se compose avec celui de l’arsenic. Il faut savoir dans quel ordre les
+rapports se composent. Or si on savait dans quel ordre les rapports de tout l’univers se
+
+composent, on pourrait définir un pouvoir d’être affecté de l’univers entier, ce serait le cosmos,
+le monde en tant que corps ou en tant qu’âme.
+
+A ce moment là, le monde entier n’est qu’un seul corps suivant l’ordre des rapports qui se
+composent. A ce moment là, vous avez un pouvoir d’être affecté universel à proprement parler :
+Dieu, qui est l’univers entier en tant que cause, a par nature un pouvoir d’être affecté universel.
+Inutile de dire qu’il est en train de faire un drôle d’usage de l’idée de Dieu. Vous éprouvez une
+joie, vous sentez que cette joie vous concerne vous, qu’elle concerne quelque chose d’important
+quant à vos rapports principaux, vos rapports caractéristiques. Là, alors il faut vous en servir
+comme d’un tremplin, vous former l’idée-notion : en quoi le corps qui m’affecte et le mien
+conviennent-ils ? En quoi l’âme qui m’affecte et la mienne conviennent-ils, du point de vue de la
+composition de leurs rapports, et non plus du point de vue du hasard de leurs rencontres. Vous
+faites l’opération inverse de celle qu’on fait généralement.
+
+Généralement les gens font la sommation de leurs malheurs, c’est même là que la névrose
+commence, ou la dépression, quand on se met à faire des totaux : oh merde ! il y a ceci, et il y a
+cela… Spinoza propose l’inverse : au lieu de faire la sommation de nos tristesses, prendre un
+point de départ local sur une joie à condition qu’on sente qu’elle nous concerne vraiment. Làdessus on forme la notion commune, là-dessus on essaie de gagner localement, d’étendre cette
+joie. C’est un travail de la vie. On essaie de diminuer la portion respective des tristesses par
+rapport à la portion respective d’une joie, et on tente le coup formidable suivant : on est assez
+assuré de notions communes qui renvoient à des rapports de convenance entre tel et tel corps et
+le mien, on va tenter alors d’appliquer la même méthode à la tristesse, mais on ne pouvait pas le
+faire à partir de la tristesse, c’est-à-dire qu’on va tenter de former des notions communes par
+lesquelles on arrivera à comprendre de manière vitale en quoi tel et tel corps disconviennent et
+non plus conviennent. Ça devient non plus une variation continue, ça devient une courbe en
+cloche. Vous partez des passions joyeuses, augmentation de la puissance d’agir; vous vous en
+servez pour former des notions communes d’un premier type, notion de ce qu’il y avait de
+commun entre le corps qui m’affectait de joie et le mien, vous étendez au maximum vos notions
+communes vivantes et vous redescendez vers la tristesse, cette fois-ci avec des notions
+communes que vous formez pour comprendre en quoi tel corps disconvient avec le vôtre, telle
+âme disconvient avec la vôtre.
+
+À ce moment-là, vous pouvez déjà dire que vous êtes dans l’idée adéquate puisque, en effet,
+vous êtes passé dans la connaissance des causes. Vous pouvez déjà dire que vous êtes dans la
+philosophie. une seule chose compte, c’est les manières de vivre. Une seule chose compte, c’est
+la méditation de la vie, et la philosophie ça ne peut être qu’une méditation de la vie, et loin d’être
+une méditation de la mort, c’est l’opération qui consiste à faire que la mort n’affecte finalement
+que la proportion relativement la plus petite en moi, à savoir la vivre comme une mauvaise
+rencontre. Simplement on sait bien que, à mesure qu’un corps se fatigue, les probabilités de
+mauvaises rencontres augmentent. C’est une notion commune, une notion commune de
+disconvenance. Tant que je suis jeune, la mort c’est vraiment quelque chose qui vient du dehors,
+c’est vraiment un accident extrinsèque, sauf cas de maladie interne. Il n’y a pas de notion
+commune, en revanche c’est vrai que quand un corps vieillit, sa puissance d’agir diminue : je ne
+peux plus faire ce que hier encore je pouvais faire ; ça, ça me fascine, dans le vieillissement,
+cette espèce de diminution de la puissance d’agir.
+
+Qu’est-ce que c’est qu’un clown, vitalement ? C’est le type qui, précisément, n’accepte pas le
+vieillissement, il ne sait pas vieillir assez vite. Il ne faut pas vieillir trop vite parce que c’est aussi
+une autre manière d’être clown : faire le vieux. Plus on vieillit et moins on a envie de faire des
+mauvaises rencontres, mais quand on est jeune on se lance dans le risque de la mauvaise
+rencontre. C’est fascinant le type qui, à mesure que sa puissance d’agir diminue en fonction du
+vieillissement, son pouvoir d’être affecté varie, il ne s’y fait pas, il continue à vouloir faire le
+jeune. C’est très triste. Il y a un passage fascinant dans un roman de Fitzgerald « Le numéro de
+ski nautique », il y a dix pages de toute beauté sur le ne pas savoir vieillir… Vous savez, les
+spectacles qui sont gênants pour les spectateurs eux-mêmes. Le savoir vieillir c’est arriver au
+moment où les notions communes doivent vous faire comprendre en quoi les choses et les autres
+corps disconviennent avec le vôtre. Alors, forcément, il va falloir trouver une nouvelle grâce qui
+sera celle de votre âge, surtout pas s’accrocher. C’est une sagesse. Ce n’est pas la bonne santé
+qui fait dire « vive la vie », ce n’est pas non plus la volonté de s’accrocher à la vie. Spinoza a su
+mourir admirablement, mais il savait très bien de quoi il était capable, il savait dire merde aux
+autres philosophes. Leibniz venait lui piquer des morceaux de manuscrits pour dire après que
+c’était lui. Il y a des histoires très curieuses – c’était un homme dangereux, Leibniz.
+
+Je termine en disant qu’à ce second niveau, on a atteint à l’idée-notion où les rapports se
+composent, et encore une fois ce n’est pas abstrait puisque j’ai essayé de dire que c’était une
+entreprise extraordinairement vivante. On est sorti des passions. On a acquis la possession
+formelle de la puissance d’agir. La formation des notions, qui ne sont pas des idées abstraites,
+qui sont à la lettre des règles de vie, me donnent la possession de la puissance d’agir. Les notions
+communes, c’est le deuxième genre de connaissance.
+
+L’essence, accès au monde des intensités pures
+
+Pour comprendre le troisième, il faut déjà comprendre le second. Le troisième genre, il n’y a que
+Spinoza qui y soit entré. Au-dessus des notions communes… vous avez remarqué que si les
+notions communes ne sont pas abstraites, elles sont collectives, elles renvoient toujours à une
+multiplicité, mais elles n’en sont pas moins individuelles. C’est ce en quoi tel et tel corps
+conviennent, à la limite ce en quoi tous les corps conviennent, mais à ce moment là, c’est le
+monde entier qui est une individualité. Donc les notions communes sont toujours individuelles.
+
+Au-delà encore des compositions de rapports, des convenances intérieures qui définissent les
+notions communes, il y a les essences singulières. Quelles différences ? Il faudrait dire à la limite
+que le rapport et les rapports qui me caractérisent expriment mon essence singulière, mais
+pourtant ce n’est pas la même chose. Pourquoi ? Parce que le rapport qui me caractérise – ce que
+je dis là n’est pas absolument dans le texte, mais ça y est presque –, c’est que les notions
+communes ou les rapports qui me caractérisent concernent encore les parties extensives de mon
+corps. Mon corps est composé d’une infinité de parties étendues à l’infini, et ces parties entrent
+sous tels et tels rapports qui correspondent à mon essence. Les rapports qui me caractérisent
+correspondent à mon essence mais ne se confondent pas avec mon essence, car les rapports qui
+me caractérisent sont encore des règles sous lesquelles s’associent, en mouvement et en repos,
+les parties étendues de mon corps. Tandis que l’essence singulière, c’est un degré de puissance,
+c’est-à-dire ce sont mes seuils d’intensité. Entre le plus bas et le plus haut, entre ma naissance et
+ma mort, ce sont mes seuils intensifs. Ce que Spinoza appelle l’essence singulière, il me semble
+
+que c’est une quantité intensive, comme si chacun de nous était défini par une espèce de
+complexe d’intensités qui renvoi à son essence, et aussi des rapports qui règlent les parties
+étendues, les parties extensives. Si bien que, lorsque j’ai la connaissance des notions, c’est-à-dire
+des rapports de mouvement et de repos qui règlent la convenance ou la disconvenance des corps
+du point de vue de leurs parties étendues, du point de vue de leur extension, je n’ai pas encore
+pleine possession de mon essence en tant qu’intensité.
+
+Et Dieu, qu’est-ce que c’est ? Lorsque Spinoza définit Dieu par la puissance absolument infinie,
+il s’exprime bien. Tous les termes qu’il emploie explicitement : degré, degré en latin c’est
+gradus, et gradus ça renvoie à une longue tradition dans la philosophie du Moyen Âge. Le
+gradus, c’est la quantité intensive, par opposition ou par différence avec les parties extensives.
+Donc il faudrait concevoir que l’essence singulière de chacun ce soit cette espèce d’intensité, ou
+de limite d’intensité. Elle est singulière parce que, quelle que soit notre communauté de genre ou
+d’espèce, nous sommes tous des hommes par exemple, aucun de nous n’a les mêmes seuils
+d’intensité que l’autre.
+
+Le troisième genre de connaissance, ou la découverte de l’idée d’essence, c’est lorsque, à partir
+des notions communes, par un nouveau coup de théâtre, on arrive à passer dans cette troisième
+sphère du monde : le monde des essences. Là on connaît dans leur corrélation ce que Spinoza
+appelle – de toute manière on ne peut pas connaître l’un sans l’autre –, et l’essence singulière qui
+est la mienne et l’essence singulière qui est celle de Dieu et l’essence singulière des choses
+extérieures.
+
+Que ce troisième genre de connaissance fasse appel à, d’une part, toute une tradition de la
+mystique juive, que d’autre part, ça implique une espèce d’expérience mystique même athée,
+propre à Spinoza, je crois que la seule manière de comprendre ce troisième genre, c’est de saisir
+que, au-delà de l’ordre des rencontres et des mélanges, il y a cet autre stade des notions qui
+renvoie aux rapports caractéristiques. Mais au-delà des rapports caractéristiques, il y a encore le
+monde des essences singulières. Alors, lorsque là on forme des idées qui sont comme de pures
+intensités, où ma propre intensité va convenir avec l’intensité des choses extérieures, à ce
+moment-là c’est le troisième genre parce que, si c’est vrai que tous les corps ne conviennent pas
+les uns avec les autres, si c’est vrai que, du point [de vue] des rapports qui régissent les parties
+étendues d’un corps ou d’une âme, les parties extensives, tous les corps ne conviennent pas les
+uns avec les autres ; si vous arrivez à un monde de pures intensités, toutes sont supposées
+convenir les unes avec les autres. À ce moment, l’amour de vous-même, est en même temps,
+comme dit Spinoza, l’amour des autres choses que vous, est en même temps l’amour de Dieu, est
+l’amour que Dieu se porte à lui-même, etc.
+
+Ce qui m’intéresse dans cette pointe mystique, c’est ce monde des intensités. Là, vous êtes en
+possession, non seulement formelle, mais accomplie. Ce n’est même plus la joie. Spinoza trouve
+le mot mystique de béatitude ou l’affect actif, c’est-à-dire l’auto-affect. Mais ça reste très
+concret. Le troisième genre, c’est un monde d’intensités pures.

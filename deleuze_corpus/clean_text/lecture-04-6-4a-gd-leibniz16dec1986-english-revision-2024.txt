@@ -1,0 +1,1333 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque -- Leibniz as Baroque Philosopher
+
+Lecture 04, 16 December 1986: Review: Inherence to Inflection, and the Monad and
+the Individual
+
+Initial Transcription, Web Deleuze; Augmented Transcription and Translated by
+Charles J. Stivale (duration, 2:27:05)1
+
+So much has happened that we hardly recognize each other. I don’t know really what you
+remember in what we are doing. Once I’ve said that the student movement must not lose
+its strength, among the secondary activities, it’s suggested that you should create a
+petition addressed to the University president to propose the hypothesis: are the bars that
+have been installed compatible with security? In the event that a fire should break out
+here, how would we get out? Moreover there is the matter of keys, of locked doors, open
+not closed, then not open, all this detracts greatly from your intellectual efforts. So a
+petition is needed, a very polite one. But the security bars, think about this! [Pause] Ok.
+
+In the preceding meetings which were very poorly attended,2 we talked about what
+happened, so I don’t think we have to return to this, unless someone here has a
+declaration to make? Let me restate, but it’s obvious for everyone, what really matters is
+that this student movement should continue, that it not give up. That’s why I think all the
+students’ efforts are very important, at the level of each university in order even to create
+the elements of a counter-project for the university organization. [The professors could
+also get a bit involved.]3 Ok.
+
+So let’s continue, amazed already to be at the fourth meeting. Today I’d like to… Ah,
+next week vacation begins, from 20 Dec to 6 Jan. And as usual, the sixth is a Tuesday,
+every time we come back from break it’s Tuesday, so we will meet on Tuesday, 6 Jan.
+Today I would like to make every effort to finish the first part, with the option of
+abridging some things, which is not a problem, and I’d like to start with some numbered
+remarks. And fine, you will see yourselves, I am trying to create short summaries and
+state some things that I have not yet said in order to bring you back into the focus of our
+work.
+
+My first remark, you recall, is what this introductory part consists of, and I told you, it’s
+very simple: Leibniz’s Baroque philosophy unfolds on two floors. What I did not say is
+that, already in this idea of a world of two floors, there is something that must impress us
+because that [idea] engages philosophical reflection in general. Specifically, does this
+two-floored Baroque world, which I will not return to, engage all philosophical
+reflection? Because, perhaps it is an important moment for a problem that is troubling
+metaphysics, at that moment, and had been for a long time, notably the famous problem
+of two worlds, the intelligible world and the sensible world. Doesn’t Baroque philosophy,
+or more precisely, doesn’t Leibniz, by presenting us with a two-floored world, belong to
+this tradition all the while revising it quite profoundly? How are these floors distributed?
+In the history of philosophy, they had already undergone many changes before Leibniz.
+
+                                                                                              2
+
+So we will be interested in knowing in what way the disjunction, the distinction in
+Leibniz’s works develops a very profound revision of the distinction of two worlds. All
+the more so since we saw what these floors consisted of, and I told you that the Baroque
+world is the world of the fold extending to infinity, and that initially is differentiated and
+doubled into two kinds of fold. On one floor we have the pleats (replis) of matter, and on
+the other floor the folds (plis) in the soul; pleats of matter and folds in the soul. And the
+floor with pleats of matter is like the world of the composed, of the infinitely composed,
+matter never ceasing to be refolded and unfolded, and on the other floor, it’s the floor of
+the Simples [les Simples]. The souls are simple, hence the expression: the folds in the
+soul, in the soul. Thus we saw a vague program of study of the pleats of matter, and then
+we started into an analysis of what the folds in the soul mean.
+
+Second remark. To answer this question of what the folds in the soul are, we set off in
+search – the two floors have to communicate – in search of an ideal genetic element, an
+ideal genetic element of the pleats of matter. In an earlier meeting, we studied the pleats
+of matter, why matter is a power (puissance) that never ceases refolding, and then we
+passed on to the hypothesis of an ideal genetic element of the pleats of matter. And no
+doubt, if there is such an element of the pleats of matter, what is it? It is the variable
+curve or the inflection. (Figure 1)4 For Leibniz, the world is fundamentally affected by a
+curve. We have seen the importance of this, from the viewpoint of the physics of matter,
+but beyond the physics of matter, in mathematic and in mathematical idealities
+(idéalités). The mathematical ideality is a curve, the curve of the universe. This is a very
+profound Leibnizian theme. You recall that this did not surprise us, to notice that
+inflection, or the variable curve, goes to infinity. [Pause] I’ll remind you briefly that we
+saw this through the very properties of the irrational number, or the “deaf” number as
+they said in the seventeenth century; the irrational or deaf number is, at once, inseparable
+from the curve on the straight line, and also engenders – still a genetic element -- an
+infinite series. So the variable curvature, or the inflection, goes to infinity. The idea of an
+infinite series would define one the most important chapters of Leibniz’s mathematics.
+
+Third remark: from the inflection, that is, the variable curvature, from the inflection to the
+point of view. No doubt, the concept of inflection already had a very great characteristic
+originality in Leibniz’s philosophy, so grant him as well that the introduction of point of
+view as a philosophical concept must have had an extreme importance for philosophy.
+From inflection to point of view: why? Because the variable curvature refers to centers.
+Centers of curvature, on the side of the concavity of the curve. (Figure 2)5 So the variable
+curve is inseparable from vectors of concavity. And the center, understood as center of
+the variable curvature, what is it? It is the vertex, it is the point of view. What does
+‘vertex’ mean? It means that it is the locus of points where the tangents meet at each
+point of the variable curve. You remember? [Deleuze writes on the board] I would say
+that such a center of the curvature is a point of view on the portion of the curve defined
+by a vector of concavity. And that is what was essential. I want you to understand how
+really… independently of anything very scientific or philosophical, how one passes
+precisely, how naturally -- it’s a kind of deduction that I want to propose to you -- how
+one passes from the idea of inflection or variable curvature to that of point of view.
+
+                                                                                                 3
+
+I tried to show you in what sense this was very important -- and in his book on Leibniz
+[Le système de Leibniz], Michel Serres showed it perfectly -- in what sense it was very,
+very important that, ultimately, for Leibniz, the substitution occurred from the center
+conceived as center of configuration of a regular figure, for this notion of center was
+substituted that of point of view. In the center of the circle is substituted the vertex of the
+cone, the vertex of the cone is the point of view. So as if through a necessary linkage we
+pass from the idea of variable curvature to the point of view or vertex. For the geometry
+of the center is substituted a geometry of vertices, a geometry of points of view. Is that
+ok? Is it clear?
+
+Fourth remark, but once again, this is valid for all of today’s remarks, these are the steps
+of a deduction. [In fact, Deleuze continues discussing the third remark] Recall well, by
+virtue of the earlier remark, how we have passed from the idea of inflection to the idea of
+point of view. That’s what seems fundamental to me. Realize that if we had started by
+proposing Leibniz’s notion of point of view, one could have said some extremely
+interesting things, of course, but we would not have understood how we got there. When
+a philosopher discovers new concepts, it’s not suddenly, all at once, in his head. He got
+there through all sorts of problems. The universe first had to be affected by a curvature,
+and more, by a variable curvature. It’s an elastic world; this is Leibniz’s physics of
+elasticity. The universe had to be affected by a variable curvature so that, afterward, the
+notion of point of view might really be concretely founded. Consider how we pass from
+inflection to point of view. The center of the variable curvature is no longer a center, in
+the sense of center of a circle, that is, the center of a regular configuration; it’s a site, it’s
+a vertex. It’s a vertex as a function of which I see, that is, it’s something that makes itself
+visible.
+
+Fourth remark [Deleuze now passes to a new point]: But what is a point of view? First
+characteristic, it seems to me, a point of view is always in relation with a variation or a
+series. [Pause] Moreover, it is itself empowered to place into a series, the power of
+arranging (puissance d’ordonner), the power of arranging cases. We saw it in the simple
+mathematical examples, the vertex of the cone is a point of view because it has the power
+of arranging curves to the second degree. Circle, ellipse, parabola, hyperbola. The vertex
+of Pascal’s arithmetic triangle, you remember that lovely triangle? I hope so, but it
+doesn’t matter… The vertex of Pascal’s arithmetical triangle is the power of arranging
+the second degree powers. [Pause] This is the first characteristic of the point of view.
+
+The second characteristic of point of view: above all, it does not mean everything is
+relative, or at least it means that everything is relative on condition that the relative
+becomes absolute. What do I mean? I mean that the point of view does not indicate a
+relativity of what is seen, that follows from the preceding characteristic: if the point of
+view is really the power of arranging cases, power of placing phenomena into series,
+point of view is then, suddenly, the condition for emergence or manifestation of a truth in
+things. You will find no truth if you do not have a determined point of view. It’s the
+curvature of things that requires the point of view. One can say nothing else; this curved
+universe of Leibniz, one has to start there. If not, it seems to me everything stays abstract.
+
+                                                                                               4
+
+In other words, there is no truth if you have not found a point of view [where truth] is
+possible, that is, from which a particular kind of truth is possible.
+
+It’s in this way that the theory of point of view introduces into philosophy what I call a
+perspectivism. When Nietzsche declared himself close to Leibniz, it’s precisely in the
+name of such a perspectivism, and in Nietzsche’s as well as Leibniz’s work,
+perspectivism will not mean to each person a different truth but will mean point of view
+as condition for the manifestation of the true. But for another great perspectivist, the
+novelist Henry James, point of view and the technique of points of view never meant that
+truth is relative to each person, but that there is a point of view starting from which chaos
+is organized, in which the secret is discovered.
+
+Third characteristic of point of view: henceforth, point of view is not at all a frontal
+perspective that would allow a form to be seized in its best conditions. Point of view is
+fundamentally Baroque, but why? This is because point of view is never a means (une
+instance) through which one can seize a form, but point of view is a means (une instance)
+through which one seizes a series of forms, in their passage from one form to another,
+either as a metamorphosis of forms – the passage from one form to another -- or as
+anamorphosis, passage from chaos to form. [Pause] This is the very character of Baroque
+perspective.
+
+Last characteristic of point of view: point of view is affected by a fundamental pluralism;
+whoever says point of view says plurality of points of view. Point of view is inseparable
+from a pluralism, indeed, but in which sense? Notice that in this, we are going to have a
+little difficulty: the point of view is essentially multiple. That all philosophy of point of
+view is pluralist, we know in any case that, yet again, this certainly does not mean “to
+each person a different truth”. That’s not right, that’s not what founds the pluralism of
+point of view. Once again, on the contrary, we saw that it’s the power of arranging and of
+creating series, of creating series of a multitude of forms. Point of view opens onto an
+infinite series.
+
+Well yes, but still… This is a bit disturbing. Why? If the point of view opens onto an
+infinite series, -- that is, let’s say at an extreme, if every point of view is [opened] onto an
+infinite series, that is if every point of view is [opened] onto the world – this is not
+surprising since the world is affected by a curvature, so that point of view is then
+[opened] onto the world; I am trying to speak to you in very ordinary terms about what
+Leibniz presents in an elaboration of concepts that’s much more… -- If any point of view
+is [opened] onto the world, why are there several points of view? If point of view is an
+infinite series, why are there several points of view? Perhaps we are going to have
+difficulties in accounting [for this]. However, we still must move on: there is an essential
+plurality of points of view. Perhaps my figure 2 indicates this enough: if the world is in
+inflection, and point of view is defined on the side of concavity, there is evidently a
+distribution of points of view around the point of inflection. So there are necessarily
+several points of view. What I don’t know yet… I am sure of two things as a result of this
+brief remark; I am certain that any point of view opens onto an infinite series, and at an
+extreme, onto the series of series, that is, onto the world; and I am certain also that there
+
+                                                                                              5
+
+are several points of view. The little difficulty is, yet again, that by virtue of the first
+characteristic, point of view opens onto the infinite series, that is, onto the world. Why is
+there not a single point of view that it would simply be necessary to discover and to rise
+to? Well no, there are necessarily several points of view because of the curvature, the
+inflection, the variable curvature. We will have to arrange that. One senses that there is
+something needing to be arranged. Still, though, an essential pluralism remains the final
+noteworthy characteristic, for the moment, of point of view.
+
+This was my fourth remark. This fourth remark provided elements for defining what one
+must understand by “Baroque perspective”. [Pause] As a result of these four initial
+remarks, I can affirm that we have passed from the variable curvature, or from inflection,
+to point of view.
+
+Fifth remark. We are going to pass from point of view to inclusion or inherence, a
+constant word for Leibniz, in esse in Latin. What is this in esse? It’s “being in”, being
+included, being included in, being inherent to. It was not enough to go from the variable
+curvature or inflection to point of view; we have to go from point of view to inclusion
+and inherence. This is the object of the fifth remark. [Interruption] -- Come in…
+[Laughter] and please close the door – [Brief recording interruption, change of tape
+recorder orientation and sound quality]
+
+As a result, our total object is to show how we necessarily pass from the variable
+curvature or inflection to inclusion or inherence. For the moment, my fifth remark is: how
+do we pass from point of view to inclusion? I told you that Leibniz often adopts the
+following theme: you can always construct a right angle in a circle. [Deleuze writes on
+the board while speaking] This is not the center of the circle, it’s the vertex; in the
+Leibnizian technique of translation of centers into vertices, it’s the vertex of a right angle.
+Where does the right angle begin? [Sound of Deleuze marking the drawing] As Leibniz
+says, [Several unclear words] … the definition. The closer you move the [circle] arc
+toward the vertex itself, the more you notice that the angle is already a right angle. At
+most, the fact that this angle is a right angle is included in S, I included in the vertex, is
+included in the point of view. You will tell me that, still, this is a bit weak, but that’s what
+I’m looking for, things that really go without saying. In a certain way, the angle is already
+right in the point S such as it is defined? Good.
+
+Or, I would say: the variable curvature is in the curvature center that corresponds to it
+(figure 2). Why? Precisely since this center precisely is the locus of points where the
+tangents meet at each point of the variable curvature This is a strange idea; so now this is
+what must be said: the visibility, or if you prefer that which is manifest, the phenomenon.
+Or if you prefer, the curve. The visible curve is located in point of view onto the curve.
+The visible curve is as if in the center of the curvature, the visible curve is located in the
+point of view onto the curve. Good.
+
+Reading philosophy means doing two things at once: it means being very attentive to the
+linkage of concepts, that’s what philosophical reading is; but there is no philosophical
+reading without there being a non-philosophical reading. And the non-philosophical
+
+                                                                                               6
+
+reading, without which the philosophical reading remains dead, provides all kinds of
+sensible intuitions that you must emerge within you, but extremely rudimentary sensible
+intuitions, and because of this, are extremely lively.
+
+The visible is included in point of view. What does that mean? If we try to continue from
+this, what sensible intuition is located underneath this? Let’s begin again with our
+variable curvature. Our variable curvature is the fold, or the genetic element of the fold.
+We saw that matter ceaselessly folds back onto itself, more generally the world is folded.
+Let me ask why something is folded? Why is it folded? This comes back to Leibniz, he is
+famous for asking a reason for each thing; it’s a philosophy that he himself presents as a
+philosophy of sufficient reason. Everything has a reason. What he understands by reason,
+we will see, but we cannot start from there, it’s too abstract. Not that it’s too difficult, but
+just that at this point, it would make Leibniz die. We’d have a kind of death of Leibniz.
+You can only make a philosopher live through the non-philosophical reading that you
+undertake. Such that the most philosophical of all philosophers, is in some ways the least
+philosophical of all philosophers, and in the history of philosophy, there was the most
+philosophical of philosophers who was also the least philosophical of philosophers, that
+is, accessible to non-philosophers, that’s Spinoza. We’re out of luck, we are talking about
+Leibniz, and here comes Spinoza: the author that would be susceptible to an extremely
+complex philosophical reading, and at the same time, the most violent non-philosophical
+reading. Before it was ever Nietzsche, it was Spinoza. But let’s say it was also Leibniz.
+
+So why would something be folded? At the level of non-philosophical sensible intuition,
+I am saying something very simple. I was saying in the last class, before we left each
+other for such a long time (18 November), you have things that get folded. We forget; I
+don’t know if things are folded. Leibniz says yes, the universe is affected by a curvature,
+but why? Why is it useful to be folded? Why is being pleated (replié) useful? If things are
+folded, it’s in order to be placed inside. That’s an answer at least. -- [Interruption;
+Deleuze apparently looks at an envelope] Ahh, this is the petition for the (university)
+president that I will read to you later. – It’s in order to be placed inside. I was telling you,
+well yes, things are folded only to be enveloped. Things are folded in order to be
+included, to be placed inside. This is very curious. That is, the fold – here we have some
+non-philosophy -- refers to the envelope. The fold/folded thing is what you place in the
+envelope, in other words: the envelope is the reason for the fold. You would not fold if it
+weren’t for placing in an envelope. The envelope is the final cause of the fold.
+
+I’m translating into philosophical concepts. Inclusion is the reason for inflection.
+Inflection is the reason for curvature. Things had to be folded in order to be placed inside.
+We have not finished our reflection. What is folded – I am going very slowly because I
+want you to understand as we proceed – what is folded, or if you prefer, what is curved,
+since inflection appeared as the genetic element of the fold, what is folded, or inflected,
+or curved by a variable curvature, through this [it’s] enveloped in something. So here’s
+the first thing that I would like you to grant me. So if you ask me, why, well, just stop,
+stop asking why. But stop, stop asking why. “Is that ok?” One mustn’t ask why; one must
+ask, “is that ok?” It’s Leibniz’s world.
+
+                                                                                              7
+
+So, fine. What is folded is necessarily enveloped in something; otherwise it would not be
+folded. What is folded is only folded, what is curve is only curve to be enveloped. To
+envelop, in Latin, is involvere or implicare. Implicated, enveloped, is the same thing.
+Implicare, what is that? It is the state of the fold that is enveloped in something, that is
+implicated in something. There’s great beauty in all that, as beautiful as a work of art.
+And in relation to a work of art, it has an advantage which is that, in fact, it’s true.
+[Laughter] It is true that things happen like that.
+
+Let’s continue. If you’ve understood me to this point, I’m beginning… What’s folded,
+plicare, also means implicare, what is folded is placed inside something, is included in
+something. What’s folded is folded only in order to be within something. In other word,
+therefore, a little step forward: what is folded does not exist outside that which includes
+it, what implies it, what envelops it. What is folded does not exist outside that which
+envelops it.
+
+Let’s continue step by step. What is folded does not let itself be unfolded except ideally.
+Unfolding what is folded is possible, but it’s an operation of abstraction. What is folded
+exists only as enveloped within something. If you develop this something, it’s possible,
+but it’s an abstraction. You make an abstraction, at that moment, from the envelope. In
+other terms, what is folded exists only in its enveloper [enveloppant]. But then, what
+progress have we made? This progress is complicated in the fifth remark.
+
+I would say, in this fifth remark, we can conclude: what is folded not only refers to a
+point of view, -- this was the object of the preceding remarks, -- what is folded refers to a
+point of view, but – my fifth remark -- what is folded does not refer only to a point of
+view, but is necessarily enveloped in something that occupies the point of view. There we
+have not finished assessing the progress we’ve made. What is folded refers to a point of
+view, but moreover, is necessarily implicated, is necessarily enveloped, implicated within
+something that occupies the point of view.
+
+We have not finished assessing these little bits of progress since you certainly sense that
+when we said earlier “the visible is included, enveloped in the point of view,” it was an
+approximation; that did not entirely work, that it was by approximation that I can say the
+right angle is in the vertex. But also, I am no longer saying that; it was a way of speaking,
+we had no other at that moment. Now we can, in fact, specify a bit: by saying that it was
+almost that [the right angle is in the vertex], but not quite that. For what is folded is not
+enveloped in the point of view; what is curved or folded, is enveloped within in a
+something that occupies this point of view, but henceforth there is something that
+occupies the point of view, and that is what we have not discussed.
+
+And this something that occupies the point of view, henceforth, you will grant Leibniz
+that at once he can tell us, by commodity and to go more quickly, he can identify it with
+point of view itself, and likewise distinguish it, on the contrary, from the point of view.
+Thus I conclude this fifth remark by saying that we find ourselves now faced with two
+propositions that have a relation of progression with each other. First proposition: what is
+folded necessarily refers to a point of view since inflection, or variable curvature, refers
+
+                                                                                                8
+
+to a point of view. Second proposition, what is folded is necessarily enveloped within
+something that occupies the point of view.
+
+The sixth remark would have for object to specify what this progression consists of.
+[Pause] Up to there, ok? No problems? I’d really like for you to take from this, if that
+suits you, a method for yourself, for your reading. I insist on that, on this necessity. What
+I am in the process of doing is nearly an operation for de-philosophizing. I really think
+that the only completely philosophical reading occurs if you make it coexist with a nonphilosophical reading. That’s why philosophy is not at all something for specialists; it’s
+both something for specialists, and at the same time absolutely a non-specialist thing.
+Both need to be maintained at the same time. A good philosophy is eminently a specialist
+thing since it consists in creating concepts, but it’s fundamentally a non-specialist thing
+because concepts are truly sketches, sketches of sensible intuitions.
+
+So I would like to insist on… Here’s a new example. What is this, something that
+concerns… You see, inflection was overtaken by the idea of point of view, and now the
+idea of point of view is overcome by a something that occupies the point of view. I would
+say of this something that it’s something enveloping, something implicating. The fold is
+implicated in the implicating. We know in advance that this enveloping is, in general, the
+subject, or according to Whitehead’s words -- we will have to discuss this; we should
+have gotten there, but the circumstances haven’t…, there’s a kind of parallelism LeibnizWhitehead –as Whitehead says, the superject. It’s the subject that envelops, the superject
+that envelops, that implicates. What does it envelop? It envelops what is folded. What is
+folded? We saw that there were reasons to call it, not object, but objectile, since the
+objectile was the object insofar as it described variable curvatures or a variable curvature.
+
+So let’s come to terms with the fact that already, philosophically, if we jump from one
+reading to another, it’s indeed the first time that a philosopher defines the subject in that
+way as a point of view, a vertex, a superject.
+
+That’s really curious: the subject is what comes to a point of view. [Pause, sound of
+someone coughing rather violently] And I’m saying that, on one hand, Leibniz will act as
+if subject and point of view are the same thing, and likewise he will be very formal, very
+precise, and he will tell us that point of view is the modality of the subject. One cannot
+say any better that the subject must be defined independently of point of view, it comes to
+a point of view; the point of view is its inseparable mode, but it’s not the point of view
+that defines the subject. I get the impression there that Leibniz’s commentators really
+don’t see clearly this progression and are quite satisfied with the notion of point of view
+in order to define the subject. And this is not possible. The subject really must… Why?
+Because the subject is not point of view, it’s enveloping. So it has a point of view; of
+course, it has a point of view. But to speak in a learned way, in its constitution it is not
+point of view. As a result of its constitution, a subject comes to a point of view and is
+inseparable from a point of view, but the point of view is not its very constitution.
+[Pause]
+
+                                                                                                  9
+
+In other words, what is our progression? First, I say that point of view is a point of view
+onto an infinite series, [Pause] that is, the point of view is a point of view onto the
+constituted series, the infinite series constituted by the states of the world. That’s what
+point of view is. It bears on the infinite series of the states of the world. You see that in
+my first [upper] floor, my first floor above matter, is perhaps sketched something like
+different little floors. I’d say that if I limited myself to point of view, I remain in a scale
+of perception; it’s the world of the percept. The point of view looks onto the infinite
+series in the states of the world. It’s like the manifestation of visibility, it’s the percept.
+[Pause] But moreover, I say: the world, the series of the world, the infinite series of the
+world is enveloped in something that comes to the point of view, that is, is enveloped in
+the subject.
+
+At that point, notice that the status of the world has changed, no longer exactly as earlier
+the infinite series of the states of the world because what is enveloped in the subject is
+what? By nature, it’s what we call the predicate, or if you prefer, the attribute. The
+infinite series of states of the world has now become the infinite series of predicates of
+the subject, infinite series of predicates of a subject that envelops them. We have passed
+from the infinite series of states to the infinite series of predicates or attributes. Indeed, if
+the infinite series of states of the world is in the subject, is enveloped in the subject, the
+states of the world are also the predicates of the subject, the attributes of the subject.
+
+All of that involves a lot of things, but we won’t bother with that yet; notably, we won’t
+bother yet with the formidable and beautiful question: what is an attribute of the subject?
+I will simply say: well ok, if the states of the world are enveloped in the subject, the states
+of the world must necessarily be the predicates of the subject that envelops them. You see
+again the tiny progress: we are no longer in the domain of visibility. So what domain are
+we in? We have passed from visibility to legibility (le lisible). We have passed from
+visibility to legibility. From a certain point of view, I see the world, but within me, I read
+it. Hence this very charming text by Leibniz, Monadology, paragraph 36… [Pause] no,
+not that, it’s paragraph 61; Monadology, paragraph 61, I’ll read it to you:
+
+“A soul” – that is, a subject -- “can read in itself only what is distinctly represented.” It
+matters little what that means, the text. We are not yet able to provide commentary on it,
+but we can note that Leibniz does not say and will never say – well, don’t ever say
+“never”, one has to be careful -- when he is speaking rigorously, he will never say –
+although he occasionally speaks less rigorously to go faster – he will never say that the
+soul sees into itself; he will say that the soul reads into itself. What it [the soul] envelops
+are states of the world as predicates of the subject. And the soul reads its own predicates
+at that same time that under the point of view where it is located, it sees the states of the
+world.
+
+That’s getting complicated, but it was worth the effort because we are, in fact, no longer
+in the domain of the percept at the level of the envelopment. At the level of the point of
+view, we are in the percept, but on the level of the subject-predicate envelopment, we are
+in the concept. We are in the concept. [Pause] With one qualification, which is evidently
+fundamental: on the condition of conceiving the concept as individual. The subject is
+
+                                                                                              10
+
+individual. Why? Precisely because it does not exist without coming to a point of view.
+In other words, what is a subject? It’s a concept, it’s a notion, and each time that Leibniz
+says “subject,” you should correct him by substituting “notion”, it’s the notion of the
+subject, in Leibniz, always. And what is a notion of subject? It’s an individual notion, he
+says. In other words, the concept extends all the way to the individual. Moreover, the
+individual is the concept, it’s the notion. This is strange; there we are still absolutely
+incapable of understanding. But it’s interesting; just make a note of what we’ll need to
+understand for the future.
+
+I can say that Leibniz is without doubt the ancient philosopher, or relatively ancient, who
+was the most modern from the point of view of logic. If we ask Leibniz what a subject is,
+he will answer that it’s what is indicated by a proper noun. You know the extent to
+which, in modern logic since Russell, the theory of proper noun has had importance. We
+will see it in detail later. Leibniz is the first to tell us that the real name of an individual
+substance, the true name of the subject, is a proper noun. And it’s without doubt with
+Leibniz that a grand logic of the proper noun begins.
+
+What is a subject? It’s Caesar, Adam, you, me. The subject is individual. Immediately
+one steps back, saying, no, it’s the individual notion of each of us because only the notion
+encompasses predicates. What are the predicates that we encompass? All the states of the
+world! In other words, what comes to a point of view? What comes to a point of view is
+the subject understood as an individual notion. What comes to a point of view is what is
+indicated by a proper noun. I see from a point of view, and I read in the subject. Seeing
+and reading. Percept and concept. [Pause]
+
+In other words, summarizing this remark rapidly – this was my focus throughout this
+entire introduction and in all of the preceding meetings -- we have indeed passed from
+inflection to inherence. But at what price? At the price of discovering that not only does
+inflection refer to point of view, but that point of view refers to something that came to
+occupy this point of view; the something that occupies this point of view, let us call it: a
+soul. It’s a soul; a substance, that’s a substance; a superject if we speak like Whitehead
+and not like Leibniz, since the word is Whitehead’s; an individual notion, a proper noun.
+[Pause]
+
+There is a huge difficulty that we dropped completely; don’t be surprised not to
+understand what is currently incomprehensible: what precisely is a predicate or attribute,
+of this substance or subject? We just saw that to the extent that there is envelopment, the
+states of the world became predicates of the individual subject. There is no subject except
+as individual, and that is something completely strange in philosophy. Because before the
+others, what had been debated in the question of knowing in what sense the soul was
+individual, not individual, [and] what were the consequences of all this? Leibniz arrives
+calmly and tells us: every subject is individual, and moreover, the concept extends to the
+individual and exists only by going to the individual.
+
+None of that goes without saying, but these are our difficulties for later. We are not quite
+ready to resolve them now. So we proceed to the extent that we are able to resolve, hence
+
+                                                                                                11
+
+my seventh remark. I am taking a short break; was the sixth remark clear? You just have
+to… If you will, this cannot be clear enough. You just have to grasp the necessity of
+passing from point of view to inherence, that is, to inclusion, that is, to the idea of
+something individual that comes to occupy the point of view and that, henceforth,
+encompasses, envelops the infinite series. I sense that you have understood quite well
+since you are indicating nothing; you have inscrutable faces. Leibniz would say that in
+your souls -- and we see clearly the difference between point of view and soul -- in your
+soul, you read perfectly; at first glance, you see nothing at all, but in your soul… In the
+end, the soul is essential. Fine.
+
+Seventh remark, from which, at least, we must know what we are able to understand. We
+saw what we were not yet able to comprehend, but in the seventh remark, there is a whole
+series of texts by Leibniz that are found all over, and that now no longer pose a problem
+for us. First, and we saw this in the previous meeting, the mirror theme: each subject is a
+mirror of the world. That really is the language of visibility. Moreover, Leibniz adds,
+each subject is mirror of the world from its point of view. You see that he does not
+confuse subject with point of view, that is, the subject “mirror of the world” through the
+mode of its point of view, from the point of view it comes to occupy. We were just
+insisting that one must understand mirror as a concave mirror. Everything that precedes
+justifies this, that introduction or adjunction of concavity.
+
+Second point: it’s only a metaphor, and we must get beyond this metaphor. Why get
+beyond it? Because it settles into the point of view, that is, it sits in the middle of the
+road. We mustn’t say that each subject is a mirror on the world, because that would seem
+to suggest that the world exists in itself. Yet, recall that it exists only as folded, that is, it
+exists only as enclosed in each soul, it exists only as enveloped in each soul or object.
+Henceforth one must say that, as I was suggesting the last time, rather than a mirror on
+the world, the subject is a screen on which a film is shown. But as we have noticed, that
+was still insufficient, since a film has been made and refers to an exteriority, even
+assumed. From which we invoked rather an opaque table, an opaque table of information
+where data is registered, without reference to any exteriority.
+
+The world is enveloped in each subject and exists only as enveloped in each subject. This
+is the sense in which the Monadology will tell us: subjects, individual substances are
+“with neither door nor window.” They receive nothing from outside. You see why they
+receive nothing from outside since everything they have, everything they read or
+everything that happens to them, they envelop it, they include it. In other words, the
+world does not exist outside of subjects that include it, the world does not exist outside
+subjects that envelop it. [Pause] And nearly as a symbol of Leibniz, I proposed to you the
+last time a famous painting by Rauschenberg, where everything we need is located, that
+is, the surface of the painting as an information surface, as a table of information that one
+must imagine being slightly concave and a variable curve, a ciphered variable curve is
+inscribed on it.6 In fact, this is the representation of a Leibnizian world.
+
+You see that we have passed onward, causing us only to start over another level that we
+just completed. In this seventh remark, we have passed from texts by Leibniz in which
+
+                                                                                            12
+
+he told us that the subject, the individual substance is mirror on the world, to the other
+kind of deeper text: the individual subject envelops the world; the world does not exist
+outside subjects that it envelops. [Pause] Outside subjects that envelop it, that moves us
+forward yet again.
+
+Eighth remark. For now the time has come to resolve a difficulty: why [are there] several
+points of view, why several subjects? Why wouldn’t there simply be a single subject that
+would come to a point of view, and whose point of view would be and would carry onto
+the infinite series of states of the world, and would thus envelop the totality of predicates;
+and would have for predicate, would have for the attribute a term: the infinite series of
+states of the world; a single subject that would be God? In a certain way, this would be
+Spinoza, a single substance, God, that encompasses, that contains, that includes all
+modifications, that includes all constitutive modifications of the world, the infinite series
+of constitutive modifications of the world. This is just to indicate the extent to which
+Leibniz insists on the plurality of subjects and on the plurality of points of view. In fact,
+we go from one to the other, from the plurality of points of view to the plurality of
+subjects.
+
+But yet again, if it is true that a point of view grasps hold of the infinite series of the
+world, or (and it’s the same thing) if it is true that the subject includes the world,
+envelops the world -- it’s strange! -- Why several points of view? I remind you that in our
+previous meeting, I tried to propose an answer to you, which is: the infinite series is
+essentially susceptible to an infinity of variations. [Pause] The variations of a series,
+we’ll have to come back to them, the variations of a series. I was telling you [that] we
+have to conceive of them in every manner: rhythmic variations, melodic variations,
+opposite movements, when the ascendant becomes the descendant and vice versa,
+retrograde movements when you begin at the ending, and you obtain another series. So
+there is an infinity of variations of the infinite series.
+
+So must we say that each subject responds to a variation? Without doubt, notably there
+are not two subjects that begin the infinite series with the same term, nor that end it the
+same way. That’s why there is necessarily an infinity of subjects. But then there is also a
+reason, which is: ok, each subject envelops the infinite series. Yes, each subject envelops
+the infinite series, the infinite series of the world, but each subject is defined by a region
+of this series, the region that it can read, that it can read clearly and distinctly. I express
+the world, or if you prefer, I envelop it, I express the world in the manner of a mirror, and
+I envelop it in the manner of a subject. And then you as well -- there is no reason -- we all
+express the world. Well, fine, only that we do not clearly express the same portion. Each
+subject has a finite capacity for clearly reading, [and] the rest is what? We must say that
+each subject is, literally, dyslexic, for the entire series.
+
+You see who this great reader is. The great reader of the world is God. But we, individual
+subjects: you’ll tell me: but God is an individual as well; sure, God’s an individual, but
+that is going to cause us problems, the sense in which it’s an individual, and the sense in
+which we too are individuals, but we haven’t gotten there yet. God envelops the whole
+series of the world clearly and distinctly, but us? It’s already pretty great, we have a little
+
+                                                                                             13
+
+portion of reading clearly and distinctly, the rest we blabber. We envelop the entire
+world, but confusedly, obscurely, illegibly. And we have our little portion, our little clear
+and distinct glimmer, our little glimmer on the world, our little world region: my very
+own room. That’s already not so bad, my own room! We shouldn’t ask for much more. I
+express the entire world, I envelop the entire world, but I only clearly envelop a small
+portion.
+
+What distinguishes me from you, you from me? It’s that we don’t clearly express the
+same little portion. You’ll say: we have a common sphere, so that’s how we belong, for
+example, to a same time, that we are co-living. You understand, each of us has his/her
+common portion, but it can overlap the neighboring one; for example, when we meet in
+this location with security bars, [Laughter] we clearly express a little portion of space.
+But if we disperse, each of us again finds his/her own room. We can come together, we
+can separate, like an accordion. [Laughter] But in every case, our portion of clear
+envelopment, of legible envelopment, is extremely limited.
+
+So there are necessarily several points of view, or if you prefer, there are necessarily
+several individual substances. With this, now I have my answer because, even if it’s true
+that each individual substance envelops the entire world, it can only read clearly a portion
+of the world, which is necessarily distinguished from the legible portion of the world, the
+other. And at the same time, that is not adequate because there we are going to find
+ourselves facing an impossible problem. We have to manage as best we can. That this is a
+great problem for Leibniz, that’s what always fascinated him: individuation. That’s his
+problem. Fortunately we still have a little dissertation he wrote, the exact title written in
+Latin, since they wrote in Latin at that period in the university; the title is Dissertation on
+the individual principle, on the principle of the individual. He was 17 or 18 years old. So
+it’s the equivalent of a … -- They were more precocious back then. -- It’s a little DEA
+[masters thesis], it’s a little essay, and it’s not by chance that from the start, this was his
+problem. So he grasps onto it, and it’s a very interesting discussion relating to certain
+philosophies of the Middle Ages, with Aristotle, but especially Saint Thomas [Aquinas]
+and Duns Scotus, and that indicates something that remains his focus in all his
+philosophy all the way to old age. Fine.
+
+We are going to find ourselves in an impossible situation because, you see, what
+constitutes individuation for Leibniz? First answer which comes to mind: point of view.
+In fact, in the notion of point of view, he offered a sufficient consistency such that this
+might be a possible answer. It’s completely new, defining individuation by point of view.
+There had to be the means for doing so; one had to pass through this entire theory of
+inflexion, of curves. Answer: that could be said, but it’s not the final word; why?
+Because, strictly speaking, point of view cannot define individuation; point of view
+cannot define the individual since point of view is only the modality of the individual. It’s
+only the mode of the individual.
+
+So, a second answer: let us assume that each individual envelops the entire world but
+understand that one only envelops clearly and distinctly a reduced portion of the world.
+So it’s this reduced portion that would explain the individual, specifically two individuals
+
+                                                                                            14
+
+do not have the same clear and distinct portion. But that doesn’t work either. You sense
+that it’s obviously because the individual is individual that it has a portion of the world. I
+cannot define the individual by the portion of world that it expresses. On the contrary, it’s
+because it is an individual that it only has a limited portion. That doesn’t work. So, what
+defines the individuality of the individual? How does one define individuation? We
+already have two possible answers, possible but not satisfying. Fine.
+
+So, let’s continue: the entire world is enveloped in each subject, the subject is the
+individual, it is individual substance or the individual notion, it’s the concept proceeding
+all the way into the individual. It’s the individual notion, it’s what deserves a proper
+name; the subject is what deserves a proper name. You sense that in any case, it’s a
+strange tale, this logic of proper names, a strange tale because, imagine it: however little
+you might know, at what point does that [logic] breaks with all philosophy, at what does
+point it delivers something new? You imagine Plato having… No, that presumes that you
+know Plato, Plato is Ideas. It occurred to Plato to ask: are there ideas of individuals? Is
+there an idea of Socrates, an idea of Alcibiades? All that. But he encounters problems…
+Whereas Leibniz arrives and tells us that the notion is individual, that the concept goes all
+the way into the individual. Why can he say that? We have to put this aside because we
+have to answer, to answer urgently, to answer today. Perhaps. I hope we’ll have time, but
+we have to answer it today. Why?
+
+It’s quite extraordinary, to tell us… Just consider Descartes. All Cartesians never stop
+reflecting on the "I” in Descartes, “I think”. What is this “I”? There is a very interesting
+thesis written on the notion of the individual notion in Descartes, but it’s an extremely
+difficult subject because one has to research deeply into his texts. Is the “I” of “I think”
+an individual subject? No, it’s difficult, we cannot say that it might be indicated by a
+proper name. “I think” is not: me, Descartes, I am thinking! That’s what Leibniz tells us:
+“subject” can only have one meaning: what has a proper name. Caesar, Augustus, you,
+me. The subject is individual.
+
+So I’ll start over. Each world is enveloped in each subject; we have seen how subjects
+were supposed to be distinguished, by this little portion. Notice that we already have two
+answers: by the variation of the series, or (which is the same thing) by the little portion. I
+am saying that it’s the same thing in the long run because, as the clear and distinct little
+portion enveloped in each subject varies according to the subject, it’s a variation of the
+infinite series. Hence, the two answers work well, but they work well by us
+understanding in them what seems to be their insufficiency. If I say that the world exists
+enveloped in each monad, … eh [Deleuze corrects himself], if I say that the world exists
+enveloped in each subject, well fine, it exists enveloped in each subject. But you sense, just
+as I was saying earlier, we are going to rediscover [that] it exists enveloped in each
+subject. It exists only as enveloped in each subject. The world does not exist outside the
+subject that envelops it, the world does not exist outside the subject that implicates it, that
+include it. [Pause] Might we say that this is idealism? Given we have to say something…
+the world does not exist outside the subjects that implicate it. It’s going to be very
+difficult to say even that it is idealism, one has to be wary. Why? Since there is
+fortunately an irreducible plurality of subjects.
+
+                                                                                            15
+
+What do I mean? I mean, look at the transformation of problems that Leibniz imposes on
+us, I’d say, on two levels: for the relations that I might call relations of perception,
+visible-point of view relations, are substituted the relations of points of view among
+themselves or, what is really the same, for the world-subject relation is substituted the
+relation of subject between themselves. The world does not exist independently of
+subjects that envelop it; the world exists only as enveloped in subjects. Yes. But then the
+fundamental problem becomes: what is the relation of subjects between themselves since
+objectivity and reality of the world are strictly muddled in the relation of subjects
+between themselves? [Pause]
+
+Is everything ok? I’d almost prefer that here we take a small break if… You see, what I
+have left is a ninth remark that I’d like you to reflect on during a short break. My ninth
+remark: finally the moment has arrived, we have to call it, like in English novels when
+there are chapter titles, "How it happened that Leibniz speaks to us about the notion of
+Monad". How does the monad, the typically Leibnizian notion of Monad, develop from
+all this? This is why the term monad, up to now, is something I could not pronounce.
+Listen, take a break, but please, come back. Let’s come back at … [Interruption of the
+recording] [1:32:08]
+
+Let’s make clear this passage [Brief electronic buzz] from inflexion to inherence.
+[(1:32:19) 20 second interruption, electronic buzz, in the WebDeleuze recording; text
+from WebDeleuze] Is there a question? Any problems? [Return to the WebDeleuze
+recording] … He [Leibniz] says the world only exists insofar as it is enveloped in
+subject, not because of… [Pause, Deleuze does not complete the thought] eh?
+
+A woman student: [On the subject of ignorance, Deleuze repeating the question]
+
+Deleuze: Doesn’t being ignorant imply, if I understand correctly, something that is
+outside the subject, since the subject ignores it? Leibniz’s answer -- that we cannot yet
+evaluate because we will spend several classes on this -- is that there is no ignorance;
+there are only degrees of awareness (conscience), there are degrees of awareness scaled
+to infinity. And, in fact, your comment is very good: if for Leibniz there were ignorance,
+we would have to say that there is something in the world that escapes the subject, that is
+not enveloped in the subject. But for him, there is no ignorance; there are only degrees of
+awareness more or less clear, more or less obscure, more or less confused, etc., that is,
+either it is clear and one knows or it is something like – as it’s frequently said – rumbling
+(rumeur). When you say, I don’t know, it’s still a rumbling, it’s in the state of a wave
+breaking, a cosmic wave breaking in the depths of each of us. So perhaps all subjects
+communicate through this cosmic breaking wave, but it is not itself outside subjects. But
+your comment is quite right. Leibniz could not get by if he did not elaborate a theory that
+isn’t a theory of conscience/awareness, but of an infinity of degrees of awareness.
+
+A student: [On the points of view that go to infinity; an electronic noise blocks most of
+the question, continuing into Deleuze’s response]
+
+                                                                                           16
+
+[Text from WebDeleuze] Deleuze: It’s indeed a matter of an infinite multiplicity. There is
+no opposition between multiplicity and infinity. For Leibniz, infinity is the necessary
+status of the multiple, the multiple goes to infinity. No problem there. All the more so
+since, for Leibniz, there is no finite multiplicity. [Return to the recording] There is only
+infinity in Leibniz. But here as well, that brings up things that we have not yet considered
+or discussed, that we will have to see later.
+
+Another student: I don’t understand the difference between an individual notion and the
+concept that goes all the way to the individual.
+
+Deleuze: No difference at all, these are two equivalent expressions. I’ve been saying that
+I accumulate, I sometimes multiply expressions because it seems to me that some among
+you can understand one but not the other, so best to add quite a few.
+
+Well yes, I’m exactly in … I am trying to explain Leibniz to you. I am exactly in the
+situation of a blind person trying to tap into the clear area (portion claire) of each of you.
+But the clear area of everyone is very different according to what? This explains
+everything: according to your own background (votre culture). Those of you who have
+read some of Leibniz have a clear area – this isn’t meant to annoy the others – a greater
+clear area than those who have read nothing at all. And yet, to the extent that all subjects
+are in each subject, Leibniz really has to be part of you, even if you have read nothing,
+part of you in the state of rumbling (rumeur). You have heard that Leibniz said something
+about a monad. He employed the term “monad”. So you could be reduced to this
+miniscule part, and then there are some of you who have read Leibniz, and so they have a
+greater portion. But sometimes I cannot complete this if … What I’d like is not at all
+that… It’s just that each of you, your personal task is: to capture some Leibniz in your
+clear area, to the point that… Why would there be progress through Leibniz? Why is he
+one of the first philosophers who advance the notion of progress? It’s because each
+individual substance has a power, alas, rather restrained, of enlarging its clear area.
+That’s what it means to learn; it’s to increase step by step along the scale of degrees of
+consciousness. So fine, we have come to the ninth remark…
+
+George Comtesse: [Question entirely cut from the WebDeleuze recording, but included in
+the WebDeleuze transcript] How do you understand the following thing as regards
+Leibniz: he both affirms the subject as individual substance, the subsistence of individual
+receives nothing from the exterior, and yet he defines the individual subject by the proper
+name which, in fact, implies receiving something from the exterior? [Return to the
+recording]
+
+Deleuze: Ha, let’s see. I say that one has to distinguish – here I am inventing nothing
+because simultaneously, I can recall the texts, it’s great (c’est une fête) – one has to
+distinguish the nominal proper name, which is the name of convention. Whereas Caesar
+is called Caesar, and Augustus is called Augustus, and each of you is called what you are
+called, that’s a conventional operation which, to some extent, can be said to come from
+the exterior, but without at all affecting the subject, according to Leibniz. Moreover, he
+has a text in New Essays on Human Understanding, a little chapter devoted to proper
+
+                                                                                             17
+
+names where he says: proper names derive from common names, these are names of kind
+[espèce] and genre. For example, you are called “laborer,” it’s an example, someone with
+the name “laborer.” This means that he doesn’t believe in proper names in this sense.
+
+When I say: the proper name indicates the individual substance; it is something that the
+conventional proper name symbolizes, but only manages to symbolize. The proper name
+means: what is subject is an infinite aggregation of propositions. For example, I say: x
+has crossed the Rubicon, has been assassinated by his stepson, I don’t know. There we
+have a propre name. So there the individual subject, I can say, is designated by a proper
+name that is his internal determination. So if you say to me: what is the proper name of
+Caesar, I answer: it’s the internal determination of Caesar. We will say that by
+convention the internal determination of Caesar, that aspect through which it is an
+enveloper (ce par quoi c’est une enveloppante), this internal determination is
+conventionally designated by the proper name “Caesar.” It’s a common name applied to
+an individual substance.
+
+So, the ninth remark. We will have done a lot today. Where does the “monad” come
+from, a strange name? And in fact, the monad, you can’t do better since you open
+Monadology and the first word there, after the title, in paragraph one: “The monad, about
+which we will speak here is nothing other than a simple substance.” That sounds really
+bizarre, monad, to the point that, for us, we scholas, each time we hear the word
+“monad”, we add, “as Leibniz said.”
+
+And where does that come from? Let’s note that he starts using it rather late; he starts
+using it rather late. Specialists locate the word’s first use in 1697, so there was an entire
+part of Leibniz’s work in place, in which he spoke about individual substance, soul,
+individual notion, and not a word about "monad”. That must have really pleased him, but
+he didn’t invent the word. The word “monad” was in consistent and systematic
+philosophical usage in the works of some very interesting authors that were neoPlatonists. The Greek word monas yields monad, because the declension is in “d”
+(monado), the Monas. If one looks hard – I am saying things that I am not entirely sure
+about because this is from research that I haven’t undertaken and I don’t have the
+necessary dictionaries. The word is found in Plato. This word, while I’d really like to
+verify it, is found in Plotinus.
+
+But not at all this sense. In what sense is it? In the sense of unity. Not just any sense of
+unity, but in a variable sense of unity. In any case, I can say, I think, that neither Plato nor
+even Plotinus, who is the founder of neo-Platonism, made systematic use of the word. On
+the other hand, systematic use arrives among the neo-Platonists, that is, the disciples of
+Plotinus, among whom the first great one is Proclus, Proclus.
+
+Monos means “a single” (un seul), one all alone. One sees this in reading Proclus, notably
+a very short book by Proclus, called Elements of Theology, one sees in Elements of
+Theology that monas designates something very particular because monas is unity, but
+there is another term. Monas is unity, but the One (capital O). The "en" (an, one) in Greek
+is not stated as monos, but as En, E and n, the En. And there is a Greek substantive
+
+                                                                                           18
+
+derived from En which is Henas, that we translate as Hénade7. So it’s curious, you see:
+monad, hénade, monas, henas, what is that? Either that means nothing, and is useless, or
+monad indicates a very special type of unity, which is going to unfold, and that will
+receive status in neo-Platonism, an increasingly rigorous status starting with Proclus. So
+that’s what I think we need to know.
+
+We need to know a little bit more about this: what is this particular sense of unity?
+Proclus tells us a lot about a certain stage of the One. You know that if we had to define
+it, neo-Platonism is a philosophy building as a fundamental category the One and the
+Multiple. This is its main concern. Starting with Plato, there are two great directions:
+Aristotelianism that draws the couple form-matter from Plato, and neo-Platonism that
+draws forth the couple One-multiple starting with Plotinus. The Aristotelian tradition will
+consider components of form and matter which will yield solid figures. Plotinism, or neoPlatonism, will consider components of One and multiple that will yield figures of light.
+If there is a figure in Plotinus, it’s that of light. He is the great philosopher of light.
+Before things, there was light, and light emanates from the One, from the En.
+Parenthetically, but here I am getting too learned, in the Pythagorean tradition, Monas is
+fire.
+
+You might wonder why I am saying that. Because in Proclus, we indeed see that Monas
+does not designate just any kind of unity. Generally speaking – I’m not saying things that
+are very precise -- Monas is reserved for two special characteristics. It designates a stage
+of the One that is already massive in virtual multiplicity. And in fact, neo-Platonism will
+consist of a series of floors where, on the final floor, way on top, there is the One or
+Light, the One above all else, the One about which one can say nothing. The One more
+than Being. The One that is truly one, about which one cannot even say it Is, the One
+above Being, and above all else.
+
+And starting from this One, in which form -- there we have the philosophy of Plotinus,
+not our object of study this year -- I won’t even say flows from it, but trickles from it like
+light, like light rays, streams from it light rays where we can locate degressive stages
+(stades dégressifs) of the One. And one of the stages of the One is when the One ceases
+being purely One in order to envelop, to implicate – involvere say the Latin translations –
+to envelop some multiple, and this enveloped multiple is of the virtual multiple, not yet
+passed into act, huge unities of a virtual multiplicity. And under the Monas, just like
+above the Monas there is the One, the One that is only One, the One without multiplicity,
+the purely One One; below the Monas, there is a one that is nothing other than an
+arithmetic element, a numerical element in a multiplicity that has passed into act, in an
+actual multiplicity. That’s the numerical unity.
+
+So there we have the first characteristic, very approximately, because Proclus is
+otherwise quite complicated. In brief summary, I say: monas designates first of all unity,
+when unity is full of a virtual multiplicity. In second place: monas designates unity when
+it is the principle of a degressive series (une série dégressive). For example, in the text
+Elements of Theology, I read: “The monad, serving the function of principle, engenders
+the multiplicity which is appropriated to it. This is why each series -- neo-Platonists are
+
+                                                                                             19
+
+the first to create a philosophy of series -- is one, and each order is One.” In the Greek
+text, it’s En. You see: that monad, serving the function of principle, engenders the
+multiplicity which is appropriated to it; it’s why each series is one and each order is one.
+From one end to the other, it [the one] receives from its monad its descent toward the
+multiplicity, for it [the one] is neither of order nor of series if the monad remains in itself
+infertile. In other words, la monas is unity as principle of a degressive series.
+
+Example: from the pure soul flows the souls of the Gods, and even the souls of the Gods
+themselves form an entire series. There the neo-Platonists surpassed themselves because
+there is the Jupiteic soul (l'âme Jupitéique), the dried-out soul (âme aréique), the titanic
+soul, the souls, the souls, the souls, the souls. The procession of souls is sublime, but this
+hardly matters. From the pure soul flow the souls of the Gods. From the souls of the Gods
+flow the souls of men, from the souls of men – which are reasonable souls – in certain
+cases (sous certains chefs) flow the souls of animals, etc. etc. … You have a degressive
+series. The principle of this series will be called Monas.
+
+Similarly, if you make a series of the Enas, [a series] of the Ones, of unities, you place on
+top: the One more than Being, then the One which encompasses, which envelops a
+potential multiplicity, then the One that is nothing other than a unity in an actual
+multiplicity, you have a series. You will say that there is a Monas as principle of the
+series of Enades. You see that all this is really beautiful. So I say, to stay with Proclus
+and neo-Platonism, the Monas designates the unity, but under two conditions, that the
+unity be full, thick (grosse) with a virtual multiplicity that it envelops. Second condition:
+that it be the principle of a degressive series that flows from it. I don’t need to return to
+what we did in order to say that these two traits suit Leibniz marvelously.
+
+A woman student: What is the reference in Proclus?
+
+Deleuze: In Proclus? Ah, paragraph 21. But at the same time, there’s a constant. Monad
+is constantly present there. But on the other hand, Proclus is… Among the rare things that
+we still retain from Proclus, there is an admirable commentary on Parmenides where his
+thought is much more developed. That’s quite evidently a summary of lessons. But in the
+commentary on Plato’s Parmenides by Proclus, there is an entire theory of the monad,
+quite lovely.
+
+You see what suited Leibniz. I would be astounded if he knew this word [monad] very
+late; he knew it the entire time, but it must have been in a kind of inspiration, he told
+himself suddenly: My God! Why haven’t I been using this word? It’s exactly what I need.
+And at the same time, he is going to transplant it entirely, for he will indeed retain its two
+traits: the monad is a unity as principle of series, and a unity as filled with a virtual
+multiplicity. As we say, filled with a virtual multiplicity since from his viewpoint, it is the
+opening onto an infinite series. So this suits him perfectly.
+
+But it still would be quite properly grotesque to say that Leibniz yielded to a neo-Platonic
+influence, since it is entirely true that Leibniz succumbed to neo-Platonic influence, but
+on entirely other points than this one, because by using the word “monad”, he gives to it a
+
+                                                                                          20
+
+situation, another completely original function that neo-Platonists knew strictly nothing at
+all. And if you will, if I were to sum up, Leibniz tells us what would be monstrous and
+incomprehensible for a neo-Platonist: the monad [as] the individual notion, the individual
+itself, the individual taken in its notion; or, if you prefer, it’s subjective unity, it is
+subjectivity, it’s the subject. Which amounts to saying: unity as monad, is the individual.
+
+And how did he get to the point of saying that? I believe that we have to see the two
+points that are strictly linked in Leibniz, which neo-Platonism does not grasp. These are
+the infinite and the individual. [Pause] Why are these two points linked? Because Leibniz
+tells us, the individual envelops the infinite. You will find this text in New Essays on
+Human Understanding. Alas, I forgot to note the paragraph number; I only noted down
+the page number. I have to give you the paragraph reference so that you can read it
+yourself, but it’s very quick, he doesn’t analyze what he means, so it’s not terribly
+important, but the very text is therefore by Leibniz: “the individual envelops infinity.”
+What does that mean? It means something quite simple, but which, in my opinion, could
+only appear under a perspective obviously in Christianity. What does it mean? You’re
+going to understand. What does it mean, the individual envelops infinity?
+
+We can understand easily the individual-infinite relationship if we apply the notion of
+concept. How is a concept defined? Through this: there is an understanding and an
+extension. The understanding of the concept is the aggregate of predicates that are
+attributable to it – that’s what you call the understanding of a concept. The
+comprehension of a concept is what thing is designated by the concept, the aggregate of
+attributes that are predicable to it. For example, the lion is a courageous animal. I would
+say that “courageous animal” belongs to the comprehension of the concept “lion”. Let’s
+add other traits of the concept’s comprehension: “having a mane”, “roaring”, “sleeping a
+lot”, etc…. But you will object: you are forgetting the essential point. That’s on purpose:
+I am forgetting the traits by which we define the concept “lion”. Besides I don’t know
+them: mammal, I don’t know what, the essential characteristics, that’s all I know.
+
+So comprehension is the aggregate of predicates that one can attribute to the object of the
+concept.8 Ok? The extension of the concept is the number of copies (exemplaires), the
+number of objects subsumed under this concept, placed under this concept. How many
+lions are there? “How many lions are there?” responds to the extension of the concept.
+Fine.
+
+The logic of the concept tells us what? It tells us that the more the extension diminishes,
+the more the comprehension increases, and vice versa. The more the extension
+diminishes, what does that mean? The more the extension diminishes, that is, tends
+toward one, the more the comprehension increases. Or the more the comprehension
+increases, that is, tends toward infinity, the more the extension diminishes, that is, tends
+toward one. These are things you have to know. An example, the concept “lion”. I
+suppose that currently there exist ten thousand lions. I give the extension as 10,000, the
+comprehension as this, that, such and such predicable attributes of “lion”. I make a step
+forward in a movement we can call the specification of the concept, another thing you
+have to know. I take the lions of the Sahara, belonging to the concept “lion”. The lions of
+
+                                                                                             21
+
+the Sahara all have the traits attributable to “lion”. These are “lions”, but moreover they
+have more traits, specifically the particular traits of lions of the Sahara that other lions
+don’t have. That lions from… well, from elsewhere, don’t have: for example, having at
+the end of the tail a thicker clump of hair than for others. I would say, this is a trait of the
+comprehension of lions of the Sahara that other lions do not display, that I add on. I
+would say that lions of the Sahara have a greater comprehension than lions in general, but
+for that reason, they have a lesser extension. There are fewer lions from the Sahara than
+there are lions [in general]. Good. Let’s continue.
+
+Biologists, or rather natural historians, naturalists can be led to say “Aaaah, but in such
+and such an oasis in the Sahara, there is a kind of lion that is not found in other regions of
+the Sahara.” That will make comprehension greater and extension lesser. Look at this
+quite simple great principle: given a concept, its extension and its comprehension are in
+inverse relation, that is: the greater the comprehension, the smaller the extension. You
+follow me because this is not going to be easy.
+
+What happens? I hesitate, I am going to do what I never want to do, a kind of overview of
+philosophy, and here it’s absolutely necessary. What was happening regarding the
+concept, regarding this law, before Leibniz? I think that all philosophers – to my
+knowledge, without exception (although there were some very complicated texts) – in
+general, without exception, all philosophers told us: yes, but the concept ceases at a
+certain moment. There is a logical moment at which the concept ceases, that is, there is a
+logical moment at which the concept’s comprehension ceases. Below this, that’s no
+longer from the concept. You have to find an end point at some moment. Example, I
+come back to my lion: a lion from a particular oasis, African lion, Saharan lion, a lion
+from a particular oasis in the Sahara … [Interruption in the WebDeleuze transcript, with
+the notation “end of tape”]
+
+… [Leibniz] says: in that, you won’t reconnect, you can go all the way to that indefinite –
+I am weighing my words – you can go to the indefinite, you will be able to prolong the
+concept’s comprehension indefinitely (à l’indéfini), you will never reach the individual.
+Why? Because the individual depends on accidents of matter and not on traits in the
+concept. As a result, however far you may go in the comprehension or the specification
+of a concept, there will always be several individuals under the concept. Even if this were
+only by right (en droit), there will always be several possible individuals. Even if I
+reached a state of the world in which only a single lion survived, the concept does not go
+all the way to its individuality. In fact, by virtue of the concept, there will always be an
+infinity of possible lions. The concept does not go to infinity. You can continue to the
+indefinite, you can continue indefinitely to push the concept’s comprehension, you will
+never reach the extension = 1. Any concept qua concept is liable to have (est justiciable
+de) an extension = x.
+
+But then, what constitutes the individual since it isn’t the concept? In other words, the
+concept is always general. It always has an extension. The Saharan lion has a concept, the
+lion of a particular oasis has a concept, as far as you want, but individuation is not the
+same thing as specification. You can specify your concept as long as you want, but you
+
+                                                                                            22
+
+will never reach the individual. What constitutes individuation? Certain Aristotelians
+answer: it is not form, which is form of concept; it’s matter, it is accident. In other words,
+they find themselves faced with the following problem: the individual is not an ultimate
+form that might be relatable (rapportable) to the concept. The individual is not an
+ultimate form; in other words, the concept ceases before the individual. You can pursue it
+indefinitely, but you will not reach the individual.
+
+Hence this problem: what constitutes individuation since it is not a complicated
+specification? So I tell you: the first answer [is]: accidents, contingencies have to be
+made to intervene, that is, attributes that do not belong to the concept. Another answer,
+much more complex: individuation indeed depends on the form but is not itself a form.
+This is notably a very lovely theory of individuation from Duns Scotus, where
+individuation is defined. He tells us: this is not a form which is added to form as a kind
+(espèce) is added to genera (genre). In other words, there are no forms of the individual.
+However, individuation is not an accident of matter. He tells us, it’s the ultimate act of
+form. This isn’t simple: this isn’t a form that is added to form; it is the ultimate act of the
+final form. What does it mean, the ultimate act of the final form? Well, this isn’t the focus
+here, it would be another course. This is to tell you, simply, that everyone agrees about
+this: that in the long run, the form or the concept, in one way or another, stops before
+[reaching] the individual, does not link up with the individual, even if I can push
+indefinitely the concept’s comprehension. Fine.
+
+Let’s have Leibniz speak. Never has anyone witnessed so much calm in the presence of
+so much daring. He will explain that there is no indefinite. There is only an actual
+infinite. He will immediately define the individual as the concept; the individual is the
+concept. The individual is the concept insofar as its comprehension is infinite and its
+extension unity. A concept whose comprehension is actually infinite, you see it’s the
+actual infinite that allows him to say that. If he said: the individual is the concept whose
+comprehension is indefinite, that would make no sense. It’s because there is actual
+infinite everywhere according to Leibniz that this definition is possible. It was therefore
+impossible for the neo-Platonists who had no idea of the actual infinite.
+
+My difficulty (faute) is not to be able to tell you yet what the actual infinite is. But no
+matter, it suffices that you have a kind of little affective feeling. He tells us: the
+individual is the concept; not only do I reconcile them, but they are identical [Return to
+the WebDeleuze recording] because the individual is the concept in so far as it has an
+infinite actual comprehension, and therefore an extension equal to 1. You see, the
+individual envelops the infinite. What is it that lets him say that the individual envelops
+the infinite? Where does he get this idea? We saw this, there at least for once we have
+seen this. It’s the whole preceding theory, in which the monad, that is the individual
+substance, envelops the infinity of predicates that the states of the world constitute. So the
+concept goes all the way to the infinite, or the notion is individual, you see, it’s the same
+thing. The monad is the huge individual unity of an infinite multiplicity.
+
+In other words, if I had a mathematical symbol to propose for the individual, I would say
+– you are perhaps going to understand everything thanks to this – [Deleuze refers to a
+
+                                                                                             23
+
+drawing on the board] 1 / infinite, one over the infinite. You may say, what interest is
+there in this? You are going to see why it’s of interest; it will be an amazing interest! And
+after we can’t go farther! Once you’ve understood the interest, we will go home to bed.
+[Laughter]
+
+All this is curious, this individuality, this notion of individuation that invades philosophy.
+Why do I say [that] this presumes Christianity? Because Christianity, under its
+philosophical form, [Another interruption of the WebDeleuze recording, text furnished by
+the WebDeleuze transcript] is well known for confronting a very interesting problem that
+has not lost its pertinence today, specifically, the proofs of God’s existence. And the
+proofs of God’s existence, it is well known – it won’t be greatly discussed although it
+interested Leibniz greatly – the most noble is called the ontological proof. And the
+ontological proof, it is well known that it is stated as follows: I define God (without
+knowing if he exists, otherwise this would not work) as and by the infinitely perfect, the
+infinitely perfect. I conclude from this that God exists since if it didn’t exist, it would lack
+a perfection. You follow me. This is why we all think that God exists… Where we get
+into trouble is when someone like Leibniz, who nonetheless is quite in favor of the
+ontological proof, says: one mustn’t move so fast because what does “infinitely perfect”
+mean precisely? For the proof to be conclusive, says Leibniz, one must at least show that
+the infinitely perfect does not envelop contradiction.
+
+Assume that the infinitely perfect might be a notion like a squared circle. In that case, I
+couldn’t conclude that the corresponding being exists. I could not; it would not be
+reasonable. The “greatest speed”, says Leibniz, is a contradictory notion; why? Because,
+by virtue of the definition of “speed,” with a given speed, [Return to the WebDeleuze
+recording] there is always a greater possible speed. So, the greatest speed is nonsensical
+(un non sens). What tells us that the infinitely perfect Being isn’t nonsensical? So he
+says: ontological proof can only conclude for the existence of God if it first shows that
+the absolutely perfect is a coherent notion, that implies no contradiction. Leibniz takes on
+the task of showing this. He is going to show it by showing that the infinitely perfect is
+l’omnitudo, the aggregate of all possibilities, and that the aggregate of all possibilities is
+possible. -- I seem to be wandering off, but you will see that this will sneak back on us at
+the moment we least expect it. -- The aggregate of all possibilities is possible, that’s what
+had to be shown for the ontological proof to be able to draw a conclusion out of the
+infinitely perfect to the existence of a corresponding God.
+
+Great, and there we are! But if the aggregate of all possibilities is possible, in that case
+God necessarily exists, because the ontological argument works. Specifically: God is the
+infinitely perfect being, if it didn’t exist, it would be lacking a (form of) perfection; thus,
+I would contradict my definition in refusing him existence. So the ontological proof
+legitimately stands, according to Leibniz, on the condition of having shown that the
+aggregate of all possibilities was not nonsensical, provided that – parenthetically, he
+reproached Descartes for not having completed the necessary demonstration – he can
+draw a conclusion [about going] from the aggregate of all possibilities to the idea of a
+necessarily existing being, a singular Being, individual, singular, unique, called God. The
+ontological proof, according to Leibniz, thus goes from the infinite aggregate to the
+
+                                                                                            24
+
+singular existence of a corresponding being, to the singular existence of a corresponding
+reality called God. You see?
+
+In other words, what is God’s expression (formule de Dieu)? I am going from the infinite
+aggregate of all possibilities to the singular existence of the corresponding being, which
+is endowed with all perfections and that I call God. Hence the proper name God.
+Everything still occurs between proper names. What is the mathematical formula for the
+ontological proof? The mathematical proof for the ontological proof is infinity over 1,
+Infinity / 1. Why? Let’s return to his reasoning.
+
+Infinity equals the aggregate of all possibilities. From this I conclude, if the aggregate of
+all possibilities is possible, that a corresponding individual being exists. I go from the
+infinite to the individual. In the case of God, I would say: the infinite envelops
+individuality. That’s the ontological proof. If we were to come up with a suitable
+corresponding formula, the ontological proof, the proof of God’s existence is: the infinite
+envelops individuality, understood as the individuality of God, the singularity of God,
+Infinity over 1. For other reasons, you have just seen why the monad had as mathematical
+symbol 1 over infinity (1/infinity). In fact, this time I start from individual unity, and this
+individual unity encloses the infinity of predicates, one over infinity.
+
+I would say, from God (infinity/1) to the monad, to the individual subject (1/infinity),
+what is that about, what is the relation? Here it is. That allows me to say that the monad is
+the inverse of God. Inverse? Inverse? What is that? Inverse means something very
+precise, that you have to know about. I mean, it’s in this sense that philosophy implicates
+a kind of knowledge (savoir). One has to know the sense of words. Why, for example,
+don’t I say “the opposite”? Why don’t I say that the monad is the opposite of God, or the
+contrary? This is not without a reason. Logic presents us with a very strict table of
+opposites, and we know that opposition by the contrary (contrariété) is not the same
+thing as opposition by contradiction. We know that there are all kinds of (forms of)
+opposition. Is inversion perhaps a type of opposition? But not just any old type. In this
+you simply have no right to do so. As much as you have the right to create concepts if
+you can, equally you have no right to omit the necessary science from philosophy,
+exactly as if you were doing mathematics, you would not have the right to ignore the
+science necessary for doing mathematics.
+
+So precisely here, since we are talking about mathematics, in math there is the notion of
+“inverse numbers”. Given a whole number, 2, what is its inverse? The inverse of 2? The
+contrary of 2 is -2. The inverse of 2 is a half. Why? [Deleuze goes to the board] Because
+there is no whole that you cannot write under the form numerator/denominator. So the
+number 2 is 2 over 1; the inverse of 2 over 1 is 1 over 2. The denominator becomes the
+numerator, and the numerator becomes the denominator. Thus 1 over 2 is the inverse of
+2.
+
+I am saying, strictly speaking: the monad 1/infinity is the inverse of God infinity / 1. I
+mean, this is literally true. So everything happens at this level, everything happens
+between individuals. Once we have said that there is the infinite everywhere, but simply
+
+                                                                                           25
+
+this is not the same infinite. You understand that when Leibniz tells us: everything is
+infinite, and all is infinite in action (en acte), there is no indefinite, there is only the
+infinite. That does not prevent there being all kinds of infinites. The infinity of God is not
+the same as the infinity of the world enveloped by each individual, not at all. But I can
+say that the individual is exactly the inverse of God, each time you have the infinite and
+individuality. It’s through, if you will, the couple infinity-individual that Leibniz is going
+to shake up all of philosophy. He causes the concept to go all the way to the individual.
+Fine. He causes the concept to go all the way to the individual. He is quite precisely the
+first to reconcile the concept and the individual since the comprehension of the concept
+not only can be extended indefinitely, but all the way to infinity.
+
+And all that seems quite arbitrary. That’s what he decided, but understand to what that
+commits him, and this is the point I wanted to reach because… When others said, and
+didn’t see the means of extending the concept to the individual, when they thought that
+the concept had to stop before the individual, even if one could indefinitely extend its
+comprehension, it’s because they had a really odd way of thinking about the problem of
+individuation.
+
+And in this please allow me to speak almost on my own behalf, but in the hope of having
+you understand something in Leibniz. It seems to me that all the theories of individuation
+before Leibniz had a catastrophic presupposition. Their catastrophic presupposition was
+that individuation comes afterwards, after the specification. Specification is the division
+of the concept in genres, kind (espèces), smaller and smaller kinds. And it was under
+stood, and it seemed, and it was quite simply assumed that it was entirely normal to begin
+by the most general, and that was Plato’s fault, the fault of others, but finally, nobody’s
+and everybody’s fault. They start off from the most universal, so necessarily, they don’t
+link back up with the individual. Since individuation is not a specification, it’s not by
+extending specification indefinitely that one will find the individual.
+
+So as they were telling themselves that the individual comes after the final kind (espèce),
+that the individual comes after the tiniest species, they are lost in advance, they will never
+be able to close the gap between the tiniest species and individuals. The contrary would
+have been required, only they didn’t have the means to do it. They had to become aware
+that all specification, that is, all assigning of kind or genre, I don’t say presupposed
+individual objects – that has already been done, it’s what is called the nominalism – no,
+it’s a matter of saying something else, but that all specification presupposes processes of
+individuation that, henceforth, cannot occur according to this type of specification. In
+other words, it’s individual that is first. [Pause]
+
+If individuation is primary, in fact everything is comprehensible. The double individualinfinite relation, I say double relation: in the God’s case, infinity/unity, in the monad’s
+case, unity/infinity. In this sense, we take up this literally inverse relation of the monad
+and God. For you see, notably, that allows us to pose all sorts of problems: if it is true
+that all individual substance is a point of view, is God a point of view? Can I talk of God
+as a simply infinite point of view? Is God something other than a point of view? Very
+strangely, the texts of Leibniz waver there. No doubt one could be both: God is indeed a
+
+                                                                                          26
+
+point of view that passes through all the points of view, but at the same time, the
+Leibniz’s richest texts suggest that there are God views (des vues de Dieu) that engender
+points of view, but that there is no God point of view. Do you understand in which sense
+there is not God point of view? It’s that infinity / 1 is not a point of view formula. The
+point of view formula is 1 / infinity. That does not keep God from penetrating all points
+of view, precisely because the points of view are inverse from God’s position. The point
+of view position is inverse from God’s position.
+
+So finally, what’s left… -- We’re already wiped out – What remains for us is finally to
+say that we’ve completed our first part [of the course]. We have more or less shown how
+the upper floor developed. All that we can simply conclude is that, in fact, it’s
+nonetheless an absolute reorganization of the tradition of two worlds. There are indeed
+two floors, but is this still two worlds? On the upper floor, there are individual substances
+that envelop the world. They envelop the world since they have for attributes all the states
+of the world. On the lower floor there is matter and its thousand pleats (replis). What is
+there between the two? I have shown how the two floors communicated (parenthetically,
+everything is fine). I showed this since I showed that inflexion participated both on the
+upper floor, since it’s the ideal genetic element, and that it’s starting from inflexion that
+we reached point of view and inherence, it belongs to the upper floor, but refers as well to
+the lower floor since it is the genetic element of pleats (replis) of matter. So the two
+floors communicate. This is completely new, which means that, on the upper floor, there
+are only subjects as individual notions. And God, it’s true. There is an infinity of 1 /
+infinity, and a sole all encompasser (seul-comprenant tout), a single infinity / 1.
+
+So what is this Baroque world? I told you the last time [about] Tintoretto’s paintings.9
+You have to occupy two floors. There are no longer two worlds. We have to think about
+that; there are no longer two worlds, there are two floors: a floor in which bodies fall, and
+a floor in which soul fly forth (s’élancent). That’s what the Baroque world is: A floor of
+pleats of matter that never cease to overflow, in which bodies lose their equilibrium, are
+caught up in masses, all that. And then, on the upper floor, there is the dance of souls, a
+thousand modes of communication between them.
+
+Take a typically Baroque quite famous painting, El Greco’s The Burial of Count Orgaz,
+this famous painting by El Greco. Both floors are represented: below the burial and the
+participants at the burial, and above, on the upper part of the canvas, the extraordinary
+spontaneity of subjective forms, subjective forms called celestial, but are not so. Take
+Tintoretto, on one floor it falls, on another there’s a kind of incredible dance. It’s not
+even the movement, it’s the liveliest spontaneity, but are these really similar? Why are
+these two painters considered as two geniuses of the Baroque?10
+
+So we are putting aside the session that we could have held on this because we have to
+make up time, but what we can gather is that the two floors are not a way of again
+baptizing the two worlds. It’s an extremely forceful way of placing in question the two
+worlds. On the upper floor, you will only find individual notions, individual subjects; on
+the lower floor you will only find matter in its pleats. These are not two worlds. What
+relations will there be between them? Beginning to emerge is Leibniz’s final very great
+
+                                                                                                         27
+
+concept: their relation will always be named harmony. Harmony. Why harmony? When
+we get there, to talk about harmony in Leibniz, because it’s one of his great concepts, we
+mustn’t forget what we discussed today.
+
+My dream would be to find things as stupid (bête) as that; I realize with astonishment
+that, I think, they haven’t been completed, so [it’s] yet another reason for us to try to
+complete them, that no one has tried to create the list of senses of the word “harmony”,
+once we admit that, in Leibniz, they all intervene. Notably if you recall back to grade
+school (maybe beyond that), perhaps you recall that there is a harmonic mean (moyenne)
+of numbers that is not the same thing as the arithmetic mean. The arithmetic mean isn’t
+difficult, but the harmonic mean? We have to relocate our childhood suffering, because
+this isn’t just nothing. We have to re-understand what a harmonic mean is. And I close on
+this today, and why? Because a harmonic mean deals with numbers and their inverses,
+and because the harmonic mean passes through the relation of the number and its inverse,
+like 2 and 1/2 . It’s the consideration of inverses that defines the harmonic mean in
+contrast to the arithmetic mean. We have to reflect on this.
+
+So, in the second trimester, when we get back in the new year, I hope nonetheless that we
+will begin to consider the relationship between Whitehead and Leibniz, and then very
+quickly we will be… [WebDeleze recording interruption, high-pitched sound, then return
+to the recording] … taken in its musical, arithmetic aspects, all of that. … Isabelle,
+Isabelle, please wait for me, if you have the time, wait for me so that we can talk, if you
+have a moment. [End of the session] [2:27:12]
+
+Notes
+
+  The four-week gap between the previous seminar (18 November) and this one is explained by historical
+events occurring throughout November and into December 1986: the proposal of university reforms by the
+Mitterand government led by Prime Minister Jacques Chirac (the so-called Devaquet Law), causing
+massive demonstrations from both high school and university students and thus interruption in classes.
+Hence, the gap explains the format for this seminar, the point-by-point recapitulation of the material
+covered in the first three meetings (28 October, 4 November, 18 November) corresponding roughly to
+chapters 1 & 2 of The Fold. Only in the latter part of the session, from the “Ninth Remark” onward, does
+Deleuze move forward with his development, hoping to wrap up the first part of the course.
+
+The audio archives of the Bibiothèque Nationale de France and Paris 8, and the presumably definitive study
+of Deleuze’s seminars, Frédéric Astier’s “La Philosophie Orale de Gilles Deleuze et Son Rôle dans
+l’Élaboration de Son Oeuvre Écrite” (published Sils Maria Editions as Les Cours Enregistrés de Gilles
+Deleuze, 1978-1987 [2006]) show no record that this session occurred. Fortunately, the initial transcription
+was completed based on a recording by Richard Pinhas for WebDeleuze with one small segment, of about
+two minutes, omitted due to a cassette change. As I indicate in note 8, the recording publicly available on
+YouTube that is attributed to WebDeleuze contains two significant gaps that I’ve been able to complete
+ironically thanks to the transcript available at WebDeleuze.
+  Deleuze seems to refer to the Tuesdays following the last full session when no recordings were made, but
+when apparently he held discussions with a limited number of students.
+  This sentence, while included in the WebDeleuze transcript, is not audible on the recording.
+  Cf. The Fold (University of Minnesota Press, 1993), ch. 2, pp. 14-15; Le Pli (Minuit, 1988), p. 21.
+  This is possibly on p. 20 of The Fold.
+
+                                                                                                             28
+
+  While the reference to a precise painting is unclear, see The Fold, p. 146, note 2, with its reference to Leo
+Steinberg’s book, Other Criteria (1984) and specifically to the segment of chapter 3 (also titled “Other
+Criteria”) with its subtitle “The Flatbed Plan of the Painting”, with examples from Rauschenberg’s work.
+The information grid to which Deleuze refers seems to correspond somewhat to Rauschenberg’s White
+Painting with Numbers, but the quasi-collage aspect is evident in Third Time Painting. In any case, what
+Steinberg describes is: “The pictures of the last fifteen to twenty years insist on a radically new orientation,
+in which the painted surface is no longer the analogue of a visual experience of nature but of operational
+processes” (p. 84), that Deleuze calls “an opaque grid of information on which the ciphered line is written”
+(The Fold, p. 27).
+  This Greek etymology is subject to caution and to review.
+  Despite the irony (and the perplexity presented by this), the recording attributed to WebDeleuze omits
+approximately eight paragraphs of material while the transcription of the same session furnished at
+WebDeleuze (clearly based on a different recording) contains the omitted text, which we furnish here in
+both the transcript and the translation.
+  This may refer to one of the non-recorded, poorly attended meetings after the 18 November session
+during which Deleuze did not mention Tintoretto.
+   On the linkage of El Greco’s painting to Tintoretto, cf. The Fold, p. 30; Le Pli, p. 41.

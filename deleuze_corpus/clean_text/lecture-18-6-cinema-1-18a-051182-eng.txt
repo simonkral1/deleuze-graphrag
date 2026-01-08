@@ -1,0 +1,787 @@
+1
+
+Gilles Deleuze
+
+Seminar on Cinema: The Movement-Image
+
+Lecture 18, 11 May 1982
+
+Transcribed by Erjola Alcani (Part 1) and Farida Mazar (Part 2) (total duration, 1:24:36);
+additional revisions to the transcription and time stamp, Charles J. Stivale
+
+Translation: Billy Dean Goehring
+
+Part I
+
+Deleuze: … we were saying…?
+
+Student: You were saying we’d reached something beyond movement-images.
+
+Deleuze: Yes?
+
+Student: I was a bit [unclear]… because at one point I could see the connection [unclear] a
+dispersed and dispersive reality, in the form of wandering1, [unclear] I thought that we were
+getting back to what you had said at the very beginning of the course regarding movementimages, namely, the different levels of the movement-image, the movement-image as the
+interaction between images.
+
+Deleuze: Mm-hmm?
+
+Student: Well, I’m not sure if what you’re saying now is that we’ve come to a vantage point
+where all that’s obvious now. Thus, [unclear] is kind of the heart of the determination, the
+perspective of the camera. Transposing all of that from the world of movement—which would
+suggest, well, that we’ll be working with Bergson to some extent.
+
+Deleuze: Yes, perfect, that’s an absolutely fair question to ask. One thing—there’s one thing I’d
+change about that last sentence. It’s not that we’ll need Bergson for only a particular aspect,
+because we’re still on our toes, as I’ve said since the very beginning: we must be careful,
+because in Bergson, for example, the movement-image is only one “instance” of an image. For
+Bergson—the main Bergsonian distinction is that there are movement-images [on the one hand],
+and then there are memory-images, which are different in nature. Thus, even though we
+ultimately go beyond movement-images, we will still very much have need of Bergson.
+
+                                                                                                  2
+
+But when it comes to the root of your question, I think your question is a fair one to ask, because
+I’ve described a few characteristics that more or less do correspond to a new type of movementimage—wandering, walking about, going on a stroll, etc. We’re no longer dealing with actionimages like before, but it is still a movement-image. And here I’ll have to ask for your patience,
+“Where is this all headed?” But I’d also add that this is where we brush up against not only the
+end of action-images, but the end of movement-images as such. So, I think all of your
+interventions have presented us with very good questions. However, again, from where things
+stand at the moment, you’re absolutely right to note that—well, we might have gotten past a
+certain view of action-images, but we haven’t yet left movement-images behind. You’re
+absolutely right! Absolutely right!
+
+And today we’ll have to try and see, try and make some headway—but carefully, oh so carefully,
+because… Some of you—me too, honestly, but at the same time, I don’t have the texts in front of
+me—some of you reminded me that I ended a previous session, a while ago now, with the
+example of burlesque,2 and I claimed, right, that burlesque is necessarily linked to the small
+form.3 I wasn’t claiming to have offered a theory of burlesque, but I had said—simply because
+that’s how it seemed at the time—anyway, there was something that really stood out. There was
+one instance, one example of “large form” burlesque, even though the large form and burlesque
+seemed mutually exclusive—there was one example of large form burlesque: Buster Keaton. I
+mentioned it, but it was at the end, and I dropped it because I’m always so worried about rushing
+for time. Heh… I have no problem with you bringing me back around to it, but I don’t have the
+text in front of me. So, a short tangent on Buster Keaton before picking back up… on where we
+left off.
+
+Actually, I was talking about burlesque in general; I’m not about to pin down what, in particular,
+is brilliant about Charlie Chaplin, or Laurel and Hardy, and so on. All I’m doing is asking: Why
+is it that burlesque assumes the small form, ASA? I’m only offering that as one possible formula,
+not something to get hung up on. We shouldn’t dwell on it; what I’m interested in is what makes
+Buster Keaton an exception. I said that when it comes to burlesque in general, if you will, what
+generally accounts for a ‘burlesque’ effect is when an infinitely small difference is suggested
+between two actions; at the same time—these being inseparable—as the burlesque character
+suggests an infinitely small difference between two actions (A and A’), they do so such that the
+situations corresponding to both actions (S and S’), are infinitely far apart. It’s because
+burlesque—in the very same act, the same gesture—both posits an infinitely small difference
+between two actions and simultaneously highlights the infinite difference between their
+corresponding situations, that it comes across as so funny.
+
+And my examples were completely… I asked, How is it—How is Chaplin able to make us laugh
+at World War I, at trench warfare, despite not shying away from how horrible it was? This isn’t
+innocuous slapstick; it’s not… the film, Shoulder Arms, is powerful. I suggested that we look at
+his process, or one aspect of it—this certainly doesn’t cover everything—look at one aspect of
+
+                                                                                                       3
+
+Chaplin’s process. [Pause] He suggests an infinitely small difference between two different
+actions. For example: between shooting a rifle at a human adversary and shooting pool. The
+image offers an infinitely small difference; again, such an image has to be created! Charlie does
+so when he fires his weapon—every time he shoots, he adds to the tally on a blackboard, as if he
+were playing pool, and when he gets grazed by a bullet, he figures he must have missed, so he
+erases one of his tally marks off the board. All through the story — [Deleuze softly mutters
+something to someone nearby] it lines up with my rough definition—an infinitely small
+difference separates two actions, presented such that this infinitely small difference highlights
+just how incommensurate a battlefield is with a pool table.4
+
+Thus, we’re simultaneously caught in a double movement of narrowing in on infinitely small
+differences and, at the same time, the situation that’s spun out. I said the same about that famous
+scene from one of Chaplin’s short films, where he hangs onto a sausage in a lunch wagon as if he
+were on a streetcar. So, generally speaking, let’s assume that this is how burlesque operates:
+playing with infinitely small differences in order to make the incommensurability between
+different situations more palpable.
+
+Someone—they warrant a closer look—someone I really like from the world of burlesque is
+Harold Lloyd. He was a real genius; there are scenes where his particular style of burlesque is
+unmistakable. He’s one of the most innovative. Whereas the infinitely small difference in
+Chaplin’s case was the action-image, with Harold Lloyd, the infinitely small differences reside—
+strangely enough, in his films the infinitely small differences are always conveyed by
+perception-images. For example: in one film, he’s framed as if he were in a car, a luxury car. The
+framing is really effective—he’s there, sitting in the car. So, I’ll call that A. That’s one set up, it’s
+an action—he’s in the car; he’s sitting in the car, A. And then we get to a stoplight, and the car
+goes away, and we see that he’s not in a car at all—he’s a poor bum on a bike. Follow me? It’s a
+wonderful scene. One really famous scene with Harold Lloyd is—it starts with a scene where he
+looks like he’s in dire straits: you see the bars, there’s a noose beside him, and there’s a young
+woman sobbing. And then the picture clears up: Yes, he’s on a platform… there’s some sort of
+officer with a hat, ostensibly announcing that he’s being sentenced to death. [Laughs] But it turns
+out that the scene is completely different: the officer is the stationmaster, the woman crying is
+the fiancée, the rope—unquestionably a noose—is some sort of luggage rack, etc.5 So, using an
+infinitely slight difference, we get two incomparable situations.
+
+Let’s make that a formula for burlesque in general. What is so exceptional, what is it that makes
+Buster Keaton—I’m not at all saying that others aren’t modern—but how might we characterize
+Buster Keaton’s unique sort of modernity? I claimed that it came down to the scale and power of
+Keaton’s non-burlesque scenes. In most of his films, there are non-burlesque scenes that have a
+sort of beauty to them—a Griffithian beauty, as it were—as well as a dramatic intensity. At first
+blush it makes you think, “Really? Well, that might be a problem.” I brought up—I was just
+making a list—I brought up a scene from Our Hospitality (1923), one of the first scenes that look
+
+                                                                                                   4
+
+like they’re pulled from Griffith: the depiction of the vendetta between two men, men who killed
+each other, at a cabin on a stormy night. It’s wonderfully shot, it’s just wonderful… some
+beautiful images, there’s the tearful woman protecting her baby, the two men killing each other
+and falling down dead. The only bit of comedy is the fact that they both die, otherwise there’s
+nothing even remotely burlesque about it. It’s a very dramatic situation, culminating with the
+narrator’s declaration that the feud between the two families is inexpiable.6
+
+[This sort of moment] comes across like an exception, but what’s so “exceptional” about it?7 I
+had mentioned another example—I brought up Battling Butler (1926): an, again, extremely
+violent boxing match, not at all a burlesque fight; the film includes a burlesque training sequence,
+and then there’s the match itself, one more violent than anything I’d ever seen in the news—so
+violent that it becomes… it’s a damning depiction of boxing as a spectacle.
+Appalling, an appalling… a match so violent… it’s certainly not trying to be funny! You can see
+our problem: why doesn’t it even pretend to be funny? I mean that this film doesn’t even pretend
+to be funny, yet it’s absolutely of a piece with the rest of Buster Keaton’s career. It isn’t an
+exception; it falls outside his kind of burlesque, but it’s not beyond the scope of his style in
+general.
+
+And there were other examples: there are burlesque elements in the long, funny sequence from
+The Navigator (1926), the scene with the diver: at one point the natives come onto the boat, and
+one of them blocks his air hose, and Buster Keaton is left suffocating at the bottom of the sea;
+there’s absolutely nothing burlesque about that, to say the least! Then… In another film, in The
+Cameraman (1928), there’s the Chinese riot where we first run into—for the first time in cinema,
+in my opinion—the question of betraying, of tampering with live footage, of pseudo-live footage,
+since the cameraman (Buster Keaton’s character) does everything he can to escalate things. He
+sees that people in the Chinatown parade are starting to fight, so he slips a knife into one of their
+hands, and then things start to get bloody. Right. Anyway.
+
+So, my question, if you’re still with me, is whether we should say that Buster Keaton offers us an
+example, the invention of a “large form” burlesque. What I’m calling “large form” burlesque are
+the sort of images that fundamentally characteristic of Keaton’s films. I brought up one more
+example: the storm in Steamboat Bill, Jr (1928). [Pause] So, assuming you’re still on board,
+we’re now dealing with images of truly non-burlesque situations, situations taken to their fullest
+extent—the storm sweeping through the whole village, the drowning scene that all takes place
+underwater, the boxing match filling up the whole space—we’re dealing with powerful situations.
+And what I’m saying is that, strictly speaking, these aren’t outliers in Buster Keaton’s work.
+
+Which raises the question of how to reconcile these ostensibly non-burlesque scenes with the rest
+of Buster Keaton’s burlesque—how do we bridge the gap between them? See, with ordinary,
+“small form” burlesque, the goal is to leverage infinitely small differences in order to invoke
+
+                                                                                                  5
+
+incommensurable differences. How do you use the infinitely small difference between two
+actions to demonstrate, to indicate an unbridgeable gulf dividing two different situations?
+
+The challenges Buster Keaton was faced with had to do with technique—I want to emphasize
+this point, it’s amazing just how ahead of his time he was in terms of technique. Consider that
+back then, for example, they didn’t have rear projection, no techniques for making composite
+backgrounds, no traveling mattes. Buster Keaton had some incredible techniques for
+approximating all of that. Anyway—so, in his case what we need to figure out is how to
+reconcile huge, non-burlesque situations with burlesque acts. It seems to me that this problem
+only crops up in his films; it only applies to him.
+
+And then it dawns on me—that explains why I was so drawn in by one of Buster Keaton’s own
+anecdotes. The anecdote in question, if you remember, is about Steamboat Bill, about Steamboat
+Junior, where his producer tells him, “Please, don’t put a flood in the movie; you can’t!” So,
+Buster Keaton asks, “Why don’t you want a flood?” He says, “There’s nothing funny about
+something that kills thousands and thousands of people every year!” Buster Keaton replies, “And
+yet, Chaplin was able to make people laugh at World War I.” And the producer says, “No, no, no,
+that’s not the same thing!” I think the producer is very astute here, in his own way. True, you can
+use “small form” techniques to make World War I funny, using an infinitely small difference
+between two actions—the act of firing a gun and the act of shooting pool. But there’s no way to
+make World War I funny with “large form” techniques. In that sequence, for those of you who
+remember Shoulder Arms, that awful scene where the soldiers are sleeping in flooded trenches,
+sleeping in flooded trenches—it’s a really dreadful scene, but the humor still comes down to
+infinitely small differences. For example, there’s a candle floating on a little board, on like a
+piece of cork, and it burns the foot of a fine soldier who’s managed to fall asleep—in this case,
+it’s about the infinitely small differences between [the floating candle] and a rubber ducky
+floating in a bathtub. That’s what pushes it over into comedy!
+
+Again, that approach is out of the question for Buster Keaton; that’s what I find so novel about
+him. Hence why his producer says—it seems to me—in a way, “Chaplin was able to poke fun at
+anything, at World War I, at a flood—but you? I’m not so sure. I know you, and you won’t do it
+that way. You’ll throw an unbelievably violent boxing match at us, i.e., a “large form”, you’ll
+throw a flood at us, with people dying, perishing, and it’ll take up the whole screen— “large
+form”—and it won’t be funny at all!” And Buster Keaton compromises and agrees to a storm,
+chuckling to himself, “Well, he’s okay with the storm; let’s do it.” And he still makes the storm
+“large form.” Turns out the producer forgot that storms can be just as deadly as any flood; so
+much the better, since it gave us this scene. But once again, right… back to my question, how do
+we proceed?
+
+I think Buster Keaton was grappling with a problem unique to his approach to burlesque, i.e.,
+how do you account for the enormity of a difference? Rather than: how do you indicate an
+
+                                                                                                  6
+
+infinitely small difference? See, that’s the challenge I think is unique to Keaton’s burlesque:
+How do you bridge such a huge divide? How do we reconcile the boxing match, as violent as it
+is, with burlesque elements? Between the storm, as violent as it is, and burlesque elements? The
+solution is nearly implied by the question itself. Buster Keaton is only able to reconcile these
+differences by inventing machines, [Pause] hence what makes Buster Keaton so brilliant—well,
+part of it. Part of Keaton’s genius is having invented something whose only equivalent in art and
+literature was—not surrealism—but dadaism; his genius resided in his knack for unusual
+machines.
+
+What unusual machines are we talking about? They’re machines with long chain effects. Again,
+so there won’t be any argument, consider Chaplin’s Modern Times (1936) since, in Modern
+Times, the machine is indisputable. Chaplin doesn’t use machines; “small form” burlesque can’t
+help but include using… it has to include someone using tools. The comedy stems from how one
+wields or uses tools. That’s burlesque in the “small form.” But inventing machines to reconcile
+the difference—to reconcile the infinite gulf separating the lone burlesque individual and the
+massive situation that exceeds him—this was very prominent in America. I mean, I think of
+dadaism as European, but these drawn-out machines—they’re purely nonsensical—I think such
+absurd, interlocking machines are unique to Buster Keaton.
+
+An American cartoonist from the same time—one of the funniest, I think, or one of the only ones
+who can make me laugh, but unfortunately it slipped my mind, and I didn’t bring… I should
+have brought some of his illustrations. Maybe a lot of you are already familiar? It’s [Rube]
+Goldberg. Goldberg made these kinds of machines. For an example that’ll make it obvious what
+I mean by “absurd interlocking machines,” there’s one designed to play a record. How do you
+play a record? Well, the most straightforward way is to do it directly: You put the needle on the
+disc and press the button. It doesn’t work that way with Goldberg machines.
+
+The first step—for the first step, there’s a Volga boatman; he depicts the Volga boatman with his
+hat and whatnot, pulling on a rope. Now, there’s no inherent relationship between this Volga
+boatman and the record we want to play, so that doesn’t do anything. You’ll see how they’re
+related; this is one part of the machine, of this absurd machine. So, to make it so that the Volga
+boatman pulls the rope, he needs to include a second element, “a tableau”—a canvas depicting
+the Volga, with boats along the river. Fooled by the tableau, the poor muzhik starts pulling the
+rope. The rope passes under the tableau, so there are two elements so far: the drunk boatman
+pulling on the cord, and the tableau which the boatman looks upon in a daze—both parts of the
+machine.
+
+The rope under the tableau is tied to a rich man eating, eating a huge meal—the third element.
+When the boatman, inspired by the tableau before him, pulls on the rope, which is attached to the
+dining billionaire’s chair, it pulls on the chair. And the rich guy’s stomach was pressed up
+against the table, but now he’s pulled back. Since he was full to bursting, the buttons on the rich
+
+                                                                                                  7
+
+guy’s jacket go flying! That’s the third component in this crazy machine. An extraordinary,
+indirect machine!
+
+The fourth component: the buttons popping off the billionaire’s jacket hit a gong; they fly
+through the air and hit a gong. This gong wakes up—at the top of the cartoon; it’s great, the
+drawing goes in a circle. Goldberg was great; he really took his time on it—it wakes up a boxer
+slumped over on his stool in the ring, who immediately gets knocked out—I missed something—
+immediately knocked out and falls out of the ring onto a mattress. On top of this inflatable
+mattress is a little bunny—you know how it usually goes with Dadaist sequences, which aren’t at
+all surrealist, in my opinion; it all has to form a machine—and it’s the bunny jumping up that
+triggers the record and makes it start playing. All of that is a Goldberg machine.
+
+I contend that Buster Keaton’s machines work the same way. I remember one of Buster Keaton’s
+short films—from the Malec series, I believe8—where Buster Keaton is at a fair booth and just
+can’t manage to hit anything. He’s a lousy shot. See, the deal is that you get your photo taken
+whenever you hit the bullseye. He really wants his photo taken, but he can’t hit the target. So, he
+invents this same sort of machine. He ties a dog—he rigs a dog up to a pulley system that lowers
+a bone down. The dog pounces on the bone, pulling the rope—whenever the dog yanks on it, it
+triggers the bell, and Buster Keaton says, “Bullseye!” 9 There you have it! Notice that these
+indirect machines… I think if you look at Buster Keaton’s work, you come across these indirect,
+even infinite, machines, that adapt the large form to the demands of small form burlesque. And
+that’s what’s interesting about Keaton’s process.10
+
+For the most famous example of what I’m talking about, consider The Navigator (1924). In The
+Navigator he’s with a woman, a young woman; he’s in this immense, empty boat—this immense,
+empty boat, and from the look of it, the boat’s kitchen is meant to support thousands of people.
+Right… that’s “large form.” And you’ll never find Keaton’s method in Chaplin’s work, in my
+opinion—never. It’s a completely different problem, it’s a Keatonian problem. Which is what,
+exactly? It’s about setting up theoretically infinite machines in order to adapt large machines for
+private use, for two. You get an entire system devoted to figuring out how—in a container meant
+for a thousand people—how to successfully make one hard-boiled egg! It’ll take a whole system
+of, of… it’s a giant Dadaist machine. A huge Dadaist machine! It’s a machine that’s both
+recurring and recursive—infinitely recursive, in fact. It’s a machine made up of heterogeneous
+parts—completely heterogeneous parts, like in Goldberg’s illustrations. If you prefer, an
+equivalent today would be [Jean] Tinguely’s famous machines. Tinguely machines are the same
+way. And so, that’s his own method for integrating—for making it so that these big scenes, these
+large forms, which he’s done such a fantastic, wonderful job of depicting, are integrated into the
+burlesque itself. And this, I think, is something unique to him.
+
+Let’s take The Navigator as an example. He’s suffocating on the ocean floor, stumbling around
+underwater, choking. You trust Keaton; you’re primed and ready to laugh, but the image before
+
+                                                                                                    8
+
+us is anything but funny—not funny in the least. And then he goes back up, his story continues,
+and so on… And what is it that emerges? One of the finest shots, as well as the most famous, I
+think, in all of cinema: the woman, who in burlesque typically functions as an agent of fate,
+someone whose every move inherently makes things worse… [Interruption of the recording]11
+
+Part II
+
+… Well, then, I’ll start with my first observation: a famous neorealist scene—neorealist in
+Bazin’s sense, since Bazin made so much hay with it—the famously neorealist scene from
+[Vittorio] de Sica’s Umberto D, the one with the maid—neorealism at its purest. She gets up
+early—truly, this is day-in day-out banality at its finest; events are just strung together, not even
+randomly, but sort of by habit—events that the maid isn’t consciously choosing: she gets up in
+the morning, stumbling, she stumbles through the kitchen, it’s cold. She sees some ants, she
+drowns them, she gets the coffee thing… what is it called? A coffee mill. She props it up
+between her thighs, stretches out her leg—poor girl—to close the door, while sitting down—she
+strains her leg, etc.… and she starts crying.12 Bazin made some wonderful observations on the
+beauty of this scene and on what made it a neorealist image. Can you see what makes it
+neorealist? It’s because, indeed the whole rhythm of the scene—all of its formal characteristics—
+relies on the form of reality instead of merely filming allegedly real content. Right, and so I think,
+okay, what’s happening here? An encounter—[Cesare] Zavattini claimed that neorealism was the
+art of encounters, and that’s what accounts for all the tenderness in neorealism. This kind of
+tenderness is crucial.
+
+Where is the encounter in this instance? If we can find the encounter, we’re in the clear. There
+are all sorts of encounters in [Rossellini’s] Paisan: an American, an Italian man or woman.
+Where is the encounter here? We get encounters in “Umberto D,” the poor maid and the poor old
+man; they cross paths, right, they overlap, there’s an encounter, encounters everywhere. Zavattini
+is right — neorealism is nothing if not an art of encounters. Then what is it that’s encountered?
+Encounter after encounter after encounter. Which encounter is the most profound? I
+encountered/said [Deleuze says encountered?] that the maid was pregnant; you think, right,
+pregnant, pregnant, that’s works well enough. I mean, that’s what we call a motor situation; there
+have been plenty of depictions of pregnant women in cinema.
+
+What’s new about this scene, with the maid? She’s exhausted, exhausted from the moment she
+wakes up, hopeless. She knows she’ll be an unwed mother, and there’s no hope, she’s done for…
+She doesn’t know what to do about this kid; everything about it is miserable. She goes about her
+daily business, and in this long sequence, she’s slumped over, looking out at the sun, reaching
+out with her leg to close the door. Her gaze meets her belly, and she weeps. Her eyes land on her
+belly; she begins to weep.
+
+                                                                                                    9
+
+That’s not a motor situation13; there will be other motor situations. I mean, she could very well
+go out, try to get ahold of some money, find a doctor, and get an abortion. But not so in this film.
+That would be an American, an American sort of motor situation: instead—let’s call things what
+they are: that would be a sensorimotor situation—instead, she visits her neighbor, old Umberto.
+
+She says, “Mister, if you only knew what I was going through”—he’s an old man, maybe he’ll
+understand. The motivating, sensorimotor situation at the heart of this sequence.
+
+It’s not about that, so what is it? That’s not what’s at issue here. It’s about… sitting there
+exhausted, worn out, she knows she’s pregnant; she knows it. Suddenly her gaze falls to her
+belly; all of a sudden, she sees her belly, and she starts crying. It’s a neorealist scene. How so?
+Because—here I think I’m onto something; true or not, I feel like I’m on the right track. This
+isn’t a sensorimotor situation; it’s a purely optical situation.14 And by purely optical situation I
+absolutely do not mean that we’re any less invested. Quite the contrary. She saw, she saw, she
+saw something that she had perhaps never seen before. She knew that she was pregnant; she
+sensed that she was pregnant, but she hadn’t “seen” it. In seeing it, when her eyes met her belly,
+she saw the unbearable, an unbearable as an event that isn’t her own doing. Which doesn’t mean
+that the event isn’t hers. The event doesn’t belong to her. This infant has been thrust upon her,
+and she finds it unbearable when her eyes meet her belly—a purely optical situation.
+
+Anyway, that could work, only it’s not enough; it sounds like I’m reading too much into this
+scene. How might we prove our case? Could we say that all of that, everything we just said, is
+just a way of communicating that what this sort of film has done is invent pure optical/audio
+images? In other words, we’ve left behind sensorimotor images, and have discovered a whole
+new domain—we can’t pin it on the story, the plot, the script—these images highlight optical
+and audible situations in their purest form. They highlight purely optical situations. Well,
+obviously, we’ll need proof. We’ll find it, obviously; we’ll see it confirmed. — I need to go see
+the secretary real quick… so don’t go anywhere, because… [Interruption of the recording]
+
+… Now, there’s no way we’re wrong about this [Pause] I’ll explain why it is we can’t be
+mistaken. It’s because, for better or for worse, we’re gotten ahold, we’ve latched on to a concept.
+Simply put, the concept—this is what I want to focus on. As far as philosophy is concerned,
+[Pause] I firmly believe that the work of philosophy isn’t even close to being—has nothing to do
+with something like “the search for truth.” Truth is absolutely meaningless; it’s totally irrelevant.
+On the contrary, philosophy consists in a very particular task, one no less practical than carpentry:
+doing philosophy is about making concepts; it’s a question of making concepts, and these
+concepts don’t exist beforehand. They aren’t ready-made. When you engage in philosophy,
+you’ll be wandering around for a while — “I’m still looking for it,” right? When can you say,
+“I’ve found it”? You say, “I’ve found it,” when you get a concept, when you start to feel like
+there’s a concept afoot. Then you say, “Hey! There’s a concept here.” This concept was waiting
+
+                                                                                                  10
+
+on you in order to exist. Philosophers spend their time inventing concepts. They don’t invent
+them without some necessity, without… anyway.
+
+Yet appearances can always be deceiving; it can very often be illusory. You think, “Yeah, I’ve
+landed on a concept,” and then it falls apart. At best, what you’ve got is a metaphor, nothing to
+write home about. So that’s possible, we might run into that, or maybe some of you won’t feel
+the same way. But I’m thinking: Alright, here, I think I’ve found a concept: that of the purely
+optical situation. What could that mean? I’d like for our discussion, or any criticism, to remain at
+this level. Where you can’t say “you’re wrong,” or “you’re mistaken.” What you can say is—
+God forbid — “No, there’s no concept; that isn’t a concept,” and indeed, I haven’t yet
+demonstrated why this is a concept. All I’ve got—and I’m hanging onto this for dear life—is a
+hunch strong enough to make me think it might be a concept. The form it takes—and I’ve
+repeated it so much that I barely understand it anymore—is that rather than a sensorimotor
+situation, we now only have purely audible and optical situations. [Pause] Well, let’s make sure,
+because we’ll only be able to say, “Yeah, this ought to be a concept,” when we’ve found enough
+evidence for it. And all I have to base this on is this moving scene from Umberto D.
+
+Moving on—because, it turns out, film critics have done an excellent job of highlighting the
+peculiar use of children in neorealism. There certainly are films where children play a major role;
+it’s not limited to Italian neorealism, but allegedly children have a special function and presence
+in Italian neorealism, in Rome, Open City, in Paisan, and then in De Sica—Shoeshine (1946),
+The Bicycle Thief (1948)who takes a long walk through the city with his little boy, Germany
+Year 0 (1948, Rossellini), and we notice that we haven’t seen children featured like this before.
+For example, it’s not like American children; this is different from American children in actionimages. This isn’t the same. Why not? What is it—what’s so unique about these kids? Do they
+seek out children because children look innocent, as they say? No, not at all, not even close;
+that’s not what it is—it’s not about innocence. If anything, these kids are jaded, mature for their
+age, children from the war—poor kids. They aren’t innocent. It’s not about that, so what is it?
+
+It’s that children are in a situation such that they’re—well, this child, at least, is someone
+condemned to see much more than they’re able to do. It’s a terrible situation for a child to be in.
+There’s a lot that they can do: they’ll pickpocket, they’ll steal, they’ll… But the child of Italian
+neorealism is one that sees—that unforgettable look of the children in Sciuscia, the little boy’s
+gaze, accompanying his dad in The Bicycle Thief—indeed, they’re in a position to see, but they
+cannot do very much. The child can’t do much of anything. You might say the situation is
+beyond their control. This is very different from the children in Buñuel. I was enthralled by
+neorealist children. They look on… what do they see? They see—I’m using the same expression
+because it works well here—they see the unbearable; they’re constantly put in a position where
+they see the unbearable. Of course, they can do a few things, but they aren’t able to do very
+much. In other words, the child’s situation produces, or the state the child is in, leads to an
+almost purely audio optical situation. That’s at least some proof.
+
+                                                                                                   11
+
+Our third piece of evidence: neorealism blossoms precisely where early critics claimed it no
+longer existed; that is, not only did Italian neorealism appear in Rome Open City, and Paisa, and
+The Bicycle Thief, and Umberto D, but it appeared in its purest form. I say, “in its purest form,”
+because this is the only time we see what’s essential about it. Before that, it was covered up. I
+believe that before this, there were purely optical and audio situations, but they consisted in
+moments spent wandering [la balade], in bits here and there. But with Rossellini’s four-volume
+series, precisely when many Italian critics claimed that it wasn’t neorealism, wow—because
+neorealism knew how to bring out, thanks to Rossellini and him alone, in my view, knew how to
+bring out the purest and the most essential aspects of the neorealist project, i.e., depicting purely
+optical and audio situations. I’m claiming that we find purely optical audio situations on display
+in Rossellini’s four-volume series—Germany Year Zero (1948), Stromboli (1950), Europe 51
+(1952), Trip to Italy (1954)—in the very structure of these four films. What form does it take,
+then?
+
+Oddly enough, with Germany Year Zero, Italians said Rossellini—or some Italians said—
+Rossellini had ceased to be neorealist, that his mistake was his choice of subject matter,
+Germany, which was out of his depth; Italy was what he was qualified to address. That’s where
+he belonged. It seems to me that this reaction betrays a whole series of misinterpretations, since
+Rossellini’s Italy specifically represents an Italy that doesn’t belong to anyone, and that, after
+Germany Year Zero, a boy’s visit to Germany, which ultimately ends in his death, is the first
+time we see neorealism emerge in full form. Here, what was only implicit in Rossellini’s other
+films comes to light: this, this is neorealism—a child who winds up in Germany, in a uniquely
+optical and audio situation.
+
+And what about Stromboli? [Pause] The heroine finds herself on an island, and she’s there as a
+foreigner, a foreigner on a harsh, hostile island surrounded by fishermen. Nothing about it is
+sensorimotor for her. She’s trapped in a purely optical and audio situation. When a sailor goes to
+touch her with an octopus, she’s revolted; it’s not part of her motor or tactile world. Later, after a
+wonderful tuna fishing sequence, a sailor offers to let her touch one; and she does touch the tuna,
+very tentatively. And Rossellini, who isn’t easily swayed by critics—critics can say whatever
+they want—he only lost his temper once, when a Parisian critic claimed that this great tuna
+fishing scene was borrowed from a documentary Rossellini had used; Rossellini’s reaction is
+noteworthy because it was so instructive. He said: It makes no difference to me whether critics
+say something’s good or it’s bad—they understand judging to be their job, well and good if
+that’s what they do. But there’s one critique who doesn’t do his research, i.e., he doesn’t claim
+that the tuna scene is good or that it’s bad; he says that the tuna scene comes from a documentary,
+“but,” Rossellini says, “I can’t say how much time and energy into filming it. All he had to do
+was do his research, you know, critics don’t really do their research; all they do is talk.” “What
+would make a critic say such a thing? He should have got his information right to begin with?”15
+It’s not that he was unhappy. So, what’s the key takeaway here? It’s that on the one hand, there’s
+
+                                                                                                   12
+
+the inherent beauty of this sequence, but the stranger on the island is obviously in a purely
+optical situation.
+
+Does that mean she’s just there as some kind of tourist? You might be able to tell that something
+more substantial is starting to take shape. She’d be a tourist if she grasps these images as reality,
+as “fact-images”, as Bazin would put it, if she had understood them as cliches; it’s possible, but
+no! The act of tuna fishing, which wasn’t her doing, shook her to her core; why? Something
+about it was too strong for her, and it leaves her rattled. She’s in a purely optical situation; it’s
+this purely optical situation that allows her to do away with clichés. The cliché would have been
+a tourist in a sensorimotor situation. That would be totally different. A tourist, the poor fool,
+would get on the dock, see the tuna come in, and say, “Oh, can I touch them? Poor tuna! Wow.”
+[Laughter] He’s clueless.
+
+The frightened woman—the frightened woman sees the tuna being caught, looks at the tuna, and
+is put in a purely optical and audio situation with a language she doesn’t understand—a patois—
+with gestures she doesn’t understand—the violence of the sailors—and a grinning sailor is trying
+to make her touch it. She reaches out her hand—deeply, deeply shaken. The cliché was the
+image caught up in a sensorimotor perception, and notice that both are intertwined both for the
+actors in the film as well as for the audience. The purely optical situation breaks with
+sensorimotor perception, for the characters in the film and for the film’s audience. The moment I
+perceive that I’m in a purely optical situation, I step out of the cliché-image and latch onto
+something intolerable. Why? An excess, something in life that’s too powerful, but what is it? Or
+maybe it’s something too miserable, something too terrible.
+
+Well, so, we’re making a little progress. The purely optical situation, rather than being through
+the eyes of a traveler or tourist, is one seen by someone overwhelmed by something intolerable.
+[Pause] In this sense, you could say, it’s what a child sees, yeah, a child’s perspective, but a
+particular sort of child, or that it’s through the eyes of an immigrant, right, a poor migrant, a
+purely optical, audio situation. You’ll notice that I’m using “audio situation” strictly in the sense
+of language, of sounds. It’s a wonderful scene, with the sailors shouting while they fish.
+
+And when the volcano erupts and she runs away, terrified, the whole village comes together.
+They’re used to it—for them it’s sensorimotor—and then the protagonist, the woman, starts
+running, she starts running because of her own sensorimotor circumstances. Her situation is also
+sensorimotor; she has her own sensorimotor perception. She runs, right, but that’s beside the
+point; [the sensorimotor] inevitably comes up now and then, but that’s not what’s at issue here.
+She runs and runs until she gets to a cliff side; she’s all alone, and she delivers her famous line,
+which goes something like, “Enough! I’m afraid. Oh God, how beautiful. How horrible.” I can’t
+go back, I’m afraid… She comes up against the cliff face — “Enough! I’m afraid”—it’s a purely
+optical situation. It only appeared to be sensorimotor. For the islanders, it is sensorimotor—they
+aren’t bothered at all; they’ve been living there for generations. But it’s too much for her. She’ll
+
+                                                                                                   13
+
+never be the same, as they say. Just being there, put in purely optical and audio situation, was
+enough to leave her so deeply shaken.
+
+It’s even clearer when it comes to our third example, Europe 51. The heroine has just lost her
+child. Now, dead children are such a common trope, so what does she do? She goes around with
+her husband, and she’s looking—well, she’s coming from a bourgeois perspective. In other
+words, she doesn’t really have enough perspective to understand what she’s looking at—so what
+does she see? For one, she visits a factory; she visits a factory and sees the poor folks working at
+the factory—immigrants, or what have you. She says, “But it’s not possible, it’s not possible,
+who are these people? Who’s been trapped inside? Who are these people? It’s impossible.”16
+Meanwhile her husband, a sensorimotor tourist, pats her on the back and says, “How long do you
+intend to keep this up?” She says, “But you don’t understand, you don’t get it,” and she takes this
+optical situation all the way and her husband has her committed. Alright, what is it that she saw?
+She could have seen a cliché, right, but she saw something else. At what point did she see
+through cliches? She went beyond cliché when she fell out of touch with sensorimotor perception
+and came upon a purely optical audio perception. At that point, something came over her, like an
+overwhelming noise, an overpowering vantage point—and she glimpsed was the intolerable, the
+insufferable. In other words, in the four films critics flagged as Rossellini’s departure from
+neorealism, I think you get nothing but a pure example of the very core of neorealism, i.e.,
+highlighting optical and audio situations in their purest form.17
+
+And if Rossellini is our standard bearer here, in other words, if this is present throughout Italian
+neorealism but has been obscured—that’s precisely why I needed to take so many precautions.
+And it turns out, this concept of a purely optical audio situation effectively covers all of the
+characteristics from before. Without sensorimotor sensation, there’s no longer as much of an
+emphasis on action. What’s witnessed are events that aren’t fully attached to those to whom they
+befall—like I was saying last time, when you get into an accident: you’re in the car, you get into
+an accident, you can see it coming—you’re in a purely optical audio situation. Death happens;
+it’s not your doing, and yet it’s happening to you. Somehow, you get out of it—if you do, you’ll
+never be the quite the same, for two, three hours at least, cut the bullshit, you… something
+happened. It’s the opposite of the audience’s situation, [which is a] purely optical audio situation.
+
+Comtesse: How can it be—speaking of Rossellini—recalling what you said at the start, how can
+there be a difference, or even an opposition, between a concept’s creation and an indifference to
+truth (which is irrelevant, allegedly), but in this same atmosphere, Rossellini did nothing but use
+cinematographic and artistic methods to underscore what’s at stake in the truth.
+
+Deleuze: Yes, yes, yes, I take back what I said about truth, when it doesn’t happen to be part of
+my subject, alright. I was speaking for myself; I wasn’t talking about Rossellini. As far as
+Rossellini is concerned, you’re totally right.
+
+                                                                                                   14
+
+I mean, in the New Wave, you see all the characteristics I covered before, including the idea of
+the international conspiracy, of everything that exceeds us, of the event that exceeds us, the
+cliché, the cliché’s presence inside and outside of us, as well as the problem that, sure, you could
+always call the problem of truth—call it whatever you like—can one get beyond cliché? Can one
+create images that aren’t cliché? The answer: yes. Purely optical and audio images, in the sense
+we’re trying to… I mean, what was happening with the New Wave? And to what extent are the
+main contenders in the French New Wave really picking up what Rossellini had left off?18
+
+It’s obvious—I’m rushing through this because there’s so much left to cover—It goes without
+saying that… coming back to my two main examples, Godard and Rivette, what do they do?
+Personally, I think they made no secret of their admiration for Rossellini; this is what they got
+from him, it’s what they pick up from him, an approach to film that tried to achieve, that defined
+itself as a battle against cliché, as a new sort of meditation on images, a battle against cliches—
+carried out by who? How does one pull a completely different type of image out from under
+cliché, the cliché always being sensorimotor—how do you uncover purely optical situations and
+purely audio situations? Well, for one example, I’d refer us to the “I don’t know what to do,”
+once it’s taken on a starkly symbolic value. “I don’t know what to do,” which signals the end of
+the sensorimotor, the end of sensorimotor perception. Among other things, I could add a film like
+Made in USA (1966). Made in USA is almost the archetype here. Anna Karina literally does
+nothing; she displays images, she displays images in bright blocks of color, red or blues—
+sometimes unbearable images that come back to the idea of an international conspiracy. So,
+we’re put in a purely optical and audio situation, which culminates in seeing something
+intolerable. [Pause]
+
+This is what Rivette is all about. It’s no longer a sensorimotor situation, it’s no longer a
+sensorimotor situation, all you have are purely optical situations, and these purely optical
+situations—see, it’s rather strange, but there’s still more left to explain—these will correspond
+with abandoned places, whatever-spaces, indeterminate places. As a result, time and time again,
+there are two main problems: how are optical audio situations supposed to help us get beyond
+clichés? On the other hand, why do they manifest in whatever-places, in whatever-spaces,
+incomplete spaces, spaces of construction and destruction, peripheral spaces, bare steel beams,
+wastelands. Why is that?
+
+And another thing: where does Tati fit into all this, in this whole movement? We don’t have time
+to get into it, but I found it so obvious, Tati is the first director to have made a comedy consisting
+entirely, that did not have the slightest sensorimotor, save for his first film, The Postman’s
+Stroll19 and that’s a “stroll” [balade], which is our running theme. What’s tricky about such a
+stroll is that it’s right there, already at the service of purely optical situations; take for example
+Rivette’s The North Bridge (1982). How does The North Bridge begin? With the mutant’s trip
+[balade], the young woman making her way around the lion statues, in the periphery: the
+situation is purely optical. She’s on, like, a moped, she’s riding, and while she’s still moving
+
+                                                                                                     15
+
+forward, she looks [back at the lion statue] and because of her optical situation, she crashes the
+moped. What happens then? What takes over, what happens next? A sequence, reflecting an
+international conspiracy, a sequence of purely optical situations, the transition consisting only in
+the double wandering of both the girl and of Bulle Ogier. The North Bridge offers a
+quintessential example; we ought to pick it apart, one scene at a time. It’s an optical audio film at
+its purest. And when I say Tati, besides The Postman’s Stroll, besides The Big Day (1949), you
+get comedy that relies exclusively on optical situations and audio situations at their purest.
+
+That’s what I meant at the beginning, only if, again—note that this is all only somewhat coherent,
+since I did say that I had only begun—again, to recap, I started by delineating action-images
+using four characteristics, and I felt like these four characteristics all pointed toward something
+beyond the action-image, perhaps beyond movement-images as such. Now I can name it: the
+pure form of the optical audio image, the pure optical audio image insofar as this makes us see
+something—yeah, I’m circling back—something too violent or too terrible, and insofar as this
+occurs in whatever-place, in whatever-space.
+
+As a result, all the themes we hoped to analyze this year start to come into focus. Because now
+we find ourselves in a place where we can’t go any further; it’s time to bring in concepts.
+Ultimately, all I’ve done is give a variety of justifications for saying, well, optical audio
+situations aren’t something that exists only in cinema but deserve their own concept. What does
+this concept consist in? We don’t know yet.
+
+All that’s left to do now is flesh it out. Okay, so I’ll work out its characteristics one at a time, and
+all I’ll cover today, to wrap things up—well, it’s pretty straightforward; we ought to take this
+first characteristic at face value: there are no more sensorimotor perceptions. Of course, there
+will still be some in the film. Then what do I mean by, “There are no more sensorimotor
+perceptions”? I mean that auditory visual perception is no longer naturally prolonged into
+movement. Under normal circumstances, in life, it doesn’t cut off; our perceptions are naturally
+prolonged into movement. The first chapter of Matter and Memory, as mentioned previously,
+explained how, through the brain, perception was sensorimotor, i.e., that our perceptions are
+naturally prolonged into movement.20 So, let’s see: suppose that after a serious illness this is no
+longer the case; suppose that after a serious illness, something comes loose—our perceptions no
+extend into movement. Is there such an illness? Well, yes, there is. Such as with what we’d call
+either aphasia or apraxia. Bergson talks about these a lot; he describes these sorts of cases. It
+doesn’t need to be an extreme case: either way… perception is purely optical-audio; it’s no
+longer prolonged into movement.
+
+Let’s lower the stakes: it extends into movement, but the movement doesn’t match our
+perception—it’s clumsy, it’s sort of awkward, as if there were some hesitation and things didn’t
+click. Optical audio perception is only prolonged into misfit movements, struck with a strange
+clumsiness, a warping. It’s off—gestures are always off; the guy bumps into things, collides into
+
+                                                                                                   16
+
+things, trips, bumps into things, it doesn’t work. It’s as if the natural coupling of perception and
+movement were compromised. What do we call these? Wrong moves. Wrong moves start to
+multiply; “off” details start to pile up.
+
+In realism what’s important are the details that ring true. In neorealism, it’s the details that ring
+false that count. What exactly is that supposed to mean? But this isn’t coming from me. Looking
+to details that ring false for evidence of veritable reality, as opposed to the pseudo-reality of
+realism, was something Robbe-Grillet constantly focused on.21 Now if it’s true that Dos Passos
+had [Pause] a decisive influence on Italian cinema, the so-called New Novel is what had a
+decisive influence on the New Wave. I don’t mean Robbe-Grillet in particular—although RobbeGrillet talked about it since he made an important foray into cinema, and for good reason—
+because the New Novel and cinema are linked in many different ways. In what ways are they
+connected? If I’m stuck on this first characteristic—to put a pin in all this—it’s that it becomes
+relatively important that, in a way, the actor plays false.
+
+I’ll refer to an instructive passage from Robbe-Grillet. “In this new realism”—he’s talking about
+himself, about his novel, and what was being characterized as the New Novel, the so-called
+“school of the gaze,” and, when it comes to Robbe-Grillet’s early novels, the purest form of
+optical audio situations. He accomplished in literature what we’ve seen play out in film. And he
+insisted, “don’t believe it”—if he rejected, if he spurned the “school of the gaze” from the very
+beginning, an ostensibly apt characterization of the New Novel, he did so for a very specific
+reason. He said: “Don’t think for one second that it’s about the spectator’s point of view.” The
+purely optical audio image—call it whatever you like, but it’s not the audience’s perspective.
+Neither is it an actor’s point of view. Who are these new kinds of people? Who exactly were
+these strange people on these “trips” [balade], these people who didn’t identify with the events
+that happened to them? What’s happening with both the New Novel and the New Wave?
+
+Robbe-Grillet goes on: “In this new realism, it is therefore no longer verisimilitude that is at
+issue. The little detail which ‘rings true’ no longer holds the attention of the novelist, in the
+spectacle of the world or in literature; what strikes him—and what we recognize after many
+avatars in his writings—is more likely, on the contrary, the little detail that rings false. Thus,
+even in Kafka’s diaries, when the writer notes down what he has noticed during the day in the
+course of a walk”—our theme of the stroll, the long walk—“he retains merely fragments which
+are not only without importance”—this could well describe neorealism—“but further, which
+seem to him cut off from their signification, hence from their verisimilitude: the stone abandoned
+for no good reason in the middle of a street, the bizarre gesture of a passer-by, incomplete,
+clumsy, not seeming to correspond to any function or precise intention. Partial objects, detached
+from their use, moments immobilized, words separated from their context, whatever rings a little
+false…”22 [Interruption of the recording]
+
+                                                                                                                       17
+
+… they act as though their movements were tangled up in cloth. They chase each other, they fire
+their revolvers, all their movements are off, so they shoot awkwardly; you’ve never seen such
+clumsy gangsters. Isn’t that how it is in real life? Then you see what sets American realism apart.
+
+And we eventually—thanks to New Wave and thanks to Italian neorealism—got used to a new
+type of scene in film: in a fight, people’s extraordinary awkwardness—these aren’t Hollywood
+fights that aren’t drawn out, where the shots are fantastic, with real stunts, as they say—instead,
+we get guys slowly, clumsily grappling each other, landing a blow here and there but never
+where it counts—Bang!—a real fight, in other words, like what you’d see in the street. [Laughter]
+People don’t fight like in Hollywood; if I try to hit someone, right away my punch comes too late,
+I hit him in the eye, he’s going to come at me, you don’t know how it’ll go down. [Laughter]
+Anyway, these kinds of fights, just go around in circles, you know? [Laughter]
+
+Well, this way of playing false, which you find prominently featured in Truffaut, in Godard, in
+all of them, ultimately—there’s one who… I can’t remember—oh, in Tati; what Robbe-Grillet
+said about details that “ring false” applies to Tati word for word. [Pause] Ah, there’s one
+American who did it, whose use of sound was incredible: Cassavetes. The dialogue in
+Cassavetes—now there’s a major detail that rings false. There are constantly guys who are… It’s
+like in everyday conversations: listen to two people talk. If you put yourself in a position to
+really listen to them, it just sounds awful. A conversation in the café, the guys are half drunk,
+“Then I’ll say a little bit… you..” and then… At every turn, something sounds wrong. Someone
+else who really emphasized this—the power of the false—was [Jean] Eustache. The Mother and
+the Whore (1973) is a deep, cinematographic reflection on “What is the power of the false?” and
+on the question, “How do we get out from under the most awful cliches?” Which will be purely
+optical-audio.23
+
+Well, all of that is only the first of the characteristics we’re going to cover in order to develop the
+concept of an optical audio situation: it’s as though perception’s natural prolongment into
+movement has been severed.
+
+This is where I’ll pick up next time—it’s all well and good, but it’s still negative—if perception
+no longer extends into movement, what happens to perception? It can no longer be the same
+perception as when it was prolonged into movement. What will happen to it as a result? [End of
+recording] [1:24:34]
+
+Notes
+
+ Hugh Tomlinson and Robert Galeta cleverly translate balade as “trip/ballad” to convey the multiple senses of
+Deleuze’s use of the term. There are several points in this translation where this choice is less effective. I use a
+
+                                                                                                                       18
+
+couple different terms—wandering, strolling, going on a walk, a trip—but I indicate where this term appears
+wherever it may not be clear, for those reading Cinema 2 alongside.
+  I’ve kept burlesque as “burlesque,” following the example of Hugh Tomlinson and Robert Galeta in their
+translation of Cinema 2. “Burlesque” may be misleading for parts of the English-speaking world; the reader might
+also consider “slapstick” as a good alternative (although “slapstick” isn’t as precise, since what Deleuze is
+describing doesn’t apply to most of what we might consider slapstick comedy).
+  Note from transcript: See Session 15, from April 20, 1982, where Deleuze touches on burlesque as small form;
+however, he doesn’t bring up Buster Keaton. This reference might be in the missing half of the following session,
+from April 27, 1982. Deleuze devotes a lengthy analysis to Keaton at the end of Chapter 10 in Cinema 1: The
+Movement-Image.
+    See Deleuze’s discussion of Chaplin in Cinema 1, starting on p. 170.
+    Note from transcript: Safety Last (1923) Deleuze goes over these two examples from Lloyd in Cinema 1, p. 170
+    From the film: “Now the feud must go on and on. My two sons must be taught to avenge this deed!”
+    On a l’impression d’un hors d’oeuvre, que ce “hors de,” qu’est-ce que c’est?
+ Note from transcript: In France, a collection of Keaton’s short films were named after the character he plays,
+“Malec.”
+ Deleuze might be conflating the plot of Keaton’s High Sign with another film. Our Hero (Keaton) is looking for
+work and manages to get hired at the shooting gallery by using the dog-bone-machine described above.
+     Note from transcript: For Keaton’s machines, see Cinema 1, pp. 174-6.
+  Note from transcript: In what follows Part 1, Deleuze has ended the discussion on burlesque and suddenly returns
+to a topic he had brought up during the previous session. There’s no clear explanation for this shift. Even though
+there’s no indication that a tape is missing, the brevity of this session, as well as Deleuze having suddenly changed
+subjects, suggests that it’s at least possible that a section is missing.
+     Deleuze is somewhat off with the order of events in the scene, but that’s neither here nor there.
+  As clumsy as it is, I’ve translated situation motrice as “motor situation” for the sake of helping the reader keep
+tabs on how Deleuze develops the transition from a sensorimotor schema to one of sight-and-sound. See note 14,
+below.
+  I have yet to find a translation for image or situation optique sonore pure that isn’t awkward. A “purely optical
+audio image,” etc. gets the job done. Deleuze is moving beyond talking about sensorimotor images (“action” and
+“perception” images) and starts to discuss optical/audio images (ones of “sight and sound”).
+  While most of Rossellini’s comments here are paraphrased (for which the translation is mine), I’ve included a
+more direct quote: the last line is from the interview translated by Liz Heron. “Eric Rohmer and François Truffaut,
+Fereydoun Hoveyda and Jacques Rivette: Interviews with Roberto Rossellini (July 1954 and April 1959)” in
+Cahiers du Cinéma: 1950s New Realism, Hollywood, New Wave, ed. Jim Hillier (Cambridge: Harvard, 1985), pp.
+209-17
+     I can’t find this exact line in the film, so I’ve translated Deleuze’s paraphrase as is.
+  Note from transcript: For a succinct overview of these parts of Rossellini’s work, see the first chapter of Cinema 2,
+pp. 7-9.
+
+                                                                                                                 19
+
+     Note from transcript: Deleuze develops this take on the French New Wave in Cinema 2, pp 18-20.
+     Note from transcript: The film is actually “L’École des facteurs,” The School for Postmen (1947).
+  While certainly applicable to the first chapter, Chapter 2 of Matter and Memory might be more helpful in
+summarizing these points. See p. 111. “At the basis of [recognized perception] would thus be a phenomenon of a
+motor order. (…) There is no perception which is not prolonged into movement.”
+  I’m following Richard Howard’s translation Robbe-Grillet. Accordingly, faire faux is here translated as “ringing
+false,” as opposed to ringing true. Alain Robbe-Grillet, “From Realism to Reality,” in For a New Novel, trans.
+Richard Howard (New York: Grove, 1965), pp. 157-68. Note from transcript: Deleuze only cites Robbe-Grillet once
+in the first volume (Cinema 1, p. 242 n.21), on the subject of “ringing false” in particular. However, Robbe-Grillet
+comes up frequently in Cinema 2. See p. 137. [Translator: Tomlinson and Galeta often translate faire faux as
+“making false” or “falsifying.”]
+     This long passage begins on Robbe-Grillet, p. 163
+     See Cinema 1, p. 241.

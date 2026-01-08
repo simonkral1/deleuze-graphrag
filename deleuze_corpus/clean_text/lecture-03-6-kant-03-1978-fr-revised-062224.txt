@@ -1,0 +1,799 @@
+1
+
+Gilles Deleuze
+
+Sur Kant: synthèse et temps
+
+3ème séance, 28 mars 1978
+
+Transcription : WebDeleuze
+
+Kant s’intéressait beaucoup à un auteur bizarre qui s’appelait Swedenborg et Swedenborg avait
+une certaine conception non seulement des esprits, au sens du spiritisme, mais il avait une
+conception de l’espace et du temps en fonction du spiritisme. Pour répondre à votre question, il
+me semble que vous ne posez pas le problème en termes kantiens. Lorsque vous dites, par
+exemple, et voilà que ce quelqu’un entre dans la pièce, vous employez dans un sens extrêmement
+général, à savoir toute activité d’une faculté quelconque rapportable à un sujet dit pensant, quel
+que soit le mode de pensée. Lorsque vous dites que je pense à quelqu’un, ça veut dire que
+j’imagine quelqu’un, ou je me rappelle quelqu’un, et voilà que par hasard, par coïncidence, ce
+quelqu’un entre dans la pièce. On peut très bien employer en termes vagues et généraux. Au
+point où nous en sommes dans notre analyse, Kant a substitué un usage restreint, où penser ça ne
+veut pas dire imaginer ou se souvenir, ou concevoir, mais où penser veut dire uniquement
+produire des concepts. Sentir veut dire uniquement recevoir une diversité sensible, appréhender
+une diversité sensible. Imaginer veut dire ou bien produire des images, ou bien produire des
+déterminations spatio-temporelles correspondants en concepts.
+
+Donc accordez-moi, au niveau où nous en sommes, quelles que soient ces définitions restreintes
+et leur valeur, penser, imaginer, sentir ne sont pas traités par Kant comme des modes,
+substituables les uns aux autres, d’un même type de pensée, mais comme des facultés
+spécifiques. Si bien que lorsque vous dites, et que ce quelqu’un entre, il n’y a aucune activité de
+pensée, il y a un acte d’imagination, il y a tout d’un coup la diversité sensible qui me donne ce
+quelqu’un. C’est ce que dirait Kant.
+
+[Kant dit, dans un texte de la Critique de la raison pure, le [cymandre] (terme incertain, peutêtre la couleur ‘cinabre’) était tantôt rouge, tantôt rouge, tantôt noir, tantôt lourd tantôt léger, je
+n’aurais jamais l’occasion d’associer – i. e que mon imagination n’aurait jamais l’occasion
+d’associer –, le mur [cymandre ou cinabre] avec la couleur rouge…] Si la nature n’était pas
+soumise à des règles concrètes, il n’y aurait pas d’associations d’idées. En d’autres termes,
+lorsque j’ai une association d’idées, cela implique que les choses, et non plus les idées, que les
+choses soient soumises elles-mêmes à des règles analogues aux règles qui nous sont associées.
+C’est-à-dire si Pierre ne venait pas à Vincennes, ou n’était pas venu à Vincennes, je n’aurais
+jamais eu l’occasion d’associer l’idée de Vincennes et l’idée de Pierre.
+
+Je vais essayer de préciser cette histoire de facultés, mais vous voyez bien que vous ne pouvez
+pas invoquer l’exemple que vous venez de donner comme transformant le problème du rapport
+pensée-imaginaire, parce qu’en fait il s’agira de l’une des formes de pensée. Lorsque je pense et
+
+                                                                                                     2
+
+que Pierre est là, en fait je n’ai rien pensé puisque je n’ai formé aucun concept. J’ai imaginé ou je
+me suis souvenu.
+
+Il y a quelque chose de très, très curieux dans Kant. Lorsque Kant écrit ses trois grandes
+critiques, la Critique de la raison pure, c’est 1781, Kant a 57 ans ; la Critique de la raison
+pratique, c’est 1788 ; et enfin la dernière très grande œuvre de Kant, c’est la Critique du
+jugement en 1799, il a 76 ans. Je me disais qu’il n’y a pas tellement de philosophes précoces. S’il
+était mort à 50 ans, ce serait une espèce de philosophe secondaire, un bon disciple de Leibniz, un
+bon philosophe quelconque. Il n’y a que un cas, le cas extraordinaire de Hume. Lui, tout son
+système, tous ses concepts, il les a à 22-25 ans, après il ne fera plus que répéter, améliorer.
+
+Aujourd’hui, je voudrais parler de ce livre extraordinaire qu’est la Critique du jugement; si je dis
+que c’est un livre extraordinaire, c’est parce que c’est un livre fondateur d’une discipline, même
+si avant le mot existait. Il y a une discipline particulière qui va être radicalement fondée par la
+Critique du jugement, à savoir la fondation de toute esthétique possible. L’esthétique a
+commencé à exister comme chose différente de l’histoire de l’art avec la Critique du jugement.
+C’est un livre vraiment très difficile, ne prétendez pas en comprendre chaque ligne, suivez le
+rythme.
+
+Je voudrais développer un peu la différence entre le cartésien, tel qu’il apparaît chez Descartes,
+et le tel qu’il apparaît chez Kant. Il faudrait schématiser au niveau d’un certain travail de pensée.
+Déjà avec Descartes apparaît quelque chose qui, dit-on, aura une très grande importance dans
+l’évolution de la philosophie, à savoir: la substance, où certaines substances y sont déterminées
+comme sujets. On peut dire très schématiquement que ces formules ont été des formules qui
+aident. Pas toutes les substances, mais un type de substance qu’on appelle substance pensante. La
+substance pensante est déterminée comme sujet. C’est la découverte qui va marquer toute la
+philosophie dite moderne, à partir du XVIIe siècle, c’est la découverte de la subjectivité.
+Pourquoi découverte de la subjectivité, pourquoi est-ce qu’il y aurait à découvrir la subjectivité?
+C’est la découverte d’une subjectivité qui n’est pas la subjectivité du moi empirique, à savoir
+vous et moi. Du point de vue du travail de concept, si je dis: le cogito cartésien, c’est
+l’assignation de la substance comme sujet– –, le kantien est très différent. Tout se passe comme
+s’il y avait un pas de plus, à savoir la forme de la subjectivité rompt avec la substance. Le sujet
+n’est plus déterminable comme substance. La subjectivité se libère de la substantialité. Les
+philosophes ne se contredisent pas les uns les autres, c’est comme les savants, il y a tout un
+travail de concept. J’essaie de dire très concrètement le de Descartes.
+
+Descartes part d’une opération fameuse qui s’appelle le doute. Il dit, dans des textes très beaux, ,
+et – tout le monde sait très bien que c’est une manière de parler. Il faut bien qu’il y ait un
+décalage entre le style et le contenu. Il ne s’agit pas de dire que la table n’existe pas. Le
+problème de Descartes, c’est tout à fait autre chose, c’est le fondement de la certitude, c’est-àdire une certitude qui soit soustraite à tout doute possible. Si je dis , ça m’est égal qu’elle existe,
+je me demande si c’est une certitude qui contient en elle-même son propre fondement. Non.
+C’est sûr que la table existe, c’est entendu, mais cette certitude ne contient pas en soi son propre
+fondement. Est-ce qu’il y a des certitudes qui contiennent en elles-mêmes leur propre
+fondement? Là-dessus je monte d’un degré: on dit deux et deux font quatre, on en est sûr. Les
+héros de Dostoïevski disent: Est-ce qu’on peut ne pas vouloir que deux et deux fassent quatre? Et
+
+                                                                                                     3
+
+quand il dit: je suis sûr que deux et deux font quatre, est-ce que là aussi c’est une certitude qui a
+en soi son propre fondement? Pourquoi est-ce que deux et deux ça ferait quatre? Alors on peut
+démontrer que deux et deux font quatre – c’est compliqué. En revanche, Descartes pense que
+c’est l’opération du doute qui va nous donner une certitude qui contient en soi son propre
+fondement. A savoir, il y a une chose dont je ne peux pas douter, je peux douter de l’existence de
+la table, je peux douter de la proposition , je ne peux pas douter d’une chose, c’est que en tant
+que je doute, je pense. En d’autres termes, l’opération de douter, en tant que douter c’est penser,
+va me fournir une certitude qui contient en soi son propre fondement: je pense!
+
+C’est une drôle de formule. Descartes, dans certains textes, va jusqu’à dire que c’est un nouveau
+mode de définition. C’est une définition de l’homme. Pourquoi est-ce que c’est une définition de
+l’homme? Avant Descartes on procédait par définitions – la scolastique – on donnait avant tout
+des définitions par genres et différences spécifiques. L’homme est un animal raisonnable.
+Animal, c’est le genre ; raisonnable, c’est la différence spécifique. Descartes dit que quand on
+donne une définition de ce type ça nous renvoie toujours à quelque chose d’autre qu’on est
+supposé savoir. Pour comprendre l’homme qui est un animal raisonnable, on est supposé savoir
+ce que c’est que l’animal, il faut savoir ce que c’est que raisonnable. Il va substituer une
+définition d’une toute autre forme: je pense. C’est très curieux, , parce qu’il n’y a pas besoin de
+savoir ce que c’est que penser. C’est donné dans l’acte de penser. Il y a une espèce d’implication,
+ce n’est pas du tout un rapport explicite entre concepts, c’est un acte qui ne fait qu’un avec l’acte
+de penser.
+
+Lorsque je doute, il y a une chose dont je ne peux pas douter, c’est que moi qui doute, je pense.
+Moi, qu’est-ce que c’est, Moi? Est-ce que c’est mon corps, est-ce que ce n’est pas mon corps? Je
+n’en sais rien puisque de mon corps, je peux douter. La seule chose dont je ne peux pas douter,
+c’est que puisque je doute, je pense.
+
+Vous voyez qu’il ne s’agit absolument pas d’une opération dans laquelle le doute porterait sur
+[bande inaudible], mais d’une opération qui consiste à requérir une certitude qui contient en soi
+son propre fondement comme certitude. Je pense, c’est donc un acte par lequel je détermine ma
+certitude. Le [mot qui manque], c’est une détermination. C’est une détermination active. Non
+seulement je ne peux pas douter de ma pensée, mais je ne peux pas penser sans elle, c’est-à-dire
+une même relation implicite qui va de douter à penser, va de penser à être. De même que douter
+c’est penser, pour penser il faut être. Vous voyez la progression des formules cartésiennes: je
+doute, je pense, je suis. Je doute, je pense, je suis : je pense c’est la détermination, je suis c’est
+l’existence indéterminée, je suis quoi? Eh bien, la détermination va déterminer l’existence
+indéterminée. La détermination détermine l’indéterminé, ça veut dire je suis une chose qui pense.
+Je suis une chose pensante.
+
+Voilà que ce que je suis est déterminé par la détermination , est déterminé comme l’existence
+d’une substance pensante. On dit à Descartes que c’est bien joli tout ça, mais qu’est-ce qui nous
+prouve que ce n’est pas le corps qui pense en nous ? C’est un matérialiste de l’époque qui lui dit
+ça. Et Descartes répond, dès qu’on lui fait une objection – il est très insolent – il dit: vous n’avez
+rien compris, je n’ai jamais prétendu que ce n’est pas le corps qui pense en nous, il dit
+exactement ceci: ce que je prétends, c’est que la connaissance que j’ai de ma pensée ne peut pas
+dépendre de choses qui ne sont pas encore connues. En d’autres termes, il ne s’agit pas de savoir
+
+                                                                                                        4
+
+si c’est le corps ou pas le corps qui pense en nous, il s’agit de constater que, dans la perspective
+de la démarche cartésienne, la conscience que j’ai de ma pensée ne peut pas dépendre de choses
+qui ne sont pas encore connues, à savoir le corps puisque le doute porte [aussi dessus?]. Donc, la
+démarche du point de vue logique mais d’une logique d’un type nouveau puisque ce n’est plus
+une logique opérant par genres ou différences, c’est une logique des implications puisque
+Descartes est en train [mots qui manquent] par opposition à la logique classique qui était une
+logique de relations explicites entre concepts. Il lance un nouveau type de logique qui est une
+logique des relations implicites, une logique de l’implication. Donc, il a déterminé par le , qui est
+une détermination, il a déterminé l’existence de ce qui pense, et l’existence de ce qui pense est
+déterminée comme existence de la chose pensante. Il va donc de la détermination à
+l’indéterminé, de la détermination à l’indéterminé et au déterminé: je suis une chose qui pense. Il
+fait enfiler dans sa logique des implications: je doute, je pense, je suis, je suis une chose qui
+pense. Il a donc découvert la zone où la substance était sujet.
+
+Et Kant surgit.
+
+Ce qu’affirme Descartes, c’est que l’âme et le corps sont réellement distincts. C’est plus qu’une
+séparation ontologique. Seulement, qu’est-ce qu’il appelle une distinction réelle, conformément à
+toute la tradition ? Là aussi les mots sont aussi définis qu’en science. La distinction réelle ce
+n’est pas la distinction entre deux choses, c’est la distinction, c’est un mode de distinction entre
+deux choses, c’est la distinction, c’est un mode distinction entre deux idées et représentations:
+deux choses sont dites réellement distinctes lorsque je peux me former l’idée de l’une, c’est-àdire lorsque je peux me représenter l’une sans faire intervenir quoi que ce soit de l’autre. Donc la
+distinction réelle a pour critère les représentations. Deux choses qui sont complètement
+distinctes, c’est une proposition qui, à la limite, n’a pas de sens. On arrivera au niveau de la
+substance. -- Comtesse, toi qui connais Descartes autant que moi, après la cinquième méditation
+--.
+
+Dans la seconde méditation, on ne peut absolument pas savoir si c’est le corps qui pense en moi.
+Descartes le dit formellement. L’âme et le corps, la pensée et l’étendue sont réellement
+distingués – ce qui n’est pas la même chose que réellement distincts –, comme deux substances
+ontologiquement séparées, ou séparables. Il ne pourra le dire qu’à la fin des méditations. A la
+deuxième méditation, quand il découvre le , le [mot qui manque] il ne peut absolument pas le
+dire encore, et c’est pour cela que parmi les nouveautés du texte de Descartes, il y a quelque
+chose sur laquelle il insiste beaucoup, et c’est cela la vraie nouveauté des méditations, même si
+vous n’aimez pas beaucoup Descartes, c’est que c’est le premier livre qui introduit le temps dans
+le discours philosophique. Là, il y a quelque chose de formidable. Ce qu’il dit dans la seconde
+méditation, puis ce qu’il dit dans la cinquième, il y a une temporalité qui s’est déroulée qui
+faisait qu’il ne pouvait pas dire dans la seconde ce qu’il dira dans la cinquième.
+Ce n’est pas vrai de toutes les philosophies. Si je prends Aristote ou Platon, il y a une succession
+dans la lecture, mais cette succession correspond à un ordre chronologique, c’est tout. Chez
+Descartes, il y a l’érection d’un ordre temporel qui est constitutif de la dimension métaphysique.
+
+En gros, pendant tout le Moyen Age, il y a eu une théorie des formes de distinction, chaque
+auteur créa ses formes de distinction, mais en gros il y avait trois grands types de distinctions: la
+distinction réelle, la distinction modale et la distinction de raison. Et si vous rapportez ces trois
+
+                                                                                                    5
+
+types de distinction aux choses mêmes, vous faites un contresens, si vous leur donnez une portée
+ontologique, elles n’ont pas encore de portée ontologique, elles n’ont qu’une portée
+représentative, à savoir: il y a distinction réelle entre A et B lorsque je peux penser A sans penser
+B, et B sans penser A. Vous voyez, il s’agit d’un critère de la pensée, d’un critère de la
+représentation. Exemple: deux choses seront réellement distinctes, et non pas véritablement
+distinguées, deux choses seront réellement distinctes lorsque vous pourrez former la
+représentation de l’une sans faire intervenir quoi que ce soit de la représentation de l’autre et
+réciproquement. Ce briquet est sur ce livre, est-ce qu’ils sont réellement distincts? Oui, je peux
+me faire une représentation du briquet sans faire intervenir quoi que ce soit de la représentation
+du livre, ils sont réellement distincts. Il se peut qu’ils soient aussi véritablement distingués, il
+suffit que je mette le briquet dans ma poche.
+
+Entre le recto et le verso d’une feuille, il y a une distinction réelle, je peux me faire une
+représentation d’un côté de la feuille sans me faire la moindre représentation de l’autre. Dans les
+choses, recto et verso ne sont pas séparés, mais dans ma représentation recto et verso
+correspondent à deux représentations. Je dirais qu’il y a distinction réelle entre le recto et le
+verso de la feuille. Donc il peut y avoir distinction réelle entre deux choses qui ne sont pas
+véritablement distinguées. Deuxième type de distinction: la distinction modale. Il y a distinction
+modale lorsque je peux penser A, je peux me représenter A sans B, mais je ne peux pas me
+représenter B seul. Exemple: l’étendue et la figure. Supposons, en gros, que je peux me
+représenter une étendue sans figure, je ne peux pas me représenter une figure sans étendue. Je
+dirais que entre l’étendue et la figure, il y a une distinction modale. Là-dessus – il ne faut pas le
+transporter ontologiquement trop vite –, ça ne veut pas dire du tout qu’il y ait dans les choses une
+étendue sans figure, peut-être qu’il n’y en a pas. Vous voyez, c’est le même coup, c’est des
+critères de représentation.
+
+Troisième distinction: la distinction de raison. Lorsque je me représente comme deux, deux
+choses qui ne font qu’un dans la représentation. En d’autres termes, la distinction de raison, c’est
+l’abstraction. Lorsque je distingue recto et verso de la feuille, je ne fais pas une abstraction
+puisque c’est donné comme deux dans ma représentation, puisqu’il y a deux représentations ;
+mais lorsque vous parlez d’une longueur sans largeur, si petite que soit cette longueur, là vous
+faites une abstraction – quand vous n’avez aucune représentation possible d’une longueur qui ne
+comporterait aucune largeur si petite qu’elle soit. Entre longueur et largeur, il y a donc une
+distinction de raison.
+
+C’est étonnant la manière dont les gens parlent de l’abstraction, ils ne savent absolument pas ce
+que c’est. La philosophie a une espèce de technique et une terminologie comme les
+mathématiques. On emploie généralement le mot abstrait pour des choses où il n’y a aucune
+abstraction. Le problème de l’abstraction, c’est comment est-ce que je peux faire deux de ce qui
+n’existe que comme un dans ma représentation. Ce n’est pas difficile de faire deux d’une chose
+lorsque j’ai deux représentations, mais lorsque je dis le recto de la feuille, je ne fais aucune
+abstraction puisque le recto m’est donné dans une représentation qui, elle, existe. Lorsque je dis
+une longueur sans épaisseur, là je fais une abstraction parce que je sépare deux choses qui sont
+nécessairement données l’une dans l’autre dans ma représentation. Il y a bien un philosophe qui a
+commencé la théorie des distinctions.
+
+                                                                                                     6
+
+Et puis les théologiens du Moyen Age, ce n’étaient pas des types qui s’occupaient de Dieu, c’est
+comme si vous disiez que les peintres de la Renaissance, c’est des types qui pensent Dieu – non,
+ils pensent aux couleurs, ils pensent aux lignes, et c’est les choses les plus bizarres qu’ils tirent
+du corps du Christ. Ce qu’on appelle les théologiens ce sont des gens qui sont en train d’inventer
+une logique, une physique, une dynamique, et un des grands trucs de la théologie du Moyen Age,
+c’est cette théorie des distinctions… Bon.
+
+Jusque-là, c’est complètement indépendant de la question de savoir si les choses sont
+véritablement distinguées ou confondues en elles-mêmes, si bien que dans toute l’histoire du
+cogito, je doute, je pense, je suis, je suis une chose qui pense, Descartes peut uniquement
+conclure: la représentation que j’ai de ma pensée, et la représentation que j’ai d’un corps étendu,
+sont telles que je peux me représenter ma pensée sans rien me représenter d’une étendue; je peux
+me représenter une étendue sans rien me représenter de ma pensée. Ça suffit à Descartes pour
+dire que la pensée et l’étendue sont réellement distinctes. Il ne peut pas encore ajouter que ce
+n’est pas le corps qui pense en moi… [Interruption de la bande]
+
+Alors il lui faudra, pour conclure de la distinction réelle entre représentation-substance à la
+séparation ontologique entre substances, il lui faudra passer par toute une analyse du concept de
+Dieu où il dit: si la distinction réelle entre représentation de substance était telle que ne lui
+correspondait pas une séparation véritable dans les choses, une séparation ontologique dans les
+choses, alors Dieu serait trompeur, Dieu nous mentirait puisque le monde serait double, Dieu
+serait duplexe, Dieu serait plein d’une duplicité puisqu’il aurait fait deux mondes non conformes:
+le monde des représentations et le monde des choses. Vous voyez à quoi ça engage,
+philosophiquement, le fait que Dieu soit trompeur… ça impliquerait une toute nouvelle position
+du problème du mal. Mais si j’avais le pouvoir d’établir des distinctions réelles entre
+représentations sans que leur correspondent des séparations véritables entre choses, le monde
+serait double: il y aurait le monde de mes représentations et le monde des choses, donc Dieu ne
+cesserait pas de me tromper puisqu’il m’inspirerait des idées vraies et ces idées vraies, rien dans
+les choses ne leur correspondrait.
+
+Pour répondre à Comtesse, je dis juste que c’est vrai que c’est une histoire de séparation
+ontologique, mais pas si vite… ça deviendra une affaire de séparation ontologique où Descartes
+pourra conclure: puisque je peux me représenter la substance pensante comme réellement
+distincte de la substance étendue, alors la substance pensante et la substance étendue sont
+ontologiquement deux substances, dès lors ce n’est pas le corps qui pense en moi. Mais avant
+d’être passé par [la cinquième définition?], il ne peut absolument pas le dire, il peut juste dire: je
+conçois la substance pensante comme réellement distincte de la substance étendue, elles sont
+réellement distinctes, puisque, encore une fois, être réellement distinctes c’est la même chose
+qu’être conçu comme réellement distinctes; sont réellement distinctes deux choses dont les
+représentations sont causées sans que l’une n’implique rien de l’autre. Donc il peut dire: la
+substance pensante et la substance étendue sont conçues comme réellement distinctes, il ne peut
+pas encore affirmer que ce n’est pas l’étendue qui pense en moi, que ce n’est pas le corps qui
+pense en moi.
+
+La seule chose qui me paraît intéressante, c’est cette idée des relations implicites, mais Descartes
+n’appelle pas ça comme ça, et dès lors cette promotion d’un ordre du temps dans l’écriture
+
+                                                                                                     7
+
+philosophique… [bande inaudible]. Vous allez me dire que vous comprenez tout. Qu’est-ce qu’il
+vient faire là, Kant? Kant veut aller plus loin. C’est forcé, par rapport à un philosophe précédent,
+il veut aller plus loin, seulement ce plus loin ne préexiste pas, il faut qu’il le fasse. Un des plus
+beaux textes de Kant c’est: qu’est-ce que s’orienter dans la pensée? Dans ce très beau texte, il
+développe toute une conception géographique de la pensée; il a même une nouvelle orientation :
+il faut aller plus loin, Descartes n’est pas allé assez loin: puisqu’il a déterminé certaines
+substances comme sujet, il fallait aller plus loin et rompre le lien du sujet avec la substance. Le
+sujet n’est pas substance. Bon.
+
+Ça veut dire quoi? Il reprend et j’essaie de marquer les points: il dit: d’accord. C’est-à-dire que
+c’est une détermination active, et c’est dans ce sens que sera nommé par Kant. Ça paraît bizarre
+quand il dit c’est la forme de la spontanéité, mais tout se comprend si vous serrez de près la
+terminologie. Ça veut dire exactement: c’est une détermination – il recueille ça de Descartes –, et
+le accompagne chaque production de concepts. Je ne peux pas penser un concept sans y inclure
+le . En d’autres termes, le [mot pas clair] c’est le sujet de tous les concepts, ou, comme il dira,
+c’est l’unité de la synthèse. Donc, sur ce point, il change de vocabulaire, mais il reste d’accord
+avec Descartes. Pourquoi est-ce qu’il change de vocabulaire? Il fallait s’y attendre : s’il change
+de vocabulaire tout en restant d’accord avec Descartes, c’est qu’il aura besoin de ce vocabulaire
+pour le moment où il ne sera pas d’accord. Ça c’est le premier point.
+
+Deuxième point: pour penser il faut être, en d’autres termes, il y a une relation d’implication
+entre la détermination et la position d’une existence indéterminée . Donc une relation
+d’implication entre la détermination active et la position d’une existence indéterminée . Kant le
+dit tout le temps: le implique – là ses mots varient souvent – un sentiment de l’existence. (Là on
+voit très bien la dérivation, entre Descartes et Kant il y a eu Rousseau.) Parfois il dit une
+conscience d’une existence indéterminée; le implique une pure conscience d’une existence
+indéterminée. Jusque-là, en accord avec Descartes.
+
+Dès lors, plus de problèmes pour Descartes, et c’est lorsqu’un philosophe n’a plus de problèmes
+que le philosophe suivant est en train d’arriver. Il n’y a plus de problèmes pour Descartes parce
+qu’il tient une détermination, il tient la position d’une existence indéterminée, donc quelque
+chose à déterminer, et il va dire que la détermination détermine l’indéterminé. La détermination:
+je pense ; l’indéterminé: je suis ; la détermination détermine l’indéterminé: je suis une chose qui
+pense.
+
+Là Kant dit non; c’est la naissance de la philosophie allemande – je pense à Leibniz. Il y a des
+objections qui sont comme des reproches. Sous les objections il y a toujours des reproches
+théorétiques. Leibniz disait déjà de Descartes: il va trop vite. C’est comme un jugement de goût.
+Kant reprend quelque chose de ça, c’est trop vite dit. Kant: d’accord, est une détermination ;
+d’accord, la détermination implique la position d’une existence indéterminée , mais ça ne me dit
+pas sous quelle forme cette existence indéterminée est déterminable, et ça Descartes s’en moque
+parce qu’il n’a pas vu le problème.
+
+Je pense, je suis, d’accord. Mais je suis quoi? Descartes répondait: , puisqu’il appliquait la
+détermination à l’indéterminé. Tiens… ça devient très clair ce que je dis. Descartes faisait une
+
+                                                                                                        8
+
+opération par laquelle il appliquait directement la détermination à l’existence à déterminer. Il
+appliquait directement le [mot pas clair] pour en tirer.
+
+Kant dit : d’accord, je pense, je suis. Mais je suis quoi, qu’est-ce que je suis? Une chose qui
+pense? Mais de quel droit dit-il ça ? Descartes se serait mis en colère… Kant lui dit: mais vous
+êtes bloqué, vous avez une position d’existence indéterminée et vous prétendez la déterminer par
+la détermination . Vous n’avez aucun droit de faire ça. Vous avez une détermination, vous avez
+une position d’existence indéterminée, vous pouvez toujours tourner, vous n’avancerez pas d’un
+pas. Vous êtes bloqué là-dessus. Pourquoi? Parce qu’en tirer la conclusion, ça suppose – et vous
+n’avez pas le droit de le supposer –, ça suppose que l’existence indéterminée est déterminable
+comme celle d’une substance ou comme d’une chose. En latin , la chose pensante.
+
+Kant dit, en vertu de tout ce qui précède – c’est-à-dire ce que j’ai essayé de dire la dernière fois,
+le changement extraordinaire de la notion de phénomène, le phénomène ne désignant plus
+l’apparence mais l’apparition, ce qui apparaît dans l’espace et le temps –, Kant peut maintenant
+nous dire que la forme sous laquelle une existence est déterminée dans les conditions de notre
+connaissance (ce qui se passe chez les anges, on n’en sait rien), eh bien la forme sous laquelle
+une existence est déterminable sous les conditions de notre connaissance, c’est la forme du
+temps.
+
+Donc le est la forme de la spontanéité ou la forme de la détermination la plus universelle, mais le
+temps est la forme la plus universelle du déterminable. La conclusion fatale de Descartes a été de
+confondre l’indéterminé et le déterminable ; or la détermination ne peut porter sur l’indéterminé
+que comme la médiation de la forme du déterminable. En d’autres termes, je pense, je suis, la
+détermination doit déterminer l’existence indéterminée , mais l’existence indéterminée n’est ellemême déterminable que sous la forme du temps. C’est seulement sous la forme du temps,
+comme forme du déterminable, que la forme de la pensée va déterminer l’existence indéterminée
+.
+Voilà que mon existence ne peut être déterminée que comme temps. Or si le temps est la forme
+du déterminable, sous laquelle mon existence indéterminée peut être déterminée par le , quelle
+forme je reçois du déterminable? La forme que je reçois du déterminable est celle d’un
+phénomène dans le temps, puisque le temps est forme d’apparition des phénomènes. J’apparais
+et je m’apparais à moi-même dans le temps. Mais apparaître et s’apparaître à soi-même,
+apparaître dans le temps, c’est quoi?
+
+Ce sont les coordonnées d’un être réceptif, c’est-à-dire passif. A savoir qui a une cause, qui
+n’agit pas sans aussi subir des effets. Bon, on est au bout, et c’est là que Kant va nommer le
+paradoxe du sens intérieur, le paradoxe du sens intime: le est une détermination active, c’est la
+même forme de la détermination active, mais l’existence qu’il implique, le , l’existence
+indéterminée que la détermination active du implique, n’est déterminable que dans le temps,
+c’est-à-dire comme existence d’un sujet passif qui subit toutes les modifications suivant l’ordre
+et le cours du temps. En d’autres termes, je ne peux pas – il y a une phrase qui est splendide,
+c’est la version kantienne de ce que je disais la dernière fois, à savoir que, voilà ce que dit Kant
+dans la Critique de la raison pure: C’est exactement, je ne peux pas déterminer mon existence
+comme celle d’un JE, mais je me représente seulement le JE – la spontanéité de mon acte de
+penser. Je me représente la spontanéité de mon acte de penser signifie que je me représente la
+
+                                                                                                      9
+
+détermination active du comme la détermination qui vient déterminer mon existence, mais qui ne
+peut la déterminer que comme l’existence d’un être non pas actif, mais d’un être sur le temps.
+Voilà que c’est la ligne du temps qui sépare le du . C’est la ligne pure et vide du temps qui
+traverse, qui opère cette espèce de fêlure dans le je, entre un comme détermination et un comme
+déterminable dans le temps.
+
+Le temps est devenu la limite de la pensée et la pensée ne cesse d’avoir à faire avec sa propre
+limite. C’est du dedans que la pensée est limitée. Il n’y a plus une substance étendue qui limite
+du dehors la substance pensante, et qui résiste à la substance pensante, mais la forme de la
+pensée est tout entière traversée, comme fêlée comme une assiette, elle est fêlée par la ligne du
+temps. Elle fait du temps la limite intérieure de la pensée elle-même, à savoir l’impensable dans
+la pensée.
+
+A partir de Kant, la philosophie se donnera comme tâche de penser ce qui n’est pas pensable, au
+lieu de se donner comme tâche de penser ce qui est extérieur à la pensée. La véritable limite
+traverse et travaille la pensée du dedans.
+
+On retrouve ce que j’avais essayé de dire la dernière fois, à savoir: on trouve une espèce de
+tension entre deux formes. La forme active de la spontanéité, ou si vous préférez forme de la
+détermination active , ou forme du concept puisque , c’est l’unité formelle de tous les concepts.
+Donc, d’une part forme active de la détermination, d’autre part forme intuitive ou réceptive du
+déterminable – le temps. Les deux sont absolument hétérogènes l’un à l’autre, et pourtant il y a
+une corrélation fondamentale: l’un travaille dans l’autre. C’est en elle-même que la pensée abrite
+ce qui résiste à la pensée.
+
+En quoi Heidegger est-il kantien? Il y a des phrases célèbres telles que: nous ne pensons pas
+encore. Lorsqu’il parle du temps par rapport à la pensée, c’est en cela qu’il est kantien. La ligne
+directe de Kant à Heidegger, c’est vraiment le problème du temps et de son rapport à la pensée.
+
+Le grand problème que Kant découvre, c’est quel est le rapport entre la forme de la
+détermination, ou de l’activité ou de la spontanéité, et d’autre part la forme de la réceptivité, ou
+forme du déterminable, le temps. Si je glisse un peu, je dirais non plus forme de la détermination
+et forme du déterminable, je dirais: deux types de déterminations hétérogènes. Vous me
+demanderez de quel droit je peux faire le glissement; passer de forme de la détermination: je
+pense, forme du déterminable, au temps – l’idée qu’il y a deux types de déterminations, ça nous
+reste à voir. Mais sentez que c’est à l’issue d’une série de glissements qu’il faudra justifier. A
+savoir les deux types de déterminations, c’est la détermination conceptuelle cette fois-ci puisque
+tous les concepts renvoient au ; les concepts sont des actes du , donc d’une part détermination
+conceptuelle, et d’autre part détermination spatio-temporelle. Les deux sont absolument
+hétérogènes, irréductibles, la détermination conceptuelle et la détermination spatio-temporelle
+sont absolument irréductibles l’une à l’autre, et pourtant elles ne cessent de correspondre l’une à
+l’autre de telle manière qu’à chaque concept je peux assigner les déterminations spatiotemporelles qui lui correspondent, tout comme les déterminations spatio-temporelles étant
+données, je peux y faire correspondre un concept. De quelle manière, c’est ce qui nous reste à
+voir.
+
+                                                                                                  10
+
+Si vous m’accordez des glissements que nous définirons tout à l’heure, ça revient au même de
+dire que Kant pose le problème du rapport entre la forme de détermination et la forme du
+déterminable = le temps, et par là bouleverse l’élément de la philosophie, ou dire, à un niveau un
+peu plus précis, non plus le mais les concepts, non plus le temps mais les déterminations de
+l’espace et du temps ; il s’agit cette fois-ci du rapport entre la détermination conceptuelle et la
+détermination spatio-temporelle. [Pause dans la séance]
+
+On part de ceci: comment expliquer que des déterminations conceptuelles et des déterminations
+spatio-temporelles se correspondent alors qu’elles ne sont pas du tout de la même nature ?
+Qu’est-ce que c’est qu’une détermination spatio-temporelle? On va voir qu’il y en a peut-être de
+plusieurs sortes. Kant pose la question concernant le rapport des deux types de déterminations à
+deux niveaux très différents. L’un de ces niveaux, on l’appellera celui de la synthèse ; l’autre de
+ces niveaux, il l’appellera celui du schème – et ce serait ruineux pour un lecteur de Kant de
+confondre la synthèse et le schème. Je dis que schème, que la synthèse, c’est une opération qui
+met en rapport, d’une certaine manière, détermination conceptuelle et détermination spatiotemporelle. Et voilà que la synthèse va être comme crevée, percée, va être débordée par une
+aventure stupéfiante qui est l’expérience du sublime. L’expérience du sublime va faire basculer
+toutes les synthèses. Or on ne vit que de ça. On ne vit que de synthèses, et voilà que l’expérience
+du sublime, à savoir l’infini de la voûte étoilée, ou bien la mer en furie…
+
+L’autre cas, le schème, c’est un autre cas où on fait correspondre des déterminations spatiotemporelles et des déterminations conceptuelles, et là aussi il y a certaines conditions où nos
+schèmes éclatent, et ce sera l’étonnante expérience du symbole et du symbolisme. Or toute
+l’analyse du sublime, et toute l’analyse du symbole et du symbolisme – les Anglais avaient
+analysé le symbolisme avant lui, mais toute la nouveauté de l’analyse de Kant est évidente –, ce
+sera la critique du jugement, dans son dernier livre, comme si à mesure qu’il vieillit, il devenait
+sensible à la catastrophe. A la double catastrophe de l’écrasement du sublime, le sublime
+m’écrase, et l’irruption du symbole, alors toute notre terre, toute la terre de notre connaissance
+que nous avions construite à coups de synthèses et de schèmes se met à vaciller.
+
+Qu’est-ce que c’est que la synthèse? C’est la synthèse de la perception. Mais ne croyez pas que
+ça va de soi. Je dis que c’est dès ce niveau de l’analyse de la synthèse de la perception que Kant
+peut être considéré comme le fondateur de la phénoménologie. A savoir de cette discipline de la
+philosophie qui se donne pour objet l’étude, non pas des apparences, mais des apparitions et du
+fait d’apparaître. Qu’est-ce que la synthèse de la perception? Tous les phénomènes sont dans
+l’espace et dans le temps. Il y a une diversité – à la lettre – indéfinie dans l’espace et dans le
+temps. Bien plus, l’espace et le temps sont eux-mêmes divers: non seulement ce sont des formes
+dans lesquelles la diversité se donne, mais ils nous donnent aussi une diversité proprement
+spatiale et temporelle– la diversité des ici et la diversité des maintenant. Tout moment du temps
+est un maintenant possible, tout point de l’espace est un ici possible.
+
+Donc, non seulement il y a une diversité indéfinie dans l’espace et dans le temps, mais il y a
+aussi une diversité indéfinie de l’espace et du temps lui-même. Donc, pour la perception,
+certainement il faut que du divers me soit donné, mais si je n’avais que ce donné du divers, que
+cette réceptivité du divers, ça ne ferait jamais une perception. Lorsque je dis – par exemple je
+perçois un chapeau, je perçois un livre –, ça veut dire que je constitue dans l’espace et dans le
+
+                                                                                                  11
+
+temps un certain espace et un certain temps. L’espace et le temps sont indéfiniment divisibles:
+toute portion d’espace est un espace, toute portion de temps est un temps. Donc ce n’est pas
+l’espace et le temps eux-mêmes qui rendent compte de l’opération par laquelle je détermine un
+espace et un temps. Je perçois un morceau de sucre: je perçois un complexe d’espace et de
+temps. Vous me direz pour l’espace très bien, je vois, il y a la forme, le grain, mais pourquoi de
+temps? Parce que ça fait partie de ma perception d’attendre que le sucre fonde. Quand je perçois
+une chose, je perçois une certaine temporalité de la chose et une certaine spatialité de la chose.
+Donc voilà, selon Kant, un ordre proprement logique, pas du tout chronologique, il ne dit pas
+qu’il faut commencer par l’un.
+
+Il y a trois opérations qui constituent la synthèse, la synthèse opérant sur, à la fois, la diversité
+dans l’espace et dans le temps, et la diversité de l’espace et du temps. La synthèse consiste à
+limiter une diversité dans l’espace et dans le temps, et une diversité de l’espace et du temps euxmêmes, pour dire: ça commence, ça finit, etc. Le premier aspect de la synthèse, c’est ce que Kant
+appelle la synthèse successive de l’appréhension des parties, à savoir: toute chose est une
+multiplicité et a une multiplicité de parties. Je perçois des parties, mon œil parcourt la chose.
+Vous me direz qu’il y a des choses assez petites pour que je les perçoive d’une fois. Oui et non,
+peut-être pas, ça se peut. Bien plus, si petit que soit une chose, je peux commencer par la droite
+ou commencer par la gauche, par le haut ou par le bas dans ma perception, ça ne prend pas
+beaucoup de temps, c’est une temporalité très contractée. Je fais une synthèse d’appréhension
+successive des parties.
+
+Mais du coup ça se complique déjà, il faudrait distinguer deux cas – on n’a pas fini. De toutes
+manières, l’appréhension des parties est successive. Il y a des cas où la succession est objective –
+ça complique déjà. Je perçois une maison, par exemple: la forme, le fond, la perspective, la
+forme devient fond, etc. Il y a une espèce d’appréhension subjective. Mais je commence par la
+droite, ou je commence par la gauche, et je poursuis. Dans les deux cas mon appréhension est
+successive, mais la succession n’a de valeur que subjective. Je peux commencer par le haut ou
+par le bas, par la droite ou par la gauche, ce sera réversible ou rétrograde, que de la droite à la
+gauche et que de la gauche à la droite, je pourrais dire que c’est le mur en face de moi. La
+succession est dans mon appréhension, elle n’est pas dans la chose, elle n’est pas dans le
+phénomène.
+
+Au contraire, vous êtes assis sur [bande inaudible], là aussi vous avez une succession, une
+appréhension successive des parties, mais la succession est objective. Lorsque la succession est
+objective, vous direz: je perçois un événement. Lorsque la succession est saisie comme
+uniquement, vous percevez une chose. On dira qu’un événement, c’est un phénomène dont
+l’appréhension successive des parties est telle que la succession y est objective. Au contraire, une
+chose, c’est telle que la succession y est seulement subjective. Donc le premier aspect de la
+synthèse qui consiste à déterminer les parties d’un espace et d’un temps, c’est la synthèse de
+l’appréhension. Par là je détermine les parties d’un espace.
+
+Supposons que vous avez fait votre appréhension successive des parties, supposez que vous
+soyez dans une curieuse situation, à savoir supposez que lorsque vous arrivez [à la partie]
+suivante vous avez oublié la partie précédente, vous ne pourriez pas percevoir. Il faut bien qu’il y
+ait une opération de contraction telle que lorsque vous arrivez à la partie suivante, la partie
+
+                                                                                                   12
+
+précédente soit conservée, sinon si vous perdez d’un côté ce que vous gagnez de l’autre, vous
+n’arriverez jamais à déterminer un espace et un temps. Ce second aspect de la synthèse, c’est la
+synthèse de la reproduction. Il faut que vous reproduisiez la partie précédente lorsque vous
+arrivez à la partie suivante, donc non seulement vous devez produire des parties successives,
+mais vous devez reproduire les précédentes par les suivantes. Les deux aspects de la synthèse
+renvoient à la synthèse comme acte de quoi? Ni de la réceptivité – la réceptivité c’est
+uniquement l’espace et le temps et ce qui apparaît dans l’espace et le temps, c’est l’intuition. Le
+concept, c’est autre chose. La synthèse renvoie à l’imagination, c’est l’acte d’imagination. Cet
+acte de l’imagination, c’est bizarre. Voyez ce qu’il veut dire: c’est que par les deux aspects,
+appréhension des parties et reproduction des parties, en effet je détermine un espace et un temps.
+
+Or selon Kant, imaginer ce n’est pas fabriquer des images, ce n’est pas penser à Pierre qui n’est
+pas là. Imaginer, c’est déterminer un espace et un temps dans l’espace et dans le temps. Il y a
+bien une imagination empirique. L’imagination empirique, c’est quand Pierre n’est pas là, je
+pense à Pierre, ou bien j’imagine Pierre, je rêve. Mais l’imagination que Kant appellera
+transcendantale, c’est l’acte par lequel l’imagination détermine un espace et un temps ; or elle
+détermine un espace et un temps par la synthèse de l’appréhension et la synthèse de la
+reproduction. Mais il faut encore quelque chose d’autre. Je ne suis plus dans la situation d’une
+diversité dans l’espace et dans le temps, ou d’une diversité de l’espace et du temps lui-même, je
+suis dans la situation de: un espace et un temps déterminés par la synthèse de l’imagination.
+
+Pourtant je ne peux pas dire encore que je perçois. Pour percevoir il faut encore que cet espace et
+ce temps, déterminés par la synthèse, ou ce qui revient au même, ce que contient cet espace et ce
+temps, il faut que ce soit rapporté à une forme – à une forme de quoi? Pas à une forme d’espace
+ou de temps puisque la forme d’espace et de temps on l’a. Quelle autre forme? Vous voyez
+comme on progresse. On était partis de formes de l’espace et du temps en général, c’est la forme
+de l’intuition, puis l’acte de l’imagination détermine un espace, tel espace et tel temps par les
+deux aspects de la synthèse. Cette fois-ci, c’est une forme. Non pas la forme de l’espace et du
+temps, mais une forme spatio-temporelle – par exemple la forme d’une maison ou la forme d’un
+lion – ; or il faut encore une autre forme pour qu’il y ait perception. Il faut que cet espace et ce
+temps, ou que contiennent cet espace et ce temps déterminés, il faut que je les rapporte à la forme
+d’un objet.
+
+A ce moment-là, ça devient difficile à comprendre. Qu’est-ce que ça veut dire, il faut que je le
+rapporte à la forme d’un objet? On pourrait imaginer un nombre de sensations où les données
+sensibles, le divers, la diversité sensible ne soient pas rapportés à une forme d’objet. C’est ma
+perception qui est constituée de telle manière que la diversité sensible, je la rapporte à la forme
+d’un objet. En d’autres termes, je ne perçois pas un objet, c’est ma perception qui présuppose la
+forme d’objet comme une de ses conditions, ce n’est pas quelque chose, c’est une forme vide. La
+forme d’objet, c’est exactement l’indice par lequel les qualités sensibles, telles que je les
+éprouve, sont censées renvoyer à un quelque chose. Un quelque chose quoi? Justement, un
+quelque chose = rien. Kant inventera la formule splendide: un quelque chose = x. Vous me direz
+que ce n’est pas un quelque chose = x quand je dis que c’est une table ou que c’est un lion – ce
+n’est pas rien – mais l’objet quelconque, l’objet = x, il ne reçoit une détermination lion, table ou
+briquet que par la diversité que je lui rapporte. Quand je rapporte à l’objet = x une diversité faite
+
+                                                                                                    13
+
+de ceci: de longs poils dans le vent, un rugissement dans l’air, une course lourde, une fuite
+d’antilope, bon je dis que c’est un lion. Et puis je dis: tiens une souris!
+
+Ce que je voudrais que vous compreniez c’est que de toute manière il y a un objet quelconque,
+l’objet = x qui est une pure forme de la perception. Je ne perçois pas des objets, et c’est ma
+perception qui présuppose la forme d’objet. Alors l’objet, je le spécifie, je le qualifie d’après telle
+diversité, tel espace et tel temps que je lui rapporte. Quand je rapporte telle diversité spatiotemporelle, quand je rapporte telle forme spatio-temporelle à l’objet = x, l’objet = x n’est plus x,
+je peux dire que c’est un lion ou une maison. Mais inversement, jamais je ne dirai que c’est un
+lion ou une maison si je ne disposais de la forme vide de l’objet = x, de l’objet quelconque, car
+ce n’est pas la diversité sensible et ce n’est rien dans la diversité sensible qui rend compte dans
+l’opération par laquelle la diversité sensible se dépasse vers quelque chose que je nomme un
+objet. Donc, outre la forme de l’espace et du temps (forme de l’intuition), outre la forme spatiotemporelle déterminée (synthèse de l’imagination), il me faut encore une troisième forme: la
+forme de l’objet quelconque tel que je rapporte à cette forme la forme spatio-temporelle, en
+disant : c’est ceci.
+
+Si bien que le troisième aspect de la synthèse, après l’appréhension et la reproduction, c’est ce
+que Kant appelle – reconnaître. J’opère une recognition lorsque je dis: . Mais , ça implique une
+opération par laquelle je dépasse ce qui m’est donné, je dépasse les formes de l’espace et du
+temps, je dépasse les formes purement spatio-temporelles vers la forme d’un objet quelconque
+que la forme spatio-temporelle va déterminer comme tel ou tel objet.
+
+Or, autant les deux premiers actes de la synthèse, appréhension et reproduction, ça renvoie à
+l’imagination parce que ça consiste à déterminer un espace et un temps, autant la recognition,
+c’est un acte de l’entendement. Pourquoi? Vous vous rappelez des concepts qui sont les
+représentations de l’entendement, ce sont les prédicats de l’objet quelconque, de l’objet = x. Tout
+objet n’est pas lion, tout objet n’est pas rouge, mais tout objet a une cause, tout objet est un, tout
+objet est une multiplicité de parties, etc. Les prédicats que vous pouvez attribuer à l’objet
+quelconque ce sont les catégories de l’entendement, ce sont les concepts de l’entendement. Donc
+la recognition, la forme de la recognition, la forme de l’objet quelconque, c’est non plus cette
+fois-ci la synthèse de l’imagination, mais l’unité de la synthèse de la… [bande inaudible].
+
+C’est les trois aspects, appréhension, reproduction et recognition, qui constituent la perception
+sous les conditions [d’un autre de la perception?].
+
+Une petite parenthèse. Surtout ne jamais confondre, dans le vocabulaire kantien, l’objet = x et la
+chose en soi. La chose en soi ça s’oppose au phénomène puisque le phénomène c’est la chose
+telle qu’elle apparaît, tandis que l’objet = x ne s’oppose pas du tout au phénomène, il est la
+référence de tout phénomène à la forme d’objet. La chose en soi est située hors de notre
+connaissance possible, puisque nous ne connaissons que ce qui apparaît, la forme de l’objet
+quelconque est au contraire une condition. La forme de l’objet = x est une condition de notre
+connaissance.
+
+On recommence à zéro. J’ai l’ensemble de la synthèse: appréhension des parties successives,
+reproduction des parties précédentes dans les suivantes, renvoie à la forme d’un objet
+
+                                                                                                   14
+
+quelconque. Donc j’ai rapporté une forme spatio-temporelle à une forme conceptuelle: la forme
+d’objet. Donc Kant se dit… recommençons par le début. On a essayé d’analyser un édifice qui
+sort du sol; l’édifice qui sort du sol, c’est la synthèse. Qu’est-ce qu’il y a là dessous? J’ai dit:
+pour percevoir un objet j’appréhende des parties successives, mais comment est-ce que je les
+choisi, ces parties? C’est un drôle de truc parce que c’est très variable d’après l’objet.
+Appréhender des parties successives ça implique, même au niveau de la perception, ça implique
+déjà comme une espèce d’évaluation vécue d’une unité de mesure.
+
+Or suivant la nature des objets il n’y a pas d’unité de mesure constante. Dans la réflexion, oui; du
+point de vue de l’entendement, oui, j’ai bien une unité de mesure constante. Je pourrais fixer un
+étalon – et encore, on va voir que ce n’est même pas vrai, mais on pourrait fixer un étalon –, le
+mettre par exemple et dire qu’il y a tant de mètres. Mais ce n’est évidemment pas ça que Kant
+veut dire par appréhension successive des parties. C’est comme une espèce de mesure qualitative
+qui convient à l’objet. Qu’est-ce que ça veut dire? Quand je vois un arbre, je regarde, je fais mon
+appréhension des parties successives, je commence par le haut, puis je vais vers le bas, ou bien
+l’inverse, et je dis que cet arbre est bien grand comme dix hommes… Je choisis une espèce
+d’unité sensible pour faire mon appréhension des parties. Et puis, derrière l’arbre, il y a une
+montagne, et je dis qu’elle est grosse cette montagne, elle fait bien vingt arbres. Et puis je
+regarde le soleil et je me demande combien est-ce qu’il y a de montagnes; je ne cesse pas de
+changer d’unité de mesure d’après les perceptions. Il faut que mon unité de mesure soit en
+harmonie avec la chose à mesurer; il y a des variations très étonnantes.
+
+Kant nous dit dans la Critique du jugement – il s’en garde bien avant –, il nous dit que l’acte le
+plus élémentaire de la synthèse de la perception présuppose un acte logique. Cette synthèse de la
+perception, c’est malgré tout une synthèse logique. Je dis malgré tout parce que il donne en
+même temps à un tout nouveau sens. Donc encore faut-il que je choisisse une unité de mesure, et
+cette unité de mesure elle est variable dans chaque cas par rapport à la chose à percevoir, tout
+comme la chose à percevoir dépend de l’unité choisie. Sous l’appréhension successive des
+parties, qui est une synthèse logique, bien qu’elle renvoie à l’imagination, il faut une
+compréhension esthétique… ça n’est plus de l’ordre de la mesure, la compréhension esthétique
+d’une unité de mesure telle qu’elle est supposée par la mesure… Kant est en train de découvrir
+une espèce de soubassement à la synthèse de l’appréhension, comment se fait une
+compréhension esthétique de l’unité de mesure parce que une compréhension esthétique de
+l’unité de mesure est présupposée par la synthèse de l’imagination dans la perception, à savoir
+l’appréhension d’une [évaluation d’un rythme?] L’évaluation d’un rythme qui va me permettre
+de dire: oui, je prends ça comme unité de mesure dans tel cas; et les rythmes sont toujours
+hétérogènes, on s’enfonce comme dans une espèce d’exploration.
+
+Sous les mesures et leurs unités, il y a des rythmes qui me donnent, dans chaque cas, la
+compréhension esthétique de l’unité de mesure. Sous la mesure, il y a le rythme. Or la
+catastrophe est là. A nouveau on ne peut plus s’arrêter. On avait la synthèse, on restait sur le sol
+et la synthèse s’établissait sur le sol; on a voulu creuser un peu et on a découvert le phénomène
+de la compréhension esthétique, et on ne peut plus s’arrêter. Le rythme, c’est quelque chose qui
+sort du chaos, et le rythme c’est quelque chose qui peut-être bien peut revenir au chaos? Et
+qu’est-ce qui peut se passer? Prenons ça comme une histoire. Je regarde quelque chose et je me
+dis que j’ai le vertige, ou bien mon imagination vacille.
+
+                                                                                                   15
+
+Qu’est-ce qui s’est passé? Tout d’abord je ne peux pas choisir d’unité de mesure. Je n’ai pas
+d’unité de mesure, ça dépasse mon unité de mesure possible. Je cherche une unité de mesure
+appropriée et je n’en ai pas. Chaque fois que j’en trouve une, elle est détruite. Alors je suis
+poussé comme par un vent dans le dos à choisir des unités de mesure de plus en plus grandes, et
+aucune n’est adéquate. Du coup je ne peux pas faire ma synthèse de l’appréhension. Ce que je
+vois est incommensurable à toute unité de mesure. Deuxième catastrophe. Dans l’affolement, je
+peux à la rigueur distinguer des parties, des parties complètement hétérogènes, mais quand
+j’arrive à la suivante tout se passe comme si j’étais frappé d’un vertige: j’oublie la précédente, je
+suis poussé à aller toujours plus loin et à perdre de plus en plus. Je ne peux plus ni faire ma
+synthèse d’appréhension ni faire ma synthèse de reproduction. Pourquoi? Parce que ce que je
+saisissais, ce qui frappait mes sens, c’était quelque chose qui dépasse toute possibilité de
+compréhension esthétique!
+
+On a vu que la compréhension esthétique c’était – bien que Kant ne le dise pas, mais c’est à ça
+qu’il pense –, c’était la saisie d’un rythme comme soubassement de la mesure et de l’unité de
+mesure. Vous voyez l’ensemble de la synthèse de la perception: je ne peux plus appréhender les
+parties successives, je ne peux reproduire les parties précédentes à mesure que j’arrive aux
+suivantes, et enfin je ne peux plus dire ce que c’est, je ne peux plus qualifier l’objet quelconque.
+Toute ma structure de la perception est en train d’éclater. Pourquoi? Toute ma structure de la
+perception est en train d’éclater parce que nous avons vu qu’elle se fondait – non pas au sens de
+fondement, mais au sens de fondation –, nous avons vu que toute cette synthèse perceptive
+trouvait sa fondation dans la compréhension esthétique, c’est-à-dire l’évaluation d’un rythme.
+
+Là, cette compréhension esthétique en tant qu’évaluation d’un rythme qui servirait de fondation à
+la mesure, donc à la synthèse de la perception, est comme compromise, noyée dans un chaos. Le
+sublime.
+
+On dit de deux choses. Réponse de Kant: on dit que c’est sublime de deux choses: le sublime (on
+dit mathématique parce que c’est extensif), et on dit sublime dynamique (c’est un sublime
+intensif). Exemples: le spectacle infini de la mer calme, c’est le sublime mathématique; la voûte
+étoilée des cieux quand le ciel est clair, c’est le sublime mathématique. Il m’inspire un sentiment
+voisin du respect, c’est un sublime dynamique. Cette fois-ci l’infinité de l’expansion a fait place
+à l’infini des forces de la matière, l’infinité intensive des forces qui remplissent l’espace et le
+temps. Le sublime dynamique, c’est la mer qui rentre en furie, c’est l’avalanche. Cette fois-ci,
+c’est la terreur. Pensez à quel point Kant est au centre d’une certaine conception du romantisme
+allemand. Je passe les raisons pour lesquelles le sublime dynamique est plus profond que le
+sublime mathématique.
+
+Mais ma deuxième question sur le sublime, c’est: quel effet ça fait sur moi? On peut avancer. Je
+ne peux plus appréhender les parties, je ne peux plus reproduire les parties, je ne peux plus
+reconnaître quelque chose, et en effet le sublime, comme dit Kant, c’est l’informe et le difforme.
+C’est l’infini comme bornant tout l’espace, ou l’infini comme renversant tout l’espace. Si ma
+synthèse de perception est supprimée, c’est parce que ma compréhension esthétique est ellemême compromise, à savoir: au lieu d’un rythme, je me trouve dans le chaos.
+
+                                                                                                   16
+
+Tout se passe comme si l’imagination (c’est la synthèse de la perception) était poussée jusqu’à sa
+propre limite. Formidable : on est en train de retrouver au niveau de la faculté de l’imagination
+quelque chose qu’on avait trouvé au niveau de la faculté de la pensée. Ce n’est pas seulement la
+pensée qui est en rapport consubstantiel, rapport fondamental, avec une limite intérieure ;
+l’imagination est elle-même traversée par une limite qui lui est propre, et le sublime confronte
+l’imagination à sa propre limite. Le beau, selon Kant, ce n’est pas du tout ça ; le beau, c’est une
+réflexion de la forme de l’objet dans l’imagination. Le sublime, c’est lorsque l’imagination est
+mise en présence de sa propre limite, elle est effarée. L’ambiguïté était énorme entre le rythme et
+le chaos.
+
+Je vous renvoie au texte célèbre de Paul Klee, comment le rythme sort du chaos, la manière dont
+le point gris saute par-dessus lui-même et organise un rythme dans le chaos. Le point gris ayant
+la double fonction d’être à la fois le chaos, et en même temps d’être un rythme en tant qu’il saute
+dynamiquement par-dessus lui-même; il va organiser le chaos et permettre le rythme. Cézanne
+raconte qu’on ne regarde jamais un paysage. Il regarde quelque chose et c’est le chaos absolu, le
+. Cézanne dit que c’est comme un éboulement de terre, un écroulement. A ce moment-là je ne
+fais plus qu’un avec le tableau – c’est Cézanne qui parle –, nous sommes un chaos irisé, etc. les
+assises géologiques… Traduit en termes kantiens, c’est vraiment: je passe de la synthèse de la
+perception à la compréhension…
+
+Le sublime, heureusement qu’il ne nous prend pas tout le temps, ce serait terrible; heureusement,
+on garde notre perception. Au moment où Kant dit que dans le sublime l’imagination est portée
+jusqu’à sa propre limite, et du coup elle est affolée, comme une boussole affolée, elle est en train
+d’imaginer ce qui ne peut pas être imaginé. Eh bien, à ce moment-là, dit Kant, dans le respect du
+sublime mathématique, ou dans la terreur du sublime dynamique, nous éprouvons.
+
+En même temps que mon imagination est écrasée par sa propre limite, c’est une limite qui est
+comme son noyau fondateur, c’est le sans fond. Qu’est-ce que c’est que ce sans fond de
+l’imagination? C’est quelque chose qui fait que je découvre en moi comme une faculté plus forte
+que l’imagination, et c’est la faculté des idées.
+
+Question : Est-ce qu’on peut dire que la musique est l’art du sublime?
+
+Deleuze : Ça ne serait pas difficile. Si je pense, par commodité pour vous, en termes d’histoire
+de la philosophie, on distinguera les arts du beau et les arts du sublime. Or les arts du beau et les
+arts du sublime – vous trouverez une longue histoire là-dessus avec Schopenhauer et avec
+Nietzsche –, or comment est-ce qu’ils distinguent? En gros, si vous voulez, tout art repose sur
+une Idée; mais dans les arts du beau l’Idée est comme médiatisée, c’est-à-dire qu’elle est
+représentée. Il y a une représentation de l’idée. Dans le sublime, le vouloir apparaît pour luimême. Nietzsche, tant qu’il s’en tiendra à l’origine de la tragédie, restera dans cette idée d’une
+proéminence de la musique sur tous les arts parce que la musique fait apparaître l’Idée comme
+telle, par opposition aux autres arts qui sont condamnés à la représentation.
+
+Vous devez sentir qu’une idée, ce n’est pas de l’imagination, mais ce n’est pas non plus un
+concept de l’entendement, c’est encore autre [chose]. Donc il nous faut un statut très particulier
+pour l’idée puisque tout le jeu du sublime, c’est ceci: l’imagination est vaincue et mise en
+
+                                                                                                     17
+
+déroute devant sa propre limite, mais la joie que nous éprouvons, c’est que se lève en nous la
+conscience d’une faculté supérieure, que Kant appelle la faculté supra-sensible et qui est la
+faculté de l’idée.
+
+Avec Kant, on cesse de penser le problème du mal en termes d’extériorité. En très gros, dans la
+tradition classique on a plutôt tendance à dire que le mal, c’est la manière, le mal, c’est le corps,
+c’est ce qui s’oppose, c’est ce qui résiste. C’est avec Kant qu’apparaît cette idée très curieuse
+qui, évidemment, vient du protestantisme, de la Réforme, l’idée que le mal est la chose de
+l’esprit. C’est vraiment l’intérieur de l’esprit et non pas la matière comme extérieur. C’est
+exactement ce que j’essayais de dire avec la notion de limite chez Kant: la limite ce n’est pas
+quelque chose de dehors, c’est quelque chose qui travaille du dedans. Là le mal est
+fondamentalement lié à la spiritualité. Ce n’est pas du tout comme chez Platon où s’il y a du mal,
+c’est parce que les âmes tombent, et évidemment elles s’incarnent dans un corps. Avec la
+Réforme, on prend au sérieux le Diable ; seulement prendre au sérieux le Diable, ça peut être une
+opération philosophique. Le mal ce n’est pas le corps, le mal est vraiment dans la pensée en tant
+que pensée.
+
+Question : Peux-tu donner des définitions de la causalité chez Kant ?
+
+Deleuze : Il y en a plusieurs. Première définition de la causalité c’est: la causalité, c’est la faculté
+de faire commencer quelque chose dans l’ordre des phénomènes. C’est une définition simple qui
+implique deux causalités: une causalité que Kant appelle phénoménale, à savoir que les
+phénomènes s’enchaînent les uns avec les autres, et un phénomène fait commencer quelque
+chose qu’on appellera son effet, et, seconde causalité, la causalité dite libre – parce que la
+causalité phénoménale, c’est la causalité déterminée –, et la causalité libre, c’est la faculté de
+faire commencer quelque chose dans l’ordre des phénomènes à partir de quelque chose qui n’est
+pas soi-même posé.
+
+Deuxième définition de la causalité, avant c’était des définitions nominales, deuxième définition:
+c’est le rapport entre phénomènes lorsque la succession dans leur appréhension répond à une
+règle objective. Exemple: le bateau qui descend le cours du fleuve. Là, la succession correspond
+à une règle objective par opposition à la succession dans la perception de la raison, où il n’y a
+pas de causalité. Je ne dirais pas que la partie droite détermine la partie gauche, tandis que dans
+la perception du bateau, je dirais que l’état précédent détermine l’état suivant. [Fin de la séance]

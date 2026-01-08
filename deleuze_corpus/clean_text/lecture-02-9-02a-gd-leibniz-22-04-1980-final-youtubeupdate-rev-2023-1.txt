@@ -1,0 +1,1211 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz: Philosophy and the Creation of Concepts
+
+Lecture 02, 22 April 1980
+
+Original transcription and augmented version, based on the YouTube,1 Charles J. Stivale2
+
+Part 1
+
+The last time, as we agreed, we had begun a series of studies on Leibniz that should be conceived
+as an introduction to a reading -- yours, eventually yours -- of Leibniz. So, to introduce a
+numerical clarification, I relied on numbering the paragraphs so that everything did not get
+mixed up. The last time, we created our very simple first paragraph which was a kind of
+presentation of concepts or of a certain number of Leibniz's principal concepts. Yes, as
+background to all this, there was a corresponding problem for Leibniz, but obviously much more
+general: namely, I remind you, what precisely does it mean to do philosophy. Starting from a
+very simple notion: to do philosophy is to create concepts, just as doing painting is to create lines
+and colors. Doing philosophy is creating concepts because concepts are not something that preexists, not something that is given ready made. In this sense, we must define philosophy through
+an activity of creation: creation of concepts. And this definition seemed to us perfectly suitable
+for Leibniz who, in fact, in an apparently fundamentally rationalist philosophy, is engaged in a
+kind of exuberant creation of unusual concepts of which there are few such examples in the
+history of philosophy, very few examples.
+
+And in all this first part, in which I tried to cause a certain number of concepts signed Leibniz to
+emerge, in fact, if once again concepts are the object of a creation, then one must say that these
+concepts are signed. There is a signature, not that the signature establishes a link between the
+concept and the individual that creates it, the philosopher who creates it, it’s much more: the
+concepts themselves are signatures. Fine, so, the entire first paragraph caused a certain number
+of properly Leibnizian concepts to emerge. The two principal ones that we discerned in the
+course of the previous meeting, and here, I’ll won’t be taking them up again because you will
+understand yourself, those who weren’t here, these were inclusion and compossibility. There are
+all kinds of things that are included in certain things or enveloped in certain things. Inclusion,
+envelopment.3 Then, the completely different, very bizarre concept of compossibility: there are
+things which are possible in themselves, but that are not compossible with another. There we are,
+we discerned all these concepts.
+
+Today, I would like to give a title to this second paragraph, this second inquiry on Leibniz; I
+would like to give the title, “Substance, World, and Continuity” [Deleuze repeats this]. If we
+manage to state what all that is, we’ll then see for the rest. The purpose of this second paragraph,
+its intention, is to analyze more precisely these two major concepts of Leibniz: Inclusion and
+Compossibility, what does that mean?
+
+                                                                                                     2
+
+In fact, it’s at the point where we ended the last time, we found ourselves faced with two
+problems, we found ourselves facing two Leibnizian problems. The first is that of inclusion. In
+what sense? We saw that if a proposition were true, it was necessary in one way or another – but
+I already insist on this “in one way or another” – in one way or another the predicate or attribute
+had to be contained or included not – although we could state it like this in a quick way -- not in
+the subject, but in the notion of the subject. [Pause] If a proposition is true, the predicate must be
+included in the notion of the subject. Let’s allow ourselves the freedom to accept that and, as
+Leibniz says, and if I say at that point Adam sinned, the sin, the sinner, had to be contained or
+included in the individual notion of Adam. Everything that happens, everything that can be
+attributed, everything that is predicated – this is a philosophy of predication – everything that is
+predicated about a subject must be contained in the notion of the subject. Faced with such a
+strange proposition -- about which I tried the last time to indicate certain reasons why Leibniz
+supports and proposes this, we’ll come back to this later, so for those who weren’t here the last
+time, this is isn’t terribly important; you know, we’ll come back to them in some ways – here, if
+one accepts this kind of Leibnizian gamble, one finds oneself immediately faced with problems.
+
+Specifically if any given event that concerns a specific individual notion, for example, Adam, or
+Caesar -- Caesar crossed the Rubicon, it is necessary that crossing the Rubicon be encompassed,
+contained, included in the individual notion of Caesar – fine, great, O.K., I suppose, we are quite
+ready to yes, to support Leibniz. But if we say that, fine, once again, I indeed wish to insist that
+we cannot stop: if a single thing is contained in the individual notion of Caesar, like "crossing the
+Rubicon," then it is quite necessary that, from effect to cause and from cause to effect, the
+totality of the world be included in this individual notion since, in fact, “crossing the Rubicon”
+itself has a cause that must also be contained in the individual notion, etc. etc., etc., to infinity,
+both ascending and descending. At that point, the entire Roman empire which, generally
+speaking, results from the crossing of the Rubicon, the rise of the Roman Empire, as well as all
+the consequences of the Roman Empire -- in one way or another, all of this must be included in
+the individual notion of Caesar such that every individual notion will be inflated by the totality of
+the world that it expresses. It expresses the totality of the world. There we see the proposition
+becoming stranger and stranger.
+
+And for us, there are always delicious moments in the history of philosophy, and one of the most
+delicious of these came at the far extreme of reason -- that is, when reason or rationalism, pushed
+all the way to the end of its consequences, engendered and coincided with a kind of delirium that
+was a delirium of madness. At that moment, we witness this parade, this kind of procession, a
+parade, these betrothals, in which the same thing that is the most rational, in which the most
+rational is pushed to the far end of reason is also delirium, but delirium of the purest madness.
+Thus, each individual notion – you, me, Caesar, no matter, none… here, at this level, there is
+no… it’s not because this is an historical personage, not us, that’s not it – this is valid for every
+individual notion. If it is true that the predicate is in the notion of the subject, included in the
+notion of the subject, each individual notion must express the totality of the world, and the
+totality of the world must be included in each notion. We saw that this led Leibniz to an
+extraordinary theory that is the first great theory in philosophy, the first great theory of
+perspective or point of view since each individual notion will be said to express and contain the
+world; yes, but from a certain point of view which is deeper, notably it is subjectivity that refers
+to the notion of point of view and not the notion of point of view that refers to subjectivity. This
+
+                                                                                                        3
+
+is going to have many consequences on philosophy, starting with the echo that this would have
+for Nietzsche in the creation of a so-called perspectivist philosophy.
+
+So, so, so, look, so then, the first problem is this: this first problem that I am now seeking, fine,
+in saying that the predicate is contained in the subject, as we saw the last time, we assume that
+this brought up all sorts of difficulties, specifically: can relations be reduced to predicates, can
+events be considered as predicates, etc., etc.? But let us accept that anyway. Whether the
+predicate is contained in the subject, I understand this at the extreme, that is even quickly
+understood, independently of the question of knowing if it’s true or false. But once again, this
+question is entirely devoid of meaning since truth or falsity has no relation to a system of
+concepts. So, one first has to understand Leibniz’s concepts, and once we’ve understood them, I
+believe that there’s not chance of going wrong. These are simply a strange set of concepts. We
+can find Leibniz to be wrong only starting from a different set of conceptual coordinates from
+Leibniz’s own concepts, that goes without saying.
+
+So, so, do you understand? To say that a true proposition is one for which the attribute is
+contained in the subject, we see quite well what that can mean, on what level? We indeed see
+what that might mean on the level of truths that we are going to call precisely truths of essences.
+Truths of essences, of the kind, for example, whether they’re metaphysical truths, what Leibniz
+calls metaphysical truths, concerning God, for example, or else to speak about things that will
+appeal to you more, mathematical truths. If I say 2+2=4, I can imagine -- there is quite a bit to
+discuss about that -- but I immediately understand what Leibniz meant, always independently of
+the question of whether he is right or wrong; we already have enough trouble knowing what
+someone is saying that if, on top of that, we wonder if he is wrong or if he is right, you
+understand, then there is no end to it, that makes no sense.
+
+So, each of us understand well what the means. 2 + 2 = 4 is an analytical proposition. I remind
+you that an analytical proposition is a proposition for which the predicate is contained in the
+subject or in the notion of the subject, specifically it is an identical proposition or is reducible to
+the identical. Identity of the predicate with the subject. In fact, I can demonstrate, Leibniz tells
+us, I can demonstrate through a series of finite procedures, a finite number of procedures or
+operations, I can demonstrate that [Pause] 4, by virtue of its definition, and 2 + 2, by virtue of
+their definition, are identical. [Pause] Fine. Can I really demonstrate it, and in what way?
+Leibniz, the great mathematician, tells us that he can prove this. Fine. I do not pose the problem
+of how, etc. Once again, what interests me is that, generally we understand what that means: the
+predicate is encompassed in the subject, that means that, as a result of a finite set of operations, I
+can demonstrate the identity of one and the other.
+
+ Leibniz selects an example in a text, a little text called "On Freedom." He proceeds to
+demonstrate that every number divisible by twelve is by this fact divisible by six. Every
+duodecimal number, as he says, every duodecimal number is sextuple. Notice that in the logistics
+of the nineteenth and twentieth centuries, you will again find proofs of this type that, notably,
+made Russell famous. Leibniz's proof is very convincing: he first demonstrates that every
+number divisible by twelve, that divisible by twelve – and there, he proves this very well – that
+divisible by twelve equals, is identical to those divisible by two, multiplied by two, multiplied by
+three. It's not difficult. Every number divisible by twelve equals divisible by two [multiplied by]
+
+                                                                                                      4
+
+three. On the other hand, he proves that the number divisible by six is identical to that divisible
+by two multiplied by three. It’s not easy to prove all that; that takes a lot of time, that takes…
+[Deleuze does not finish this]
+
+In that way, what did he reveal? He revealed an inclusion since two multiplied by three is
+contained in two multiplied by two multiplied by three. You’ll tell me, this is nothing. Fine, this
+is still an example that helps us understand on the level of mathematical truths that we can say
+that the corresponding proposition is analytical or identical, that is, the predicate is contained in
+the subject, namely, I can make – understand what that means; that literally means that I can
+make into an aggregate, into a series of determinate operations – here, I insist on this, a finite
+series of determinate operations – [Pause] I can demonstrate the identity of the predicate with the
+subject, or I can – which in the end comes down to the same thing -- cause an inclusion of the
+predicate in the subject to emerge. And that boils down to the same thing. I can display this
+inclusion, I can show it. Either I can demonstrate identity, or I can show inclusion.
+
+He showed the inclusion when he showed, for example, which is not an identity -- a pure
+identity, that would be: any number divisible by twelve is divisible by twelve, but you see there,
+we are in another case of truth of essence: any number divisible by twelve is divisible by six --
+this time he does not limit himself at proving an identity, he shows an inclusion resulting from a
+series of procedures, of limited, finite, well determined operations, one and then another, in this
+case, there are three. There we are, that's what truths of essence are. I can say that the analysis,
+the inclusion of the predicate in the subject is proven by analysis and that this analysis responds
+to the condition of being finite, that is, it only includes a limited number of operations, of well
+determined operations. Right? You’ll tell me… I don’t know what you’ll tell me, but finally, this
+is necessary, believe me; trust me on this, saying that it’s necessary for me to insist on all that.
+
+But when I say that Adam sinned, or that Caesar crossed the Rubicon, what is that? That no
+longer refers to a truth of essence, it's specifically dated, Caesar crossed the Rubicon here and
+now, with reference to existence, since Caesar crossed the Rubicon only if he existed. [Pause]
+Then, this occurs here and now, 2 + 2 = 4, or each thing divisible by twelve is divisible by six,
+that occurs here and now, in all time and in all places. Thus, there are grounds entirely to
+distinguish truths of that we’ll call of existence, to distinguish them from truths of essence.
+
+The truth of the proposition "Caesar crossed the Rubicon" or “Adam sinned” is not the same type
+as 2 + 2 = 4. And yet, by virtue of the principles we saw the last time, and we saw that there were
+strong reasons that pushed Leibniz to say that, no less for truths of existence than for truths of
+essence, the predicate must be in the subject and included in the notion of the subject; included
+therefore for all eternity in the notion of the subject, including for all eternity that Adam will sin
+in a particular place at a particular time. This is a truth of existence. I am saying, no less than for
+truths of essence, for truths of existence, the predicate must be contained in the subject. Granted,
+but no less, that does not mean in the same way. And in fact, as we’ve seen, and this is our
+problem, here we have the difficulty that we’ve wanted to isolate, it’s what difference, what great
+initial difference is there between truth of essence and truth of existence? Well, we sense it
+immediately; we are already capable finally of understanding it, of understanding a first great
+difference. Namely, for the truths of existence, Leibniz tells us, you know, that even there, the
+predicate is contained in the subject. The "sinner" must be contained in the individual notion of
+
+                                                                                                            5
+
+Adam, just look: as if the sinner is contained in the individual notion of Adam, it's the entire
+world that is contained in the individual notion of Adam; if we follow the causes back and if we
+track down the effects, as it's the entire world, you understand that the proposition "Adam
+sinned" must be an analytical proposition, namely, the predicate “sinner” is contained in the
+subject, only in that case, the analysis is infinite. The analysis extends to infinity.
+
+So, we ask ourselves, is Leibniz in the process of trying to pull something on us? We can’t
+exclude anything. Analysis extends to infinity, what could that even mean? In other words, that
+seems to mean this: in order to demonstrate the identity of "sinner" and "Adam," or the identity
+of "who crossed the Rubicon", “crossing the Rubicon,” and "Caesar," this time an infinite series
+of operations is required. It goes without saying that we aren't capable of that, or it appears that
+we aren't. Are we capable of making an infinite analysis? Here already we have Leibniz’s
+answer: yes, any proposition is analytical, only the propositions of existence refer to an infinite
+analysis. Is this that kind of word? Is a way to get oneself out of this? Really, is that a way of
+trying to pull something on us? In real life, then, infinite analysis, I’ll never manage that, I can’t.
+But Leibniz is quite formal: [no], you, us, men, are not able to do so. Thus, in order to situate
+ourselves in the domain of truths of existence, we have to wait for the experience. Fine, one must
+wait for the experience, but then why does he present this whole story that he just said about
+analytical truths, about analytical propositions? So, he adds: yes, but infinite analysis, on the
+other hand, not only is possible, but created in the understanding of God.
+
+Does it suit us knowing that God, he who is without limits, he who is infinite, can undertake
+infinite analysis? We're happy, we're happy for him, but at first glance, we’ve reached the point
+where we ask ourselves, what is he in the process of talking about? I emphasize only that here
+we have our initial difficulty is: what is infinite analysis? [Pause] Any proposition is analytical,
+only there is an entire domain of our propositions that refers to an infinite analysis. So, what is an
+infinite analysis? So, we are hopeful: if Leibniz is one of the great creators of differential
+calculus or of infinitesimal analysis, undoubtedly this is in mathematics, and he always
+distinguished philosophical truths and mathematical truths, and so it's not a question for us of
+mixing up everything. But it's impossible to think that, when he discovers a certain idea of
+infinite analysis in metaphysics, that there aren't certain echoes in relation to a certain type of
+calculus that he himself invented, notably the calculus of infinitesimal analysis.
+
+So, there is my initial difficulty: when analysis extends to infinity, what is it that… what type or
+what is the mode of inclusion of the predicate in the subject? In what way is "sinner" contained
+in the notion of Adam, once it is stated that the identity of sinner and Adam can appear only in
+an infinite analysis? So, what does infinite analysis mean, then, when it seems that there is
+analysis only under conditions of a well-determined finitude? How can analysis extend to
+infinity? [Pause] So, there we are. That's a tough problem.
+
+Second problem, second problem: notice that already I just distinguished a first difference
+between truths of essence and truths of existence. I’ll sum this up: In truths of essence, the
+analysis is finite; in truths of existence, the analysis is infinite. That is not the only one, for there
+is a second difference. The second difference is between a truth of essence and a truth of
+existence according to Leibniz, it’s that a truth of essence is such that its contradictory is
+impossible, that is, it is impossible for 2 and 2 not to make 4. Why? For the simple reason that I
+
+                                                                                                    6
+
+can prove the identity of 4 and of 2 + 2 through a series of finite procedures. Thus 2 + 2 = 5 can
+be proven to be contradictory and impossible whereas Adam non sinner, Adam who might not
+have sinned, I therefore seize the contradictory of sinner, non-sinner. Adam non-sinner, this is
+possible. The proof is that, following the great criterion of classical logic -- and from this
+perspective Leibniz remains entirely within classical logic -- I can think nothing when I say 2 + 2
+= 5, I cannot think the impossible, no more than I think whatever it might be according to this
+logic when I say squared circle. I cannot think 2 + 2 = 5, but I can very well think of an Adam
+who might not have sinned.
+
+Truths of existence are called contingent truths. Caesar could have not crossed the Rubicon. We
+saw at the last meeting that this was the answer, in this regard, a splendid on from Leibniz, that
+registers this second difference between truths of existence and truths of essence, and his answer
+will be, yes, certainly, Adam could have not sinned, Caesar could have not crossed the Rubicon,
+etc., etc. Adam non-sinner was possible. [Pause] Only here it is: this was not compossible with
+the existing world. An Adam non sinner enveloped another world. This world was possible in
+itself, it would have been possible, this world was possible, a world in which Adam – understand
+what Adam means: it means the first man – a world in which the first man might not have sinned
+is a logically possible world, only it is not compossible with our world. That is, God chose – here
+we are going to see a very unusual notion by Leibniz, that will be choice – in a Leibnizian
+perspective, God chose a world such that Adam sinned. In other words, Adam non-sinner
+implied another world; this world was possible, but it was not compossible with ours.
+
+So, why did God choose this world in which Adam sins and that is the source of all our
+unhappiness? Well, then, Leibniz goes on to explain it. But what I mean is that, so understand
+that at this level, the notion of compossibility becomes very strange: what is this relation, what is
+this relation of compossibility? What is going to make me say that two things are compossible
+and that two other things are incompossible? For example, if Adam hadn’t sinned, that Adam
+non-sinner belongs to another world than ours, but suddenly Caesar might not have crossed the
+Rubicon either. You’ll tell me, that makes no difference. That would have been another possible
+world. Both are not compossible. What is this very unusual relation of compossibility?
+
+Understand that perhaps this is the same question as what is infinite analysis, but it does not have
+the same outline [aspect]. And here we can derive a dream from this, we can derive a dream
+from this, so we can have this dream, we can have it on several levels. Imagine this: you dream,
+and a kind of wizard is there who makes you enter a palace; are you following me? This palace...
+– so, I am insisting because, otherwise, you won’t listen to me: I am only in the process of
+relating a famous text by Leibniz for which I’ll provide the reference later, a very beautiful text
+which is the dream of Apollodorus; he invents a dream at random -- here we have Apollodorus
+going to see a goddess, and this goddess leads him into the palace, and looking more closely, this
+palace is composed of several palaces. Leibniz loved that, boxes containing boxes. In a really
+beautiful text what we are going to read, he explained, we’ll see, he explained that in the water,
+there are many fish and that in the fish, there is water, and in the water of these fish, there are
+little fish of fish. It's always infinite analysis. The image of the labyrinth hounds him. He never
+stops talking about the labyrinth of continuity, the labyrinth of continuity.
+
+                                                                                                       7
+
+Fine, so there we are, he is led toward a palace, and I realize that this palace is composed of
+palaces, and it has the form of a pyramid, the point up above, and it is endless. And I notice that
+each section of the pyramid constitutes a palace. Then, I look closer and, there inside, it’s exactly
+like aquariums piled on each other; I come closer, and in these aquariums, there are thousands of
+little fish. And I look closer, and this is strange, [Pause] in the highest section of my pyramid,
+closest to the point, I see a character who is doing something. Right underneath, I see the same
+character who is doing something else in another location. Even underneath him, notice, as if all
+sorts of theatrical productions were playing, and yet completely different ones were playing
+simultaneously, in each of the palaces, with characters that have common segments. Where does
+that come from, these common segments? This is a famous text, a huge book by Leibniz called
+Theodicy, namely, God’s justice, divine justice.
+
+And there we are, at each level, you understand, what he means is that at each level, this is a
+possible world. God chose to bring into existence the extreme world closest to the point of the
+pyramid. How was he guided in making that choice? We shall see, we must not hurry since this
+will be a tough problem, what the criteria are for God's choice. But once we've said that he chose
+a particular world, this world implicated Adam sinner; in another world, either one can imagine
+Adam sinning, all that is simultaneous; in this version of the dream, everything is simultaneous:
+there is Adam sinning, but sinning in an entirely different way. [One can] imagine a variant,
+these are variants, so there, these are very interesting variants, or else one can conceive of not
+sinning at all. Each time there is a world; all these worlds are unfolding simultaneously.
+something else. Each of them is possible. They are incompossible with one another, only one can
+pass into existence.
+
+And all of them attempt with all their strength to pass into existence. The vision that Leibniz
+proposes of the creation of the world by God becomes very stimulating. There are all these
+worlds that are in God's understanding, and each of which on its own presses forward pretending
+to pass from the possible into the existent. They have a weight of reality, as a function of their
+essences. As a function of the essences they contain, they tend to pass into existence. And this is
+not possible. Why? Because all these worlds are possible, each for itself, but they are not
+compossible with each other. Hence, existence is like a barricade (barrage). A single
+combination will pass through. Which one? You already sense Leibniz's splendid response: it
+will be the best one! What does “the best one” mean? Perhaps not the best one by virtue of a
+moral theory, but by virtue of a theory of games. And it's not by chance that here as well, Leibniz
+is one of the founders of statistics and of the calculus of games. Fine, so then, all that will get
+more complicated.
+
+So then, what can we derive from this? What is this relation of compossibility? I just want to
+point out that a famous author today is Leibnizian. As concerns the question, what is this about
+then? As I was saying the last time, what does it mean for someone, for example, in 1980 to be
+able to say “I am Leibnizian”, or if he doesn’t say it, it’s all the same since we all know it. So,
+what can that mean? What can it mean for someone today to say “I am Hegelian” or “I’m
+Spinozist”? I think that always means two things, one not very interesting and one very, very
+interesting. If I return to what I was saying the last time rather quickly about the relation of the
+philosophical concept with the scream, I said that, to some extent, the concept is precisely in a
+special relationship with the scream.
+
+                                                                                                       8
+
+So, then, I am saying, there is an uninteresting way to be Leibnizian or to be Spinozist today,
+almost by job necessity; fine, there are people working on an author, but in fact, that settles
+nothing. I don’t mean that this is bad because working on an author assumes that there are
+reasons, why this author rather than another, why does this particular one, why does this
+particular commentator feel at ease commenting about one philosopher rather than another? But
+there is another way of being or of making use of a philosopher. Fine, these are guys… This
+time, it’s almost non-professional. And what I find amazing for philosophy is when a nonphilosopher discovers a kind of familiarity that I can no longer call conceptual, but immediately
+seizes upon a kind of familiarity between his very own screams and the concepts of the
+philosopher. He doesn’t need to be a philosopher for that. He could be, though; he could be a
+philosopher. For example, I am thinking of a letter late in Nietzsche’s life, Nietzsche who,
+nonetheless, had read Spinoza early on and who says, in this letter, he says, “I just re-read
+Spinoza, I can't get over it! I can't get over it! I’ve finally understood, I’ve understood. This is
+my guy. I have never had a relation with a philosopher like the one I have had with Spinoza.”
+
+And that interests me all the more when it's from non-philosophers. When a novelist like the
+British novelist [D.H.] Lawrence expresses in a few words the way Spinoza overwhelmed him
+completely, there we have something interesting because he doesn’t become a philosopher over
+that, thank God. What did he grasp? What does that mean? When Kleist discovers himself, he
+stumbles across Kant, he literally can't get over it. What is happening here? What is that kind of
+communication? I mean that this kind of communication, if it can occur between a great poet or a
+great literary writer and a philosopher, it can occur as well, it seems to be, between someone
+without much cultural background (inculte) and a philosopher. I believe that Spinoza shook up
+many readers, for example, with limited cultural background. It’s very odd.
+
+So, I am saying, let’s consider… since we are talking about Leibniz, what could all this mean?
+There’s an author who is well known today, an Argentinean, named Borges – how is that
+pronounced in … [French]? [A student answers him] Borges? … between the two, it’s not
+pronounced either one way or the other -- anyway, you see that this author is, after all, an
+extremely learned author who read widely. But having read widely, you see his outlines, there
+we have him always talking about two things: the book that does not exist [end of the tape: that
+should be treated as a book that exists, that is going to be written and told as an existing book,
+and the labyrinth. He has no trouble showing that they are the same thing, that the non-existent
+book that exist and the labyrinth are the same. And, I am saying something obvious here:
+throughout his entire works, Borges is fundamentally and deeply Leibnizian. It’s true in all his
+writing, but yet again, I take an example that I refer to you because this gives Borges a [modern]
+aspect, a kind of police tale.] He loved police stories, Borges, but so did Leibniz. In a book by
+Borges titled Ficciones, you find there is a short story called, a lovely title, "The Garden of
+Forking Paths," a beautiful text. So, I’ll quickly read a few passages; I’ll summarize the story: we
+have a Chinese spy… You’ll see, you can, you recall, keep in mind the dream from earlier, the
+dream from the Theodicy, the famous dream from the Theodicy.4
+
+Well, there you go, this time, it's a Chinese spy working for the Germans. [Pause]… -- No, I'm
+wrong. It’s not that one. [Laughter]… Is that the one? Ah, no, no, I don't know anymore ... Yes,
+yes, yes, yes, it’s this one. Yes -- So a Chinese spy who works for the Germans. He is pursued by
+an Irishman who wants to do him in. – You’re following me, right? - He knows he’s done for.
+
+                                                                                                    9
+
+Why does he know this? You know, we are interested in this because it was foreordained, it was
+foreordained. Fine. It’s inscribed in his individual notion that the Irishman will do him in. He
+tells himself, “oh well, I can save maybe ten minutes, fifteen minutes, two hours, a day, but that's
+it.” He runs away, and he arrives at a house. Someone opens the door for him and says, "Well,
+what a coincidence, I'm a Sinologist." So, he comes in, and the Chinese spy says to him, "But,
+you know, my great ancestor, you must know him, my great Chinese ancestor is the one who is
+famous both for building a maze that has never been found and for having written an infinite
+book that’s never been found”. You see, this is Borges’s perpetual theme, the infinite book and
+the labyrinth, and I’m adding, the infinite book and the labyrinth of continuity. There we are.
+
+So, they talk, they talk, and the Sinologist explains to him, saying, "I’ve understood what your
+ancestor wanted to do. No one has found the labyrinth; no one has seen the book, but I’ve
+understood this quite well." [Deleuze quotes Borges and reads] "I thought of a maze of mazes, of
+a sinuous, ever-growing labyrinth, which would take in both past and future and would somehow
+involve the stars” (Ficciones p. 94). Fine, we can see, there is no need really to try too hard. This
+is the same signature; it's signed Borges, but it's signed Leibniz as well; but I can find sentences
+exactly like that in the Theodicy. It is "The Garden of the Forking Paths".
+
+So, what is "The Garden of Forking Paths"? Well, [Pause; Deleuze prepares to read again]:
+“The book is a shapeless mass of contradictory rough drafts. I examined it once upon a time. The
+hero dies in the third chapter, while in the fourth he is alive" (Ficciones, p. 96) [Pause] "I
+received a letter fragment" -- the Sinologist is still speaking; according to this fragment, [which]
+was written by the old philosopher -- “’I leave to various futures, but not to all, my garden of
+forking paths.’ I had no sooner reader this than I understood. understood almost immediately.
+‘The Garden of Forking Paths’ was the chaotic novel itself [of the old Chinese man]. The phrase
+‘to various futures’” – “’I leave to various futures, [but not to all], my garden of forking paths’”
+-- “the phrase ‘ to various futures, [but not to all]’ suggested the idea of the bifurcating in time,
+not in space. Rereading the whole work confirmed this theory. In all fiction" --- this is the
+essential passage -- "In all fiction, when a man is faced with alternatives, he chooses one at the
+expense of others." -- For example, if someone dies, well, he dies; we adopt, we choose this
+hypothesis. -- "In [the fiction of] the almost unfathomable Ts'ui Pên" -- he is the Chinese
+ancestor -- "he chooses – simultaneously – all of them” -- he adopts them all simultaneously --
+"He thus creates various futures, various times which start others that will also in their turn
+branch out and bifurcate … This is the cause of the contradictions in the novel. Fang, let us say,"
+[Deleuze repeats to himself] "Fang, let us say, has a secret. A stranger knocks at his door. Fang
+makes up his mind to kill him" – in parentheses, this is the same situation as the one the story is
+in the process of the process of telling -- "Fang makes up his mind to kill him. Naturally, there
+are various possible outcomes: [Deleuze says "colon"] Fang can kill the intruder; the intruder can
+kill Fang; both can be saved; both can die, and so on, and so on. In [the great] Ts'ui Pên’s work,
+all the possible solutions occur; each one being the point of departure for other bifurcations"
+(Ficciones, p. 98).
+
+Fine. This is absolutely Leibniz’s world; the is the world of compossibilities. But is this really so
+astonishing, after all? The idea of the Chinese philosopher being involved with the labyrinth is an
+idea of Leibniz's contemporaries, appearing in mid-17th century. There is a famous text by a
+philosopher contemporary with Leibniz, namely Malebranche that is a discussion with the
+
+                                                                                                    10
+
+Chinese philosopher, with some very odd things in it.5 Leibniz also quotes Confucius quite often,
+he quoted him a lot; he’s fascinated by the Orient. Whereas Borges imitates all that, he really
+made a kind of copy that conformed to Leibniz's thought with an essential difference; notice the
+difference between Borges and Leibniz, and there’s only one: for Leibniz – but I’m afraid that it
+might be Borges who is right – for Leibniz, all the different worlds, all the different worlds in
+which sometimes Adam is sinning in one way, sometimes sinning in another way, sometimes not
+sinning at all, etc., this entire infinity of worlds exclude… [End of the cassette; the following text
+is from the Web Deleuze recording] each other, they are incompossible with each other, such that
+they conserve a very classical principle of disjunction: it's either this world or some other one.
+Whereas Borges places all these incompossible series in the same world, allowing a
+multiplication of effects. Leibniz would never have allowed incompossibles to belong to a single
+world.
+
+Part 2
+
+Why? I am just stating – end of Web Deleuze text] our two difficulties: the first one is: “what is
+an infinite analysis?”, and the second is how do our two labyrinths, the labyrinth of infinite
+analysis and the labyrinth of compossibility, “what is this relationship of incompossibility?”
+since, once again, most of the commentators on Leibniz, to my knowledge in any case, in the
+long run attempt, in a more or less complicated way, to link compossibility in a simple principle
+of contradiction. They conclude finally that there would be a contradiction between Adam non
+sinner and our world. But Leibniz's evidence (la lettre) already appears to us, the evidence of
+what he is writing, such that this would not be possible. It's not possible since, once again, Adam
+non sinner is not contradictory, is not contradictory in itself and the relation of compossibility is
+absolutely irreducible to the simple relation of logical possibility. So, trying to discover a simple
+logical contradiction would be once again to situate truths of existence within truths of essence.
+Here, I don’t think one can… Henceforth it's going to be very difficult to define compossibility.
+
+So, we are still remaining within this paragraph on substance, the world, and continuity, I would
+like to ask the question, what is infinite analysis? I ask you here, today I am asking you to remain
+extremely patient. All this will then become clearer because I am returning to a topic I mentioned
+at the last meeting, namely: one has to be extremely wary of Leibniz's texts because these texts
+are always adapted to correspondents, to a given audience, and if I again take up his dream, I
+must change it, and a variant of the dream, even within the same world, would result in levels of
+clarity or obscurity such that the world might be presented from one point of view or another. As
+a result, for Leibniz's texts, we have to know, once again, to whom he addresses them in order to
+be able to judge them.
+
+Here is a first kind of text by Leibniz in which he tells us that, in any proposition, the predicate is
+contained in the subject. Only it is contained either in act -- actually -- or virtually. The predicate
+is always contained in the notion of the subject, but this inherence, this inclusion, this inherence
+is either actual or virtual. Notice that we would like to say that all this works fine. Let us agree
+that in a proposition of existence of the type Adam sinned, Caesar crossed the Rubicon, the
+inclusion is only virtual, specifically sinner is contained in the notion of Adam, but is only
+virtually contained. Fine.
+
+                                                                                                      11
+
+Second kind of text: the infinite analysis in which sinner is contained in the notion of Adam is an
+indefinite analysis, [Pause] it’s indefinite, that is, I can move back from sinner to another term,
+then to another term, etc., exactly as if I then have “Adam sinned” would be of the type 1 = 1/2 +
+1/4 + 1/8, etc., etc., etc., etc., to infinity. This would result in a certain status: I would say that
+infinite analysis is virtual analysis, an analysis that goes toward the indefinite. There are texts by
+Leibniz saying that, notably in the Discourse on Metaphysics, but in the Discourse on
+Metaphysics, Leibniz presents and proposes the totality of his system for use by people with little
+philosophical background.
+
+I choose another text that thus seems to contradict the first. In a text reserved for a more use, the
+text, "On Freedom," Leibniz uses the word "virtual," but quite strangely; it’s not regarding – and
+here I am committed to this text because it allows us at least to denounce false interpretations –
+for he uses the word “virtual”, but he does not use this word regarding truths of existence; he
+uses it regarding truths of essence. This text is already sufficient for me to say that it is not
+possible for the distinction truths of essence-truths of existence to be reduced to saying that in
+truths of existence, inclusion would only be virtual, since virtual inclusion is one case of truths of
+essence. In fact, you recall that truths of essence refer to two cases, there are two cases of truths
+of essence: the pure and simple identity in which we demonstrate the identity of the predicate
+and the subject, and the discovery of an inclusion of the type – I’ve given an example -- every
+number divisible by 12 is divisible by 6; I demonstrate or show the inclusion of 2 multiplied by 2
+multiplied by 3… no, 2 multiplied by 2 within 2 multiplied by 2 multiplied by 3, I demonstrate
+the inclusion in the wake of an operation, a series of finite operation. And it is for the latter case
+that Leibniz says: I have discovered a virtual identity. Thus, it is not enough to say that infinite
+analysis is virtual.
+
+Can we say that this is an indefinite analysis? No, because an indefinite analysis would be the
+same as saying that it's an analysis that is infinite only through my lack of knowledge, that is, I
+cannot reach the end of it. Henceforth, God himself then, God with his understanding, the
+understanding of God, God would reach the end. Is that it, that it does not have a limited
+consciousness, isn’t subordinate to limited conditions of consciousness? Is that what Leibniz
+meant? The answer is formal: here again, no, it's not possible for Leibniz to mean that because
+the indefinite never existed in his thinking. I believe that here, there are notions that are
+incompatible, anachronistic. Indefinite is not one of Leibniz's gimmicks [trucs]. Nothing in
+Leibniz’s texts can be interpreted starting from the notion of the indefinite. [Pause]
+
+What is the indefinite, rigorously defined? What differences are there between indefinite and
+infinite? The indefinite is the fact – I am providing a very weighty definition, it seems to me, but
+that attempts to be rigorous – it’s the fact that I must always pass from one term to another term,
+always, without stopping, but without the following term at which I arrive pre-existing. It is my
+own procedure that consists in causing creation. If I say 1 = 1/4 + 1/8, etc. …, we must not
+believe that this "etc." pre-exists, it's my procedure that makes it appear each time, that is, the
+indefinite exists in a procedure through which I never stop pushing back the limit that I confront.
+Nothing pre-exists. It's what Kant will express later; to my knowledge, Kant will be the first
+philosopher to give a status to the indefinite, and this status will be precisely that the indefinite
+refers to an aggregate that is not separable from the successive synthesis that runs through it, it’s
+
+                                                                                                     12
+
+not separable from the successive synthesis that runs through it, that is, the terms of the indefinite
+series do not pre-exist the synthesis that goes from one term to another. Fine.
+
+Leibniz is not familiar with that, and moreover, to him, the indefinite seems purely conventional
+or symbolic – why? Because if there is something… If we try to say, what creates the family
+resemblance of 17th century philosophers, there is an author who stated this quite well when he
+devoted himself… He didn’t spend much time on it, but it was [Maurice] Merleau-Ponty.
+Merleau-Ponty has a beautiful expression; He wrote a small text on 17th century classical
+philosophies, so-called classical philosophies,6 and he tried to characterize them in a lively way,
+and said that what is so incredible in these philosophers, and about which this was kept entirely,
+completely secret, is an innocent way of thinking starting from and as a function of the infinite.
+That's what the classical century is, an innocent way of thinking starting from the infinite. I
+would ask, why does this phrase by Merleau-Ponty seem very, very intelligent? Because this is
+much more intelligent than to tell us that it's an era in which philosophy is still confused with
+theology, because it’s stupid to say that. One must say that if philosophy is still confused with
+theology in the 17th century, it's precisely because philosophy is not separable at that time from
+an innocent way of thinking as a function of infinity.
+
+And what is the infinite? What differences are there between the infinite and the indefinite? It's
+this: the indefinite is virtual; in fact, the following term does not exist prior to my procedure
+having constituted it. It’s of the virtual. What does that mean? The infinite is actual, there is no
+infinite except in act. So, there can be all sorts of infinites. Think of Pascal. [Deleuze makes a
+brief, indistinct comment aside] It's a century that, precisely due to having an innocent way of
+thinking as a function of the infinite, will not stop distinguishing orders of infinities, and the
+thought of orders of infinity is fundamental throughout the 17th century. And they’ll have to wait
+a long time; It will fall back on our heads, this thought, it will fall back onto us at the end of the
+19th and 20th centuries precisely with the theory of so-called infinite aggregates. With infinite
+sets, we rediscover something that worked, but from the bottom – we discover it on other bases,
+fine – but something is discovered that works in the depths of at the basis of classical philosophy,
+notably the distinction of orders of infinities.
+
+And who are the great names in this research on orders of infinites? These are some great names
+in Classical philosophy, this obviously includes Pascal, it’s obviously Pascal. It’s Spinoza with a
+fundamental text that is the famous letter on infinity in which he distinguished all sorts of orders
+of infinity,7 and it’s Leibniz who would subordinate an entire mathematical apparatus to the
+analysis of the infinite and orders of infinities. Specifically, in what sense can we say that an
+order of infinities is greater than another? What does that mean, an infinite that is greater than
+another infinite, etc., etc.? An innocent way of thinking starting from the infinite, but not at all in
+a confused way since all sorts of distinctions are introduced.
+
+And I am saying, Leibniz’s analysis, in the case of truths of existence, it’s obviously infinite. It is
+not indefinite. Thus, when he uses the words virtual, when he uses more of them, there is a
+formal text, there is a formal text that supports this interpretation that I am trying to sketch, it's a
+text taken from "On Freedom" in which Leibniz says exactly this: "When it is a matter of
+analyzing the inclusion of the predicate sinner in the individual notion Adam, [Pause] God
+certainly” – here, I’m quoting by heart, almost by heart, from Leibniz – “God certainly sees, not
+
+                                                                                                   13
+
+the end of the resolution, but the end that does not take place." Thus, in other words, even for
+God there is no end to this analysis.
+
+So, you will tell me that it's indefinite even for God? No, it's not indefinite since all the terms of
+the analysis are given. If it were indefinite, all the terms would not be given, they would be given
+little by little, they would be given in a way that I pass from a to b, from b to c, etc. They would
+not be given in a pre-existing manner. In other words, in an infinite analysis, we reach what
+result? You have a passage of infinitely small elements one to another, you pass from an
+infinitely small element to another infinitely small element, the infinity of infinitely small
+elements being given. Of such an infinity, we will say that it is actual, not virtual, since the
+totality of infinitely small elements is given. You will say to me, well then, we can then reach the
+end! No, by its nature, you cannot reach the end since it's an infinite aggregate. The totality of
+elements is given, and you pass from one element to another, and thus you have an infinite
+aggregate of infinitely small elements. You pass from one element to another: you perform an
+infinite analysis, that is, an analysis without end, neither for you nor for God.
+
+So, in what way does this analysis… and what do you see if you perform this analysis if you are
+God? Let us assume that there is only God that can do it, you make yourself the indefinite
+because your understanding is limited, but as for God, he makes infinity. He does not see the end
+of the analysis since there is no end of the analysis, but he performs the analysis. Furthermore, all
+the elements of the analysis are given to him in an actual infinity. You see? So that means that
+sinner is connected to Adam. Notice how simple this becomes. Sinner is an element; I am calling
+sinner an element. It is connected to the individual notion of Adam by an infinity of other
+elements actually given. Fine, agreed, it's precisely the entire existing world, specifically all this
+whole compossible world that has passed into existence. So, we are reaching something here;
+have just a bit more patience, and everything will become quite clear.
+
+So, follow me: what does that mean, “I’m performing the analysis”? I pass from what to what? I
+pass from Adam sinner to Eve temptress – this is another element -- from Eve temptress to the
+evil serpent, to the apple, fine, all these are my elements. Well, well, well, good. It's an infinite
+analysis, and it's this infinite analysis that shows the inclusion of sinner in the individual notion
+Adam. It appears we’re not moving forward. What does that mean, the infinitely small element?
+Why is sin an infinitely small element? Why is the apple an infinitely small element? Why is
+crossing the Rubicon an infinitely small element? You understand? What does that mean, an
+infinitely small element? There are no infinitely small elements. So, what does that mean, an
+infinitely small element? An infinitely small element means obviously -- we don't need to say it,
+we’ve understood everything -- it means an infinitely small relation between two elements. It is a
+question of relations, not a question of elements.
+
+In other words, an infinitely small relation between elements, what can that be? What have we
+achieved in saying that it is not a question of infinitely small elements, but of infinitely small
+relations between two elements? And you understand that if I speak to someone who has no idea,
+for example, of differential calculus, you can tell him it's infinitely small elements. Leibniz was
+right. If it's someone who has a very vague knowledge, I can tell him, oh well, no, you
+understand, right? Notice, I’m creating simultaneity here as well. Ah, no for you, you have to,
+you must not understand an infinitely small element; you have to understand infinitely small
+
+                                                                                                    14
+
+relations between elements, between finite elements. If it's someone who is very knowledgeable
+in differential calculus, I can perhaps tell him something else.
+
+So, where have we reached? Infinite analysis that goes on to demonstrate the inclusion of the
+predicate in the subject at the level of truths of existence, does not proceed by the demonstration
+of an identity. It does not proceed by… so here, we have reached something: it does not proceed
+by the demonstration of an identity, even a virtual one. That’s not it. Leibniz expresses himself in
+this way so that he can get away when someone doesn’t understand what he means. But, then, in
+another drawer, he has another expression to give you: so, what is it? Identity governs truths of
+essence, but does not govern truths of existence; all the time he says the opposite, but that has no
+importance. Ask yourself to whom he says it. So then, what is it? What interests him at the level
+of truths of existence is not identity of the predicate and the subject, it's rather that one passes
+from one predicate to another, from one to another, and again on from one to another, etc.... from
+the point of view of an infinite analysis, that is, from the maximum of continuity. In other words,
+it's identity that governs truths of essence, but it's continuity that governs truths of existence.
+
+And what is the world, a world? A world is defined by its continuity. What separates two
+incompossible worlds? It's the fact that there is discontinuity between the two worlds. What
+defines a compossible world? It's the continuity of which it is capable. What defines the best of
+worlds? It's the most continuous world, and God chooses. The criterion of God's choice will be
+continuity, namely, of all the worlds incompossible with each other and possible in themselves,
+God will cause to pass into existence the one that realizes the maximum of continuity. Fine. Why
+is Adam's sin included in the world that has the maximum of continuity? We have to believe that
+Adam's sin is a formidable connection, that it's a connection that assures continuities of series.
+Why, for example, is there a direct connection between Adam's sin and the Incarnation and the
+Redemption by Christ? So, here, there are something like series that are going to begin to fit into
+each other across the differences of time and space; there are series that are going to interlock
+very, very strangely.
+
+In other words, in the case of truths of essence, I demonstrated an identity in which I revealed an
+inclusion; in the case of truths of existence, I am going to witness a continuity assured by the
+infinitely small relations between two elements. Two elements will be in continuity when I will
+be able to assign an infinitely small relation between these two elements. You will ask me, how
+are you going to do that, assign an infinitely small relation between two elements? What does
+that mean then, an infinitely small relation? One has to… I have passed from the idea of an
+infinitely small element to the infinitely small relation between two elements, [but] that's not
+adequate, an infinitely small relation. We must not abandon Leibniz. What does that mean, an
+infinitely small relation between two elements? It doesn’t mean anything. A greater effort is
+required.
+
+That means, let’s assume, that means a difference; since there are two elements, there is a
+difference between the two elements: between Adam's sin and Eve’s temptation, there is a
+difference, granted, there is a difference. Only, there we are, what is the formula of the
+continuity? What is continuity? Continuity would be, and we could define it as the act of a
+difference in so far as it tends to disappear. Continuity is an evanescent difference (différence
+évanouissante). Notice, this is a new concept from Leibniz, the evanescent difference.
+
+                                                                                                  15
+
+What does it mean that there is continuity between the seduction by Eve and Adam's sin? It
+means that the difference between the two is an evanescent difference, a difference that tends to
+disappear. So, you’ll tell me, that’s not working out so well; we’re reconnected with what? Here,
+there is a new concept, evanescent difference. So I would say that, for the moment, before the
+final effort that we have to furnish today, that truths of essence are governed by the principle of
+identity, truths of existence are governed by the law of continuity, or evanescent differences, and
+that comes down to the same. Thus between sinner and Adam, you will never be able to
+demonstrate a logical identity, but you will be able to demonstrate -- and the word demonstration
+will change meaning --, you will be able to demonstrate a continuity, that is, one or several
+evanescent differences. [Pause] If we succeed in understanding this just a small bit, we succeed
+in everything. We have succeeded in approaching the first problem, what infinite analysis is. An
+infinite analysis is an analysis of the continuity (continu) operating through evanescent
+differences. [Pause]
+
+Having considered this, retain all of it in a corner of your mind, and what remains is: what does
+this mean, continuity, evanescent differences? All of you sense that, in fact, this refers to a
+certain symbolic, a symbolic of differential calculus or of infinitesimal analysis. But it's at the
+same time – here, this is precisely the case of a creation taking place twice, simultaneously – it’s
+at the same time that Newton and Leibniz bring forth differential calculus. And the interpretation
+of differential calculus by the categories of evanescent differences is Leibniz's very own. In
+Newton's works, the interpretation of calculus, whereas both of them, truly here, invent it at the
+same time, the logical and theoretical armature is very different in Leibniz's works from
+Newton's, and the theme of the infinitely tiny difference conceived as… or at least, the
+differential conceived as evanescent difference, this is properly belonging to Leibniz, and
+Leibniz is enormously committed to this, and there is a great polemic between Newtonians and
+Leibniz.
+
+So, our question here becomes narrower: what is this tale of evanescent difference? -- Does
+anyone have any chalk? I feel an urgent need for chalk, a little nub of chalk [Inaudible replies]
+There is some there? Ah good, good, good. I was hoping at the same time that you’d say there
+wasn’t any! [Laughter]… And does anyone have an eraser? [Various noises] If there’s no eraser,
+I cannot… Ah good, we have everything. -- So, listen up. You see this small symbol – I am
+speaking here really for those people who… You don’t need to know anything, at all, at all, at
+all. So here is this little symbol that you have encountered in the dictionary. [Pause; Deleuze
+speaks to someone nearby him] Well, no, I’m in favor; I’m in favor; if you’ve all had enough and
+are leaving, I’d prefer that you do so all at once, in a group… [A student: How about a break?
+Five minutes?] You are tired, before… So, I am staying up here like this… [Laughter]
+
+A minute more before we rest; I am simply saying, what does differential calculus mean, this
+calculus that pretends to handle the infinitely small? You will say to me: today, today, today,
+what’s going on? Differential equations today are fundamental. There is no physics without
+differential equations. Even physics as a science, it existed to some extent in the seventeenth
+century, and from the Middle Ages, because there were antecedents of differential calculus; there
+was a kind of equivalent, there was calculations through exhaustion. But scientific physics only
+came to exist through calculation through exhaustion and through differential calculus. Today,
+there are so many problems because – oh, there aren’t any more, I really don’t know --
+
+                                                                                                    16
+
+Mathematically, today, differential calculus has purged itself of any consideration of the infinite,
+quite simple, but this occurred quite late, this occurred at the end of the 19th century, the kind of
+axiomatic status of differential calculus in which it is absolutely no longer a question of the
+infinite. But that occurred at the same time, and that’s not so useful for me because, since
+mathematics discovers the problem of the infinite in set theory, one cannot say that this is
+entirely resolved.
+
+But if I place myself at the time of Leibniz, what’s that like? How is differential calculus useful?
+To understand this well, there are some things that one must at all costs know, because even if
+you know nothing in mathematics, put yourself in the place of a mathematician – it’s very
+difficult for him -- what is he going to do when he finds himself faced with the magnitude and
+quantities of different powers, and equations whose variables are to different powers, I mean an
+equation of the ax2 + y type? Ax2 + y, [Deleuze draws with the chalk] you have a quantity to the
+second power and a quantity to the first power. How does one compare them? It’s rather hard.
+All of you know the story of commensurables and non-commensurable quantities. Then, in the
+17th century, the quantities of different powers received a neighboring term, incomparable
+quantities. How does one compare a quantity at the second power with a quantity at the first
+power? There’s no way to do it. The whole theory of equations collides in the 17th century with
+this problem that is a most fundamental one, even in the simplest algebra: what is differential
+calculus good for? Why did he invent it? What were they doing, these inventors, Newton,
+Leibniz?
+
+Differential calculus allows you to proceed directly to compare quantities raised to different
+powers. Moreover, it is used only for that. There is no differential calculus applies to quantities
+at the same power. Differential calculus – there is no need to understand anything of this in order
+to recall this and even to intuit this -- differential calculus finds its level of application when you
+are faced with incomparables, that is, faced with quantities raised to different powers. Why? You
+have… I come back to my example, ax2+y; let us assume that by various means, you extract
+delta x and delta y, dx and dy. dx is the differential of x, dy is the differential of y. You see?
+What is that? We will define it verbally, conventionally; we will say that dx or dy is the infinitely
+small quantity assumed to be added or subtracted from x or from y. Now there is an invention!
+The infinitely small quantity, that is, it's the smallest variation of the quantity considered. And
+whatever you say, if you say, ah good, so it’s the ten millionth, it’s still even smaller. As we say,
+it is unassignable; one must not try to assign it, it’s unassignable. By convention, it’s
+unassignable. You’ll ask me, so what is that, dx = what? Well, dx = 0; dy = what? dx = 0 in x, in
+relation to x; it’s the smallest quantity, right, from which x might vary, and that equals 0. dy = 0
+in relation to y. Understand?
+
+The notion of evanescent difference is beginning to take shape. It's a variation or a difference, dx
+or dy; it is smaller than any given or attributable [donnable] quantity. It’s the evanescent
+difference, smaller than any attributable quantity. There we are, it's a mathematical symbol; fine,
+they have other symbols. In a sense, it's crazy, in a sense it's operational. It’s operational for what
+since it’s equal to 0? Here is what is formidable in the symbolism of differential calculus: dx=0
+in relation to x, the smallest difference, the smallest increase of which the quantity x or the
+unassignable quantity y might be capable, inferior to any given quantity; it's infinitely small.
+
+                                                                                                      17
+
+Fine, agreed, dx = 0 in relation to an x, dy = 0 in relation to a y; only, miracle! dy over dx is not
+equal to zero, and furthermore: dy over dx has a perfectly expressible finite quantity. These are
+relative, uniquely relative. dx is nothing in relation to y, dy is nothing in relation to y, but then
+dy/dx is something. A stupefying, admirable, and great mathematical discovery. Good, why is
+that? How is this something? It’s surely something because you recall the example that we
+started from, ax2 + y, ax2 + by, let’s say, ax2 + by + c, for example, you have two powers from
+which you have two incomparable quantities: y2 and x. If you consider the differential relation,
+this is why the differential has no sense; there are only differential relations. The differential, by
+its nature, is dx or dy, it’s 0, completely unassignable. But the relation dy over dx is not 0; it is
+determined, it is determinable. [Pause]
+
+So, the relation dy over dx gives you the means to compare two incomparable quantities that
+were raised to different powers since it operates a depotentialization, as is said, a
+depotentialization of quantities. [Pause] So, it gives you a direct means to confront incomparable
+quantities raised to different powers. From that moment on, all mathematics, all algebra, all
+physics will be inscribed in the symbolism of differential calculus.8 There are no equations in
+physics that are not a differential equation. It’s with differential calculus, it’s odd, it’s with
+differential calculus, which is the most artificial symbolism that exists, because it consists in
+putting zeros into relation, it consists in putting absolute zeros into relation in such a way that the
+relation of these absolute zeros is undetermined and is distinguished from zero.
+
+Well then, well then, when you have access to such a marvel, it’s very odd because a completely
+artificial symbol, dx or dy, is precisely made possible, this kind of co-penetration of physical
+reality and mathematical calculus. That is, we cannot get out of this simply by saying that it’s a
+simple convention. For it’s in the conditions of this convention that the physical reality and
+mathematical calculus, each of them, become adequate to the point that phenomena of heat,
+phenomena of heat when they are discovered in the 19th century, can only be so within a set of
+differential equations.
+
+There we are, so we reach the final point, the simplest: we have to show how this works.
+Fortunately, there is a small text by Leibniz – not difficult for us, so we can understand
+everything – called, taken from Leibniz’s Mathematical Writings – so I have preferred choosing
+a text which was not philosophical – it’s three page, a small three-page note called “Justification
+of the calculus of infinitesimals” – that is, differential calculus -- “Justification of the calculus of
+infinitesimals through the calculus of ordinary algebra.” So here, I have to explain [this] to you
+because you will understand everything. It’s not that this is the basis of differential calculus; it’s
+indeed the case that Leibniz would like to show that differential calculus, well then, in a certain
+way, it inevitably already had functioned before being discovered, and that it couldn't occur
+otherwise, that couldn’t occur otherwise even at the level of the most ordinary algebra.
+
+So how will he show this? -- You want a bit of a break before this effort, or else…? A little
+break?... [Someone asks a reference question] What? oh, là, là, Mathematical Writings, vol. IV,
+p. 104, Gerhardt edition, the grand Leibniz edition; it’s obviously created by a German. It
+encompasses a great number of volume, and it’s the Gerhardt edition [Deleuze spells out the
+name]… So, it’s Mathematical Writings, vol. IV, p. 104 … [Noises from the students], 104. Fine,
+ let’s take a small break. [Interruption of the recording]9
+
+                                                                                                       18
+
+And so, and so,… [Sound of chairs and students] [Deleuze’s voice is heard at a distance from his
+chair, situated in front of the blackboard; hence, there is a pause, several indistinct comments
+between Deleuze and some students] So, you see, you see, you understand… Here is a straight
+line [Laughter] which is perpendicular to the ground; I name it – I have to maintain the same
+letters he uses; this is his drawing – I name it X, ok? A-X. I assign two points that I name large A
+and large X. This isn’t very complicated… [Some indistinct comments by Deleuze] There we are,
+I have two points, I’ve assigned two points. I consider another straight line… [Pause] that I call
+– what does he say? – well yes, it’s E=Y; I assign two points E and Y, [Some indistinct
+comments by Deleuze] [Pause] From the E-Y line, I draw starting from a point that I name
+precisely [indistinct word] a perpendicular line, to A-X; the same thing, [Pause] I draw the
+perpendicular line, to A-X; you see? [Pause] Understood? [Some indistinct comments by
+Deleuze] I call E-A [Pause], I call E-A, yes, I call the point of encounter of two straight lines, I
+call it large C, I call it C, the segment A-C.
+
+I call … [Some indistinct comments by Deleuze] I call X, the segment A-X. There we have all I
+have, I am writing C-E. I am quite aware that the two triangles – a rectangle, [indistinct word], a
+perpendicular, a right angle – that these two triangles are the similar. So, I can write C-E =
+[indistinct word] [Laughter]… small y. So, [Deleuze talks to himself while adding letters to the
+drawing] So, C-X, this is X minus C… I mean, X minus C over y [Deleuze repeats this formula],
+X minus C over y = C over [indistinct word] by virtue of the similarity of the two triangles.
+
+So, it’s quite simple. Assume now that E-Y is displaced while remaining parallel to itself
+[Deleuze repeats this phrase] [Pause] What’s going to occur? It’s easy: I can say as well that
+large E and large C tend to coincide in A, or that small e and small c tend to diminish more and
+more. [Pause] There we are. At the extreme, at the extreme, I no longer have anything but that
+figure: E has fallen into A… E, X, Y… e and c have diminished to infinity; large E and large C
+coincide in A. At that point, what happens? What happens is that c has diminished to infinity to
+the point that C coincides with A; in other words, X minus C = X, in this case. [Pause] When E
+and C coincide with A, I can write X minus C = X… [End of the cassette] [92:54]
+
+Part 3
+
+… [Deleuze talks to himself at the board, indistinctly] [Pause] C = 0, E = 0. So, I can write 0
+over 0 = X over Y. [Pause] And nonetheless, these are not absolute zeros, as he says. Why?
+Because if they were absolute zeros, then x would be equal to y, and x is not equal to y, neither
+in one case, nor in the other, since it would be contrary to the very givens of the construction of
+the problem. You have the point in the rectangle, x is not equal to y. To the extent that, for this
+case, you can write x over y = c over e, c and e are zeros. Like he says in his language, these are
+nothings, but they are not absolute nothings; they are nothings respectively; specifically, these
+are nothings, but that conserve the relational difference. Thus, c does not become equal to e since
+it remains proportional to x over y, and x is not equal to y. Fine, it’s quite simple. It’s what is
+called a justification, if you will, conforming to the title, it’s a justification of the old differential
+calculus, and the interest of this very simple text is that it's a justification through the easiest or
+most ordinary algebra, that is, this justification puts nothing into question about the specificity of
+differential calculus.
+
+                                                                                                     19
+
+So, the text is quite beautiful; I’ll read it slowly since you have already understood: [As Deleuze
+reads, he comments on nearly each of the opening sentences]: "Thus, in the present case,” – so in
+the present case, that is, if the line, if the oblique tends toward A in its displacement – “So in the
+present case, there will be x minus c = x.” – So, it coincides in A, and you have x minus c = x
+since c has cancelled itself – “You have x minus c = x; let us assume that this case” -- where
+there is a single triangle -- “is included under the general rule” -- where there were two triangles,
+you see? This is a pure supposition; that’s how it was, a conventional hypothesis -- “let us
+assume that this case is included under the general rule, and nonetheless c and e” – small c and
+small e – “will not at all be absolute nothings [Deleuze repeats these words] since together they
+maintain the reason of [large] Cx to [large] Xy” – that is, the reason of Cx, that is x [indistinct
+word] to y – “or that which is between the entire sine or radius and between the tangent that
+corresponds to the angle in c” – this is more difficult [here, Deleuze reads quite rapidly] “We
+have assumed this angle always to remain the same. For if [small] c and [small] e were
+absolutely nothings in this calculus reduced to the case of coincidence of points [large] C, [large]
+E and [large] A, as one nothing has the same value as the other, then c and e would be equal” – if
+small c and small e, listen closely, as a function of the figure, if small c and small e were
+absolutely nothings in this reduced calculation for the case of coincidence of the points [large] C,
+[large] E and [large] A – “once it’s stated that one nothing equals the other” – one nothing equals
+another nothing – “small e would equal, and the equation or analogy x over y = C over E would
+make x over y = 0 over 0 = 1, that is, we would have x = y which would be totally absurd since
+we have” – on this point, some water has fallen on my page, so I no longer know what we have,
+so I can’t read – “So, so, small c and small e…” – again, there’s a cut; that’s how manuscripts
+are, what can you do? [Deleuze makes several noises to himself while looking to find a spot to
+continue reading]
+
+Here we are: “So we find in algebraic calculus the traces of the transcendent calculus of
+differences (i.e. differential calculus), and its same singularities that some scholars have fretted
+about, and even algebraic calculus could not do without it if it must conserve its advantages of
+which one of the most considerable is the generality that it must maintain so that it can
+encompass all cases." – And the text goes on. In the end, it’s not going to furnish many
+explanations. -- “It's exactly in this way that I can consider that rest [repos] is an infinitely small
+movement” – rest is an infinitely small movement – “or that the circle is the limit of an infinite
+series of polygons the sides of which increase to infinity.”
+
+What is there to compare in all these examples? We have to consider the case in which there is a
+single triangle as the extreme case of – so here, this becomes very, very important – as the
+extreme case of two similar triangles opposed at the vertex. So, in this regard, the text is crystal
+clear. What Leibniz demonstrated in this text – he does not say it formally, but this seems
+obvious to me – what he demonstrated in this text is how and in what circumstances a triangle
+can be considered as the extreme case of two similar triangles opposed at the vertex. Perhaps you
+sense that here, we are perhaps in the process of giving to "virtual" the sense that we were
+looking for in order to arrange the aggregate of Leibniz’s texts. I could say that in the case of my
+second figure in which there is only one triangle, the other triangle is there, but it is only there
+virtually. It's there virtually since a contains virtually e and c distinct from a. Why do e and c
+remain distinct from a when they no longer exist? e and c remain distinct from a for a very
+simple reason: it’s that they intervene in a relation with it, continue to exist when the terms have
+
+                                                                                                      20
+
+vanished. [Pause] It's in this same way that rest will be considered as a special case of a
+movement, specifically an infinitely small movement. In my second figure, xy, I would say, the
+triangle… I would say – I am both choosing terms that exist there from Leibniz, but borrowing
+from another text – I would say that it's not at all the triangle large C, large E, large A; it's not at
+all the case that the triangle has disappeared in the common sense of the word, but we have to
+say both that it has become unassignable, -- this is odd, this notion of unassignable -- and
+however that it is perfectly determined since in this case, c=0, e=0, but c/e is not equal to zero.
+c/e is a perfectly determined relation equal to x/y. Thus, it is determinable and determined, but it
+is unassignable. Likewise, rest is a perfectly determined movement, but it's an unassignable
+movement. Likewise, the circle is an unassignable polygon, yet perfectly determined.
+
+You see what virtual means, once again. I would say, virtual no longer means at all the
+indefinite, and in this, all Leibniz's texts can be revived [récupérés]. He undertook a diabolical
+operation: he took the word virtual, without saying anything -- it's his right – without saying
+anything, he gave it a new meaning, completely rigorous, only he will not say it, he wouldn’t say
+it in his texts. That no longer meant going toward the indefinite; rather, it meant unassignable,
+yet also determined. And that seems to me a conception of the virtual that is both quite new and
+very rigorous. Yet the technique and concepts were required so that this rather mysterious
+expression might acquire a meaning at the beginning: unassignable yet determined. And once
+again, it's unassignable since c became equal to zero, and since e became equal to zero. So, it’s
+unassignable. And yet it's completely determined since c over e, specifically 0 over 0 is not equal
+to zero, nor to 1, it's equal to x over y. You see? Here I find moreover that he really had a
+professor-like genius, because in fact, proof that he won his bet, he was able, for example, to
+succeed in explaining to someone who never did anything but elementary algebra what
+differential calculus is. He assumed no a priori notion of differential calculus, and differential
+calculus, let me emphasize, would be something quite different, something quite different to
+manipulate.
+
+And what do I draw from this for myself? All that we needed, we didn’t need much more, was
+that the idea that there is a continuity in the world, that nonetheless takes on a starkly more
+concrete sense. It is no longer a matter of simply saying -- and here, it seems that there are too
+many commentators on Leibniz who make more theological pronouncements than Leibniz
+requires: they are content to say, well yes, infinite analysis is in God's understanding. -- And it is
+true, it is true according to the letter of his texts, this is within God’s understanding. But it
+happens we have the artifice, with differential calculus, it happens that we have the artifice not to
+make ourselves equal to God's understanding -- that's impossible of course -- but differential
+calculus gives us an artifice so that we can operate a well-founded approximation of what
+happens in God's understanding. What happens in God’s understanding so that we can approach
+it thanks to this symbolism of differential calculus, since after all, God also operates by the
+symbolic, not the same way, but it operates through symbols? certainly. Well, this approximation
+of continuity is what? It’s so the maximum of continuity is assured when a case is given, the
+extreme case or [Pause]… the extreme case or the contrary can be considered from a certain
+point of view as included in the case first defined.
+
+You define the movement, it matters little, you define the polygon, it matters little, you consider
+the extreme case or the contrary: rest, the circle that is stripped of any angle. Continuity is the
+
+                                                                                                    21
+
+institution of the path according to which, or following which the extrinsic case -- rest contrary
+to movement, the circle contrary to the polygon, whatever you want – the extrinsic case can be –
+so here, everything should become clear for you as if in a bolt of lightning – I would say,
+literally, there is continuity when the extrinsic case can be considered as included in the notion of
+the intrinsic case. He simply just showed how and why. You find exactly the expression of
+predication: the predicate is included in the subject.
+
+The extrinsic case, once again, understand well. I call “general, intrinsic case” the concept of
+movement that encompasses all movements. In relation to this first case, I call “extrinsic case”
+rest or the circle in relation to all the polygons, or the unique triangle in relation to all the
+triangles combined. I undertake to construct a differential concept that implies precisely all the
+differential symbolism, I undertake to construct a concept that both corresponds to the general
+intrinsic case and which still includes the extrinsic case. I would say here, if I succeed in that, I
+can say that in all truth, rest is an infinitely small movement, just as I say that my unique triangle
+is the opposition of two similar triangles opposed at the vertex, simply, by which one of the two
+triangles has become unassignable. At that moment, there is continuity from the circle to the
+polygon and from the polygon to the circle, there is continuity from rest to movement, there is
+continuity from two similar triangles opposed at the vertex to a single triangle.
+
+A parenthesis: all geometry, and here, believe me, especially since, as regards the State, I don’t
+know if you recall, I referred to this, I didn’t spend much time on it, I should have done so
+because it would be… When during the 19th century, in the mid-19th century, a very great
+mathematician named [Jean-Victor] Poncelet will produce, will preside over projective geometry
+in its most modern sense, he is directly Leibnizian.10 Projective geometry is entirely based
+precisely on what is called, what Poncelet and his contemporaries called an axiom of continuity
+according to which, quite simply, if you take, for example, an arc of a circle cut at two points by
+a right angle, if you cause the right angle to recede, there is a moment at which it no longer
+touches the arc of the circle except at one point, it’s the tangent, and a moment at which it leaves
+the circle, no longer touching it at any point. Poncelet's axiom of continuity claims the
+possibility, once again, of treating the case of the tangent as an extreme case, specifically it's not
+that one of the points has disappeared; it’s that both points are still there, but virtual, and when
+they all leave, it's not that the two points have disappeared, they are still there, but both are
+virtual. This is the axiom of continuity that precisely allows any system of projection, any socalled projective system. Fine, here, mathematics will emerge from this, they will maintain that
+integrally -- it's a very formidable kind of technique.
+
+Here, they have acquired the means -- but you see therefore the point at which we can almost
+complete our difficult problem; it’s funny anyhow. Well, I don’t know if you are going to be able
+to sense this, but there is something desperately comical in all that, but that will not bother
+Leibniz at all, not at all. It seems to me, there again, that commentators, they get blocked by…
+but it’s wrong for me to say this, in any case, I really don’t know, it’s very odd, very, very odd. –
+For from the start, we sink into a domain in which it's a question of showing that the truths of
+existence are not the same thing as truths of essence or mathematical truths. And to show it,
+either it's with very general propositions full of genius in Leibniz's works, but that leave us like
+that, God's understanding, infinite analysis, and then what does that amount to? And finally,
+when it's a question of showing in what way truths of existence are irreducible to mathematical
+
+                                                                                                        22
+
+truths, when it's a question of showing it concretely, all that is convincing in what Leibniz says is
+mathematical. It's funny, no? [Silence, suppressed laughter]
+
+So, what does he have? But you understand, if you understand this, you will have understood
+how, what he would reply. There we are, a professional objector would say to Leibniz –
+everything had been said to him besides; what Leibniz had to endure! – an objector would arrive
+and say to him, oh, but Leibniz, are you losing it? (ça ne va pas, la tête?) You announce to us,
+you talk to us of the irreducibility of truths of existence, and you can define this irreducibility
+concretely only by using purely mathematical notions. So, here’s what would Leibniz answer. He
+would reply – this would depend on his mood – [Laughter] he would reply, understand well,
+because this is normal because it’s quite difficult: here we have Leibniz saying often, in all sorts
+of texts, people have always had me saying that differential calculus designated a reality. He
+states, I never said that; differential calculus is a convention; simply, as he says, it’s a wellestablished convention. It’s a notion that’s already not convenient. So, Leibniz is enormously
+committed – and here, all Leibniz’s texts have been quite precise on this -- differential calculus
+being only a symbolic system, and not describing a reality, but describing a way of treating
+reality.
+
+What does that mean, a well-established convention? It's not in relation to reality that it's a
+convention, but in relation to mathematics. I mean, that's the misinterpretation not to make. First
+of all, convention. Differential calculus is a convention, it’s symbolism, but in relation to what?
+It's symbolism in relation to mathematical reality, not at all in relation to real reality. It's in
+relation to mathematical truth that the differential system, that differential calculus is a fiction.
+He also used the expression "well-established fiction." It’s a well-established fiction in relation
+to the mathematical reality. In other words, differential calculus mobilizes concepts that cannot
+be justified from the point of view of classical algebra, that’s obvious, or from the point of view
+of arithmetic, that’s obvious. Quantities that are not nothing and that equal zero, it's arithmetical
+nonsense. So, it has neither arithmetic reality, nor algebraic reality. It's a fiction.
+
+So, in my opinion, it does not mean at all that differential calculus does not designate anything
+real; he would have said so. It means that differential calculus is irreducible to mathematical
+reality. It's therefore a fiction in this sense, but precisely in so far as it's a fiction, it can cause us
+to think of what exists [l’existant], insofar as it’s a fiction in relation to mathematical reality. It
+can cause us to think of what is irreducible to mathematical reality, namely what exists
+[l’existant] in its reality. In other words, differential calculus is a kind of union of mathematics
+and what exists [l’existant], specifically it's the symbolic of what exists [l’existant], and it's
+because it's a well-established fiction in relation to mathematical truth that it is henceforth a basic
+and real means of exploration of the reality of existence. [Pause] Henceforth, you see what the
+word "evanescent" means, since it was my point of [departure]. “Evanescent difference" is when
+the relation continues whereas the terms of the relation have disappeared. The relation c over e
+whereas large C and large E have disappeared, that is, coincide with A. You have therefore
+constructed a continuity through differential calculus.
+
+And here, Leibniz becomes much stronger in order to tell us: there we are, understand that in
+God's understanding – here then, he can really recreate theology with [indistinct word] – he can
+tell us, understand, in God’s understanding, between the predicate sinner and the notion of
+
+                                                                                                   23
+
+Adam, well, there is a continuity. There is a continuity by evanescent difference to the point that
+when it created the world, God was only doing calculus [ne fait que calculer]. And what a
+calculus! Obviously not an arithmetical calculus, [Leibniz] has no need to say this. So, on this
+point, he will oscillate as well; he will oscillate between two explanations.
+
+In short, God created the world by calculating. There is a famous expression by Leibniz, in
+Latin; in Latin it’s prettier; it’s much prettier, but in French, you prefer it in French, it’s not so
+bad: God calculates, the world is created; God calculates, the world is created. There we are,
+admire the necessity, I believe, of mixing up everything in philosophy if you sufficiently like
+philosophy. The idea as God as player – and this is painful in the texts sometimes because there
+are too many mixtures (mélanges) -- the idea of God as player [joueur] can be found everywhere.
+If you say, “God created the world by playing/gambling”, everyone says that. It's not very
+interesting, fine; one can always say it, but that’s been said constantly. And it doesn’t even mean
+the same thing. When someone tells you, “The world is only one of God’s games”, “God created
+the world by playing/gambling”, you must not let him/her go, someone offering to you such an
+important secret. You must not let him/her go; you have to ask, “But which game?” Games do
+not resemble one another.
+
+There is a famous text by Heraclitus; so here, we can still discuss this because when it’s small
+segments of sentences, then it is a question of the child player who really constitutes the world.
+He plays, at what? What do the Greeks and Greek children play? What do they play? So, there
+are editions that say, “backgammon” (au tric-trac); there are other editions of Heraclitus that say
+“at palace”, “palace”, it’s another game, fine. They can say that, but Leibniz would not say that.
+What is he saying when he says “God…” – What time is it? [A student answers] One o’clock?
+Oh, là, là! You must be beat! Well, I’m almost done – Leibniz wouldn’t say that.
+
+When he gives his explanation of games, he chooses two explanations. – You are going to see
+why this concludes our work today – He proposes… He had found lots of stuff (trucs) in an area,
+a small, yet completely complicated area of mathematics. The area of mathematics is the
+problems of paving, sitting astride mathematics and architecture. The problems of paving are not
+insignificant, these problems; this ought to be of interest to everyone, the problems of paving. A
+surface being given, with what shape is one to fill it completely? Moreover, then, there’s a more
+complicated problem: if you take a rectangular surface and you want to tile it with circles, you do
+not fill it completely. With squares, do you fill it completely? That depends on the measurement.
+With rectangles? With equal or unequal rectangles? The problem gets more complicated: if you
+suppose two shapes, which of them combine to fill a space completely? If you want to pave with
+circles, with which other shape will you fill in the empty spaces? That’s very interesting; one can
+plan these things ahead, there are formulae, there are lots and lots of things. Or you agree not to
+fill everything; you see that it's quite connected to the problem of continuity. But, if you decide
+not to fill it all, in what cases and with which shapes and which combination of different shapes
+will you succeed in filling the maximum possible? That puts incommensurables into play and
+puts incomparables into play, all that. That’s [Leibniz’s] passion, the problems of paving.11
+
+When Leibniz says that God causes to exist and chooses the best of possible worlds, we have
+seen what he was in the process of… There, we will see that later because it’s so complicated,
+but already we have, we’re getting ahead; we understand Leibniz before he has spoken now
+
+                                                                                                     24
+
+because what is he in the process of saying, the best of possible worlds? That was the crisis of
+Leibnizianism, that was the reversal, the generalized anti-Leibnizianism of the 18th century.
+They could not stand the tale of the best of possible worlds. Voltaire and all of them were
+correct, Voltaire was right. That is, they had arrived with a philosophical requirement that
+obviously was not fulfilled by Leibniz, notably from the political point of view. So, they could
+not forgive Leibniz.
+
+But Leibniz, if one launches oneself into a pious approach, what did Leibniz mean by the world
+that exists is the best of possible worlds? He meant something very simple: as there are several
+worlds possible, they are simply not compossible with each other; God chooses the best, and the
+best is what? It’s not the one in which suffering is the least. Rationalist optimism is at the same
+time an infinite cruelty, it's not at all a world in which no one suffers; it's the world that realizes
+the maximum of continuities. It’s obvious, it’s obvious that the circle, if I dare use a non-human
+metaphor, it's obvious that the circle suffers when it is no more than an affection of the polygon.
+This is even a word from mathematicians, an “affection”. When rest is no more than an affection
+of movement, imagine the suffering of rest. Simply it's the best of worlds because it the one that
+realizes the maximum of continuity. Other worlds were possible, but they would have realized
+less continuity. This world is the most beautiful, the best, the most beautiful, the best, yes, the
+best and the most beautiful, the most harmonious, etc., uniquely under the weight of this pitiless
+phrase: because it realizes the most continuity possible. So, if that occurs at the price of your
+flesh and blood, it matters little.
+
+And what complicates everything is that, as God is not only just, that is, pursuing the maximum
+of continuity, but as he is at the same time quite capricious [d’une coquetterie], he wants to vary
+the world. So, in reality, it’s the world that realizes the maximum of continuity, but God hides
+this, it hides this continuity. It shelters it [the continuity]. He shoves a segment that should be in
+continuity with that other one, well, the segment should be in continuity, that he places
+elsewhere. Why? To hide his tracks. We run no risk of making sense of this, ourselves, but this
+occurs at our expense (sur notre dos), this best of worlds. You see? Obviously, the 18th century
+does not receive Leibniz's story very favorably at all. But, in fact, it’s the world of continuity. So,
+you see, the problems of paving express quite well this choice of the best world: the best of
+worlds will be the one in which shapes and forms will fill the maximum of space-time while
+leaving the least emptiness.
+
+Second explanation by Leibniz, and there he is even stronger still: the chess game. Such that
+between Heraclitus's phrase that alludes to a Greek game and Leibniz's allusion to chess, there is
+all the difference that there is between the two games at the same moment in which the common
+formula "God plays" could make us believe that it's a kind of beatitude. For how does Leibniz
+conceive of chess? Very simple: the chess board is a space, the pieces are notions. What is the
+best move in chess, or the best combination of moves? You know, in all chess problems, you
+have bifurcations, as the other [Borges] would say, “The Garden of Forking Paths.” Well, the
+best move or combination of moves is the one that results in a determinate number of pieces with
+determinate values holding or occupying the maximum space, the total space being contained on
+the chess board. One has to place the bishop, the knight, the… Queen, one’s pawns in such a way
+that they command the maximum space, so that the other is… [Deleuze does not finish this
+thought]
+
+                                                                                                                     25
+
+And in the end, what doesn’t work in all that? Why are these only metaphors? Here as well there
+is a kind of principle of continuity: the maximum of continuity. What does not work well in these
+two metaphors, as much in the metaphor of paving as in the metaphor of chess? In both cases,
+you have reference to a receptacle. The two things are presented as if the possible worlds were
+competing to be embodied in a determinate receptacle. In the case of paving, it's the surface to be
+paved; in the case of chess, it's the chess board. But in the conditions of the creation of the world,
+there is no a priori receptacle.
+
+We have to say, therefore, that the world that passes into existence is the one that realizes in
+itself the maximum of continuity, that is, which contains the greatest quantity of reality or of
+essence. I cannot speak of existence since there will come into existence the world that contains
+not the greatest quantity of existence, but the greatest quantity of essence from the point of view
+of continuity. And, in fact, continuity is precisely the means of obtaining the maximum quantity
+of reality. Do you understand?
+
+So, there you have a very, very beautiful vision, as philosophy. In this second paragraph, I
+believe that I have answered the first question, namely, what is infinite analysis? I have not yet
+answered the question: what is compossibility. There we are. [2:08:04]
+
+Notes
+  https://www.youtube.com/watch?v=MLZKmW2t2uo
+  We have to indicate that this translation is based on a transcript that we have completely transformed from the text
+that has been available for some twenty years on Web Deleuze, since we have scrupulously followed here, without
+edits or unforeseen omissions, the audio recording available on several platforms (YouTube, Web Deleuze, Paris 8,
+and here on The Deleuze Seminars). We have therefore expanded the text of this second session on Leibniz by
+approximately forty minutes, that is, in addition to the approximate equivalent of about eighty minutes contained on
+the earlier transcript. We have benefitted, however, from Web Deleuze’s alternate transcription in order to fill in two
+specific gaps that occurred when the recording was interrupted for cassette changes, at the end of parts 1 and 2.
+  Part II of The Fold. Leibniz and the Baroque (Le Pli) is entitled, “Inclusions”, composed of chapters 4, “Sufficient
+Reason,” 5 “Incompossibility, Individuality, Liberty,” and 6 “What Is an Event?”
+  In the session on Leibniz that takes place on 27 January 1987, Deleuze provides a detailed elaboration both of the
+example taken from the Theodicy, and the one taken from Ficciones by Borges.
+  See session 5, 6 January 1987, in the second Leibniz seminar for a brief development of Malebranche’s
+conversation.
+  It is not entirely clear to which text by Merleau-Ponty Deleuze is referring here, perhaps one of the essays collected
+under the title Eloge de la philosophie, Leçon inaugurale faite au Collège de France le jeudi 15 janvier 1953 (Paris:
+Éditions Gallimard, 1953).
+  Concerning this letter, see the session on Spinoza, 20 January 1981, as well as the 10 February 1981 session, and
+also, by Deleuze, see also Spinoza: Practical Philosophy, pp. 78-79.
+  In the Web Deleuze transcript, one finds here the following notation: “Explanation by Deleuze on differential
+calculus, about 45 seconds”.
+  In the Web Deleuze transcript, one finds here the notation: “Explanation by Deleuze who draws on the board, with
+chalk: construction of triangles. 85:30 to 93:30”. This text, disconnected as some parts are, is reproduced here.
+   See also the discussion of projective geometry and of Poncelet during the preceding seminar 9, 26 February 1980.
+   Deleuze returns to this same subject, of paving, during the eighth session on Leibniz in the second seminar, 27
+January 1987.

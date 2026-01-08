@@ -1,0 +1,1288 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Principes et la Liberté
+
+Séance 12, le 10 mars 1987 : Les Principes et la Liberté (7) -- L’Événement,
+Whitehead
+
+Transcription augmentée, Charles J. Stivale
+
+Partie 1
+
+[On travaille. J'avais commencé la dernière fois] une espèce de vue d'ensemble sur ou de
+conclusion concernant la transformation que Leibniz faisait subir à la notion de
+substance. Si vous le voulez bien, on laisse de côté ça, et je le reprendrai plus tard, surtout
+que c'était à peine commencé. J'éprouve le besoin de le laisser parce que là j'ai besoin,
+comme je vous l'avais annoncé, d'aide qui ne porte pas cette fois-ci sur les
+mathématiques, mais qui porte plus sur certains problèmes de physique. Et comme
+Isabelle Stengers est là aujourd'hui, et qu'elle ne sera pas là les autres semaines, donc il
+faut que [1 :00] je profite de sa présence. Et je veux profiter de sa présence pour deux
+raisons, parce que c'est des problèmes qui concernent de très près Leibniz et qu'elle le
+connaît, et d'autre part, parce que ce sont des problèmes qui concernent également cet
+auteur dont je vous ai prévenu depuis le début de l'année que je voulais vous en parler, à
+savoir Whitehead. Donc vous pouvez considérer que notre séance d'aujourd'hui, à la fois
+s'insère pleinement dans cette recherche sur Leibniz, mais porte sur ce philosophe,
+Whitehead, et ses rapports avec Leibniz.
+
+Vous savez, les Grecs avaient un beau mot pour indiquer, dans l'école néo-platonicienne,
+il y avait un chef d'école, et il succédait au chef d'école précédent; [2 :00] et ils avaient un
+mot pour désigner le chef successeur, c'était le diadoque, le diadoque. Si on imagine une
+école leibnizienne, Whitehead, c'est le grand diadoque, mais en même temps il renouvelle
+tout. C’est une philosophie… D'où mon envie, et pourquoi est-ce que j'ai tellement envie
+de parler de cet auteur, dont les dates sont relativement anciennes, 1861-1947 ? Il est
+mort vieux, eh ? C'est parce qu'il fait partie de ces auteurs, de ces très grands philosophes
+qui ont été étouffés, comme assassinés.
+
+Assassiné, assassiné, qu'est-ce que ça veut dire? Ça veut dire que de temps en temps
+surviennent des écoles de pensée qui établissent d'une certaine manière… quant au
+problème des penseurs [3 :00] il y a deux dangers : il y a tous les Staline que vous voulez,
+tous les Hitler que vous voulez, devant lesquels les penseurs n'ont plus qu’une possibilité,
+ou deux possibilités, ou les deux réunies : résister ou s'exiler. Mais il y a autre chose qui
+se passe parfois à l'intérieur de la pensée, ce sont d'étranges doctrines qui surviennent, qui
+s'installent, qui prennent un véritable pouvoir là où il y a du pouvoir dans ce domaine,
+c'est-à-dire dans les universités, et qui établissent une sorte de tribunal, un tribunal
+intellectuel d'un type spécial, et derrière eux, ou sous eux, plus rien ne pousse. Alors, en
+ce sens -- Il faudrait arrêter les appareils [4 :00] parce que ma parole est libre. [Rires] Je
+
+                                                                                               2
+
+n'écrirai jamais ce que je dis donc j'aimerai pouvoir dire : "je n'ai jamais dit ça". [Rires] --
+En ce sens, j'accuse la philosophie analytique anglaise d'avoir tout détruit dans ce qui
+était riche dans la pensée, et j'accuse Wittgenstein d'avoir assassiné Whitehead, d'avoir
+réduit Russel, son maître, à une sorte d'essayiste n'osant plus parler de logique. Tout ça
+fut terrible et dure encore. La France a été épargnée, mais nous avons nos philosophes
+analytiques. La France a été épargnée car elle a été réservée pour d'autres épreuves
+encore pires. Bien. C'est vous dire que tout ça va mal.
+
+Alors, ce que je veux dire, c’est que [5 :00] jamais rien dans le domaine de la pensée ne
+meurt de mort naturelle, vraiment. Cette pensée anglaise et américaine, d'avant la
+dernière guerre, était extraordinairement riche, elle était d'une richesse... Des auteurs dont
+on a pris l'habitude de les traiter comme, s’ils n’étaient plus, comme s’ils étaient un peu
+débiles; je pense à William James. William James est un effarant génie. Il est en
+philosophie exactement ce que son frère était dans le roman. Pour ceux qui cherchent des
+sujets de thèse, encore une fois je gémis sur le fait qu'il n'y ait pas eu à ma connaissance
+d'étude sérieuse sur les deux frères James et leurs rapports. Enfin, William James est
+quelque chose d’étonnant, étonnant. Et puis il y a Whitehead, et il y en avait un autre,
+[6 :00] un australien, le seul philosophe australien, un très grand philosophe, Alexander.
+
+Et qu’est-ce qui s’est passé ? Aujourd’hui, il me semble que Whitehead est lu par une
+poignée d'amateurs et par une autre poignée de spécialistes. Après tout, Bergson aussi
+était…, je ne sais pas. Mais, on ne peut pas dire que ce soit très grave, tout ça. En 1903, --
+Whitehead est un mathématicien de formation -- en 1903, il écrit avec Russel les
+Principiae mathematicae, qui sont à la base du formalisme moderne et de la logique
+moderne. Ce sont les Principiae mathematicae qui engendreront Wittgenstein, mais c'est
+un processus dramatique fréquent. [7 :00] Bon, peu importe, 1903. Il est anglais, je crois,
+mais chaque fois je me trompe quand je donne… je crois bien qu’il est anglais,
+Whitehead, et puis après il s'installe en Amérique vers 1920-23, je ne sais plus, il
+s’installe en Amérique.
+
+Donc Principiae mathematicae avec Russel, grand livre de logique. Le concept de nature,
+non traduit en français, 1920. La science et le monde moderne, un des rares livres de
+Whitehead traduits en français, très beau, très, très beau livre. Il y a un autre, mais qui ne
+donne pas l’idée de ce que c’est Whitehead. La science et le monde moderne, c'est un
+livre important, très beau, 1926, [8 :00] mais il doit être introuvable, je suppose. Son
+grand livre, 1929, Processus et Réalité, ou Procès et Réalité ; 1933, Aventure des Idées.
+[Pause]
+
+Mon but donc est double. A la fois je voudrais que vous sentiez la grandeur de cette
+pensée pour elle-même, et en même temps que vous sentiez le lien qu'elle a avec Leibniz,
+et dès lors comment, à la lettre, Whitehead risque de nous apporter un éclairage
+fondamental sur Leibniz. [9 :00] [Pause] Ne fait aucun problème la connaissance de
+Leibniz par Whitehead. Il est imprégné, imprégné de Leibniz, et comme Leibniz, il se
+trouve être mathématicien, philosophe et physicien. Je dirais, si vous voulez, imaginez,
+toute philosophie prétend comme mettre en question quelque chose, qu'est-ce que
+Whitehead met en question? Il met en question le problème de ce qu'il appelle le schème
+
+                                                                                              3
+
+catégoriel. Et le schème catégoriel, c'est quoi? Il nous dit, en gros, le schème catégoriel
+de la pensée classique, c'est : [10 :00] sujet-attribut, substance-attribut.
+
+Or c'est moins la question de la substance. La substance, vous pouvez la concevoir de
+telle … tant de manières. Ce qui est important, ce n'est pas de se demander si les choses
+sont des substances. La vraie question, c'est celle de : l'attribut, en quel sens? Est-ce que
+la substance précisément doit être pensée en fonction d'un attribut, ou bien est-ce qu'elle
+doit être pensée en fonction d'autre chose? En d'autres termes, si la substance est le sujet
+d'un prédicat, ou de prédicats, de prédicats multiples, si la substance est le sujet de
+prédicats, [11 :00] est-ce que le prédicat est réductible à un attribut, du type "le ciel est
+bleu" ? [Pause] Vous me direz que ce n'est pas un problème fondamentalement nouveau,
+mais c'est d'une certaine manière nouvelle, le cri de Whitehead, le cri qui retentit dans
+toute son œuvre : non, le prédicat est irréductible à tout attribut. Et pourquoi? Parce que
+le prédicat est événement. La notion fondamentale, ça va être celle d'événement.
+
+Or je pense que c'est pour la troisième fois dans l'histoire de la philosophie que ce cri
+retentit, et sans doute, chaque fois, il retentissait d'une manière nouvelle : Tout est
+événement. Vous me direz non, tout n'est pas événement [12 :00] puisque l'événement,
+c'est le prédicat. Pour le moment, nous disons : tout est événement puisque le sujet est
+peut-être une aventure qui surgit d’un événement. [Pause] Y a-t-il un sujet dont la
+naissance ne soit pas événement?
+
+Tout est événement. Je vais essayer de le dire rapidement. Cela a retenti une première
+fois avec les Stoïciens, et ils s'opposaient à Aristote précisément dans l'entreprise
+aristotélicienne de définir la substance par l'attribut. Et eux se réclamaient de ce qu'il faut
+bien appeler un "maniérisme" [13 :00] [Pause] puisque à la notion d'attribut, ils
+opposaient celle de manière d'être. L'être comment, le comment être. L'attribut, c'est ce
+que la chose est, mais le comment de la chose, la manière d'être, ça c'est tout à fait autre
+chose. Et les Stoïciens firent la première grande théorie de l'événement. Et sans doute, il
+y eut une suite dans les logiques du Moyen-Âge, on pourrait se trouver la continuation de
+traditions Stoïciennes, tout ça mais il fallut attendre longtemps, longtemps, pour que pour
+la seconde fois le cri, que cette espèce de cri retentisse à nouveau : tout est événement!
+
+C'est ce que j'ai essayé de montrer depuis le début, à savoir c'est Leibniz, [14 :00] et il n'y
+a pas de pire contresens.... Enfin, je peux considérer ça comme acquis, même si vous
+n’êtes pas d’accord ; je concevrais très bien que vous disiez, non, tu te trompes sur
+Leibniz. Mais, je dis, pour moi, le résultat de nos recherches précédentes, c'est que il n'y a
+pas de pire erreur sur Leibniz que comprendre l'inclusion du prédicat dans le sujet comme
+si le prédicat était un attribut. Et loin que le prédicat soit un attribut, -- Leibniz ne cesse
+de nier que le prédicat soit un attribut -- le prédicat pour lui est rapport, ou comme il dit
+encore en toutes lettres dans Discours de métaphysique : événement, prédicats ou
+événement. [15 :00] "Ou", on ne peut pas dire mieux, est-il dit dans le Discours de
+métaphysique. D'où il me semble particulièrement stupide de dire, comment Leibniz
+peut-il rendre compte des relations, une fois dit qu'il met le prédicat dans le sujet ?
+[Pause] Non seulement il rend compte des relations, mais il n'a aucune peine à rendre
+
+                                                                                                 4
+
+compte des relations pour la simple raison que, pour lui, ce qu'il appelle prédicat, c'est la
+relation, c'est l'événement.
+
+Alors on a commencé déjà à voir un peu comment il rendait compte de la relation, mais
+on laisse ça de coté. Il y a tout lieu de s'attendre [16 :00] à ce que ça ne lui fasse pas
+tellement problème, une théorie des relations. Ça ne fait problème que du point de vue
+d'un faux Leibniz où le lecteur croirait que le prédicat, pour Leibniz, c'est un attribut.
+Alors à ce moment-là, on se dirait, en effet, comment une relation peut-elle être inclue
+dans le sujet ? Mais si ce qui est inclus dans le sujet, c'est les événements, par définition,
+comme il le dit très bien, les événements c'est des rapports à l'existence. Et là il faut
+prendre au sérieux le mot "rapport". [Pause] Tout est événement, bon, du moins tous les
+prédicats sont des événements. [Pause] [17 :00]
+
+Et voilà que pour une troisième fois, le cri retentit avec Whitehead : Tout est événement.
+Tout est événement, oui, y compris la grande pyramide, dit Whitehead. Même du point de
+vue du style, c'est assez leibnizien, même la grande pyramide est un événement. Vous
+comprenez ? Qu’est-ce que ça veut dire ? Généralement on considère que un événement,
+c'est une catégorie de choses très spéciales, par exemple, je sors dans la rue, et je me fais
+écraser par l'autobus. [Rires] C'est un événement. Mais la grande pyramide, elle, ce n'est
+pas un événement. A la rigueur, je dirais : ah oui, la construction de la grande pyramide
+est un événement, mais pas la grande pyramide [18 :00] elle-même. Une chaise, ce n'est
+pas un événement, c'est une chose. Whitehead est incroyable : la chaise est un événement,
+et pas seulement la fabrication de la chaise. La grande pyramide est un événement. C'est
+très important pour comprendre même que soit possible cette expression, "tout est
+événement". [Pause] Et pourquoi ? Qu’est-ce que c’est que ça ? [Pause] En quoi la
+grande pyramide peut-elle être événement?
+
+Vous vous rappelez les exemples -- je saute à Leibniz, et je voudrais perpétuellement
+sauter de l'un à l'autre -- On partait de certaines déterminations liées à Adam. Il était dans
+un jardin et il péchait, [19 :00] il commettait un péché. Pécher, commettre un péché, c'est
+évidemment un événement ; ça fait partie de ce que tout le monde appelle un événement.
+Mais le jardin lui-même, c'est également un événement. Une fleur est un événement. Bon,
+mais alors? Est-ce que ça veut dire en tant qu'elle pousse? En tant qu'elle surgit ? Mais
+elle ne cesse pas de surgir. Elle ne cesse pas de pousser, une fleur, eh ? Ou quand elle a
+fini de pousser, elle ne cesse pas de se flétrir. C'est de la fleur elle-même et à chaque
+instant de sa durée que je dois dire "c'est un événement". Et la chaise? Ce n’est pas parce
+qu’elle a l’air de se tenir bon. [20 :00] La chaise, c'est un événement; ce n'est pas
+seulement la fabrication de la chaise.
+
+En quoi la grande pyramide est-elle un événement? C'est en tant qu'elle dure, par
+exemple, pendant cinq minutes. En tant que la pyramide dure pendant cinq minutes, elle
+est un événement. En tant qu'elle dure cinq autres minutes, c'est un autre événement. Je
+peux réunir les deux événements en disant : elle dure dix minutes. Toute chose, dira
+Whitehead, est passage de la nature. Si vous ne riez pas de mon accent en anglais, c'est ...
+ça a un sens tout à fait … "passage of nature", passage de nature. Corrigeons un peu pour
+retrouver Leibniz : [21 :00] toute chose est passage de Dieu. C'est strictement pareil.
+
+                                                                                              5
+
+Toute chose est passage de nature. La grande pyramide est un événement, et même une
+multiplicité infinie d'événements.
+
+En quoi consiste l'événement? A la lettre, toute chose est une danse d'électrons, dira… ou
+bien toute chose est une variation d'un champ électromagnétique. Voilà que nous entrons
+nous mettons un pied, mais très prudent, dans la physique. Mais la chaise comme danse
+d’électrons, c’est un événement. [Pause] [22 :00] Par exemple, l'événement qui est la vie
+de nature -- c’est la même chose que "le passage de nature", the "life of nature" --
+l’événement qui est la vie de nature dans la grande pyramide, hier et aujourd'hui. [Pause]
+Voilà.
+
+Tout est événement. Est-ce que vous sentez déjà alors… ? Il faut pressentir peut-être qu'il
+n'y a pas une seule grande pyramide, mais deux grandes pyramides. C'est ce qu'il dit dans
+le texte. Mais enfin, n'allons pas trop vite... pour le moment [23 :00] c'est comme ça,
+voilà. Un événement, donc, il n'y a pas de choses ; il n'y a que des événements, tout est
+évènement. Et un événement est le support d'une infinité de processus, les processus de
+subjectivation, d'individuation, de rationalisation, tout ce que vous voulez. Des sujets
+vont naître, des rationalités, des individualités vont se dessiner, mais tout ça dans les
+événements. [24 :00]
+
+Tout est événement alors, mais simplement ça n’empêchera pas qu’il faudra bien une
+classification des événements. Je suppose, par exemple, vous voyez, comment est-ce qu'il
+faudrait poser le problème de la liberté, en termes d'événements? C’est : Y a-t-il une
+différence de nature entre les événements qu'un sujet -- à supposer que je sache ce que
+c'est qu'un sujet -- qu'un sujet subit et qu'un sujet promeut ? Qu'est-ce que veut dire : faire
+événement. [Pause] Cette question, telle quelle, la distinction des événements produits
+par des sujets et des événements [25 :00] subis a été, par exemple, récemment posée par,
+[Deleuze hésite] un philosophe, je ne sais plus, anglais ou américain [Au fait, américain],
+qui s’appelle précisément [Donald] Davidson, dans un livre, Essais sur les actions et les
+événements [Essays on Actions and Events (1980)]
+
+Donc, la durée d’une pyramide pendant dix seconds, c’est un événement aussi bien que
+tel homme [qui] vient de se faire écraser. Vous êtes des événements, et vous n’êtes pas
+seulement des événements dans votre naissance. Vous êtes des événements, chacun de
+nous est un événement. Ça ne veut pas dire qu’ils soient importants. [Rires] Un courant
+d’air est un événement. Pensez le monde en tant qu’événement. [26 :00] Vous me direz,
+pourquoi faire ? Ben oui, pourquoi faire ? Aucune raison ; c’est si ça vous plaît, [Rires]
+c’est-à-dire s’il vous semble qu’il est juste de procéder ainsi. C’est parfois très dur, et là
+je voudrais, comme je voudrais déborder un peu sur des considérations plus générales sur
+la philosophie, sur "qu’est-ce que c’est que la philosophie ?", vous sentez bien qu’il y a
+des… [Deleuze ne termine pas la phrase]
+
+La philosophie, ça a un rapport très complexe avec les caractères nationaux, avec les
+caractères nationalitaires. Ce n’est certainement pas réservé aux Anglais, cette pensée,
+mais est-ce qu’il ne fallait pas que ça passe par les Anglais, que ça nous revient par les
+Anglais, cette idée de l’événement ? [27 :00] Nous, on a bien besoin de pensées comme
+
+                                                                                              6
+
+ça qui font courant d’air. C’est qu’il y a bien longtemps, depuis Descartes, qu’on a un peu
+trop accroché au sujet du moi. Les Anglais ont toujours vécu le moi comme un
+événement. Pour une fois, ce n’est pas très… [Pause] Ça ne veut pas dire, oui, ça ne veut
+pas dire que ce soit quelque chose d’essentiel. [Pause]
+
+On donne un concert ce soir, voilà. Avec quoi [est-ce que] j’écris le monde ? Est-ce que
+j’écris le monde avec "je pense, donc je suis", ou est-ce que j’écris le monde avec "on
+donne un concert ce soir" ? Supposons qu’on donne un concert ce soir, un concert. Voilà
+un événement. [28:00] Essayons de le décomposer, un concert ce soir. Un, c’est "one",
+mais "one", ce n’est pas l’Un avec un grand U ; c’est l’article indéfini. D’où vient-il ?
+Est-ce par hasard que le Principiae mathematicae de Russel et Whitehead faisait déjà
+toute une théorie formaliste, formalisante, du "one", de l’article indéfini ? Un concert ce
+soir, ou bien, je dirais aussi bien, un prénom démonstratif, [Pause], ce concert-là, un
+concert ce soir, ce concert-là dont il s’agit ce soir. [Pause] [29 :00] L’événement est
+introduit par un "one", qu’est-ce que ça veut dire ? Whitehead dans son analyse va, je
+crois -- – là, il faut être… je voudrais être très minutieux – il me semble, définit
+l’événement par trois coordonnés. Ce "one" va renvoyer à trois coordonnés. [Sur ces
+coordonnés, voir Le Pli, pp. 104-106] [Pause] La première, c’est que tout événement, ce
+concert, ce concert qui arrive là, ce concert… [Interruption dans l’enregistrement]
+[29 :51]
+
+Partie 2
+
+… Et c’est cette conjonction qui constitue le plusieurs en un "one", en un "un". [30 :00]
+Plusieurs conjugués en un, c’est un être ensemble, ou ce qu’il appelle – il a de très beaux
+mots – une concrescence. [Voir à ce propos Le Pli, pp. 105-106] L’occasion actuelle est
+une concrescence.
+
+Une concrescence de quoi ? Une conjonction de quoi ? A première vue, d’autres
+occasions actuelles. Toute occasion actuelle surgit dans un monde qui comporte déjà des
+occasions actuelles. [31 :00] Derrière les occasions actuelles, il n’y a rien. Les occasions
+actuelles sont les dernières routes d’expérience. Toute occasion actuelle renvoie à
+d’autres occasions actuelles. Mon concert ce soir renvoie à des concerts qui l’ont précédé.
+Ces concerts qui l’ont précédé renvoient à une occasion qui fut et qui est l’œuvre
+musicale elle-même dont il s’agit dans le concert. Cette œuvre à son tour renvoie à
+d’autres occasions actuelles qui étaient l’état de la musique à l’époque, les autres œuvres,
+etc. Il n’y a que les occasions actuelles. Chaque occasion actuelle conjoint, conjugue un
+certain nombre d’occasions actuelles préalables, préexistantes. [32 :00]
+
+Elle en fait, on dira, elle en fait ses, dit-il Whitehead, elle en fait ses données. Toute
+occasion actuelle présuppose des données qui sont des occasions actuelles précédentes.
+Donc, une occasion actuelle est une conjugaison de données, c’est-à-dire d’occasions
+actuelles préexistantes. L’émergence d’une nouvelle occasion actuelle définit quelque
+chose de nouveau. La loi de l’événement est la créativité. On va de concrescence en
+concrescence, [33 :00] et la créativité c’est la production d’occasions actuelles toujours
+nouvelles. [Pause]
+
+                                                                                              7
+
+Si bien que, à la lettre, il faut dire que des occasions actuelles ne cessent pas d’être prises
+à titre de données – de data, comme il dit, le datum, les data, les données – les occasions
+actuelles ne cessent pas d’être prises à titre de données dans de nouvelles occasions
+actuelles. [Pause] Chaque occasion actuelle prend, prend en soi [34 :00] des occasions
+actuelles préexistantes. Je nais : c’est une occasion actuelle, oui. Je ne nais pas sans
+prendre comme data mon père et ma mère, et à travers mon père et ma mère, toute une
+ligne, toute une ligne générative. Vous me direz, tout ça, mais c’est déjà de la conscience.
+Absolument pas ! Dans l’occasion actuelle, il n’y a absolument rien qui implique la
+conscience. Ce sont des pré[hensions]… On verra. [Deleuze ne dit pas le segment du mot
+entre crochets, sans doute parce qu’il n’a pas encore assez développé les bases pour
+l’introduire]
+
+Voilà. Je dirais que le premier aspect de l’événement, c’est cette conjonction [Pause]
+d’occasions actuelles sous laquelle une occasion actuelle surgit dans un monde où il y a
+déjà des occasions actuelles [35 :00] et les prend comme données. [Pause] Deuxième
+élément : dès lors, je demande, bien, mais de quoi est faite une occasion actuelle ? Voyez,
+ma première coordonnée, c’était l’occasion actuelle en tant qu’elle présuppose et renvoie
+toujours à d’autres occasions actuelles, concrescence, toujours apparition de quelque
+chose de nouveau, créativité. Le deuxième niveau, c’est, quels vont être les éléments
+[36 :00] [Pause] de l’occasion actuelle, d’une occasion actuelle ? Et la réponse, c’est : les
+éléments de l’occasion actuelle, ce sont des préhensions. Une occasion actuelle, c’est un
+ensemble de préhensions, ne serait-ce que parce que toute occasion actuelle dans sa
+nouveauté préhende des occasions actuelles préexistantes. Mais vous sentez bien que s’il
+a introduit l’idée de préhension, c’est pour bien montrer qu’aucune occasion actuelle
+n’est le résultat passif des occasions actuelles ou des événements préexistants. [37 :00]
+Toute occasion actuelle en tant que créatrice, en tant que quelque chose de nouveau
+implique une préhension active des événements précédents, des occasions actuelles
+préexistants, exactement comme le concert de ce soir est une préhension des concerts
+passés qui exécutaient la même œuvre.
+
+Mais, est-ce seulement un renvoi aux concerts passés qui exécutaient la même œuvre ?
+En d’autres termes, si je peux dire que l’occasion actuelle, qui a pour élément la
+préhension, est une [38 :00] une conjonction de préhensions, il me semble qu’il y a toutes
+sortes de préhensions. Mon concert, mon concert qui se déroule mutuellement, préhende
+des concerts passés, mais pas seulement. Un instrument préhende actuellement un autre
+instrument. Vous me direz, oui, non, c’est plutôt l’instrumentiste. Qu’est-ce que ça peut
+faire ? L’instrument est un événement ; l’instrumentiste est un événement. Je ne sais pas
+si j’ai la possibilité de les distinguer pour le moment. "Le violon se plaignit, le piano
+[39 :00] lui répondit." Le violon se plaignit, le piano lui répondit, deux préhensions, l’un
+préhende l’autre. Vous vous rappelez ? C’est… ? La musique de Vinteuil dans A la
+recherche du temps perdu, et je peux dire ça de n’importe quel concert. [Dans Du Côté
+de chez Swann, on lit "Le piano se plaignit…, le violon l’entendit, lui répondit"] [Pause]
+Une orchestration, qu’est-ce que c’est, sinon une distribution des préhensions ? J’assigne
+l’instrument [Pause] qui va se charger de telle occasion actuelle, qui va opérer telle
+préhension. [40 :00] Et puis, mon concert, il est préhendé par le public ; mais les
+
+                                                                                             8
+
+instrumentistes préhendent eux-mêmes le public. Voilà à l’infini un système d’interpréhensions, c’est-à-dire de préhensions réciproques. [Pause]
+
+Bien, mais de quoi se compose une préhension ? D’accord, c’est l’élément de l’occasion
+actuelle, mais d’après le peu que j’ai dit, il y a plusieurs aspects de la préhension. [41 :00]
+Ce n’est pas de la même manière que le piano préhende le violon, et que le chef
+d’orchestre préhende l’orchestre, et que le spectateur préhende l’œuvre. Donc, qu’est-ce
+que ces préhensions ? De quoi une préhension est-elle composée ? Y a-t-il des éléments
+de la préhension, et combien, et lesquelles ? [Pause]
+
+Et enfin, troisième coordonnée, [Pause] quel drôle de monde c’est, tout ça. Mais, c’est un
+monde qui n’a aucune [42 :00] subsistance. Je veux dire que c’est le moment ou jamais
+de dire que les choses coulent, elles coulent, elles coulent, elles passent, elles coulent ;
+c’est partout, partout, c’est une danse d’électrons, partout c’est des variations
+électromagnétiques, aussi bien pour les sons que pour la vue. Tout ça, c’est… on verra,
+tout ça, c’est un système de vibrations.
+
+Un système de vibrations, bien, mais, qu’est-ce qui reste ? C’est très joli, ça. De quel
+droit même est-ce que je peux dire, "ah mais c’est la grande pyramide" ! Mais, je n’ai
+même pas le droit pour le moment de dire que c’est la grande pyramide. "Ah, tiens ! C’est
+la grande pyramide", c’est-à-dire, je me lève, [43 :00] je sors, et je dis, "tiens ! C’est la
+même, c’est la grande pyramide que j’ai vue hier." Ou bien, je vais au concert ce soir, et
+je dis, "tiens, c’est la petite phrase, [Pause] ah, je reconnais la petite phrase de Mozart ;
+ah, la petite phrase là". Mais, comment [est-ce que] je vais dire une chose comme ça ?
+Qu’est-ce qu’il y a dans l’occasion actuelle qui me permet de dire ça ? Rien ! L’occasion
+actuelle, c’est une variation du champ, au nom de quoi, je dis ? Je peux dire le passage de
+la nature dans la grande pyramide, d’accord, mais je le dis une fois, [44 :00] et puis ça
+passe. Mais moi, je ne me contente pas de dire ça ! Le lendemain, tiens, elle est toujours
+là, la grande pyramide, et bien plus, je serais bien étonné qu’elle ne soit plus là. Ah, ça
+serait un événement, ça, ça sera un événement si elle n’était plus là. Ça serait une
+occasion actuelle.
+
+Bon, il y a plus. Cette note, cette note-là, ou bien cet agrégat de notes. La petite phrase de
+Vinteuil, telle qu’elle est décomposée, n’est-ce pas un agrégat de cinq notes ? [Référence
+au musicien dans le même roman de Proust.] Et mais, une seule note, un si, le si de
+[Alban] Berg. Ah, voilà le si de Berg, voilà ! Ah, voilà le cri ! Voilà le cri de Wozzeck !
+[45 :00] Dix fois, cent fois, je suppose, j’ai été au concert. Qu’est-ce qui me fait dire, ah,
+c’est le cri de Wozzeck ? Qu’est-ce qui me fait dire, c’est un si ? C’est cette note-là !
+Alors que, à la lettre, tout, comme disait un philosophe bien connu, bon, oui, tout ça, ça
+coule, tout change. [Sur Wozzeck d’Alban Berg et le cri, voir “O comme Opéra” dans
+L’Abécédaire de Gilles de Deleuze.]
+
+Bon, est-ce que c’est un problème leibnizien ? On a le temps de se rappeler à quel point
+c’est un problème leibnizien. [La] Monadologie, – ah, c’est que je l’ai perdu. C’est
+tellement petit, la Monadologie [Rires] [46 :00] Ah, puis, j’ai perdu aussi la référence, ah,
+non – Paragraphe 71. [Il faut] attacher beaucoup d’importance aux textes. Paragraphe 71.
+
+                                                                                             9
+
+"Il ne faut point s’imaginer avec quelques-uns qui avaient mal pris ma pensée" – donc, ils
+n’avaient rien compris, quoi ! "Il ne faut point s’imaginer avec quelques-uns qui avaient
+mal pris ma pensée que chaque âme a une masse ou portion de matière propre ou affectée
+à elle pour toujours." C’est beaucoup ; on crut, pour Leibniz, que chaque âme avait un
+corps. [Pause] Il dit, mais pas du tout : "Tous les corps sont dans un flux perpétuel
+[47 :00] comme des rivières, et des parties y entrent et en sortent continuellement."
+
+Si vous voulez, les molécules ne cessent pas de changer; les molécules ne cessent pas de
+changer, pourtant je dis, d’une certaine manière, mais c’est le même. Comprenez, ça a
+l’air d’être très, très banal, mais réfléchissez. Je ne dis pas que c’est le même au sens
+d’une généralité. Je ne dis pas, ah, c’est une vache, parce que ça a des cornes. Mais je dis,
+c’est le même dans ses moindres détails. Il s’agit d’une teinte, d’une teinte, d’une
+couleur. Ce vert-là, ce vert-là, de tel peintre ; ah, je dis, [48 :00] ah oui, c’est son vert,
+c’est son fameux vert, telle nuance prise dans son individualité même, tel agrégat de
+notes qui revient de concert en concert. Vous me direz, avec des variations ; oui, avec des
+variations occasionnelles, à la lettre. [Pause]
+
+Bon, mais qu’est-ce que c’est ça ? Leibniz dit, mais tout change ; là aussi, au niveau des
+occasions actuelles, Whitehead dit, mais tout change ; les électrons qui entrent les
+molécules, qui entrent dans la composition de la pyramide pendant dix minutes, ben, mais
+ce n’est pas les même que ceux qui entrent dans la composition de la pyramide les dix
+minutes suivantes. Donc, c’est vrai, [49 :00] comme on dit, le plus vulgaire Héraclite, le
+Héraclite traditionnel, tout coule, on ne se baigne pas deux fois dans le même fleuve, tout
+ça, c’est ce que Leibniz reprend dans un autre texte qui dit la même chose que celui que
+je viens de citer, dans les Nouveaux essais : "Le corps n’est pas le même au-delà d’un
+moment. Il n’est qu’équivalent." Le corps n’est pas le même au-delà d’un moment. Il
+n’est qu’équivalent. "C’est comme un fleuve qui change toujours d’eau." Et pourtant,
+vous dites, et c’est la Garonne ; tiens, voilà la Garonne. Ce qui est important, ce n’est pas
+que le fleuve change toujours d’eau. Vous vous disiez, bon Dieu, c’est la Garonne, un
+nom propre, pas du tout une généralité. Vous ne dites pas, c’est un fleuve ; vous dites,
+c’est la Garonne, comme vous dites, bonjour, Pierre. Mais, quand vous dites, bonjour,
+Pierre, [50 :00] les molécules à qui vous dites bonjour, elles ont complètement changé !
+[Rires] Il n’y en a pas une qui subsiste. Enfin, il faudrait voir. Si vous ne l’avez pas vu
+depuis deux ans, il n’y a pas une molécule qui subsiste. [Rires] Et vous lui dites, bonjour,
+Pierre ! C’est dément, pour le moment. Il n’y a pas de Pierre. Il y a… Ce n’est pas du tout
+le même champ électromagnétique. Tout ça, c’est… Il n’y a pas lieu. Il ne faut pas dire
+bonjour, Pierre, jusqu’à maintenant ; il ne faut pas.
+
+[Leibniz] ajoute que, "c’est comme un fleuve qui change toujours d’eau ou comme le
+navire de Thésée qu’on reparait toujours." Le navire de Thésée ne cessait pas d’avoir un
+trou qu’on reparait toujours ; le navire de Thésée qu’on reparait toujours. Nos corps sont
+le navire de Thésée qu’on reparait toujours, c’est-à-dire mais de la transfusion, [51 :00]
+c’est notre régime normal. On ne cesse pas d’être transfusé. [Pause] Je vous laisse
+réfléchir à cette pénible vérité, [Rires] c’est le moment. Et je dis pourtant c’est cette note,
+ah je la connais, même pas un agrégat, c’est le fameux si de Berg, ou c’est les trois petites
+notes ou les cinq petites notes de la petite phrase de Vinteuil.
+
+                                                                                              10
+
+Eh bien, c’est la troisième coordonnée. C’est ce que Whitehead appelle les objets
+éternels. Sentez que c’est assez bizarre parce que ces objets éternels, [52 :00] ils sont en
+même temps… Il les rapproche lui-même de l’Idée platonicienne ; ils sont en même
+temps très proches de Platon, oui. Mais, mais, mais, avec cette différence essentielle,
+c’est que ce n’est pas des idées éternelles, puisqu’au moins le si de Berg ne préexistait
+pas à Berg. C’est Berg qui la fait exister ; c’est un monde de la créativité. Mais une fois
+qu’il la fait exister, le si de Berg, il s’incarne, il s’incarne dans un concert, à un moment,
+et puis il disparaît. Mais, ça pourra attendre dix ans si on ne le joue plus Wozzeck, vingt
+ans, quarante ans, et l’objet éternel, [53 :00] ce si là, si j’ose dire, ce si là, redescendra,
+s’incarnera à la première occasion actuelle, c’est-à-dire dans l’occasion actuelle.
+
+L’objet éternel, nous dit [Whitehead], les objets éternels, qu’est-ce que c’est ? Comment
+les définir ? Ce sont des potentiels, nous dit Whitehead. Vous voyez la différence avec
+l’occasion actuelle. Ce sont des potentiels. L’occasion actuelle se définissait par la
+concrescence. L’objet éternel, lui, n’est pas une concrescence ; c’est une ingression. Il
+fait ingression dans l’occasion actuelle. Et sans doute, n’est-ce pas le plus profond de
+l’objet éternel, [54 :00] mais c’est grâce à lui que je peux reconnaître quelque chose,
+c’est-à-dire que je peux identifier. C’est le seul identique à soi ; l’objet éternel, c’est
+l’identique à soi-même. C’est cette note si. Ce n’est pas du tout une généralité. C’est cette
+note si telle qu’elle est identique à elle-même à travers tous les concerts. [Pause] Sans
+elle, je ne reconnaîtrais rien dans le monde. Si je peux identifier le passage… Plutôt si je
+peux identifier la grande pyramide à travers deux passages [55 :00] de nature, en disant :
+c'est la même pyramide, c'est la grande pyramide, c'est uniquement grâce à un objet
+éternel.
+
+Voilà ce que je voulais dire pour situer cette philosophie. Je voudrais juste, si j’avais pu,
+vous faire sentir ce qu’elle a à la fois de très familier pour nous et de très bizarre. C’est un
+mode de penser ; je crois que la philosophie a pour sens de créer de tels modes de pensée.
+C'est d'ailleurs le titre d'un des livres de Whitehead, Modes de Pensée. Si je résume, je dis
+voyez les trois coordonnées : les occasions actuelles définies par les conjonctions, les
+préhensions, et les objets éternels. [56 :00] A l'occasion actuelle correspondent les
+concepts de conjonction, concrescence, créativité; aux préhensions correspondent tous les
+éléments qu'on n’a pas vu encore de la préhension, toutes les composantes de la
+préhension ; aux objets éternels correspondent les différents types d'objets éternels. Par
+exemple, vous devez déjà sentir, il y a des objets éternels sensibles et il y a des objets
+éternels conceptuels -- non c'est mauvais ce que je viens de dire -- il y a des objets
+éternels qui renvoient à des qualités sensibles, et d'autres qui renvoient à des concepts
+scientifiques.
+
+Alors, où est notre problème ? Tout ça, c'était relativement facile. [57 :00] Mais nous
+avons trois problèmes, et c'est là-dessus que j'ai tant besoin d'Isabelle. Premier problème,
+nous sommes partis des conjonctions, c'est-à-dire des occasions actuelles. Nous nous
+sommes déjà donné des événements et un monde d'événements. Mais, peut-on faire la
+genèse de l'événement? Comment arrive-t-on à des conjonctions? Est -ce que les
+conjonctions, cest donné comme ça? Non. Qu'il y ait des conjonctions dans le monde ça
+ne va pas du tout de soi. Qu'est-ce qui va expliquer qu'il y a des conjonctions dans le
+
+                                                                                          11
+
+monde? [Pause] Pour moi, je vous le dis, je ne sais pas ce que dira Isabelle, [58 :00] c'est
+le problème fondamental de la philosophie de Whitehead. Si ce problème là est réglé, tout
+le reste va, non pas du tout de soi, mais tout le reste va agréablement. C'est vraiment le
+problème le plus difficile et là où Whitehead est mathématicien et physicien. Il y a besoin
+de toute une physico-mathématique pour rendre compte de la formation des conjonctions,
+c'est-à-dire de la formation des occasions actuelles. Pourquoi? Sentez-le, parce qu’on part
+d'une distribution aléatoire du type distribution aléatoire d'électrons, ou variation d'un
+champ électromagnétique. Comment se forment les conjonctions dans un tel monde? Si
+on n'a pas une réponse précise [59 :00] à ça, à ce moment là, on aura raté. Il nous faut une
+réponse précise à cette question.
+
+La deuxième question, ce sera : de quoi une préhension est-elle faite? Quels sont les
+éléments d'une préhension? Et si il est vrai que l'occasion actuelle est une conjonction, on
+doit, dire dans le vocabulaire, de Whitehead -- j'ai oublié de le préciser – qu’un ensemble
+de préhensions, c'est un nexus, [Pause] un nexus. Donc, deuxième problème, c’est les
+composantes de préhensions. Troisième problème, les modes [60 :00] d'objets éternels.
+[Pause]
+
+Alors je crois que… Le plus difficile pour moi, c'est cette genèse préalable. Comment
+arrive-t-on à des conjonctions, pourquoi y a-t-il des conjonctions? Est-ce qu'il y a une
+raison des conjonctions, raison qui ne peut être que mathématique et physique ? Mais, ça
+n’empêche pas que tout est bon. Alors, je voudrais déjà l'avis d'Isabelle sur tout ça, sur …
+Où est-elle ? [61 :00] [Pause] Ahhhh ! Qu’est-ce que tu crois ? Qu’est-ce que tu…
+Comment tu vois, toi? [Pause]
+
+[Bien que les propos d’Isabelle Stengers ici (d’à peu près 8 minutes) soient vaguement
+audibles avec l’enregistrement BNF, de nombreuses phrases sont si difficile à préciser
+pour la transcription que le texte serait certainement inexact à lire. Vu que Deleuze
+résume à sa manière ce qu’elle dit, nous présentons ici un résumé de ces propos.]
+[69 :55]
+
+[En gros, elle considère les changements chez Whitehead face à certains problèmes
+quant à l’événement. D’abord il s’agissait pour lui de trouver une solution mathématique
+afin d’en donner une définition fonctionnelle. Pourtant, face à des difficultés que cette
+voie créait, il avait recours à quelque chose d’inattendu, le concept de Dieu, mais en tant
+que créature plutôt qu’un être suprême et créateur de toute chose. Chez Whitehead, selon
+Stengers, Dieu fonctionne comme l’appréhension du monde actuel, et en plus, celui qui
+contemple les objets éternels de ce monde en tant que créature de créativité. Donc
+Whitehead a choisi le mot "envisager" pour décrire le rôle de Dieu, c’est-à-dire la
+créativité d’"envisagement" au sens où ce qui est le meilleur pour ses impacts. Il s’agit,
+dit-elle, d’un Dieu agitateur, expérimentateur, catalyseur, qui propose du nouveau.]*
+
+Deleuze: C'est très intéressant. C’est très intéressant [70 :00] parce que du coup, tu viens
+de lancer quelque chose qui m’intéresse beaucoup parce que… Il ne s’agit pas du tout de
+– je suppose que tout le monde ici le comprenne – il ne s'agit pas du tout de discuter. Ce
+qui me frappe, c'est que ce qui semble intéresser Whitehead -- c'est le propre de tous les
+
+                                                                                              12
+
+grands penseurs ; ils sont riches --, ce qui semble intéresser tout particulièrement Isabelle
+Stengers dans Whitehead, ce n'est pas ce qui m'intéresse le plus, et ce qui m’intéresse le
+plus, ce n’est pas ce qui l’intéresse, elle. Mais, une fois dit qu’il n'y a pas lieu de dire que
+l’un a raison et l’autre a tort, je crois que c’est les bonnes conditions pour que, de même
+qu’elle pourrait me poser des questions, et je répondrais le plus précisément que je peux,
+ça va être un peu mon tour de poser des questions à Isabelle [71 :00] parce que je suis sur
+qu'elle a les moyens d'y répondre, sans du tout abandonner son point de vue.
+
+Elle nous a dit très exactement ceci: c'est vrai que, mettons, au début de son œuvre, par
+exemple, dans le Concept de nature, Whitehead pense encore possible de faire une
+genèse de l'occasion actuelle, c'est-à-dire une genèse des conjonctions. Et d'accord, elle
+me dit, à ce moment-là, il pense que seule une physique mathématique peut nous donner
+la clef de cette genèse. Et puis elle dit mais il aurait eu le sentiment que, à ce moment-là,
+si il faisait une genèse des conjonctions, [72 :00] comme toute conjonction -- et qu’il
+tenait déjà énormément à cette idée -- comme toute conjonction est nouvelle -- elle est
+même nouveauté, elle est nouveauté dans son essence; il n'y a pas d'occasion actuelle qui
+ne soit nouvelle ; elle n'est pas l'effet des occasions actuelles précédentes ; il n'y a pas de
+déterminisme ; une occasion actuelle est active, elle est préhension, c'est à dire
+préhendante -- eh bien, comme une occasion actuelle ne peut pas être déduite que d'autre
+chose qu'elle même, Isabelle pense qu'il aurait renoncé ou qu’il se serait moins intéressé à
+sa genèse pour prendre le problème au niveau d'une finalité et d'une conception très
+particulière [73 :00] de Dieu qui, finalement, opère au niveau des occasions actuelles.
+
+Moi je pense, mais on va voir, moi je pense que la genèse des conjonctions, ou la genèse
+des occasions actuelles, genèse physico-mathématique, est quelque chose à quoi
+Whitehead ne renoncera pas, à condition que cette genèse respecte pleinement l'exigence
+posée, rappelée par Isabelle, à savoir que ça ne doit pas être une genèse telle que
+l'occasion actuelle dérive, découle ou résulte de ses composantes génétiques. Ça doit être
+une genèse qui rend compte [74 :00] de ceci : que la seule loi de l'occasion actuelle est
+d'être toujours une nouveauté par rapport à ses propres composantes. Et c'est précisément
+cette genèse de la nouveauté qui est essentielle, genèse de la nouveauté comme telle,
+c'est-à-dire qui n'implique aucune réduction du nouveau à l'ancien, c'est cette genèse
+même que Whitehead, parce qu'il sait beaucoup de mathématique et de physique, va faire
+dans des conditions qui, en effet, font de lui et de sa philosophie une des rares
+philosophies -- à mon avis, avec celle de Bergson --, à avoir opéré avec la science, avec la
+science moderne un lien fondamental. Alors, c’est là que je voudrais procéder presque
+par questions en demandant à chaque fois [75 :00] à Isabelle, est-ce que ça marche, est-ce
+qu’on peut dire ça ? Car il part de quelque chose, il se donne quelque chose.
+
+On en est donc à mon premier problème, la genèse, la genèse des occasions, ou la genèse
+des conjonctions. Une conjonction ,c'est un quelque chose de nouveau, du type ce soir, il
+y a concert. C'est quelque chose de nouveau. Ah, tu sais il y a untel qui donne un concert
+ce soir, voilà. C'est une nouveauté et vous ne l'engendrerez pas, c’est-à-dire ça ne résulte
+pas. Ce n'est pas l'effet d'une cause. Une genèse n'est pas causale. Alors, qu'est-ce qu'elle
+est? Et de quoi part-il? [76 :00] Eh bien, il part -- et c'est presque à chacune de mes
+phrases que j'ajoute un point d'interrogation pour Isabelle --, il part, toujours vous me
+
+                                                                                              13
+
+pardonnez mon accent, du "many" [Pause ; Deleuze l’épèle et demande autour de lui
+comment prononcer "many”] Je ne saurais jamais [le prononcer]. Je le dis en anglais
+parce que... Je pourrais dire, bon, je dirais qu'il part du multiple, mais une multiplicité …
+[Interruption de l’enregistrement] [1 :16 :39] [Texte suivant de WebDeleuze] pure et
+aléatoire. Il lui donne un nom dans Procès et réalité, c'est le pur état de la diversité
+disjonctive.
+
+Partie 3
+
+[Reprise de l’enregistrement] Voilà, il se donne une diversité disjonctive quelconque.
+Vous voyez que le mot disjonctif est très important puisque il part de l'opposé de la
+conjonction. La diversité disjonctive, bon, qu'est-ce que c'est ? [77 :00] Je ne sais pas, je
+ne sais pas. On va voir plutôt parce que ce qui m'importe, c'est que, à chacun de ces
+stades, il y a une espèce d'ajustement avec Leibniz qui est étonnant, si bien que c'est une
+lecture prodigieuse de Leibniz, tout ça, en même temps qu'il nous fait surgir alors un
+nouveau Leibniz. C'est une nouvelle occasion actuelle, là. Etonnant. Il part comme ça du
+"many", multiplicité aléatoire définie par la diversité disjonctive. [Pause] [Isabelle,] tu
+me l'accordes, ça?
+
+Stengers : Bien sûr.
+
+Deleuze : Deuxième point, [78 :00] ça va être la première étape de la genèse. Il va nous
+montrer que à partir de cet état de diversité disjonctive se produit alors quelque chose
+d'absolument nouveau -- première étape de la nouveauté -- se dessine dans cette diversité
+disjonctive, se dessine dans le "many", des séries infinies sans limite qui ne tendent pas
+vers une limite, séries infinies sans limite. C'est comme le stade, ce premier moment, c'est
+la divisibilité infinie. [79 :00] La diversité disjonctive est soumise -- on va voir comment
+et pourquoi, dans tout ça, les questions abondent dans tout ce que je dis, j'établis un plan -
+-, est soumise à un processus de divisibilité infini qui organise des séries infinies sans
+limite dans le "many". [Pause]
+
+Donc à ce premier stade, question : qu'est-ce que c'est que ces séries, qu'est-ce que c'est
+que ces séries sans limite, ces séries non limitées, ces séries infinies sans limites? Je
+commence à répondre [80 :00] – je vais donner tout mon schéma, et puis je voudrais
+qu’Isabelle ré-intervienne – ça repose, ce premier stade repose sur une analyse de la
+vibration. Finalement au fond de l'événement, il y a des vibrations. Au fond des
+événements actuels, il y a des vibrations. Le premier stade, c'était le "many", des
+vibrations n'importe comment, des vibrations aléatoires. [Pause]
+
+Pour ceux qui connaissent Bergson, peut-être vous vous rappelez la splendide fin de
+Matière et Mémoire, le fond de la matière est vibration et vibration de vibrations. La
+correspondance Whitehead-Bergson se révèle [81 :00] à toutes sortes de niveaux, c'est
+des philosophies très proches. Tout est vibration à ce niveau. Mais pourquoi la vibration
+mettrait-elle déjà ce début d'ordre? C'est parce que toute vibration a des sous-multiples et
+s'étend sur ses sous-multiples. La propriété de la vibration, c'est de s'étendre sur ses sousmultiples. Les sous-multiples d’une vibration -- là je ne parle vraiment pas
+
+                                                                                               14
+
+scientifiquement, c'est pour que vous repériez des choses dans votre tête -- ça a un nom
+célèbre dans tous les domaines, ce sont des harmoniques. Là aussi, je n'ai pas besoin de
+souligner le clin d’œil à Leibniz. Pour votre avenir, c'est très, très important tout ça. Ce
+sont les harmoniques. [82 :00] Une couleur est une vibration, un son est une vibration.
+[Pause] En tant que tel, tout son a des harmoniques, toute couleur a des harmoniques.
+
+Donc, mon hypothèse est celle-ci : c'est la vibration qui surgit dans le "many" -- comment
+est-ce qu'elle surgit ? Ça, on est repoussé, il faudra répondre à tout, et je vous en supplie,
+il ne faut pas me lâcher si je n'ai pas répondu à tout, ou bien alors tout s'écroule, et moi je
+veux bien que tout s’écroule. Si tout s'écroule, à ce moment-là, nous dirons, bon, ça ne
+marche pas, nous nous étions trompés, ou que Whitehead n'est pas un grand philosophe.
+Or évidemment Whitehead est un grand philosophe, un philosophe de génie, donc il faut
+ça marche. [83 :00] On n’a pas le choix. Il faut, il faut, il faut. Voilà, alors voyez, mes
+vibrations qui se forment dans le "many", et dès ce moment-là, la diversité disjonctive
+commence à s'organiser en séries infinies sans limite sans limite. Il faut supposer que
+chaque vibration a des sous-multiples, a des harmoniques à l'infini, dans le pur cosmos.
+Le cosmos, c'était le "many", c'est-à-dire c’était un chaos. Un chaos. C'était le chaos
+cosmos.
+
+Troisième étape, parce qu’on ne va pas aller loin avec ces séries infinies, là, vibratoires.
+Séries infinies vibratoires. Oui ! Mais on a vu que [84 :00] les vibrations ont déjà un
+principe d’individuation. Toute vibration a une infinité de sous-multiples. Ce n’est pas les
+même. Ce que nos sens distingueront comme un son et une couleur, ce sont des
+vibrations très différentes, avec des harmonies très différentes. En d'autres termes, une
+vibration infiniment divisible en sous-multiples, eux-mêmes vibratoires, toute vibration
+infiniment divisible a certains caractères intrinsèques, [Pause] [85 :00] ces caractères
+intrinsèques, soit concernent la nature de la vibration envisagée, soit même -- caractères
+extrinsèques -- ses rapports avec d'autres vibrations.
+
+Je dirais qu’une vibration qui vient après -- parce qu’on n’est pas encore aux organes des
+sens, mais c’est par commodité -- une vibration sonore a des caractères qui sont la durée,
+la hauteur, l'intensité, le timbre. La couleur a des caractères, intrinsèques et extrinsèques,
+[86 :00] qui sont la teinte, la saturation, la valeur ; c'est les trois grandes dimensions de la
+couleur, de ce qui sera couleur, mais c'est ouvert, je peux toujours en trouver une
+nouvelle. Pendant longtemps, on a tenu compte de ces trois variables de la couleur : la
+teinte, la saturation et la valeur. C'est depuis la fin du dix-neuvième siècle qu'on tend de
+plus en plus à y ajouter l'étendue de la couleur pour définir ensuite une nouvelle variante
+très intéressante qui dépend d'ailleurs des deux, de l'étendue et de la valeur, et qu'on
+appelle le poids de la couleur. Vous voyez bien, ce pour les deux, je conçois très bien un
+système sonore [87 :00] qui ajoute à durée, hauteur, intensité et timbre d’autres variables.
+
+Mais, qu’est-ce que c’est que ces caractères ? Eh bien, ces caractères, eux, vous vous
+rappelez, la vibration entre dans des séries infinies sans limite, ce sont ces caractères, ou
+plutôt comme dit Whitehead, et qui pèse bien ses mots, les quantités, les quantités, les
+expressions quantitatives capables de les mesurer, de mesurer ces caractères, les
+expressions quantitatives capables de mesurer ces caractères entrent dans des séries –
+
+                                                                                              15
+
+c’est très important, là, le progrès -- entrent dans des séries qui, elles, [88 :00]
+convergent, convergent vers des limites.
+
+La série vibratoire, les séries vibratoires ne sont pas convergentes et n'ont pas de limite.
+C’est le premier stade de la genèse. Deuxième stade de la genèse : les séries de caractères
+intrinsèques et extrinsèques, elles, convergent vers des limites. On a l’idée cette fois-ci de
+séries convergentes. Les timbres vont former une série convergente; [89 :00] les
+intensités vont former une série convergente, les hauteurs vont former une série
+convergente, etc., etc. Les teintes vont former une série convergente. C'est beau. Ça me
+paraît d'une très, très grande beauté. C'est une des genèses les plus... et puis c'est
+tellement plein de science, c'est une manière très, très moderne, de la science vraiment
+moderne, quoi, et pourtant c'est tout simple, ce qu’il nous dit.
+
+Donc, en troisième stade, j’ai… Premier stade, le "many" ou la diversité disjonctive;
+deuxième stade, l'organisation de séries infinies sans limite avec les vibrations et les
+sous-multiples de vibrations; troisième stade, formation de séries convergentes sur
+limites. [Pause] [90 :00]
+
+Quatrième stade, tout est prêt : l'occasion actuelle, c'est la conjonction. La conjonction
+vient après la convergence. La conjonction, c'est une réunion de deux séries
+convergentes, au moins. Vous avez engendré l'occasion actuelle, et ça n'empêche pas que
+l'occasion actuelle qui est une conjonction, est radicalement nouvelle par rapport aux
+séries génétiques qui l'engendrent, par rapport aux deux séries convergentes au moins.
+Elle est tout à fait nouvelle.
+
+D'où cinquièmement, alors, [91 :00] de quoi est faite l'occasion actuelle, une fois dit qu'il
+ne faut pas confondre les éléments de l'occasion actuelle et les conditions de l'occasion
+actuelle, je dirais, les réquisits de l'occasion actuelle ? Les réquisits de l'occasion actuelle,
+c'est : la diversité disjonctive, les séries vibratoires infinies sans limite, les séries
+convergentes. Voilà les réquisits successifs de l'occasion actuelle, c'est-à-dire de la
+conjonction.
+
+Vous avez donc quatre termes: 1) le "many", 2) les séries infinies sans limite, 3) la
+convergence des séries, c'est-à-dire que ce n'est pas les mêmes, ce n’est pas les mêmes
+séries qui deviennent convergentes évidemment, [92 :00] c'est de nouvelles séries, 4) la
+conjonction de séries qui donne l'occasion actuelle. 5) Quels vont être les éléments, et
+non plus les réquisits ? Quels vont être éléments de l'occasion actuelle ? C'est-à-dire, de
+quoi est faite une occasion actuelle ? Réponse : elle est faite de préhensions. Mais de quoi
+est faite une préhension, quels sont les éléments de la préhension, quels sont les éléments
+composants et non plus les conditions requises ?
+
+Alors qu'est-ce qui m'importe? Je voudrais là que vous compreniez avant que je demande
+à Isabelle. Est-ce que c'est très clair comme schéma ? Il faut que ça soit très, très clair. Ce
+qui m’importe, ce n’est pas du tout qu’on discute au niveau de tout à l’heure, [par
+exemple] qu’il faudrait le faire au niveau des séries convergentes, séries pas
+convergentes, tout ça. Sentez que ça renvoie à toutes sortes de choses en mathématiques
+
+                                                                                            16
+
+et en physique, mais que vraiment, [93 :00] c'est au goût de chacun ; vous n'avez besoin
+de strictement rien savoir pour comprendre, pour comprendre au moins vaguement, ou
+pour sentir. Quant au "feeling", comme le dit Whitehead, vous pouvez sentir, et vous
+pouvez même le voir se former, ce monde; le "many" c'est une espèce de soupe, c'est la
+grande soupe, c'est ce que les cosmologues appellent la soupe pré-biotique, les membres
+disjoints, ou bien ce que Lucrèce appelait déjà, ce que Empédocle appelait déjà les
+membrae disjunctae. Ça va tellement bien avec tout ce qu'il y a d'important en
+philosophie. C'est le fleuve qui charrie les membrae disjunctae, les membres épars, un
+bras et puis un nez, et tout ça, c'est le chaos. Mais il faut supposer que ce n'est pas un nez,
+c'est un électron de nez, quoi, c’est… [94 :00] [Rires] comprenez. Voilà que dans cette
+soupe, exactement comme si vous passiez une fourchette dans de la purée, quoi, se
+dessinent – mais tout ça, c'est tellement du Leibniz, on va le voir – se dessinent des séries
+sans limite et sans convergence.
+
+Et puis, chacune de ces séries sans limite et sans convergence a un caractère, et les
+caractères de séries, eux, entrent dans des séries convergentes. Voyez ? Et enfin
+quatrièmement, quand elles sont entrées dans des séries convergentes, alors il y a des
+conjonctions qui se produisent, comme des grumeaux dans votre soupe, et c'est des
+occasions actuelles [Rires] [95 :00] précipitée sur un grumeau; tiens! Occasion actuelle…
+il y a une occasion, et à peine vous êtes en train de mâcher votre grumeau que vous
+apercevez qu’il est composé, il est composé de préhensions, vous mâchez des
+préhensions. Bien, alors, voilà, est-ce que c'est très clair ? Sinon je recommence tout!
+[Rires] Isabelle m’a dit d’accord, le "many".
+
+J'insiste là-dessus. À mon avis, une telle genèse échappe au danger que signalait Isabelle
+parce que l'occasion actuelle n'est pas du tout présentée [96 :00] comme le résultat passif.
+Il y a chaque fois activité et rétroactivité. Les séries convergentes réagissent sur les séries
+infinies sans convergence ; les conjonctions réagissent sur les séries convergentes, etc. A
+chaque niveau il y a émergence d'activité, d’un nouveau type d'activité. La série est une
+activité, la convergence des séries est une autre activité, la conjonction est une autre
+activité, etc. Voilà, elle m'accordait le stade du "many" ou de la diversité disjonctive. On
+passe au second stade.
+
+Mais, je lui demande là, en physique – après tout, il me semble que tu as fait un livre qui
+est très proche de… Je ne sais pas d’ailleurs si, à ce moment-là, tu le connaissais,
+Whitehead. [97 :00] Quand tu as écrit "États et processus", tu le connaissais déjà ?
+[Stengers indique "oui"] Oui! C’est un livre qui a beaucoup de rencontres avec… [Il
+s’agit sans doute du livre écrit avec Ilya Prigogine, La Nouvelle alliance (Paris :
+Gallimard, 1979)] Ma question, c’est ceci ; c'est tout simple. On ne sait pas ce qui s’est
+passé d’après la réponse que m’avait donnée Isabelle, on va reculer, mais, je dis juste, on
+ne sait pas bien ce qui s'est passé encore dans la diversité disjonctive, mais on se donne
+des vibrations. Il y a formation de vibrations. D'où viennent-elles ? Encore une fois, il va
+falloir le dire, mais ça, je me sens assez sûr de moi pour dire d'où elles viennent, les
+vibrations. J'ai moins besoin d'Isabelle sur ce point. Est-ce que je peux dire, [98 :00] eh
+ben oui, ces vibrations forment des séries infinies qui ne convergent vers aucune limite, et
+c'est le cas d'une vibration par rapport à ses harmoniques, à supposer une infinité
+
+                                                                                                17
+
+d'harmoniques dans le cosmos ? Est-ce que je peux dire ça ou est-ce que c'est une
+proposition physiquement stupide? [98 :25]
+
+Isabelle Stengers: Non, … [Propos inaudibles]
+
+Deleuze: Tu dis une chose merveilleuse alors, tu vois, parce que j'insiste sur le point
+suivant : [99 :00] c'est un genre de philosophie qui est complètement en connexion avec
+la science moderne. C’est évidemment stupide ; je reprends l'exemple de Bergson, dire
+que Bergson, n’est-ce pas, fait une métaphysique de la durée et liquide la science, il faut
+être profondément débile, qu’il ne s’intéresse pas à la science, il faut être d’une très, très
+grande débilité pour dire des choses comme ça. L'idée de Bergson – vous allez voir
+pourquoi j’invoque Bergson – elle est très simple : elle est que la science moderne nous
+donne et nous apporte une nouvelle conception du temps, le temps scientifique. Le temps
+scientifique moderne qui commence dans la physique vers la fin du seizième siècle peut
+se définir scientifiquement, je dis bien scientifiquement ainsi : c'est la considération du
+temps [100 :00] à un instant quelconque, à l'instant petit t. La science moderne définit le
+temps par rapport à l'instant quelconque. Pourquoi est-ce que c'est moderne, ça? Parce
+que la science antique définissait le temps en fonction de moments privilégiés. L'idée de
+Bergson, elle est très simple, elle est très belle : qu'est-ce qu'a fait Galilée, c'est ça qu'il a
+fait, Galilée. Là-dessus, Bergson, qu'est-ce qu'il prétend faire? Il dit que l'ancienne
+métaphysique était le corrélat de la science antique.
+
+[Bruits de chaises, interruption] Aie, aie, aie, aie, aie, aie, aie… Alors ceux qui veulent
+partir, vous partez, [101 :00] mais vous partez vite. [Pause] Eh, c’est dur, eh ? C’est dur
+pour tout le monde, mais c’est dur pour moi aussi. [Pause] Non, mais c’est vrai, vous
+sortez ! Je n’y vois pas d’inconvénient. On s’arrête cinq minutes pour que tout ceux qui
+veuillent sortir, ça sorte, mais ne sortez pas… Sortez par groupes, au moins. [Pause] Non,
+mais, je ne peux pas… je ne peux pas travailler dans ces conditions-là… Eh non, ça va !
+[Pause] Alors… [102 :00] [Voix presque indistincte de Deleuze qui parlent aux étudiants
+près de lui]
+
+Bon, je dis, Bergson nous dit exactement: mais, ce que vous appelez métaphysique, c'est
+la métaphysique ancienne, ancienne dans quelle mesure? -- [Interruption, un étudiant
+entre] Ah, il y abien une clé ? Il n’y a pas de serrure ? … [Réponses des étudiants] Ah
+non, c’est dangereux parce qu’on ne pourra pas sortir… Si on arrive à fermer, oui ! –
+Bon, alors, il dit : la vieille métaphysique, qu’est-ce que ça veut dire ? Mais, elle était
+parfaitement adaptée à la science ancienne, antique, et inversement la science antique
+était absolument adaptée à sa métaphysique. [103 :00] Physique, métaphysique, il faut
+garder ces termes excellents. Aristote fait la physique du mouvement, et la métaphysique
+qui correspond à cette physique du mouvement, et la physique du mouvement correspond
+à la métaphysique d'Aristote.
+
+Aujourd'hui il y a une série de crétins qui ont pensé, parce que la science avait évolué,
+elle pouvait se passer de métaphysique. Bergson dit que c'est complètement idiot; ça n’a
+aucun sens, cette proposition. Simplement, la science a en effet suffisamment évolué pour
+que, il faut reprendre -- non pas du tout que Aristote ait vieilli, ça n'a aucun sens -- il faut,
+
+                                                                                            18
+
+y compris grâce à Aristote, reprendre la métaphysique à zéro. [104 :00] Il faut faire la
+métaphysique qui est le corrélat de la science moderne, exactement comme la science
+moderne est le corrélat d'une métaphysique potentielle qu'on n’a pas encore su faire.
+Quelle est la métaphysique qui peut correspondre à une considération scientifique du
+temps pris à l'instant quelconque ? Bergson dit: c'est la mienne. Qu’il ait tort ou raison,
+peu importe. Il veut dire que c'est une métaphysique de la durée, et non plus de l'éternité.
+Vous remarquez le thème commun avec Whitehead. Qu'est-ce que c'est que la
+métaphysique pour Whitehead qui correspond à la science moderne? Ce serait une
+métaphysique de la créativité. Ce sera une métaphysique du nouveau, de la "novelty",
+[Deleuze essaie de prononcer l’anglais plusieurs fois] pour bien marquer que ce n’est pas
+un concept philosophique, [105 :00] le nouveau, le quelque chose de nouveau.
+
+Alors – pourquoi [est-ce que] j’ai raconté tout ça ? Je ne sais même pas… bien ; ah, oui !
+C'est merveille ce que vient de dire Isabelle, parce que vous avez exactement… Je dis :
+est-il possible de concevoir une vibration qui s'étend sur une infinité d'harmoniques, c'està-dire sur une infinité de sous-multiples? Elle me répond évidemment oui; mais ça
+n'intéressera pas un physicien -- remarquez la notion d'"intérêt" -- ça n'intéressera pas un
+physicien parce que toute la démarche de la science sera de prendre la moyenne, et c’est
+par là qu’un savant est savant, d’accord. [106 :00] Il n’a pas du tout tort de son point de
+vue. En effet, seule l'intéressera la moyenne. Ou seul l’intéressera dans d’autres cas, en
+acoustique, un nombre d'harmoniques finies, et proches. Ce sera son métier de savant. La
+métaphysique qui correspond à cette science, ce n'est pas une réflexion sur cette science ;
+elle doit dire métaphysiquement ce que la science dit scientifiquement, c’est-à-dire elle
+doit dire avec des concepts ce que la science dit avec des fonctions. La métaphysique,
+elle, ça l'intéresse prodigieusement de ne pas prendre la moyenne, et de constituer une
+série qui en effet n'aura pas [107 :00] d'intérêt physique, mais aura un intérêt
+métaphysique considérable, une série infinie sans convergence constituée par la vibration
+et l'infinité de ses sous-multiples, l'infinité de ses harmoniques.
+
+Là-dessus, deuxième point, que je veux demander à nouveau de … parce que là, c'est
+plus compliqué, c’est plus technique. Il se peut, d'ailleurs, que j'ai mal compris la thèse de
+Whitehead, j'ai de la peine. D'abord c'est en anglais, ce n'est pas traduit, évidemment, et
+vous avez déjà deviné que mes rapports avec l'anglais étaient douloureux. Et je lis bien
+quand même ; c’est le chapitre, pour ceux qui savent l'anglais et que tout ça intéresse c'est
+donc dans Concept de nature, c'est dans le chapitre, un merveilleux chapitre [108 :00],
+c’est le chapitre 4. Et dans ce chapitre 4, voilà, je vous en traduis, enfin, et on va dire, je
+vais vous en traduire des petits bouts : [Pause] "Le caractère de l'événement" --
+l'événement, pour le moment, c'est donc une suite infinie non convergente et sans limite ;
+il n’a rien d’autre à ce niveau du chapitre – "Le caractère de l'événement peut être défini
+par les expressions [109 :00] quantitatives exprimant des relations entre diverses
+quantités intrinsèques à l'événement lui-même" – c’est-à-dire, à la série, diverses
+quantités intrinsèques, il me semble, du type donc de ce que je vous avais dit, durée,
+hauteur, intensité -- "ou entre de telles quantités et d'autres quantités intrinsèques à
+d'autres événements" -- c'est-à-dire à d'autres vibrations --. "Dans le cas d'événements qui
+ont une extension spatio-temporelle considérable, l'ensemble des expressions
+quantitatives est d'une très grande complexité. Si [petit] e est un événement, appelons
+
+                                                                                               19
+
+q(e) l'ensemble des expressions quantitatives définissant son caractère, et qui inclus ses
+connexions avec le reste de la nature". Vous voyez que e désigne ma série vibratoire
+infinie étendue sur les sous-multiples et q(e) le caractère ou un des caractères de la série.
+J’appelle e1, e2, e3, etc., ça, ça, ce sont des notions que je n’ai pas à commenter, donc ce
+n'est pas la peine. Je saute… [Deleuze cherche dans le texte]
+
+Donc, il a les deux séries. Il donne comme schéma des deux séries "e1, e2, e3, … e petit
+n, e petit n+1", [111 :00] ça c'est la série vibratoire, et "q(e1), q(e2), q(e3) … q(e [petit]
+n), q(e [petit] n +1)," ça ,c'est la série de la caractéristique. Alors "si Q [petit] 1 est une
+mesure quantitative trouvée en q(e1), et Q [petit] 2 l'homologue à Q [petit] 1 qui est
+trouvé en q(e2), et Q [petit] 3", etc. etc., "alors nous aurons une série Q [petit] 1-Q [petit]
+2-Q [petit] 3 … Q [petit] (n+1)," etc., "bien qu'elle n'ait pas de dernier terme" -- Donc elle
+a en commun avec la série précédente vibratoire, elle a en commun de ne pas avoir de
+dernier terme, elle est bien infinie [112 :00] -- "bien qu'elle n'ait pas de dernier terme, elle
+converge" – elle, la série des Qs – "elle converge vers une limite définie". Voilà.
+
+Alors évidemment, mon angoisse, c'est : est-ce que mon commentaire est juste ; comme
+lui, il ne donne aucun exemple, est-ce que mon commentaire est juste ? J'ai donc besoin
+d'Isabelle. Qu’est-ce que c’est ? Le point essentiel c'est cette naissance de la série
+convergente, convergent vers une limite. Qu’en penses-tu?
+
+Isabelle Stengers: [Toujours aussi inaudible. Elle considère les sens des séries
+mathématiques et la réflexion de Whitehead sur les séries convergentes] [113 :00114 :00]
+
+Deleuze : C’est-à-dire, enfin, à penser scientifiquement…
+
+Stengers : [Elle continue, propos inaudibles]
+
+Deleuze : C’est-à-dire, tu fais partie, en effet, et c’est très précieux, c’est-à-dire, à ce
+moment-là, et c’est seulement à ce stade-là, qu’il est mathématicien-physicien.
+
+Stengers : Oui. [Quelques propos inaudibles]
+
+Deleuze : Alors, ça m’importe beaucoup parce que je crois à la possibilité de relais, à des
+espèces de relais, un relais métaphysique-science, une fois dit que les deux disciplines
+sont extrêmement différentes. Mais ça n'empêche pas que, dans une même œuvre, il
+puisse y avoir des relais si il y a la complémentarité [115 :00] que j'ai indiquée d'après
+Bergson, d'après Whitehead, si il y a cette complémentarité entre métaphysique et
+science, et que cette complémentarité n'a absolument pas vieilli. Simplement nous
+n’avons pas encore – parce que les gens n'ont absolument rien compris, il me semble --
+nous n'avons pas encore la métaphysique de notre science, ça n’empêche pas que malgré
+cette différente nature, métaphysique-science, qu'il y ait des relais, alors que dans, chez
+un même auteur, s’il a la compétence nécessaire, et tout un bout de métaphysique, il y
+aurait un relais par la science, etc.
+
+                                                                                             20
+
+Là ce que dit Isabelle de très important pour moi, c’est que, en effet, tant que j’en reste à
+la série infinie des harmoniques, eh ben, la science ne peut pas s’en servir et n’éprouve
+aucun intérêt à s’en servir comme ça. Mais déjà, elle fera passer [116 :00] ce que tu
+appelais par schème opératoire, elle fera passer comme une fonction. Toi, tu avais un
+autre mot ; tu disais "construction", non ?
+
+Stengers : Oui.
+
+Deleuze : Une construction, mettons, une fonction ; moi, je préfère le mot, et ce sera là la
+loi de Fourier. La loi de Fourier, pour ceux qui savent un peu, qu’en effet, tu viens
+d’évoquer, qui concerne précisément la base des mouvements vibratoires, est
+typiquement la manière dont la science va utiliser ça. Et puis, [c’est] un nouveau stade, la
+définition et la détermination des séries convergentes vers des limites. Alors là, c’est un
+acte scientifique ; c’est un acte scientifique qui prend le relai et que, du coup -- en effet,
+ça m’explique quelque chose – que Whitehead, dans la mesure où il fait un livre de
+philosophie, ne va même pas donner d’exemples. C’est moi qui risque les exemples, liés
+aux sons, à la couleur, etc. [117 :00] Lui, il parle uniquement de caractéristiques ; il parle
+de caractères intrinsèques dont la mesure tend vers – ce n’est pas le caractère intrinsèque,
+eh ? -- qui tend vers une limite. Et le caractère intrinsèque est capable et susceptible
+d’une mesure, et ce sont les mesures du caractère intrinsèque qui tendent vers des limites,
+et à ce moment-là, vous avez des séries convergentes, dès ce moment-là, vous [les] avez,
+tout est prêt. Je ne dis pas du tout que vous avez des conjonctions parce que les
+conjonctions, elles ne résultent pas de tout ça, mais tout est prêt pour l’émergence des
+conjonctions. Vous comprenez ? Si bien que, on est renvoyé au tout début, si vous en
+pouvez encore. Tout début, c’est quoi ? Ben, on était dans notre soupe, et puis on dit tout
+d’un coup, [118 :00] ah, ben oui, il y a des séries même non-convergentes, ces séries
+infinies non-convergentes qui se sont formées.
+
+Alors, accordez-moi juste… Je cherche à grignoter. Grâce à Isabelle, on peut se dire, oui,
+on voit comment on passe, on voit… Il faudrait l’appuyer scientifiquement, mais ce n’est
+pas notre travail ; elle, elle saurait le faire, mais on n’en tirerait pas grand-chose du point
+de vue métaphysique. On peut passer donc les séries sans convergence aux séries
+convergentes. Le difficile, c’est comment les séries se forment dans la soupe primitive,
+dans le désordre primitif. Comment est-ce possible, ça ? [Pause] Eh ben, [119 :00] c’est
+ce point que je voudrais … – Vous pouvez encore ?
+
+Stengers : [Réponse inaudible]
+
+Deleuze : Je suis un peu hypocrite là… [Rires] En commentant, je voudrais juste alors
+développer ce point pour voir comment vous réagissez.
+
+Acceptez [qu’] on revienne à Leibniz. On oublie tout, on oublie tout provisoirement de ce
+qu’on vient de voir car il y a des textes alors – mais peut-être qu’il n’y aurait pas eu tout
+ce qu’on vient de dire, on ne les aurait pas vus, on se serait passé à côté car ils ne sont pas
+très nombreux, mais ils sont très, très profonds, très puissants, les textes de Leibniz. On
+ne serait peut-être pas passé à côté à cause de [Michel] Serres parce que Serres les a bien
+
+                                                                                              21
+
+remarqués pour des raisons qu’on va voir. D’ailleurs, si cela l’intéresse tellement, lui
+aussi, ces textes de Leibniz, c’est des textes qui font [120 :00] allusion à un chaos
+primordial, c’est-à-dire à un état de multiplicité pur qui correspond tout à fait aux
+"many", diversité disjonctive, et qui se présente comme des suites purement aléatoires.
+
+Par exemple, dans les Nouveaux essais, livre 4, chapitre 2, paragraphe 14, il évoque une
+poignée de lettres d’imprimerie lancées au hasard. C’est une pure multiplicité disjonctive.
+En effet, ça serait étonnant que ça fasse une phrase, donne une phrase. [121 :00] Il prend
+d’autres exemples. La poignée de lettres lancées, et puis il prend un autre exemple alors
+qui doit nous importer beaucoup car il nous dit textuellement – allez voir le texte parce
+qu’il le voulait, mais moi aussi – "On ne sait pas comment les nombres premiers sont
+cachés dans les replis," en d’autres termes, il n’y a pas de loi des nombres premiers. Ils
+sont faciles à reconnaître ; on peut les reconnaître, mais à quelle loi obéissent-ils ? On
+dirait, une distribution aléatoire, on dirait. [122 :00] En tout cas, pour notre entendement
+actuellement, la loi des nombres premiers, on ne l’a pas, on ne sait pas. C’est une
+distribution aléatoire, exactement comme si Dieu avait lancé une poignée de nombres, et
+puis ceux qui sont retombés sur la bonne face, il avait dit, ce serait les nombres premiers.
+
+Et puis, il donne encore un autre exemple : mille boulets, mille boulets séparés. Il dit que
+c’est très fatiguant à compter, et quand on entrera au millième… Là, il donne ça comme
+exemple de diversité disjonctive, mille boulets qu’il balade. Il dit que c’est très fatiguant
+à compter, et puis quand on les aura comptés, on ne saura pas si on ne s’est pas trompé
+d’un, il faudra quand même recommencer le compte, si bien que les artilleurs – admirez,
+c’est la naissance des séries – les artilleurs [123 :00] vont faire des paquets. Ils vont les
+mettre en figures, dit-il, et c’est très intéressant : les mille boulets, ils vont les mettre en
+figures, par exemple, de dix. Ils formeront soit de jolies pyramides de boulets, soit de
+gracieux carrés, soit des rectangles, tout ce que vous voulez. Ils les mettent en figures …
+[Interruption de l’enregistrement] [2 :03 :28]
+
+Partie 4
+
+… Et ce n’est pas une série convergente ; ça ne converge sur rien. C’est exactement mon
+état des, mon état deux, une série infinie qui converge sur aucune limite. Je fais mes
+petits paquets de dix ; c’est un peu ce que Leibniz appelle tout le temps "faire une table".
+C’est le rôle du magasinier ; toute comptabilité procède comme ça, le comptable,
+[124 :00] tout ça. Enfin, vous avez tous les exemples que vous voulez. Et puis, je compte
+mes figures ; vous vous rendez compte ? J’ai à compter un-deux-trois-quatre-cinq-sixsept-huit-neuf-dix pour avoir mes mille boulets. Et je n’ai pas compté ; je suis sûr de moi.
+Voyez le pas prodigieux ! Mais nous, on n’en est pas là ; on n’a pas inventé l’art du
+magasinier. Nous, on traîne sur notre champ de bataille chaotique avec mille boulets ; on
+se dit, oo là là, combien il y en a de boulets ? Je ne sais pas combien il y en a de boulets.
+Et puis, ou alors, avec mes lettres que j’emploie comme ça…
+
+Ça ne va pas, tout ça. Et qu’est-ce que c’est que ça chez Leibniz ? Je dis les textes, ils
+sont rares. Oui et non, parce qu’en même temps, il est si sûr de lui, car cet état-là, cet état
+du "many", de la diversité disjonctive, bien sûr, il est dans les choses. [125 :00] Mais il
+
+                                                                                             22
+
+est aussi dans nos pauvres têtes, [Rires] les têtes que Leibniz est le premier philosophe à
+avoir assigné l’état de nos esprits sous cette forme-là, notre pauvre tête en chaos. Et ça, ce
+n’est pas du tout cartésien, ça. Chez Descartes, je me trompe, je me trompe – il a l’envie
+– je me trompe, on me trompe. Il est méfiant, il est méfiant. On le trompe tout le temps. Il
+y a même un Dieu qui a le temps pour le tromper, enfin, c’est la paranoïa pure. [Rires]
+
+Tandis qu’avec Leibniz, c’est le délire confusionnel. [Rires] C’est, qu’est-ce qu’il y a
+dans ma tête ? Ah, quelle confusion ! Qu’est-ce que c’est que tous ces électrons qui
+dansent ? Je ne peux pas former une idée ; c’est la fuite d’idées. C’est autrement noble
+que la paranoïa, ça… [126 :00] Enfin, non, on peut aimer. C’est pour vous dire, quand on
+aime un philosophe, et qu’on fait ses grands choix philosophiques, il faut dire que ça
+vous engage, dans votre âme, dans votre cœur, et même dans votre raison, dans vos
+maladies et dans vos santés. Vous choisissez un philosophe avec vos maladies aussi.
+
+Alors, qu’est-ce que c’est Leibniz ? C’est vraiment le brouillard dans la tête. C’est ce que
+je vous disais, c’est des plis, c’est la brume. Ce n’est pas du tout cartésien, ça, pas du tout.
+Ce n’est pas du tout la tête de l’erreur ; c’est la tête de l’indéterminable chez lui.
+Comment est-ce que je vais pouvoir distinguer ? Ce n’est pas, comment est-ce que je vais
+pouvoir avoir une idée distincte, [127 :00] mais comment [est-ce que] je vais pouvoir
+distinguer quelque chose dans cette bouillie ? Et qu’est-ce que c’est, qu’est-ce que c’est
+ces états ? Je disais déjà la dernière fois, c’est des états semi-hallucinatoires. Est-ce un
+rêve ? Est-ce la réalité ? Qu’est-ce que c’est cette brume à travers laquelle je vois les
+choses ? Et quels sont les exemples que Leibniz invoque constamment ? Le bruit de fond
+de la mer, c’est vraiment bien choisi, quoi. Il a dans la tête perpétuellement un bruit de
+mer, [Pause] ou bien la rumeur, une rumeur, [128 :00] une espèce de… Et dans quoi estce que ces états se réalisent à l’état le plus pur ? L’étourdissement.
+
+Là, alors, du coup, c’est les textes mille fois, qui paraissent mille fois chez Leibniz,
+l’étourdissement, le sommeil, et la mort. Car, qu’est-ce que la mort, vous vous rappelez ?
+C’est lorsque le corps replie toutes ses parties ; elle se loge, la mort, dans les plis de la
+cendre, et la mort, c’est le retour à la rumeur, à l’étourdissement. Il n’y a pas de
+différence de nature entre la mort et l’étourdissement. [Pause] [129 :00] Perpétuellement,
+le voile, le brouillard, la poussière… La poussière, qu’est-ce que c’est comme plus belle
+distribution aléatoire, la poussière ?
+
+Alors, je dis que ça, c’est un point que Serres a très, très bien dit, et je crois que ça lui
+convient, ça lui convient à son travail à lui autant que ça peut convenir à ce que je
+voudrais faire, moi. Il a écrit d’ailleurs un livre qui s’appelle, un des livres de Serres, qui
+s’appelle Genèse [Paris : Grasset, 1982] et, comme il dit, devrait s’appeler Noise, et il y
+a tout un petit chapitre sur la "noise", il a cherché "noise", et la noise, c’est quoi ? Il
+prétend – mais là, il faut se méfier parce que, je ne sais pas si c’est, si c’est… enfin, non,
+[130 :00] peut-être pas, enfin, je l’ai perdu, ça ne fait rien – vous verrez, ça, le petit
+chapitre sur la noise, c’est très intéressant parce qu’il rattache la noise au bruit de fond de
+la mer. Et voyons, on se trouve devant le problème, le problème tout à fait que Serres a
+beaucoup traité dans ses livres, à savoir, à partir de la noise, à partir du bruit de fond, à
+partir d’un monde de parasites, finalement, où tout est parasite – autre livre de lui sur le
+
+                                                                                              23
+
+parasite – comment faire la genèse d’une information ? Oh non, on ne va pas parler
+d’information parce que ça ne nous intéresse pas beaucoup, mais la genèse de l’occasion
+actuelle, je pourrais dire que l’occasion actuelle, bon, d’accord, c’est ça une
+information, l’occasion actuelle. C’est une information, bon, c’est une genèse.
+
+Alors, vous voyez ? La question, c’est… Je dirais aussi bien en termes leibniziens, il y
+aurait une merveilleuse définition du chaos qu’on peut tirer de Leibniz. [131 :00] C’est le
+mélange, c’est l’ensemble mélangé des incompossibles ; c’est l’ensemble de tous les
+possibles, c’est l’ensemble de tous les possibles y compris les incompossibles ; c’est ça le
+chaos. Vous vous rappelez ? Et c’est avant la création du monde, ça, puisque Dieu ne
+crée le monde qu’en choisissant un monde, un monde dont tous les éléments sont
+compossibles et en excluant tous les autres mondes qui auraient été possibles, mais
+n’étaient pas compossibles. Donc, je peux dire, l’ensemble de tous les possibles y
+compris les incompossibles forme le chaos ; ça forme la diversité disjonctive, le "many".
+
+Donc ce que j’estime avoir montré, c’est que ce stade du "many" – là, il ne s’agit pas du
+tout de forcer du tout les textes – était réellement présent, fondamentalement présent
+[132 :00] dans la philosophie de Leibniz. D’où notre question d’ailleurs urgente : qu’estce qui peut se passer pour qu’il y ait dans ce monde, dans ce chaos, dans ce monde de
+l’étourdissement, quelque chose qui se distingue ? C’est aussi bien le problème de la
+physique que le problème de la psychologie. C’est le problème de la physique, c’est-àdire d’une constitution d’un monde, et c’est le problème de la psychologie, c’est-à-dire le
+problème de la perception. Comment est-ce que je peux distinguer ? Comment est-ce que
+je peux avoir une idée ? Vous comprenez, là aussi, il y a des gens qui croient que avoir
+une idée, c’est un droit, et ce n’est pas raisonnable car qu’est-ce que la philosophie ? Ce
+n’est pas raisonnable. Avoir une idée, c’est un matin de fête, ou une soirée de fête. Ça
+vous arrive, mais [133 :00] ça vous arrive très rarement, avoir une idée. Il faut le marquer
+sur votre agenda, "J’ai eu une idée," [Rires] occasion actuelle. Voyez, il y a dans avoir
+une idée, il y a occasion actuelle, faite d’une concrescence et d’une ingression, quelque
+concrescent. Vous pouvez dater l’heure, la minute, tout ça. Et il ne faut pas croire que ça
+puisse arriver très, très souvent. Et Leibniz qui a tant d’idées, il fait ça. Encore une fois, je
+suis moi perpétuellement dans le brouillard, chacun de vous est dans le brouillard, et ceux
+qui n’y croient pas sont des sortes de crétins, ils ne savent pas mieux. Leibniz y a pensé
+d’ailleurs : les seuls qui ne soient pas dans les brouillards sont ceux qui ne montrent que
+leurs idées fixes. Donc, ces crétins, ils sont encore dans le brouillard parce que ceux-là,
+[134 :00] ils sont très, très dangereux.
+
+Mais qu’est-ce qui va se passer dans mon brouillard, dans le brouillard de chacun de
+nous, dans le brouillard cosmique, dans ce brouillard qui est l’aléatoire par excellence ?
+Eh bien, peut-être c’est que vous vous rappelez un acquis de la dernière fois, ça
+s’enchaîne, à savoir tout se passe comme si, coextensif à ce chaos, à cet état de chaos, on
+pouvait définir un premier filtre, filtrer le chaos. Le mot latin, repris par Leibniz, c’est
+cribratio, le filtrage, cribra qui va donner criblatio, mais originellement c’est cribratio, le
+filtrage, le criblage.
+
+                                                                                              24
+
+Or, et je ne sais pas si vous vous rappelez, la dernière fois, on a vu avec le régime
+baroque de la lumière, je vous disais, l’action de la lumière, l’action. Je ne dis pas la
+lumière elle-même. L’action de la lumière, c’est d’être un filtre ; elle se présente, cette
+action, comme un filtre qui s’exerce et qui consiste à filtrer les ténèbres. Elle filtre les
+ténèbres pour en extraire quoi ? Si vous vous rappelez, elle en extrait, la première
+extraction qu’elle va faire, [136 :00] c’est arracher aux ténèbres quelque chose qui s’en
+distingue à peine. Leibniz dirait qu’il s’en distingue par une quantité plus petite que toute
+quantité donnable, à savoir des ténèbres le filtrage, le sombre fond des couleurs, le
+sombre fond des couleurs, c’est-à-dire pas encore une couleur -- ça serait trop facile – le
+fuscum subnigrum [Pause] qui ne se confond pas avec les ténèbres et qui en est pourtant
+infiniment voisin.
+
+Bon, alors voilà que le fond noirâtre – voyez, après, on peut traduire ça, [137 :00] par
+exemple, en termes de philosophie romantique allemande lorsque les grands
+Romantiques vont distinguer le sans-fond, le par-delà de fond, etc. Voyez que "par-delà
+de fond" des couleurs, il y a un sans-fond qui est les ténèbres, le banni -- et le filtre, c’està-dire l’action de la lumière, va juste passer, elle va raser les ténèbres. Ça va être une
+action de lumière rasante ; elle va raser les ténèbres pour en extraire le fuscum subnigram,
+le fond noirâtre.
+
+Vous direz, on n’a pas beaucoup progressé. Si, si ! On a énormément progressé. C’est la
+potentialité des couleurs déjà que vous avez arrachée. C’est une merveille ! Ce filtre,
+c’est comme une machine. Vous vous rappelez ? On l’a fait au tout début ; on est parti de
+ces choses. [138 :00] Qu’est-ce qu’une machine naturelle ? Une machine naturelle, pour
+Leibniz, c’est une machine dont les parties vont à l’infini, c’est-à-dire, une machine
+naturelle, c’est une machine dont toutes les parties sont des machines, et des parties de
+parties qui sont des machines. Qu’est-ce qui est artificiel dans nos machines ? C’est
+qu’elles ont des éléments naturels. Mais, une machine de la nature, elle n’a plus aucun
+élément naturel ; tout élément de la machine de la nature est une machine.
+
+Le filtre, la cribratio, est la première machine de la nature, et elle sélectionne, elle
+sélectionne, [139 :00] elle arrache aux ténèbres du "many", de la distribution aléatoire, de
+ce mélange de poussière, cet étourdissement, etc. Elle arrache un sombre fond de
+couleurs en optique ; quoi, quant aux sons ? Vous sentez déjà que je suis forcé de
+parler… Bien sûr, vous direz, mais ben non, je ne peux pas encore parler d’optique ! Non,
+il n’y a pas, il n’y a pas… tout ça, mais ça ne fait rien. Vous me l’accordez. C’est après
+qu’on s’apercevra que tout ça était déjà fondé, et pour le moment, bon… Mais, alors,
+comment [est-ce qu’] il agit, ce crible ? Si vous m’accordez que ça n’a l’air de rien, mais
+que, en fait, c’est très important, cette petite différence des ténèbres au sombre fond. Si
+vous m’accordez que c’est un acte formidable, la cribratio comme organisation du
+monde, la première organisation du monde, [140 :00] eh bien, ça doit ressembler à
+quelque chose, pour ceux d’entre vous qui connaissent, qu’un autre grand, grand
+philosophe, et ancien, lui, avait développé, avait développé dans quelques pages
+sublimes, c’est Platon dans la Timée. Et Platon dans la Timée avait développé une théorie
+restée célèbre sous le nom de la théorie de la Chôra [Deleuze l’épèle] que l’on présente
+suivant les mots dont Platon se servait, théorie du lieu – non surtout pas l’espace --
+
+                                                                                             25
+
+théorie du lieu, car il dit topos ; [141 :00] théorie du réceptacle, ou théorie de la nourrie.
+[Pause]
+
+Et c’est dans la Timée, je donne la référence, parce que j’aimerais bien que vous le lisiez
+pour la prochaine fois, c’est 51. -- Vous savez qu’il y a… Pour ceux qui ne savent pas, je
+précise : il y a une numérotation qui est dans toutes les éditions, toutes les éditions avec
+une pagination différente, mais les lignes du texte sont numérotées, répondent à une
+numérotation qui est constante, si bien qu’il est facile de trouver n’importe quel textes de
+Platon dans n’importe quelle édition. – C’est donc 51e à 53c. [142 :00]
+
+Et pourquoi je me re… Attends. Pourquoi [est-ce que] je me réjouis de trouver ce lien de
+Leibniz, du filtrage de Leibniz, avec la Chôra platonicienne ? Parce qu’on les renvoyait à
+Whitehead, et Whitehead, quand il se demande dans Procès et Réalité, quand il se
+demande comment passe-t-on de la diversité disjonctive à des séries, il dit : c’est l’éther,
+c’est l’éther, notion physique qui a reçu [143 :00] dans l’histoire de la physique des
+acceptions très, très différentes, et que certains physiciens maintiennent aujourd’hui dans
+un sens très spécial, mais que Whitehead maintenait, et que Whitehead prend en un sens,
+il me semble, très électromagnétique. L’éther, c’est finalement le champ
+électromagnétique pour Whitehead. Mais, l’éther, c’était aussi une expression de Leibniz,
+dans la théorie du mouvement concret, pour désigner une matière particulièrement
+subtile. Je peux dire que c’est l’éther qui est coextensif aux ténèbres et qui en arrache le
+sombre fond, et qui fait la première organisation. C’est l’éther le premier crible. Il faut
+concevoir l’éther comme un crible. Et dans sa conception de l’éther, Whitehead dit que la
+meilleure approximation de ce qu’il entend par l’éther, [144 :00] on le trouvera dans la
+théorie du réceptacle chez Platon dans la Timée. Comment le crible agit-il ? Mais, je n’en
+peux plus, on arrête. [Pause] J’espère que vous n’en pouvez plus.
+
+Je voudrais que le plus d’entre vous lise le texte de Platon, même comme ça pour avoir
+un… C’est un texte splendide, très beau. Et maintenant je voudrais que, avant qu’on se
+quitte, ceux qui ont à intervenir, ceux qui ont quelque chose à dire, à ajouter… Oui ?
+
+Un étudiant: [Inaudible] [145 :00]
+
+Deleuze : C’est une question très importante, alors je réponds deux choses : Oui, l’espace
+et le temps sont des séries, mais ces séries présupposent les séries de la matière. Là aussi,
+tout comme Leibniz, Whitehead fait partie de ceux qui pensent qu’il n’y a pas d’espacetemps vide, mais que l’espace et le temps sont fondamentalement relatifs à ce qui les
+remplit. Donc, il y a bien une série d’espace et une série du temps ; il y a bien une série
+spatiotemporelle, d’ailleurs très complexe dans la philosophie de Whitehead, mais on ne
+peut l’aborder qu’après tout ça. Ce que je dis ne présuppose encore aucune… [Deleuze ne
+termine pas la phrase] C’est la série [146 :00] d’espace et de temps qui est une limite des
+séries dont je parle, même si les autres sont inséparables, et pas l’inverse. De même, toute
+la théorie platonicienne du réceptacle ne présuppose pas l'espace-temps, c'est l'inverse.
+L'espace et le temps naîtront sous certaines conditions. La question est très juste mais elle
+est à venir.
+
+                                                                                            26
+
+La même étudiante : [Question inaudible]
+
+Deleuze : Ah, non, pas l’actualité. L'occasion actuelle c'est quelque chose qui est
+complètement dans l'espace et dans le temps. Ma réponse portait sur : quel est le rapport
+entre l'espace et le temps et les séries, les séries préalables à l'occasion actuelle.
+
+La même étudiante : [Question inaudible] [147 :00]
+
+Deleuze : Oui, c’est les séries dont j’ai parlé pendant une heure, les séries dont je n'ai pas
+cessé de parler aujourd'hui, qui sont préalables à l'occasion actuelle -- vous vous
+rappelez? --, ce sont les conditions de l'occasion actuelle, elles sont premières par rapport
+à l'occasion actuelle. Alors, si vous voulez, dans l'ordre vous avez : ces séries qui
+conditionnent l'occasion actuelle, la série espace-temps, et l'occasion actuelle. L'occasion
+actuelle est bien sûr dans l'espace et dans le temps.
+
+Stengers : J’ai une question.
+
+Deleuze : Oui ?
+
+Isabelle Stengers: [Propos peu audibles ; elle pose une question sur le crible, et fait un
+rapprochement de ce dit Bergson dans Matière et mémoire sur la lumière et les miroirs,
+et demande à Deleuze s’il pourrait faire quelque chose du crible à la lumière de
+Bergson] [148 :00]
+
+Deleuze : A mon avis, non, mais je ne suis pas sûr d’avoir raison, mais en revanche, je te
+reconnais bien là parce que, ça, c'est vraiment bien tes soucis à toi. Mais ce n'est pas mal,
+ce n'est pas un reproche. Je dirais, mon exemple de la lumière, si je l'ai invoqué, c'est un
+pur exemple qui consistait à me servir de quelque chose qui ne peut pas intervenir à ce
+moment-là, en droit, mais qui à l'avantage de pouvoir faire comprendre comment
+fonctionne un crible puisque, en effet, je dis : l'action de la lumière, elle consiste à faire
+un filtre entre les ténèbres et le sombre fond des couleurs. [149 :00] Or, au contraire, le
+filtre dont je parlais faisait un filtre entre le chaos et le sombre fond tout court. Donc je
+n'étais pas forcé de me donner rien, en tout cas, comme lumière. Est-ce que le crible,
+alors, chose beaucoup plus importante à mon avis, est-ce que le crible implique déjà des
+équivalents de miroir ? Ce serait extrêmement fâcheux, ce serait très fâcheux parce que, à
+ce moment-là, ce serait déjà tous les éléments de l'occasion actuelle qui seraient là, or il
+ne faut pas. Alors moi, je crois que non. Je crois que non. Il ne faut surtout pas. Si on était
+forcé d’y mettre des quasi-miroirs, ça compliquerait beaucoup, mais j'ai espoir qu'il n'y a
+pas besoin de quasi-miroir. [150 :00]
+
+Stengers: Quand tu nous as lu le texte de Whitehead, que avec les séries de e et de q, et tu
+as fais ta série de Q, Q1, Q2, Qn+1, ce n+1, est-ce que ça signifie qu'on continue comme
+ça à l'infini, ou bien est-ce que ça signifie qu'on est dans un espace à trois + une
+dimensions?
+
+                                                                                         27
+
+Deleuze: Non, les symboles Q1, Q2, Q3, etc., ne constituent pas… Ça, c'est une série de
+caractéristiques, mais chacun anime une série convergente. Chaque caractéristique a sa
+série convergente, et tu as, en revanche, une série ouverte illimitée de caractéristiques.
+
+Un étudiant : [Inaudible. Du contexte, on comprend qu’il s’agit d’une question sur
+Bergson] [151 :00]
+
+Deleuze : Ça serait très intéressant, ça, oui, oui, avec un danger…
+
+L’étudiant : [Il continue à parler]
+
+Deleuze : Oui surtout, qu’il [Bergson] avait un intérêt d’abord, il y a son double intérêt
+pour les jeux et puis, je ne sais pas là… Vous savez, vous, [Deleuze parle à un étudiant à
+côté de lui] son rapport avec la science ? Ça l’intéressait ? Il était peut-être au courant
+de… [Réponse affirmative] Il les connaissait bien, Bergson, mais la physique, ça
+l’intéressait ? [152 :00] [Plusieurs réponses, y compris Isabelle Stengers] Oui, donc, il
+aurait eu un savoir en physique… Oui, ce que vous dites est très intéressant. C’est le
+genre de choses qu’il faut faire, il faut le faire.
+
+Il faut bien vous assurer de jusqu’à quel point le problème est commun, mais cela n’a
+aucun intérêt pour votre projet parce que, même si le problème n’est pas commun, ils
+subissent entièrement… Il n’est entièrement pas valable, mais à ce moment-là, il ne
+faudra pas faire de rapprochements trop… Mais, il se peut en plus qu’en effet, après tout,
+ce que je dis est stupide, c’est vrai, que quand on voit l’étude de mouvement chez
+Duchamp…
+
+L’étudiant [à côté de Deleuze] : [Il suggère un lien possible, à New York, entre le travail
+de Duchamp et Whitehead]
+
+Deleuze : Oui, c’est bon, c’est bon. Bon, eh bien, lisez Platon. [Fin de l’enregistrement]
+[2 :33 :31]

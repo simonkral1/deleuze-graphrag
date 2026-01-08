@@ -1,0 +1,1029 @@
+1
+
+Gilles Deleuze
+
+Seminar on Foucault, 1985-1986
+
+Part I: Knowledge (Historical Formations)
+
+Lecture 08, 17 December 1985
+
+Transcribed by Annabelle Dufourcq; additional revisions and time stamp, Charles J.
+Stivale
+
+Translated by Samantha Bankston; additional revisions, Charles J. Stivale
+
+Part 1
+
+So, you see what the problem is. It coincides well with the end of the term. It’s... after painting a
+kind of picture of knowledge along Foucault’s lines, we were almost pushed... I mean, it wasn't a
+matter of will, it wasn't… we truly were pushed towards a second domain, that of power. And I
+mean: I have a feeling that this is also what happened to Foucault. Meaning, he actually started
+with an epistemology, or with an attempt to construct a doctrine of knowledge, and it was this
+doctrine of knowledge that literally pushed him towards the discovery of a new domain, which
+would become that of power. So much so that what we were already looking for last time was a
+kind of transition that caused us to shift from knowledge to power, and we proceeded by making
+a series of remarks, the most concrete remarks possible. And for today, we suggested closely
+examining a particular passage, because it is a mysterious passage from The Archaeology of
+Knowledge. You see, ultimately, it’s always been very embarrassing to answer the question, if
+this question was ever asked, but come on, come on, come on, come on: give us an example of a
+statement. At least now we know why we were embarrassed, such that we're no longer
+embarrassed. It is very, very difficult to give an example of a statement.
+
+In fact, statements are distinct from words, sentences and propositions, but at the same time, they
+are completely immanent to them. I cannot give an example of a statement without passing
+through what the statement is not, namely words, sentences and propositions. So, every time that
+I am asked for an example of a statement, I will only be able to provide a sentence or a
+proposition and explain why the statement is different from the sentence itself. But since it
+doesn’t exist outside of a sentence, it is very difficult for me to give an example. Accordingly, if
+someone held fast to their demand—give an example, an example of a statement! — Foucault
+would respond as he does in The Archaeology of Knowledge, and that’s what should be the focus
+of our session today. He would respond: A Z E R T, azert.1 So, obviously, memories flood back
+to us. We say to ourselves, ah yes, the Stoics, for example, had a secret word, this secret word
+was blituri, it was a wonderfully magical word. [Pause] For the Stoics, “blituri” refers to a word
+that has no meaning. So, is "azert", in this sense, the secret statement, A Z E R T? That is why
+pages 109-114 [82-87] from The Archaeology, which I asked you to read, if possible, should be
+analyzed very closely.2
+
+                                                                                                     2
+
+On page 109, I will quote Foucault's first remark. The point is to demonstrate that a statement
+does not necessarily imply a grammar or syntax. And, to demonstrate this, he tells us: an
+equation is a statement. And he adds: a curve is a statement, “A graph, a growth curve, an age
+pyramid, a distribution cloud are all statements” (p.109) [82]. An equation and a curve are
+statements. Can we say the inverse? We want to say the inverse. In any case, I immediately want
+to say the inverse. But under what conditions is this legitimate? Every statement is a curve. It
+would be important for us, it would be interesting, very interesting for us, because it would be a
+way of insisting on the irreducibility of the statement to the sentence. Maybe if the curve were
+stated it would involve a sentence, but this wouldn't be the same sentence, it would be the curve
+of the sentence. But what is that, the curve of a sentence? Alright, let's move on.
+
+On pages 113-114 [85-86], he tells us a little more. Because he tells us what a statement is and
+what it isn’t, using even more unusual examples than the previous ones. A curve is a statement.
+This tells us a little more, because he is saying what a statement is and what it isn’t. What does
+not constitute a statement? Letters picked at random. Literally, a handful of letters. A handful of
+letters is not a statement. Letters that are picked at random literally do not constitute a statement.
+Um, you see this intelligent game: Scrabble, yeah? You take a handful of letters, you have a
+handful of letters in your hand: that's not a statement. Fine. [Pause] However, if you copy the
+letters that you drew at random down on a sheet of paper: that’s a statement. If you copy them
+down, then it becomes a statement. We have to go slowly because he’s telling us something
+funny. If I write down this handful of letters, if I reproduce them on a sheet of paper, then it is a
+statement. A statement of what? A statement of a series of letters with no law other than that of
+chance. We have to remember this: a statement of a series of letters with no law other than that
+of chance. But my handful of letters is not a statement.
+
+Or else -- and you can see that this example is equivalent -- the letters on the keyboard of a
+typewriter. A Z E R T. These are the first letters on the keyboard of French typewriters. These
+letters on the keyboard of a typewriter are not a statement. If I copy them down or say them, then
+it becomes a statement. A statement of what? It is the statement of the order of letters on a
+French machine. There you go. Suddenly, questions abound, and we think we understand.
+[Pause] Fine, but before you even begin to think you understand, you have to see how it ends.
+ Look, you recall, right? My handful of letters is not a statement, but if I copy them onto a sheet
+of paper, then it becomes a statement. If I copy them onto a sheet of paper or say them, it's a
+statement. A Z E R T on the keyboard is not a statement. If I say “A Z E R T” or write it down
+on a sheet of paper, then it is a statement.
+
+On p. 117 [89], he concludes: “A series of signs …” -- In fact, the letters from Scrabble or the
+letters on a keyboard are already a series of signs, they’re not yet statements – so, “A series of
+signs will become a statement on condition that it possesses ‘something else’,” -- “on the
+condition that it contains ‘something else’,” -- in parentheses: “‘something else’ (which may be
+strangely similar to it, and almost identical, as in the example chosen)” -- “‘[S]omething else,’
+(which may be strangely similar to it …)”, this is very, very strange, and that is pure Foucault,
+“'something else’ (which may be strangely similar to it, and almost identical …” -- So: “A series
+of signs will become a statement on condition that it possesses ‘something else’ (which may be
+strangely similar to it, and almost identical, as in the example chosen), a specific relationship that
+concerns itself.” You see: a series of signs, A Z E R T, becomes a statement on the condition that
+
+                                                                                                    3
+
+it contains “something else”… What is the “something else”? The same signs on the keyboard,
+which are not themselves a statement, yet the statement is strangely similar and almost identical.
+
+Why do I say “this is pure Foucault”? It's pure Foucault, because if there's something, a
+problem, a running problem, or an amusing problem… a fascinating problem that haunted him;
+everyone has problems that fascinate them, and for Foucault it's the problem of the double. What
+is a double? And we won’t be able to get anywhere in our attempt to explicate Foucault if we
+don’t pass through this issue, which is the issue of the double, and the problem of the double.
+And that haunts him, it haunted him from beginning to end. What is a double? What does it mean
+to have a double? So, yeah, something else “strangely similar” and yet other, “strangely similar
+and quasi-identical.” This is a first for us: the first time we see the existence of the double
+surface in Foucault. The statement is the double of something that is “strangely similar and
+quasi-identical” to it. AZERT. The statement “AZERT” is the double of “AZERT” on the
+keyboard. And yet one is not a statement, while the other is a statement.
+
+Well, then we say to ourselves, OK, we get it, he’s saying something banal. What would it be
+like to say something banal? It would be, for instance, saying something like: for there to be a
+statement, well, it has to be spoken or written. So, the letters on the keyboard are not a statement,
+but if I say the letters on the keyboard or write them down on a sheet of paper, then I am making
+a statement. To make a statement would imply: speaking or writing. In other words, it would be
+talking about something that exists. In other words, it would mean: for there to be a statement,
+there has to be a copy. I have to copy the sequence of letters as they are on the keyboard, or I
+have to copy the letters that I picked at random. At that time, there would be a statement. This is
+stupid. Why is it stupid? If only because the keyboard itself, containing the letters that are not
+themselves a statement, is itself is a copy. Every French machine copies the French model of that
+machine. So if there is a copy of the conditions of enunciation, then we’d have to say: the letters
+on the keyboard are already statements. So that doesn’t work.
+
+Would it be better to say: well, yes, we understand that in order for there to be a statement, there
+has to be a designation, and when I copy the letters from the keyboard I have a statement,
+because I have an instance where something is designated, and what is this something? Well, it is
+an instance that designates something else that is strangely similar and quasi-identical, namely:
+the letters on the keyboard.
+
+So, I would say, at this point: yes, there is a statement when there is something that designates.
+Or, what comes down to the same thing from this point of view: there is a statement when there
+is something that signifies. And I would say: the designated “A Z E R T” on the keyboard is not
+a statement; however, when I copy it on paper…You see, I am no longer defining the statement
+by the condition of copying, I am defining it by the condition of designating, because the second
+series designates the first strangely similar and quasi-identical. That would be stupid too. Why?
+It would not be stupid on one condition, which would be if I were able to define the designation
+or signification without presupposing anything about the statement. Maybe it's possible, I don't
+know at all … [Interruption of the recording without any missing text]
+
+Maybe it's possible, I don't know at all since, the statement is presupposed in traditional
+definitions of designation and signification. So, I cannot define the statement by designation, nor
+
+                                                                                                      4
+
+by signification, for the simple reason that these are dimensions of the statement that presuppose
+the statement itself. The statement itself is what designates. The statement itself is what
+designates. My second remark, after having thought that I understood the matter too quickly,
+well, it collapsed.
+
+Someone will say to me: well, the statement must be defined by what all the other dimensions
+presuppose, both the designation and the signification, namely: the statement must be defined as
+a signifying chain, because the signifying chain does not presuppose the statement; it is
+constitutive, or it can pass for being constitutive. That doesn’t work this time either! Because if I
+define the statement by the signifying chain, what will prevent me from saying that the
+signifying chain is already on the keyboard? And now I'm back to square one. And, going back
+to square one is like saying... I take my head in my hands and I say to myself: what is this
+“something else”? If the statement is fundamentally related to something else that is strangely
+similar and quasi-identical, then this “something else” is neither a designated, nor a signified, nor
+a signifier. What could it be? We're starting over. So, this long path we took—how did it serve
+us? We used it to create impasses. We know that we can't, we can't… And then a word emerges,
+a word that Foucault... to which Foucault attaches a lot of importance, but that, oddly enough, he
+barely comments on.
+
+It’s enough simply to take a look at the table of contents at the beginning of The Archaeology of
+Knowledge, and we see that, basically, the first major part—since it is the title of a part and not
+of a chapter—is called “Discursive Regularities”. Discursive regularities. And then we see that,
+in the last part, in a chapter, Chapter 2 of the fourth part is called “The Original and the Regular”.
+And what is the theme of this chapter on the Original and the Regular? Basically, it consists in
+saying that when you want to define a statement, and he doesn't say that it's unimportant, but
+when you want to define a statement, there's something that is unimportant, which is the criterion
+of the original versus the banal. When you want to know... again, you shouldn't go too fast,
+because you shouldn't conclude that Foucault is saying that a proposition said a thousand times,
+or a statement said a thousand times is a new statement. No, he says that the criterion of novelty
+or banality doesn't constitute the statement itself. A banal statement is no less a statement than
+an original statement. In other words, “banal/original” is not a relevant distinction when it comes
+to knowing what a statement is.
+
+This matters to us. Why? Because we saw that the statement was related to “one speaks”.
+[Pause] Well, the “one” is no more banal than original. The “one” is not the “one” of banality.
+The distinction between banal and original is not relevant to the “one speaks” as a condition of
+any enunciation. Good. So, the statement is neither banal nor original, it is regular. “Regular”,
+what does that mean? That it obeys rules. What are these rules? We saw that these are very
+specific rules when we commented on the nature of the statement… we felt the need... I felt the
+need to borrow [William] Labov’s term “facultative rules” as opposed to “obligatory rules”.3
+Thus, these are strange rules. Not every rule is a rule of enunciation. No doubt the statement
+involves very specific rules, the very rules that have been called “facultative rules”. The fact
+remains that the statement is a regularity. Alright. That would be like saying: alright, it's a
+regularity, not just any regularity. So, it seems that, when I said, “facultative rule”, it implied for
+us that these rules are defined in relation to something, but in relation to what? Which would not
+
+                                                                                                     5
+
+be the same as obligatory rules. In other words, the enunciative rules are defined in relation to
+what? In relation to what? Not the original, not the banal.
+
+The rules themselves are defined in relation to what? Now we'll move on, maybe. Maybe…I’ll
+say: enunciative rules are rules that are defined in relation to singularities. They’re in relation to
+singularities. Ha! I seem surprised that I've made so much progress. And yes. Because: wouldn't
+this already be a way of confirming the distinction between facultative and obligatory rules?
+Facultative rules concern singularities that they regularize. While obligatory rules always
+concern the universal. That would be convenient. That would be a solid confirmation. But we’ll
+leave that. Enunciative rules would concern singularities. I will say right away that Foucault
+rarely uses the word “singularities”, but he does use it. For example, in “The Discourse on
+Language”, you’ll find the following sentence: the “logos […] elevating singularities into
+concepts,” to the level of the concept.4 And understand, even if you cut out the context, he is
+critiquing the logos, because the concept is universal. The logos elevates singularities to the level
+of the concept, that is, it transforms them into universals.
+
+Then, here and there, Foucault uses the word “singular”, or “singularity”, but at the same time
+we cannot say that he makes a big deal out of their terminology. I think what happens is even
+more beautiful. You know, among philosophers there are always two kinds of terms at the
+terminological level. There are terms whose importance is explicitly noted, [Pause] such as
+“statement” for Foucault. In this case, he explicitly tells you: Take note—what I mean by
+“statement” is not what it is meant by “sentence” or “proposition”. And then there are terms that
+the philosopher doesn’t feel like s/he needs… that s/he uses and does not feel the need to tell you
+to “pay attention”. And s/he slips it into some part of a sentence, like it’s no big deal. It's up to
+you to sort out for yourselves. At that moment, these concepts are no longer explicit concepts to
+this philosopher, they’re implicit concepts. They are no longer concepts that announce “look!”,
+but are concepts that “wink” or “glance.”
+
+I’m coming back to my theme. There you go. First of all, [Pause; sound of Deleuze moving over
+to the blackboard] let’s make it simple, yeah! I mean that sounds like mathematics, but it's not,
+it’s not… [Pause; he writes something on the board]. There you go. What did I do? I made an
+emission, an emission of singularities, three singularities, there you go. Or, as they say in
+mathematics, I marked three singular points. These singular points, as they are…good, I drew
+three singular points on a plane. One of the singularities is not on the same line. I could have
+made another emission of singularities, I would have… [he writes on the board]. It was a
+completely different emission of singularities. That's where I made my emission of singularities,
+that one. Then that's all. You will notice that my singular points are indefinite. [Pause] Ahhh.
+One more attempt.
+
+I'm going to do something else. [Pause] I’ll do that, and then… Alright. What did I do? There’s a
+second figure. To put it simply, I would say: I have united the three singular points. I drew three
+lines. Good. We're going very slowly because I think there are tons of traps. The more you think
+you’ve understood something right away, the less you will have understood it. At the same time,
+if you no longer understand any of this, it's annoying. So, what can I say other than “I have
+connected my singular points?” I can say: I have regularized them. I have regularized them.
+Indeed, each of the lines is a line of regular points. A line of regular points unites one singularity
+
+                                                                                                      6
+
+to another or, if you prefer, I’ll introduce another term because it will be very useful to us, a
+regular line, a line of regular points, or, if you prefer, so I’m multiplying words, a series of
+regular points goes from the neighborhood -- this is a mathematical notion, and you don’t need to
+know mathematics to know that it holds great mathematical importance -- it goes from the
+neighborhood of a single point to the neighborhood of another single point. This is my regular
+line.
+
+And the idea of a series appears. So, regularity is a series of points that go from the
+neighborhood of one singularity to the neighborhood of another singularity. Good. Can I... can I
+conceive..., at this level from before..., in my first figure, over there, my singular points were
+indefinite. Over there, when I regularized them, they receive a determination, namely, vertices of
+a triangle. But earlier, as indefinite points, they existed as singularities. They were indefinite. I
+had three singular points. Can I... Is it necessary that the regularization be triangular? I would say
+that triangular regularization is a regularity, that is, a form in which I regularized my singular
+points. Is that the only one, or—and let's keep trying to fix the words, the words that will be
+extremely important terminologically—was another series possible with the same singular points
+than the “triangle” series? Oh yes, well yes, another series was possible. We see one right
+away.... [Interruption of the recording] [34:28]
+
+Part 2
+
+… And, in this second regularity -- you see, it's a second regularization -- what will my third
+singular point be? My third singular point will be determined—it will be another
+determination—will be determined as follows: a point located outside the line AB through which
+I will draw a parallel line to AB. It will be [he writes on the board] another regularity. You can
+see that regularities are infinite. Because, from that point on, I might as well suggest drawing a
+secant. Are you alright?
+
+Alright. I'm sticking to my two series. Practically, you see that I might conceive an infinite
+number of series. What is the relationship between my two series? Convergent or divergent?
+Meaning, the same family or different families? In other words, you can already see that in my
+triangular regularization, I actually have three series. But, strictly speaking, since these three
+series are convergent, I can consider them a single series. I'm moving on to regularization. I’m
+also treating it like one series. What is the relationship between the two series? Can I extend one
+into the other? I don't know in advance. Maybe, maybe. On what condition? On the condition
+that a third series is set up, which includes the two previous ones.
+
+Well, you know what it is. If you remember your elementary geometry, you know on what
+condition the two series will be extended. The answer is not given. Maybe they aren’t extended.
+In some cases, they aren’t extended They’re extended on the condition that you introduce a new
+regularization. What will it be? It's… [he writes on the board] If you use one of the vertices of
+the triangle to raise the parallel to the opposite side. This will be the condition under which you
+will demonstrate that the three angles of a triangle are equal to two right angles. There you go.
+You will have made your series converge. Fine. Ah. It's perfect. We’ve found almost everything.
+I mean, you can't go wrong in this matter. What can we say now? Well, that's it: a statement is a
+regularity; Foucault says it explicitly.
+
+                                                                                                     7
+
+A statement is a regularity. What does that mean? What is it regularizing? It regularizes singular
+points. That is why it is a very particular regularity that is called a “facultative regularity”. It
+regularizes singular points, and to regularize means “to constitute a series that goes from the
+neighborhood of one singular point to the neighborhood of another singular point.” These series
+can be multiple. There will be as many statements as there are series. Will these statements
+converge? There’s no ready-made answer. You have to wait and see. Yes, if the series converge.
+No, if the series diverge. We saw this with “what is a family of statements?” If there is a
+convergence of the series, the statements will be from the same family. In other words, the
+statement is a regularity, but the emission of singularities is not a statement. The pure emission
+of singularities is not a statement. The statement presupposes it. If there is not an emission of
+singularities, then there is no statement.
+
+Something else strangely similar and almost identical, what is it? The statement refers to
+something else that is strangely similar and almost identical: the emission of singularities. And,
+in fact, my indefinite singular points are strangely similar and almost identical to what the
+statement will be. The statement simply adds a regular line from the neighborhood of one of
+these points to the neighborhood of the other point. In other words, the statement contains
+“something else strangely similar and almost identical,” and yet this “something else” is much
+different from the statement. The statement is the regularity, it's the series. All statements are
+serial.
+
+Parenthetically, this is a great confirmation of a kind of anti-structuralism since Foucault never
+stops wanting to substitute the perspective of series for the perspective of structure. So, you can
+see that he is offering us a completely different solution. A Z E R T on the keyboard of the
+machine is not what the statement means at all. A Z E R T on the machine’s keyboard are the
+singularities that the statement will embody, the emission of singularities. When I copy A Z E R
+T onto the sheet of paper, I am doing much more than copying or designating what is on the
+keyboard. I’m regularizing the singularities. I'm making my series. The same thing goes for the
+handful of letters that are picked randomly in the game of Scrabble, and when I copy them down,
+I’m doing something other than designating: I’m embodying singularities, I’m regularizing them.
+
+In other words, the small difference, the “something else”, which I’m calling a small
+difference—something else that can be strangely similar and almost identical—the small
+difference does not pass between the statement and what it is supposed to designate, nor between
+the statement and what it is supposed to copy, but between the regularity that it constitutes by
+itself and the singularities that it embodies [Pause] or it actualizes. [Pause] There you go.
+
+Take a break. I mean, that has to be clear. What he did was… he did something wonderful, in my
+opinion. Within an outdated system of representation, the copy, designation, signification, and
+the signifier, he erected a kind of vertical dimension that redistributes everything, creating a new
+kind of distribution. So, obviously, what is troubling is that he does not explicitly emphasize this
+notion of singularity as much as he would have liked to do. In a way, it's because it’s too close to
+him.
+
+And we will see -- I mean we have to wait -- and in my opinion, we will see that in his entire
+canon, including at very different levels that no longer have anything to do with the statement,
+
+                                                                                                        8
+
+the notion of singularity is fundamental and for a very simple reason: it is the element of
+multiplicities. A multiplicity is a set of singularities, an emission of singularities. And it seems to
+me that all of his hatred of the universal and all his criticism of the universal remains
+incomprehensible if we do not see what he means, namely that things proceed in singularities. So
+why doesn't he develop it? I think because he is able to consider a notion that has already been
+attained in mathematics and physics. There you go.
+
+I would like for you to reflect upon it yourselves. Because, if it's not absolutely clear, I'll go over
+it again, yeah! I'll go over it again: everything else depends on it, so stay alert for two minutes of
+intense reflection. What seems very, very curious to me, and what seems to go without saying,
+but, you know, if you want to skip it…you have to fully understand how this no longer has
+anything to do with a relation of designation.
+
+If I say: the statement is a regularity that embodies or actualizes singular points, then you must
+understand that the serial conception of the statement immediately comes out, along with all of
+the problems that accompany it: if we take two statements, can you say whether they are from
+the same family or not? Well, they'll be from the same family if you can extend the series of one
+into the series of the other. If you can't, they won't be from the same family. You see, everything
+depends on this. Ultimately, it’s a vertical construction, and a construction above all… You
+have: singularities…there, you could even put them in a kind of sky, we'll see in what sense
+elsewhere, but singularities are in a kind of sky. Simply put, universal ideas are not what is in the
+sky, but singular points, small stars; it’s in this vertical construction that you have indeterminate
+singularities. It is a kind of Platonism of singularity. And then you have the statements that
+actualize them, that embody them by constituting series of regular points that go from the
+neighborhood of one singularity to the neighborhood of the other and that can go in multiple
+ways. Think about it. [Long pause]
+
+Listen, that might seem radical, but if every statement… In fact, what I just tried to show is that
+every statement was a curve, and we could successfully draw the reciprocal out from Foucault's
+formula: “A curve is a statement.” But conversely, every statement is a curve, a curve what? A
+curve that unites singularities. But nothing enables me to claim that all curves are convergent. If
+they are not convergent, I cannot say: the totality of curves is convergent. If that were the case, I
+would have irreducible families of statements. It is not at all certain that every series will come
+together into a single series, even if that series is infinite. [Long pause] No comments?
+
+A woman student: [Inaudible remarks]
+
+Deleuze: Oh, well, yes, political examples, we'll get to that soon. Yeah, political examples are
+constant here. But I can’t give them yet, because... I can't give them yet, but I promise you that I
+will. Actually, we are going to create a schema of non-mathematical curves… of curves
+that…yes, that’s right.
+
+But I don't want to leave mathematics right away because I need it. I need it a little bit. Because
+there is a great philosopher of mathematics named [Albert] Lautman, L-A-U-T-M-A-N. And in
+one of Lautman’s books I came across this: he comments on a famous text by [Henri] Poincaré,
+which says, “On curves” … A text by Poincaré called “On curves that are defined by a
+
+                                                                                                      9
+
+differential equation…”5 It doesn’t even matter which “differential equation”; we don't even
+need to understand. You will see how we can read mathematics extremely well, even at a very
+high level, without losing anything… [Laughter] But… while… above all, there is reason to be
+even more modest, because… But you can sense that the differential equation is essential for
+philosophy even without having done mathematics. That's what Lautman says. “The theory of
+differential equations highlights two absolutely distinct realities.” Now I understand this again.
+Good. He announces that differential equations give rise to two heterogeneous, absolutely
+distinct realities. “There is a field of directions and topological accidents that can occur here, like
+the existence of singular points, for example.” A little further on, he says, “The existence and
+distribution of singularities in a vector field defined by the differential equation.”
+
+What don't we understand from that passage? Even if we admit that we don't understand
+anything, there's no need to… no need to… “Existence and distribution of singularities,” let's
+say, okay, singularities—I’m really doing a minimal job to understand—points, points, points on
+a plane, like I did with my three points. I distributed singularities, I made them exist, I distributed
+them. “In a vector field defined by the differential equation.” The vector field, where did the
+vector field come from? It appeared when I had to choose between two organizations of
+singularities. Was I going to put each of them in relation to the other two or was I going to put
+the third one solely in relation to other two? These were two vector fields. You see, I don't need
+to comment on “vector field”, I just need to recognize it myself.
+
+So, I have an existence and distribution of singularities in a vector field. That's one thing. And
+Lautman, along with Poincaré, tells us: and now there is something else and this other thing is
+the form of integral curves. As little as you know, you know that this relates differential calculus
+to integral calculus. We are told: there is the existence and distribution of singularities, which is
+the case in differential equations, but beware, the form of the integral curves is relative to what?
+Not to the differential equation, but to the solutions of this equation. Alright. And what is the
+form of integral curves? It is what determines singularities. And that is Poincaré's main theme in
+this note. Singularities exist and are distributed in a vector field, but as indeterminate points.
+Singularities receive their determination from integral curves that pass through their
+neighborhood, and everything depends on what the integral curve does to the neighborhood. And
+I just have to go back to my example, which was rudimentary, but was shown to be totally
+consistent in this respect.
+
+And I would say: in both my cases, I don't have the same integral lines at all. So, in my two
+cases, the singularities are not determined in the same way. Since in one case they are
+determined in a triangle that I will call an “integral figure”, which passes through the
+neighborhood of my three singularities. In the other case, I have a completely different figure:
+parallel lines. For the two series to link up with one another and continue in the same series is
+possible, but that’s not my concern for the moment. It will be…because, effectively, a third
+series is needed in order for them to continue, as we have seen, and on that point Poincaré makes
+his great…the points will be determined based on the form that the integral curves take as they
+pass through the neighborhood of points. And I’ll reread Lautman: Poincaré distinguishes
+between a saddle, which is a determined singularity, nodes, foci and centers. Saddles, nodes, foci
+and centers—the words are very pretty, they are the names that singularities take on when they
+are determined by integral curves that pass through their neighborhood. Saddles, nodes, foci, and
+
+                                                                                                     10
+
+centers. Saddlesare defined in the following way: saddles are that by which two curves (and only
+two curves) are defined by the equation. So: two curves and only two curves. Nodes are where
+an infinite number of curves intersect. An infinity of curves. Foci are what curves rotate around
+while endlessly approaching them like a spiral. Centers are where curves appear in the form of
+closed disks.
+
+Well, it doesn't really matter. You see, we could christen singularities according to our needs and
+we will have to christen them. It’s only under the condition of the form of integral curves, or the
+equivalent of integral curves, passing through the neighborhood of singularities that singularities
+determine themselves or are determined. And, indeed, if we go back to my story and recreate my
+pure emission of singularities…There. [He draws on the board]. There. Three indeterminate
+singularities. Let’s suppose that we can do better. [He indicates the drawing on the board] I'm
+constructing an emission with only one singularity. But that doesn't tell me anything about how
+the curve that passes through the neighborhood will look. There we are, one case. I would say,
+my singularity here is determined as a vertex. And we can conceive of another case. [Pause as
+Deleuze draws on the board]. This is even prettier. Yeah? I can conceive of yet another case…
+[Pause] another case. [Pause] What matters to me is that the singularity in these three cases will
+be determined differently according to the speed of the curve passing through the neighborhood.
+
+Conclusion: a statement is not a structure, it is a function. It's a function. A function that consists
+of what? It consists in regularizing singularities by drawing a curve that passes through the
+neighborhood of these singularities. And I see that it is very complicated, and given that the
+statement is a function, I can conclude, even immediately deduce, that the statement is serial.
+[Pause] With this one-time question: how far will a series go? Thus, the problem that Foucault
+posits in the beginning of the Archaeology, from the introduction of The Archaeology of
+Knowledge, and his deep interest in modern history as modern history, at least in one aspect
+under [Fernand] Braudel’s influence, has built a whole method that is referred to as “serial”.
+Establish series of capacities, variable temporalities, once it’s stated that any series is
+spatiotemporal. Good. That's the point we’ve reached.
+
+Still, it bothers me. We just distinguished two dimensions. It goes without saying that one does
+not exist independently of the other. Finally, singularities without an integral curve, or an
+integral curve that passes through their neighborhood: indefinite. Conversely, there is no curve
+that does not pass through a neighborhood of singularities. So, one is in the other, but that doesn't
+mean they don't differ in nature. The two differ in nature. One does not exist without the other;
+there is reciprocal presupposition, there is everything you want. We’re rediscovering all of our
+themes from the entire trimester. There is reciprocal presupposition, yes, but there’s still a
+difference in nature. There is immanence, yes, and yet there is heterogeneity. So, what would
+interest me would be managing to say a little bit more about indeterminate singularities.
+
+What can I say about them? What can I say about them? I can't even say what they consist of. I
+can't say: they’re vertices of a triangle, since what constitutes them as the setting for a triangle is
+the regularity that embodies them. But can I say something about them in-themselves? What can
+I say about AZERT on the keyboard? Ah, what am I going to say about AZERT on the
+keyboard? So, I tried because this is much trickier than mathematics. I assure you, I did
+everything I could; I wanted a typing manual, I went so far as to call Pigier,6 and they are rather
+
+                                                                                                    11
+
+unpleasant. I absolutely had to… I asked to speak to a typing teacher… I did all of that. I mean, I
+should have gone there myself because I came up with nothing, with nothing… So, these are
+assumptions I'm forced to make. Hypotheses. But any typist may know…if any of you…
+Anyway, what I'm about to say is wrong, but it's easy to correct. You can replace what I say
+with the truth, if you find it, [Laughter] but it won't change anything, absolutely anything.
+
+I tell myself: AZERT, well, why is AZERT on French machines? You see, I'm talking about
+AZERT on the keyboard. So, I'm putting myself on the level of “pure emissions of singularities.”
+What does this depend on? In the case of Scrabble letters, it's very simple, it's very simple
+because I would say: it's an emission of chance. There is a relationship between the letters I
+draw, and I would say that this relationship is random. Okay, you're going to understand right
+away what I'm getting at. But a random relationship is a relation of force. Picking letters at
+random is a force relation between those letters. If I draw letters at random, and I have, for
+example, A K E, I can't say that these letters are unrelated; they have a relationship, a random
+relationship. The random relationship is a force relation between the letters. I'll keep that in mind
+in case there's anything to be gained from it. Alright.
+
+The French machine says: AZERT…ah. In my opinion—this is where I’m cautiously adding
+information where it’s lacking, since they didn't want to give the information to me—in my
+opinion, you have to take into account... I can't say that A Z E R T is with relation… There are
+tons of relations, what are the relations this time? These are not random relations. I think there
+are two things to consider if you want to understand the keyboard of a typewriter. It is necessary
+to take relations of frequency or attraction into account—which comes down to the same thing—
+relations of frequency in groups of letters, or attraction of one letter in relation to the others. On
+this point, linguists have carried out very detailed studies for each language on the power of
+attraction of one letter on the others and on the frequencies of a particular group of letters within
+a language. For example, WH has a high frequency in English. The frequency in French is zero.
+[Pause; Deleuze hums] Hmmm. G, the letter G in French: what does it attract? It attracts U and
+N with a relatively high frequency. It doesn't matter if all that’s true or false, yeah. Alright.
+
+The letters will be spread over the keyboard. The typist is supposed to achieve the ideal, i.e., to
+type with both hands. Notice that it's already a vector field, huh? The keyboard has two sides.
+The keyboard is vectorized. It is vectorized into two sides—at a fluid border, but a left side and a
+right side. What does that mean? It already means that if you have a letter—BTW, I’m
+presupposing all of this—if you have a letter, if you have, for example, two high frequency
+letters, let's say (and grant me this even if it's not this and is something else) G and U. So, when
+you type a G, there is a considerable chance or a large number of cases where the letter will be
+followed by a U. It is obvious that it is a good idea to distribute the G and U across both sides.
+[Pause] Because, if you put, for example—look at our keyboard—if you put the G here and the
+U just below it on the same side, you would have to hit G and U with the same finger, which
+would be a huge waste of time. Thus, there are factors: time, the relationship between both
+hands, finger spacing and frequency relations specific to a language between letters that will
+determine your emission of singularities, which constitute the keyboard. Allow me to call this,
+this set (hand relations, finger relations between each hand, frequency relations, and relations of
+attraction of letters), force relations between letters and fingers. [Pause] Relations of frequency
+
+                                                                                                      12
+
+of letters and dynamic relations of fingers. I would say: this is what governs the emission of
+singularities on a keyboard. That's what Pigier should have said to me. Alright.
+
+On this point, Foucault says that the statement is a regularity. That is to say: as soon as—if only
+fictitiously, and it can be completely fictitious—as soon as I make a curve pass through an
+integral that goes from the neighborhood of one singularity to another, even if it follows the
+same order as the keyboard, even if I seem to copy down AZERT, I create a statement since I
+have embodied the singularities in an integral. Why isn’t the first AZERT a statement, while the
+second AZERT is? It’s because the first AZERT envisages the pure emission of singularities in a
+vector field defined by force relations, while the second AZERT embodies these same
+singularities in integrals, even if the integrals only happen to be fictional. [Pause] I integrated the
+force relations, and thus constructed a statement. [Pause] If you understand that, then everything
+is in place. Now, the transition from knowledge to power. And what will Foucault call “power”?
+What he will call “power” — and it is time to say it once and for all... no, we’ll repeat it — what
+he will call “power” is any force relation, no matter what it is, except he does not use the term
+“force relation” for just anything.
+
+What is a force relation for Foucault? That's very important. But one letter has power over
+another, and if you don't understand that, then you won't understand anything about Foucault's
+political philosophy. Either a letter has power over another letter, or it doesn't…a letter will have
+a power of attraction over another letter. G, assuming that G commands U quite frequently, or N;
+in English, let’s assume that W commands H quite frequently, you will say: W has a power of
+attraction. Good. All force relations are power, and power alone consists of force relations.
+Between two terms there are force relations, and you can say: one exercises power over the other
+or both of them exercise power over each other.
+
+How do we get from knowledge to power? We have our answer, at least. We move from
+knowledge to power insofar as the statement forms knowledge, is an integral, operates the
+integration of singularities, and it is only at the end that we realize that these singularities as such
+maintained power relations and force relations amongst one another. In other words, knowledge
+is the integration of force relations, in the most general sense, which is force relations between
+things, between people, between letters, between light, between shadow and light, between
+everything you can think of. This is why Foucault will be able to create a political ontology.
+[Pause]
+
+I would say that we are now able to distinguish between force relations that constitute power and
+the relations of form that constitute knowledge. Relations of form are the appearance of integral
+curves that actualize, and what do they actualize? They actualize singularities, the singularities
+that sustain force relations between them. [Pause] Hence the claim from before becomes
+particularly urgent: an example from something other than mathematics or linguistics, and notice
+that we have given another one, a linguistic example with AZERT, where we see that letters
+exercise… [A brief jump on the tape] The statement varies in force relations that the statement
+will regularize.
+
+Are you alright? It's, it’s… this thought seems really extraordinary to me. Right now, if you
+want, it's…if I were asked…oh there are so many utterly novel things in Foucault, but this is one
+
+                                                                                                   13
+
+of the most remarkably novel points is this analysis, and it seems to me that this analysis is very
+extraordinary. Then why…? Yeah, fine…Well, you get some rest…What time is it? 11:00…
+[Interruption of the recording] [1:18:32]
+
+… So, someone just made a very fair remark. He says this is all well and good, but if we already
+introduce the vector field at the level of singularities; in other words, if we already take
+singularities to be force relations, then it's almost the same thing as taking them at the level of
+integral curves that pass through a neighborhood. It's not untrue, it's very…the embodiment is
+very… it doesn’t prevent force relations… it’s not yet the appearance of curves that pass through
+a neighborhood. But there is a kind of intertwining of the two. But the appearance of curves
+won’t be defined by force relations. Moreover, you can see that when I invoked relations of
+frequency between letters in a given language, for instance, or relations of attraction between one
+letter and another, it was a question of any relations whatever, independent of a given integral
+curve.
+
+But that doesn't mean there's not a kind of… exactly as we saw between the visible and the
+statable. If you will, everything that has been said throughout this term about the two forms of
+knowledge, that is, the perpetual interweaving of the visible and the statable, which although
+they differ in nature, one does not cease to arouse the other, to capture the other. Foucault will
+say exactly the same thing about power and knowledge. Here too, there will be a mutual
+presupposition of the two, but a relation of forces is not a relation of forms. For the very simple
+reason that a relation of forces—we’ll see this after the new year—is fundamentally non-formal.
+While integral curves always define forms. But ultimately, we will only be able to see this very
+gradually.
+
+So, the main thing is that you intuit…I always do, I always appeal to your intuition because this
+is all new material…if it wasn't new, I mean… and there's a mode of philosophical intuition
+without which you wouldn’t understand... [Interruption of the recording] [1:21:15]
+
+Part 3
+
+… of pseudo-mathematics. Although, I think that when it comes to philosophy, the fact that
+mathematics includes a mathematical theory of singularities in its most important chapters is one
+of the great intersections between mathematics and philosophy. And this has always been the
+case. To me, it seems impossible to understand a philosopher like Leibniz without taking into
+account the dual affiliation of philosophy and mathematics in the notion of singularity and
+singular points. You see, every philosophical theory that reacted against the universal could only
+do so in the name of singularities, and singularities already understood in the mathematical
+sense, and we will see why it’s so important to Foucault to carry out a criticism of the universal
+as far as possible. Very good, well, well, well…So, yeah, there you go.
+
+There are going to be all kinds of practical problems, because, you see, the method—The
+Archaeology of Knowledge is a book about method—so if I summarize it by saying: well, yes,
+it's about constructing integrals, integral curves in the neighborhoods of singularities, then I think
+you’ll understand that I’m not claiming that Foucault is doing mathematics. Because he will
+
+                                                                                                    14
+
+directly apply this method to all other domains. And he’ll have the right to do so, since he will
+have revealed the conditions under which this method is not limited to mathematics.
+
+So, let's take an example. What kind of example? A social example this time, an example from
+the social field, because I made it clear that there is no reason to keep force relations confined; to
+repeat, there are force relations between the letters of the alphabet. Well, let's take an example
+from the social field this time. Are there any singularities in the social field? Obviously, there are
+singularities in the social field. What are singularities in the social field? Are there any
+singularities in the aesthetic field? Yes, there are… there are plenty of them in the aesthetic field.
+After all, isn't that the definition of thinking? To think is to emit singularities. If that were a
+definition of thought then we would understand [Stéphane] Mallarmé’s “A Throw of the Dice”
+better, we would understand Nietzsche's call to play dice. To think is to roll the dice.7
+
+What are singularities? These are dots on the face of the die. The face that results from a dice
+throw. So, does that mean we can think anything? Nothing at all. In fact, it means that we can't
+think just anything at all, since the singularities I emit must form beautiful integral curves that I
+don't know in advance…there are always risks. Take a stupid thought… a moronic thought
+[Laughter], I roll the dice, but nothing comes out. It’s a bad toss. I would say... thinking is
+throwing the dice, which once again means that, yes, chance itself is a force relation, a force
+relation between the dots on the faces of the dice and what comes out of them? Well, maybe the
+integrals of philosophy are concepts, but a concept is not a universal; it's an integral of
+singularities. Then there would be noetic singularities, singularities of thought? Yes, there would
+be noetic singularities, and to do philosophy would be to throw the dice. Alright, good. So, there
+will be a philosophical field with singularities. And that's what I'd use to create concepts. Or else
+I wouldn't create anything at all. Good.
+
+But, so, let's get back to the social field. There, I'm throwing something, I'm making a little
+constellation. So, of course, I am forced to appear to contradict myself, but it’s only pretense.
+Because I'm going to name these singularities, otherwise we wouldn't understand anything. I am
+forced to name them, so I am already prejudging the integrals that will unite them. But you can
+correct it on your own. I'm going to make a little constellation…Oh, no. See, that's how I do it.
+I’m throwing…I’m emitting a singularity. I call it “confession”. I’ll say: it's a point of
+confession. There you go, it’s a singularity, a point of confession. [Pause] I’m emitting another
+one, there, a little higher up…a point of sacrament. [Pause] Down below, I emit a third, a point
+of guilt. [Pause] On the left, on the right, I’m emitting one last one, I can't take it anymore: a
+point of memorization. There, that makes four, five. I can define force relations. I can define
+force relations between these points in a vector field. A first one: my point of confession is
+typically taken in a priest-user/confessor-confessed force relation. It's a force relation in the
+broadest sense: it doesn't mean the confessor slaps my face, does it? We already saw that that’s
+not what a force relation is. Notably, lines of attraction are force relations. Attractions are
+typically exercises of force. Sacrament… well, all that… Sacrament, guilt, memorization…
+
+You see that I can make a curve pass through the neighborhood of all these points. I'm doing it
+hypothetically. I tell myself: oh, well, yes, there's still something to see. What does the curve tell
+me? The integral will pass through the neighborhood of each of these points. Well, that’s how I
+start from the “point of confession” and then draw a line to the “point of sacrament”. In fact, I
+
+                                                                                                      15
+
+will have had to confess for communion, to receive communion. It's more like the force relation
+of each point in the vector field, an integral curve that goes from the neighborhood of the first
+point to the neighborhood of the second.
+
+Sacrament and confession: I can set up two regular lines that reach towards guilt. The sacrament
+is a way of redeeming primordial guilt. Confession is the declaration of secondary guilt. Well,
+again, if what I say is wrong, you correct it on your own, it doesn't change anything.
+Memorization: the examination of conscience that precedes confession. Well, I can push my
+integral, my line that I’m calling the “integration” or “actualization” of singular points. How far
+can I… how far can I push it? How far? It is extremely variable.
+
+Here’s the first case: I push it until I’m able to call it a special curve, that's right, which would set
+the end of the series. I would say: a series ends if I can assign what mathematicians call an
+“envelope” (these are very convenient words) among and around the set of integral curves that
+actualize the series. Let's put it this way: it’s a curve that envelops all the others. An envelope: all
+of these terms are pretty… it's very pretty, an envelope of singularities. That's good. And,
+simply, does such an envelope take place? There are cases where there is no envelope. It's like
+mathematics, I guess. There are cases where there is no envelope. There are cases where there
+are. At the end of his life Foucault became more and more interested in what he called “pastoral
+power”. And I think the unpublished book, Confessions of the Flesh, analyzes the formation of
+this particular church power, pastoral power.
+
+Pastoral power is an ancient idea that can be found in Plato, namely: grazing as the model of
+government. Grazing a flock is the whole theme of Plato's Statesman…What is a good ruler?
+He's the pastor of a herd. It may seem like nothing, but it is a fundamental political problem: is
+power pastoral? It goes without saying that Christianity takes advantage of the idea of pastoral
+power in its revival of Platonism with the Fathers of the Church and alters it in ways that
+obviously differ greatly from Plato, since they are Christian ways. And pastoral power becomes,
+above all, a new type of power that state power did not fulfil at that time, which, perhaps,
+prefigures the future State. It could be defined in the following way (how would the force
+relation of pastoral power arise)? Control of everyday life.
+
+Control of everyday life. Management of everyday life. The pastor of the herd…the human
+multiplicity, the human community is likened to a herd such that the pastor must take charge of
+the everyday details of existence for each member of the herd. This is a type of power that has no
+equivalent. Pastoral power is completely different from royal power. The king does not care at
+all about the everyday life of his subjects. The pastor takes care of the everyday life of his herd
+and what takes place in the mind of the herd. The king doesn't give a damn what's going on in
+people's heads. Well, I would say: here, the pastoral schema is encompassing, it’s an envelope.
+[Pause]
+
+Can I say: the series ends, therefore, it is closed by the pastoral schema? Yes, yes, from a certain
+point of view. Can't it be extended? From a certain moment in history, it’s likely that Foucault
+would situate the transition of the pastoral power of the Church to State power, which retains the
+model of pastoral power, at the end of the 18th century and the beginning of the 19th century.
+Specifically, one of the fundamental claims of the church's power is to individualize those to
+
+                                                                                                        16
+
+whom it relates, to individualize its subjects, and, by the same token, to be able to control them
+in their everyday lives, and the State also makes this its objective through completely different
+means. There is, therefore, a kind of relay where pastoral power is taken over by State power,
+even if it entails very important changes. State power demands, or positions itself to demand, the
+individualization of its subjects. Good. At that moment, I can say that under this condition my
+series extends beyond pastoral power. There will be convergence between the pastoralized series
+and the state series. Between the Church series and the State series. Alright. We’ll settle for that.
+
+What does that mean? What would the method for analysis of the social field be? The method of
+analysis of the social field is: to fix the singularities that are present in this field as they enter into
+force relations that constitute the vector field. So: to fix the constitutive singularities of such and
+such a social field, i.e., those that enter into force relations that correspond to this social field.
+The second point is to construct the institutional forms, i.e., the integral curves that actualize
+these force relations. The sacrament, the confessional, the power of the Church as an
+institution… well. Insofar as force relations and singularities are actualized, are considered to be
+actualized in these integral curves and in these institutions, they constitute real kinds of
+knowledge. [Pause] All this knowledge will be developed at the confessional level as casuistry,
+at the sacraments level, at the level of the Fathers of the Church, and at the level of what can be
+called “pastoral knowledge”, in general. And, to the extent that the force relations of singularities
+are embodied in these curves, statements emerge.
+
+We’re discovering our solution again. I am looking for sexual statements in the 19th century. All
+we have to do now is start over again, but I think we have already taken a big enough step
+forward that everything is much clearer now. I’m looking to construct a corpus of sentences
+about sexuality and words that speak about sexuality at this particular period in time. How do I
+construct my corpus? I’m looking for singularities as foci of power. Focus is a bad word: there
+are centers of power, nodes of power, saddles of power, or whatever you want…they’re
+singularities. I assign my singularities, which are foci of power. I'm causing my curves to move.
+These curves are forms of statements. They are forms of statements that carry knowledge in
+themselves.
+
+Third question: so, you see the two aspects of the serial method. First aspect… I’ll start again:
+you assign singularities and force relations according to where they are taken. That's the problem
+with power. Second aspect: constructing integral curves, i.e., institutional integrations that
+produce statements. That's the aspect: knowledge. I’m building my series. Second aspect. Third
+aspect: when does a series end? Variable response. It all depends on the level. Once again, there
+is a whole series that ends with pastoral power, but which, from another point of view, converges
+with State power. You can cut it off, depending on your goal, you can cut it off at some place
+that is closer or further away. Sometimes the duration will be short; since every series is
+spatiotemporal, you’ll have some series with short duration, and you can also construct series
+with long duration.
+
+Note for the future that this is a problem for Foucault: Foucault has always preferred series of
+short duration. If you look at all of his books, except the last ones, you see that he studies periods
+of short duration and hates periods of long duration, because he is afraid that they will fall back
+into universal history. So, at most, they’re series taken over two centuries. The History of
+
+                                                                                                   17
+
+Madness; even Discipline and Punish is a 50-year series. They’re short series. And we’ll visit
+this problem again, except with The Use of Pleasure, where Foucault's conversion to the long
+series, to long duration, bursts forth. It's about tracing the history of something that begins with
+the Greeks. It is quite unusual for such a long period of time. From the Greeks to us, while
+passing through the Fathers of the Church. The History of Sexuality continues from the second
+volume of a long duration. What could have happened? If we have to start with something very
+specific to understand, we could even ask the question: How did Foucault change between The
+Will to Knowledge and The Use of Pleasure? I think that a good way to ask this question,
+because it involves concrete detail, would be: what could have converted Foucault toward
+dealing with a large series, a long series?
+
+So, this is like the third aspect: when does a series end? And on this point, we can see quite
+clearly what Foucault owes to the historians of his time. We can see quite clearly what he owes
+to Braudel, since Braudel always dealt with series, constituted historical series and, furthermore,
+he distinguished series according to the length of time that they spread out. And Braudel’s entire
+conception of history, as you know—perhaps I will speak more precisely about it further along,
+later on—is to distinguish between three kinds of duration: short duration, medium duration, and
+long duration, which coexist with each other. We will have to ask ourselves what the distribution
+of durations is with respect to series in Foucault’s thought. That's a lot of trouble, isn't it?8
+
+So, I gave an example. My example is: related to sexuality, how do the foci of power locate
+themselves within singularities, in force relations that will be actualized in processes of
+integration, these processes of integration being constitutive of knowledge? Well, that's
+Foucault's general theme. I'll take two examples. Two other examples that Foucault summarizes
+in The Archaeology of Knowledge, the example of psychiatry (pp. 233-234) [179-180]. He says:
+“what made it possible” – psychiatry -- "what made it possible at the time that it appeared, what
+brought about this great change in the economy of concepts [analyses and demonstrations], was a
+whole set of relations…” -- be careful, you will see that the terms of these relations are not
+knowledge -- “…was a whole set of relations between…” -- now I'm starting my emission of
+singularities again -- “...between hospitalization [1], internment [2], conditions and procedures of
+social exclusion [3]…” -- procedures of exclusion are not the same as internment -- “…the rules
+of jurisprudence [4], industrial labor norm [5] […] in short, a whole group of relations that
+characterized for this discursive practice the formation of its statements”.9
+
+It can’t be said any better: it is the constellation of power foci, i.e., the constellation of
+singularities, which will make it possible to draw the curves that constitute knowledge. Good.
+That's exactly… it should be said that the social field emits a roll of the dice. You'll tell me: Oh
+well, the social field emits a roll of the dice, but isn’t that starting from scratch? No, it's not
+starting from scratch. Undoubtedly, the roll of the dice for each social field is partly determined
+by the state of the forces of the previous field. What is it? I say that because we might see that
+again later. I’m saying it now for those who were here last year that it’s exactly what is referred
+to as a succession of semi-dependent events, or what is referred to as a Markov chain. Successive
+re-enchaining. Each time something is drawn at random, but according to the data of the
+previous draw. A succession of random draws that partially depend upon one another. Well, that
+constitutes a Markov chain. Social mutations can be conceived in the form of a Markov chain.10
+
+                                                                                                   18
+
+It’s the same analysis that Foucault gives of pathological anatomy. Pathological anatomy is a
+form of knowledge, it is a kind of knowledge that is constituted and formed in the 19th century,
+at the beginning of the 19th century, and at the end of the 18th century, but what was there
+before that? Similarly, one can ask: what was there before psychiatry? There was no psychiatry,
+there was something else. It was a complete redistribution of the previous field that made
+psychiatry possible. A new draw. Before pathological anatomy, what was there? There was the
+clinic. The clinic was the conquest of the 18th century. It takes a complete redistribution of
+clinical foci for pathological anatomy to be possible as a form of knowledge.
+
+On pages 213-214, he says this, which was demonstrated in much more detail in The Birth of the
+Clinic – [Pause] Hmmm, I’m not going to find… [Pause] -- here it is: pathological anatomy will
+discover a new field, a new object that will be an object of knowledge, and that is tissue. Tissue
+is… tissue is a great discovery for biology, for medicine… Good. Pathological anatomy is
+formed around tissue, taking tissue as its object. But “the [preliminary] fields are constituted by
+the mass of population under administrative compartmented” -- You will ask: how does this
+relate to tissues? Well, yes it does, The Birth of the Clinic clearly shows what the relationship is
+between the discovery of tissues and this kind of data -- “…the mass of population
+administratively compartmented and supervised, gauged according to certain norms of life and
+health” -- you see, those are all power relations -- “…analyzed according to documentary and
+statistical forms of registration; they are also constituted by the great conscript armies of the
+revolutionary and Napoleonic period […]; they are also constituted by the institutions of hospital
+assistance that were defined at the end of the 18th and beginning of the 19th centuries...” etc.,
+etc.11
+
+You can see that Foucault proceeds each time by making his constellation of singularities,
+questioning the force relations that vectorize these singularities, and then constructs these series
+that are constitutive of knowledge.
+
+Good. I can summarize in very broad terms by saying… except, if you followed me, we’ve only
+done half. We’ve only done half, because: what did I just demonstrate? Well, yes, curves—now I
+can say curve-statement with a hyphen, so I would say: any statement is a curve-statement—and
+I would say: curve-statements actualize the force relations or power relations between
+singularities. Actualize, embody, etc. We don't know what word to use yet, we'll only figure that
+out later. Yeah. Are you alright?
+
+But, I’m saying, I've only done half of our task. Only we’re so tired that the other half is going to
+go fast. Because, as you recall, [Pause] knowledge has two irreducible forms. The production of
+statements and production of light. Knowledge is light no less than language is. Knowledge
+intertwines light and language and much more, and we wondered how it could do so since the
+light-form and the language-form have nothing to do with each other and are irreducible. We
+arrived at this cruel problem, since, last time, everything brought us back to this: if you stay in
+the dimension of knowledge, you will never understand how the two forms can be intertwined.
+But you can see that we have the solution. We have everything we need now. That's good. But,
+at one point, we were too tired to be happy about it, as always. [Laughter] On the other hand, I
+can't move on without saying the same thing.
+
+                                                                                                      19
+
+On the other hand, it is also necessary that, on their behalf, luminosities integrate singular points
+that are taken up in power relations, in force relations. In other words: just as statements are
+curves, visibilities are tables. And yet, there is something that is bothering me, which is that
+Foucault uses the word “table”, which he uses so often in a much more general sense than suits
+both curves and visibilities. It doesn't matter. It doesn't matter. If we try to reserve a particular
+meaning for the word “table”, then we will have to say: well, yes, visibilities integrate singular
+points into tables and not into curve-statements. Into visibility-tables. Visibilities are tables no
+less than… That's why visibilities are never things. As we saw last time, for Foucault,
+particularly with regard to Raymond Roussel, visibility is the label on the Evian water bottle, the
+letterhead of a grand hotel. Visibility is always a picture. Why? Because visibility is a being of
+light before it is a solid being.
+
+Well, light, just like the statement, is an integration of singularities, singular points. And you can
+only define a light…and the path of a light as going from one singularity to another; that is, there
+are luminous series just as there are verbal series. I want to comment more on this point, but we
+can't take it anymore. On this subject, I’ll point you toward two kinds of text. The famous
+description of [Diego] Velázquez's painting, Las Meninas, which I’ll ask you to read from the
+following point of view—I am not saying that this is the only point of view to read this text, it is
+one possible point of view—from the following point of view: how do Velázquez’s lines of light
+unite and pass through neighborhoods of singularities? What will the singularities of Velázquez’s
+painting be? You will see that they are not reduced, they are multiple, they follow the very path
+of light, the way in which the path of light curves, has vertices, i.e., passes through singularities
+that distribute reflections, brightness, etc. And everything culminates in the force relations
+between two masterly singularities, two dominant singularities: the painter and his model, the
+king. I'm not saying that everything can be reduced to this; on the contrary, there is a whole
+development of an extremely varied pictorial field populated by singularities, but certain
+singularities are dominant.
+
+The two dominant ones are: the painter and his model, the painter's gaze that sees without us
+seeing what he sees, and the king's gaze that sees without being seen. I would say that it is the
+relationship between these two singularities, the force relations, of the painter and the king. We
+can ask the question: which of these two forces is stronger? The strength of the painter or the
+strength of the king. It all depends on the point of view. In any case, that's what will mark the
+closing of the painting. This will be the envelope of the painting: the standoff between the
+painter and the king, but this standoff passes through the distribution of the baby, the dog, the
+jester, etc., etc. And you have the light of the painting which is the integration of all these
+singularities in a mode, in a certain mode that is Velasquez's mode. You can conceive of other
+modes. If you refer to the book on Raymond Roussel, around page 150, before and after page
+150, as we saw when I commented on it last time, there’s a great passage where Foucault
+analyzes visibilities in Roussel. Here, you have a visibility regime of a completely different type
+than Velasquez’s, which this time proceeds bit by bit.
+
+While describing the bottle of mineral water, the label of the mineral water bottle, Roussel
+proceeds in a kind of local construction that gradually spreads, where he is constantly saying: on
+the right we see this, a little in the background we see that, etc. just as Foucault says, it’s as if we
+were moving from one niche to another niche, as if we were slipping into a succession of tiny
+
+                                                                                                      20
+
+rooms, and this succession of tiny rooms will constitute the path of light, a whole other regime of
+light. If you wanted to do practical exercises related to what we're doing here…maybe we'll do it
+later, you'll take painting regimes and you'll wonder how they are different regimes of light and
+what kind of singularities they include, what kind of force relations these regimes of light have.
+
+Because, after all, there are force relations, just like I said earlier, and you know there are force
+relations between the letters of the alphabet. In this sense, we can talk about a politics of
+language: yes, from the level where there are force relations between the letters of the alphabet.
+There are also force relations between colors. Force relations between colors…it is even…force
+relations between colors…colors…you can conceive of them as singularities united by force
+relations in a vector field. And, if you consider any kind of color scheme, you cannot define
+things like cold and hot, for example in terms of color, without using forces. If there is anyone
+who has shown this definitively, it is [Wassily] Kandinsky, who is only able to present colors
+according to the forces affected by each one, as the forces affected by each one already
+determine the relationship between two colors, and the painting will be the integration of this and
+that force relation between colors. This is why Kandinsky's paintings are poorly referred to as
+being “abstract”.
+
+So. I can say that…well…we have our solution. You’ll recall our solution: but how can the two
+forms be intertwined? How can the two forms of knowledge, the visible and the enunciable,
+intertwine when they have nothing in common? Our answer was: well, they can only be
+intertwined in an instance that arises from another dimension. Now we have it. We have it, the
+instance that is in another dimension and that explains the intertwining of the two forms of
+knowledge is: the distribution of singularities and force relations between singularities, which I
+would call a non-formal dimension, the non-formal dimension of force relations as opposed to
+the dimension formed by form relations, by form relations. However, we can only finish if we
+understand what it means to say “force relations are non-formal.” We still have a lot to do,
+because how “force relations are non-formal” is a mystery.
+
+But above all, you can see that when Foucault uses the term “force relations”, he never, ever
+means “exercise of violence.” So, what does it mean, since the force relation is non-formal and
+does not consist of violence, that is, in the destruction of form? This will be our object of study
+when we return next term. All I can say in conclusion is that it's very simple.
+
+What is in common or what is, undoubtedly, the deepest point in common between Foucault and
+[Maurice] Blanchot? I would say the deepest point in common is to have established, in two very
+different ways, a set of intimate connections between the following three notions: the neutral or
+the “one”, as one part; the singular, as another; and the multiple, as yet another. The neutral, or
+“one”, is opposed to the person. [Pause] The singular is opposed to the universal. The multiple is
+opposed to one and the same. The three notions are strictly… [Interruption of the recording]
+[2:07:48]
+
+Part 4
+
+…are emitted. It is the form of the distribution of singularities. [Pause] When I said: to think is
+to emit a throw of the dice, well, the throw of the dice is always emitted into a “one”. “One”
+
+                                                                                                                    21
+
+thinks. On the side of the singular, the singular is not opposed to the “one”, since it is prepersonal, it has nothing to do with a person. Moreover, it would not be difficult to show that a
+singularity is already a force relation. In other words, the real subject is force. And that's where
+Foucault ends up being Nietzschean. And the only misinterpretation to translate is: there is
+violence everywhere. That is so little of Foucault's thought. Foucault absolutely separated force
+relations from the effects of violence. We'll see why.
+
+Finally, the singular is not opposed to the multiple. We will call a “multiplicity” a constellation
+of singularities in the “one”. A distribution of singularities in the “one” is precisely what a
+multiplicity is. I think that Foucault assigned very precise relations and status to these three terms
+around which Blanchot revolved as the three components of his thought, which was not
+Blanchot's objective.
+
+So, we have our answer, once again: what is this other dimension that is the only one capable of
+ensuring the intertwining of the two irreducible forms of knowledge? It is force relations or
+power. They are the ones that are embodied in the visibility-table, as they are embodied in curvestatements. It is, therefore, in the non-formal elements of the force relation and singularity that
+the two forms of knowledge can find a reason for their intertwining. Hence the need to move
+beyond knowledge towards power, even though knowledge and power are inseparable from each
+other, such that Foucault speaks about an inseparable complex of the power-knowledge system.
+What could possibly happen so that at the end of his life he would still discover a third
+dimension and why did he need it? That will be our guiding question. There you go, have a good
+holiday, get some rest. [End of the recording] [2:11:15]
+
+Notes
+
+  Despite the emphasis that Deleuze places on this example from Foucault, Deleuze refers to it in Foucault only
+briefly, pp. 78-79. However, he introduces this example in the opening chapter, “A New Archivist”, p. 2, and returns
+to it precisely in the context discussed here on pp. 11-12. He also refers in passing to the example in the chapter on
+subjectification, p. 98.
+ The page numbers are to the French edition of L’Archéologie du savoir (Paris: Gallimard, 1969), with English
+edition references in brackets, trans. A. M. Sheridan Smith (New York: Harbert & Row, 1972).
+ On these rules, see Foucault, p. 147, note 18; in a note from the first chapter, “The New Archivist”, Deleuze cites
+Labov’s work in Sociolinguistic Patterns (Philadelphia: University of Pennsylvania Press, 1972).
+ In L’Ordre du discours, the French text reads “le mouvement d’un logos qui élève les singularités jusqu’au
+concept" (Paris : Gallimard, 1971), p. 20, hence the English translation would be “a logos that elevates singularities
+all the way to the concept”. We follow the translation of this passage, p. 228, in the text, “The Discourse on
+Language” published as an appendix to The Archeology of Knowledge (cited above, pp. 215-237), translation by
+Rupert Sawyer.
+ In fact, the title of this early text by Poincaré is Sur les propriétés des fonctions définies par les équations aux
+différences partielles (1879) [On the properties of functions defined through equations with partial differences]. As
+for Lautman’s book, the full title in French is Symmétrie et dissymétrie en Mathématiques et en Physique: Le proble
+du temps (Paris : Hermann, 1946) that Deleuze cites partially in Foucault, p. 143, note 13.
+    This was a well-known commerce school.
+
+                                                                                                                  22
+
+ This is a reference to Mallarmé’s poem, “Un coup de dés n’abolira jamais le hasard" (1897) [A toss of the dice will
+never abolish chance”] On this aesthetic analysis and references to Proust, Velasquez, Magritte, and Roussel, see
+Foucault, pp. 79-81.
+  On Braudel and the types of duration, see Foucault, p. 148, note 31, where Deleuze refers to Braudel’s Écrits sur
+l’histoire (Paris: Flammarion 1977).
+    L’Archéologie du savoir, p. 233; The Archeology of Knowledge, p. 179.
+  On these chains as they relate to discontinuities and mutations, see Foucault, p. 86, and also Chance, see
+Foucault, p. 117.
+     L’Archéologie du savoir, p. 214; The Archeology of Knowledge, pp. 163-164.

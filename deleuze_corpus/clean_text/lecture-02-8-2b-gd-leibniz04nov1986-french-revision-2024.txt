@@ -1,0 +1,1271 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque -- Leibniz comme philosophe baroque
+
+Séance 2, le 4 novembre 1986: Du pli à la série infinie
+
+Transcription : Charles J Stivale
+
+Partie 1
+
+Alors, il faudrait que tous ceux qui ont la gentillesse de venir soient sûrs que Leibniz les
+intéresse et qu’ils en tirent les conséquences, c’est-à-dire qu’ils lisent du Leibniz. Làdessus, là-dessus, je voudrais à partir de la prochaine fois que ceux qui sont inscrits me
+mettent une fiche où ils diraient surtout qu’ils sont inscrits à Paris VIII et où ils diraient
+surtout le cycle auquel ils appartiennent, premier cycle, second cycle, troisième cycle, et
+le détail de ce qu’ils font cette année. Est-ce qu’il y en a ici du premier cycle ? [1 :00]
+[Pause] Trois… quatre, cinq… Eh, c’est bien, parce qu’il m’en faut, [Rires] puisque, je
+vous rappelle, que la première partie de notre séance est particulièrement consacrée aux
+[étudiants du] premier cycle. Voilà. Eh bien, continuons. [Pause]
+
+Voilà, je voudrais être plus précis finalement sur notre but cette année à condition que ce
+but soit très modeste. Je veux dire une petite chose qui frappe à la lecture de Leibniz. Ce
+qui frappe immédiatement, c’est une espèce [2 :00] de prolifération des principes. Des
+principes, on a l’impression, à la lettre, que Leibniz ne cesse pas d’en sortir de sa manche.
+C’est une impression assez curieuse, cette prolifération des principes car, généralement,
+les principes, il y a longtemps que la philosophie connaissait ça avant Leibniz, mais elle
+se réclamait d’une économie de principes. Leibniz est sans doute le premier grand
+philosophe qui ne cesse d’ajouter principe à principe. Il les sort sur le mode, vraiment,
+"Vous voulez un principe ? Eh bien, en voilà !" Et après tout, inventer les principes n’est
+pas une chose minime.
+
+Des principes, je dis, la philosophie en [3 :00] a toujours connu, notamment les trois
+principes logiques : principe d’identité, principe de contradiction, principe du tiers exclu.
+A est A, principe d’identité ; A n’est pas non-A, principe de contradiction ; A est A ou
+non-A, principe du tiers exclu. Bon. Et puis, peut-être à un autre niveau déjà, la
+philosophie a connu des principes distincts des principes purement logiques, qu’on
+pourrait appeler des principes d’existence, par exemple, le principe de causalité, le
+principe de finalité.
+
+Or Leibniz, lui, on a l’impression qu’il ne cesse pas d’en ajouter. [4 :00] Sa philosophie
+est une invention débordante de principes. C’est curieux, ça. Pourquoi ? Je dis [que] c’est
+une impression de lecture immédiate. Il ne cesse pas de faire tourner un principe pour le
+présenter sous d’autres formes, ou bien il ne cesse pas d’ajouter des principes pour
+principes déjà connus. Et presque, je dirais que les principes chez Leibniz fourmillent
+
+                                                                                             2
+
+tellement qu’ils donnent lieu à des propositions d’un type particulier, la proposition qui
+énoncent un principe sera implicitement, non pas explicitement, mais ça sera
+implicitement comme une proposition exclamative, c’est-à-dire [5 :00] à laquelle on a
+immédiatement envie d’ajouter un point d’exclamation. Si l’on prend ça au sérieux, estce que ça veut dire qu’on pourrait considérer le point d’exclamation comme un signe
+particulier ? En tant que signe philosophique, il faudrait dire que le philosophe quand il
+énonce et multiplie les principes, le philosophe s’exclame.
+
+Alors, est-ce qu’il y a des exclamations philosophiques, et qu’est-ce que ce serait, une
+exclamation philosophique ? Si bien que nous, lecteurs, on a l’impression
+perpétuellement quand on lit du Leibniz, nous avons l’impression de nous exclamer nousmêmes, si bien que notre but cette année, cela nous donnerait un but modeste, ça pourrait
+être de découvrir, même quand Leibniz ne nous donne pas la formule [6 :00] … Il y
+aurait deux cas, les cas où Leibniz nous donne la formule explicite, et puis les autres cas
+où nous éprouvons le besoin, quitte à justifier ce besoin, de traduire en une formule que
+Leibniz ne donne pas directement. Mais notre tâche, ce serait d’accumuler les formules
+principiales, c’est-à-dire les grandes formules exclamatives qui parcourent la philosophie
+de Leibniz. Si bien que ces formules, j’assignerais presque à chaque séance, à chacune de
+nos séances, le but, ou le soin, d’en établir deux, trois, ou quatre. A la fin de l’année, si
+tout va bien, nous aurions une centaine, ou si ça va encore mieux, deux cents formules
+exclamatives, [7 :00] qui quadrilleraient la philosophie de Leibniz, que nous apprendrions
+par cœur, et que nous écririons dans la dernière séance.
+
+Mais pourquoi [est-ce qu’il y a] cette prolifération de principes ? Est-ce qu’on peut avoir
+une hypothèse sur pourquoi la philosophie de Leibniz peut être présentée comme une
+prolifération de principes et de dérivés de principes, axiomes, lois, etc. ? Je crois que
+notre dernière séance nous donnait une hypothèse là-dessus. Peut-être est-ce parce qu’il
+fait jouer les principes dans l’infini ? Mais qu’est-ce que ça veut dire ? Si c’est exact,
+bon, il faut dire : Leibniz fait jouer [8 :00] le principe d’identité dans l’infini. Mais
+qu’est-ce que ça peut vouloir dire, mettre le principe d’identité dans l’infini ? Le principe
+d’identité, encore une fois, c’est A est A, la chose est ce qu’elle est. Qu’est-ce que peut
+être cette opération qui porte l’identité dans l’infini, [et] de même, pour les autres
+[principes] ? Mais c’est peut-être le milieu de l’infini qui assure cette prolifération des
+principes. Je n’ai aucune raison de répondre plus précisément puisque c’est l’objet de
+toute notre année : Voir en quel sens… Mais, pourquoi [y a-t-il] introduction dans
+l’infini ?
+
+C’est là que je voudrais reprendre certaines choses de la dernière fois. Eh bien, on l’a vu,
+pourquoi cette [9 :00] présence de l’infini à tous les niveaux de la pensée ou de la
+philosophie de Leibniz ? C’est précisément pour cette raison d’ailleurs, la présence de
+l’infini, que nous avions comme seconde hypothèse sur la philosophie de Leibniz : que
+peut-être c’était le mode même d’une philosophie baroque. [Pause] C’est le mode même
+d’une philosophie baroque, ou si vous préférez, c’est le mode baroque de la philosophie,
+ce qui signifie quoi ? Qu’est-ce qui est baroque ? La dernière fois, nous avons renoncé à
+chercher une essence du Baroque tant qu’elle serait engagée [10 :00] dans des
+discussions, dans des disputes à la fois sans aucun intérêt et inutiles, bon, à savoir quelles
+
+                                                                                                 3
+
+étaient les époques du Baroque, quel était le genre du Baroque, etc. Et nous avions
+préféré prendre un point de vue purement opératoire, et nous disions, bon, quoi que soit le
+Baroque, ce qui nous intéresse, c’est : qu’est-ce qu’il fait ? Qu’est-ce qu’il fait qu’aucune
+autre instance ne fait ? A quoi reconnaît-on le Baroque ? A quelque chose qu’il fait, une
+opération ? [Notons que dans un écrit qui date des années 60 (mais publié en 1972),
+Deleuze emploie la même forme d’interrogation, “A quoi reconnaît-on le
+structuralisme?” dans L’Ile Déserte et autres textes (Minuit 2002)]
+
+Eh bien, quelle est l’opération qui mérite le nom de "Baroque" ? Notre première réponse
+était, c’est très simple, c’est l’opération qui consiste à faire les plis, à plier. Plier, c’est ça
+l’opération baroque. [11 :00] A quelle condition ? Est-ce que tout pli est baroque ? Non,
+il y a des plis qui n’en ont pas les traits. Mais je dirais [que] le Baroque, c’est le pli
+lorsque le pli va à l’infini. Le pli qui va à l’infini … -- [Pause ; interruption] Voilà, c’est
+ça. Il ne faut pas appuyer votre dos sur le bouton. [Rires] -- Le pli qui va à l’infini, c’est
+l’opération baroque par excellence. Ça, on l’a vu la dernière fois. Et dès lors, si je disais
+[que] le pli va à l’infini et que c’est ça ce qui définit l’opération baroque, déjà je ne
+pouvais plus m’arrêter. [12 :00] Tant mieux. C’était le signe que l’opération était bonne.
+Pourquoi ? Car se produisait immédiatement un dédoublement du pli. Le pli qui va à
+l’infini se dédouble en deux directions : les replis de la matière et les plis dans l’âme. Et
+les replis de la matière vont à l’infini comme les plis dans l’âme vont à l’infini, si bien
+que deux textes de Leibniz nous paraissaient fondamentaux : un texte particulièrement
+clair tiré du Système nouveau de la nature. Qu’est-ce qu’il nous dit, [13 :00] ce Système
+nouveau de la nature ? [Deleuze cherche dans le livre] Il nous dit : "Les organes," les
+organes d’un corps, "sont pliés différemment, et plus ou moins développés" [Deleuze le
+répète ; NB : cette référence ne paraît pas dans le texte de la séance précédente] Et
+d’autre part, le texte de la Monadologie, paragraphe 61, où il nous dit, "L’âme ne saurait
+développer tout d’un coup tous ses replis car ils vont à l’infini." [14 :00] Donc replis de la
+matière et plis dans l’âme. C’est les deux formes du pli.
+
+Pourquoi le pli a-t-il deux formes ? C’est ce qui est déjà important, mais on ne peut
+procéder que petit à petit. Au moins reconnaît-on un caractère fondamental du Baroque,
+un caractère fondamental du Baroque selon Wölfflin et de l’architecture baroque, c’est la
+distinction de deux étages. Tout se passe comme s’il y avait l’étage d’en bas et l’étage
+d’en haut. Ça répond, si vous voulez, au schéma de… , très schématique… [Deleuze va
+au tableau et dessine] de l’église baroque, telle qu’on l’a [15 :00] vue la dernière fois. Il y
+a l’étage d’en bas, où en quelque sorte la masse s’élargit, et il y a l’étage d’en haut. [Ce
+schéma se trouve sans doute explicitement dans Le Pli, p. 7 ; The Fold, p. 5 ; voir le
+schéma reproduit en haut] Qu’est-ce que c’est cette dualité ? On pourrait dire que c’est
+celle de la matière et du mouvement. Pourtant, il y a mouvement dans les deux cas, mais
+à l’étage d’en bas, le mouvement est rapporté à la résistance, et à l’étage d’en haut, le
+mouvement est rapporté à sa propre spontanéité. On pourrait dire aussi que c’est le corps
+et l’âme, ou bien on pourrait dire que l’étage d’en bas, c’est le composé, et l’étage d’en
+haut, c’est le simple.
+
+Pour nous, l’étage d’en bas, c’est les replis de la matière qui vont à l’infini, [et] l’étage
+d’en haut [16 :00], c’est les plis dans l’âme qui vont également à l’infini. Autant dire
+
+                                                                                                4
+
+quoi ? Si en bas il y a les replis infinis de la matière, si en haut il y a les plis infinis dans
+l’âme, -- vous remarquez, j’essaie de ne pas commenter ma petite différence de "de",
+replis de la matière et plis dans l’âme. Il ne faut pas jusqu’à je sois en mesure de la
+commenter plus tard ; je remarque quand même que les deux formules ne sont pas
+symétriques. En tout cas, si mes deux étages baroques se distribuent ainsi – Wölfflin dira
+la masse et le mouvement --, je peux dire, bien oui, tout est… -- et c’est ça la signature
+baroque – tout est labyrinthe [17 :00] [Voir l’importance du labyrinthe, Le Pli, p. 5 ; The
+Fold, p. 3] Les replis dans la matière [sic] constituent un labyrinthe, [et] les plis dans
+l’âme constituent un autre labyrinthe. L’infini du pli se décompose en deux labyrinthes.
+
+Encore faudrait-il que ce soit vrai, à la lettre ; eh oui. Il est tellement vrai que Leibniz
+opère une philosophie baroque ou une conversion baroque de la philosophie. Tout le
+monde sait l’importance du labyrinthe dans l’architecture baroque et dans la pensée
+baroque. Eh bien, c’est tellement vrai que Leibniz présente l’ensemble de la philosophie
+sous l’auspice de deux labyrinthes. Et là il l’appelle – et ces deux labyrinthes [18 :00] ont
+sans doute des rapports de résonance ou de correspondance, de redoublements l’un par
+l’autre fondamentaux. Et ces deux labyrinthes, il leur donne un nom, le labyrinthe d’en
+bas et le labyrinthe d’en haut. Le labyrinthe d’en bas, il ne l’appelle pas "le labyrinthe
+d’en bas", mais il l’appelle le labyrinthe du continu. Pour nous, ça nous intéresse
+énormément, rien que cette expression, qu’il faut prendre à la lettre, le labyrinthe du
+continu. Ça veut dire que le problème du continu ne peut pas être posé adéquatement au
+niveau d’une ligne droite. C’est ça qu’il a trouvé, et c’est déjà une très grande découverte.
+Par exemple, chez Descartes, la continuité se pose au niveau de la ligne droite. Si Leibniz
+nous dit [19 :00] qu’il y a là labyrinthe du continu, ça veut dire que le problème du
+continu ne peut pas être réglé au niveau de la ligne droite. Ah, mais, vous vous rendez
+compte, une proposition comme ça, le continu ne peut pas être réglée au niveau de la
+ligne droite ? Qu’est-ce que cela peut vouloir dire ? On enregistre pour le moment ; on
+amasse des choses. Je ne sais pas ce que ça veut dire encore ; on ne peut pas le savoir.
+C’est le labyrinthe du continu : vous comprenez que c’est l’état de la matière en tant
+qu’elle ne cesse à l’infini de se replier et de se déplier. C’est en tant que la matière
+comporte une infinité de replis. Alors, il y a un labyrinthe du continu.
+
+L’autre labyrinthe, le labyrinthe d’en haut, il l’appelle [20 :00] le labyrinthe de la liberté.
+On voit bien ici qu’il concerne l’âme. Et ce qu’il reproche à Descartes, c’est de n’avoir
+compris ni l’un ni l’autre des deux labyrinthes. Un texte particulièrement net à cet égard
+sur les deux labyrinthes est dans l’opuscule De la liberté. Je lis très rapidement : "Il y a
+certes deux labyrinthes. L’un concerne la composition du continu, le second la nature de
+la liberté. Ils prennent leur source à ce même infini." [21 :00] On ne peut pas dire mieux.
+L’infini se dédouble en deux labyrinthes, le labyrinthe des replis de la matière ou
+composition du continu, [et] le labyrinthe de la liberté de l’esprit, de la liberté de l’âme,
+ou les plis infinis dans l’âme.
+
+Et ce même insigne philosophe, ce remarquable philosophe que j’ai cité plus haut, à
+savoir Descartes, ne pouvant résoudre ni l’un ni l’autre, ou ne voulant pas découvrir son
+opinion – ça, c’est une perfidie ! – préférera trancher avec son glaive. En d’autres termes,
+Descartes n’a jamais rien compris aux labyrinthes. Tantôt il a [22 :00] considéré une
+
+                                                                                                5
+
+ligne droite et a cru que le continu était de ce côté-là. À ce moment-là, considérant le
+continu au niveau de la simple ligne droite, il a confondu le continu avec une infinie
+divisibilité de la matière, c’est-à-dire l’indéfini. [Pause] S’il avait compris que ce n’est
+pas au niveau de la ligne droite que le continu se pose, il aurait vu que le continu ne peut
+se résoudre ou ne peut se composer qu’au niveau d’une matière infiniment et
+actuellement divisée. C’est précisément [23 :00] tous les replis de la matière.
+
+Et [tantôt] pour la liberté, sans doute il n’a pas considéré cette fois une ligne droite, mais
+il a également raté le labyrinthe parce qu’il n’a retenu que deux points opposés, les deux
+points qui font un segment de droite, qui déterminent un segment de droite, à savoir un
+pôle, la préscience de Dieu, et à l’autre pôle, la liberté de l’homme. Et il a dit qu’on ne
+pouvait pas comprendre comment les deux se conciliaient, mais qu’il fallait bien que ça
+se concilie. En d’autres termes, au niveau du continu, il n’a retenu que la ligne droite, et
+au niveau de la liberté, il n’a retenu que les deux bouts de la ligne. En d’autres termes,
+pour le labyrinthe de la liberté, [24 :00] il n’a retenu que l’entrée et la sortie. Alors c’est
+catastrophique dans un labyrinthe de retenir l’entrée et la sortie. [Rires] Avec ceci,
+l’entrée et la sortie, il n’y aurait pas de labyrinthe. Le labyrinthe, c’est ce qui est entre les
+deux, c’est-à-dire l’infini des plis.
+
+Donc, ce texte est très important pour nous, que je n’avais pas cité la dernière fois, et cela
+déterminait tout notre plan, au début. Là, nous en sommes toujours dans une introduction
+à la philosophie de Leibniz. Le plan qui s’imposait pour nous, c’était, premièrement,
+l’examen de l’étage d’en bas, ou les replis de la matière, et deuxièmement, examen de
+l’étage d’en haut, ou les plis dans l’âme, à condition, à condition [25 :00] qu’il y ait une
+raison suffisante qui nous force à passer de l’étage d’en bas à celui d’en haut. Parce que,
+après tout, pourquoi [est-ce que] l’étage d’en bas ne suffirait pas ? Pourquoi est-ce que…
+Puisque déjà au niveau du bas, de la matière, le pli va déjà à l’infini, pourquoi est-ce qu’il
+faut joindre à ce premier étage un autre étage qui concerne les plis dans l’âme ? Pourquoi
+est-ce que le premier ne suffirait pas ? Vous comprenez ?
+
+D’où je récapitule très rapidement, puisque c’est ce qu’on a fait la dernière fois, je
+récapitule le plus rapidement possible nos acquis concernant l’étage d’en bas parce qu’on
+en aura besoin toute l’année. C’est-à-dire, ceux qui suivront nos séances, il faut qu’ils
+soient doués de mémoire parce que les acquis, [26 :00] il faudra les conserver à chaque
+fois.
+
+Et je dis [que] l’étage d’en bas se définit par ceci : conformément à la définition que
+[Heinrich] Wölfflin donnait du Baroque [dans Renaissance et Baroque], [c’est] un
+traitement de la matière par masse. C’est ça profondément le Baroque, une manière de
+traiter pas seulement, mais c’est un des caractères du Baroque, premier caractère,
+traitement de la matière par masse. Deuxième caractère : tendance de la matière à
+déborder son cadre ou son espace. C’est aussi très bien marqué par Wölfflin au niveau de
+l’architecture baroque. [27 :00]
+
+Ah bon, ben, je fais ce que j’ai annoncé. C’est là où je trouve ma première phrase, ma
+première proposition exclamative ; formule grand 1 : Dans les corps, il y a quelque chose
+
+                                                                                               6
+
+de plus que l’étendue. Dans la matière, il y a quelque chose de plus que l’étendue, point
+d’exclamation ! On pourrait le dire en latin ; c’est ce qu’il y a du plus joli ! C’est un
+thème constant chez Leibniz ; tout le temps, il le dit, ça, donc… Je dis : que ce soit notre
+exclamation. [28 :00] On en tient une. En effet, si la matière déborde son cadre ou son
+espace, il y a quelque chose en elle de plus que l’étendue qu’elle occupe.
+
+Troisième caractère, et je voudrais que vous sentiez qu’ils s’enchaînent, que là aussi,
+Wölfflin l’a très bien indiqué au niveau de l’architecture baroque en général : tendance à
+l’arrondissement des angles. Pourquoi ? Parce que les masses dans lesquelles la matière
+se décomposent sont essentiellement molles et, à la limite, fluides. [29 :00] Tendance à la
+fluidité de la matière comme en témoigne le traitement des eaux dans le Baroque. On l’a
+vu, tout le système des fontaines, des cascades, etc. Je ne reviens pas là-dessus.
+
+Quatrième caractère : si la masse est essentiellement molle et, à la limite, fluide, la
+physique du corps doit être une physique du corps élastique, l’élasticité étant quoi ?
+[C’est] la mesure du degré de fluidité du corps. [30 :00] D’où, dans la célèbre formule de
+Leibniz, MV2 [à la puissance 2] qui se concerne dans la communication du mouvement –
+ce n’est pas MV, c’est MV2 – V2 impose le point de vue de l’accélération, c’est-à-dire de
+la sommation des petites sollicitations au mouvement, sommation des degrés ou de ce
+qu’il appelle les conatus, qui implique l’assimilation du corps en mouvement à un corps
+élastique. Le modèle leibnizien… Le modèle de la physique leibnizienne sera le ressort.
+Et la dernière fois, on a vu comment cette physique du corps élastique opérait une grande
+substitution [31 :00] au rapport atome comme corps dur sur droite oblique – la chute de
+l’atome suivant une droite oblique -- atome comme corps dur sur droite oblique comme
+trajet. La physique de Leibniz [y] substitue corps élastique -- c’est-à-dire il n’y a pas
+d’atome ; il n’y a pas d’atome parce qu’il n’y a pas de corps parfaitement dur -- corps
+élastique sur trajet curviligne, ce qui est déjà une première façon d’arrondir les angles
+conformément à la formule de Wölfflin. [32 :00]
+
+Cinquième aspect [caractère] : [C’est] l’histoire naturelle du corps organique. Le corps
+organique est plus qu’un corps élastique. Il est doué d’une capacité de se plier à l’infini et
+dès lors de se déplier. D’où [la] formule deux : tous les organismes [sont] dans un
+premier organisme ; toutes les mouches [sont] dans la première mouche, point
+d’exclamation ! Tous les œufs de mouche [sont] dans le premier œuf de mouche. Et le
+corps organique va être parcouru de mouvements que l’on peut appeler aussi bien
+[33 :00] – là, vous reconnaissez des mots courants du dix-septième siècle –
+enveloppement-développement. L’organisme enveloppe à l’infini ses parties, et ses
+parties se développent. Enveloppement-développement, ou ce qui revient au même,
+involution-évolution ; ou ce qui revient au même, implication-explication. Impliquer,
+c’est envelopper ; expliquer, c’est développer, si bien que Leibniz peut dire que jamais
+nous ne sommes séparés de notre corps, ou d’un corps, en tout cas. Et quand nous
+mourrons, c’est simplement nos parties organiques qui s’enveloppent à l’infini, c’est-àdire qui deviennent infiniment petites, [34 :00] mais jamais notre âme ne se sépare d’un
+corps. Mourir, c’est involuer ; la mort, c’est l’involution du corps.
+
+                                                                                           7
+
+D’où l’idée, et c’est la seconde [sic] grande formule exclamative ; là qu’on en a déjà
+deux : Oui, l’organisme est une machine, mais la machine est infiniment machinée ! La
+machine est infiniment machinée : la machine est infiniment machinée, ça veut dire [que]
+toute les parties de la machine sont encore des machines si bien que la machine peut se
+plier à l’infini. Toutes les parties de la machine sont encore des machines si bien qu’il
+[35 :00] faut dire, oui, le corps organique, oui, le corps organique est machinique. C’est
+une machine. Et en un sens, Descartes avait raison de dire "les animaux machines." En
+même temps, Descartes n’a rien compris. Il n’a rien compris parce que – c’est Leibniz
+qui parle – parce qu’il n’a pas vu qu’il y a une différence de nature entre machine et
+mécanique. Une mécanique en tant que créée par l’homme, c’est une machine finie, c’està-dire c’est une machine dont les pièces ne sont pas des machines à l’infini. Une
+mécanique, c’est une machine finie. Un organisme, oui, c’est une machine, mais c’est une
+machine irréductible à toute mécanique. Pourquoi ? Parce que c’est une machine infinie.
+C’est une machine dont toutes les pièces sont des machines, [36 :00] c’est-à-dire c’est
+une machine qui se replie à l’infini. [Pause]
+
+Enfin, dernier trait [sixième caractère] : [C’est] l’histoire naturelle, non plus seulement
+[de] l’organisme, du corps organique, mais du vivant. Pourquoi ? Parce que qu’est-ce qui
+explique l’organisme ? Qu’est-ce qui explique cette capacité qu’a l’organisme de plier à
+l’infini ses propres parties et de les déplier ? La réponse de Leibniz, ce sera : c’est la
+présence diffuse, dans la matière inorganique, la présence diffuse d’animaux simples,
+d’animalcules, ce qu’il appelle parfois des "animaux spermatiques". [37 :00] Présence
+diffuse dans la matière inorganique d’animaux simples, c’est-à-dire qu’il y a toujours une
+infinité d’animaux simples dans toute portion de matière inorganique, si petite qu’elle
+soit. Et il invoque le microscope qui montre la présence de tels animalcules partout. Et
+c’est vrai ! nous dit-il, vous vous rappelez, dans des textes tout à fait beaux, très, très
+admirables. C’est vrai ! C’est vrai ! C’est vrai, pour le carreau de marbre non moins que
+pour l’étang d’un poisson. De même que dans l’étang plein de poissons, où il y a les
+poissons à l’infini, de même dans le carreau de marbre il y a des animalcules à l’infini.
+[38 :00] Il y a des animaux simples à l’infini. Pourquoi ? Parce que le carreau de marbre a
+l’air dur, mais aucun corps n’est absolument dur. C’est-à-dire [que] le carreau de marbre
+n’est pas moins fluide, au degré près, que l’étang. Si tous les corps sont élastiques et
+fluides, le carreau de marbre répond aussi à cette nature physique du corps. Il n’y a pas
+moins d’animaux simples, d’animaux simples dans une portion de marbre, si petite
+qu’elle soit, qu’il y en a dans l’étang. Il y a donc, si vous voulez… Il ne dit plus
+simplement [que] l’organisme comporte une infinité de parties qui se replient et se
+déplient ; il dit [que] dans la matière inorganique, [39 :00] si petite soit-elle, il y a une
+infinité d’animaux simples.
+
+Ce qui nous donne la troisième [sic] formule exclamative, qu’on avait vu la dernière fois,
+qu’est une des plus belles de Leibniz : bien sûr, tout n’est pas poisson, mais il y a des
+poissons partout. [Voir cette expression et le développement dans Le Pli, p. 14 ; The
+Fold, p. 9] En d’autres termes, le vitalisme de Leibniz est un pluri-vitalisme. C’est un
+vitalisme très spécial puisque, à la lettre, je pourrais transformer ma troisième formule en
+une autre, également exclamative : la matière n’est pas vivante, mais la matière est un
+vivier. Toute matière est un vivier. Tout n’est pas poisson, mais il y a des poissons
+
+                                                                                             8
+
+partout, [40 :00] une espèce de ballet nautique. Or le ballet nautique, c’est quoi ? C’est un
+élément très important du Baroque. Tout est fluide, et la danse des vivants dans la
+fluide…
+
+Voila. J’ai résumé. Voyez que si vous prenez cet ensemble, c’est un commentaire de la
+matière qui s’organise par masse, les masses qui sont par nature molles et fluides ; les
+corps élastiques comme modèle du corps et de la physique, les corps élastiques sur des
+courbes, c’est-à-dire des éléments de pliure ; les replis de l’organisme, [41 :00] et enfin
+les plis de la matière autour des animaux simples. Donc, puisqu’il y a une infinité
+d’animaux simples dans toute portion de matière, les plis de la matière, les replis de la
+matière vont à l’infini, tout ça tourne autour de la même idée, à savoir, [c’est] les replis
+de la matière qui constituent le premier étage de l’architecture baroque. [Pause] Dès lors,
+je dirais, tout cet étage, c’est quoi ? Une logique des masses ; une logique des masses
+molles, élastiques ou fluides ; opposition radicale de Leibniz avec l’atome, corps dur. Il
+n’y a pas de corps dur dans la nature. Encore une fois, tout est un vivier. [42 :00] Une
+logique des masses ou des agrégats. En d’autres termes, une logique des composés, le
+composé étant infiniment composé. Composition infinie de la matière, la composition
+infinie de la matière, c’est donc le repli.
+
+Bon, d’où éclate la question… Eh ben, on est très bien à cet étage. Tout est composé, tout
+est composé à l’infini. C’est une position possible. On est au premier étage là, l’étage
+d’en bas. Très bien, on y est bien, on est bien. On est même au chaud dans ces replis de la
+matière. Nous sommes à la rigueur des animaux simples [43 :00] autour desquels la
+matière fait une infinité de replis. Nous sommes des poissons dans l’étang, très bien.
+Quoi de mieux ? Évidemment. Et Dieu, c’est quoi là ? Dieu, c’est le grand gardien du
+vivier. Il décide du moment où chaque poisson se replie, c’est-à-dire meurt, quitte à ce
+qu’un autre poisson se déplie. Tout ça, quel monde satisfaisant ; c’est quand même
+admirable.
+
+Alors, pourquoi est-ce qu’on est forcé d'’y joindre un second étage, ou plutôt un premier
+étage ? Pourquoi est-ce qu’on est forcé d’y joindre un étage d’en haut ? -- Et c’est là que
+la dernière fois, parce qu’on était déjà fatigué par tout ça, c’est là que la dernière fois
+j’avais été très obscur, même pire, très confus. [44 :00] Mais maintenant, ça va devenir
+très simple. On a pris des forces, vous comme moi, entre temps. -- Je dis pour deux
+raisons, pour deux raisons, une raison, mettons, d’histoire naturelle, et une raison de
+physique pure, qui vont nous montrer qu’en effet, quand on pose l’étage d’en bas avec les
+replis infinis de la matière, eh ben, il faut y joindre un autre étage, et pas du tout un autre
+étage où toutes les choses seraient dépliées. Au contraire, il faut doubler ces replis de la
+matière avec un autre type de pli. Pourquoi ?
+
+Première raison, je dis, à cause de l’histoire naturelle. On a vu, en effet, que la matière
+organique, dans sa capacité de plier, de déplier [45 :00] à l’infini ses propres parties,
+elles-mêmes composées à l’infini, impliquait la position d’animaux simples dans la
+matière, dans la matière, diffus dans la matière inorganique. En d’autres termes, en
+termes savants empruntés à l’histoire de l’histoire naturelle, je dirais : l’ovisme – c’est-àdire, l’enveloppement de tous les œufs dans l’œuf d’une espèce donnée, l’enveloppement
+
+                                                                                            9
+
+de toutes les mouches dans une première mouche, tout ça – l’ovisme se dépasse vers
+l’animalculisme, c’est-à-dire, vers l’idée que la matière organique n’a cette capacité de se
+plier, de se déplier à l’infini que parce qu’il y a une diffusion infinie d’animaux simples
+dans [46 :00] la matière inorganique.
+
+Mais voilà que je suis amené à faire appel à des simples. Or, vous sentez déjà la grande
+idée de Leibniz : les composés impliquent des simples. C’est vrai, c’est vrai, les
+composés impliquent des simples. Seulement, seulement, seulement, eh bien, voilà
+[bruits divers des changements successifs de cassettes dans les magnétophones],
+seulement, comme la composition va à l’infini. . . . [Interruption de l’enregistrement qui
+arrive vers la fin de la discussion de la "première raison", et reprend vers le début de la
+discussion de la "seconde raison" déjà en cours, étant donné que Deleuze offre une série
+de trois propositions ; Deleuze suggère dans Le Pli "La première raison d’un étage
+supérieur est celle-ci : il y a des âmes à l’étage inférieur, mais dont certains sont appelés
+à devenir raisonnables, donc à changer d’état", p. 18 ] [46 :37]
+
+Partie 2
+
+. . . [Première proposition] Si un corps ou un point – c’est là, le texte que je vous ai lu [à
+la séance du 28 octobre], tellement obscur, de la réponse à [Pierre] Bayle – voilà, Leibniz
+nous dit, si un corps ou un point était seul au monde, [47 :00] si un corps ou un point était
+seul au monde, il suivrait la tangente. Dans son mouvement, il suivrait la tangente, c’està-dire il suivrait une ligne droite. [Pause] Deuxième proposition : le fait est que le corps
+ne suit pas une ligne droite. Le corps élastique suit une courbe ou un élément de courbe.
+Troisième proposition : Pourquoi ? On dira que c’est précisément parce que [48 :00] il
+n’est pas seul. S’il était seul, il suivrait une tangente, d’accord. Mais il suit une courbe,
+c’est parce qu’il n’est pas seul. En d’autres termes, c’est l’action des corps concourants,
+c’est l’action des corps ambiants sur lui, qui lui impose la courbure de son trajet.
+[Pause] Donc, la courbe suivie par le corps élastique se comprendrait par l’action des
+corps concourant sur le corps considéré.
+
+Nouvelle proposition [4] : Mais ça ne suffit pas, car réfléchissez. [49 :00] Si la courbe
+s’expliquait, si la courbure du trajet du corps élastique. . . Il [Leibniz] prend un exemple
+simple, par exemple, vous lancez une pierre en l’air. Elle passe, vous voyez – c’est un
+bon exemple du corps élastique, du corps à ressort ; c’est très simple ce qu’il veut dire par
+"tous les corps sont élastiques" – elle monte et passe par tous les degrés, qu’il appellera
+des degrés de tardivité. Et puis elle redescend et elle passe par une sommation de tous les
+degrés de vitesse. Elle dés-accélère et elle ré-accélère. C’est le cas même du mouvement
+courbe d’un corps dit élastique, d’un corps à ressort. C’est vraiment un modèle élastique,
+contrairement à un modèle de la physique atomiste. [50 :00]
+
+Alors, je dis, si vous dites le corps élastique suit une courbe parce que les corps de
+l’entourage exercent leur action sur lui et le détourne de la tangente, vous expliquez peutêtre tout, mais en supposant que le mouvement normal serait rectiligne. En effet, les
+corps extérieurs ne peuvent exercer qu’une causalité externe sur le corps considéré. Dès
+lors, vous dites, il est détourné de la tangente par l’action des corps extérieurs. Bon. Ça
+
+                                                                                            10
+
+suffit à montrer que vous ne vous rendez pas compte de l’essence élastique du corps,
+[51 :00] car, du point de vue de l’élasticité du corps, la courbe n’est pas un détournement
+de la tangente ; ce n’est pas une tangente détournée. La courbe est première par rapport à
+tout élément rectiligne. En d’autres termes, il faut qu’il y ait une spontanéité de la
+courbe, [Pause] et sans la spontanéité de la courbe, la causalité des corps extérieurs ne
+s’exercerait pas. Il faut une spontanéité de la courbe qui rend compte de ceci : que la
+courbe n’est pas une dérivée de la tangente. [Pause]
+
+Qu’est-ce que c’est que cette spontanéité ? Vous ne la trouverez plus évidemment,
+[52 :00] et vous ne la trouverez pas dans le point physique ou dans le corps élastique.
+Qu’est-ce qu’il faut ? On ne peut pas y échapper. Il faut un autre point, d’où l’obscurité
+du texte de Leibniz que, lorsqu’il nous dit "et le point physique n’est que le point de vue
+de cet autre point." [C’est une] chose qu’on est incapable pour le moment de comprendre
+ou de commenter, mais qu’il faudra qu’on trouve, qu’on trouvera peut-être aujourd’hui
+dans la mesure où on aura des armes pour commenter : cette idée que dès lors le point sur
+la courbe n’est que le point de vue d’un autre point qui, lui, est doué de spontanéité, c’està-dire, dont la courbure exprime la spontanéité. [53 :00]
+
+Voilà, je dis que c’est très simple : au niveau de l’histoire naturelle, la référence
+nécessaire aux animaux simples, [et] au niveau de la physique du corps élastique, la
+référence nécessaire à une spontanéité de la courbe, exigent précisément un autre étage.
+Les replis de la matière ne peuvent pas expliquer… constituent la composition à l’infini ;
+ils ne peuvent pas expliquer le simple. En d’autres termes, les simples, c’est l’étage du
+haut. Comment éviter un paradoxe ? Mais, il n’y a aucune raison de l’éviter. Le composé
+[54 :00] n’est pas composé de simples puisqu’il est composé à l’infini. En d’autres
+termes, les composés ne se simplifient pas. Et comment éviter la réciproque ? Les simples
+ne se composent pas. Un étage de composés à l’infini ; c’est-à-dire les composés qui ne
+se simplifient pas, ce sont les masses, un étage de simples qui ne se composent pas.
+
+Ah bon. Les composés ne se simplifient pas ; les simples ne se composent pas. Chacun
+est à son étage. Qu’est-ce qui va se passer ? C’est le début de la Monadologie,
+paragraphes 2 et 3. [55 :00] [paragraphe 2] "Et il faut qu’il y ait des substances simples,
+puisqu’il y a des composés," [Deleuze le répète] voilà, [paragraphe 3] "Mais là où il n’y
+a pas de parties", c’est-à-dire là où c’est simple, "il n’y a ni étendue, ni figure, ni
+divisibilité possible." En d’autres termes, oui, le composé renvoie à du simple à condition
+que le simple n’existe pas au même niveau, au même étage que le composé. Le simple ne
+se compose pas plus que le composé ne se simplifie. Chacun à son étage, qu’est-ce qui va
+se passer ? L’étage des composés et l’étage des simples : entre les deux étages, [il y a la]
+nécessité d’un pli. Il faut qu’un pli -- alors, ça se complique, mais on n’a pas le choix -- Il
+faut qu’un pli sépare et rapporte l’un à l’autre les replis de la matière et les plis dans
+l’âme. [Pause] Il faut qu’un pli sépare et rapporte l’un à l’autre l’étage un et l’étage deux.
+[Pause] Tout est plié, tout est pli, tout est… et c’est sans doute le pli qui sépare les deux
+étages et sans doute celui qui distribue le pli dans chacun des deux étages. [Pause]
+[57 :00]
+
+                                                                                                  11
+
+Alors, ça devient très beau. Pourquoi ? Parce que ça nous précipite dans une question qui
+va achever cette première étude. On se dit qu’après tout, eh oui, on a l’impression que
+quelque chose là, que grâce à Leibniz, quelque chose nous apparaît qui concerne peutêtre la philosophie en général. Car, ou bien quoi ? Ou bien la philosophie, ou bien faut-il
+dire aussi la poésie ? Qu’est-ce que ça veut dire ? Le pli. Le pli, chacun de nous croit
+savoir qu’un grand philosophe récent en a fait l’armature de sa philosophie : [58 :00]
+c’est Heidegger, [Voir Le Pli, pp. 15-16 ; The Fold, p. 10] et Heidegger n’a pas cessé de
+dire qu’on ne comprend rien à ce que j’appelle "l’être" et ce que j’appelle "l’étant" – cette
+fois-ci, pas l’étant de Leibniz, pas l’étang, [Rires] mais l’étant, ce qui est -- on ne
+comprend rien à ce que j’appelle "être" et "étant" si l’on ne voit [pas] que l’essentiel,
+c’est le pli qui les rapporte l’un à l’autre. Qui les rapporte l’un à l’autre comme quoi ?
+Sans doute, comme ontologie de l’être et comme phénoménologie de l’étant, l’être
+comme être de l’étant, l’étant comme étant de l’être. [59 :00] Le "de", c’est le pli.
+
+Et Merleau-Ponty, reprenant ces thèmes heideggériens, nous parlera du pli qui constitue
+l’être vertical, le pli qui constitue l’être vertical. Vous voyez, ce n’est pas compliqué. Je
+fais ça ; je fais de la philosophie lorsque je fais ça, [Deleuze plie une feuille de papier]
+[Pause] l’être vertical, là c’est l’étant. J’ai plié ma feuille, l’étant et l’être, l’être vertical ;
+bon, vous direz bien, le pli, eh bien, peut-être est-ce que c’est quelque chose de…
+Seulement, voilà, on ne peut pas s’arrêter ; on ne veut pas s’arrêter. On n’arrête pas le pli.
+Le pli, on invoque [60 :00] Heidegger et tout ça. Ce que je dis, c’est que chez Heidegger,
+il a fait l’expérience très profonde, qu’on n’arrête pas le pli. C’est-à-dire que le pli
+essaime dans toutes les directions car, du côté de l’être, qu’est-ce que c’est que le double
+mouvement, le double dynamisme complémentaire, du voilement-dévoilement ? Alors là,
+je dis des choses extrêmement rudimentaires. Du côté de l’ontologie, [c’est] cette
+complémentarité, cette co-pénétration du voilement et du dévoilement, où il faut prendre
+le mot "voile" selon les exigences de Heidegger, c’est-à-dire en un sens extrêmement…
+d’étymologie très effective. Le voile, vraiment, le voile [61 :00] comme substance, la
+substance du voile… se voile, dévoilant, voilant… Qu’est-ce que c’est sinon précisément
+le pli ? Cette fois-ci, [c’est] non plus le pli de l’être et de l’étant, mais une espèce de
+répercussion du pli de l’être et de l’étant dans l’être même.
+
+Et quel est le statut de l’étant ? Comment est-ce que l’étant constitue le monde ? Il
+constitue le monde sous une forme phénoménologique, qui est quoi ? Qui est -- et c’est
+bien connu, et ça qui vient tout droit de Husserl – l’enveloppement des profils, [Pause]
+[62 :00] si bien que le pli de l’être et de l’étant se redouble dans l’être sous forme des plis
+du voile et dans l’étant sous forme de l’enveloppement des profils. Je me dis que ce n’est
+pas par hasard que Merleau-Ponty invoque Leibniz dans des notes. Il dit [que] le seul qui
+ait compris quelque chose avant Heidegger, bien sûr, le seul qui ait compris quelque
+chose, c’est Leibniz. C’est bizarre. Et finalement, cette histoire du pli… parce que nous
+sommes trop ignorants. Je ne veux pas du tout dire qu’il ne faut pas en faire hommage à
+Heidegger, [63 :00] que ça va de soi que Heidegger le conçoit d’une manière
+profondément originale, le pli. Mais je ne crois pas qu’on puisse dire que la position
+propre du pli comme opérant le rapport le plus fondamental de l’être et de l’étant, ou si
+vous préférez, des deux étages, soit une découverte de Heidegger.
+
+                                                                                             12
+
+Je pense d’une certaine manière, que c’est une idée philosophico-poétique qui parcourt…
+La poésie, elle a toujours commencé avec l’idée qu’il n’y avait pas de droite dans le
+monde, que les corps étaient caoutchouteux ou caverneux, que tout était labyrinthe, ce qui
+signifie quoi ? On l’a vu un peu l’année dernière à droite et à gauche, et ce n’est pas des
+Heideggeriens. [64 :00] [Henri] Michaux… Certains d’entre vous m’ont signalé un très
+beau texte de Michaux. C’est courant chez Michaux, un recueil très beau de Michaux
+[qui] s’appelle La vie dans les plis. Et ce thème de Michaux, où il ne doit rien à
+Heidegger, consiste à expliquer dans un poème sans doute splendide, il explique que nous
+naissons avec vingt-deux plis – c’est un chiffre chinois, ce vingt-deux, sûrement ; c’est un
+chiffre chargé de… eh ? Non ? [Bruit vague des étudiants qui lui répondent] C’est
+sûrement un chiffre lié aux plis du nénuphar, quelque chose comme ça – nous naissons
+avec vingt-deux plis et, dit Michaux, quand nous avons défait [65 :00] tous ces plis, nous
+mourrons. Mais, ajoute-t-il pour nous consoler, il arrive que nous mourrions avant
+d’avoir défait tous nos plis. [Rires] Ça veut dire quoi ? C’est ce qu’on appelle une mort
+prématurée dont il faut dire, il n’a pas fait assez de philosophie ; il n’a pas défait tous ses
+plis. Seulement, le contresens – et si on a fait assez de philosophie, on sait bien que c’est
+comme ça – que le dépli n’est pas le contraire du pli. Et bien plus, le dépli est seulement
+la conduite qui correspond au pli.
+
+Et ce n’est pas seulement Michaux. Ici je mélange tout ; c’est pour vous montrer
+l’extrême variété de cette pensée. L’un d’entre vous m’a signalé à quel point ce thème
+était profond chez [Stéphane] Mallarmé. [66 :00] Le thème du pli apparaît sous une
+double forme constante chez Mallarmé, et c’est infiniment plus important, il me semble,
+que le thème du silence. Bien plus, le silence, c’est… on ne peut pas comprendre le
+silence selon Mallarmé si on ne tient pas compte du pli. Et le pli, il est double chez
+Mallarmé. C’est le pli de la dentelle ; je dirais, ça c’est le pli comme phénoménologique ;
+il y a toujours le pli de la dentelle. Et puis, c’est le pli du livre ; ça, c’est le pli
+ontologique. Et les deux ne cessent de renvoyer l’un à l’autre, et voilà une belle phrase de
+Mallarmé : [Deleuze feuillette un texte de Mallarmé, du recueil Divigations, du texte
+"L’action restreinte"] [67 :00] "Ce pli de sombre dentelle, qui retient l’infini, tissé par
+mille" ; on ne peut pas mieux dire, le pli va jusqu’à l’infini ; le pli, c’est ce qui va à
+l’infini. "Ce pli de sombre dentelle, qui retient l’infini, tissé par mille, chacun selon le fil
+ou prolongement ignoré son secret" – si je comprends bien, c’est un ablatif absolu –
+"chacun selon le fil ou prolongement ignoré son secret, assemble des entrelacs distants où
+dort" [68 :00] – d apostrophe o-r-t, eh ? pas faire dormir – "dort un luxe à inventorier,
+stryge, nœud, feuillages." [Deux choses à noter : en lisant ce texte, Deleuze insiste que le
+mot "dort" s’écrit "d’ort", qui n’est pas juste, et il en fait une plaisanterie, disant "on ne
+va pas dormir" ; et il omet deux mots à la fin du texte de Mallarmé : "stryge, nœud,
+feuillages, et présenter"] C’est très beau, à mon avis ; ça dit tout. Ça dit à la fois le pli de
+sombre dentelle qui se dépasse vers un autre pli plus profond, et les plis, tous les plis,
+alors jusqu’à l’infini.
+
+Si bien qu’à ce niveau, on retrouve… on voit là exactement où j’en suis. Je demande que
+vous m’accordiez l’étage d’en bas qui consiste en ceci : la matière est inséparable de
+replis, et les replis de la matière vont jusqu’à l’infini, [69 :00] physiquement,
+organiquement, ou inorganiquement. [Pause] Mais il y a une raison pour laquelle les
+
+                                                                                              13
+
+replis de la matière ne suffisent pas. Il y a des raisons pour lesquelles les replis de la
+matière ne suffisent pas et nous renvoient à des plis dans l’âme. Le labyrinthe du continu
+nous renvoie au labyrinthe de la liberté. Entre les deux labyrinthes, chacun infiniment
+plissé sur soi-même, il y a un pli. [Pause ; bruit de Deleuze qui feuillette un livre]
+[70 :00]
+
+D’où seconde partie [de la séance], l’autre étage, l’étage d’en haut, l’étage d’en haut, et
+je résume, pour en revenir comme ça. On aura reparcouru, je suppose, j’espère, d’une
+nouvelle façon, d’une façon un peu différente, on aura reparcouru tout ce qu’on avait fait
+la dernière fois, mais aussi avancé sur certains points. Je vous rappelle qu’on avait
+commencé l’étude de l’étage d’en haut, sous quelle forme ? Eh bien, nous venons de
+quitter le donné matériel, je dirais, le donné matériel ou le donné physique, c’est quoi ?
+C’est le corps élastique sur une courbe [71 :00] si irrégulière que soit cette courbe, le
+corps élastique sur une courbe irrégulière. Pourquoi irrégulière ? Puisque la pression des
+corps co-existants varie elle-même avec les variations de voisinage. Donc, à l’autre étage,
+ce n’est pas ça que nous allons trouver. A l’autre étage, nous allons trouver l’élément
+génétique idéal du donné matériel, c’est-à-dire du corps élastique sur sa courbe. Quel est
+l’élément génétique idéal ? C’est ça qui va fournir le premier étage. Vous voyez la
+différence ? A l’étage d’en bas, j’ai corps élastique sur courbe ; [72 :00] à l’étage d’en
+haut, je demande quel est l’élément génétique de cette matérialité du corps élastique sur
+courbe ? Et notre réponse, on l’avait vue ; c’est cette fois-ci : point, pur point, mettons
+point mathématique.
+
+Mais, à peine je dis ça que c’est des problèmes alors. Il faut garder ce problème-là, alors,
+ou on n’en sortira pas. Mais, je me dis, ça va être une chose très intéressante, la théorie
+des points chez Leibniz car il y a toutes sortes de points. On a vu, à l’étage d’en bas, le
+point physique. Le point physique est un point caoutchouteux, c’est un point élastique.
+[73 :00] Et là, au premier étage, on rencontre un tout autre point. Ce n’est plus le point
+physique ; c’est le point mathématique, le point comme point mathématique. Voilà
+l’élément génétique idéal. Sur quoi ? Sur, on l’a vu, une inflexion. Et vous vous rappelez
+la figure de l’inflexion – j’ai perdu la craie, j’ai perdu la craie, elle est où ? là ? ah oui –
+[Deleuze va au tableau] Voilà, voilà une figure indiscutable d’inflexion ; c’est l’élément
+génétique, [74 :00] point mathématique sur inflexion, l’inflexion se définissant
+comment ? Par une singularité, expression chère aux mathématiques, à savoir, le point
+d’inflexion, le point d’inflexion étant défini comme une singularité, par ceci : [Deleuze
+indique la figure au tableau] c’est une singularité intrinsèque, c’est-à-dire indépendante
+d’un système de coordonnées. Singularité intrinsèque qui consiste en quoi ? Eh bien, la
+tangente au point d’inflexion traverse la courbe, traverse l’inflexion.
+
+Et quelle était notre joie la dernière fois de découvrir que cet élément génétique idéal, le
+point mathématique sur inflexion, c’était la figure que Paul Klee nommait la "ligne
+active", [75 :00] et dont il faisait la genèse de tout ce qu’il appelait les formes en
+mouvement ? Et la ligne active, c’est-à-dire le point sur inflexion, de Paul Klee me
+paraissait autoriser tout rapprochement entre Klee et le Baroque, rapprochement attesté
+par Paul Klee lui-même, et assez bien mesurer l’opposition Klee-Kandinsky, où d’une
+certaine manière, si j’osais dire, Kandinsky reste d’une certaine façon cartésien, c’est-à-
+
+                                                                                            14
+
+dire il considère que le point n’est pas spontanément en mouvement, qu’il faut l’exercice
+d’une force extérieure pour le mettre en mouvement, et que dès lors, ce mouvement est
+anguleux, c’est-à-dire est d’abord rectiligne, [76 :00] horizontal ou vertical, puis suivant
+l’oblique. Donc, à la ligne active de Paul Klee qui se réclame de la spontanéité du
+mouvement, à savoir point mathématique sur inflexion, s’oppose en effet la ligne
+anguleuse de Kandinsky. Il n’y a aucun lieu d’établir une hiérarchie, mais il y a lieu d’y
+établir une divergence, une différance dans l’inspiration. Et encore une fois, c’est très
+important pour nous que Klee se réfère constamment aux thèmes baroque.
+
+Donc, si c’est bien ça, [Deleuze va au tableau] l’élément génétique idéal, le point
+mathématique qui parcourt une inflexion [77 :00] – vous voyez ? [Il dessine au tableau] -
+-- Voilà, je dirais, c’est ça le pli idéal [Il reprend sa place] ou idéel, ou du moins c’est ça
+que j’appellerais l’élément génétique du pli. L’inflexion est l’élément génétique du pli.
+En d’autres termes, l’élément génétique des replis de la matière, c’est les inflexions
+parcourues par les points mathématiques.
+
+Mais qu’est-ce qu’on peut tirer d’une inflexion ? Eh bien justement, c’est un élément
+génétique parce qu’on peut en tirer beaucoup de choses. Et je vous disais, d’après un
+jeune philosophe, mais qui fait un travail, je trouve, très, très étonnant, il y a toute une
+variation de familles, de familles de quoi ? Eh bien, familles de formes [78 :00] à partir…
+Il y a une genèse de formes, ce que Klee appellait les formes en mouvement. Donc, selon
+Bernard Cache, [Pour les transformations selon Bernard Cache, voir Le Pli, pp.21-23 ;
+The Fold, pp. 15-17] on l’a vu la dernière fois, il va y avoir, à partir de l’inflexion,
+engendrement de formes par symétrie – je ne reviens pas là-dessus, je récapitule
+seulement – par symétrie, par prolongement de la courbure – vous vous rappelez ? – le
+thème baroque, l’ogive était une transformation par symétrie, par prolongement de la
+courbure, par rotation, ce qui a donné la figure étoile de mer, [79 :00] par glissement
+orthogonal -- ça a donné une espèce de décrochage -- [Pause ; Deleuze reviens au
+tableau, puis reprend sa place] par rupture ou, si vous préférez – mais c’est trop
+compliqué, mais ça ne fait rien – par coupes obliques, avec la question même que je pose
+là très vite -- mais ça n’a aucun intérêt, donc c’est des hypothèses ; vous pouvez faire
+vous-mêmes vos genèses de familles de courbes ou de familles de formes – est-ce qu’il
+n’y a pas passage, du point de vue d’une méthode génétique de l’inflexion, si l’on
+procède, si l’on va jusqu’à la coupe oblique là [Deleuze trace au tableau] [80 :00] qui
+opère un effet de rupture dans l’inflexion, est-ce qu’on n’arrive pas à une genèse de
+l’hyperbole ? Voyez, l’hyperbole, c’est cette figure très particulière. C’est cette courbe
+constituée de deux morceaux dont l’un va vers le bas et l’autre vers le haut, et dont l’un
+se rapproche infiniment sans jamais l’atteindre d’un des deux axes, et l’autre de l’autre
+axe, avec une espèce de faille au milieu, c’est-à-dire à la rencontre des axes qui est
+représentée par zéro, pour une raison simple, puisqu’il n’y a pas division possible par
+zéro. Donc, on irait jusqu’à la genèse de l’hyperbole. Bien.
+
+Immédiatement, si je vous propose cet engendrement selon Bernard Cache, ça rappelle
+[81 :00] tout de suite l’idée d’un rapprochement possible avec quelque chose de connu
+aujourd’hui dont on parle beaucoup, avec la théorie des catastrophes de [René] Thom.
+[Sur les transformations selon Thom, voir Le Pli, pp. 22-23 ; The Fold, pp. 16-17] La
+
+                                                                                             15
+
+théorie des catastrophes de René Thom nous propose une genèse intéressante, alors est-ce
+qu’il y a quelque chose de troublant ? C’est que dans tous les livres de Thom, vous
+trouvez un tableau ; je vais vous le montrer de loin parce qu’il est très joli, ce tableau,
+mais enfin, on ne peut pas le commenter parce qu’on serait… Vous n’y verriez rien, mais
+c’est vous dire s’il est beau. Or cette sériation des catastrophes, je lis… Ce qui m’embête,
+c’est qu’il y a un petit défaut, il me semble ; on peut toujours remanier… C’est qu’il ne
+parle pas du pli, lui. Il se donne un minimum de simples qui est la droite. Mais, en
+second, dans sa genèse, dans sa genèse catastrophale, quel est le second, c’est-à-dire le
+vrai élément génétique ? Je vous jure que je ne déforme pas ; il appelle "le pli". [82 :00]
+C’est écrit, eh ? [Rires] "Le pli". Ensuite, du pli, il va dériver – je vous donne juste pour
+que ça éveille la curiosité de certains d’entre vous ; vous en prenez, vous en laissez, vous
+prenez ce qui vous convient – la genèse ensuite donne "la fronce" [pucker, gather] – c’est
+assez Mallarméen, ça – le pli qui donne la fronce. Après la fronce vient "la queue
+d’aronde" [dovetail] qui est une forme extrêmement intéressante. Après la queue
+d’aronde, [83 :00] le papillon ; après, l’ombilic hyperbolique – l’hyperbole ; ensuite,
+l’ombilic elliptique ; ensuite, l’ombilic parabolique – hyperbole, ellipse, parabole. Vous
+retenez car on va tellement retrouver ce thème chez Leibniz.
+
+Bon. Tout ce que je dis, c’est que, voyez en quel sens je peux dire l’élément génétique
+idéal, c’est le point mathématique sur une inflexion, sur une inflexion quelconque, et de
+cet élément génétique dérivent toutes sortes de formes en mouvement. [84 :00] Mais,
+mais, mais, mais – saisissez la conséquence qui me paraît énorme – c’est [qu’] on tend
+vers un remaniement radical du statut de la notion d’objet. C’est une genèse de l’objet.
+Eh bien, l’objet va en sortir prenant une forme qu’il n’a jamais eue en philosophie, et
+dont il faut faire gloire à Leibniz de lui avoir donné. En d’autres termes, l’objet devient
+quoi ? Il devient tout mobile en tant qu’il décrit une série d’inflexions. En d’autres
+termes, l’objet est affecté d’une courbure fondamentale, tout mobile en tant qu’il décrit
+une série d’inflexions. [85 :00] Pourquoi [est-ce que] je dis une série d’inflexions ? Eh
+bien, la série des inflexions, c’est toutes les figures qui découlent de l’inflexion primitive,
+qui en découlent par symétrie, prolongement, rotation, coupe oblique, etc. En d’autres
+termes, c’est le mobile en tant qu’il décrit une famille de courbes. Voilà ce que c’est
+l’objet.
+
+L’objet, c’est le mobile ou le point en tant qu’il décrit une famille de courbes, mais
+qu’est-ce qui constitue une famille de courbes ? C’est précisément les paramètres qui
+encadrent ces courbes, et la possibilité de passer d’une de ces courbes à l’autre par une
+opération qui est toujours une opération du pli. [86 :00] Ces paramètres, c’est quoi ? Les
+paramètres qui définissent les courbes, eh bien, ce sont des rapports de proportion, ce
+sont des intervalles. Vous avez vu ; par exemple, typiquement, j’ai marqué la formation
+d’un intervalle à partir de l’inflexion, là, [Deleuze indique le tableau] tout ce que vous
+voulez. Donc, l’objet est inséparable du mouvement par lequel il décrit une famille de
+courbes. C’est ça la courbure constitutive de l’objet. En d’autres termes, pourtant
+Leibniz, il invente beaucoup de mots mais là, il n’a pas eu le besoin d’inventer un mot ;
+c’est curieux, mais alors on se substitue à lui ; on dit alors qu’il n’y a pas d’objet ; qu’estce qu’il faut ? L’objet chez Leibniz est un objectile, [87 :00] comme on dit un projectile.
+C’est un objectile. [Sur l’objectile comme terme, emprunté à Bernard Cache, voir Le Pli,
+
+                                                                                             16
+
+pp. 26-27 ; The Fold, pp. 19-20] [Rires] Oh, ce n’est pas tellement drôle, c’est nécessaire,
+vous comprenez ? Il faut un mot un peu bizarre pour rendre compte de ceci, qu’il se fait
+de l’objet une conception très bizarre. Bon. [Pause] Ça, c’est le premier point. Je le
+groupe sous les termes : valeurs génétiques de l’inflexion et engendrement des formes.
+
+Reste un second point beaucoup plus délicat, et là, il faut encore toute votre patience. Je
+ne fais pas d’allusions mathématiques très souvent parce que je le dis de façon très
+rudimentaire et inexacte, alors ce n’est pas grave. Mais aujourd’hui, j’ai encore besoin de
+certaines choses de mathématiques car le second point [88 :00] de cet étage d’en haut, ce
+serait : comment l’inflexion, vous voyez, dont je peux dire en elle-même, comme élément
+génétique [que] c’est une inflexion à courbure variable ; ce n’est pas une inflexion à
+courbure constante. C’est une inflexion à courbure variable. Peut-être si vous sentez un
+peu ce qu’il [Leibniz] est en train de mettre dans le concept de spontanéité. C’est déjà ça,
+la spontanéité, la ligne active, disait Paul Klee ; lui [Leibniz], il dira la ligne spontanée ;
+voyez, il fallait dépasser le concours du corps, l’action des corps sur un corps, vers une
+idée de spontanéité, l’inflexion comme spontanéité du mobile [89 :00] ou du point
+mathématique.
+
+Ce que je voudrais essayer de montrer, c’est comment l’inflexion à courbure variable,
+telle qu’il convient à la définir, est inséparable et ne peut être pensée qu’en rapport avec
+des séries infinies. Comprenez, c’est très important de voir la progression logique de
+notre travail. En définissant au premier étage l’inflexion, je me suis donné le pli idéal, le
+pli d’en haut. Et maintenant, il faut que je prouve que le pli d’en haut non moins que les
+replis d’en bas, que le pli d’en haut va à l’infini. Je l’aurais montré si j’arrive à montrer,
+[90 :00] ce qui n’est pas facile, que la courbure du pli, l’inflexion, entraîne
+nécessairement la série infinie. Eh ? Si on arrive à montrer ça, c’est parfait. Ça serait
+inespéré, c’est-à-dire vous seriez très contents. [Pause] Voilà… Il fait chaud… On
+crève… Voilà, ma question, c’est … Est-ce qu’il y a des questions ? Il faut qu’elle soit
+limpide…. Oui ?
+
+Un étudiant : [Question quasi-inaudible ; il s’agit de la spontanéité des points] [91 :00]
+
+Deleuze : Oui, oui, oui, je vais te dire, si le demi-cercle ne tourne pas tout seul, c’est
+parce qu’il est un demi-cercle, c’est-à-dire une courbe constante. En revanche, si tu
+prends une courbe à courbure variable, son trajet exprime bien une spontanéité.
+Pourquoi ? En un sens, c’est très bien, parce que ça retombe exactement là-dessus parce
+qu’il va y avoir une série infinie et que le rapport de l’inflexion à la série infinie va être
+une formule [92 :00] de la spontanéité. Mais le cercle est une figure finie ; il n’y a pas de
+série infinie à en tirer sauf dans quelque chose que le cercle possède. Mais le cercle luimême comme figure à courbure constante, il n’y a aucune raison d’y chercher la moindre
+spontanéité. Donc il n’y a pas de problème. Jamais… Ce n’est pas… Leibniz dirait, mais
+une mathématique du cercle, une géométrie du cercle, elle ne vaut absolument pas mieux
+que la géométrie de la droite. Tout cela, c’est pareil ; c’est la géométrie cartésienne. [Ici,
+un très bref saut dans l’enregistrement sans lapsus dans la discussion]
+
+                                                                                           17
+
+Il y a un grand physicien-mathématicien-astronome, tout ce que vous voulez, qui
+introduit dans les mathématiques l’étude directe des courbures, c’est [Christiaan]
+Huygens. Ses rapports avec le Baroque sont fondamentaux. La physique de Huygens est
+vraiment une physique baroque. Or, elle est baroque, je me contenterai d’un critère très
+simple. [93 :00] C’est que, comme le disent tous les manuels de l’histoire de la physique,
+c’est lui qui introduit l’étude des courbures en physique, [Pause ; bruits des changements
+de cassettes] et en fonction de l’étude des courbures, cela introduit les séries infinies. Et
+dans le cas des figures type le cercle, un type de courbe à courbure constante, qui sont
+finalement exprimables par des proportions [à] ligne droite, quitte à [savoir] s’il n’y a pas
+dans le cercle quelque chose qui dépasse précisément… Là, il n’y a aucun lieu de
+chercher la spontanéité. La spontanéité, vous ne pouvez la trouver qu’à partir de la ligne
+active et de ce qu’elle donne. Enfin, c’est ce que je vais essayer d’expliquer. [94 :00]
+
+Voulez-vous vous reposer un peu ? Mais surtout vous ne fumez pas, eh ?... Vous allez
+dehors pour fumer… [Une question se pose] Oui ? …. Oui, oui, oui ?
+
+Georges Comtesse : Il me semble que les points, la théorie des points, les points
+substantiels chez Leibniz, qu’il a proposés, ce n’est peut-être pas simplement des points
+physiques qui concernent la loi de divisibilité, donc l’influence de la [mot pas clair] des
+corps, et pas simplement peut-être des points mathématiques qui sont quand même des
+points exacts, comme dit Leibniz, et même réels [quelques mots pas clairs], mais peutêtre que les points de vie substantiels, de la substance monadique, chez Leibniz peuvent
+être nommés des points métaphysiques.] [95 :00]le
+
+Deleuze : Oui, il le fait ça, et là, tu me devances beaucoup trop. Ça, il faut que tu gardes
+ta remarque pour quand on en arrivera. Au point… Pour le moment, je n’ai pas dit une
+fois le mot "monade".
+
+Comtesse : A ce moment, si l’on parle de points métaphysiques, peut-être qu’il n’y en a
+pas un seul point métaphysique concernant justement le point mathématique des corps, il
+y en a peut-être deux… Il y en a force [mots pas clairs] du mouvement d’une courbe,
+mais il y a aussi l’unité indivisible des corps élastiques qui est un deuxième élément
+métaphysique du corps.
+
+Deleuze : Alors, ça, d’accord, d’accord, mais là, tu me demandes, si je comprends bien
+ton problème, c’est que je ne veux pas introduire l’idée de point métaphysique ou de
+monade sans avoir montré en quoi c’était nécessaire, et pour le moment, on n’a pas les
+éléments de cette nécessité… [Interruption de l’enregistrement] [96 :00]
+
+Partie 3
+
+… [Deleuze réagit ici à quelque commentaire exprimé pendant la pause] On est dans un
+type de problème très précis. Et ne prenez pas du tout mal ma remarque. C’est comme si
+vous me tiriez et que vous me ramenez à un gros problème, et par gros problème,
+j’entends faux problème. Je veux dire, l’histoire : est-ce qu’il y a des rapports physiquemétaphysique ? Bon, c’est un problème connu en vertu d’un schéma particulièrement
+
+                                                                                            18
+
+stupide qu’on nous a enseigné au moment du bachot qui est qu’il y avait un temps où la
+philosophie ne faisait qu’un avec les sciences, et puis, petit à petit, les sciences se sont
+détachées de la philosophie, ce qui est inepte, ce qui est un schéma historiquement faux,
+inepte. Les sciences ont toujours été distinctes de la philosophie, de la métaphysique, de
+tout ce que vous voulez. Il y a toujours eu des rapports. Et puis on nous suggère
+qu’aujourd’hui, [97 :00] les sciences ont conquis leur autonomie, qu’elles n’ont plus rien
+à voir avec la métaphysique, seconde proposition également fausse. Il n’y a pas un
+physicien qui puisse distinguer ce qui est philosophique, ce qui est scientifique, dans son
+œuvre, que ce soit Einstein, que ce soient les grands [mot pas clair] actuels, que ce soient
+ceux qui font une cosmogonie physique, enfin tous ceux qui comptent dans la physique
+se heurtent à des problèmes de nature philosophique. L’idée qu’à un moment il y aurait
+eu une espèce d’entente métaphysique-science et qu’aujourd’hui, ça n’existe plus est – ce
+n’est pas contre vous, eh ? C’est contre cette idée qui traîne partout – qu’il faut s’élever
+absolument. Si vous prenez les Grecs les plus anciens qu’on reconnaisse, ils n’ont jamais
+confondu la philosophie et les mathématiques, par exemple. Jamais. Ils n’ont jamais
+confondu la philosophie et la physique. Ceux qui se sont assigné… [98 :00] Sans doute,
+chaque philosophe a eu son approximation extrêmement complexe de ça, une fois dit que
+le plan de la philosophie et le plan des savoirs dits scientifiques se distinguent, quel est le
+rapport entre les deux ? Comment est-ce qu’ils se recoupent ? Deuxième aspect de la
+question : est-ce qu’aujourd’hui ça a changé ? Il suffit de regarder le discours d’un
+physicien actuel pour s’apercevoir que ça n’a absolument pas changé. On peut tout au
+plus dire [que] les rapports ne sont pas les mêmes ; les rapports ont évolué en même
+temps qu’on découvrait de nouvelles figures de rapport.
+
+Donc, il ne faut pas me ramener, vous comprenez ? Les rapports qu’il y a chez Leibniz
+entre sa métaphysique et sa physique, c’est une espèce… Si j’avais commencé par là, par
+les trucs comme ça, mais je faisais, pardonnez-moi, pour moi, enfin à mon avis, je faisais
+un cours lamentable parce que c’est une question indéterminée. [99 :00] Là, je ne suis pas
+en train de me demander… Au contraire, on est en train presque de distribuer… Par
+exemple, vous sentez bien que tout l’étage d’en bas chez Leibniz, il le renvoie, je l’ai
+assez marqué, à la physique et à l’histoire naturelle, et je ne sais pas quel rapport il a
+encore avec la métaphysique puisque je ne sais pas ce que c’est que la métaphysique
+selon Leibniz. Vous pressentez peut-être que l’étage d’en haut, il y a des mathématiques
+dedans, et il y a aussi de la métaphysique. Je ne sais pas les rapports. Les rapports, on les
+saura à la fin de l’année s’il y a lieu. Mais, si vous voulez m’appliquer un schéma
+préexistant sur… Commençant par dire les rapports physique-métaphysique à cette
+époque-là, je dis qu’on s’engage dans un faux problème parce qu’on va se prendre les
+pieds dans un schéma tout à fait et radicalement faux, [100 :00] je veux dire, double
+fausseté. On nous dit, d’une part, que dans le temps, philosophie et science étaient plus
+ou moins confondues. Or, c’est faux historiquement. On nous dit qu’aujourd’hui,
+philosophie et science sont séparées ; c’est faux historiquement. Bon. Alors je ne peux
+pas me mettre du point de vue d’un problème que j’estime deux fois faux. Voilà. Pardon,
+et la violence de ma réponse ne s’adressait pas du tout à vous, mais [à] vos schémas qui
+me semblent vous peser, peser sur vous-même.
+
+                                                                                            19
+
+Alors, voilà, je vous demande, et c’est la dernière fois qu’on fera un peu de
+mathématiques, mais rudimentaires. Je vous demande donc toute votre attention, et il y en
+a quelques-uns là qui ont déjà été là il y a deux ans ; je me souviens que, d’un tout autre
+point de vue, j’avais abordé cet aspect. [101 :00] Donc ça va être facile pour un certain
+nombre, mais pour tout le monde. Voyez, mon problème, c’est -- pour le moment, mon
+problème est très localisé dans ce premier étage – c’est, premièrement, j’ai essayé
+d’expliquer ce que c’était que le pli idéel, à savoir cette histoire de point mathématique
+sur inflexion, et les familles de courbes qui en dérivaient, et mon second point, c’est :
+comment passe-t-on du pli à la série infinie ? Voilà. C’est uniquement ce segment ; si
+j’arrive à le finir là aujourd’hui, on sera tellement fatigué que… bon. Voilà, c’est ça qu’il
+faut que vous ne perdiez pas ; quoique je dise, il faut que vous ne perdiez pas ce
+problème.
+
+Car je vais commencer par quelque chose qui est, en apparence, [102 :00] très loin de ça.
+Pourquoi est-ce que le continu ne serait pas simplement rectiligne ? Pourquoi est-ce que
+le continu ne peut pas être présenté sous la simple forme d’une ligne droite ? Eh bien, si
+vous prenez… A première vue, le continu peut être parfaitement représenté sous forme
+d’une ligne droite, pourquoi ? Parce que quelle est la loi de la ligne droite ? C’est que,
+entre deux points, si rapprochés soient-ils, vous pouvez toujours insérer un point. Ça va ?
+Quand ça ne va pas, vous me faites un signe. [103 :00] Dès lors, si vous écoutez bien
+cette formule, sur une ligne droite, entre deux points si rapprochés soient-ils, je peux
+toujours insérer un point ; il en sort tout droit. Entre deux points sur une ligne droite, si
+rapprochés soient-ils, je peux toujours insérer une infinité de points. Puisque je peux en
+insérer un, mais entre celui que j’ai inséré et le point originel, je peux en insérer un autre,
+à l’infini. Donc, entre deux points sur une ligne droite, je peux insérer une infinité de
+points. Ça revient à dire que la série des points, sur une ligne droite, est compacte,
+comme on dit, et convergente, compacte parce que je peux toujours insérer une infinité de
+points entre deux points, [104 :00] convergente parce que les distances entre ces points
+tombent au-dessous de toute longueur, si petite qu’elle soit. Je dirais donc que la série des
+points sur une ligne droite est compacte et convergente. [Pause]
+
+Problème : est-ce que c’est une définition suffisante du continu ? [Pause] Je continue.
+[105 :00] Entre deux points, je peux toujours insérer, si rapprochés soient-ils, je peux
+toujours insérer un troisième point, un point intermédiaire, à l’infini. Remarquez que ça
+m’intéresse. Pourquoi ? Comme pure possibilité parce que ce point que j’ai inséré entre
+deux points, est-ce que je peux le considérer comme centre d’une inflexion, comme un
+point d’inflexion, l’inflexion allant de A à B ? Le point C, intermédiaire entre A et B
+serait le centre d’une inflexion, allant de A à B. Eh ? [Pause] Au point où j’en suis, je
+suis bloqué. Je dis, oui, c’est possible, mais ce n’est pas nécessaire. [106 :00] Vous
+comprenez du coup mon problème ? Est-ce qu’il y a quelque chose qui me force à
+introduire les inflexions ? Bien sûr, je peux y introduire en disant, tout point inséré entre
+deux points, [et] il n’y a pas de point de la ligne droite qui ne puisse être considéré être
+inséré entre deux points – tout point de la ligne droite est un point d’inflexion.
+L’inflexion alors. . . . [Pause] Du point A au point B, et le point inséré étant [le point] C,
+centre d’inflexion, si bien que, à la limite, je composerais ma ligne droite d’une infinité
+
+                                                                                          20
+
+d’inflexions. Mais il n’y a aucune nécessité. Je peux toujours le dire comme dire autre
+chose ; c’est ce qu’on appelle une hypothèse arbitraire.
+
+Je reviens à ma ligne droite comme série compacte et convergente de points. [107 :00] Je
+peux lui faire correspondre la série des nombres dits rationnels, c’est-à-dire des nombres
+entiers et des nombres fractionnaires. La série des nombres rationnels est elle-même
+compacte et convergente. Dès lors, je peux exprimer tout nombre, je peux exprimer tout
+nombre sous forme d’une série infinie. [Pause] [108 :00] Exemple : je prends un segment
+de droite égal à 2, c’est-à-dire, divisé en 2. … Où est ma [craie] ? Ah ! [Deleuze se lève]
+Oooh là là là là là là. [Il va au tableau et commence à écrire] Voilà. [Pause] Donc, 2, oui,
+j’appelle donc chacun A-C égale 1, C-D égale 1, et A-B égale 2. [109 :00] Ça va ? [Rires]
+Je divise C-D, [et] je peux toujours insérer un point ; je divise C-D en 2 ; je divise B-D en
+2 ; je divise A-B en 2 ; etc., etc. [Il reprend sa place] J’ai bien une série infinie en
+apparence. Cette série infinie, je le dirais, 2 égale 1 plus un ½ plus un ¼ plus un 1/8, à
+l’infini. Vous me suivez ? Certains commentateurs, dont je ne veux pas dire le nom
+puisque. … [110 : 00] considèrent que c’est un exemple de séries infinies correspondant à
+Leibniz. Je dis que c’est un contresens absolu. Pourquoi ? Parce que ce n’est pas
+nécessaire. Je ne suis pas forcé d’exprimer 2 sous cette forme de séries infinies. Je peux
+toujours le faire si ça m’amuse ou si j’ai d’autres raisons, mais je n’ai aucune raison pour
+le moment de le faire. Je peux également exprimer 2 sous la forme 2 égale 1 plus 1 plus 0
+plus 0 plus 0 à l’infini, ce qui serait une série dite périodique à partir de son troisième
+terme. [111 :00] Donc, il n’y a aucune nécessité d’exprimer 2 sous une forme d’une série
+infinie.
+
+Une fraction irréductible : est-ce que je peux… Je peux l’exprimer sous forme d’une suite
+infinie puisque en effet, par exemple, 7/3 (sept divisé par trois), j’aurais 2.33-33-33-33 à
+l’infini. Je peux… Est-ce que c’est nécessaire ? Non, puisque 7/3 signifie un rapport tel
+que la même unité est comprise sept fois dans une grandeur A [112 :00] et trois fois dans
+une grandeur B. Que la fraction soit-elle irréductible ne change rien à l’affaire ; il y a ce
+qu’on appelle partie… Entre les deux grandeurs, entre les deux longueurs, 7 et 3, il y a
+partie adéquate commune, c’est-à-dire il y a une partie qui est commune aux deux
+grandeurs, partie qui dans un cas est comprise sept fois, et dans l’autre cas est comprise
+trois fois. D’accord ? Il y a partie adéquate commune.
+
+Alors, vous pouvez toujours exprimer votre nombre fractionnaire irréductible sous forme
+d’une série infinie. Vous pouvez ; vous ne le devez pas ; ce n’est pas nécessaire.
+[113 :00] C’est ça qu’il faudrait que vous compreniez parce que lorsque dans longtemps
+on aura considéré directement les problèmes de l’infini chez Leibniz, on se heurtera à
+tout un… un point très important pour l’histoire de la philosophie et des mathématiques
+réunies, et ça n’a toujours pas changé. Là pour reprendre ma remarque de tout à l’heure :
+les mathématiciens [se] trouvent nécessairement quant au problème de l’infini dans la
+situation de faire, qu’ils le veuillent ou pas, de la philosophie. Eh bien – qu’est-ce que je
+voulais dire ? – Quand on se trouve devant ce problème de l’infini, on verra une thèse par
+laquelle Hegel, dans la Logique, s’oppose violemment à Leibniz, et dit : la série, c’est le
+faux infini ; [114 :00] la forme de la série n’est pas adéquate à l’infini ; elle indique un
+faux infini. Bon. Est-ce qu’il faut penser que Leibniz n’a pas été sensible à ça ? Très
+
+                                                                                           21
+
+souvent, on s’aperçoit que les philosophes ont tellement prévu les objections qu’on va
+leur faire plus tard, n’est-ce pas, que c’en est décourageant pour ceux qui aiment objecter,
+simplement si on les lit. Alors ce n’est pas contre Hegel parce qu’encore une fois, Hegel,
+ça lui était égal pour lui ; il a donné des raisons de penser que… [l’ellipse est de Deleuze]
+mais des raisons intérieures à son système. Alors ce n’est pas de Leibniz qu’il parle ;
+c’est de Hegel à travers les objections d’un philosophe ou d’un autre ; il met au point des
+choses, c’est tout.
+
+Mais jamais Leibniz n’a considéré [115 :00] que des suites du type 1 plus ½ plus ¼ plus
+1/8, etc. constituaient vraiment une série infinie. Car on peut développer 2 ainsi : je peux
+développer 2 sous cette forme, d’une série pseudo-infinie. Mais ce n’est pas nécessaire.
+Ce n’est pas indispensable. Je peux aussi bien dire et démontrer que 2 égale 1 plus 1
+puisque Leibniz l’a démontré d’une manière tout à fait, très longuement ; c’est une
+démonstration très dure, mais très intéressante. Vous comprenez ?
+
+Voilà, on est là ; je veux dire, pressentez, on est uniquement à ceci : la droite me fournit
+des séries compactes et convergentes, [116 :00] néanmoins assimilables à la série
+compacte et convergente des nombres rationnels, c’est-à-dire entiers et fractionnaires.
+Elle ne nous donne pas l’occasion pourtant de penser nécessairement la série infinie.
+[Pause] On pourrait bien dire aussi bien, oui, très bien, une suite indéfinie suffit. Mais
+une série infinie et une suite indéfinie, ce ne sont pas pareilles.
+
+Voilà, ça c’est le premier point. [117 :00] D’où éclate la question là-dessus : est-ce que le
+continu peut légitimement être présenté par une ligne droite ? Remarquez, si le continu
+est légitimement représenté par une ligne droite, l’expression "labyrinthe du continu"
+deviendrait inintelligible. Il faut croire que Leibniz a des raisons de penser que le continu
+ne peut pas être représenté par une ligne droite, mais quelle raison peut-il avoir ? [Il y a]
+une raison célèbre déjà dans les mathématiques de son époque, mais une raison à laquelle
+il va faire rendre toutes ses conséquences, et cela sera toute la nouveauté de Leibniz : non
+pas [118 :00] découvrir la raison, mais lui faire rendre toutes ses conséquences. C’est
+quoi ? C’est que la ligne droite a beau se présenter comme une série compacte et
+convergente de tous les nombres rationnels, cette ligne droite est pleine de trous -- voilà
+la révélation douloureuse -- et de trous que l’on ne peut pas voir, mais que l’on peut
+aisément démontrer. [Pause] Démontrons ; il le faut parce que sinon… j’aimerais bien
+m’en passer… Démontrons. [119 :00] [Deleuze va au tableau et écrit] Considérons un
+segment d’une droite que nous supposons égale à 1, l’unité – peu importe si je le
+considère comme petit n ou unité, cela ne change rien au raisonnement – je prends mon
+segment [Il écrit au tableau] que [Pause] je considère, lui-même, comme tout segment de
+droite, est une série compacte et convergente de nombres entiers et fractionnaires,
+puisque, entre chaque point de la droite, je peux insérer, etc. Bon, je dis [que] ce segment
+a l’air continu, et pourtant, il est plein de trous. C’est que, et rien ne s’oppose, [120 :00]
+c’est possible à ce que je construise – ce dessin n’est pas très beau… oo là là [Rires] …
+ce n’est pas mal ? – Vous voyez, je construis un triangle isocèle, c’est-à-dire, AC égale
+CB, rectangle, un triangle isocèle rectangle. Vous voyez.
+
+                                                                                           22
+
+C’est presque fini, presque fini, mais le plus dur est à faire. Vous savez qu’il y a un
+théorème célèbre [Deleuze écrit au tableau ; il s’agit du théorème de Pythagore] qui est
+[121 :00] AB au carré, le carré de l’hypoténuse est égale au carré aux deux autres côtés,
+c’est-à-dire AB au carré égale AC au carré plus CB au carré ; comme CB au carré égale
+AC, je dis AB au carré égale 2-AC-2. D’accord ? C’est tout, c’est tout, je vous le jure.
+[Rires] AB au carré égale 2-AC-2 égale 1. Ouais ? Un dernier effort. Vous prenez un
+compas. [122 :00] La pointe, vous la fichez en A, et vous tracez un cercle de rayon AC.
+[Deleuze écrit au tableau] Ce cercle va couper AB en un point D. [Pause] AC égale AD.
+Eh ? Parce que ce sont deux rayons du cercle. Vous avez donc, d’après le célèbre
+théorème, AB2 égale 2AC2 égale 2AD2 égale, par hypothèse, 1, puisque… et que AO
+carré égale 1. Ça va ? Ah, vous avez fini vos douleurs. Si 2AD2 égale 1, AD2 égale un
+demi ; si AD2 égale un demi, AD égale racine de un demi. Ce point est sur la ligne AB ;
+or vous savez déjà la conclusion, la terrible conclusion : Il n’y a pas [124 :00] de nombre
+entier, ni de nombre fractionnaire dont le carré soit égale à un demi. Il n’y a pas de
+nombre entier, ni de nombre fractionnaire dont le carré soit égale à un demi. Ce qui peut
+se démontrer, d’ailleurs ; on démontre que s’il y avait un tel nombre entier ou
+fractionnaire, il devrait être à la fois pair et impair.
+
+Qu’est-ce que ça veut dire, ça ? Vous l’avez reconnu, si peu que vous vous rappeliez
+cela ; c’est ce qu’on appelle un nombre irrationnel, racine de 2, racine de un demi, etc.
+Qu’est-ce que ça veut dire [125 :00] un nombre irrationnel ? Il ne faut surtout pas le
+confondre avec une fraction irréductible. Voyez, c’est là que je fais un pas de géant. 7
+divisé par 3 : quand vous dites sept tiers, comme on dit, ça ne tombe pas juste. Ça va à
+l’infini mais, comme on disait, c’est le faux infini. Pourquoi ? Parce qu’il y a partie
+adéquate commune ; il y a une longueur qui présente sept unités et une autre longueur qui
+présente trois unités, tandis qu’entre l’hypoténuse [Deleuze écrit au tableau] AB et le
+côté du triangle AC, il n’y a pas de partie adéquate commune. C’est-à-dire [126 :00] vous
+ne trouverez aucune subdivision de AC qui soit contenue un nombre de fois dans AC et
+un autre nombre de fois dans AB. Il n’y a pas de partie adéquate commune qui vous
+permettrait de poser une fraction du type 7/3, à plus forte raison 6/3, qui lui est réductible
+à un nombre entier. Il n’y a pas de nombre entier, ni fractionnaire dans AD carré soit
+égale à un demi.
+
+Bien. Vous avez ici un nombre irrationnel qui ne fait partie ni des nombres entiers, ni des
+nombres fractionnaires. En d’autres termes, c’est bien un point. Je peux le montrer
+[127 :00] maintenant grâce à la démonstration. Grâce à la démonstration précédente, je
+peux le monter sur l’A. Or, quand j’avais défini ma ligne droite par la série compacte et
+convergente des nombres entiers et fractionnaires, c’est-à-dire des nombres rationnels,
+j’avais cru atteindre le continu ou la puissance du continu, et en fait, je me trouvais
+devant une structure pleine de trous. Pourquoi pleine ? Eh bien, comprenez, tout à
+l’heure, je disais comme formule exclamative de Leibniz, tout n’est pas vivant, mais il y a
+du vivant partout. Je peux relancer la formule et dire – et cela, elle me réjouit et me met
+dans un état de joie, à première vue on ne voit pas pourquoi, mais… moi-même je ne vois
+pas pourquoi, [Rires] [128 :00] mais elle me met dans un état de satisfaction absolue – il
+faut dire, formule exclamative : tout n’est pas nombre irrationnel, mais il y a partout des
+nombres irrationnels. Et là, je crois être absolument fidèle à la pensée de Leibniz. De
+
+                                                                                           23
+
+même que l’étang n’est pas poisson, [mais] il est plein de poissons, la série des nombres
+entiers et fractionnaires n’est évidemment pas irrationnels, [mais] il y a partout dans cette
+série des nombres irrationnels. Pourquoi [est-ce qu’] il y en a partout ? [Deleuze va au
+tableau] C’est que si rapprochés que vous preniez deux points sur une droite, vous
+pouvez toujours construire votre triangle isocèle rectangle et découvrir entre les deux,
+[129 :00] si petite que soit la portion de droite, un point qui n’est pas compris dans la
+série des entiers et des fractionnaires correspondants. Vous comprenez ? Si vous
+comprenez, c’est une merveille.
+
+Voyez bien où je veux en venir. Seul le nombre irrationnel – et là, je crois que c’est juste
+en plus, en plus parce que comme je dis que c’est satisfaisant pour l’esprit, cela amène
+une satisfaction, mais en plus, cela doit être vrai – seul le nombre irrationnel fonde la
+nécessité d’une série infinie. [Pause] Les autres nombres peuvent toujours – peuvent –
+[130 :00] c’est-à-dire, ils renvoient à une simple possibilité de série infinie, mais ils
+peuvent être développés autrement. L’infinie ne s’impose pas dans la série. Ah, mais
+quand survient un nombre irrationnel, alors là, oui ; le nombre irrationnel ne peut pas être
+développé autrement par une série infinie. C’est lui la fontaine des séries infinies. Il faut
+appeler le nombre irrationnel "fontaine de la série infinie", et c’est bien ce qu’a fait
+Leibniz. Encore faudrait-il trouver pour chaque nombre irrationnel donnable ou pris en
+exemple une série infinie. [131 :00]
+
+Or, dans un petit texte des œuvres mathématiques, un très beau petit texte, vous trouvez
+une démonstration de Leibniz. Vous savez que pi est un nombre irrationnel. Trouvez la
+série infinie de pi. Est-ce que c’est 3.1416 etc. ? Non, ça n’est pas une série ; il n’y a pas
+de loi de série. Le génie de Leibniz, c’est d’avoir démontré que pi sur 4 égale 1 moins 1/3
+plus 1/5 moins 1/7 plus 1/9, à l’infini, [132 :00] ce qu’on appellera une série infinie
+alternée, où alternent les additions et les soustractions. 1 moins 1/3 plus 1/5 moins 1/7
+plus 1/9, il faudra longtemps après Leibniz, mais Leibniz s’en doutait, pour démontrer
+rigoureusement que pi sur 4 était lui-même un nombre irrationnel.
+
+Voilà. Voilà tout mon thème. C’est que les séries infinies ne peuvent être dites
+exactement que lorsque le développement ne peut pas se faire sous une autre forme.
+[Pause] [133 :00] Dès lors, seuls les nombres irrationnels sont dans ce cas. C’est eux qui
+imposent la série infinie car ils ne peuvent pas être développés autrement. Contrairement
+à un nombre du type 2, qui lui peut être développé sous forme d’une série pseudo-infinie
+(2 égale 1 + 1), c’est quand je n’ai pas le choix, quand il ne peut y avoir que la série
+infinie que la série infinie est nécessairement fondée. Or ce cas est rempli lorsque la
+limite est un nombre irrationnel.
+
+Bon, mais alors, on tient tout ce qu’on voulait. Pourquoi ? [134 :00] Comment le nombre
+irrationnel a-t-il été introduit sur la droite ? Je tiens tout là. Si vous avez compris, vous
+m’avez tout compris. Le vertige des mathématiques infinies s’ouvre devant vous parce
+que, écoutez bien, comment [est-ce que] vous l’avez fait voir, votre trou, sur la ligne
+droite pourtant compacte et qui semblait tellement pleine ? Vous n’avez pu la faire voir
+qu’en introduisant la courbure, c’est-à-dire en faisant passer un arc de cercle qui coupait
+la droite. [Pause] Sinon, vous n’auriez jamais pu montrer les trous dans l’apparence du
+
+                                                                                            24
+
+continu rectiligne. [135 :00] [Pause] C’est donc nécessairement l’élément de la courbure
+qui introduit la série infinie. [Pause] Et cet élément de la courbure, vous vous
+reconnaissez, l’inflexion entre lui-même dans une série infinie, et c’est pour ça qu’il est
+fontaine des séries infinies. Eh ? Il entre lui-même dans une série infinie puisque,
+[Deleuze va au tableau] si petit que soit le segment considéré – je reviens à ma petite
+figure ; ceux qui sont dans le fond ne la voit pas, elle est tellement petite, vous voyez ?
+[136 :00] -- si petit que soit le segment considéré, et encore plus petit que celui-là, et
+encore plus petit que celui-là, etc., je pourrais toujours construire un triangle, eh, truc, un
+triangle rectangle isocèle [Les étudiants l’aident avec les trois termes] par lequel ou à
+partir duquel je tracerai un cercle, ce qui est une façon d’arrondir l’angle. Et c’est en
+arrondissant l’angle dans le triangle de construction que je dévoile le coup invisible dans
+mon segment et que je peux dire que c’est la courbure qui introduit la série infinie et qui
+en fonde la nécessité. Dès lors, je dirais, voilà pourquoi le continu n’est pas une droite,
+mais un labyrinthe. Série infinie d’inflexion, [137 :00] série infinie de courbure, une série
+infinie de plis, tel est le nombre irrationnel. Je vais du pli à la série infinie. Eh ? [Pause]
+
+Dès lors, je dirais, les mathématiques, en quel sens peut-on parler de mathématiques
+baroques ? Je dirais les mathématiques baroques… qu’on peut appeler mathématiques
+baroques des mathématiques qui se distinguent de [138 :00] l’arithmétique classique, qui
+est une arithmétique du nombre rationnel, et de la géométrie classique, qui est une
+géométrie de la droite et seulement indirectement de la courbe. On appellera
+mathématiques baroques, fondées par Huygens dans la mesure où il introduit l’étude des
+courbures, mathématiques qui se définit par et comme une arithmétique du nombre
+irrationnel et comme une géométrie des inflexions. En ce sens, et sous ces conditions, le
+mot baroque peut s’appliquer aux mathématiques, et l’on conclura que oui, si peu qu’on
+en ait dit, les mathématiques de Leibniz sont [139 :00] des mathématiques baroques, et
+c’est par là qu’elles s’opposent aux mathématiques de Descartes. Car lorsque Leibniz luimême essaie de distinguer sa conception des mathématiques de celle de Descartes il nous
+dit ceci … [2 :19 :20]
+
+[Ici il y a un changement de magnétophone, avec une baisse de la qualité sonore, mais
+aussi avec un chevauchement en arrière, c’est-à-dire répétition, entre 2 :19 :202 :21 :33, des 2 minutes 30 seconds qui viennent de précéder ; la bande reprend ici]
+
+Partie 4
+
+… Descartes n’a considéré que des équations algébriques et a laissé de côté, pour les
+renvoyer au simple domaine de la mécanique, les équations d’une autre nature dite
+transcendante. Or, qu’est-ce que les équations transcendantes ? [142 :00] Leibniz, au
+contraire, déclare que les mathématiques qu’il forge traitent directement des
+transcendantes. Or, qu’est-ce qu’une équation transcendante telle qu’elle est définie par
+les mathématiciens de cette époque ? L’équation transcendante est l’équation qui
+correspond à une courbe engendrée par deux mouvements indépendants dont on ne peut
+mesurer exactement leur rapport, c’est-à-dire dont on ne peut mesurer un rapport ni par
+un nombre entier, ni par [un nombre] fractionnaire.
+
+                                                                                             25
+
+Vous voyez ? Le continu n’est pas rectiligne ; le continu est un labyrinthe parce que
+[143 :00] seul le pli ou l’inflexion rende compte de la nécessité des séries infinies. Si je
+définis le continu de manière rectiligne, ce serait un continu qui sera encore plein de
+trous. Je ne peux pas définir le continu au niveau d’une ligne droite. Autre manière de
+montrer qui est une autre manière d’arrondir les angles, thème encore une fois présent
+dans tout le Baroque. Tout comme je faisais le rapprochement avec Thom, je vous
+rappelle que dans les mathématiques modernes, a eu beaucoup, a rencontré beaucoup
+d’audiences [144 :00] un thème fait par un mathématicien, un auteur très intéressant qui
+s’appelle [Benoit] Mandelbrot [Deleuze l’épèle], concernant ce qu’il appelle les objets
+fractals, les objets fractals. Là, je vais très, très vite ; je vous en donne une présentation
+grotesque, tellement elle est rudimentaire. Vous allez voir quel est son rapport avec ce
+qu’on vient de dire.
+
+Un segment étant donné – j’ai perdu ma craie, ah, voilà. [Deleuze va au tableau] [Pause]
+Vous allez voir comme c’est beau – Je prends un segment. Il n’est pas ondulé comme
+[145 :00] celui-là. Il est droit. [Ici, vu le changement de magnétophone, une partie du
+développement au tableau est inaudible] Je prends un segment, je le divise en… comme
+ça, je le divise en trois. Ça suppose [propos inaudibles] … Je construis un triangle
+trilatéral. Eh ? Voilà, ma première ligne droite. J’ai pris le segment central et j’ai
+construit un triangle trilatéral. Là, je vais faire la même chose, et là aussi. Je divise ça en
+trois, et je construis le triangle trilatéral. [Pause] [146 :00] Là je fais la même chose,
+[Pause] même chose, même chose. [Rires] A la limite, qu’est-ce que j’ai ? A la limite,
+comme le montre très bien Mandelbrot, j’ai une courbe très spéciale où tous les angles
+sont effacés. J’ai une courbe ouverte infinie, c’est-à-dire qui remplit tout le plan. Comme
+dit Mandelbrot, c’est exactement l’opération qu’on fait sur une carte lorsque l’on
+augmente l’échelle. [147 :00] Si vous vous rapprochez de l’échelle dite réelle, eh bien,
+chaque fois vous allez construire sur un cap un autre cap, et sur le cap, un autre cap, etc.,
+à l’infini. A la limite, vous aurez une courbe ouverte qui occupe tout le plan. En tant que
+courbe ouverte, elle n’a pas de surface, et pourtant elle occupe tout le plan. Comme dit
+Mandelbrot, elle est très bizarre ; elle est de dimension intermédiaire à 1 et 2. En fait, en
+mathématiques, on calcule, car les logarithmes, pour ceux qui savent ce que c’est, les
+logarithmes aussi sont liés aux opérations [148 :00] par lesquelles on arrondit les angles,
+et les logarithmes sont très importants dans les mathématiques du dix-septième siècle,
+dans toutes les mathématiques baroques. Il faudrait lier les logarithmes et les séries
+infinies d’abord. Il y a à la limite cette courbe, dont nous entretient Mandelbrot, est une
+courbe à dimension logarithme 4 sur logarithme 3 ; admirez que logarithme 4 sur
+logarithme 3 est un nombre irrationnel. Plutôt il n’y a plus aucun lieu de l’admirer
+puisque il y a une série infinie et il y a des nombres irrationnels à la limite de la série
+infinie.
+
+Je peux faire l’inverse, et au lieu d’ajouter des caps à l’infini à une figure [149 :00] –
+C’est ce que Mandelbrot dit spirituellement, disant que : Comment mesurer les côtes ?
+Comment mesurer la côte d’un pays ? Bien, vous prenez une échelle qui vous permet de
+définir les caps et les baies, et si vous changez l’échelle, vous aurez perpétuellement
+d’autres caps sur votre cap, ou d’autres baies dans votre baie. Vous pouvez aussi bien
+soustraire les baies qu’ajouter les caps. Vous arriverez à la même côte, de dimension 1
+
+                                                                                              26
+
+virgule 2, elle ne sera ni à la dimension 1, ni à la dimension 2 ; elle sera intermédiaire
+entre une ligne et une surface. Ce sont de grands mystères mais très beaux. Vous avez à
+la limite cette courbe ; [150 :00] elle n’a même plus de tangentes. Comme dit
+Mandelbrot, c’est le corps infiniment caverneux, ou le corps infiniment spongieux.
+Tiens ! Le corps infiniment élastique. Tout ça nous convient très bien.
+
+Donc, on retrouve, et c’est là-dessus que je voudrais que vous réfléchissiez d’ici la
+prochaine fois. Ce que j’estime avoir fait, j’espère… Je sais que cela a été difficile ; vous
+avez très bien supporté ça. Mais c’est tout maintenant. Ce sera… On aura fini les
+mathématiques, si j’ose dire. Ce qu’il faut que vous reteniez, c’est les enchaînements
+purement logiques : Comment [est-ce qu’] on va du pli à la série infinie ? [151 :00] C’està-dire, pourquoi le continu ne peut [-il] pas être rectiligne, mais forcément un labyrinthe ?
+Réponse : le continu rectiligne n’est qu’une apparence pleine de trous, ces trous étant
+marqués par les nombres irrationnels, lesquels nombres irrationnels impliquent des
+courbures, des éléments de courbures, si bien qu’ils sont source de série infinie. [Pause]
+[152 :00] Ce que nous avons montré, c’est, si vous voulez, qu’il fallait aller du pli comme
+inflexion à la série infinie par l’intermédiaire du nombre irrationnel.
+
+Qu’est-ce qui nous reste à faire pour en finir avec ce premier étage, avec cet étage d’en
+haut ? La seconde partie de ce qu’il faudrait démontrer, c’est cette fois-ci [qu’] il ne suffit
+pas d’aller du pli comme inflexion à la série infinie ; il faut aller de la série infinie à
+l’inclusion, ce qui est une idée toute simple, à savoir : plier, plier, c’est très joli. On plie,
+on plie à l’infini. C’est ça qu’on vient de montrer : si vous pliez, vous pliez à l’infini.
+[153 :00] Donc, le pli, c’est la formule de l’infini. Voilà, c’est ça qui doit vous faire
+rêver : le pli, c’est l’infini. Le pli, c’est la forme de l’infini. [Pause]
+
+D’accord, le pli, c’est la forme de l’infini, mais, mais pourquoi [est-ce qu’] on plie ? Là je
+voudrais dire la chose la plus banale du monde, et c’est formidable. On ne peut pas faire
+de philosophie sans fauter, et puis je ne sais comment dire, du plus grand paradoxe à la
+plus énorme banalité, et c’est en prenant appui sur l’énorme banalité qu’on rebondit dans
+quelque chose d’étonnant ; en ce moment, on est fort pour dire aux autres, c’est-à-dire
+aux non-philosophes. [154 :00] Qu’est-ce que vous voulez qu’on fasse ? Si vous tenez à
+cette banalité, il faut aller jusque là, c’est-à-dire jusqu’à l’envers de la banalité qui est un
+paradoxe non-sens. Alors, l’énorme banalité, on la trouve là tout de suite : ça sert à quoi
+plier ? Pourquoi [est-ce qu’] on plie ? Alors cela me paraît évident, et ça c’est une
+intuition spatiale qui travaille Leibniz. On ne peut pas le supprimer, Leibniz : Mais quand
+vous pliez quelque chose, c’est pour mettre dedans. Vous pliez un papier pour le mettre
+dans une enveloppe. Plier, c’est mettre dedans, et c’est la seule manière de mettre dedans.
+En d’autres termes, on va du pli à l’inclusion. L’inclusion, c’est la cause finale du pli.
+[155 :00] Je plie pour mettre dedans. Je veux faire un paquet, je plie. Je plie le journal
+pour le mettre dans ma poche. Je plie mon mouchoir ; ce n’est plus fort que ça. Le pli se
+dépasse vers l’inclusion, vous voyez ? Donc les deux opérations sont : du pli à la série
+infinie, de la série infinie à l’inclusion.
+
+Si le continu est un labyrinthe, c’est finalement parce qu’il est dedans. Il est dans quoi ? Il
+est dans l’âme, si bien qu’on passe, je dirais, on passe continuellement du labyrinthe du
+
+                                                                                              27
+
+continu au labyrinthe de la liberté. [156 :00] Le labyrinthe du continu, c’est : le continu
+n’est pas rectiligne ; il implique la série infinie des inflexions ou la série infinie du pli. Le
+labyrinthe de la liberté, c’est : ça sert à quoi de plier ? C’est pour mettre dans l’âme, si
+bien que chaque âme a en elle une infinité de plis qu’elle ne peut pas déplier à la fois. Et
+qu’est-ce que c’est qu’être une âme ? O comme c’est d’être tortueux ; c’est tortueux.
+C’est d’avoir vingt-deux, quarante, deux mille, une infinité de plis. [157 :00] Et les replis
+de la matière ne sont là que parce qu’ils trouvent leur raison le plus profondément dans
+l’inclusion dernière des plis dans l’âme. L’orthodoxie se méfiait beaucoup de Leibniz.
+Cette âme pleine de plis paraissait un peu louche, surtout quand on voit ce que Leibniz en
+tirera de son âme pleine de plis, et vous voyez qu’il trouvait que l’âme de Descartes était
+vraiment un peu trop rectiligne. [Rires]
+
+Bon, je lance un grand appel. Je voudrais vraiment que pour la prochaine fois, qui va être
+dans longtemps maintenant puisque mardi prochain, c’est le 11 novembre, alors il faut…
+Ça tombe très bien parce qu’il faut tout ce temps-là pour réfléchir. [158 :00] Je voudrais
+bien que vous mettiez bien tout ça au point parce que je suis prêt à recommencer, je m’en
+fous, moi, si ce n’est pas très clair, parce que je voudrais… Ce que j’ai fait là, c’est
+l’histoire pli-série infinie-irrationnel ; en quoi ces trois notions sont liées, et comment il
+en ressort comme conclusion que le continu ne peut pas être rectiligne, mais est bien un
+labyrinthe. Si vous n’avez pas compris ça, on recommence. … Oui ?
+
+Un étudiant : [Inaudible]
+
+Deleuze : Au même niveau ; je vous dis que Leibniz là-dessus puisse se faire une
+conception du repli sur soi-même très originale en vertu de tout ça ; si vous voulez, il va
+gonfler toutes les formules toutes faites et les comprendre d’un sens complètement
+nouveau chez Leibniz. [Fin de l’enregistrement] [2 :39 :02]

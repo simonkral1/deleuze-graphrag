@@ -1,0 +1,1614 @@
+1
+
+Gilles Deleuze
+
+Seminar on Foucault, 1985-1986
+
+Part II: Power
+
+Lecture 12, 28 January 1986
+
+Transcribed by Annabelle Dufourcq; time stamp and additional revisions, Charles J.
+Stivale
+
+Translated by Christopher Penfield; additional revisions, Charles J. Stivale
+
+Part 1
+
+A student: [A question in progress] … and well, the change I was talking about myself is always
+[several unclear words] … the problem of the representative has not been fully addressed here,
+or not yet.
+
+Deleuze: The representative… yes, if I understand correctly, it’s Marxism and existentialism.
+But in what sense are you calling them “representatives”?
+
+The student: I understand. I am calling it representative since officially and actually, they are
+representatives, first, through advertising…
+
+Deleuze: Yes. [Laughter]
+
+The student: … through advertising, it’s an enormous event, that is [several words unclear] … in
+order to see and to know is entirely practical such that, as Foucault says, truly he doesn’t know
+very well how knowledge [le savoir] can occur almost in a magnetic fashion [several words
+unclear] … He presented his works to certain Leftist intellectuals and even from the Communist
+Party, and at the same time, it receives [several words unclear] of his books from Parisians.
+
+Deleuze: Okay, yes, I understand. Very good, then, like last time we are starting with a
+parenthesis: what you say is so helpful that I would like you to think about it later. Thus, here, I
+will not, like last time, make a clarification concerning something that we have already seen in
+the past, but a clarification, a kind of warning that will only make sense later on.
+
+And I am opening a parenthesis, in effect, on how to pose this problem if, for example, one is to
+ask: what are the relations between Foucault’s thought and Marxism, or phenomenology… or
+existentialism? It is a history, you see, that cannot be understood simply in terms of theories. It
+cannot be understood simply in terms of theories, and moreover, I believe that if you are not
+aware of a certain practical problem – given that Foucault’s philosophy always aligned itself
+with practice –, then you cannot understand how Foucault situated himself in relation to
+
+                                                                                                     2
+
+Marxism or in relation to phenomenology. What is the practical problem? I will return to a very
+simple theme, but we will be able to… it is more of a work program by which I am thus
+beginning today. A work program, and then we will try to fill in more of the detail later on.
+
+But I am saying to myself, currently, for you, in this room, that there are a certain number of you
+who are too young in any case to have experienced 1968, which is unfortunate because… It’s not
+at all that I want to wax nostalgic about this time period, it is just that, based on the way certain
+authors, sometimes even those who call themselves philosophers, treat this period, one would
+think something is off in their heads. Reading them, one would have the impression that 1968
+was a story that took place in the minds of Parisian intellectuals. … That’s not what it is, you
+understand. That’s not what it is. 1968 is a local effect, in France, of a series of global events and
+international currents of thought. So, since today there is for the time being a kind of desert that
+sorrows all of us, it is difficult to conceive of a recent period that was a period of profusion. But
+if we want to understand what happened in 1968, I believe that we must take account of a long
+history in which these global events and these international currents of thought were interwoven.
+It is in this way that I think I have already responded to your question, because it is not a matter
+of comparing Foucault’s thought with Marxism abstractly, or with phenomenology abstractly,
+but of seeing how all that is tied together and how the relations among all that cannot be
+separated from the events that were taking place or the currents that were taking shape in
+thought.1
+
+And I would say: what was fundamental that took place at all levels? It was, it seems to me, a
+calling into question of centralism. Whether this be practical centralism in political action, or
+centralism at the level of centers of thought… And how was it expressed, this calling into
+question of practical or theoretical centralism? If I take the sequence of events, if I consider the
+events, then I would say, in order not to go too far back, that in a certain way, what served as the
+basis for this critique of centralism was the Yugoslav experience. Yes, the Yugoslav experience,
+and what was of very determinant importance was the rupture of Tito with Stalin and the entire
+theme of self-governance that came by way of Yugoslavia. That was an essential moment.
+Second great event... What I am saying is summary, it’s just that… I ask all those to whom this
+would mean something to think about these points, since we will re-encounter this later in more
+detail…
+
+Second moment… Here, I am assigning singularities in a history. I say, first, the Yugoslav
+experience; second singularity: the double repression, the Stalinist repression in Hungary and
+then in Czechoslovakia. The Czechoslovakian movement was essential. The third factor that I
+believe was very important was the development of movements in America – all this is well
+before 1968 – that were opposed to syndical centralism. An entire workers’ movement that
+called centralism into question at the level of the trade unions. In America, someone named
+[Paul] Romano was very important at this level in outlining strategies, which he presented as ...
+the strategy of a new working class, the theme of a new working class. This is important because
+in Europe and in France, the idea of a new agricultural syndicalism was also being outlined, with
+the theme: is the working classed today defined in the same way as it was at the time of Marx?
+
+In France, the theme of a new agricultural syndicalism was developed around a thinker whose
+name was Serge Mallet, and the theme of, or the problem of a “new working class,” with a new
+
+                                                                                                   3
+
+strategy of struggle, is crystallizes, not at all strangely, around Sartre. Notably, with an author
+very close to Sartre, who is named Gorz and entitles articles and a book, “Toward a New
+Working Class?”. The necessity, therefore, to redefine the working class. All that agitated
+greatly. Practically speaking, I am only taking events into account: a new kind of struggle… The
+idea that a new kind of struggle was being formed, about which we have little idea because… we
+have little idea, but if I bring it up to you, once again, it is because I am convinced that it will
+reappear…
+
+If I take into account, this time… I outlined a certain number of events, which, I am saying these
+intertwine with currents of thought, which were what? I believe that, at the origin of everything,
+to pay him this homage, there is the young Lukacs, the young Lukacs, since afterwards… I say
+“the young” since his great book, History and Class Consciousness [1923], is a book from his
+youth, and afterwards he will provide his self-criticism. But in Lukacs, in History and Class
+Consciousness, there appeared already and very acutely the problem of new forms of struggle,
+and we will see the importance of this, how to put it, of the production of a new kind of historical
+subject, which is to say, of a new working class. New kind of struggle and production, strictly
+speaking, of a new subject of history, of a new subjectivity. I would say: it is from within
+Marxism, in Lukacs, that the problem appeared the most clearly.
+
+The second stage – and they know Lukacs very well – is the Frankfurt School, which greatly
+insists on a new kind of subjectivity and reinterprets Marxism according to a new kind of
+subjectivity. There are some here who know the Frankfurt School well, and later on I believe
+that… this is very close to Foucault, to the thought of Foucault… Later on, we will have to
+specify what this kind of subject was, such as was sketched by the Frankfurt School. The third
+stage that I believe was important: Italian Marxism, the reinterpretation of Marxism by certain
+Italians, and which constitutes already the germ of what will later be called autonomism. An
+important book in this regard is the book by [Mario] Tronti, T-R-O-N-T-I, which is translated
+into French… I no longer remember the title… Eric [Alliez], do you remember?
+
+Eric Alliez: [Inaudible remarks]
+
+Deleuze: Workers and Capital [1966], which also – in this case, according to and inspired by that
+which was very particular in the Italian economy and Italian politics – poses very well both the
+problem of new struggles, of new forms of struggle, and the problem of a new worker
+subjectivity. Good, here, too, within the framework of Marxism. And it is simultaneous, in
+France, the new movement; it is around Sartre, among others… And both Italian Marxism and
+Sartre’s attempt to existentialize Marxism, if you like, is entirely and precisely be situated under
+this general rubric of the production of a new kind of subject.
+
+And I insist on this link that was constituted in fact and in practice between the idea of new
+forms of struggle and the production of a new subject. And if you look more closely, what was
+the nature of the link? It’s that well before 1968, what about centralism is condemned, for
+example, in trade-union centralism? It is the quantitative character of the demands made. And the
+new kind of struggle is defined by, or is presented as, promoting a new kind of demand, that is, a
+qualitative demand, which is to say, a demand bearing on the quality of life and not on the
+quantity of work, if you like, roughly speaking – what I am trying to pose is quite summary.
+
+                                                                                                   4
+
+Now, if you take seriously this theme of the qualitative demand, bearing on the quality of life,
+then you already have the germ of the ecologists, you have all sorts of germs whose development
+continues even now, but you understand how the two are linked together: a new kind of struggle,
+that is, struggles that are transversal and no longer centralized, and the production of a new
+subjectivity. The qualitative demand and the intersection of both a new kind of struggle and the
+production of a new subjectivity. You understand? Good.
+
+And at the same time, in France, it was on this basis that, before 1968, groups were constituted,
+the many [grands] groups that came together in 1968, whether to compete with each other or to
+unify with one another, though in unions that were never like unifications but rather like
+transversal relations. It was very complicated: what happened with the students’ union? Who
+seized power of the students’ union? It was not just a story about students; the students’ union…
+managed a budget, a colossal budget! For example, it was essential when, in Strasbourg, the
+situationists took hold of the students’ union, and they demanded that either they be installed in
+the leadership or that quite heterodox budgetary regulations be imposed in relation to the central
+management of a budget…. All this did not take place in people’s minds; it was truly a matter of
+action after action…
+
+Now, if I were outlining for France, you will ask me: what were the many groups? Well, there
+was, around Sartre, a first group… I am forgetting events in my rubric, I am forgetting the
+essential… Taking a step backward, there is the Vietnam War, the Algerian War, where there,
+too, one better understands what is meant by “new forms of struggle,” since nothing was
+foreseen; it’s not the unions who organized the struggle against the Algerian War. Moreover,
+what does the struggle against the Algerian War imply? Well, clearly, new forms, namely,
+network forms, network forms that by nature could not be centralized.
+
+So, if you take this into account, I would thus say of a first group -- “first”: not in the temporal
+sense, they are simultaneous -- I am distinguishing a group around Sartre closely tied to the
+problem of the Algerian War: what was it that had to be done? What was it necessary not to do?
+Which networks? How to conceive a network of support for the National Liberation Front
+(FLN)? In what form? Etc. One group that had just split away from Trotskyism, which was
+Socialism or Barbarism. One group that called itself “Situationism”. One group that opposed the
+centralized Communist Party, which was called “The Communist Way” [« La voie communiste
+»], which had already been around well before 1968, in which [Félix] Guattari was already
+involved. And then I am passing over… But I believe that these were the principal ones, before
+1968 in France.
+
+Now, I am saying that these groups had this or that in common and this or that which
+differentiated them, but in any case, they took up this double problem: the production of a new
+subjectivity, which was not just a problem in someone’s head but, rather, something that was
+brought about, as if there were the emergence of a new subjectivity at the same time as the
+constitution of new strategic relations, that is, the emergence of new forms of struggle. And once
+again, you see clearly that the idea of a qualitative struggle accounts for the link between the
+two. Now, this is to answer your question somewhat, by which I mean, concretely this traversed
+and went through Marxism and existentialism, and in order to call them both into question. And
+this happened both from without and from without. This happened from within: it was all the
+
+                                                                                                     5
+
+reevaluations of Marxism, as much in the Frankfurt School as in Italian Marxism and Sartrean
+existentialism. So that I believe the question you ask… concretely, the dividing line is not, if you
+like, between on the one hand, for example, Foucault’s thought, and on the other hand, Marxism
+and existentialism; rather, Foucault’s thought can only be understood within an interior agitation
+that affected Marxism, existentialism, and the whole of thought [l’ensemble de la pensée] from
+that period.
+
+So how is Foucault situated within all this? Before 1968, I believe, I believe…, Foucault did
+not… He surely had a political mind [pensée] and political positions, but they do not seem to
+have been expressed. They do not seem to have been expressed philosophically. After 1968,
+what happens for Foucault? And well, it’s obvious, if I am making this long parenthesis, it is
+because … one cannot understand… one cannot even pose the problem of Foucault’s political
+philosophy independently of this context of origin, and one cannot see and cannot wonder about
+Foucault’s novelty if one does not appreciate the state of the question before him. Now, the state
+of the question before him…, I cannot say that Foucault’s originality is to have introduced either
+the theme of transversal struggles or the theme of the production of a new subject. Once again,
+these are the givens of what was called, in its most general form, leftism. That which in its most
+general form was called leftism, the history of which I do not think is over, takes the following
+definition: leftism is the practice and the theory of a double problem.
+
+So, there is a Marxist leftism, and there is a non-Marxist leftism; there is an existentialist leftism
+and a non-existentialist leftism… In any case, leftism is at the crossroads of two problems: are
+there today new forms of struggle? Is there today the emergence of a new subjectivity? Whether
+it occurs in a Marxist context or in an existentialist context… that is what leftism is. It is this
+double question before being an answer to these questions, but you can sense that if I pose, if one
+poses these two questions, the implied response is already “yes,” even if it is difficult to…, even
+if it is difficult to deliver this new subjectivity, even if these new forms of struggle are fragile;
+and well, yes, there is a new form of struggle. The new form of struggle…
+
+So then, to what extent is this a new form of struggle? It’s not by accident, at that moment, that
+leftism was going to seek out the great forebears… which is to say: it will find these great
+forebears no doubt in the Russian Revolution, before the crushing of the Soviets, before the
+crushing of the workers’ councils, for the Soviet councils precisely refused centralization and
+promoted transversal relations from one local council to another local council, so that the
+theoreticians of the workers’ councils at the time of the Russian Revolution will be resuscitated
+by the leftists who, by contrast, will denounce in Lenin the crushing of the councils and the
+operation of centralization that Lenin brought about.
+
+Okay, returning to Foucault: so when we again encounter the theme in Foucault, a theme that he
+integrally takes back up, both of new forms of struggle and the production of a new kind of
+subject, we will not say that this is the novelty of Foucault; on the contrary, it marks the site
+where Foucault integrates himself in the events and currents of thought that produced, in France
+and in other countries in 1968, other events and other quite proximate dates. This is to tell you
+the extent to which all that is far removed from the discussions of philosophers; on the contrary,
+it is… it is the philosophers who are grappling with that, but it’s not a question of theoretical
+discussions.
+
+                                                                                                      6
+
+So then, I return to this: what took place for Foucault? Well, he develops his political philosophy
+around 1968, thus he integrates himself completely in this problematic, if we may say so, in
+calling “problematic” the welding of the two problems (the transversal struggles, the production
+of a new subject). But how did he do it? There, too, it did not happen for him in his head either.
+It is almost…, with Foucault, it is the period after 1968. And well, what happens? I have already
+signaled the strict contemporaneity of Foucault’s work, Discipline and Punish, and the
+organization by Foucault of a post-1968 group, the Prison Information Group (GIP), which
+participated very actively in the prison movement that developed after 1968 and that took place
+in the form… Here, too, understand, in prison it is difficult to think that there could be a very
+centralized movement… it can be centralized at the level of the detention center, sure, but to
+centralize at the level of the whole prison system is very difficult. Thus, a kind of struggle that,
+by nature, is rather like wildfire [cordon de poudre]. It begins in Toul and then it suddenly
+springs up in Rouen. What makes it take this path? And then as soon as repression cracks down
+on it there, it springs up elsewhere.
+
+Good, well, the Prison Information Group, about which I have spoken a little bit, developed
+behind Foucault’s impetus… and, as I told you, in my opinion, it is, after 1968, one of the only
+leftist groups that worked effectively, an instance that reintroduced neither centralization nor
+hierarchy. The post-1968 groups, such as the AGP, re-established Stalinism, re-established
+centralization, which had always been a risk, for here, too, it’s not a matter of theory but rather
+practice: how can a group function without there being leaders who are reconstituted, the AGP
+with its leaders, it was… Good, all that… In the case of the GIP, everyone knew that it was
+Foucault and that the ideas came from him. It turns out that he knew how not to act like a
+commander, that the Prison Information Groups that formed in the provinces were not
+centralized around Paris, all that… Which, incidentally, had many drawbacks, but there were
+also advantages, and that was one.
+
+And Foucault, after 1968, got to the point where one finds, in his pen, terms that were dear to…
+that were already those of Guattari before 1968. For example, around and before 1968, Guattari
+employed the term “transversality” to indicate the nature [caractère] of these new struggles,
+transversal struggles, and after 1968 one will find in Foucault the theme of transversal struggles.
+Guattari launched a theme of what he called the micro-politics of desire, and after 1968, one
+finds in Foucault the micro-physics of power. I believe that the micro-physics of power in
+Foucault is very different from what Guattari conceived by the term “micro-politics of desire,”
+but there is nevertheless an affinity.
+
+Now, with respect to the micro-politics of power, Foucault conceived it not only theoretically
+and in relation to the preceding currents of thought that I have just mentioned; further, he
+conceived it practically in relation to the Prison Information Group that he had himself
+established. That is one aspect.
+
+Now, very curious… You know, when someone renews problems, they renew them according to
+a rhythm… If problems do not have practical references and referents…, they are not good
+problems… Nothing ever just happens in one’s head. Things always take place in the world,
+including ideas. Ideas are worldly, not cerebral. Or rather, they are cerebral because the world is
+a brain. But at this level, it seems to me that Foucault stuck with the new forms of struggle. The
+
+                                                                                                     7
+
+practice was the Prison Information Group; the theory was Discipline and Punish. And it took
+him a long time, a very long time, though it was worth the wait, in order to arrive at the other
+aspect of the problem: production of a new subjectivity. So much so that he will have the
+problem of a new subjectivity at the same time as his last books. Which is to say, not very long
+before his death.
+
+So, I would like to emphasize that. You will tell me that it nevertheless took quite a while, even
+though these two problems, according to what I have just said, were linked together. It took quite
+a while because, yes, he needed the time, surely, not in order to abstractly discover the link
+between the two problems, which would have been without merit, but in order to organize them
+in his own way according to his proper thought, in order to renew them and to experience them
+practically just as much as theoretically, in order to bring this renewal of the two problems to
+bear on a period that was not particularly favorable, since one had already begun to enter into the
+current desert, which has not yet been left behind, thus… and to ground this problem historically:
+political and social struggles, on the one hand, and on the other, the production of a new
+subjectivity. Yes, in order to come to innovate and to say something of importance, it took him a
+long time.
+
+But I can say that his entire political philosophy under its double aspect, the new forms of
+struggle that find expression in Discipline and Punish and the other problem – production of
+subjectivity – that finds expression in one of his last books, The Use of Pleasure, and follows
+from… I am not saying that it is reducible to, but finds its concrete principle in this history at the
+moment of 1968, so that the true question, or at least one of the questions will be, you see, if we
+really want to understand, it is all these groups about which I have just been speaking, the
+Frankfurt School, Italian Marxism, the young Lukacs… how did they conceive both the new
+struggles and the production of subjectivity? And it is only if one understands…
+
+For example, it is at this level that Socialism and Barbarism was not the same thing as
+situationism, etc., was not the same evaluation or the same… conception of what it means to be a
+subject… It was a rich period in the sense that it teemed, yes, all that was fairly teeming. Okay,
+and well, it may almost seem as though I haven’t answered your question, but for me, I would
+reply by saying that there is no need to oppose the thought of Foucault with Marxism, on the one
+hand, and existentialism, on the other. There is to be seen a whole… strictly speaking, a whole
+micro-agitation that is produced in Marxism, that is produced in existentialism, and Foucault’s
+thought will never be independent or separable from everything that thus transpired as a renewal
+or reinterpretation of Marxism, the developments of existentialism, even if the context proper to
+Foucault is very different from that of Marxism and from that of existentialism.
+
+As a result, if I consider the theoretical structures, I can say that Foucault is very far removed
+from Marxism, very far removed from existentialism, but if I consider the micro-structures,
+which is to say, that whole agitation that renewed Marxism from within or that developed
+existentialism, I would say that at that moment Foucault rooted himself in all that agitation. And
+he will elicit from it new effects, in his own way. So that after the end of the semester, this is
+what we will discover, and thus I am happy to have been able to prepare it, because I would ask
+of those… There are among you those who know this particularly well, I believe, these currents
+of Italian Marxism, I know that there are some who know the Frankfurt School well, perhaps
+
+                                                                                                   8
+
+there are some who know Lukacs well; we will do one or two sessions around Foucault but
+centered on these themes that are common to this entire period in which Foucault is caught up.
+
+A student: [Inaudible question]
+
+Deleuze: Yes, yes, there is the demonstration, well, Eric knows this better than me… What are
+the dates, Eric?
+
+Eric Alliez: [Inaudible reply]
+
+The dates, the great demonstrations, the great organizations around … preceding autonomism…
+The book by Tronti, what year is that, do you remember?
+
+Alliez: [Inaudible reply]
+
+Deleuze: Oh yes! Well before! It’s 1966, Tronti, so Operaio is when?
+
+Alliez: [Inaudible reply]
+
+Deleuze: So what is there before 1968?
+
+Alliez: [Inaudible reply]
+
+Deleuze: Ah yes, there is that! Yes, yes.
+
+Alliez: [Inaudible reply]
+
+Deleuze: It is after 1968, then; and what are the great dates after 1968?
+
+Alliez: [Inaudible reply]
+
+Deleuze: and in these groups… For me, I have the feeling that there were already those who
+were in close relation to Sartre… there would already have been Sartreans. Incidentally, Tronti
+should know Sartre, eh?
+
+Alliez: [Inaudible reply]
+
+Deleuze: Yes, with the Situationists, since, when they took over, when the conquered the union
+of Strasbourg by a surprising coup, the situationists, there were Italians, the Italian movement, as
+we were saying, yes, yes.
+
+Alliez: [Inaudible reply]
+
+Deleuze: Yes, yes, yes, yes.
+
+                                                                                                       9
+
+Another student: Is Foucault’s political thought, and principally the idea of politics as the art of
+cynicism and not as the art of the lie, not as ideology, the line that he said, “one always sees what
+one is able to see”, is it not closely tied to a conjunctural situation of Europe, that is, the
+engagement of the working class with imperialism, because based on that, one becomes cynical,
+that is, one no longer has a reason to struggle? The question of class struggle is suppurated
+[supérée], yet it is a suppuration [superation] not only at the intellectual level, but it is
+suppurated by the conjuncture, the working class itself engaged in imperialism, and based on
+this, one has a conception of politics as the art of cynicism: one sees everything that one can see,
+but one does nothing because one does not have the interest to change…
+
+Deleuze: This position was never Foucault’s. I mean, what you have just said, both on cynicism
+and no reason to act, that was never Foucault’s position.
+
+The student: No, but his idea of politics as always… that politicians are not liars, they do not lie
+they tell the truth…
+
+Deleuze: Yes.
+
+The student: It’s true, but this cannot be explained on the basis of the engagement of the working
+class with imperialism because, in a country like Brazil, for example, where the politicians do
+not say everything that they say here, for example, I do not think that we should understand
+politics in the same way.
+
+Deleuze: Why?
+
+The student: I think that in countries like Brazil, the sites of resistance are much more obvious.
+One does not see all that one can see, which is to say, notions like ideology have some chance of
+existing, whereas in France, in Europe, notions like that of ideology because one sees no interest
+to change.
+
+Deleuze: I am afraid that this formula, which is not a literal formula of Foucault, this formula
+that I proposed in order to make things clearer, “in a given period one always sees what one can
+see, and one always says all that one can say,” has led to some very serious misunderstandings,
+because at least in my mind, and certainly in Foucault’s thought, …it is valid everywhere and
+always. I mean: there are not two kinds of politics, one where one would say it and another
+where one would not say it.
+
+If I take some recent examples, I can take them just as well in France as in any other country of
+another continent. I would say: take the electoral platform of… today… that was fully published,
+one can read it, and I assure you that [Jacques] Chirac and [Jean] Lecanuet say everything2…
+they say everything. We cannot say: they are liars and hypocrites who make promises that they
+do not keep. They make promises and they keep them. We need only read the text: they say
+everything. We could not say: ah, we’ve been had. When they speak of liberalism, they explain
+perfectly well what liberalism is, they say everything. So then, is this the characteristic of cynical
+countries? But there is no cynicism in saying everything… This notion of cynicism, personally, I
+
+                                                                                                        10
+
+absolutely do not understand it, there is no cynicism. One says everything that one can say, but
+there is no cynicism.
+
+Now, I would ask: in South Africa, do they lie? They do not lie at all. Do they deceive? Does
+apartheid consist in saying…, in concealing? Yet they conceal nothing. It is very simple: it’s not
+by way of cynicism that one says everything, it is because one cannot do otherwise…, there is
+nothing to conceal. There is never anything to conceal, there is nothing behind the curtain, never
+anything. They say it. Only, you will tell me: they say it to whom? Now that begins to be the
+interesting problem. Given that they conceal nothing, to whom are they speaking? I would reply:
+to those who make the effort to read. So, it is very rare, which is what they take advantage of.
+
+I will take another example: Chili. You do not say that Pinochet conceals anything. He has never
+concealed. Never anything. When he says: I am defending Christian civilization, he does not
+conceal anything if one asks him “how do you define Christian civilization?”. And well, the
+definition that he gives, the definitions that he gives of Christian civilization are perfectly clear.
+They make one’s hair stand on end, but fine, they conceal nothing. So it is not at all a principle
+that is only valid for old Europe, it is absolutely a principle of universal politics; they conceal
+nothing because they can conceal nothing, they have no reason to conceal. So, once again, if I
+ask the question: yes, but to whom are they speaking? I would reply: to those who know how to
+read. So accordingly, in a civilization this means something, not everyone can read.
+
+So here, you could tell me: okay, sure, but precisely in so-called third world countries, there are
+many people where it is literally true that they do not know how to read, so clearly, something is
+concealed from them, or else they do not listen to discourse, they cannot listen to discourse, to
+the dominant discourse. This is why, we have seen this point exactly, at the beginning of the
+year, when we were interested in what Foucault calls a statement, we saw that one who makes
+the statement, which is to say, the subject… [Interruption in the recording] [46:37]
+
+Part 2
+
+… and those to whom the statement was addressed were variables of the statement itself. It goes
+without saying that if I say, “I decree general mobilization,” then I am mad. I am mad because
+only the president of the Republic has the power to say, “I decree general mobilization”. “I
+decree general mobilization” is a statement that has as its internal variable the president of the
+Republic who alone is entitled to it, so that if I say, “I decree general mobilization,” then it is an
+empty proposition that entails no consequence, other than getting me locked up if I stroll about
+the boulevards shouting, “I decree general mobilization”.
+
+Thus, in this sense, I am saying that the fact that there are statements where what is said is only
+said to certain addressees is not at all a limitation of the statement, but rather refers to internal
+variables of the statement that are perfectly determinable. To whom is this addressed? It is an
+internal variable of the statement, according to Foucault. Good.
+
+So then, we have finished this long parenthesis. But once again, I would like you to not forget
+because we will encounter this at the end of… at the end of our research, we will have to return
+
+                                                                                                     11
+
+to these points, when we will take up the question “what is a new subjectivity?”.3 So, with that
+said…
+
+Georges Comtesse: There is a point… [some inaudible words]
+
+Deleuze: Yes?
+
+Comtesse: [some inaudible words] … concerning the belief that politicians hide nothing, there is
+at least one thing that all the political parties, with no exception, all the unions with no exception
+conceal currently to everyone, which is that unemployment is a problem [some inaudible words]
+and that new technology is going to produce new workers and increase the number of workers.
+That is the most masked thing by all the unions and all the current political parties. Nobody says
+it.
+
+Deleuze: I am afraid, Comtesse, that you’re pursuing the “I decree general mobilization” move.
+[Laughter] Perhaps, it’s indeed possible.
+
+Comtesse: Not only are there mutually [some inaudible words] …, from variable capital, to
+support capitalists, they only say this partially. What is not said is that nearly all workers are
+going to be completely eliminated in the coming years, and that by the year 2000 there will
+remain only about 10% of the workforce, who will still work with computers and the
+bureaucracy and, in general, with new technology.
+
+Deleuze: Listen, you…
+
+Comtesse: What no one is saying currently is what will become exactly of all the people who
+will no longer work…
+
+Deleuze: That is because they do not know. When you say that no one is saying this, listen, you
+are exaggerating, ok?
+
+Comtesse: I was discussing this very point, precisely with the sub-assistant to Edmond Maire at
+[location unclear].4 He has stated at a convention, a convention organized by the Socialist Party,
+that in any event, technologies in the years to come were going to favor a new production and a
+new increase of workers on the labor market. That is, this is completely hot air. This is
+something that renews the labor union blather precisely concerning the representation of
+workers. I absolutely disagree with Sartre who, a few years ago, went down [some unclear
+words].
+
+Deleuze: Well, you see, you are saying it. So, listen, I am going to tell you, I am going to repeat
+for you a discourse that everyone hears, for example, from the mouth of Raymond Barre.5
+Raymond Barre’s discourse, already from the end of his time as prime minister, but especially
+now, his discourse has grown more and more in amplitude. It consists in telling us: you know,
+the idea of a statute, of a statutory guarantee of work is something that referred to a certain
+moment of capitalism, and Barre adds: I, who am not a demagogue, I am telling you that the
+statute, the statutory guarantee of work is something that is increasingly called upon to be
+
+                                                                                                   12
+
+reformed and scrutinized, and it will be necessary to think about how to accord more and more
+importance to work that is firstly part-time, secondly temporary, thirdly all the forms of
+unregulated work, and there will be a flexibility of employment that will make it so that the very
+notion of a statutory guarantee will be a notion for certain privileged persons, and these
+privileged persons will have an interest in shutting up because they will be less and less
+numerous.
+
+Grant me, Comtesse, that this is the discourse of Raymond Barre, that I’ve added nothing to it.
+We could not ask someone to be better at saying everything. So, when you make this important
+discovery, I believe that you are not the only one. We can just say that Raymond Barre takes the
+lead, which is to say, he prepares us, yes, well, everyone understands perfectly well what he
+means. He means: the unions… hey unions, stop being a pain in the ass because you are
+campaigning for work guaranteed by statute, yet you are already outmoded, you are already
+obsolete in today’s capitalism.
+
+And here I again encounter my themes: if there was an important reinterpretation of Marxism in
+Italy, then why was that? It is because, in all the European countries, even before 1968, Italy was
+the precursor. It was the precursor with, and because of, a vast black market sector, which was
+integrated into its economy well before the current crisis. The Italian crisis… what made Italy
+very important in this whole history that I am trying to retrace is that a vast sector… really
+formed part of its economy and that, already, forms of part-time work, of temporary work were
+maintained in Italy well before they appeared in the other European countries; and it was, I
+believe, this sector, this very curious sector in the Italian economy, which the Italian economy
+needed for reasons proper to Italy well before this transpired in the other European countries.
+This is what made it so that, in Italy, there were all the catalysts for a kind of agitation or
+autonomy, you understand, for the discovery of a new sector of autonomy. Good. And well, we
+will rediscover all that. So, we return to our problem…
+
+Oh dear. We return to our problem; and what is our problem? If you recall… Return, then, to our
+problem, which is thus: we defined these relations of power according to Foucault, and our
+question was, given that they are fluid, punctual, multi-punctual, diffuse, etc., how will they be
+stabilized? How will these extraordinarily mobile, diffuse relations of power be stabilized? How
+will they be stabilized, globalized? Which amounts to saying: these relations that have no form,
+how will they take form? In effect, power goes from one point to another, it goes from every
+point to every other point, but in itself the power relation is informal. And so, how will it take
+form, which is to say, how will it be fixed and stabilized? Or: it is strategic, but how will it be
+stratified? Or: how will it be actualized, since the relations of power in themselves emerge and
+vanish…?
+
+Thus, ultimately, they are virtuals [virtuels]. How will they be actualized? This amounts to
+saying: how will they take form? How will they be stratified? How will they be actualized? It is
+thus the passage – this is where we were last time – it is the passage from the molecular to the
+molar. And Foucault’s first response is: well, yes, relations of power are informal, but they are
+integrated into forms. Forms, the large social forms, are integrations of multiple power relations.
+In other words, Foucault’s first response – and I am insisting on the fact that this is only the first
+response, we will see why – Foucault’s first response consists in telling us: the actualization is an
+
+                                                                                                    13
+
+integration. It is an integration. Power relations are, if we may say so, molecular relations, microrelations, which are integrated into global forms, a global integration. And these social forms of
+integration are what we call institutions.
+
+Hence the reversal carried out by Foucault: it is not the institution that explains power, but power
+that explains the institution to the extent that power relations are integrated in institutions. What,
+therefore, is the role of the institution? It is not at all to produce power, but to give to power the
+means to reproduce itself. In the institution, power is reproduced, which is to say, it is stratified,
+it becomes stable and fixed. It is thus a passage from the micro to the macro, based on what we
+have seen, or from the molecular to the molar. And, because it seemed to me particularly
+interesting and especially very beautiful in Foucault’s text, I invoked the end of The History of
+Sexuality, Volume 1, where Foucault invokes what he calls a sexuality without sex. A sexuality
+without sex, I said, and well, it’s this, a molecular sexuality. If I am trying to define sexuality as
+a set of power relations, as a set of relations of forces, in the plural, I would say: it is molecular
+sexuality.
+
+And this is where we were, and I got tripped up last time because… I got lost in my
+combinatorics. I was saying: well, yes, it will help us, in order to try to understand, we will take
+risks – what does it mean, a sexuality without sex, a molecular sexuality, molecular loves? So
+then, do we have molecular loves? Yes, surely, we have molecular loves, but what is that? What
+we see are global loves, but molecular loves are perhaps necessarily unconscious. Since I see in
+large part whom I love, but what I love in whom I love is already more obscure; it is molecular,
+“what I love in whom I love”. Whom I love: that is what’s molar. It is a person, and a person is a
+molar instance. But what do I love in her? This miniscule gesture? That miniscule gesture? Ah,
+that is what I love, hey! Perhaps, perhaps it is something else, but you see that it is not the same
+domain. Micro-loves. In our molar loves, there is always something molecular. A small lock of
+hair, eh, this small lock! In other words, it is always a matter of traits rather than forms. Forms
+are part of molar love: ah, she is beautiful! How beautiful she is! She has a Greek nose! Well,
+that’s how it is with forms. But dynamic traits… ah, when she… when she… [Laughter] ah, I am
+not in shape [en forme]… it’s amazing when she tosses her hair back, that is not a form, that is
+molecular. Or: oh, the way she shrugs her shoulders! And someone else sees nothing, he says:
+okay, so she shrugs her shoulders? This, these are our molecular loves.
+
+And I was saying: good, let us help ourselves as best we can to understand this sexuality without
+sex. And I said: it seems clear to me that – he does not say this, but too bad – it is clear that he is
+thinking of Proust, for Proust is truly the one who has made a tableau of molecular loves,
+otherwise Proust cannot be understood, and so it is perfect, in this way we chance understanding
+both Proust and Foucault: that is more than was asked of us. And I said: see what Proust has
+done, and it is above all in Sodom and Gomorrah. And I began with my… [Deleuze goes to the
+board] there you have it… I was saying “man”… [Deleuze writes on the board] my
+combinatorics, in order to arrive at the threshold… if we lose ourselves in molecular loves, it will
+go terribly. But if we stay at the threshold, eh, at the molecular threshold, if I take up molar
+instances, I have: man and woman. But in order to reserve myself the right, or rather to reserve a
+right for all anomalies, I must split things up since the amorous relation could be: man-man or
+woman-woman just as much as man-woman. Thus, I have two men: M1 and M2. I have two
+women: W1 and W2. And then, the molecular threshold, it’s quite simple, it is that, here, if I say
+
+                                                                                                      14
+
+that I am remaining at a macro-sexuality, that amounts to saying that, well, yes, there is a
+centralization in the form of such and such sex, man-man, woman-woman. How do I pass over to
+the molecular threshold? I suppress centralization.
+
+You see, at the same time that you are following me, you must say to yourselves that what
+interests us at the level of the problem where we are currently is the inverse path: how does
+centralization emerge? As for me, I am compelled to go in the other direction. And well, each
+person has two sexes at once. You will say: so it is still a matter of sexes? No, let us call these
+“poles”. Each person has two poles. In fact, there is only one sex, but it has two poles. Man pole
+and woman pole. M1, man, has two poles, small m and small w. M2 has two poles, small m and
+small w. Foucault has two poles, small w, small m. I obtain the global sex of someone in virtue
+of the prevailing pole. And still, other operations are necessary, but it doesn’t matter, we must
+not overly complicate things. So, the last time I was looking for the possible combinations, and I
+do not know what got into me, I wanted seven of them, I do not know why. It’s obviously not
+seven. Incidentally, I forgot the rule.
+
+It is not difficult: with four terms, each of which is divided in two, um, I no longer remember the
+rule, quite simple… so that I had to redo it empirically. Now, it is quite clear that, if I start with
+one term, I will have 4 relations; if I take the second, I will have 3; if I take the third, I will have
+2 relations; and if I take the last term, I will have only one relation, since the others are covered.
+It is good that I have 4 and 3, which are 7, plus 2, so 9, 10, I have 10 possible relations that will
+be the relations of force or power relations in micro-sexuality. So I have correctly made my list
+this time. I give… because I am not going to start over, it would take us a half hour…
+
+I start with M1m, I will have: M1m in relation with M2m (one). In relation with M2w (two). In
+relation with W1w. In relation with W1m. So, there are my four relations. There is no need to
+say W2w and W2m, since it amounts to the same thing from the point of view of M1m. Okay,
+four relations. With M2m, M2w, W1w, W1m. Good, four relations. Four micro-relations. I will
+move on to Foucault, W1w. This time I have three relations, necessarily since there would be
+four by right, but there is one that is taken by my previous series. Thus I can only have three. So
+W1w will be in relation with M1w, W2w, W2m. As for the W1w-M1m relation, it is already in
+the previous series. So I have only 3. This gives me 7. 4+3, 7. If I now take M1w, for the same
+reason I will only have 2, since by right there will be 4 relations, but one will be taken up in the
+series M1m, and the other will be taken up in the series W1w. Thus, for M1w I will have: M2w
+and W1m. These are practical exercises, it is a course in sexology. [Laughter] I do not see what
+use you can make of it, but… we don’t know. [Laughter] And at last, if I take W1m, I have only
+a single relation with W2m. Thus, I have 10 relations, 10 molecular relations. This is what
+defines the series of molecular loves.
+
+Hence the extraordinary passages by Proust in Sodom and Gomorrah where he says: but you
+know that “homosexuality” doesn’t mean very much, because a man may find with a woman the
+pleasures that he expects in another man. In fact, take the combination of M1m in relation with
+W1m. Well, yes. At this level, there is a molecular sexuality that is no longer either homosexual
+or heterosexual. There is a multiplicity of relations. There is a multiplicity of relations. It is a
+micro-sexuality. Good. I would ask, if you grant me this micro-sexuality, I would ask…: do you
+see our junction with Foucault’s problem, how this micro-sexuality is integrated into it? It is
+
+                                                                                                     15
+
+integrated in two ways. In two ways. I would say: there is an integration… we’ll put it like that…
+first, it is integrated vertically in two homosexual series. Homosexual series… There is an
+apparatus that is going to explode, eh? It buzzes… it’s not normal… I do not know which… it is
+going to blow up…. It is the M M series; the M M series is globally male homosexual. And then
+you have another homosexual series, W W. Now, among my ten combinations, these two series
+are based on six combinations. Six of the ten. In effect, three for M M, three for W W. And then
+I have another integration, an integration that I would say this time is horizontal. This time, it’s
+the four remaining series, the series that are integrated into heterosexual loves. Which is to say,
+in the M W series. Good.
+
+What does this have to do with Proust? It has to do with Proust because I told you: if you take
+the schema of loves in Sodom and Gomorrah, perhaps you will thereby understand Proust’s
+thought process. There are several well-known homosexuals in In Search of Lost Time, and then
+there are heterosexual loves, for example, the narrator and Albertine, the narrator and Gilberte.
+He begins -- this is what makes the whole conception of love in Proust -- he begins with a kind
+of ensemble, a set constituted by heterosexual loves. And then, from these heterosexual loves, he
+extricates with anguish and horror two homosexual loves. The narrator loves Gilberte, and then
+he loves Albertine. He will realize that surely, surely, surely Albertine is guilty, she has loved
+and she will love other women. He extracts from a heterosexual love a homosexual series. And
+in the other case, [Deleuze taps on the board] it is the same extraction. Charlus, homosexual
+series. Just as Albertine secretly returns to other women, Charlus secretly returns to other men.
+And you recall that the idea that Charlus is homosexual, however obvious it may be, is only
+gradually discovered by the narrator of In Search of Lost Time, who does not take it as given:
+Charlus is strange, he has the look of a madman, and it is only much later that the narrator
+understands that this is Charlus’s secret. Even if we realize that Charlus’s secret goes way
+beyond this homosexuality… it doesn’t matter. Thus, he extracts from the ensemble of
+heterosexual loves two homosexual series, and there are some great pages by Proust on the fault,
+the guilt, the original guilt of loves that are guilty a priori, guilty a priori. Guilty a priori, why?
+Because Albertine necessarily returns to other women. That is the abominable prophecy: each
+sex will die individually, the sexes are separated.
+
+And I said, simply, this is a failure of reading, an inexcusable failure, completely inexcusable to
+take this position. It is our taste for the tragic, as I said the last time, it is always necessary to…
+with the great authors, generally speaking, the tragic is always a bad moment to get past, and we
+must approach much more joyous shores. We say to ourselves: ah yes, what Proust calls the
+accursed race – in fact, there are two accursed races, the race of Sodom and the race of
+Gomorrah, the race of masculine homosexuality and the race of feminine homosexuality – and,
+you see, the set of heterosexual loves decomposes according to these two accursed series. But,
+but, but… I told you: Proust does not end there. He makes guilt, once again, his affair. He makes
+it his affair, in what form? He realizes that these two series are not the final word on sexuality,
+and that these two series are immersed in a kind of aggregate, a multiplicity of an entirely
+different nature than the set of heterosexual loves of which they are part, namely: in a sort of
+molecular sexuality where there is no longer sex, properly speaking, but where there are poles,
+where there are no longer two series, but 10 relations from one pole to another, that is, from one
+point to another. Ten relations from one point to another. Where here they are no longer the two
+forms, man and woman, that are in relation, whether to be united or to be separated, but where all
+
+                                                                                                     16
+
+kinds of relations obtain between points, the point m and the point w, which are as equally
+contained in the large form M as in the large form W. And that, here, you have 10 relations that
+constitute molecular sexuality. Good.
+
+So then, I would say, given all this, I will move on to Foucault. Sexuality without sex is this
+polar sexuality, the set of the 10 relations that we have just seen; it is this molecular multiplicity,
+the set of relations of forces or of power that define a molecular sexuality. Accordingly, the
+question…, but you see: it is like a virtual, [Pause] each time with the simplest question, the
+simplest question of molecular sexuality, which is not, for example, a man loves a woman, but,
+given that a man loves a woman, what pole of himself is in relation with what pole of the
+woman? Is it my masculine pole that is in relation with the masculine pole of the woman? Or
+with the feminine pole? Or inversely, is it my feminine pole that is in relation with… That is,
+four relations. Four relations just for me, four relations for the other. It becomes complicated, so
+I ask: how does this molecular sexuality, which is so virtual, diffuse, and impossible to localize,
+become actualized? How does it produce something stable? A stable and fixed love? An
+instituted love, and institutional love?
+
+And well, precisely, I would say that the two homosexual series are integration, the first
+integrations of molecular sexuality, but that heterosexual loves are like a second integration. I
+say this because it is very useful to me in mathematics, in the theory of the integral, where one
+distinguishes between what are called local integrations and global integrations. I would say: the
+two homosexual series are local integrations of molecular sexuality, and the heterosexual loves
+are the global integration of molecular loves. Sexuality without sex is integrated in sex, whether
+in the form of the two separated sexes, a bisexual structure, or in the form of sex as grand
+signifier. Sex is not sexuality, but the integral of sexuality. Hence what is meant by sexuality
+without sex.
+
+This should remind you of something: when we spoke of the postulates, right at the beginning of
+this analysis of the notion of power, I said that for Foucault, you understand, what is the law?
+The law is not opposed to illegality; the law cannot be conceived outside of its correlation with
+illegalisms, what Foucault calls “illegalisms”. This is exactly the same thing; I believe it is the
+same reasoning that one finds here, namely: the law is an integration, an integration of the set of
+illegalisms that take place in a social field.
+
+So that, perhaps, the following simple idea takes on a bit more thickness [consistance]: relations
+of forces or of power are actualized by integration, becoming integrated in institutions, and this
+is how they take on a stability and a fixity that they do not have in themselves. So, referring back
+to the institutions, family, school… in their nearly chronological order, in the chronological order
+of our passage through them, family, school, army, factory, prison, until the end of one’s life.
+Good, if we follow this exemplary order, you see, I would say that each one of these institutions
+is an integration of a set of relations of forces. These are, I would say, local integrations.
+
+And what is the State? The State, in our societies, no doubt to the extent that it itself tends to
+summon [sommer] a smaller or greater number of local integrations – for example, to the extent
+that it takes charge of the school, or of a large part of the school, or to the extent that it
+appropriate for itself the prisons –, I would say that the State is the very model of a global and
+
+                                                                                                       17
+
+continuous integration. [Pause] As a result, for every institution, I will ask around what molar
+authority [instance] the integration takes place.
+
+What is the molar authority that produces the integration of molecular relations? And I would
+say, for example, for the family, the molar authority has for a long time been the father. For
+sexuality, the molar authority is sex. For rights [le droit], or for justice, for the justice system, the
+molar authority is the law [la loi]. For political authority, the molar authority is the Sovereign.
+And we will not be surprised that between all these molar authorities there are echoes: is the
+Sovereign a father? Sex [le sexe] is that of the father. The sovereign etc. … The law… relation
+between sex and the law… All that… Good.
+
+Hence, perhaps you will now better understand the following passage from The History of
+Sexuality, Volume 1. “One must suppose…” – I am reading slowly because this must be clear
+now… “One must suppose [rather] that the manifold [multiples] relationships of force, the
+manifold relations of force that take shape and come into play in the machinery of production, in
+families, in limited groups, and institutions … form a general line of force that traverses the local
+forces and links them together”.6 In other words, the integration of power relations in molar
+authorities will produce what? An alignment of forces, a homogenization of forces, a
+serialization of forces: all of that will be brought about by integration. The integration of
+relations of forces will produce an alignment, a homogenization, a serialization of forces.
+
+Hence, we can understand, we can return to something on which we spent so much time, if you
+recall. My story about azert and the curve…. I’ll return to it very quickly: A Z E R T, what is
+azert? It is an emission of points, of singularities, A Z E R T. It is five letters. The letters are the
+points of the alphabet. I would say: it is five singularities. These are five singular terms, five
+singular terms taken from the alphabet. There you are, that is what azert is, an emission of
+singularities. I would define them phonologically, you see, these are pitches, characteristics,
+according to their phonetic sounds… [Deleuze writes on the board]. Good. Let us assume here:
+1, 2, 3, 4, 5, thus a combination of some singularities. Between these points, there are only ever
+relations of forces that are expressed as relations of powers. What does that mean at the level of
+letters? As we have seen, the relations of forces between letters are the relations of frequency of
+their grouping. Even between letters, there are relations of forces. Moreover: not only between
+letters, but between letters and fingers, if we’re discussing a typewriter. Alright, then, that’s all.
+That is the molecular level. I state “azert”. Statement. It is a statement beginning from the
+moment that I state it: the order of letters… [Interruption of the recording] [1:33:21]
+
+Part 3
+
+… In other words, I said: in the theory of equations, in the theory of analytic equations, you find
+the distinction between two domains. The first domain, the distribution of terms, of singular
+points in a vector field, corresponds to my first operation; and secondly, the integral curve, the
+speed [allure] of the integral curve, so-called “integral,” a curve of integration, which passes
+through the neighborhood of the singularities. And the mathematicians tell us that the one is
+inseparable from the other, yet the two do not at all possess the same mathematical reality. It is
+exactly that.
+
+                                                                                                    18
+
+You see: I always distinguish the micro-domain – “distribution of singularities,” “relations of
+forces from one singularity to another,” “power relations” –, which is the distribution of
+singularities in a vector field; and on the other hand, the integration, that is, the speed of the
+curve that passes through the neighborhood of these singularities and that will itself constitute a
+statement, which is just what the pathway of integration is. I thus repeat, it should become clear
+how the relations of forces or of power become stratified to the extent that they become
+integrated. That they become integrated, they become integrated in forms. Social forms are the
+integrals of power relations. They are integrated in social forms. Social forms are the integrals of
+microphysics, the passage from microphysics to stable institutions, to a macro-physics of the
+social field. If you understand that, then we have nearly solved our problem, namely: how does
+power take form, how does power become stratified? How do we go from power relations to
+stratified formations?
+
+A student: Could we say that there’s a passage from time to space?
+
+Deleuze: Ah, [Pause] this… you are getting ahead of me. I believe that we can say it, but that it’s
+not easy. We can say it. So: did Foucault think it? Here, it appears striking to me, we will see the
+texts, together with what is ambiguous and difficult in Foucault’s texts. For a long time, Foucault
+not only did not believe it, but he did not want it, because for him, he wanted space everywhere,
+it was simply two kinds of spaces. Perhaps at the end he would have said yes. And so, your
+question is very complex.
+
+Hence, I will return… understand that we have not finished treating “power-knowledge”. The
+stratified forms are the object of knowledge. What is knowledge? Every stratified form is
+knowledge. The family is a form of knowledge, the school is a form of knowledge, the factory is
+a form of knowledge. The factory is the knowledge of how to work [le savoir travailler]. The
+school is the knowledge of how to learn [le savoir apprendre]. The family is the knowledge of
+how to raise [le savoir élever]. These are categories of knowledge: to raise, to instruct, to put to
+work… hence forms of knowledge as practices, as practices of knowledge. The relations of
+power are integrated in the stratified forms. It is these stratified and integral forms that constitute
+forms of knowledge. Hence: no power without knowledge, and no knowledge without power.
+Why? No knowledge without power because knowledge is the integration of something other
+than itself. Every form of knowledge integrates relations of forces or of power. Thus, no
+knowledge without power: there would be nothing to integrate. Now, knowledge is the form of
+integration. But inversely: no power without knowledge. Why? In this case, it does not have the
+same meaning, but it is just as important. No power without knowledge because independently of
+knowledge, which is to say, of the stratified forms that integrate it, power would be evanescent,
+fluid, in perpetual disequilibrium, indeterminable, perpetually changing, unassignable. And the
+stratified forms of knowledge are necessary for localizing these relations, attributing them, fixing
+them, transmitting them, etc.
+
+And in a text that strikes me as important – I already said that in the book entitled Michel
+Foucault by Hubert Dreyfus and Paul Rabinow,7 [Michel Foucault, Beyond Structuralism and
+Hermeneutics (University of Chicago Press, 1982, 1983)], there were two texts by Foucault, and
+there is one that particularly interests us, where Foucault tells us precisely… there we are. He
+distinguishes five aspects, of what? We will see, according to the context, that it is obviously five
+
+                                                                                                     19
+
+aspects of the actualization of relations of forces. And I will start with the second; you will ask
+me why. Because I want to keep the first for the end. The second, he tells us: we must consider
+the type of objective. The type of objective. Type of objective pursued by those who act upon the
+action of others. You remember what was action upon action? Action upon action is the power
+relation, the relation of force with force. The relation of force with force is not the effect of the
+action on an object, but the relation of an action with an action. It is the action upon action, I will
+not come back to this. And well, we must consider the type of objective pursued by those who
+act upon the action of others. And Foucault provides a list: is it the maintenance of privileges, the
+accumulation of profits, the implementation of statutory authority, the exercise of a function or a
+job? Thus, the first factor: the type of objective.
+
+Second factor: the instrumental modality. Thus, if you like, first factor: the type of objective
+pursued by power. Second factor: the instrumental modality of power, and Foucault provides a
+list, a list that is perfectly open, according to which power is exercised by the threat of arms, by
+the effects of speech, by means of economic disparities, by more or less complex mechanisms of
+control, or even through the intermediation of techniques, of tools. We can extend the list; thus,
+the second characteristic is the instrumental modality.
+
+Third characteristic: the forms of institutionalization, which we have already developed, so I will
+move on. Fourth characteristic: the degrees of rationalization. Degrees of rationalization. Type of
+objective, instrumental modality, form of institutionalization, degrees of rationalization. What
+are these? They are factors of integration. What does that mean? It means: the relations of forces
+or the power relations, you recall, express actions upon actions, yet they take into account neither
+the finality… neither the finality nor even the substance upon which they bear. In effect, you
+recall that power relations, such as they are presented by a diagram, present us with non-formed
+matters and non-formalized functions. What does this mean? Here, too, you must remember. I
+am not saying what the substance is, and I am not saying what the finality is. The power relation,
+as we have seen, is to impose whatever task on whatever limited multiplicity: that is a pure
+relation of power.
+
+So that does not prevent power from varying, but only as a function of spatio-temporal
+coordinates, namely: to impose whatever task on a limited multiplicity can be done by means of
+arranging, serializing, putting the elements of the multiplicity into an order or a series. Ordering,
+serializing, composition, etc. We have seen that there was a great variety. And you see that I
+indicate variables of space-time, but that I indicate no precise substance, only whatever
+multiplicity, and that I indicate no precise finality, only to impose a task. But why? To what end?
+To impose whatever task on whatever multiplicity, that is the relation of forces; and this relation
+of forces, even at this level of abstraction, I remind you, is subdivided, since “to impose
+whatever task”, once again, means to arrange, but I am not saying what I arrange nor for what
+end. It means to place in a series, to serialize, but I am not saying what I serialize. There you
+have it, good.
+
+From this, the integration of this power relation or of these power relations, of these relations of
+forces, will tell us – and only the integration will tell us – what the substance is, what the finality
+is, what the substance of the action is, what the finality of the action is, what the means of the
+action are… all that only appears with the integration. For example, the school is an institution
+
+                                                                                                  20
+
+that integrates relations of forces; therefore, I can say that it is no longer a question of just any
+multiplicity, but rather a question of the multiplicity of students, the student as formed substance,
+formed matter. And the next door over, it is no longer a school but a factory. Ah yes: a factory is
+another formed matter, another formed substance. It is no longer the student, but the worker. And
+the next door over, it is the prison, another formed substance; it is no longer either a student or a
+worker, but a delinquent. These are formed matters. Whereas, you see, the power relation would
+regard non-formed matter, an institution of whatever kind, insofar as a task is imposed upon it.
+
+Thus, it is at the level of integrations that I come to distinguish between formed matters. In
+effect, the power relation could not distinguish them, since it regards only non-formed matter. So
+it could only make these distinctions according to space and time and not according to qualities.
+So, too, the power relation could not determine the ends that the forces were going to serve, for
+the forces pursue an end only in relation to the large forms that integrate them and at the level of
+the large forms that integrate them. The formalized or finalized function will no longer be just to
+impose a task on whatever multiplicity, but to instruct for the school, to set to work for the
+factory, to cure for the hospital; and all that will constitute forms of knowledge.
+
+Now, you finally understand why, in the end, we cannot speak of power without speaking of
+knowledge, nor speak of knowledge without speaking of power. It is because the integration is
+an imperceptible [insensible] and continuous process that is there from the beginning; it is only
+by abstraction that we can distinguish power relations from knowledge relations, yet it is a
+necessary abstraction, even though the concrete always presents me with mixtures of power and
+knowledge. The concrete can only ever present me with relations of power that are already
+engaged in stratified forms, which is to say, already taken up in finalized forms, in formed
+matters. Thus, power never ceases to be integrated in knowledge; the strategies of forces never
+cease to be integrated in stratified forms. You understand?
+
+Good, if you understood that, you should at the same time jump up. You should jump up!
+Saying: but… that won’t do… that won’t do! Or, at least, half the story is missing. For, if you
+remember in the least what we did previously, then of course knowledge was a stratified form, a
+stratified formation, but our problem was that it was not a stratified form solely: it was two
+stratified forms, the visible and the enunciable, seeing and speaking. If it is true that power
+relations explain the stratified forms insofar as the stratified forms are the integration of power
+relations, how to explain that the stratified forms are traversed by this fissure that separates the
+visible and the enunciable? This is what I announced the explanation of.
+
+Now, as much as you may grant that I have clearly explained how power relations are integrated
+in stratified forms in general, so must you deny that I have explained in the slightest bit why
+these stratified forms have two poles: seeing and speaking, the visible and the enunciable. Why
+are they necessarily traversed by this disjunction, by this fissure? And how can these power
+relations take account both of the fissure between seeing and speaking and of the fact that,
+despite this fissure, seeing and speaking are set into relation by power relations? It must be the
+case that power relations can explain both why, on the one hand, stratified formations are
+traversed by a fissure that establishes between the two parts a non-relation, and on the other
+hand, despite this non-relation between the two parts of knowledge, seeing and speaking, how
+
+                                                                                                    21
+
+these two parts without relation are nevertheless in relation. You see: if I have not explained this,
+then I’ve failed. You understand?
+
+In other words, it must be the case that the actualization, if it is true that the relations of forces
+are actualized in the stratified formations, then I must find the means of showing that the
+integration is only one aspect of the actualization, that there is another aspect, and that this other
+aspect of the actualization will account for both the fissure that traverses the stratified forms and
+the setting-into-relation of the two parts, despite the fissure or over and above the fissure. The
+problem here must be luminous. It is luminous? If it is not luminous, then I will start over
+because if not, the following investigation will make no sense. I need something else. I need
+something other than the integration.
+
+I should say: yes, the power relations are actualized by integration, but by something else as
+well. There must be another operation besides integration. And it is this other operation, once
+again, that should account for the two halves of the stratified formations, which is to say, that
+should account at the same time for both the irreducibility of the two forms of knowledge and for
+the fact that, despite this irreducibility, there is nevertheless a relation, that despite the formal
+irreducibility there is nevertheless a relation. I am ready to begin again if there is a difficulty
+here, because it’s funny, if there are any who do not understand this point, it is as if, going
+forward, you will no longer be able to understand anything. Thus, everyone must understand this
+clearly. Got it? Everything okay? There is no problem? But you understand how this works? We
+undertook to account for this, so we will be compelled to say either that no, there is no answer to
+the problem that Foucault leaves us, or else that we must find an answer… [Interruption of the
+recording] [1:56:02]
+
+It is here that it becomes delicate…
+
+Comtesse: [Inaudible comment]
+
+Deleuze: Oh no… yes ?
+
+Comtesse: [Some indistinct words at the start] … Only here we are, here’s the problem. If there
+isn’t, within matter that can still be determined or formed [some indistinct words] there is despite
+everything in the force relation a differential element of the force relation. This differential
+element of the force relation has a name: it’s the differential element of force relations, it is will
+[volonté]. So the question is double based on this. Is the fact of saying that the differential
+element of the force relation bearing upon non-formed matters [some indistinct words] is the
+will, is this an arbitrary name, is there an arbitrariness of that denomination, that one might cause
+to intervene, namely will, as differential element and not another thing. And second, is the will to
+knowledge, a differential element of a force relation as relation of will, is the will to knowledge
+the same will as that differential element? There you have it.
+
+Deleuze: Yeah. I would respond with the following: the differential relation of force with force
+can be called “will”. It can be called…, what does that mean? It is a reference to Nietzsche, who
+reserves the word “will” to designate this differential element by which force is related to force.
+Did this appear in Foucault? To my knowledge, no. He does not employ the word “will” except,
+
+                                                                                                      22
+
+as you said very well, in the case of “will to knowledge,” which is fairly curious because in the
+book entitled The Will to Knowledge [The History of Sexuality, Volume 1], what is at issue? It is
+no longer an issue of knowledge, with which Foucault had engaged in the preceding books, but a
+question of power. Why does he call it “will to knowledge”? Fairly paradoxically, in my opinion,
+it is because, as we have seen, he studies not only the characteristics of power, the relation of
+force with force, but also the way in which relations of forces are integrated in forms of
+knowledge. So, the fact that he spoke of “will to knowledge” in this regard is already very
+interesting. As for the question: if we already referred to “will” as the differential relation of
+force, that is, the differential element by which force is related to force, if we called this “will”, is
+it the same thing as the will to knowledge, which is your question? I would say: no. Or
+alternatively: it is the same will, the one involved in the diffuse set of relations that it traces
+between forces, the other occupied already with regard to its own actualization. That is: we
+should not say that these are two wills, but that these are two very different states of power. So
+that is how I see things.
+
+So, on this topic, I will summarize the problem because this is where you must be very vigilant.
+[Deleuze writes on the board] I will make a tiny drawing… Saying: basically, we are at this
+point, and what we have shown so far is that power relations are actualized in stratified forms
+that are forms of knowledge. If I go no further, this would yield the following schema. The
+diffuse multiplicity of power relations with its singularities between which there are relations of
+forces, the singularities being affects, the affects of forces… And next I can put my big stratified
+block that already penetrates in there… You see: all of that is a continuous process. And I would
+say: there, the relations of power, in a small cloud up top, are actualized in the stratified block of
+knowledge. There you are.
+
+If I go no further than the previous analysis, this is all I could say. But in fact, I have a
+completely different problem. And I announced from the beginning that this problem must be
+resolved. My problem stems from the following: that in fact, I do not have one stratified block; I
+have two of them. Thus, my true schema is shattered. For the better, in turns out, as we will later
+see. And if it were not shattered, it would turn out very badly. It is shattered, it is traversed by a
+great central fissure. You will tell me: central fissure… well yes, it is archaeology. The
+archaeology of knowledge. On the one hand, there is the stratified formation of the visible, and
+on the other hand, the stratified formation of the enunciable. There is the block of seeing and the
+block of speaking. Thus it is necessary that the actualization, when I say “the relations of forces
+are actualized,” it is not enough for me to say that they are integrated in the stratified block of
+knowledge…; I am obligated to show that their actualization – that of the relations of forces –
+must at once account firstly for the fissure between the two blocks and for the fact that, despite
+the fissure, despite the non-relation of the two blocks with one another, there is nevertheless a
+relation from one to the other. You see? That is the task. Okay? So, there you have it, and with
+regard to this, we are a little bit lost.
+
+Fortunately, Foucault gives us an invaluable indication. I will take two passages. The History of
+Sexuality, Volume 1, p. 94, Foucault tells us: “[relations of power] are the internal conditions of
+[these] differentiations”, “[relations of power] are the internal conditions of [these]
+differentiations”. I return to my passage in Dreyfus and Rabinow, page 316: the five criteria of
+integration, the five criteria of actualization, four of which I have cited… and I left the first to the
+
+                                                                                                       23
+
+side. The first is stated thusly by Foucault: “the system of differentiations that permits one to act
+upon the actions of others: juridical and traditional differences of status or privilege, economic
+differences in the appropriation of wealth and goods, differing positions within the processes of
+production, linguistic or cultural differences, differences in know-how and competence, and so
+forth. Every relationship of power puts into operation differences that are, at the same time, its
+conditions and its results.”8 Every relationship of power… I would say that if there is a solution,
+it can be found along those lines. In a sense, I could add that I cannot say anything more. What
+would it be? The idea is that the actualization does not operate only by means of integration, but
+also by differentiation. Good.
+
+You will tell me: but in the examples, it is not a question of seeing and speaking. No, it is not a
+question of seeing and speaking, because Foucault is at the moment engulfed in an entirely
+different problem. So, it is up to us, readers, it is up to you to see if this is suitable to you; we are
+compelled to propose an interpretation by basing it… Once again, I have only two things upon
+which to base myself: does the problem, such as we have defined it, seem to you to be a real
+problem for Foucault’s thought? I mean: is there or is there not really a question of the duality
+seeing-speaking? Those among you who think, after reading Foucault, that I have posed a
+problem that is not essential for Foucault, those people cannot even participate in the problem.
+Perhaps they are right that at that moment I am mistaken. Okay. Either I have coarsened
+Foucault’s thought in a direction that was not his. Or those of you, on the contrary… and here, in
+my opinion, there is no answer, there is no one who is right or… it is a question of reading.
+
+If you grant me that the great seeing-speaking division is fundamental in Foucault’s thought,
+then from that moment on the problem is posed. Is it explicitly resolved by Foucault? I would
+say no. Because, when Foucault arrives at relations of power, he is barely still interested in the
+great seeing-speaking duality. It is not his concern. He has so many other things to do! We
+readers, can we splice it together? I am saying: there is a connection to be made. It seems that he
+gives us all the means to do so when he tells us: be mindful that the actualization proceeds not
+only by integration, but also implies a differentiation. What does this mean? It means that, in
+effect, the firm distinction – by firm, I mean “stable,” “reproducible” – the firm distinction, the
+firm distinctions begin at the level of the actualization. The relations of forces are transitory,
+mobile, diffuse, evanescent, reversible, etc. It is by being actualized that they assume a fixity, an
+orientation, an irreversibility. In other words, the great differentiations between governinggoverned, and even more so, man-woman – which is to say, there will be many of them – only
+appear with the integration. Sexuality without sex ignores forms. Relations of power, relations of
+forces ignore forms. The differentiation of forms can only emerge with the forms themselves,
+that is, with the actualization. Thus, sexuality without sex ignores the formal difference of manwoman. It knows only polar differences, only the poles. It knows neither person nor thing, but
+only forces. Thus, the firm distinctions between governing-governed, man-woman, and still
+plenty of others only appear with the processes of integration.
+
+In other words, the processes of integration have as their flip side processes of differentiation.
+Why? The answer is simple. I told you from the beginning, what is important in the word
+“virtual” is that it’s not the same thing as the word “possible”. We can say of the possible that it
+becomes realized when it is realized. The virtual is not realized, because it is already real, but the
+virtual is actualized. What the virtual is missing is not reality but actuality. Thus, I say: the real is
+
+                                                                                                  24
+
+actualized. But what does it mean for a virtual “to be actualized”? Here, out of necessity, I will
+invoke many other philosophers. All the philosophers who attached importance to the idea of
+virtuality by opposing it to the possible, saying look out! The virtual is not a possible but
+something else, have told us: the virtual is what is actualized, and pay attention, “to be
+actualized” means “to be differentiated”. “To be actualized” means not only “to be
+differentiated”… Why? Because to be actualized, for a virtual, is necessarily to be actualized by
+creating divergent pathways. The pathways of actualization are differentiations. Why? Because
+the idea of the actualization of a virtual has a biological origin. What is a potential that is
+actualized? The actualization of a biological potential or virtual? It is a differentiation.
+
+How does the egg become actualized? By differentiation, by differentiation of the potential; it is
+when differentiated zones… And this is what the division of the egg will be, a fertilized egg
+enters into a mechanism that is called a mechanism of division. An egg has two poles… you
+know, it would be necessary to take up everything at the level of embryology; at any rate, I will
+say the minimum. There is an animal pole and a vegetal pole. This will be the potential of the
+egg, the virtual of the egg, relation of forces between the two poles. And when the fertilized egg
+is developed, which is to say, is actualized, it will be actualized in an embryo. What are the first
+steps of the fertilized egg? Processes of division, processes of division that will organize the
+differentiation. To be actualized for a virtual is always to be differentiated, at a minimum,
+between two pathways. To differentiate means, in effect, to trace two paths. And next, with each
+of the two paths, [Deleuze returns to the board] you will have a mechanism of division…
+[Deleuze writes on the board] You have a first differentiation, each branch is divided in turn,
+each branch, etc. You see? Is this drawing clear? I will draw a box around it. [Laughter] Good.
+There you are. That is to be differentiated. Here, I am not going beyond the letter of Foucault’s
+text. Actualization implies a differentiation.
+
+So, from here, differentiations: they are multiple. I have taken two cases: the relations of forces
+in a social field are not actualized without differentiating themselves according to two divergent
+governing-governed pathways, according to two other divergent man-woman pathways, and then
+still other divergent pathways. Good. And let us suppose that there is a particularly important
+differentiation. This will be the seeing-speaking differentiation. Now I have my solution. For the
+moment, it is completely arbitrary. But I have my solution. I would say: in the same way, and
+even more so, that the virtuality of relations of forces are actualized by creating differentiations
+like governing-governed and man-woman, that virtuality is actualized by creating the
+fundamental, principal differentiation, that of seeing-speaking. This would be the first great
+differentiation that would condition all the others. So everything will be alright now. You see:
+why will it be alright? Because this means I will answer my two questions. Why is there a
+division when it comes to the stratified formation between seeing and speaking? The answer will
+be: obviously there is a division, since the relations of forces can only be actualized by creating
+this division. And on the other hand, despite the division of the two stratified forms, the form of
+seeing and the form of speaking, there is obviously a relation despite their non-relation, since
+effectively the relations of forces are actualized on both sides. So, everything will be quite
+alright. This doesn’t prevent it from being the case that everything I have just said seems
+completely arbitrary.
+
+                                                                                                       25
+
+Why would there be a principal differentiation between seeing and speaking? I understand when
+I am told that relations of forces are actualized only by way of differentiation, that is, by creating
+divergent pathways along which the virtual is integrated, actualized, so much so that there will
+be two integrations. Integration on the side of seeing, integration on the side of speaking. If I say
+that yes, every actualization is a differentiation, it will suffice, for example, to think of an author
+like Bergson: vital impetus [l’élan vital] is a potential, vital impetus is a potential, it is actualized
+by creating divergent paths. What did Bergson tell us? Something very beautiful, very simple.
+He told -- I will make a new schema so that you will understand better -- there you are: you have
+the potential, vital impetus. He never said that it existed just as such; it is a pure virtual. Good.
+How to define this biological potential, this potential of life? You are going to see: Bergson
+defines it absolutely as a relation of forces. He says: this potential, we will define it as... or this
+virtuality, we will define it as follows: two things at once, which are relations of forces, to store
+up energy … and to detonate an explosive. This is about relations of forces. To store up energy,
+to detonate an explosive. For Bergson, that is what life is, a point, that’s all. It is biological
+potential. It is a pure virtuality.
+
+Vital impetus is actualized: what does that mean? That means that it will be incarnated in living
+forms; as for it, vital impetus is formless, an impetus, a force, if you like. So, this works very
+well. It is an impetus, a force… What did I say? Yes, but it is even… okay. Two relations of
+forces that define virtuality. When this virtuality is actualized, it is actualized by creating a great
+differentiation, a great divergence. To be actualized is to be differentiated. And what will that
+yield. Everything takes place as if the virtual was too rich. So, it cannot be actualized as a
+block… [Interruption of the recording] [2:19:44]
+
+Part 4
+
+… I mean: that which is too rich to be reduced to one. So it is forced to divide itself in two, and
+my vital impetus, my biological virtuality, when it is actualized in forms – the form always being
+a form of actualization – when it is actualized in a form, in fact it must be actualized in two. A
+divergent direction will be necessary that integrates the first relation of forces – storing up the
+explosive –, but it cannot be the same form that actualizes the other relation of forces –
+detonating it. It will be necessary for one form to actualize the first relation – storing up the
+explosive –, and it will be necessary for another form to actualize the second relation –
+detonating the explosive. The actualization cannot do both at once. What does this yield when it
+comes to life? Well, it yields the two great principal forms of life: the vegetal and the animal. No
+longer as force but as form. The vegetal form stores up the explosive, it is even the role of what
+is called the chlorophylic function. The animal form detonates the explosive, it does not store it
+up. What is it to detonate the explosive? It is to move oneself, to move around. The animal form
+is thinkable only in motion; the vegetal form is possible only as immobile. Ah… won’t there be
+plants that move and immobile animals? That is another problem… it’s another problem,
+namely, hybridization… What remains of the other form in the first, we mustn’t mix everything
+up.
+
+Roughly, I can say: the vegetal is firstly immobile, the animal is firstly mobile. To move oneself
+is to detonate an explosive; in effect it is to use energy. But storing up energy is the concern of
+the vegetal. But then… how could life [le vivant] detonate energy if it had not stored it up?
+
+                                                                                                     26
+
+Yes, it’s not by chance that life eats of the vegetal. By eating of the vegetal, it procures for itself
+the energy that it did not know how to store up for itself, its property being to detonate, and life
+is condemned to eat another living being, which itself will ultimately – there will certainly be an
+end – will have eaten of the vegetal. Carnivores live off of herbivores, herbivores eat the vegetal,
+that is, absorb the energy, but… the animal, whether it be herbivore or carnivore, is that which
+detonates the explosive, which detonates energy. It transforms energy into movement; that is
+what it is to detonate. What does it mean “to fire the cannon”? Well, it’s to detonate. It is, thanks
+to an energy, to produce a movement of translation. That is what the animal is. Whereas the
+vegetal, with the roots there, you see, it takes on energy, from what? From matter. But life could
+not gather together in a sole and same form the two relations of forces. It could not actualize… it
+was necessary for the one to be actualized on the one side, the other on the other side.
+
+Good, this luminous example [Laughter] must make us say… Fine, perhaps our answer appears a
+little bit less arbitrary. Which doesn’t prevent there from being an arbitrary part that remains…
+seeing-speaking, why is the great differentiation according to which relations of forces are
+actualized, why would it be seeing-speaking? It was convincing in the case of Bergson, vegetalanimal, but here, in the case of Foucault, why would the differentiation pass by way of seeingspeaking? Given that relations of forces do not themselves either see or speak. One sees and one
+speaks only at the level of stratified formations.
+
+Well, but yes. It suffices to go backward; then, I believe, we will have a solution. It is this: you
+remember that forces are inseparable from a multiplicity. Multiplicity of forces. Multiplicity of
+forces means: force is in relation with other forces, whether it affects other forces or is affected
+by other forces. In other words, force is inseparable from a double power: power to affect, power
+to be affected. Every force affects and is affected by another. Dualism, still: power to affect,
+power to be affected. This dualism is in the service of the multiplicity; in effect, it is completely
+subordinated to the multiplicity of forces. That every force has a power to affect and a power to
+be affected depends strictly on the fact that forces are several [plusieurs], which is to say, that
+every force is in relation with other forces. The dualism is only a moment of the multiple or an
+aspect of the multiple.
+
+This would be the great difference between two conceptions of dualism: there are philosophers
+for whom dualism is the product of a division of the one, and there are those for whom dualism
+is only a transitory stage of the multiple. Good, there you are. Thus, force has two powers. This
+is inscribed in force and in virtuality. Power to affect, power to be affected. Good. I am saying:
+when relations of forces are actualized, it necessarily must be the case that the forms in which
+they are actualized correspond to the double power of forces. The forms in which they are
+actualized must in their way renew [reprennent] the double power of the forces that are
+actualized: power to affect and power to be affected. [Pause] And yet this will not be the same
+thing.
+
+In other words, force’s power to affect is what we will call “spontaneity of force”. Force’s power
+to be affected is what we will call “receptivity of force”. I am saying: when relations of forces
+are actualized, they must be actualized according to two divergent pathways, the one which
+constitutes a form of receptivity, the other which constitutes a form of spontaneity. Forces have
+no form. They have a spontaneity and a receptivity, but are non-formal. When they are
+
+                                                                                                     27
+
+actualized, they must be actualized according to a form of receptivity that corresponds to their
+proper receptivity and according to a form of spontaneity that corresponds to their proper power
+of spontaneity.
+
+Well, let’s look. Here, then, the light comes on, we are finished. Because these are alreadyobtained gains: it would take very long if we were beginning from here, but it’s our whole first
+term which… The visible has for its formal condition the light, not the light as physical place,
+but indivisible light in the manner of Goethe. [Pause] And, as we have seen, light defines the
+form of receptivity. The statement has for its condition language, the “there is” of language that
+stands face-to-face with the “there is” of light. And language defines, as we have seen, a form of
+spontaneity. The “one speaks”, all that is acquired knowledge, there is no need to return to it.
+Well, we have our solution. Which is to say: we have answered the question, namely, relations of
+force, here you have it, in three propositions. I will summarize. In what way can we say –
+whether wrongly or rightly, I myself do not know – if our problem was well founded concerning
+Foucault’s philosophy, then we have at least answered the problem that this philosophy seemed
+to pose.
+
+The first proposition: power relations are what account for relations of knowledge. In what
+sense? In a very simple sense: relations of forces are actualized in the stratified formations that
+are the object of knowledge. There you are, that’s the first point. The second point: but the
+stratified formations are double, with two faces: they have two irreducible faces, and they are
+traversed by a fissure, seeing and speaking, light and language, visible and enunciable. Can the
+relations of forces account for this differentiation of the two stratified forms? Answer: yes, with
+ease, for the relations of forces are only actualized by creating precisely the two divergent
+pathways, that is, by differentiating themselves. Why – always in this second question – why is
+the great differentiation that between seeing and speaking? Because seeing constitutes a form of
+receptivity, and speaking, a form of spontaneity; and it is according to receptivity and
+spontaneity that the relations of forces bring about the differentiation that actualizes them. And
+the third question: does there emerge, for the two stratified forms, irreducible to one another,
+does there emerge an indirect relation? Yes, there emerges an indirect relation, since it is the
+same multiplicity of forces that is actualized by differentiating itself following one and the other
+direction. So, everything is alright. [Pause] Think it over… see what you think about it; at any
+rate, that is how I see things. You have every right to have another reading of Foucault.
+
+So, one last problem remains for us, with which I would like to conclude here today, very
+briefly. What is it? I have therefore as two levels the level of pure power and the level of
+knowledge insofar as it actualizes the relations of forces or of power. Well, concretely I never
+have anything but actualized relations of forces; it is a distinction of reason, that is, a distinction
+by abstraction that allows me to distinguish power and knowledge. The concrete, once again,
+only presents me with mixtures of power-knowledge. This does not prevent me from being able
+to distinguish the pure diagram and the stratified formations, as we have done, and to say: yes,
+the stratified formations actualize, integrate, and differentiate, all three at once, the relations of
+forces that were presented to us by the diagram. The relations of forces presented by the diagram
+are pure emissions of singularities, whereas the stratified formations are the curves which pass
+through the neighborhood. The relations of forces exhibited by the diagram are non-formed
+
+                                                                                                   28
+
+matter and non-formalized functions, and the stratified formations are formed matter, formalized
+and finalized substance and functions. So, all that holds.
+
+But, you see, I have here, again, something like two poles. According to which, a concrete
+mixture being given to me, I can make it tend toward one pole or toward the other. What does
+this yield? Far below, if I remain at the level of stratified formations, I would say: oh, how well
+separated things are! The more I tend toward the stratified formations, the more things are
+distinguished, separated. What is it? Institutions. The stratified formations – I can give them their
+name now, following Foucault – I believe that this is what the concrete stratified formations are:
+the concrete formations are what Foucault calls apparatuses [dispositifs]. I would say: the school
+is an apparatus, the prison is an apparatus, sexuality – integrated sexuality – is an apparatus.
+These are concrete apparatuses; now, the more I tend toward the concrete apparatuses, the more I
+can say that they are well separated.
+
+In fact, we begin by separation, our life is a succession of separations; long ago it was noticed
+that the act of birth was a separation, separating us from the mother, and many of us do not make
+it back. A first cut. Then we are small children, it’s the familial apparatus, good, and the furious
+father; what will he say to the kid when the kid isn’t wise? He will say: “you are no longer inside
+your mom”. There are few fathers who say it, but there are many who think it. For then it appears
+more clearly: the child goes to school. What does the schoolmistress tell him? You’re no longer
+at home, you’re no longer with your family, where do you think you are? You’re not at home.
+New separation. Then: it doesn’t work out, you go to the army; what are you told in the army?
+You’re no longer at school. Where do you think you are? You’re no longer at school here, you’ll
+see! We thought to ourselves, okay, we’re at the end of our troubles, but… And next: the
+factory. “Where do you think you are?” Each time we are told “Where do you think you are?”
+And then, to finish, the prison: “where do you think you are? You think you’re at your mom’s
+house? You’ll see. You think you’re at school? This isn’t school here. You think you’re in the
+army? Ah, the army is nothing at all! You’ll see: we’re going to train you.”
+
+Good, strictly speaking, it must be said that the concrete apparatuses… form segments, divided
+and differentiated segments. Strictly speaking, it’s what we can call a hard segmentarity. A hard
+segmentarity. If you want to experience a hard segmentarity, look for an office in an
+organization, for example, in social security. It’s not a critique, it’s terrible, bureaucracy is an
+example of a hard segmentarity, all the bureaucracies. You can call to ask for assistance, but no
+matter what assistance you ask for, someone says to you: what is the first letter of your name.
+Then they say: this isn’t the right office. Then we say: but the assistance I want isn’t dependent
+on the first letter… – No no no! Incidentally, perhaps they are right, these are profound
+mysteries… so I say: okay, it’s D. They tell me: but no, this here is the office of Fs. Okay, it’s
+truly a hard segmentarity. It’s terrible, one is absolutely like, you know, the segmentarity of
+earthworms – you can cut, there is always an end that moves. We are segmented just like that:
+family, school, army, factory, prison. And all that is very compartmentalized, a
+compartmentalized segmentarity.
+
+If you tend toward the other pole, no longer the concrete apparatuses of knowledge-power, but
+the diagram of power, it’s completely different, and yet you pass imperceptibly from one to the
+other: there, everything is supple, why? It’s the same relations of forces this time, but you no
+
+                                                                                                       29
+
+longer consider compartmentalized forms; you consider non-formed matters: imposing a task on
+a narrow multiplicity, on a limited multiplicity, and that goes equally for the school, the factory,
+the prison. The diagram doesn’t specify the materials. For its part, it is completely diffuse, a
+segmentarity that is by contrast completely supple, diffuse. And at the level of the diagram, I
+cannot say that one is truer than the other because both are clear, only they appeal to two
+experiences, to two levels of experience; for at the level of the diagram, you will be struck by the
+extent to which schools already resemble prisons. As for the factories, I mean, it’s less true now,
+it’s less true, there has been progress, all that, but you know that not so long ago, you had to be
+clever to distinguish between a prison, a school… If you want an experience of prison, go see the
+entrance of the workers at Renault. The entrance of the workers at Renault in the early morning,
+it’s not prison since they enter there. If we can conceive of a day prison, as there are many day
+hospitals, day psychiatric hospitals, day “general” hospitals, which means that the patients arrive
+in the morning and then go sleep at home at night. And well, Renault is a day prison, the people
+go there in the morning, they go there… okay, let’s return to cinema.
+
+What is sublime in "Europe ‘51” [1952] by [Roberto] Rossellini? For those of you who have
+seen and remember it. The bourgeois who reveals in turn the shantytowns and then the factory;
+she had never looked at the factory, and one time she looks at the factory. And it’s a factory of
+women, she sees the women enter the factory in the morning. She is like this, mouth open, she
+watches, she doesn’t believe her eyes, and she has the great line: I thought I saw the condemned.
+I thought I saw the condemned. She grasped something about the structural identity of the
+school, the factory, the prison. So then, the closer you approach to the diagram of forces, the
+more you say to yourself: but all that is the same, the differences are more supple, more diffuse.
+The more you descend into the concrete apparatuses, the more you have separated offices. But
+the two do not contradict one another at all; you never cease to oscillate between a supple
+segmentarity and a hard segmentarity. You never cease to go from the strata to the diagram and
+from the diagram to the strata. You never cease to go from a diffuse strategy throughout the
+social body to a stratification that is by contrast compact across the social body, and inversely.
+And if you do not hold in mind the two points of view when you do sociology, you will fail. You
+miss the fundamental divisions.
+
+So that, in a certain manner, there we are, such would be Foucault’s method for the exploration
+of the social field. You take a concrete apparatus, whatever concrete apparatus in a social field,
+and you say to yourself “what is its degree of affinity with the general diagram?”, since there is a
+general diagram that is the state of forces in the social field. It is closer or further away, that is, it
+effectuates the diagram or a region of the diagram with, let us say, more or less force or efficacy.
+It effects the diagram more or less completely. So then, if it does not affect it very well, it has a
+low coefficient of effectuation, and it will thus be quite separated from the other apparatuses. If it
+effects the diagram at a high level of efficacy, then it will have a high level, a high coefficient,
+and it will be very close to the diagram.
+
+And well, Foucault’s method seems very interesting to me, because… take, then, for a moment, a
+concrete apparatus: the prison, in a social formation, our disciplinary formation. It may very well
+be that the same apparatus changes in the evolution of a social field, of the same social field, in
+the transformations, in the small transformations of the same social field; it may very well be that
+the same concrete apparatus changes coefficients. The prison, if we take up Foucault’s analyses
+
+                                                                                                     30
+
+in Discipline and Punish, goes through three coefficients of effectuation of the disciplinary
+diagram. The first state: it doesn’t take… the prison as apparatus is not a term of reference for
+the evolution of penal law. The evolution of penal law takes place quite independently of the
+penitentiary regime. Good, which is to say that the prison is somewhat marginalized, that is, it
+does not strongly affect the diagram. It does not strongly affect the diagram of justice, it is
+marginalized.
+
+The second state of the same social field: it takes hold in penal law. From that moment on it
+rises, it effects the diagram at a stronger coefficient.
+
+The third state: the law asks itself the question, “couldn’t I, the law, ensure my punishments by
+surer means than the prison?”. The critique of the prison: perhaps punishment should do without
+the prison. The prison, which crossed over thresholds of coefficients and climbed up the scale of
+coefficients, had at the beginning effected the diagram very little, and then it rises, takes hold in
+penal law, better and better effectuates the diagram, and then it falls, and one asks oneself more
+and more… a critique of the prison appears more and more, not only among revolutionaries… If
+you want to understand, for example, the evolution of the death penalty, if it takes hold at a given
+time in the field of “justice” and then how the critique takes form… the whole critique of the
+death penalty was already launched in the eighteenth century. But the critique of the prisons was
+also completely launched… that is what’s terrible: we do not advance much because of, if you
+like, a radical critique of the prisons. There is no need to look for recent texts; you will find it in
+Victor Hugo, just like the critique of the death penalty. Thus, you have the same apparatus, the
+coefficient of which will change. You understand? Good. [Pause] As a result, perpetually I will
+now be able to say: so then, stratified formations and diagrams are like two poles, and ultimately
+the concrete forms never cease to climb toward one, to descend toward the other, to come close
+to one, to the other, to climb, descend etc. in this space of internal transformation or evolution.
+
+And finally, last remark, but here we cannot do more, so it’s okay: we should also take into
+consideration the fact that when we speak of techniques, “technique” must be understood in the
+narrow sense of the word, as tools, machines. There is a remark that Foucault makes in
+Discipline and Punish, where he says: when I speak of the prison, of the prison carriage, all that,
+I am told that these aren’t very famous inventions, that they are even embarrassing inventions
+compared to blast furnaces, to electricity, to properly technological inventions. And he has a
+passage that is completely in his style where he concludes by saying: I would say that the small
+invention of the police carriage is perhaps much less, but also perhaps much more than the
+majority of the great technical inventions.9
+
+What does he mean? I believe he means that technology remains incomprehensible by itself,
+which is to say, that the history of tools and machines does not exist by itself. Why not? Because,
+just as I told you: all periods see all that they are able to see and say all that they are able to say,
+according to their means, and each period has all the tools and all the machines that its
+apparatuses and its diagram – the apparatuses being only the actualizations of the diagram –
+require and support. What would that mean? It means that every material technique presupposes
+a social technique. This is already an idea that Marcel Mauss, the great sociologist of the French
+school…, it is an idea that Mauss developed very well. I thus insist on this last consequence: how
+does Foucault connect to and renew this theme? There is no material technique that does not
+
+                                                                                                    31
+
+presuppose a social technology. What does this mean? … I’ve gathered here what are only some
+examples to show you that on this point, Foucault is very much in agreement with my analyses
+of historians, of specialists, and I will cite the following cases: a technological series was studied
+in particular by Asia specialists concerning the cultivation of rice, the succession of the stick, the
+hoe, and the plow, a technological lineage in which the succession – the stick, the hoe, the plow
+– can be grasped in the same territory.
+
+You will find a reference – I am concluding with references for those who are interested – a
+reference to this in [Fernand] Braudel: Civilisation matérielle et capitalisme,10 the first tome, I no
+longer know the page… I thought I had marked it down... yes: 128. Which brings Braudel to say:
+the tool is consequence and not cause, which is a very beautiful idea. The tool is consequence
+and not cause, what does this mean? It’s that we do not pass from the stick to the hoe and from
+the hoe to the plow by way of technical perfecting; in order to go from one stage to the other,
+what is needed? Considerable variations are necessary. That which changes, the decisive factor,
+is population density and the fallowing season. What does that mean? It is to say that the hoe
+only appears at the moment of a certain population density, when the time of the fallow land… It
+means that the tool can only appear to the extent that it is required and selected by a collective
+apparatus.
+
+Second example: this time, I’ve tried to borrow from very different cases. There is a great
+revolution in armament, the kinds of tools, in weapons. At the time of the Greek city-state,
+there’s what is called the hoplitic reform. A very good historian of ancient Greece, [Marcel]
+Detienne, studied hoplitic arms closely. He arrives at the conclusion that everything new in
+hoplitic weapons is inseparable from a new Greek social apparatus that is opposed to the one
+preceding it, so that the hoplitic weapons could not appear before this new social apparatus, this
+new social apparatus being what? The peasant soldier. The peasant soldier who is opposed to the
+archaic form of the Greek army, namely, one warrior caste that is maintained by the peasantry.
+But there must… the new apparatus of the peasant citizen soldier, this is a collective apparatus.
+The citizen, the peasant must become a soldier in order for the hoplitic weapons to be possible.
+
+Example: one of the most original of the hoplitic weapons is a pure tool: the shield with two
+handles. The shield with two handles is a weapon that can be terrifying, because you see right
+away what that means. It means that if I flee, I condemn my partner to death. The shield with two
+handles is the best way to weld soldiers together. No need to say what such a weapon implies. It
+implies that the warrior caste is finished, and what takes form is the peasant soldier. In a warrior
+caste, the shield with two handles is unintelligible, impossible! It is a question of welding
+together foot soldiers, whereas the warrior caste is on horseback or on chariot, and this material
+soldering of the peasant with the peasant indicates precisely the end of the great archaic warriors
+and the rise of the citizen soldier. But here, you see clearly that it is the social apparatus… so
+much so that Detienne has a very beautiful formula, which says exactly what we just saw
+Braudel say when he said “the tool is consequence and not cause”; Detienne says – ah yes, it’s
+really good – “the technique is in a way internal to the social and to the mental”. “The technique
+is in a way internal to the social and to the mental”.
+
+Another example: the plow. Technology specialists have done great research on the plow from
+the Middle Ages, the appearance of the plow. What happens? It replaces a kind of pre-plow,
+
+                                                                                                        32
+
+which was much less effective and was called a swing plow, which is a piece of wood with a
+plowshare, with a blade, a piece of wood with a blade. So we ask ourselves: is this a process of
+technical perfection that enables the passage from the swing plow to the plow? All the research
+of the historians, which is very interesting from this point of view, will confirm this aspect of a
+technology… the necessity of a technology that is a bit more philosophical than usual. This is
+what happens. It is remarked that the swing plow especially achieves its effect and its extension
+in a system of dry land and square fields. It’s bizarre: dry land and square fields.
+
+I could tell you about it, why it works well in the south especially. Why? Because this piece of
+wood with a blade that is dragged by a cow, this swing plow, has a disadvantage, which is that
+… the space between furrows is necessarily very large by contrast to what will take place with
+the plow. Between two furrows, there is a large space; therefore, you see the necessity of
+dividing into squares, that is, the swing plow must be dragged both back and forth, otherwise
+there would be too much space. The space between furrows must be cut again, which entails in
+effect that the ideal form of the field corresponding to the swing plow is a squared field. And
+then, a dry soil, since the space between furrows is less significant if the soil is dry; if it is heavy,
+it’s a disaster. Now, for a long time, technology specialists have noted that the plow emerges in
+countries with elongated fields and heavy soil.
+
+You see: when I say “tool”, you cannot conceptualize it independently of a collective apparatus.
+Yes, already at the most obvious level, the swing plow cannot be separated from a “square fielddry soil” territorial structure. By contrast, the plow will take hold in “elongated field-heavy soil”.
+And then that’s not all: the plow will return – here, I am going to go quickly because there are
+some who are tired – the plow will return to the path. Still, there must be the discovery of the
+horse as draft animal. The horse as draft animal is not nothing because…, which implies
+incidentally other technical discoveries, that is, the horse collar worn on the shoulder and the
+horse shoe. All this is complex. And then the plow, given its cost compared to the swing plow,
+implies a communal economy: okay, I am summarizing greatly, all this refers to research that is
+very long, very fine, and very beautiful. I am saying that the plow refers to a collective
+apparatus, the singularities of which, I would almost say, I can mark: elongated field, horse as
+draft animal, collar on the shoulder (collar worn on the shoulders of the animal), horseshoe,
+communal economy… you see, it is an apparatus of five or six singularities. Here again, the
+technical tool is incomprehensible without, and inseparable from, a collective apparatus.
+
+Another example, to finish with: the stirrup, the stirrup is very interesting because it takes a
+while, it barely takes hold in the European armies; the stirrup takes hold near the ninth century,
+and it’s very curious because the generalization of the stirrup in the armies coincides with the
+reforms, with Charles Martel’s profound reforms of the army. And what does Charles Martel’s
+reform entail? The confiscation of the lands of the Church. You will tell me: that is quite a lot for
+a stirrup. Well, yes. It is quite a lot, and why? Because, what is a stirrup? A stirrup, if you define
+it as a relation of forces – that’s what is interesting, what relation of forces is it? It’s surprising, it
+is: lateral support for the rider, which is to say, the rider has a lateral balance, a lateral support
+and no longer just a support in front and behind provided by the saddle. What does that mean? It
+means that he is much less likely to be dislodged. What does it mean, that he is much less likely
+to be dislodged? It means that he can change the way he handles the spear… [Interruption of the
+recording] [3:06:15]
+
+                                                                                                                      33
+
+Part 5
+
+… Why? Because you have entered with the animal into a new apparatus. What has changed is
+the man-horse apparatus. You secure your spear under the arm, and you let it rest there. You go
+faster and faster. The question is whether the horse is fast, for the blow will no longer be
+delivered by the strength [force] of the arm; it will be delivered by the strength… of the mananimal ensemble. It will be delivered by the strength of the horse. Since a horse is much stronger,
+at that moment, the spear assumes one heck of a role.
+
+And what did the horsemen before do when they didn’t have stirrups, what could be the most
+grotesque…? But they didn’t know, they couldn’t know, I’ll say it again: they saw all that they
+were able to see, they said all that they were able to say. They went on horseback onto the field
+of battle, and then they dismounted and fought on foot. The horse was treated as a draft animal
+and not as a military animal. The king of England lost a famous battle because his cavalry still
+dismounted from their horses, whereas the others remained on horseback. There, he had to find
+out that it was not a game because… obviously, at that moment, these riders on foot, on the
+ground, what do you want them to do? It’s the battle of Hastings. Always remember that when
+you see an Englishman. [Laughter]
+
+So good, what does this mean? In order to center the army around riders on horseback and no
+longer around combatants on foot, what must you do? You must either pay them – mercenaries –
+or else give them the means to pay for their weapons and their horse, which is expensive; for
+that, you must give them lands. For a horse, you need forage, etc. It is at the same time that the
+stirrup appears and will play a determinant role in the battles of feudalism, but in what form does
+it appear? You see that it is selected by a collective apparatus that implies: lands distributed to
+the lords – whereby the lords maintain the horses and pay for their weapons – and a changing of
+battle strategy, etc. I would say: tools are only ever the points of collective apparatuses.
+
+So it is in this sense, then, that Foucault can say: yes, a collective apparatus, in a sense, is a small
+invention in relation to the great technological inventions, but in another sense, it is a much
+greater invention; for tools and machines are selected, are as though pre-selected, by the
+collective apparatuses which, strictly speaking, summon them.
+
+It is on this point that I just wanted to conclude, which I think we have done is good. It is up to
+you to reflect on it; the next time, you can ask me all the questions that you like, especially since,
+afterward, there are the holidays… On this theme, I have almost finished on power-knowledge
+relations. [End of the recording] [3:10:17]
+
+Notes
+
+ Deleuze returns to this overview in terms of subjectivity in sessions 19 and 23, April 15 and May 13, 1986, and
+with Éric Alliez’s assistance, in session 24, May 20, 1986.
+ Both of these are conservative, Gaullist French politicians, and Chirac will be elected President of France, 19952002, then re-elected against extreme right-wing Jean Marie Le Pen, 2002-2007.
+    Deleuze is referring to the later part of this seminar, starting from session 18 onward, April 8, 1986.
+
+                                                                                                                     34
+
+  At the time of this session (until 1988), Edmond Maire was the general secretary of the CFDT union, a center-left
+labor union.
+  Raymond Barre was a center-right politician who served as prime minister for French President Valéry Giscard
+d’Estaing, 1976-1981, then was elected député (until 2002), and as candidate for president in 1988 for the centerright UDF party, he lost in the first round, coming in third behind Jacques Chirac and sitting president François
+Mitterand (who would win a second seven-year term).
+  The History of Sexuality, trans. Robert Hurley (New York: Pantheon, 1978), p. 94. Deleuze alters the French text
+slight while reading, so that this quote’s ending should be: “… traverses the local oppositions [affrontements] and
+links them together”, La Volonté de savoir (Paris: Gallimard, 1976), p. 124.
+ Michel Foucault, Beyond Structuralism and Hermeneutics (University of Chicago Press, 1982, 1983)], see Dits et
+écrits IV, pp. 383-414 et 609-631.
+  Michel Foucault, “Subject and Power,” Power: Essential Works of Foucault, Volume 3, ed. James D. Faubion,
+trans. Robert Hurley (New York: The New Press, 2001), p. 544.
+ Deleuze considers these technological aspects with Guattari in relation to the war machine in A Thousand Plateaus,
+notably pp. 394-403 and 424-427. See also the sessions in the seminar on A Thousand Plateaus V.
+  Braudel, Civilization and Capitalism [1967], transl. Sian Reynold (Berkeley: University of California Press,
+1979).

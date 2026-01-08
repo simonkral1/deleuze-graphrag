@@ -1,0 +1,1115 @@
+1
+
+Gilles Deleuze
+
+Seminar on Apparatuses of Capture and War Machines, 1979-1980
+
+Lecture 09, 26 February 1980
+
+Transcribed by Annabelle Dufourcq; augmented transcript, Charles J. Stivale
+
+Translation by Charles J. Stivale
+
+Part 1
+
+On the other hand, … we'll soon… we'll soon have finished the first part of our work, right? So, I
+appeal to you very strongly, to a certain number of you, because, myself, I would conceive of the
+year-end, the second part… in the form of me making myself somewhat available to you, that is,
+doing separate things based on the state of some of your own work ... Whether this would consist
+of details ... for example, you can very well ask me ... according to your own work, to prepare a
+session on an author or on… a subject… All that, we would do very… disconnected things, eh?
+So, it's up to you to consider this.
+
+So, there are already some people who have asked me to prepare… but, there, that seems bigger
+to me, that is, it is if… to prepare something that would be like a kind of… as a presentation on a
+very great philosopher, but a very difficult philosopher, named Leibniz. So, in fact, I could,
+unless there are… but… if you have some subjects that… about which you would like… -- it is
+up to me to say “I can” or “I cannot”, obviously -- if you have topics or problems related to your
+own work, we can, eh, we can see. So, think about it for the next time and the time after that,
+unless there are already some ...
+
+Or else… like… I think, but, here, that depends greatly on you as well, there are a certain
+number among you here who… who have been working with me for… a long time, for many
+years, and all that we've been doing for four or five years, I think that these are still some very
+diverse things, but these are things revolving around the same notions. So, it may be useful to go
+back to certain notions on which we have been working for several years. In the end, anything is
+possible; it's up to you to… You will tell me, either right now, or next time, or still at another
+time. Otherwise, I'll do something about Leibniz if there's no… special request.
+
+A student: [Inaudible]
+
+Deleuze: Lichtenberg? That’s not enormous, right?
+
+The student: [Inaudible]
+
+Deleuze: Yes, but… what he's known for…
+
+                                                                                                      2
+
+The student: [Inaudible] that enlightened me!
+
+Deleuze: yeah, yeah, yeah… I can't. I don't know enough. Yeah, that's ...
+
+Another student: [Inaudible] Jakob Böhme?
+
+Deleuze: Yeah… I'm being careless because I can't see myself doing something about Böhme, I
+wouldn't be able to … yeah. I mean, you never know, yeah ... Yeah, yeah.
+
+Another student: [Inaudible]
+
+Deleuze: [Alois] Riegl, yes.1 Yes, yes, yes, yes. But that, we will perhaps come back to this a
+little bit later ...
+
+A student: [Inaudible]
+
+Deleuze: Yes, yes! Oh well, yes. Yes, yes, yes, yes, yes… yes. That we can, yes, [Henri]
+Maldiney, yes.2 Yes…
+
+A student: [Inaudible]
+
+Deleuze: Good! There we are. I would like you to continue to accept this convention on which
+we were working two weeks ago [actually, three weeks]: I'm trying ... We really forget where we
+have reached in our analysis of the State. And I'm making a very long parenthesis to ask: what
+exactly is an axiomatic? I am saying: this is a long parenthesis since an axiomatic has nothing to
+do with the problem of the State. An axiomatic is a certain type of system or discourse specific to
+... mathematics. Fine. Just… just this point, don’t forget that the hypothesis that causes us to pass
+through this detour is the hypothesis that it wouldn't be inaccurate -- I'm not going any further,
+that is, I’m weighing my words relatively, I’m using conditionals -- it would not be inaccurate to
+treat the so-called modern political situation as an axiomatic.
+
+So… but… temporarily, let’s forget this concern which links this topic to our subject. And we
+are considering for itself, for itself, the question: but what is an axiomatic? First of all because it
+can always be useful, but above all, because… it seems to me to pose a lot of problems even to
+be able to understand, not only what science is, but what we can call "a politics of science”. And,
+the last time, I just chose an extremely simple example to try to make you feel what an axiomatic
+is. And I am recalling this example because, if you don't grasp it a bit… but… I am recalling it
+by outlining even more this example that I had already simplified myself; I am simplifying it
+even more by saying: here is an example of axiomatics. [Pause]
+
+You define a purely functional relation between any elements whatsoever (éléments
+quelconques). Any elements whatsoever, what does that mean? It means: you do not specify the
+nature of the elements that you are considering; you determine a functional relation between any
+elements whatsoever. You're going to tell me: this is very weird, really. What does that mean?
+
+                                                                                                   3
+
+Let’s consider the symbolic form xRy. xRy, capital R is the functional relation between any two
+elements whatsoever, x and y. You will tell me: that really doesn’t get us very far. You
+determine… -- we are leaving aside why you determine… how you determine… we will see that,
+later -- and I assume that we determine axioms, axioms which will correspond to the functional
+relation xRy, x Relation y. First axiom that you determine – I’m choosing only two, really, to
+keep this simple, right? --, eRx = xRe = x. eRx = xRe = x. There you are, you treat this
+proposition, this equation as an axiom, that is, as a first proposition which is not derived from
+any other.
+
+Second axiom: xRx’= x’Rx = e. Good. Why is this a second axiom? Because this second
+proposition is not supposed to be able to be proved based on the first. It introduces something
+irreducibly new. If I find myself faced with a proposition that can be proved based on the axioms
+previously determined, I would say that this is not an axiom but a theorem. So, a set of axioms is
+a set of independent propositions which assume nothing else and from which the theorems will
+result.
+
+I return to my two axioms. What is that? Well, an axiomatic refers… and this is the second
+essential notion -- the first essential notion is the idea of uniquely functional relation between
+any elements whatsoever -- the second fundamental notion of an axiomatic is that, as we had
+seen, of a model of realization. We will say that an axiomatic, as a set of functional relations
+between any elements whatsoever, refers to domains, to models of realization in which these are
+realized. What does it mean that these are realized there? This means that, in these domains, in
+these models of realization, the elements take on a qualified nature. The any elements
+whatsoever take on a qualified nature. An axiomatic, therefore, if we created an axiomatic of the
+axiomatic, I believe that it would not be difficult to demonstrate -- this would be a theorem --
+that an axiomatic necessarily includes several models of realization, if only possible or virtual
+models of realization, to the point that the notion of an axiomatic having only a single model of
+realization, model of realization, would be contradictory.
+
+But, well… I am saying: an axiomatic has models of realization; let’s again choose in the
+example, there, the minimum example that I have just used: the axiomatic that I have just defined
+with two axioms, with two axioms; by staying with, by staying with two axioms, this axiomatic
+has a first model of realization, which is what? Which is the domain ... -- or rather no, not the
+domain -- which is the addition, the addition of real numbers. In what? I reread my first axiom:
+there is an element e such that, for any element x, we have: eRx = xRe = x. In the case of
+addition of real numbers, this element e is zero. [Pause] You can indeed write 0 + addition of
+real numbers; that will give you, in the "addition of real numbers" model of realization, that will
+give you: 0 + x = x + 0 = x. Try it for division, multiplication; it doesn’t work like that. So, that
+allowed you to circumscribe the addition of real numbers. Second axiom: for every element x,
+there is an element x’ such that xRx’ = x’Rx = e. For the addition of real numbers, x’ is the
+negative number, -x. [Pause] Fine.
+
+But then why did we look for… an axiomatic? We looked for an axiomatic precisely because the
+addition of real numbers does not exhaust the functional relation. There will be, virtually or
+actually, there will be other models of realization. I had given another model of realization of this
+axiomatic with two axioms, namely the composition of displacements in space, in three-
+
+                                                                                                     4
+
+dimensional Euclidean space, which, in itself, is a set entirely different from the addition of real
+numbers. And, this time, my first axiom will no longer be realized by e = 0, but in the case of the
+composition of displacements in space, my first axiom will be realized by: e equals what one
+calls, precisely, in this model of realization, “the identical displacement”, that is, the
+displacement which leaves each point of space fixed. And, for the second axiom, x’ will no
+longer be realized by the negative number, but by what is called, in this model of realization, in
+this second model of realization, by what is called "the inverse displacement".
+
+Suddenly, if I redeveloped this example, it is for a very simple reason: it is that it seems to me
+that, starting from such a simplified example, one sees what there is that’s extraordinarily
+original in an axiomatic. I would say that it ... [Deleuze does not finish] You see that, in fact, the
+axiomatic in itself only encompasses functional relations between any elements whatsoever. You
+understand, our purpose is not to do math here; it's really to have this minimum that allows us
+to… to understand what they wanted to do, the… the people who created axiomatics. The
+axiomatic itself only encompasses that: functional relations between any elements whatsoever
+insofar as being random (quelconques). One doesn’t even have to ask what ... what an axiomatic
+is talking about: the question has no meaning since it [the axiomatic] is talking about any
+elements whatsoever, and it defines functional relations between these elements as such.
+
+But then it's ... what makes this so important? Why is this interesting? Because the axiomatic
+really seems to me to be the only thing ... the only discourse that allows a direct comparison, a
+direct confrontation, a direct comparison between heterogeneous sets or domains insofar as being
+heterogeneous. These will be the same functional relations between any elements whatsoever
+that you will discover in the "addition of real numbers" set and in the "composition of ... er,
+composition of displacements in Euclidean space" set. I am asking: is there another method
+which we… There I am speaking quite positively about axiomatics, so for…, but we will see
+that… that… we will also see that there it has problems, right? But, for the moment, it's ... it's a
+pretty amazing method that by no means can be taken for granted. It gives us the means… and I
+don't see any other way, at first glance… at first sight… , at first glance, we do not see any other
+way to compare heterogeneous domains insofar as they are heterogeneous and to compare them
+directly, that is, without going through homogenization. There we have it. So, you would have to
+understand that, because otherwise… So, I am even quite willing to start all over again, if you do
+not understand, but… You’d have to [understand], because otherwise… Either you have to
+understand, or else you have to leave during this class time, because otherwise everything ...
+everything depends on that, right? There we are. So, think carefully… Do you understand?
+
+Some students: [Inaudible]
+
+Deleuze: Very good, great!
+
+A student: [She refers to the element e which is defined in Axiom 1, but also in Axiom 2, which
+seems to call into question the independence of the axioms of the axiomatic]
+
+Deleuze: It's not that they don’t have [independence]… Yes, in that sense, yes! Yes, yes. But one
+cannot be deduced from the other; this is what I call independence ... or what we call the
+independence of axioms. In other words, one is not a theorem that depends on the other. Fine.
+
+                                                                                                          5
+
+So, if you have understood that, I immediately ask, because this is a subject that lingers in… a bit
+in everything… both in the history of all these things and also… which arises directly, and
+which, at the same time, never comes up, well at least among the authors that I have read, that
+does not seem to me ... it’s not convincing, so all the more reason to say to yourself, to seize the
+opportunity, to tell yourself: Do we have the means to bring just an ... attempt at some precision
+in all this? We are always told: be careful, though, do not confuse logical formalization and
+axiomatization. So, even at the historical level, that occurred; it was at the same period that the
+great axiomatics are created with, among others, a very great mathematician named [David]
+Hilbert and that a logical formalization is created which will receive the name of logistics, and
+therefore also a great logician and great mathematician directs and develops the thing all the way
+to… to an unequaled point, namely [Bertrand] Russell. And, you have only to read, even without
+... even understanding very badly, you understand, one doesn’t have to ... it’s not necessary to
+understand everything, right? You just have to read a page from Russell and a page from Hilbert,
+[and] you can see that literally they're not the same world. Logical formalization is not at all the
+same as an axiomatic, as axiomatization.
+
+And all I want to say is, so, well, what's the difference? What's the difference? How does an
+axiomatic, as I have just tried to define it and as you have understood it so well, differ from a
+formalization? I would say, a formalization, here’s what it is: it is the emission (dégagement) and
+the determination of formal relations between elements specified according to such or such a
+type. I am weighing every word, eh. At least you see, even before I explain myself, that it's not
+the same thing. "Functional relation" is opposed to "formal relation"; "any element whatsoever"
+of the axiomatic is opposed to "specified elements" of formalization. But then, if the elements are
+specified, that is, are defined as one thing or another, how is there formalization? And what are
+formal relations in their difference with functional relations?
+
+This is where the notion of type comes into play in a fundamental way and has always been
+present in formalizations, although ... it is well known that the particular author of a theory
+called, in the field of logistics, "the theory of types”, namely Russell himself, that is, that this
+theory was constituted late. That means that, in a way, it was being used before it was theorized.
+And the theory of types consists in determining as a condition under which one can state about
+propositions the distinction of: a plurality of types according to which propositions are likely to
+fit into each other. What, in fact, is the principle of the theory of types? Quite simply, it's this: a
+set does not contain itself as an element. [Pause]
+
+What does this mean, "a set does not contain itself as an element"? It means something very,
+very simple. I am selecting an example given from Russell himself. Here is the proposition:
+"Napoleon has all the qualities which make a great general"; "Napoleon has all the qualities
+which make a great general", good. Russell finds that "having all the qualities that make a great
+general" can never be treated as one of the qualities necessary to make a great general. If you
+define… Or else, another example given by Russell, if you define “typical French”, if you say
+“ah, that is a typical French person”, “typical” is not one of the characteristics used to define a
+typical French person. In other words, "typical" and the characteristics that define a typical
+French person are not of the same type. [Pause]
+
+                                                                                                            6
+
+Good. Let's give an example; so, I am preparing, there, … I am preparing my return to our
+problem. I tried to say that a certain State apparatus, what I called the archaic apparatus, in a
+certain way relied on the overcoding of farming communities. We saw in what sense this could
+be stated, in what sense it was debatable, etc. But consider this proposition: the archaic State
+apparatus overcodes farming communities. I would say, it’s very simple there; if I make a very
+arbitrary application of the theory of types; I would say: this State apparatus cannot be an
+agricultural community. You follow me?
+
+Why was the theory of types… why was it created and developed by Russell – here, I'm really
+stating the elementary principles, but it's a stupendous, stupendous… and very funny… theory. –
+Why did, why did Russell feel the need to formalize it? To find a solution to what were called
+the famous logical paradoxes. You know, paradoxes of the type “I'm lying”, you see, eh? The
+proposition "I am lying", is it true or is it false? It’s not hard to show that it’s impossible for it to
+be true, it’s impossible for it to be false. Russell's answer is quite simple: the proposition "I'm
+lying" is neither true nor false. In fact, if it is true, it is false, and if it is false, it is true, right?
+Good, anyway, you know that; it's in every ... every newspaper for amusement, right. But it
+really disturbed the logisticians, these things. Well then, Russell, Russell's answer is very simple:
+the proposition "I lie" is neither true nor false, because it is nonsense.
+
+And I would like you to understand, there -- I am starting a parenthesis again within my
+parenthesis… -- it is not by chance that it is the English who found and who also so fully
+developed this… this concept of nonsense there, and who worked so much on it. And this is very
+important because… if you will, in concrete experience, for me, it seems to me that… one cannot
+do philosophy, besides, if one does not live this experience, but there is very few things true or
+false… it's not true and false that matter. That’s never what has mattered. It’s a moment for
+celebration when we happen upon a false proposition. A false proposition is very, very rare.
+
+What is it that makes us all unhappy? Our common misfortune is never living within error, not at
+all ... not at all. It is that ... our common misfortune is that we do not stop either encountering or -
+- horror! -- ourselves broadcasting things that are pure and simple nonsense. But this is
+wonderful, I assure you; it's a day for celebration the day you say something false. That's not it,
+otherwise we say bullshit (conneries), and it's not the same, right, these are not errors, right?
+Stuff that doesn't make sense, really… Yeah, why not… We don't stop… ah, fine… This in the
+domain of "neither true nor false", it doesn't make sense. True and false is still what makes sense.
+But it's rare, rare, you know, that you even get to the possibility of true and false. Take an
+ordinary speech; we can't say, we can't even say, this is false. Take books. But there’s an
+enormous number of books… We read that, but we really tell ourselves…, it's obvious that the
+question is not "is it true or false… What is the gentleman saying?" It’s “does that make the least
+bit of sense?”
+
+I have always been struck by the following problem, to connect with the problem of
+mathematicians. Mathematicians are not kids at school, eh… I mean: when mathematicians don't
+agree with each other, there isn't a single one who says to the other: you were wrong, what you
+are saying is false. I mean… and that's what bothered me a lot, me… I have the impression that
+the whole theory of truth… in classical philosophy has always been so problematic in categories
+of true and false, that they were always… childish, implausible, fictitious situations. In the
+
+                                                                                                        7
+
+classic theory of true and false, well, we are treated like children in school. There is always a
+teacher who can say to Toto: no, Toto, 2 and 2 is not 5.3 And you will not tell me that this is what
+we die from. It is not because we say too often: 2 and 2 is 5. We die, there, from a much more…,
+a much more aggressive virus, namely the weight of our stupidity, and this is not the weight of
+our errors, not at all ... not at all ... It is the weight of all the things that we say and that we think
+and which have strictly, really, no meaning. Hence the question "what is nonsense?” This is an
+infinitely more important and urgent question than the question "what is false? ". And, once
+again, the false just does not exist.
+
+And when mathematicians… Once again, except under extraordinarily abstract conditions, those
+of the child at school, that of the gentleman to whom I ask the time in the street, then, indeed, he
+can tell me something false, he can tell me "it's three o'clock" when it's half past two ... fine, that
+makes me miss the train, at the outside, but ... Ah ... A politician in his speeches doesn’t tell us
+false things; he undertakes a much more pernicious operation which is to spin nonsense to an
+unparalleled degree.
+
+Fine… I am saying: when two mathematicians argue, it happens… science is constituted by
+polemics. It is in this sense, too, that science is politics. When two mathematicians argue, it is not
+the situation of a teacher compared to a child; it’s not one saying to the other: ah, you thought 2
+and 2 was 5. Oh, no. One says to the other or suggests: your thing is fine, but it’s without any
+interest, that is, it has no sense. None ... At that moment, he is using very vague words; that
+indicates the state of the matter and that this is what we should think about. What do we mean
+when we say, "but this proposition has absolutely no interest", "this proposition has no
+importance”? This is stuff revolving around meaning and nonsense. No sense, no importance, no
+interest.
+
+What is the mathematical interest of a proposition? In thesis juries, for example, we see quite
+well guys that demonstrate… they demonstrate theorems, right? We can always invent theorems
+if we have a sufficient mathematical background. There we are, why not? No interest! We can
+always maintain propositions of a philosophical type, but they still must have an interest. What is
+the strictly philosophical interest of a proposition? What is the strictly mathematical interest of
+an equation? There are proposals that lack any interest, that is, lack any meaning. Fine.
+
+So, you see where the theory of types was going; it consisted in saying: one of the forms -- in
+any case, here, I don't want to go too far -- one of the forms of nonsense, one of the forms that
+has no sense, so it's worse than false, it's what can be neither true nor false. It is when, in a
+proposition, one contaminates proposition elements of different types, that is, one constructs a set
+that contains itself as an element. When I say, "I lie", the proposition bears on itself, under
+conditions in which it could not bear on itself, so it is devoid of sense. So, at that point, it
+forcibly is neither true nor false since it doesn't make sense.
+
+You see, I am coming back, then, to my simpler topic: what is a logical formalization? To take
+up my example again, I am saying the archaic State apparatus looms over or overcodes
+agricultural communities. So, it is of a different type from farming communities; it is not itself an
+agricultural community. I would say: the proposition “archaic State apparatus” is of a different
+type from the proposition “agricultural communities”, exactly as Russell told us: the proposition
+
+                                                                                                        8
+
+“Napoleon has all the qualities of a great general” is not of the same type as the proposition “so
+and so has the particular qualities of a great general”. I mean: formalization -- I am using my
+expression or the definition I proposed -- logical or logistical formalization is the determination
+of formal relations between specified elements according to the type of proposition that
+corresponds to them. [Pause] In this sense, formalization sets up a model to be realized. [Pause]
+
+I am coming back -- but here, I am almost done with this… this… this… with this first point -- I
+am coming back to my definition of axiomatics: axiomatics determines uniquely functional
+relations between any elements whatsoever. [Pause] In other words, it proceeds more by the path
+of formalizations which fit into one another according to the types of propositions, but it ensures
+a kind of point of contact (mise en contact) of universal relations as such, between any elements
+whatsoever, universal relations with domains… with… of… fields, of the most heterogeneous
+domains of realization, whereas in the formalization, you always had to go through a
+homogenization at the level of the higher type. Type 1 sets could not be compared, from a
+formalization point of view, could only be compared to the extent that they were homogenized
+by a type 2 set. Type 2 sets could only be compared to the extent where they were homogenized
+by a type 3 set.
+
+So, there it seems to me that this is very curious. We can clearly see the innovation in the
+axiomatic process. I would say that the axiomatic is precisely the functional relations that refer to
+models of realization. Formalization is the formal relations which constitute models to be
+realized. And, all that I tried to show the last time is that, in the case which concerns us -- here I
+am starting a parenthesis again -- is that, in the case which concerns us, one could say by
+hypothesis, but it has not yet been well justified, that unlike the archaic State, the modern State
+has ceased to be a model to be realized; it has become a model of realization in relation to an
+axiomatic. [Pause] Good. This is extremely difficult, all of that, but finally ... What?
+
+A student: [Inaudible]
+
+Deleuze: What is it?
+
+A student: [Inaudible]
+
+Deleuze: Oh yeah, well yeah ... as we'll come back to this, that doesn't matter. No, it's just… so, I
+would like… What?
+
+A student: [Inaudible]
+
+Deleuze: It's the formalization, oh well, yes… the formulation? Uh, yes, I was saying… Yes, I
+just tried to show, very quickly, that, if you will, the archaic State, what we called during all our
+previous research the archaic Empire, insofar as being an overcoding of community, in a way, it
+was a formalization. In this sense, it is indeed a model to be realized. [Pause] It’s a transcendent
+model, isn't it? As we have seen, modern states seem quite different. And how are they entirely
+different? It’s because, this time around, these are no longer models to be realized; these are
+models of realization. You see that the word "model" has completely changed its meaning, that
+is: these are the fields of realization in relation to a general axiomatic which is what? That we
+
+                                                                                                      9
+
+have tried to determine as being the axiomatic of capital. [Pause] But anyway, there, I'm getting
+ahead of what remains for us to do.
+
+Georges Comtesse: [Inaudible]… in the realization model e =, for example, 0, we must suppose
+that there is only one axiomatic, for example, that of Hilbert, which precisely states the
+possibility of both zero and the successor of zero. So, there is another problem here; it is the
+model of realization of the formal definition of the axiomatic supposes an axiomatic which
+makes possible precisely the assignment of a series of integers (nombres entiers) to the model of
+realization as fulfilling the… the formal definition. There is a problem with the axiomatic ...
+
+Deleuze: In my opinion, sorry, it seems to me that there are two points in what you are saying.
+On the one hand, there is the requirement of, precisely, what axiomaticians call not, in fact, a
+formalization, but a meta-mathematics; that would be fulfilled by a meta-mathematics, the
+requirement that you are stating. And, on the other hand, in the very correct example that you
+yourself give, it seems to me that the need to define the successor belongs rather and constitutes
+... itself an axiom, an axiom which intervenes from the axiomatic of integers.
+
+Comtesse: That's it. That is, before saying that … [Inaudible]
+
+Deleuze: Yes, you need an axiom of succession. [Comtesse continues to speak as does Deleuze,
+with barely audible remarks] I agree completely with that. Completely agree with that. An axiom
+is required, yes.
+
+Comtesse: We need several axioms… [Inaudible]
+
+Deleuze: Okay.
+
+Comtesse: At least four axioms.
+
+Deleuze: Okay, yeah, okay. Oh okay!
+
+Comtesse: [Inaudible] the important thing about Hilbert is that, unlike all classical philosophy,
+all the classical philosophers, Descartes, Leibniz and all the others and even before, who
+believed that the series of integers was natural, well then, it must be founded axiomatically. We
+cannot be sure that if 0 is a number like, for example, [Inaudible] Hilbert's axiomatic, that we
+have a successor of 0, the possibility of a successor must be axiomatically founded.
+
+Deleuze: Yes, yes, yes.
+
+Comtesse: This is one of the biggest problems in axiomatics, and also one of the biggest
+problems [is that] it makes another level of conjugation in the most heterogeneous [Inaudible].
+
+Deleuze: Oh yes! Yes, yes! Ah, I see what you ... mean, yeah. You, you would give ... that’s
+possible, yes. I'm just saying that everyone understood, I think, that in the very example I cited,
+remaining with two axioms didn't mean at all that the axiomatic that I was… defining there…
+that it was enough, was itself consistent, right? Comtesse's remark, namely that this presupposes
+
+                                                                                                     10
+
+other axioms, that's ... that's certain. And you ... oh yes, you ... you replaced the story there with
+an axiom of successibility because you think that there will be a particular use of it at the level of
+... at the level of a theory… of capital? It is possible, yes. It's possible.
+
+Comtesse: We are completely obsessed by the idea that a successor to zero is required and that
+zero is a number. The whole controversy is to say ... for example [Inaudible] if we think that zero
+is a number, we cannot [Inaudible] a successor of zero, except to say that ...
+
+Deleuze: Yeah, yeah
+
+Comtesse: [Inaudible]… unbelievable nonsense in mathematics, that for there to be a successor
+to zero, you have to state that zero equals one.
+
+Deleuze: Yeah ... yes, yes, yes, okay. Yes, yes. I totally agree. [Pause] Well, then, we'll find that
+again, at the level of the succession, right, you will say, yes, good. There we are. Have you
+understood? [To the students] Shall I continue or ... shall we stop? Do you want … have you had
+enough?
+
+Claire Parnet: No, no, let’s continue.
+
+A student: Why is it the Anglo-Saxons who ... [Inaudible]
+
+Deleuze: Well, why is it the English who have ...? Ah well, they didn't ... No, the axiomatic, they
+never liked it very much, the English. You know, we find here ... for me, my dream that ...
+because -- it is not my personal dream -- I tell myself: there is this path in Nietzsche which has
+never been taken up again, because it is a very dangerous path; one would have to be Nietzsche
+to… to succeed in things like that, this kind of typology of nations. Why is a particular problem
+linked to such ... to a particular country? Eh? It's very clear in philosophy, but it is also very clear
+in mathematics, all that, it is very clear ... Why does a particular country provide ...? It’s very odd
+when Nietzsche starts raving about the English mind, the German mind, the French mind, all
+that. So, why is it the English who ... for whom the matter ... a problem, it’s never ... it is never
+abstract? I believe theorems are abstract, right, but concrete things in thought, real events in
+thought, are never abstract. That doesn't mean that this is historical either; it would be necessary
+to invent quite different categories. But why are the problems signed? … [Interruption of the
+recording] [46: 08]
+
+Part 2
+
+Deleuze: It's curious, nonetheless… Well… is…? I am indeed saying that it is insanely
+dangerous, that is, we risk falling into the worst platitudes ... of ... by saying: but ... we would
+have to have the method to speak well about this. So, the English, why is it the formalization, the
+logistics that fascinated them, and why did they have geniuses on this topic, incredible geniuses?
+That seems obvious to me; in all fields, then, we should think about the vocation of England for
+thinking nonsense, for thinking about the problem of sense and nonsense. The English have
+always been guys who have said… finally, I will sum up. One of their philosophical
+contributions is… they're quite… they're quite funny, eh, the English. We always say: oh pfff…
+
+                                                                                                   11
+
+they don't go far, it's… They have a good laugh instead; they laugh at French philosophy,
+German philosophy, all that. They say, that's good, but what does all that mean? What does it
+mean? What does the question "what does that mean?" mean? For the English, we can see very
+well, they say: oh, these are people who talk to us about the true and the false; only, here it is…
+they only forget one little thing; once again, it’s that the true and the false assume that what one
+is saying already makes sense; what interests us is: under what conditions does something ...
+does a proposition make sense?
+
+So, it is in all fields that the English have been perpetually drawn to the question of sense and
+nonsense. Take their literature: Why is nonsense a driving aspect, that runs through English
+literature from beginning to end? When you find a page of nonsense, why is it that you know it's
+English or American? Or Jewish? -- Although Jewish nonsense is not the same thing, but
+anyway… generally it will not be difficult at that moment to show that it is rather… Except
+precisely Lichtenberg, him… there are always… little exceptions like that -- But why is English
+thought, American thought penetrated by this problem of sense and nonsense? Whereas the
+French, they have always been very heavy, very clumsy, in the question of sense and nonsense.
+No matter how hard they try ... No matter how hard they try to be light, it hardly works, eh. It
+hardly works, next to English nonsense, if you think… even in the cinema, if you think of… so,
+both Americans and Jews… the Marx [brothers], fine, the Marx [brothers] as an art of
+nonsense….
+
+Fine. Whether it's in literature, from Lewis Carroll to [Edward] Lear to… the whole tradition of
+nonsense, fine: is it by chance, I am saying, that their philosophers do the same in philosophy?
+That is, Russell is indeed a sort of great Lewis Carroll of philosophy. Good. So, there are
+mysteries that escape us… Good… why? Oh, there would be… there would be things to
+discover, ah yes. At that point one would have to, indeed, well ... come to a clear definition of
+what nonsense is. Suddenly we might understand why this particularly interests the English and
+why the French have always missed out, that the Germans are still something else, something
+else, it's not… [Deleuze does not complete this] Yeah, well, fine.
+
+So, there you have it; I would like to make a second remark. There we have my first remark on
+the axiomatic. I would like to make a second remark on the axiomatic because it will, I believe,
+be very useful to us later. From everything we have just said, one might think an axiomatic is
+like a kind of automasticity process (procédé d’automasticité) in mathematical discourse. It is
+like a sort of construction of a spiritual automaton -- "spiritual automaton" being a famous
+expression in philosophy -- or, ultimately, even more, real automation.4 Literally, these are the
+rules of a speech in which you don't know what you are talking about, since you are stating
+relations between any elements whatsoever about which you do not specify the nature. Not only
+do you not need to know what you are talking about, but it is recommended that you do not know
+what you are talking about.
+
+So, fine, one can have this impression that 0 -- and it has been said quite often -- the axiomatic
+tends and even proposes to expel not only all images in favor of a pure symbolism, but all the
+resources of the in… of intuition, of construction to replace it with the enunciation of the set of
+axioms. [Pause] And, in fact, one only has to look to see quite well. I mean, at the point we have
+reached, we can see quite clearly that the axiomatic is inseparable from a type of
+
+                                                                                                    12
+
+experimentation, undoubtedly from a very particular type of experimentation, but impossible to
+define in fact the axiomatic as the expulsion of experimentation; it is rather the constitution of an
+entirely new mode of experimentation. For I am insisting on this, nothing tells me in advance, if I
+undertake the axiomatic, nothing tells me in advance which axioms I must choose, and to what
+extent my axiomatic will be consistent or not, non-contradictory, to what extent it will be
+saturated or not. I remind you that an axiom is said to be saturated when I cannot add an axiom
+to the previous ones without the set becoming contradictory. So there can be contradictions in an
+axiomatic and contradictions which, if necessary, are not visible immediately, can only be seen
+at the level of the theorems that I deduce from it, but, even more, at what point my axiomatic is
+saturated?
+
+All that is really ... there is an inventiveness in axiomatics. Before speaking badly of the
+axiomatic, I believe that we must… we must indicate what is rather extraordinary in… in this
+adventure of the axiomatic. Very difficult to… there is a kind of… yes, of invention, of creation
+of axioms. There, then, I completely take up again what Comtesse just said. If you propose an
+axiomatization of arithmetic, well… yes, you will need some [inventiveness] and then to what
+extent will it be contradictory or not, when will it be saturated? Now, what does this kind of
+thing consist of ...? So, it's not at all a thing where… a mechanism would replace, right? I believe
+that it is, in fact, a mode of experimentation which is itself ... subject to failures, to successes.
+Ultimately, I would say the same as for formalization; there are axiomatics which have no sense,
+which have no interest. So, fine… [Pause]
+
+As a result, one cannot form from the axiomatic the idea of ... of a kind of constitution of
+infallible automatic knowledge. I insist on this because, in our comparison that we will make
+later, in a while, between the axiomatic and politics, we can no longer maintain as an objection
+the idea that, in politics, we make mistakes all the time, if in axiomatics as well ... So, that is not
+the question. If I try to define the word, the level of the axiomatic, what will I say? So, I return to
+the four categories that we have ... that we sketched out. The categories that we have outlined, I
+would say that, in the end, we should only identify three of them and indicate for convenience
+that we are not confusing these three concepts.
+
+The first concept is: topical conjunctions between flows. You remember: what we were calling
+"topical conjunctions between flows" is in the case where flows are decoded. These are the forms
+in which the movement of flows is as if stopped, tied off, in a particular form or another, and it is
+the whole domain, as we have seen, that we called the "domain of personal dependencies". So,
+there were topical conjunctions.
+
+With capitalism, in our previous analysis, we thought we were getting into a very different
+element. It was no longer…. It was no longer a question of topical conjunctions between flows; it
+was a question of a generalized conjugation of decoded flows. [Pause] And, at that point, there
+were no longer relations of personal dependence between subjects; there was in the end only one
+subjectivity, as we have seen: the subjectivity of capital. But we had defined capitalism precisely
+as the formation of this generalized conjugation which was distinguished from topical
+conjunctions.
+
+                                                                                                    13
+
+Our question now could be: Isn't there something else yet? Pure hypothesis, right, because there,
+I ... I ... this is just to have my terminological references. I would say: yes, there might still be
+something else, and that's the connections of flows, the connections of flows which would not
+refer… which would be reduced neither to topical conjunctions, nor to a generalized conjugation.
+Why? Why would there be a need for this notion?
+
+That's what I meant with the experimental nature of axiomatics; it’s that axiomatics is still a way
+of stopping flows, in this case the flows of science. This is one more way to stop. Why? It seems
+to me that this is striking in the history of mathematics, or in the history of physics, since physics
+has been very axiomatized. The axiomatic always worked like a kind of stopping point (arrêt) ...
+like a kind of stop, there. It’s in this way that I said, "politics of science", where it is a question
+of saying to people, "ah no, one must ... Do not go any further, because ...", "Do not go any
+further”, literally…, these flows of scientificity, these flows of mathematics, these flows of
+physics, etc. ... we need to get this all organized. It… it flees everywhere, it leaks everywhere, all
+that, wherever you go, wherever you go. I'm saying that axiomatics, at the start of the 20th
+century, in the first half of the 20th century, in mathematics, but also in physics, worked as a
+means of blocking, of stopping.
+
+Well, here is the proposition ... here is the hypothesis that I would offer in the second place, in
+this second ... in this second remark: it is that, when flows are decoded, for example, flows of
+science, well ... they escape their topical conjunctions. But aren't they yet moving beyond?
+Generalized conjugation, generalized conjugation of flows, this is still a way of blocking them,
+of saying: no, ... For example, imagine, when did the axiomatics of physics have its major, major
+role? It was when, really, I believe, scientists themselves began to get worried by and about the
+ways and paths that so-called indeterminist physics was taking. And, at that point, there was a
+real need for some reorganizing. Everything unfolds as if not only scientists had told each other -
+- there were also scholars, but not only scholars -- it was as if ... scholars and powers, the powers
+that were in charge of the politics of science, had told themselves: but anyway, what are these…
+what are these flows of knowledge which are more and more decoded, which… where are we
+going? What is this stuff? And [there was] a sort of reorganization which consisted in reconciling
+what is roughly called indeterminism with determinism. A great French physicist had a
+fundamental role there, namely [Louis de] Broglie, in this sort of reorganization, and the
+axiomatics of physics, for example in France, took place starting with Broglie’s students. It was
+really like saying: but indeterminist physics is dragging us into some stuff… [He doesn't finish]
+
+That's exactly what I was saying, if you remember, concerning the famous story ... of NASA,
+flows of capital, flows of capital, flows of capitalism that are all ready to go to the moon, but ,
+there, there is nevertheless a State to say: ah no, no, no! One mustn't … One mustn't go too far. A
+little reterritorialization has to occur. Ah… And so, we tie it off, we seal it. The axiomatic is a bit
+like that; it operates a general conjugation of flows which prevents them, I would say, which
+prevents them from going too far, that is, from connecting with vectors of flight. It operates…
+how to put it, yes, I can't find the best word, it operates as a kind of symbolic reterritorialization.
+
+And, in math, it's the same; axiomatics in math really has to do with ... I'm thinking, for example,
+of the kind of flight of geometries in all directions. And now that didn't work out, right, through
+the axiomatic; it continues to flow, to slip away… everywhere. The situation of current
+
+                                                                                                   14
+
+mathematics, it is ... it is all the same ... very, very curious, when you hear mathematicians speak
+... these ... these situations where, really, mathematical knowledge has completely fragmented,
+where there is a mathematician in Japan who understands what the… what a mathematician is
+doing in Germany… And then there you go, and then the others… good… This kind of situation
+where really the flows of knowledge, there, are… are extraordinarily continuous. Fine. The
+axiomatic is ... I repeat, the axiomatic is a kind of restructuring, structuring, symbolic reterritorialization.
+
+You see in what sense I would distinguish, therefore, between three concepts: topical or qualified
+conjunctions between flows; generalized flow conjugations; and something more: connections,
+that is, what pushes flows even further, what makes them escape the axiomatic itself and what
+puts them into relation with vectors of flight. So, it is in this sense: isn't there something other
+than the axiomatic that we could call the connectors type? And I think -- and this is the last
+remark I would like to make concerning this math story -- I think there has always been
+something very, very curious in mathematics, and it is about this that I would like to speak to
+complete his math story because that will continue being useful for us in our parallel with…
+politics.
+
+At the same period as the formation of the first great axiomatics, to which Comtesse alluded
+earlier, along with Hilbert and others, coincided a mathematical movement which seems to me of
+very, very great interest. And there, oddly, to return -- we always find the same problems -- to
+return to our story: why was the center of this mathematical movement located in the
+Netherlands? It’s curious; there would be… reasons… we would need to find reasons… for that.
+And a very bizarre, very important school of great mathematicians who called themselves
+intuitionists, intuitionism or constructivism, constructionism, arose in reaction against the
+axiomatic. Note well: this is all the more interesting as there were also aesthetic movements that
+claimed to be constructivist. Fine.
+
+I don't know if there were any possible relationships… I don't know. These mathematicians, I am
+naming them for… if, by chance, you heard about them in a book… I am naming the principal
+ones, it was: [L.E.J.] Brouwer, B-r-o-u-w-e-r; [Arend] Heyting, H-e-y-t-i-n-g; [George FC]
+Griss, G-r-i-s-s, and in France, a very, very curious mathematician, who wrote a lot, who was
+called [Georges] Bouligand, B-o-u-l-i-g-a-n-d and one of his best books -- but that can only be
+found, I believe, in a library - is called The Decline… The Decline of Mathematico-Logical
+Absolutes [Le déclin des absolus mathématico-logiques].5 And they were opposed to the
+axiomatic, I believe, in two simultaneous ways.
+
+On the one hand, they were going in reverse (en retrait), because they demanded conditions of
+construction in space. But, on the other hand and at the same time -- in that sense they were
+really going in reverse (en retrait) -- but in other aspects of their work and their thinking, they
+were far ahead which, of course, is important to us. They could be both at the same time. As if
+they had demanded that, literally, mathematical flows go even further, exceed the limits of
+axiomatics, in particular they had a way of calling into question principles that axiomatics
+retained, in particular the so-called principle of excluded third, according to which a proposition
+is true or false, and what they opposed to the axiomatic was -- and there it is very useful for us; I
+am not saying why yet -- it was what they themselves called, well some of them called, what
+
+                                                                                                  15
+
+some of them called a calculus of problems, a calculus of problems and, indeed, when we see
+what they call a calculus of problems -- notably the mathematician Griss did a lot of calculating
+of problems in the sense…, there was also a Russian in there… There was a French couple…
+hey! I recollect something: there was a French couple of mathematicians-physicists, students of
+Broglie, which represented a kind of epistemological domestic scene [Laughter] because the
+husband was one of the best axiomaticians and the wife was an intuitionist, [Laughter] and they
+had a lot, a lot of talent,… they got divorced, eh, [Laughter] but hey…
+
+A student: [Inaudible]
+
+Deleuze: [Jean-Louis] Destouches, Destouches, and Paulette [Destouches-] Février yes, yes, yes.
+She, she was making presentations on calculating problems ... and he was doing axiomatics ...
+absolutely ...
+
+But, what interests me, therefore… -- this couple is nonetheless… is still very important, because
+they surely lived a kind of duality of inspiration… -- what interests me is how we can already, in
+our hypothesis, without specifying anything yet, ask the question: is there not, even beyond the
+generalized conjugation such that an axiomatic operates, isn't there something else which is of
+the "connection with particular vectors" type that goes beyond the axiomatic, that is, a calculus
+of problems as opposed to a determination of axioms? And what would a calculus of problems
+be as opposed to a determination of axioms? You feel that this is our only chance in politics, if
+our comparison is founded with the axiomatic. How to get out of an axiomatic?
+
+And if I look into the history of science, into the history of mathematics, I just want to note for
+the record three cases that seem essential to me in which we would find something of this
+duality, the opposition of scientific currents, opposition… First case. First case: the opposition of
+two essential scientific currents in Greek geometry -- I am selecting a distant example -- the
+opposition of two very important scientific currents in Greek geometry -- if… I am summarizing,
+it's just… there, really for the record that… and to be able to use it later -- you have a conception
+of Greek geometry which is very simple, which proceeds by: definitions, axioms, postulates,
+theorems, proofs, corollaries. This conception of geometry finds its truly royal form with the
+geometer Euclid. [Pause] Do not mix everything up; I am not saying at all that this is already
+axiomatic. I'm saying it's a deductive system. It is certainly not axiomatic yet, but it is a system
+that one could call an "axiom-theorem system". [Pause]
+
+How to define it, this very general deductive system? I would say that this deductive system
+consists in defining essences in order to deduce the necessary properties from them. It goes
+entirely from "essences" to "necessary properties". For example, the Platonic conception not only
+of mathematics, but more particularly of geometry, is a conception of this type: we go from
+essences to necessary properties, and this is the definition of deduction, of an ideal deductive
+science.
+
+And then there is another much more ... bizarre current, from the time of the Greeks. This is a
+current that is no longer theorematic -- you see I can call the first conception a theorematic
+conception of mathematics, and it culminates, again, with Euclid -- the other conception is a
+
+                                                                                                     16
+
+problematic conception. The essential element of this conception is no longer the category of
+theorem, theorem to be demonstrated; this is the category of problem to be solved.
+
+You will tell me, and you would be right: but, in the first conception, there are already problems.
+Answer: yes, there are problems, but problems which are closely subordinate to the theorems. Of
+course, the two are intermixed, but that's not an argument, that. There is a primacy of theorems
+over problems. Moreover, to solve a problem, in the first conception, is always to relate it to
+theorems which allow them to be solved. And, in Euclid, there are many problems, but the
+solution to the problems is but one and proceeds through the determination of the theorems
+which will make this solution possible. This is the "theorem" category that wins out over the
+"problem" category.
+
+But there are some very bizarre geometricians. So, you already sense, those who know a little
+Greek history… or the history of Platonism, you must think that, perhaps, they are linked, for
+example, to currents that are known as the Sophists, that they are linked to… to people all the
+more bizarre since we have lost the texts, but we can… well… [Inaudible] well… It's a
+problematist current. And how does the problem differ from the theorem? I am saying, the
+theorem is not difficult; you go from ... -- well, it is not difficult ... -- you go from an essence to
+the properties which necessarily follow from it. To create theorems (Théorématiser) is to
+determine the properties that follow from an essence. You define the essence of the circle, and
+you deduce its necessary properties. I seem to be saying it's easy; it’s not easy, of course. On this
+point, you subordinate all the problems to your theorems. The others do not proceed in that way.
+
+What is the difference between a problem and a theorem? It’s that a problem is not of the essence
+type; it is of the event type, something happening, or of the operation type. You cause something
+to be subjected to a figure and something extrinsic; you cause it to be subjected to a painful
+operation, an ablation, an addition, a squaring, a cubing (cubature), a whole surgery of the
+figure. It is no longer a question at all of looking for the properties which result from essences; it
+is a question of looking for the metamorphoses which are linked to events. Yes, that seems to me
+to be a perfect expression, perfect, very clear. That’s the “problem” category.
+
+Well, ok, I'm going to cut, here, I'm going to cut an angle into my triangle; what's going to
+happen? So there, I'm going act so that ... a plane cuts a cone at an angle there. What's going to
+happen? Good, that's a very, very curious way of thinking. It is an event thinking (pensée
+événement) and no longer an essence thinking (pensée essence) at all. Events of a special type
+will be properly mathematical events. We will oppose geometric essences, ev… properly
+geometric events. Fine. And there too, you understand, one must harden, one must not harden too
+much in any case. Of course, in that sense, you will also find theorems, but this time around,
+theorems will be entirely subordinate to problems.
+
+And I believe that, in Greek geometry, there was a kind of very intense struggle and, finally,
+there was a victory. The “problem” tendency would have been ... completely, so it ... it has the
+equivalent of Euclid, that's what we know, for example, of Archimedes’ geometry. Good, this is
+the great Euclid-Archimedes opposition. [Pause] These are truly events of geometry as opposed
+to geometric essences. There you have my first case. You see that here, I can say: a problematist
+conception was already opposed to the theorematic conception among the Greeks.
+
+                                                                                                          17
+
+Second example: from the 17th [century] to the 19th, from the 17th to the 19th, we agree with ...
+many authors, historians; they agree in considering that some -- not just one – some conceptions
+of geometry arise from which we can date so-called “modern” geometry. And along what path
+does that occur? That occurs along a double pathway. I am trying to define the first path, the
+reinforcement of a symbolic power, the reinforcement of a symbolic power, that is, to go beyond
+intuition or representation in space towards a symbolic power. Of what is that the pathway? This
+is the pathway of algebra. This is the pathway of analytical geometry, and that will open itself
+onto the whole future of mathematics. But in the 17th century, it was above all the development
+of algebra and analytical geometry. So there, you see, spatial representation, that is, intuition, is
+taken over onto the side of the affirmation or the development of symbolic power, yeah, algebra
+and analysis.
+
+But, at the same time, another current ... if I'm trying to locate names, this is, for example,
+Descartes. This is very much the pathway of Cartesian geometry, hence the role of Descartes in
+analytical geometry. And then, among the successors of Descartes: the tendency to make
+analytical geometry into a completed model for the whole of geometry. But there are also forms
+of resistance, and paradoxically a whole other coexisting pathway emerges. And this completely
+different pathway has some strange names and above all ... some strange names because these
+are rather strange men who introduce it. I am naming one we talked about… back in… I don't
+know, many years ago… a very, very weird geometrician named [Girard] Desargues, D-e-s-a-rg-u-e-s, who wrote very little, but whom everyone considers to have been fundamental for the
+development of modern geometry. So, there is… there is… an old book from the 19th century:
+Les Oeuvres de Desargues [The works of Desargues] and all the adventures of his life. He had
+all kinds of misfortunes; he was condemned everywhere, in Parliament, he had a trial in
+parliament… all that. Good.6
+
+If I create, if I try to create the lineage… he was greatly interested in… very oddly, he was in
+contact with stonemasons. You see why, in this second conception, [contact] with stonemasons
+and stone cutting is quite important? Why? Because stone cutting really belongs to the "what's
+going on?” type. Obviously, stone cutting is problematic. This is obvious. Rounding, cutting, this
+is the domain of ... not properties that arise from an essence, but, as was often said in the
+language of the era, [the domain] of affects or events that transform a figure. [Pause] One of
+Desargues's texts is called, has a marvelous title, a very, very "Lewis Carroll" title even, “Draft
+of an essay on the events that are determined by the encounter of a cone with a plane” [Brouillon
+d’une atteinte aux événements que déterminent la rencontre d’un cône avec un plan].7 You see
+there is the thing: encounter, attacking events. You can sense that this is not Cartesian language
+here; this ... that langue is part of another tradition. This is the language of the problematist
+current. Fine, the importance of Desargues is fundamentally recognized not only by Descartes in
+this, who is quite correct, who in several letters says that Desargues is ... he is a formidable
+geometrician. But here, this is no longer merely a recognition, this is almost a disciple, but a
+disciple who ... who ... will surpass the master; this is on Pascal's path. And it is on the path of
+Pascalian mathematics and no longer in Descartes’s approach that we find the Desarguian
+generation, the generation following Desargues.
+
+Long after ... -- ah ... Pascal as well, this is a situation ... this is a very bizarre situation in science
+... -- long after, you have a famous name as the creator of so-called "descriptive" geometry, it's
+
+                                                                                                       18
+
+[Gaspard] Monge. And Monge does not cease formulating a theory that he himself calls, in his
+language, "a theory of particular affects", and he distinguishes the particular affects of bodies
+from general properties. And it’s in this way, when he deals with physics, it is very important,
+since he treats phenomena, for example, electrical phenomena as particular affects of bodies in
+distinction from general determinations of figures of the “space and movement” type. In any
+case: Monge’s descriptive geometry. And Monge, what is this? This is a very, very weird
+current, because Monge is ... well ... he's fully a scholar, but he's a scholar who is not of the same
+tradition as the other current. He refers to a character… to a type of character that we talked
+about, here, in the year … I don't know which one, when we were considering that, namely the
+engineer, the military engineer, the military engineer’s science. This is a very, very strange thing.
+
+And then, so in the line, ... there is really a ... a continuity here, if we try to establish continuities
+... there is a continuity, it seems to me, Desargues - Pascal - Monge, and then in fourth case,
+perhaps one of the greatest -- he has his little street in Paris -- [Jean-Victor] Poncelet, Poncelet
+who is a great military engineer, but above all, above all, the inventor of so-called projective
+geometry -- projective, this is problematist; pro-blem equals pro-jection. Literally, it's… it's…
+it's the same word, one in Latin, the other in Greek – Poncelet’s projective geometry, which has a
+great axiom, which is based on a so-called axiom "of continuity".
+
+And there too, to stick to examples as stupid as the one I chose for the axiomatic, what is the
+axiom of continuity from Poncelet, in projective geometry? You see ... a circle or an arc, eh, you
+draw a ... line that intersects the arc at two points, right? These are two real points. You make it
+move up. The moment comes when there is only one real point. You will continue to tell
+yourself, you will continue to say: there are two points, but, simply, one is fictitious, or one is
+imaginary. You move it up again. The line comes out of the circle and no longer intersects ... and
+no longer intersects anything: you will continue to say that there are two fictitious points; you
+will have established a series of continuity between heterogeneous cases, namely: three
+heterogeneous cases, the case where your line actually intersects the circle at two points, the case
+where your line is a tangent, and, a third case, the case where your line is outside the circle. You
+will tell me: what is the point of introducing these imaginary points? Ah, yes indeed, I won't tell
+you, because you must sense that this has a colossal interest, from the point of view of geometry,
+that it results in a new conception of geometry.
+
+If I try to summarize here, at this level, the example becomes very simple… Yes, it becomes… I
+would say: in both cases, as well in the conception, in the first conception as in the second
+conception, that is, in the path of analytical geometry, Descartes, in the path of constructive
+projective geometry, Monge, Poncelet, Desargues, etc. .., in both cases you go beyond ... --
+otherwise there would be no science -- in both cases, you go beyond the conditions of spatial
+representation, that is, you go beyond simple intuition. This is common to both. This is the way
+in which both are scientific.
+
+But, in one case, you move beyond spatial representation or intuition toward an increasingly
+consistent power of abstraction, or toward symbolic power. In the other case, I would say, it's a
+entirely different -- you'll understand -- you move beyond this toward a trans-intuition, that is,
+you develop a kind of ... space between cases. In one case, I would say, you create a conjugation;
+in the other case, you create a connection. [Pause] You're raising yourself into some kind of…
+
+                                                                                                     19
+
+what? A trans-spatial intuition or trans-intuition. You do not go beyond space toward a symbolic
+power; you are creating connectors of space. You unfold a space common to the three cases: the
+line that intersects, the tangent line, the line outside the circle.
+
+I would say that my second example overlaps my first one: I will call, if you will, "deductive" or
+"theorematic" conception the conception which goes beyond the spatial representation towards
+the power of abstr ... towards the symbolic power, and I will call "problematic” the Desargues,
+Pascal, Monge… Poncelet's conception which goes beyond the spatial representation towards a
+trans-intuition or a trans-spatial intuition. And, that the two intermix ... It's possible that at some
+level, the two intermix, but every time, there are tensions.
+
+I am choosing only one example because I remember it: there is that… Poncelet has a whole
+polemic precisely with a descendant… and a creator, but a descendant of analytical geometry, a
+guy who… developed the analysis to a much more advanced level… and… and who… and who
+is his contemporary, a mathematician named [Augustin-Louis] Cauchy. And the kind of CauchyPoncelet tension renews, if you will, under completely different conditions historically, renews
+the same opposition as the one we have just seen among the Greeks, between a Euclidean current
+and an Archimedean current. Fine.
+
+I am saying: [here’s] a third example in modern mathematics. First path: the formation of an
+axiomatic power, [Pause] an axiomatic power which consists in going beyond spatial
+representation towards a more and more, how to say, abstract symbolism ... in the sense of a
+symbolism of any elements whatsoever; and, on the other hand, the problematist or intuitionist
+current of which people have wrongly -- you see what I mean -- people have wrongly created a
+conception of it, when that occurs, because I believe that there are math historians who present
+things in that way, as if my second current here was just regression. But, in fact, it is not at all a
+current which simply claims the rights of spatial representation and which says “ah well no…”
+The anti-axiomaticians are often presented as people who simply say: ah, but we cannot do
+without spatial representation and the axiomatic is wrong. And I don't think this is at all the case.
+They are much more… the second current is… it is as interesting as the first one; it's not at all…
+attempting to say: ah, spatial representation must be maintained. It goes beyond spatial
+representation no less than the other [current]. Archimedes goes beyond spatial representation,
+but he does so through a method of limits or of exhaustion, that is, metamorphoses of figures and
+passages to the limit. Poncelet does so with his axiom of continuity. It's weird, by the way, that
+we call it an "axiom of continuity", "axiom". We should remove the word "axiom"; it's obviously
+not an axiom of continuity, it's a condition of ... it's a condition of problems, right? It's not an
+axiom at all ... You can treat it like an axiom, at that point, it's an intersection (un mixte), it's a
+mixture. You see, therefore, I would say: it does not exceed the conditions of spatial
+representation any less than the others, but, instead of going beyond it towards a symbolism,
+ultimately a symbolism of the object… [Interruption of the recording] [1: 32: 23]
+
+Part 3
+
+… They will establish a continuity between the three discontinuous cases; for example, in the
+case of Poncelet, you see, the line which intersects the circle, the tangent line, the line outside the
+circle. So, between these three cases, they cause to flow, or they cause a kind of common line to
+
+                                                                                                    20
+
+pass through, a fictitious line… good. But, in this current, it is not the power of the symbol; it is
+the fiction of an in-between (entre-deux). [Pause]
+
+So if I summarize, I would say: we are entitled from here on to consider, not yet of course, but to
+consider better our hypothesis that three concepts must be distinguished: once again, that of
+topical conjunctions, that of generalized conjugations, and that of connections, connections, at
+the extreme, I would call it almost creative connections, or anticipatory connections. This will be
+a different world, anticipatory connections, and they would not proceed via the axiomatic: they
+would proceed by a calculus of prob ... problems.
+
+Hence the importance that, in the so-called intuitionist or constructionist school, the importance
+in this school, of ... [Pause] what they call precisely a calculus of problems. The book by
+Bouligand that I was quoting, The Decline of Mathematical-logical Absolutes, the thesis, the
+whole thesis is this, with some very rich, very varied examples: that there would be in
+mathematics two irreducible elements, one that Bouligand calls "element of the global
+synthesis", and the other that he calls "the problem element". And undoubtedly, he shows that a
+problem can be solved only by the categories of the global synthesis, but conversely, he shows,
+that the cat ... the categories of the global synthesis can only proceed, can only function thanks to
+germs of problematic elements acting like kinds of crystals therein, acting like viruses therein.8
+
+And I believe that, when he analyzes -- this is the strength of this book -- when he analyzes some
+very concrete cases, even if we do not understand, there are some that we understand, so… he
+shows very well, he gathers this tradition very well, he doesn't talk at all about the problems
+that… I have considered historically, but… he's like… the state… of the first half of the 20th
+century, he is a very, very good representative of this mathematics of events, that is, of this
+problematist mathematics. There was once a whole ... a whole current of math teachers, antiaxiomati ... anti-axiomaticians, who were trying to create a teaching program of ... [He does not
+finish this]. Basically, we can say the axiomatic won in the contemporary mathematics teaching
+program, even in the small classes… It is sometimes formal logic, it is sometimes…
+formalization, sometimes the axiomatic which has won, if you open a math book at even the
+sixth, fifth, fourth levels.9
+
+And there was a whole current that said: no, no, we must not go in that direction. You have to go,
+you have to go into a really problematic conception, namely, on the contrary, cause everything ...
+to collapse, to create mathematics program above all based not on axioms. It's very funny, I don't
+know if… if… you would have to have little brothers or…, but well, many of you have seen
+these books… and then, after all, I'm stupid… you are not my age… so yourselves you are… you
+may have been… taught with this extremely axiomatized method, in geometry and in… and in
+arithmetic. In fact, they start off with set theory… I'm not saying this is wrong at all: it's… it's…
+it feels weird… Myself, I'm from a generation in which it was neither one nor the other. So, that
+wasn't any better, right? It was something else, it was really the old pedagogy.
+
+But, these teachers that I am thinking of, these mathematics teachers, entirely from high school,
+they were very good mathematicians, but they demanded a completely different conception:
+that's what interests me, which was really the construction of problems, because they would say:
+it is only at the level of the problems that we can invite the students into a kind of activity
+
+                                                                                                    21
+
+without it becoming a pure and simple mess, namely, we have them build a problem, and at that
+point, hey, wouldn't everything come together? Because not every problem has ... what? I mean -
+- to tie everything together…, all these scattered remarks -- a problem, a problem what? You will
+never say about a problem that it is true or false. What is true or false is a solution, it is a proof.
+It’s the proof of a theorem. A problem is not true or false. Well, yes there is: we can see what we
+call a false problem, it is ... it is a problem where there is a mistake. It happens in academic
+exams (concours) all the time; someone creates false problems. Yes, false problems. Ah, there is
+a mistake, there is a missing piece of data, so this is a false problem. But, otherwise, a problem is
+neither true nor false as a problem.
+
+Only there you have it, a problem either makes sense or it doesn't. There are problems that just
+don't make sense. And, then again, that is entirely the same as bullshit (connerie). Stupidity
+perpetually consists in posing problems that make no sense. And there, this is not the domain of
+the true and the false, it is the domain of sense and nonsense. As a result, we would find our
+[previous] stories. Okay, so, making mathematical events emerge, that's a different conception
+than axiomatization, where on the contrary, in axiomatization, we make necessary properties
+flow from a system of axioms. There you go, so I'll again consider, to conclude, briefly… What
+time is it?
+
+A student: [Inaudible]
+
+Deleuze: What? Twelve twenty, my god! You can't take it anymore! [Laughter]. It was… Okay,
+so I’ll finish really quickly. I am saying… well, what is the…? At the point where we are, we
+have at least… made this long, long parenthesis, which brings us to what? So, I am really coming
+back to my question about the State and politics since that's where I would like to finish this first
+series of studies this year.
+
+Well, there we are. My question has become a little more precise; it’s: what is our interest, if we
+try to treat the current situation as an axiomatic, under the conditions that I have just stated: the
+axiomatic is not at all a mechanical knowledge, it is not at all a gimmick without
+experimentation, it is not at all an infallible method, it is not… But the givens of the current
+situation like entering into an axiomatic, what happens?
+
+In this case, how are the political problems considered? What does that mean, to treat the current
+situation as an axiomatic? This means two things: both that we would have reasons to assimilate
+capitalism to an axiomatic, and also that we would have reasons… I mean, to assimilate -- first
+point -- to assimilate to… capitalism to an axiomatic, I don't have to do it anymore, because I
+believe that’s what we have done previously. All our definitions of capitalism consisted in
+saying: yes, capitalism arises when the topical conjunctions are overwhelmed, in favor of a
+generalized conjugation, in favor of a generalized conjugation of two flows: the flow of wealth,
+become independent, the flow of labor become "free", free in quotes since… [He does not finish]
+And it is this conjugation or encounters of decoded flows that constitutes capital as subjectivity.
+
+So, fine, we have reasons to consider capitalism as a social axiom. The immediate consequence
+is that political problems are only considered very partially within the framework of countries
+and States, that political problems immediately are considered, fundamentally, always -- without
+
+                                                                                                       22
+
+there being any kind of fundamental reflection; on the contrary, it happens by itself -- are
+immediately considered in a global framework, right, in the framework of a global system, to the
+point that it is very, very difficult to talk about what is happening in a country without taking into
+account -- and once again, this does not imply any special knowledge – without taking into
+account the entirety of a global situation that distributes data. Third point: this comes down to
+saying, States and countries are ultimately analogous, let’s say, to models of realization in
+relation to the axiomatic of capital. [Pause]
+
+And finally, [Pause] as a last point, we obviously find that this situation is quite… hopeless for
+us. At least it would be only if we made the axiomatic, precisely, into the idea of a kind of
+infallible power. Fortunately, we took our precautions. There are plenty of things that escape
+through the mesh of an axiomatic; there are plenty of things that get the hell out, there are plenty
+of things that ... that don’t allow themselves to be axiomatized, and that continue to flow through
+the mesh of the axiomatic, and that's what we are calling the world of connections or the calculus
+of problems-events, events as irreducible to the axiomatic order at the same time that they never
+cease being produced within this order.
+
+The question would therefore be: do we have anything to console ourselves with in this? And
+what would be the problems, or events, what would be the connections that are working the
+global axiomatics currently, in such a way that, here and there, there might be sources of hope?
+An urgent problem for us, right? Good. [Pause] And I recall – at random, I will fall back exactly
+onto the point where I would like us to start the next time -- I recall that, in fact, if I return to the
+mathematical topic of axiomatics ... Here we are: we find ourselves facing a certain number of
+problems linked to an axiomatic.10
+
+So here, the axiomatic-world situation comparison is only valid if we discover something similar
+to the aggregate of these problems, at the level of the world situation. I would say: the first
+problem is that, in an axiomatic, of one being able to add up to a certain point and, up to a certain
+point, to withdraw axioms. This is the problem of addition and withdrawal. A comparison of the
+axiomatic with the world situation is only valid if we are able to discover at work, in action, this
+process of adding and withdrawing axioms at the level of capitalism. Is there really an addition
+and a withdrawal of axioms? Axioms of capital? A first problem.
+
+A second problem, I would say: it is no longer that of addition and subtraction, of withdrawal
+and addition; it is one of saturation. An axiomatic is said to be saturated when, precisely, nothing
+more can be added to it. And, in my opinion, although it is not necessarily evident, if there is an
+author who has treated, who has been able to show us how capitalism works as an axiomatic, it is
+Marx. And it’s Marx not just anywhere; it’s Marx in a very beautiful, very important chapter of
+Capital, which is the chapter on the downward trend in the rate of profit.11 And Marx's thesis,
+which we'll have occasion to look at -- but I would like some of you to consider and reconsider it
+between now and next week -- Marx's thesis, basically, is that capitalism never stops confronting
+limits -- there is the idea of limits of capital, at every moment – never stops confronting limits,
+but that these limits are immanent to it.
+
+This is a very complex thesis, very beautiful but very complex one. You see, it is made of several
+propositions that are interlinked: capitalism never stops confronting limits; second: these limits
+
+                                                                                                                     23
+
+are fundamentally, essentially immanent to it; third point: as a result, it does not stop colliding
+into them, and, at the same time, shifting them, that is, pushing them further… and, further on, it
+will collide with them again, it will push them more, shift them further. It is this thesis of limits
+as immanent and not external obstacles, which would make them absolute limits; in other words,
+it is [capitalism] that creates its own limits, and that therefore collides with them, and that shifts
+them. This fundamental thesis, I believe, poses the problem of the saturation of what one might
+call: the saturation of the system at a particular moment or another.
+
+Third, third problem: States and countries ... States and countries, nation-States, can in a way be
+seen as models for realizing this axiomatic of capital. [Pause] In that sense, what is the status of
+models of realization? What is the measure of their independence from the world situation, in
+relation to the axiomatic itself? What is the measure of their dependence, etc.? This is another
+problem, besides the one of saturation of the system.
+
+Fourth… I don't know… yes? Four, is that four? Little four ... Four, yeah. Oh well, we'll see
+later, right? There are too many, right? There are too many, but fine…. We'll start there the next
+time. So, try to re-read ... this chapter of Marx, ok? [End of the session] [1: 48: 57]
+
+Notes
+
+  Deleuze considers Alois Riegl during the Painting seminar, 12 May 1981.
+  Deleuze refers to texts by Henri Maldiney on Cézanne during two sessions on Spinoza, 13 January and 31 March
+1981 (the latter also being the first session of the Painting seminar).
+  “Toto” is a name for a stock character in French discourse, a generic child as well as the butt of “Toto jokes”
+(blagues de Toto).
+  Deleuze attributes this term, “spiritual automaton”, to Spinoza during the session on continuous variation, January
+24, 1978. He returns to the term in several other sessions: in the first session in the short Leibniz seminar that
+follows this seminar on the State apparatus, April 15, 1980; and in five sessions during the fourth seminar on cinema
+and philosophy: October 30, 1984; November 6, 1984; January 8, 1985; April 23, 1985; and June 4, 1985.
+  Georges Bouligand et Jean Desgranges, Le déclin des absolus mathématico-logiques (Paris : SEDES, 1949). See A
+Thousand Plateaus, p. 570, note 61.
+  On Girard Desargues and his works as well as on conical sections, see the second Leibniz seminar, specifically the
+session of November 18, 1986, and March 3, 1987, as well as The Fold. Leibniz and the Baroque, pp. 20-22 (Le Pli,
+pp. 28-30). Regarding the text Les Oeuvres de Desargues, several modern reeditions exist of this text; it was
+originally edited by Noël Germinal Poudra, published in 1864. See also A Thousand Plateaus, p. 365.
+  The title seems to be slightly different from the one that Deleuze cites: Brouillon Project d’une atteinte aux
+evenemens du rencontre d’une cone avec un plan [Rough draft for an essay on the results of taking plan sections of a
+cone]. See the study by Jan P. Hogendijk, “Desargues’ Brouillon Project and the Conics of Apollonius”, Centaurus
+vol. 34 (1991), pp. 1-43, http://www.jphogendijk.nl/publ/Desargues2.pdf.
+  Besides the reference cited above (note 5), Deleuze and Guattari refer to Bouligand in connection with the
+intuitionist school (A Thousand Plateaus, p. 554, note 21) and in connection with Bergson and the dualism of two
+mathematical elements, the “problem” and “global synthesis” (A Thousand Plateaus, p. 556, note 40).
+  Roughly seventh, eighth and nine grades in American high schools; year 7, year 8 and year 9 in UK comprehensive
+schools.
+   As is evident in the preceding session, on the axiomatic and its four problems outlined by Deleuze, see plateau 13
+(on the apparatus of capture), Proposition XIII. “Axiomatics and the present-day situation”, A Thousand Plateaus.
+pp. 460-473 (Mille plateaux, pp. 575-590).
+   In all likelihood, this is text in from Capital, book III, part III, chapters 13-15. See A Thousand Plateaus, p. 567,
+note 32.

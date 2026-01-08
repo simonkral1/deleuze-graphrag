@@ -1,0 +1,1022 @@
+1
+
+Gilles Deleuze
+
+Sur le cinéma: une classification des signes et du temps
+
+6ème séance, 21 decembre 1982 (cours 27)
+
+Transcription : La voix de Deleuze, Franck Baron (1ère partie), Una Sablajakovic (2ème
+partie), et Franck Baron (3ème partie) ; révisions supplémentaires à la transcription et
+l’horodatage, Charles J. Stivale
+
+Partie 1
+
+Pour la rentrée, hein ? et comme vous n' allez pas vous rappeler, ça va poser des problèmes, mais
+il faudrait que vous vous rappeliez, hein ?
+
+Alors, voilà : on en est dans cette histoire de Peirce, et ce qu’on a vu, c’est, vous vous rappelez,
+la distinction de trois types d’images chez lui. Et ces trois types d’images chez lui, c’est la
+Priméité qui correspond, en gros, on le sait d’avance, à notre image-affection ; c’est la
+Secondéité qui correspond, en gros, à notre image-action ; et c’est la Tiercéité qui correspond à
+quoi ? Pour le moment, on ne sait pas, on n’en sait rien ; on retient juste, [1 :00] d’après notre
+séance précédente, que cette Tiercéité a pour caractère le domaine du mental selon Peirce, ce
+qu’il appelle lui-même le « mental », c’est-à-dire le « pensé », le domaine du « pensé », tout ce
+qui est « pensé », et que Peirce l’exprime sous l’exemple tantôt de la loi, une loi, tantôt de la
+signification, tantôt de la relation. Et nous avions vu que la meilleure manière peut-être de définir
+ce domaine mental de la Tiercéité, c’était la relation prise dans ses deux sens -- et c’est ce que
+j’avais essayé de développer la dernière fois -- à savoir au sens de relation concrète ou naturelle -
+- premier sens -- ou au sens de relation [2 :00] abstraite -- deuxième sens.
+
+Et là j’insiste dans cette récapitulation pour que vous ayez ça bien présent à l’esprit, me paraît
+très important cette distinction de deux sens du mot « relation » que bien d’autres philosophes
+que Peirce -- qui n’apparaît d’ailleurs pas chez Peirce, mais ça ne fait rien, ça n’a aucune
+importance -- que beaucoup de philosophes ont pressentie et indiquée, et je disais moi, elle me
+paraîtrait correspondre à quelque chose de tout à fait concret quand on parle de relations. Encore
+une fois, toutes les relations sont extérieures à leurs termes, ça, pas de problème. Mais il y a des
+relations qui consistent en ceci : comment une image donnée conduit naturellement – entendez,
+sans effort -- à une autre image qui n’est pas donnée, qui n’était pas donnée. Exemple encore une
+fois : une photo me fait penser à, [3 :00] la photo de Pierre, me fait penser à Pierre, et comme
+disait Hume, « transition aisée », c’est ça qu’on appellerait une relation naturelle ou concrète. La
+ressemblance ici agit, la ressemblance entre la photo et le modèle agit comme une relation
+concrète.
+
+Et on remarquait qu’il y a d’autant plus de raison d’appeler ça naturel ou concret que ces
+transitions sans efforts ne vont pas loin. Elles s’éparpillent très vite, ou bien elles s’interrompent.
+Une relation naturelle, elle marche entre deux choses qui se ressemblent beaucoup. Mais comme
+on l’a mille fois constaté : n’importe quoi ressemble à n’importe quoi ; il suffit de trouver le
+point de vue, et là vous n’avez pas une relation naturelle. La photo de Pierre me fait penser à
+
+                                                                                                        2
+
+Pierre, [4 :00] Pierre me fait penser à Paul qui lui ressemble. Mais de ressemblance en
+ressemblance, la relation naturelle va vite se dégrader. Et là, ça ne marchera plus. Il n’y aura plus
+transition ; il y a bien « transition aisée » de A à B, de B à C, de C à D, et donc à la rigueur de A
+à D, mais au-delà : ça ne se fait plus ; ça s’épuise vite, les relations naturelles.
+
+Tandis que vous vous rappelez la relation abstraite, ce n’est pas une « transition aisée » qui nous
+mène d’une image donnée à l’image de quelque chose qui n’était pas donné. La relation
+abstraite, c’est une circonstance qui détermine une comparaison de l’esprit entre deux images
+[5 :00] qui ne sont pas reliées relativement. Si je dis, par exemple, entre A et X, quelle
+ressemblance y-a-t-il ? Comme n’importe quoi ressemble à n’importe quoi, il y aura toujours une
+circonstance par laquelle deux choses quelconques se ressembleront, à la limite, parce que ce
+sont des choses. Bon. Et la circonstance ou la raison pour laquelle je compare deux idées, deux
+images, qui ne sont pas en relation naturelle l’une avec l’autre, c’est ça une relation abstraite.
+Voyez, il y a donc bien deux sens du mot « relation ».
+
+Alors j’ai donc ça, voilà, nous en sommes là : Priméité, Secondéité, Tiercéité selon Peirce. Ce
+sont les trois types d’images. [6 :00] Là-dessus, problème à mon avis, il me semble, très, très
+important : comment une image devient-elle un signe ? Et ce problème, comme Peirce crée cette
+nouvelle discipline -- sémiotique ou sémiologie -- ce problème, il devrait être fondamental pour
+Peirce. Car enfin, tout signe est une image, mais toute image n’est pas signe. On appellera
+« signe » certaines images spéciales.
+
+Donc voyez que « signe » nous lance dans un tout nouvel élément à découvrir, dans un tout
+nouveau monde. J’ai mes trois types d’image, bon, un, deux, trois, mais alors les « signes », et
+pourquoi il y a besoin de « signes » ? [7 :00] Ben, je dis à ma stupeur, ou à la stupeur enfin,
+Peirce ne s’intéresse pas tellement à ce problème. Il faut vraiment bien chercher les pages, et
+pourtant il y a des pages où on peut tirer sa conception : « pourquoi des images donnent-elles lieu
+à des signes ? », et « quelle différence y-a-t-il entre une image et un signe ? » Et il me semble
+que chez lui, il y a deux réponses : il nous dit toujours, eh bien voyez, un signe, c’est toujours
+une Tiercéité. Ah bon, ça va compliquer parce que si un signe, c’est une Tiercéité, c’est que,
+dans un signe, il y a « trois ». Dans tout signe, il y a « trois ». Mais c’est hors de question de
+confondre la Tiercéité et le signe, en ce sens que tout signe est une Tiercéité, mais toute Tiercéité
+[8 :00] n’est pas un signe. La Tiercéité, c’est un type d’image. Elle n’est pas par elle-même un
+signe.
+
+Donc s’il est vrai que tout signe est une Tiercéité, la question devient : Quel type de Tiercéité
+exigera, exigera d’être appelé : signe ? Et la première réponse de Peirce, c’est que la Tiercéité
+c’est le domaine du mental, du pensé, mais le pensé ne constitue pas par là même une
+connaissance. Tout ce qui est pensé ne constitue pas, ne forme pas une connaissance, et que le
+signe, c’est une Tiercéité constitutive d’une connaissance. [Pause] En d’autres termes, c’est
+[9 :00] une Tiercéité puisque le domaine de la Tiercéité, c’est la relation, eh bien, il nous dit, le
+signe est une Tiercéité qui constitue une relation cognitive. [Pause]
+
+Bon, on se dit bien, [Pause] mais à ce moment-là, c’est un programme à remplir. Il devient un
+peu plus précis lorsqu’il nous dit ceci : ben, un signe, c’est une Tiercéité qui rend les relations
+efficientes, mais il ne s’explique pas beaucoup. Là, ça m’intéresse déjà plus. Remarquez que les
+
+                                                                                                        3
+
+deux se valent, [10 :00] parce que peut-être que rendre les relations efficientes, c’est une
+excellente définition, peut-être, de l’acte de connaître. Ce serait une définition originale et peutêtre très satisfaisante, qui répondrait à la question : « qu’appelle-t-on connaissance ? ». La
+connaissance, c’est une opération qui rend les relations efficientes. Bon. Qu’est-ce que ça veut
+dire ?
+
+Ça implique que les relations, vous vous rappelez, elles appartiennent à l’image de Tiercéité,
+elles appartiennent à la Tiercéité, mais en elles-mêmes, elles ne sont pas efficientes. Pourquoi ?
+Les relations abstraites ! Les relations concrètes qui font passer naturellement d’une image à une
+autre image, est-ce qu’elles sont efficientes ? Pas exactement. Dans le vocabulaire de Peirce, il
+faudrait dire [11 :00] qu’elles sont mises en action, elles sont mises en action, elles agissent, ce
+n’est pas ça, l’efficience. Et les relations abstraites, elles sont inefficientes, en effet, tant que je
+les prends comme pure image de Tiercéité. Je juge bon, circonstance par laquelle je juge bon de
+comparer deux idées, deux images arbitrairement unies. La définition même de la relation
+abstraite, elles ne sont pas efficientes. Les relations concrètes agissent, elles font passer l’esprit
+d’une image à une autre, mais elles ne sont pas efficientes : elles agissent. Elles sont actives, ou
+si vous voulez, elles sont agissantes. Et les relations abstraites, elles sont inefficientes. Je
+compare deux idées [12 :00] arbitrairement unies dans l’imagination.
+
+Qu’est-ce que c’est, rendre les relations efficientes ? Je suppose, quoiqu’il ne s’explique pas
+beaucoup là-dessus, je suppose que ça veut dire les rendre opératoires. Et c’est pourquoi j’attache
+beaucoup d’importance à ce que je suggérais la dernière fois, c’est qu’il est impossible de penser
+la relation, c’est le seul apport là que je voudrais vous proposer, pour le moment, là, dans cette
+perspective, impossible de penser... si la philosophie a échoué dans, ou a rencontré tant de
+difficulté dans un effort pour penser la relation, c’est parce qu’on n’a pas assez vu ou pas assez
+dit que la relation impliquait, enveloppait strictement le changement, parce qu’on n’a pas vu que
+la relation était du domaine du devenir. Je dis une platitude, mais c’est vrai, c’est comme ça. Si
+on voit que la relation est inséparable du devenir et du changement, là je crois qu’il devient
+beaucoup [13 :00] plus facile de la penser.
+
+Mais ça veut dire que la relation elle-même est, comment dire, est tributaire d’un système de
+rapports entre relations telles que les relations peuvent se transformer les unes dans les autres. Je
+dirais qu’à ce moment-là, les relations deviennent opératoires. Qu’est-ce que fait la science ?
+Qu’est-ce que font les mathématiques ? Elles rendent les relations opératoires. Pas n’importe
+quelle sit[uation]… , d’ailleurs pas n’importe quelle relation peut-être ; relation de situation, on
+pourrait même distinguer des branches de mathématiques, les relations de situations sont rendues
+opératoires ; les relations quantitatives sont rendues opératoires ; les relations linéaires [14 :00]
+sont rendues opératoires, tout ce que vous voulez. On pourrait définir les mathématiques comme
+le premier système qui rende les relations opératoires ou efficientes. Très bien, alors acceptons
+pour le moment tout ça.
+
+Et on a une définition du signe qui est : le signe est une image de Tiercéité définie par ceci,
+qu’elle rend les relations -- des relations renvoyant à la Tiercéité – qu’elle rend les relations
+efficientes. Oh, mais ça, c’est une définition comme ça. Je veux dire, c’est une définition
+purement nominale. Alors concrètement, ça va être composé comment, un signe ? Il faut qu’on y
+retrouve de la Tiercéité. Eh bien, oui, nous dit Peirce. Quelle va être la définition réelle du
+
+                                                                                                       4
+
+signe ? Quand je dis : le signe est une [15 :00] Tiercéité qui consiste à rendre les relations
+opératoires, je n’ai qu’une définition nominale. Je ne dis pas en quoi consiste le signe.
+
+Si je cherche une définition réelle qui énonce en quoi consiste le signe, très bien, il va consister
+dans quelle Tiercéité ? Peirce nous dit, eh bien, un signe, c’est une image : un, deux, qui vaut
+pour une autre image ; [Pause] trois : par l’intermédiaire d’autres images [16 :00] qui rapportent
+la première à la seconde. Ça a l’air embêtant, tout ça, mais c’est, il me semble, là-dessus que
+s’est constitué une grande, grande partie de la philosophie moderne. C’est pour ça que c’est
+important, cette espèce, pour moi, cette espèce de retour à Peirce. Je m’explique : vous voyez
+que dans cette définition réelle du signe, ce qui est important, c’est que, en effet, c’est
+manifestement une Tiercéité. C’est une image qui vaut pour une autre image par l’intermédiaire
+d’autres images qui renvoient la première image à la seconde.
+
+Expliquons-nous mieux avec les mots qu’emploie Peirce. Le signe est une image ; en lui-même,
+il est une image ; [17 :00] c’est son aspect, je dirais : c’est la Priméité du signe. C’est le signe en
+lui-même. Il l’appelle : « representamen ». [Pause ; Deleuze écrit au tableau] C’est le signe en
+lui-même, la Priméité du signe, le signe considéré comme une image. Il vaut pour une autre
+image. Cette autre image pour laquelle il prétend valoir, [Deleuze écrit au tableau] là il l’appelle
+– curieux, cette alternance de mots bizarres et de mots tout ordinaires, il joue là-dessus
+beaucoup ; il faudra se demander pourquoi aussi -- il l’appelle : « l’objet ». [18 :00]
+
+Comprenez que l’objet d’un signe n’a nul besoin d’être réel. Un signe est une image, et son objet
+est une autre image. Il arrive que l’objet soit un objet réel, il arrive que l’objet ne soit pas un
+objet réel. Le dessin d’un Centaure est un signe qui vaut pour un objet, lequel objet n’est pas
+réel. [Pause] Bien. Ça, je dirais donc, l’objet, c’est-à-dire l’image pour laquelle le signe prétend
+valoir, c’est la Secondéité du signe.
+
+Troisièmement, par l’intermédiaire d’autres images, qui rapportent la première, le
+« representamen », à la seconde, l’objet, [Deleuze écrit au tableau] [19 :00] et ça, il va l’appeler,
+et c’est ça qui pose tellement problème quand, [Deleuze écrit au tableau] lorsque on a commencé
+à connaître Peirce, ses textes, il appelle ça « l’interprétant ». C’est l’interprétant du signe. Les
+images qui rapportent la première image à la seconde... Quoi ?
+
+Un étudiant : En général, les gens qui lisent Peirce ne comprennent jamais comme ça ; ils
+s’arrangent toujours pour comprendre autre chose que ça.
+
+Deleuze : Ouais, ouais. Vous voyez quel contresens ce serait de croire que l’interprétant, c’est un
+interprète. Peirce a toujours, et certains de ses disciples en Amérique, [20 :00] ont tout de suite
+foncé dans cette direction. Dans quel but ? Pour faire une psychologie du signe. Mais Peirce est
+un logicien qui, à ce titre, n’aime pas du tout la psychologie et prétend récuser toute psychologie.
+L’interprétant n’a rien avoir avec un interprète. L’interprétant, c’est l’ensemble des images
+tierces qui rapportent une image première à une image seconde pour laquelle l’image première
+prétend valoir, mais telle qu’elle ne pourrait pas avoir cette prétention sans les interprétants.
+C’est ce système qui rend les relations efficientes. Alors évidement, ouf, un exemple : prenons
+un exemple. Voyez déjà l’importance de ce système triadique [21 :00] parce que si vous
+comparez avec, en gros, un contemporain de Peirce qui lui est bien connu en France, Saussure --
+
+                                                                                                        5
+
+il n’est pas français, mais il est bien connu en France. [Rires] -- Eh bien, il est bien connu que
+toute la théorie du signe de Peirce a pour fondement une espèce de distinction duelle : signifiant -
+signifié ...
+
+Un étudiant : Pour Saussure !
+
+Deleuze : Pour Saussure, pardon ... j’ai dit… Eh oui ! Voyez qu’il est relativement important
+déjà pour nous que Peirce ne peut absolument pas s’inscrire dans cette, dans une pareille lignée.
+D’où l’importance de son idée de Tiercéité. Il n’y a pas de place pour du signifié, du signifiant,
+tout ça. C’est, c’est une toute autre atmosphère, bon. Mais ouf, [22 :00] des exemples quoi, je
+veux dire, on réclame des exemples. Le présentateur français du livre, dont je vous ai dit à quel
+point il était excellent, en donne un, mais un qui est évidement inquiétant puisqu’il va prendre un
+exemple linguistique. Et moi, je tiens beaucoup aussi, je vous rappelle, à l’idée que pour Peirce,
+il n’y a pas de différence de nature entre des signes qui seraient naturels et des signes qui seraient
+conventionnels.
+
+Donc il nous faudra au moins deux exemples ; à nous d’en trouver un autre. D’après l’exemple
+du commentateur-là, de [Gérard] Deledalle, il prend un mot, et il dit : prenons le mot
+« grenade ». Voilà : c’est un signe. [Deleuze écrit au tableau] En quel sens ? Le
+« representamen », [23 :00] c’est le mot considéré en lui-même, ce que les linguistes
+appelleraient : « l’image verbale », quoi. Le mot prétend valoir pour quelque chose, ce quelque
+chose étant une autre image. Ah oui, mais quoi ? Quoi ? Je peux dire l’objet, eh ben, c’est une
+ville. [Deleuze écrit au tableau] Dans d’autres cas, je peux dire, l’objet, c’est un fruit. [Deleuze
+écrit au tableau] Dans d’autres cas encore, je peux dire l’objet, c’est une arme.
+
+Qu’est-ce qui me fait choisir ? Ce qui me fait sélectionner, [24 :00] c’est les interprétants. A
+savoir, par exemple, tout un contexte verbal où il est question de l’Espagne, des villes
+espagnoles, de ce qu’il y a dans les villes espagnoles. Je me repère avec cette suite
+d’interprétants, je me repère et je dis, quand j’entends le mot « grenade », l’objet, c’est la ville ! -
+- [Deleuze parle à voix très basse] J’espère que c’est en Espagne [Rires], je me méfie, je me
+méfie de tout maintenant, bon -- Si j’entends en revanche, si j’ai une série d’interprétants du
+type : manifestation, policiers, etc. je me dis : c’est l’arme, [25 :00] c’est l’arme, alors si
+j’entends « une grenade à grenade », j’ai un court-circuitage de deux séries d’interprétants, bon,
+etc. Voyez ce que Peirce veut dire lorsqu’il dit le « un » du signe ne se rapporte au « deux » que
+par l’intermédiaire des interprétants, que par l’intermédiaire de trois. On peut dire une chose
+toute simple. En effet, si j’en reste à un, deux, l’objet sera forcément incomplet pour le moins.
+Ou bien il restera indéterminé, c’est-à-dire disjonctif. C’est ou bien une ville, ou bien un fruit, ou
+bien une arme, ou bien il restera incomplet. [26 :00] C’est donc seulement le trois, c’est-à-dire
+les interprétants qui rapportent complètement un à deux et, par-là, rend la relation efficiente,
+opératoire. Donc il est en train de tenir son pari.
+
+Je dis, moi, j’ai besoin d’un exemple de signes naturels parce que je tiens beaucoup à, parce que
+il n’y a pas de différence entre les signes naturels et les signes conventionnels, c’est très bien si
+vous comprenez ça, ça supprime déjà toutes sortes de problèmes linguistiques. Il y a des
+différences, mais elles surviennent à, de tout à fait d’autres, à des niveaux très bas, quoi ... très ...
+Voilà, voilà je marche, je marche dans la forêt, et je vois une trace ; une trace, c’est un signe. Je
+
+                                                                                                          6
+
+dis, la trace en elle-même, [27 :00] la trace en elle-même, ce n’est pas un « representamen » dans
+le langage de Peirce. C’est un signe, l’objet. Je dis : cette trace a été laissée par une bête ; une
+bête est passée par là, bon. L’image de bête est l’objet du « representamen », trace. D’accord,
+ouais. Et puis une bête, c’est l’objet, mais l’objet incomplet.
+
+Qu’est-ce qu’il me faudra ? Eh ben, par exemple, il faudra une chaîne d’interprétants, [28 :00]
+pas mammifères : oiseaux. [Deleuze écrit au tableau] J’exclus, voyez toute une série qui me
+conduirait à mammifère. Non, c’est un oiseau [Pause] que j’enchaîne avec d’autres interprétants.
+La trace me renvoie à ..., [Deleuze écrit au tableau] si je suis très, très fin, elle a été faite la nuit ;
+ce n’est pas une trace de jour. Donc j’ai déjà une chaîne d’interprétants : oiseau, nocturne. Bon,
+ça peut continuer : rapace, mangeur d’homme, [Rires] etc., etc., etc. [29 :00] Voyez que là aussi,
+mon objet reste incomplet si il n’y a pas l’interprétant et la chaîne des interprétants qui ramène
+un à deux. Voilà donc ce que c’est que un signe pour Peirce.
+
+Donc je dis bien, pour Peirce, un signe, on a quand même beaucoup avancé là, c’est une image
+spéciale en ce sens que nominalement, elle rend… C’est toujours une Tiercéité. Nominalement
+elle rend les relations qui appartiennent à la Tiercéité opératoires ou efficientes, réellement elles
+consistent en une organisation particulière. C’est une Tiercéité qui consiste en ceci et uniquement
+en ceci, [30 :00] et c’est seulement dans ce cas que l’on parlera de signe : une image qui vaut
+pour une autre image par l’intermédiaire d’autres images. D’accord ? C’est compris ça parce que,
+va en surgir, va en surgir évidemment – [Deleuze est distrait par quelque chose et parle tout bas]
+non elle ne marche pas ? – [L’attention revient au sujet] Ah bon. Quoi ? ... Je veux un autre
+exemple ? [Pause] S’il est très court, pardon, parce que je voudrais passer vraiment à ... [Il
+s’adresse à l’étudiant] Oui, donnes-en un si tu veux ... Ouais ?
+
+Une étudiante : Le drapeau français est comme vous savez bleu, blanc, rouge ...
+
+Deleuze : Non, je ne savais pas. [Rires]
+
+L’étudiante : Le bleu, le bleu, [31 :00] ça représente tout à la fois, la liberté et la noblesse ou la
+bourgeoisie devenue noble, enfin le bleu ou aujourd’hui la droite. Le rouge, cela représente à la
+fois l’égalité et le peuple. Et le blanc, ça représente le roi. C’est la manière dont le drapeau a été
+constitué sous la Révolution française. C’est-à-dire que le drapeau a été constitué de telle
+manière que le roi ou maintenant l’état maintienne en permanence l’équilibre entre les riches et
+les pauvres, ou bien les aristocrates plus les bourgeois d’un côté et le peuple, ça se démerde pour
+que ça ne bouge pas, et que l’état soit un stabilisateur de la société. Et si le drapeau était
+réellement : liberté - égalité – fraternité, comme on le dit en France, il devrait être bleu - jaune -
+rouge, et à ce moment-là, on s’aperçoit que les trois couleurs se composent dans le blanc [32 :00]
+et que le peuple entier devient Roi. [Rires]
+
+Deleuze : Pourquoi pas. Mais à mon avis, c’est une Tiercéité, ce n’est pas un signe, ça ! Le
+drapeau est bien un signe, mais dans ton histoire, d’un tout autre point de vue, mais dans ton
+histoire, bleu - blanc – rouge, tu ne peux pas fixer un « representamen », un objet et des
+interprétants ...
+
+                                                                                                      7
+
+L’étudiante : Comment, mais si, mais si, c’est évident : le « representamen », c’est le drapeau
+hein ? L’objet, c’est l’équilibre politique qui est choisi de maintenir, bon, dans la société, et
+l’interprétant, c’est avec quoi tout ça a été constitué, comme on sait, par exemple, que les
+couleurs dans la franc-maçonnerie étaient le bleu et le jaune, c’est-à-dire : liberté plus
+fraternité…
+
+Deleuze : Ouais, ben oui, il complique ton exemple. Ben, d’accord, si ... D’accord, d’accord.
+Mais il est compliqué.
+
+Un étudiant : Mais finalement, quand même, c’est important, cet exemple parce qu’il y a des
+exemples où on passe par les concepts, alors c’est pratique. [33 :00] Mais quand on est, quand on
+est face à un code analogique, à une expression analogique, c’est toujours fragmentaire, quoi, ou
+alors il faut que l’expression soit très formalisée.
+
+Deleuze : Ouais, ouais, ouais.
+
+L’étudiant : …sinon la série, la série interprétante, ...
+
+Deleuze : Oui, mais alors quitte à faire de la formalisation, il faudrait la faire symboliquement ;
+on ne pourrait plus la faire, par exemple… c’est ce qu’il fait d’ailleurs, Peirce.
+
+Alors du coup, vous comprenez, sa liste de signes, vous allez voir dans quel... Comprenez tout de
+suite dans quel truc il se trouve… Il se trouve devant ... Je vais écrire là ... [Deleuze écrit au
+tableau] C’est pour ça que c’est très important là. Je demande à ceux qui suivent vraiment de
+prendre ce tableau en note parce qu’on en aura tellement besoin quand j’en viendrai à ... à ce que
+je voudrais faire [34 :00] là et que… [Deleuze écrit au tableau] On en est là. J’ai, d’un côté,
+Priméité, Secondéité, Tiercéité. Je peux dire, ce sont les trois cas d’image-mouvement. Mais
+enfin puisqu’on en est dans Peirce, il y a dans son vocabulaire, lui, il appelle ça, je l’avais dit dès
+le début, non pas « phénomène », il éprouve le besoin de prendre un autre mot pour ne pas être
+confondu avec la phénoménologie, il appelle ça : « phaneron », les « phaneron ». Bon, on l’a vu,
+le mot « phaneron » m’intéressait puisque, finalement, ça me paraissait être traductible
+par « image-lumière », et puis on avait [35 :00] vu que les images-lumière et les imagesmouvement, pour nous, c’était pareil. Donc de toute façon, c’est, en gros, le monde des
+phénomènes ou des images, l’image : c’est le phénomène, c’est le « phaneron », c’est tout ce que
+vous voulez. Eh bien, donc l’image, hein ? Selon Peirce, trois types : Priméité, Secondéité,
+Tiercéité.
+
+Si je fais maintenant ce type d’image très spéciale dans l’autre sens, signe, ce n’est donc plus les
+images, c’est les signes. Je vois que ils ont une Priméité spéciale : le « representamen » ; une
+Secondéité spéciale : l’objet ; une Tiercéité spéciale : [36 :00] l’interprétant. Le signe est luimême une Tiercéité puisque, on l’a vu, sa Priméité et sa Secondéité supposent la Tiercéité, ce qui
+est le propre de toute Tiercéité. Bien, pour avoir le tableau des signes, enfin le tableau le plus
+simple -- parce que ça se compliquera mais il faut… nous, on ne s’en occupera plus, parce que ...
+et encore ... il suffit ... -- Et on peut prévoir combien on va avoir de grandes classes de signes.
+[Pause très longue, Deleuze écrit au tableau] En d’autres termes, je suis en droit de m’attendre à
+neuf [37 :00] classes de signes ... Alors commençons par ... Qu’est-ce que je vais dire ? [Le
+
+                                                                                                         8
+
+tableau que Deleuze développe par la suite reprend la répartition lors du séminaire précédent,
+séance 12, le 9 mars 1982 ; voir la répartition reproduite ci-dessous, en fin de cette séance]
+
+Ma question… j’envisage donc le signe en lui-même. En d’autres termes, je pose la question,
+pour toute cette rubrique, toute cette tranche, je pose la question : dans le signe, qu’est-ce qui
+« fait signe » ? Qu’est-ce qui « fait signe » ? [Pause] Ma réponse, c’est :
+
+Premier cas : ce qui fait signe, ce peut être [38 :00] une qualité pure, une qualité pure. Si c’est le
+cas, je l’appellerai un « qualisigne ». Lorsqu’un signe en lui-même est tel que ce qui fait signe
+c’est une qualité, nous nous trouvons en présence d’un « qualisigne ». Vous me direz : il n’y a
+pas de qualisigne pur d’avance. Peut-être, peut-être pas. S’il n’y a pas de qualisigne pur, ça ne
+fait rien. On appellera « qualisigne » ceux où cet aspect domine. Il est même probable que ça,
+c’est des signes purs qui ne sont jamais effectués. Ce qui est effectué : [39 :00] c’est des
+combinaisons de signes. Or ce qui est très important, c’est que certaines combinaisons ne sont
+pas effectuables. Bon. Ce qui fait signe, c’est une qualité ; dans ce cas-là, je parlerai d’un
+qualisigne.
+
+Supposons que ce qui fasse signe, c’est un état de choses, non pas une qualité pure, mais un état
+de choses qui comporte plusieurs qualités, des qualités actuelles, actualisées. On va tout de suite
+prendre, tout à l’heure on va prendre un exemple, mais je suis forcé de commencer par l’abstrait.
+Je dirais suivant Peirce que là, lorsque ce qui fait signe, c’est [40 :00] une qualité, mais une
+qualité effectuée, actualisée dans un état de choses, actualisée dans une chose, c’est un -- chose
+individuelle forcément -- un état de choses individué ou une chose individuelle, c’est un
+« sinsigne », S-I-N, signe. Pourquoi le préfixe « sin » ici ? -- Peirce l’explique -- est le même que
+pour singulier, un état de choses individué ou individuel.
+
+Troisième réponse possible : ce qui fait signe, c’est une loi, c’est une loi [Deleuze écrit au
+tableau] Alors pardon, quelle erreur je faisais ; [41 :00] c’est un « légisigne », c’est un
+« légisigne ». Prenons un exemple. Je peux dire le vert est signe d’espérance, le vert est signe
+d’espérance ; que ce soit vrai ou faux, peu importe, hein ? « Le vert est un signe d’espérance »
+est une proposition où le vert est un qualisigne. Je considère, en effet, le vert comme signe
+d’espérance, et je considère le vert comme qualité pure, qu’elle soit effectuée, qu’elle ne soit pas
+effectuée. [Pause] Quand je dis -- autre proposition – [42 :00] « la vache reconnaît ce qui est bon
+à manger par le vert », c’est-à-dire, elle mange de l’herbe, je considère cette fois-ci le vert
+comme effectué dans un état de choses : prairie, le vert de la prairie. La vache ne confond pas le
+vert de la prairie avec, en tant qu’il est effectué, avec du vert couleur, pure qualité. Donc ce qui
+fait signe à la vache lorsqu’on la lâche dans la prairie et qu’elle baisse à tête puissante, obéissant
+par-là, et montrant qu’elle a saisi un signe, et qu’elle se met à mâcher… [Interruption de
+l’enregistrement] [42 :50]
+
+… ce qui me fait signe, c’est un sinsigne. [Longue pause] Je passe au feu vert. C’est un légisigne.
+Le vert fonctionne là comme un légisigne. Il y a en effet une loi, dans ce cas, loi conventionnelle
+d’après laquelle le rouge signifie l’arrêt de la voiture et le vert signifie le passage de la voiture.
+Bon. C’est bien une loi conventionnelle puisque pour le piéton, c’est l’inverse. Il passe au rouge,
+c’est lui, le rouge, qui fonctionne comme légisigne de passage. Bon. Très bien.
+
+                                                                                                       9
+
+Reprenons cet exemple du feu vert. Pour vous montrer, vous devez bien pressentir qu’il y a bien
+des problèmes parce que tous les signes concrets que je pourrais [44 :00] analyser, est-ce qu’ils
+n’ont pas plusieurs aspects ? Il y a bien un aspect par lequel le feu vert est un « qualisigne ». Ce
+n’est pas étonnant, puisque finalement tout signe est une Tiercéité. Et aussi dans le feu vert, le
+vert ne vaut pas simplement par sa qualité, le vert, il vaut en tant qu’effectué dans un état de
+choses, le rond dans un poteau avec un autre feu qui lui sera rouge. Enfin, c’est un légisigne. Un
+signe étant donné, vous pouvez toujours vous demander, qu’est-ce qu’il est en premier lieu ?
+Mais aussi à quels autres types de signes participent-ils ? Voilà.
+
+On a donc notre premier série. [45 :00] Je dirais que le qualisigne, c’est le signe en lui-même de
+la Priméité ; le sinsigne, c’est le signe pris en lui-même de la Secondéité ; le légisigne, c’est le
+signe pris en lui-même de la Tiercéité. D’accord ? Là-dedans, je remarque que les trois termes
+sont créés par Peirce, et là, il ne s’est pas beaucoup fatigué pour créer parce qu’il l’a fait, il l’a
+transformé en préfixe, parce que je pense toujours à ça quant à ce problème annexe : dans quel
+cas et comment est-il nécessaire pour un philosophe de créer de nouveaux termes ? Dans quel cas
+est-ce qu’il peut se contenter de termes déjà connus ?
+
+Passons au deuxième aspect du signe. Cette fois-ci, je [46 :00] considère le signe non plus en luimême, non plus la question qu’est-ce qui fait signe, mais je le considère par rapport à son objet,
+sous la question : de quel type est le rapport du signe avec son objet supposé ? Du point de vue
+de la Priméité, je dirais qu’il y a certains signes qui renvoient à leurs objets, à leur objet, par des
+qualités qui leurs sont intrinsèques, [Pause] par des qualités qui leur sont intrinsèques. Vous
+comprenez tout à fait que, dans ce cas-là, le rapport du signe [47 :00] à son objet est saisi sous
+l’espèce de la Priméité. C’est par des qualités intrinsèques que le signe renvoie à son objet.
+Exemple, un tel signe, oui, je l’appellerais selon Peirce une « icône ». Une « icône » est selon lui,
+un signe qui renvoie à son objet -- enfin ça, il faut que vous vous ... en tous cas, ceux qui, il faut
+à tout prix que vous vous rappeliez tout ça parce que, comme nous, on va donner ensuite un sens
+très différent à toutes ces notions, il faut que… ben oui, je veux dire, c’est du niveau d’une
+espèce d’axiomatique, on a le droit, on a le droit… -- Or une icône vous voyez, c’est, en effet, ça
+paraît coller, sa définition de l’icône, parce que ... [48 :00] bien, exemple en effet d’un signe qui
+renvoie à son objet par des qualités qui lui sont intrinsèques, à lui signe ; ben, une photo, une
+photo, c’est par ses qualités intrinsèques qu’elle renvoie au modèle.
+
+Mais je dirais plus : une figure géométrique, est-ce que ce n’est pas une icône aussi ? Une figure
+géométrique sous quelle forme ? Il faut faire attention ; le triangle que je trace au tableau, un
+triangle que je trace au tableau est un signe qui renvoie à son objet. L’image du triangle, par des
+qualités qui lui sont intrinsèques. Il ne faudra pas s’étonner que -- là je ne veux pas du tout
+développer les théories de Peirce à ce point-là – [49 :00] que Peirce dise, par exemple, que
+quelque chose comme les diagrammes sont des cas d’icônes. En tous cas, vous voyez, l’icône, eh
+bien, du point de vue du rapport du signe à son objet est bien le signe de Priméité, non plus du
+point de vue de la question de ce qui fait signe, mais du point de vue de l’autre question, de la
+seconde question : « quel rapport y a-t-il entre le signe et l’objet ? »
+
+Du point de vue de la Secondéité, le rapport du signe à l’objet peut être tel que le signe
+n’existerait pas, n’existerait pas en tant que signe, sans son objet, [50 :00] c’est-à-dire sans
+l’existence de son objet. Donc le signe, cette fois-ci, se rapporte à son objet en vertu de
+
+                                                                                                      10
+
+l’existence supposée de l’objet même. [Pause] Je dis, par exemple, la fumée est signe du feu.
+[Pause] Un tel signe se rapporte à son objet par et dans la supposition de l’existence de l’objet, je
+l’appelle, ou plutôt Peirce l’appelle, un « indice », [51 :00] et il nous dit, la fumée est l’indice du
+feu. En d’autres termes, le signe est là signe de quelque chose de posé comme existant. Vous
+voyez bien que c’est bien de la Secondéité puisque la Secondéité, son état naturel, c’était, vous
+vous rappelez, le duel. L’indice est un cas de duel ou de relation dyade, ou dyade. Le signe
+renvoie à, etc.
+
+Troisièmement, le rapport du signe à l’objet est réglé par une loi, loi naturelle ou
+conventionnelle. C’est ce que Peirce appellera un « symbole ». [Pause] [52 :00] Et du point de
+vue des interprétants, [Pause] eh bien, les interprétants, c’est donc, vous vous rappelez, ceux par
+l’intermédiaire de quoi... c’est la Tiercéité du signe, ceux par l’intermédiaire de quoi, le tiers par
+quoi le « representamen » rend opératoire, rend efficiente la relation qu’il a avec l’objet. Et en
+effet, il y a trois interprétants. [53 :00] Non seulement l’interprétant, c’est la tiercéité du signe,
+mais il y a trois interprétants. Il y a un interprétant -- et là, alors, comme je voudrais quand même
+aller vite -- je précise que Peirce lui-même dans ses textes successifs dit – ah, là c’est terrible,
+c’est très difficile, ce n’est pas au point – il n’a pas cessé de varier, il n’a pas cessé de varier
+parce que ... et puis, ça l’intéressait beaucoup, et puis il a fini par trouver plein d’interprétants, de
+types d’interprétants alors, dont je dis bien moi que je m’en tiens, moi, à des choses très, très
+élémentaires. Mais c’est déjà, c’est déjà assez varié comme ça.
+
+Il y a un interprétant que l’on pourrait appeler l’ « interprétant immédiat du signe ». Il l’appelle :
+l’interprétant immédiat du signe. [Pause] [54 :00] Et l’interprétant immédiat du signe, c’est la
+signification. [Pause] Signification, ça veut dire quoi ? Pourquoi est-ce que c’est la
+signification ? Parce que c’est hypothétique ; ça n’est ni vrai, ni faux. C’est le domaine de ce qui
+n’est ni vrai, ni faux. Le mot « grenade », son interprétant immédiate, c’est : ville, arme ou fruit,
+point d’interrogation. Vous voyez que c’est l’ensemble des significations du mot, c’est
+hypothétique puisque je ne sais pas, je n’ai aucune raison de choisir, et [55 :00] ça n’est ni vrai ni
+faux.
+
+Dans le langage, on dirait que l’interprétant immédiat, c’est le mot. Un mot n’est ni vrai ni faux,
+il témoigne d’une possibilité. C’est comme on dirait une fonction propositionnelle. C’est
+hypothétique, c’est tout ce que vous voulez. Eh bien, l’interprétant immédiat, il l’appelle très
+mystérieusement, il l’appelle : un « rhème ». Pourquoi il appelle ça un « rhème » ? A ma
+connaissance, parce que [56 :00] j’ai bien regardé les textes anglais, les textes américains, je ne
+vois pas de justification du mot, parce que le mot, en gros, dérive du grec, et implique un
+devenir, un écoulement. Et lui, il emploie « rhème » pour, comme l’équivalent du mot ou
+l’interprétant immédiat, de la signification en tant qu’elle n’est ni vraie ni fausse. Je ne vois pas
+très bien. Je ne sais pas. Quoi ... ?
+
+Une étudiante : [Propos inaudibles]
+
+Deleuze : Il ne connaît pas ! L’objet en devenir, il ne connaît pas, il ne connaît pas l’objet en
+devenir.
+
+L’étudiante : [Propos inaudibles]
+
+                                                                                                    11
+
+Deleuze : Ah, d’accord, oui, non, non, mais notre discussion portait sur ce qu’il a dans la tête,
+lui. [57 :00] Lui, il ne connaît qu’une chose : c’est le possible. En effet, puisque la Priméité, vous
+vous rappelez, oui, ça c’était, c’est du domaine du possible. La Secondéité, c’est du domaine du
+réel ou de l’existant. La Tiercéité, c’est du domaine du nécessaire. [Deleuze écrit au tableau]
+Lui, il ne connaît que le possible. Alors le « rhème », c’est bien une figure du possible. Alors
+pourquoi il a choisi ce mot ? Enfin ça m’échappe complètement, puis ce n’est pas très, très
+important.
+
+Pour le reste, ça va mieux parce que, qu’est-ce qu’il y a d’autre que l’interprétant immédiat ? Il y
+a ce qu’il appelle l’interprétant dynamique. Et là alors, l’interprétant dynamique, on s’y retrouve
+davantage parce que je me demande -- là j’ai un doute -- est-ce que je ne force pas, est-ce que je
+suis bien fidèle ? [58 :00] Mais enfin pour en finir, pour moi, il me semble que ça correspondrait
+tout à fait à ce que nous avons appelé : relation naturelle. C’est la relation naturelle.
+L’interprétant dynamique, c’est l’ensemble des images auxquelles la première image s’associe
+naturellement.
+
+Un étudiant : [Propos inaudibles]
+
+Deleuze : Non, elles ne sont pas données avec elle, mais la relation naturelle fait que l’esprit
+passe de l’image qui est donnée à ces images qui n’étaient pas données. Et comment il va faire ?
+Eh ben, en formant une proposition. C’est la proposition, en effet. Dans l’interprétant immédiat,
+[59 :00] nous avions un équivalent d’un mot ; dans l’interprétant dynamique, nous avons
+l’équivalent d’une proposition. C’est la proposition qui va déterminer l’ensemble des images par
+l’intermédiaire desquelles l’image 1 renvoie à son objet. « Grenade est une ville espagnole »,
+proposition ; vous voyez que « ville », « Espagne », sont les interprétants dynamiques par
+lesquels le mot : « grenade » renvoie à l’objet, la ville située en Espagne. J’ai donc une série
+d’interprétants dynamiques, c’est-à-dire de relations naturelles : « grenade » me fait penser à
+« ville », [60 :00] me fait penser à « Espagne », etc. J’ai une série d’interprétants dynamiques qui
+est rapportée.
+
+Donc je peux dire que pour moi, c’est des relations naturelles, l’interprétant dynamique, et c’est
+très normal [Deleuze écrit au tableau] qu’elles deviennent opératoires dans la proposition qui,
+elle, contrairement au vrai, au mot, la proposition est la possibilité de quelque chose de vrai ou
+de faux. Ce qui sera vrai ou faux, c’est le jugement qui affirme ou nie la proposition. [Pause]
+[61 :00] – Mais non, je suis complètement… Proposition, eh oui, c’est le dicisigne... Oui, oui,
+parce que je n’ai pas encore donné le nom du signe. Je dis, c’est l’équivalent, etc. -- Ce signe
+correspondant à l’interprétant, à -- je commence à m’embrouiller -- correspondant donc aux
+relations naturelles présentes dans une proposition, il l’appelle le : dicisigne, D-I-C-I-signe, c’est
+le dicisigne. [Pause]
+
+Et enfin, il y a ce qu’il appelle l’interprétant final. Voyez : interprétant immédiat, interprétant
+dynamique, interprétant final. L’interprétant final, eh ben, c’est ce qui [62 :00] est évidemment
+sur un autre plan, mais qui doit bien d’une certaine manière clore la série, parce que sinon, la
+série des interprétants dynamiques, elle va à l’infini. Et comme dit Peirce, toute pensée renvoie à
+une autre pensée qui renvoie à une autre pensée, etc., à l’infini. Mais à un autre niveau, il y a
+bien une clôture.
+
+                                                                                                      12
+
+Moi, j’aurais envie de dire, parce que ça serait trop beau pour nous, mais -- il n’y pas de raison
+que ce soit bien pour nous -- que ça, pour moi, je n’arrive pas à comprendre. Je n’arrive pas à
+comprendre ce qu’il veut dire Peirce, [Deleuze écrit au tableau] ce n’est pas fait … Parce que je
+dis, au point où nous en sommes, il n’y a qu’une manière, là, ça ne peut être que du domaine des
+relations abstraites. Et en effet, il semble dire, puisque le signe va être nommé « argument »,
+[63 :00] « argument », et que, de même que le « rhème » correspondait vaguement au « mot » en
+linguistique, et que le « dicisigne » correspondait vaguement à la « proposition » en linguistique,
+voilà que l’argument correspond, en effet, au raisonnement, au syllogisme. Donc là, je peux dire,
+et me sentir plus fort pour dire, eh ben oui, c’est le domaine de ce que l’on avait analysé la
+dernière fois sous le nom des relations abstraites.
+
+Malheur ! Il maintient dans toutes sortes de textes, mais en lisant c’est d’une difficulté, que
+l’interprétant final, c’est, dit-il, l’habitude, l’habitude, l’habitus, l’habitude. Les textes deviennent
+très difficiles [64 :00] parce que ... Moi, il me paraissait évident que l’habitude, c’est précisément
+ce qui me fait passer d’un terme à l’autre dans la série des interprétants dynamiques. Pour lui :
+non. Quelle conception il se fait de l’habitude ? Là ça devient atroce. On, on retrouve, en effet là,
+tout un aspect de la philosophie, en effet, anglaise et américaine très important -- ça m’est égal,
+ça m’est égal ; ça, je n’y arrive pas, je ne m’y débrouille plus -- Me suffit que, au moins par un
+aspect, c’est peut-être l’habitude, peut-être l’habitude, mais alors une conception radicalement
+nouvelle de l’habitude, mais, c’était aussi le tissu des relations abstraites présentées dans
+l’argument. Eh bien vous voyez, vous voyez, c’est ce tableau qu’il faut prendre… Nous avons
+sept, huit, neuf ! Voyez que si on [65 :00] continuait, mais là je vais m’arrêter parce qu’il faut
+passer à autre chose.
+
+Là j’ai mes signes purs ou ce que je pourrais appeler des grands signes. Tout signe est une
+combinaison. Déjà vous pouvez penser à combien de combinaisons sont possibles. Mais parmi
+les combinaisons possible, il y en a d’ineffectuables. Pourquoi ? Parce que, par exemple, tout le
+domaine de la Priméité ne peut pas se combiner avec n’importe quoi. [Pause] Je prends un
+exemple. Il nous dira, est très possible un qualisigne iconique rhématique, hein ? A partir de là,
+on est en pleine gaité parce que là ... Alors Peirce -- Vous comprenez tout ce que je vous raconte,
+ce n’est que le début [66 :00] de Peirce. -- Alors bon, là, il ne donne pas de nom. Parfois il donne
+un nom, hein ? Et pour le qualisigne iconique rhématique, c’est un des plus beaux, en tous cas,
+c’est le premier, ça, c’est possible ! Mais il y a des cas complètement impossibles. Bon. Et puis à
+la fin de sa vie, plus il avançait, moins ça le satisfaisait, tout ça. Alors il a multiplié les rubriques
+là parce que les trois interprétants, il s’est aperçu que le signe avait, peu importe pourquoi, deux
+objets et trois interprétants, qu’on a mis là, nous, mais lui, il s’est mis à les mettre là ! [Deleuze
+indique le tableau] Alors il avait deux objets et trois interprétants. [Interruption de
+l’enregistrement] [1 :06 :48]
+
+… Du coup, il a obtenu beaucoup plus de signes. Ça finissait fantastique ; manifestement son
+rêve, c’était de faire une classification à quatre mille, cinq mille signes. [67 :00] Alors bon, c’est
+ce que l’on appelle l’œuvre d’une vie. Mais en même temps, il faisait de la logique formelle. Il
+mettait tout ça, il formalisait tout ça, c’est une œuvre très extraordinaire, bon. Rideau, parce que
+nous voilà alors devant le problème et ben, là, nous, je veux dire, ce n’est pas que... On ne peut
+pas rivaliser avec un philosophe comme ça, il ne s’agit pas, il s’agit pas du tout de ça.
+
+                                                                                                   13
+
+Mais nous, et ce n’est pas des objections. Quand j’essaye de vous le dire tout le temps, quand
+vous lisez quelque chose, n’importe quoi, par exemple, il y a des choses qui vous servent et puis,
+vous dites, ça c’est pour moi, et puis il y des choses qui ne sont pas pour moi, bon. Quand vous
+écoutez, quand vous écoutez un cours, il y des trucs pour vous et des trucs pas pour vous. Ça fait
+partie des mystères ça. Pourquoi est-ce que c’est pour nous, pourquoi est-ce que ce n’est pas pour
+nous ? Personne ne le saura. Bon. Si, peut-être, mais il faudrait bien chercher. C’est, c’est
+vraiment là le problème de l’affinité des concepts. [68 :00]
+
+Eh ben, donc moi, je ne me permets aucune objection quoi ; c’est apprendre à se taire pour aller
+plus vite. Je me dis juste, qu’est-ce qui, qu’est-ce qui me va, qu’est-ce qui ne me va pas làdedans ? Je l’ai déjà dit la dernière fois, c’est que, je précise juste déjà, qu’est-ce qui peut
+m’aller, qu’est-ce qui ne me va pas. Je remarque, et je me dis : et mon image-perception, et mon
+image-perception, il n’y a pas de place pour elle là-dedans.
+
+Ce qui me paraît évident, c’est que pour moi, encore une fois, si vous consentez à ce que ce ne
+soit pas une objection, il en dit trop, et il n’en dit pas assez. D’un côté, il en dit trop parce que
+pour le moment, moi je n’aurais rien à faire de la Tiercéité. Evidemment c’est gênant parce qu’il
+se dit, ceux qui ne comprennent pas la Tiercéité, ils ne comprennent rien. Mais moi, j’en aurais à
+faire pour autre chose de la Tiercéité. Mais, en revanche, j’aurais [69 :00] rudement besoin d’un,
+de quelque chose. Car, en effet, c’est effarant quand même.
+
+Là je peux dire, il exagère, Peirce parce qu’il se donne, lui, ces trois images, là-haut, Priméité,
+Secondéité, Tiercéité. Il nous dit, le « phaneron », c’est-à-dire l’Apparaître, est organisé comme
+ça, et allez-vous faire voir ! Mais ce n’est pas bien du tout ça ! D’où elles viennent ? Qu’est-ce
+qui va rendre compte de cette triple racine du « phaneron », de cette différenciation du
+« phaneron » ? Il ne nous le dit pas. C’est comme ça parce que c’est comme ça. Mais moi je ne
+veux pas ! Je voudrais que ce soit clairement indiqué, et vous voyez pourquoi. Il n’y aura aucune
+analyse chez lui du « phaneron », mais nous -- alors il a le droit -- mais nous, on est forcé parce
+que nous, on n’est pas parti du [70 :00] « phaneron » comme ça. On est parti d’une longue
+description de l’image-mouvement ou de l’image-lumière. C’est-à-dire notre « phaneron » à
+nous, on en a fait une très longue description.
+
+Donc notre image-mouvement, notre image-lumière à nous, elle avait déjà une parfaite
+consistance. Bien plus, elle s’étalait sur tout un plan d’immanence, si vous vous rappelez. D’où
+nécessité pour nous de rendre compte de la différenciation des images de Priméité, de Secondéité
+et même de Tiercéité. En d’autres termes, il nous faut quelque chose qui rende compte de cette
+différenciation, en d’autres termes, une racine de la différenciation, un, deux, trois. Il nous faut
+quelque chose qui ne soit [71 :00] déjà plus l’image-mouvement, et qui ne soit pas encore ni de
+la Priméité, ni de la Secondéité, ni de la Tiercéité. Quel autre mot voulez-vous lui donner que
+« Zéroité » ? Donc il faut là une Zéroité qui, elle-même, aura des signes. Mais alors, si on fait ça
+... Bien plus, puis si pour d’autres raisons, on est amené à repousser provisoirement la Tiercéité,
+qu’est-ce que ce sera un signe alors pour nous ? Il faudra évidemment que ce soit tout à fait autre
+chose.
+
+Je veux dire ceci, et c’est ma première remarque : [Pause] [72 :00] il me semble que il n’en dit
+pas assez ; il n’en dit pas assez. Si je résume, c’est parce qu’il n’y a pas chez lui d’engendrement
+
+                                                                                                  14
+
+des variétés d’images. [Pause] Nous, il nous faut un degré zéro qui explique comment et
+pourquoi l’image-mouvement donne lieu à de la Priméité et de la Secondéité. [Pause] En
+d’autres termes, il nous faut une zone qui rende compte [73 :00] de la naissance des images
+spéciales au sein et dans l’univers de l’image-mouvement ou de l’image-lumière. Or on a vu, si
+vous vous rapportez à ce que l’on a fait au tout début de l’année, on l’a vu ça. Qu’est-ce qui
+assure le passage de l’image-mouvement aux images spéciales, et qui donc est à la fois une
+image spéciale déjà et encore participe au plan de l’image-mouvement ? C’était précisément
+l’image-perception.
+
+Et pourquoi l’image-perception avait-elle ce privilège ? Là il faut le rappeler, sinon ça n’a aucun
+sens, l’image-perception avait ce privilège parce qu’elle participait à un [74 :00] double système.
+Elle était inséparable d’un double système. Elle participait premièrement au système des imagemouvements qui varient toutes les unes par rapport aux autres sur toutes leurs faces et dans
+toutes leurs parties, et en ce sens, toutes les images, quelles qu’elles fussent, étaient des
+perceptions en soi. Et l’atome était une perception en ce sens qu’il était la perception de toutes
+les actions qu’il subissait et de toutes les actions qu’il opérait sur ce plan d’immanence des
+images-mouvement.
+
+Donc je dis que l’image-perception, par un de ses pôles, renvoyait au monde des imagesmouvement et de leurs variations universelles. [75 :00] Et d’un autre côté, en même temps,
+l’image-mouvement ... l’image-perception, la perception, exprimait par son autre pôle le
+mouvement ... non, le processus par lequel le système des images-mouvement allait s’organiser
+autour d’un centre d’indétermination, c’est-à-dire, où toutes les images allaient varier pour une
+seule et par rapport à une seule. Et par rapport à ce second système, je ne disais plus toutes les
+choses sont des perceptions ; je disais : quelqu’un perçoit quelque chose. Quelqu’un, un centre
+[76 :00] d’indétermination, perçoit quelque chose. Les images cessaient d’être en soi, les images
+devenaient, le « phaneron » cessait d’être en soi. Il devenait pour quelqu’un, et par rapport à
+quelqu’un, par rapport à quelqu’un qui le percevait, un sujet percevant.
+
+Mais l’image-perception ne cessait pas d’osciller d’un de ses pôles à l’autre. Exemple évident
+que l’année dernière on avait beaucoup analysé à propos du cinéma, il suffit que le sujet
+percevant -- j’ai donc mes deux systèmes ; premier système : toutes les images varient les unes
+pour les autres ; deuxième système : les images varient par rapport à une image privilégiée. C’est
+les deux pôles de l’image-perception, d’accord ? -- Mais si le sujet privilégié, si le centre
+privilégié, si l’image privilégiée se met à bouger elle-même, [77 :00] plus elle sera mise en
+mouvement, plus elle tendra à reconstituer l’universelle variation. Hein ? Très bien. [Aucune
+interruption de l’enregistrement] [1 :17 :13]
+
+Partie 2
+
+Alors, l’image-perception ne cesse pas d’osciller. C’est pour ça que je dis qu’elle est présupposée
+par la Priméité et la Secondéité, qu’elle est autre chose que l’image-mouvement et pourtant
+qu’elle n’est pas encore la Priméité. Elle va être ce qui rend possible la Priméité et la Secondéité,
+et en effet, la qualité est qualité, mais il faudra bien, d’une manière ou d’une autre, qu’elle soit
+perçue. L’action est action, mais il faudra bien, d’une certaine manière, qu’elle ne soit pas
+seulement agie, mais perçue. Donc, l’image-perception accompagnera les images [78 :00]
+
+                                                                                                  15
+
+spéciales ; elle sera elle-même une image spéciale, elle aura un très drôle de rôle. D’un côté, elle
+plonge dans l’image-mouvement pure, d’un autre côté elle est déjà une image spéciale, d’un
+troisième côté, elle accompagne les autres images spéciales. C’est pourquoi pour moi, ça impose
+une Zeroité qui renvoie à l’image-perception. Donc, moi, j’aurai en haut, on le verra plus tard,
+Zéroité, image-perception ; Priméité, image-affection ; Secondéité, image-action. Je laisse de
+côté pour le moment le problème de la Tiercéité.
+
+Mais qu’est-ce que je viens de dire ? Je viens d’affirmer que dès l’image-perception, [79 :00] il y
+avait un caractère à la fois quoi ? Un caractère génétique. Il faut bien marquer l’engendrement, la
+genèse de chaque image spéciale. Il y a donc un aspect génétique. D’un autre côté, j’ai remarqué
+qu’il y avait un aspect bipolaire de l’image-perception. Elle participe à deux systèmes : système
+de l’universelle variation, système de la variation relative à centre privil…, à une image
+privilégiée. Bon... Pour moi, voilà ce que c’est qu’un signe. Alors, il faudra dire... Bon. Un signe,
+je dirais, ben, vous comprenez... Un signe, [80 :00] c’est une image spéciale, une image
+particulière, plutôt, une image particulière qui représente un type d’image. Voilà. Un signe, c’est
+une image particulière qui représente un type d’image.
+
+J’ai donc pour le moment, moi, trois types d’images ; je ne tiens toujours pas compte de la
+Tiercéité. J’ai des images-perception, des images-affection, des images-action. Je dis, un signe,
+c’est une image particulière en tant qu’elle vaut pour un type d’image. En effet, je dirais à ce
+moment-là, ah c’est de l’image-affection, c’est une image-affection, ah c’est une image-action,
+ah c’est une image-perception. [81 :00] C’est donc une image particulière -- c’est essentiel pour
+moi -- qui représente un type d’image. Sous quel point de vue ? Je n’ai pas encore introduit
+l’histoire des interprétants. Je me la laisse de côté. Je ne peux plus, je ne peux plus.
+
+En revanche, j’ai deux points qui m’intéressent, et peut-être beaucoup plus. Comment une image
+particulière, de quel point de vue une image particulière peut-elle représenter un type d’image ?
+En apparence, de deux points de vue ou peut-être de quatre, ça dépendra à votre choix. Ça
+dépend ; si on résume, si on étend, de deux points de vue, [Pause] du point du vue de la [82 :00]
+composition bipolaire de chaque type d’image.
+
+Donc, un signe, ça sera, dans ce cas, une image particulière qui représente la composition
+bipolaire du type d’images auquel il renvoie. Evidemment les exemples, ils viendront, les
+exemples. [Pause] Vous comprenez, ça se complique, parce que déjà en les cherchant, bien, je
+peux dire, j’aurai au moins trois signes : j’aurai un signe bipolaire, un signe qui met l’accent sur
+le pôle A, et un signe qui met l’accent sur le pôle B. Moi, ça m’en fera trois par case. [83 :00] Je
+veux dire dans la course aux nombres, c’est très important, ça.
+
+L’autre aspect… [Interruption de l’enregistrement] [1 :23 :10]
+
+… [La phrase suivante manque à l’enregistrement, mais est fournie dans les transcriptions de
+Paris 8 et WebDeleuze] je dirais que le signe, c’est aussi bien une image particulière qu’il
+renvoie à un type d’image, non plus du point du vue de la composition bipolaire de ce type, mais
+cette fois-ci, du point de vue de la genèse [Reprise de l’enregistrement] de ce type. Et là, j’en
+aurais peut-être deux signes, parce que pourquoi seulement la genèse ? Également de
+l’évanouissement. Ça peut être ou l’évanouissement du signe, du type d’image… Pardon, pas
+
+                                                                                                     16
+
+d’évanouissement du signe ; le signe, sera un signe d’évanouissement ou un signe de genèse du
+type d’image auquel il renvoie. Parfois, comprenez qu’on ne peut rien décider d’avance ; ça n’a
+pas l’air, mais c’est très, très amusant. Parfois je m’apercevrais que le signe d’extinction est
+nécessairement confondu avec le signe de genèse. Parfois à ma [84 :00] stupeur, le signe
+d’extinction ne sera pas le même que le signe de genèse. Je dirais donc que par type d’images,
+j’aurai, si je prends les choses au plus juste, deux signes : un signe de composition donc
+bipolaire, [Pause] et un signe de genèse, un signe génétique. En effet, encore une fois, le signe
+sera l’image qui représentera soit la composition, soit la genèse du type d’image auquel il
+renvoie.
+
+Donc, cette définition n’a rien à avoir avec celle de Peirce, [85 :00] et pourtant on va trouver de
+signes communs, c’est parfait. Si je vais au plus long, au contraire, je dirais, il y a des cas où je
+peux concevoir cinq signes par type d’images. En effet, le signe de composition se divisera en
+trois, suivant que les deux pôles sont pris en charge ou l’un plutôt que l’autre. J’aurai donc en ce
+cas trois signes de composition. Et puis, le signe de genèse se divisera en deux, éventuellement,
+signe de genèse et signe d’extinction. [Pause] [86 :00] Donc, j’aurai au minimum deux signes
+par type d’images : Zéroité, Priméité, Secondéité, au maximum cinq signes par type d’images.
+Bon.
+
+Et, alors, pourquoi, pourquoi je laisse de côté pour le moment la Tiercéité qui pourtant sera
+essentielle ? Bon. Alors, c’est tragique, parce qu’il faut que j’aille au secrétariat. Vous tenez
+encore ou ne tenez plus ? Parce que si vous ne tenez plus, ce n’est pas la peine.
+
+Je sens qu’il faudrait que je donne un petit exemple ; ça arrangerait peut-être tout mais... Vous
+comprenez, oui, [87 :00] je donne un exemple pour que... Bon... Je prends, moi, la Second... la
+Priméité. Pour ceux qui étaient là l’année dernière, ils comprendront, et vous comprendrez
+pourquoi j’ai besoin des mots de Peirce, pourquoi j’ai le droit d’une certaine manière de leur
+donner un autre sens.
+
+Pour moi, la Priméité, c’est l’image-affection, et en effet, l’image-affection, c’est la qualité ou la
+puissance considérée en elle-même, indépendamment d’un état de choses, indépendamment d’un
+état de choses où elle s’actualiserait. D’accord, ça c’est clair. Quand vous prenez une qualité ou
+une puissance, quand vous considérez une qualité ou une puissance, indépendamment d’un état
+des choses actuel, existant, dans laquelle cette qualité s’actualise, à ce moment-là, vous vous
+trouverez devant une image-affection.
+
+Je prends un exemple, [88 :00] la frayeur. La frayeur a toujours une cause. Je suis devant un
+précipice, je suis effrayé, bon, d’accord. La frayeur a toujours une cause ; ça n’empêche pas
+qu’elle existe comme frayeur indépendamment de sa cause. Et vous pouvez la considérer
+indépendamment de toutes causes. En d’autres termes, vous pouvez la considérer
+indépendamment de tout état de choses actuel. Vous me direz, il y a toujours un état de choses
+actuel ; d’abord je n’en ne suis pas sûr, pas tellement évident, mais vous la considérez comme
+pure puissance, pure potentialité. Ça, on l’a vu avec la Priméité chez Peirce, il en conserve tout
+ça. Je dirais, voilà une image de Priméité. Bon... Alors... [89 :00] Bon, d’accord... Voilà.
+
+                                                                                                    17
+
+L’analyse que j’avais essayé de faire l’année dernière sur l’image-affection me donnait ceci,
+mais, une qualité-puissance considérée en elle-même, ça veut dire quoi ? Remarquez, là aussi, ce
+n’est pas du tout des objections. Peirce s’en contente puisque ça renvoie à une pure conscience
+immédiate, qui n’est jamais donnée. Donc, il n’a pas besoin d’autre chose. Moi, je me disais, j’ai
+besoin d’autre chose, de le définir, je ne sais pas, plus ontologiquement, moins logiquement.
+
+Je dirais, ce n’est pas difficile, c’est une qualité. C’est une qualité ou une puissance, telle qu’elle
+peut être exprimée par un visage. Elle n’est pas actualisée dans un état de choses. C’est une
+qualité-puissance en tant qu’exprimée. [90 :00] Bon. C’est même trop dire, par un visage. C’est
+une qualité-puissance exprimée et pas actualisée. Bon. Mais qu’est-ce que c’est la variable
+d’expression ? Il ne faut pas aller très loin dans l’analyse pour arriver à dire, eh ben, la variable
+d’expression, c’est un visage ou un équivalent de visage, quelque chose qui fait fonction de
+visage. Un pied peut très bien faire fonction de visage, c’est ce qu’on appellera une
+visagéification. Bon, très bien. Ou même une proposition, une proposition peut faire une fonction
+de visage. Une proposition, c’est un visage mental. La proposition, c’est un visage en tant qu’elle
+« exprime ». Exprimer n’est qu’une de ses dimension. C’est seulement sous cette dimension
+qu’une proposition est un équivalent du visage.
+
+Je dirais donc, il y a un premier signe de l’image-affection, [91 :00] et le premier signe de
+l’image-affection, c’est qualité-puissance en tant qu’exprimée, trois petits points, en tant
+qu’exprimée par un visage ou un équivalent de visage ou une proposition. J’appelle ça une
+« icône ». Donc, j’ai besoin du même mot que Peirce ; le sens est pourtant très différent. Pour
+moi, une icône sera une qualité ou une puissance en tant qu’exprimée. Sous-entendu, si elle est
+exprimée, elle ne peut l’être que par un visage, un équivalent de visage ou une proposition
+faisant fonction de visage. Voilà le signe de composition de l’image-affection. [92 :00] Ah, bon !
+C’est le signe de composition, et en effet, ce n’est pas du tout génétique. C’est de ça qu’elle est
+composée l’image-affection. Elle est composée par l’expression.
+
+D’où un soupçon : mais l’expression ou sa variable l’exprimant, c’est-à-dire le visage,
+l’équivalent de visage ou la proposition, essayons de chercher un peu, est-ce qu’il n’y a pas deux
+pôles ? Oui, il y a deux pôles. On l’avait vu, là je récapitule quelque chose pour... même j’espère
+que ceux qui n’étaient pas là l’année dernière s’y retrouvent quand même. Oui, il y a deux pôles.
+Et en effet, il y a deux pôles du visage. Le visage peut être considéré comme un contour que
+j’appellerai à ce moment-là, contour visagéifiant ; [93 :00] il est essentiellement exprimant parce
+qu’il est contour. C’est son contour qu’il est expressif. C’est le pôle de la réflexion. Le visage est
+réflexif et songeur. [Voir la note qui suit cette transcription pour quelques indices sur la lecture
+des variations dans les transcriptions à Paris 8 et WebDeleuze] [1 :33 :21]
+
+Partie 3
+
+Et puis il a un tout autre pôle, non pas contour visagéifiant, mais ensemble de traits, ensemble de
+traits discontinus : un œil qui luit, un nez qui renifle, une bouche qui s’ouvre et l’on saute de l’un
+à l’autre. Ça, je dirais que le visage est pris comme ensemble dynamique, cette fois-ci de traits de
+visagéité, et non pas de contours visagéifiants.
+
+                                                                                                     18
+
+Et en effet, j’avais essayé de montrer l’année dernière comment la [94 :00] peinture avait tout à
+fait ces deux pôles et que l’art du portrait nous présentait tantôt un pôle de contour, une
+prévalence du contour, du contour visagéifiant, et tantôt une prévalence des traits prélevés sur la
+masse, avec des sauts de l’œil au nez, etc., et pas du tout la ligne contour, la grande ligne contour
+que vous trouvez au 16ème siècle par exemple. Au 17ème, là le portrait subit une espèce de, on
+passe d’un pôle, tout se passe comme si on passait d’un pôle à l’autre du visage. Moi je simplifie
+beaucoup.
+
+Formidable pour moi ; je pourrais dire déjà : « les icônes » qui est pour moi le premier signe de
+l’image-affection -- et donc tout va être décalé déjà, [95 :00] ça ne va pas être là du tout l’icône -
+- ça sera le premier signe de l’image-affection, et je dirais, c’est le signe de composition. Mais à
+ce titre, il y a deux sortes d’icônes : les unes -- je pourrais chercher des mots très compliqués --
+mais pour ne pas, pour ne pas exagérer, les unes nous les appellerons : « icônes de contour », les
+autres, nous les appellerons : « icônes de traits », [Pause] bon, à charge pour nous, dans le
+véritable art des icônes, est-ce qu’il n’y aurait pas des équivalences ? Est-ce qu’on ne trouverait
+pas des icônes de contour et des icônes de traits -- l’histoire des cathédrales -- est-ce qu’il ne
+faudrait pas de ce point de vue considérer des choses de sculpture, etc. ?
+
+Et puis, [96 :00] et puis, je termine vite cet exemple, et puis on s’en tiendra là -- pour que vous
+alliez plus vite en vacances --- et puis, ce n’est pas tout quand même, ce n’est pas tout forcément,
+parce que je me dis, bon, l’icône, c’est un signe de composition, mais en effet, ça ne me dit rien
+sur la genèse de l’image-affection. Ça me dit si peu sur la genèse de l’image-affection que le
+visage, que ce soit sous forme d’icône de contour ou icône de traits, c’est une grosse unité, c’est
+une grosse unité. Ca procède en gros hein ? C’est à peu près ...
+
+Il y a une histoire idiote au cinéma vous savez, c’est le fameux effet : coulée de choc, hein ? Il y
+a un acteur-là qui a la même expression, et puis on fait un montage, [97 :00] et cette expression
+est censée correspondre, une première fois, à une femme, alors elle devient « le désir » ;
+deuxième point, à un repas, à de la nourriture, alors elle devient « la faim » ; troisième point ... je
+ne sais plus après. C’est idiot parce que, c’est idiot, ça ne concerne absolument pas le problème
+des associations avec un contexte. Il n’y avait pas besoin de faire cette expérience. Il y a
+longtemps que tous les psychologues et que, et que les gens de bon sens ont remarqué que le
+visage était un instrument très, très peu différencié quant à l’expression des affections, qu’il
+dispose de très peu d’expressions. Il y a longtemps que... Je me rappelle dans les romans de
+Sartre, il y a toujours une métaphore, pas une métaphore, une note qui revient, ça, c’était très
+signé Sartre : rien ne ressemble plus que de l’envie sexuelle et le besoin de dormir [98 :00] -- pas
+toujours vrai mais souvent, [Deleuze rigole] souvent -- le désir sexuel et l’envie de dormir. -- Ah
+oui, j’ai inversé, tiens... bien -- mais en effet, toujours finalement comme diraient les
+matérialistes grossiers, dans toute émotion, il y a quoi ? Une décharge d’adrénaline, ça se
+ressemble.
+
+Je peux dire tout au plus que si je ne considère pas l’état de choses où c’est, c’est forcé, c’est de
+la grosse expression, c’est de la composition. Le visage finalement, il n’exprime que des affects
+composés. Pour arriver à des expressions d’affects purs, il faut des efforts très particuliers, sinon
+vous exprimez toujours des affects composés. Là, on voit très bien que l’image-affection, en tant
+que signifiée par une icône, c’est-à-dire en tant qu’exprimée par un visage ou un équivalent
+
+                                                                                                  19
+
+[99 :00] de visage, elle trouve seulement un signe de composition. L’icône n’est qu’un signe de
+composition relativement grossier. Il pourra tout au plus accentuer un pôle, accentuer l’autre
+pôle.
+
+Mais la genèse de affects, ce serait quoi ? La genèse des affects, il y a quelque chose qui est
+beaucoup plus fin. Je réclame donc une instance plus fine du visage. Il y a quelque chose qui est
+beaucoup plus fin dans le visage. Un visage, ça peut toujours mentir ; ça peut toujours, tout ça, ça
+peut toujours, il y a quelque chose de beaucoup plus différentiel, quelque chose qui serait peutêtre la « genèse des affections ». L’élément génétique, l’élément différentiel, c’est quoi ? C’est,
+pour le [100 :00] moment, c’est certains lieux ou certains types d’espaces où, là, les affects sont
+beaucoup plus fins au point que ces espaces sont même des répertoires, sont même des
+conservatoires d’affects encore inconnus. On a l’impression que, on est pénétré par des affects
+qui viennent d’un autre monde. Bon.
+
+Le cinéma, et j’en parlais l’année dernière parce que le cinéma, il en a beaucoup joué. Attention,
+ce n’est pas des espaces-temps déterminés, puisque les espaces-temps déterminés, ils font partie
+de la Secondéité, ils font partie de l’image-action. Non, je n’ai pas le droit de me contredire à
+point-là. [101 :00] Ce ne sont donc pas des espaces-temps actualisés. Comment on appellera ça ?
+L’année dernière, c’est l’un d’entre vous [Pascal Auger] qui avait proposé ce mot, qu’on
+appellerait ça des « espaces quelconques », ce qui ne veut pas dire des espaces universels en tout
+temps, en tout lieu. [Voir surtout la séance 11 du séminaire Cinéma I, le 2 mars 1982] Ce qui
+veut dire des espaces qui n’ont pas d’autres fonctions que exhiber des affects ; exhiber des
+qualités ou des puissances pures. Par exemple : l’espace des ombres de l’Expressionisme
+allemand, voilà un espace quelconque. [Pause] Autre exemple d’espace quelconque : des espaces
+dans lesquels on ne [102 :00] s’oriente pas. C’est-à-dire, ce n’est pas qu’on ne s’oriente pas, ce
+sont des espaces dans lesquels les parties de cet espace ne sont pas orientées les unes par rapport
+aux autres. C’est des espaces sans raccords ou au contraire, ça revient au même, où chaque partie
+est unie à d’autre par une multiplicité de rapports possibles, par toute sorte de raccords possibles,
+où les raccords ne sont pas déterminés de manière univoque. Ce sont des espaces, donc à la
+lettre, déconnectés. La connexion d’une partie à une autre peut se faire de mille façons. En
+mathématiques, en géométrie on connaît bien ça ; c’est même ce qui apparaît dans la géométrie
+riemannienne où les voisinages n’ont pas de coordination univoque [103 :00] et la connexion de
+deux voisinages peut se faire d’une infinité de manières.
+
+Bon, je dis, la qualité-puissance, un premier mode en elle-même, indépendamment de son
+actualité, indépendamment de son actualisation, une qualité-puissance pure a deux modes, pas
+d’existence, deux modes d’apparaître. Elle peut apparaître en tant qu’exprimée par un visage ou
+un équivalent de visage, on l’a vu ; et elle peut apparaître en tant qu’exhibée par ou dans un
+espace quelconque. [Pause] Je dirais, l’espace quelconque, beaucoup plus fin, c’est la véritable
+genèse, c’est le véritable élément génétique des affects. [104 :00] C’est dans les espaces
+quelconques que les affects naissent, se forment. C’est ensuite seulement qu’ils seront cueillis
+par un visage. Vous lâchez un visage dans un espace quelconque, vous avez un film de terreur.
+Bon.
+
+Alors, bien, ça me donne quoi ? Je dis : image-affection, Priméité, c’est-à-dire qualité-puissance
+à l’état pur. Premier signe : signe de composition, je l’appelle « icône ». [Pause] Deuxième
+
+                                                                                                   20
+
+signe : des espaces [105 :00] quelconques qui exhibent, [Pause] des espaces quelconques qui
+exhibent la qualité ou la puissance pure. C’est ça que j’appelle : « qualisigne ». Je dirais l’imageaffection a deux signes : l’icône et le qualisigne, au plus court. Au plus long, elle a quatre
+signes : l’icône de contour, l’icône de traits qui correspondent aux deux grands [106 :00] pôles
+du signe de composition. [Pause] Et du côté des espaces, des qualisignes. Encore une fois,
+j’appelle « qualisigne » un espace quelconque en tant qu’il ne fait rien d’autre qu’exhiber une
+qualité ou une puissance pure. De ce point de vue, il y a deux types d’espaces quelconques : il y
+a les espaces désorientés ou déconnectés qui se définissent ainsi : pas de raccord, ou du moins
+pas de rapport univoque d’une partie à une autre. Mais il y a aussi un autre type d’espace,
+l’espace vide ou vidé, un autre type d’espace quelconque, l’espace vide ou vidé. [107 :00] Je
+dirais que le premier est un signe de naissance, le second un signe d’extinction.
+
+Bon, je prends là pour que ce soit très clair, des trucs de cinéma, hein ? J’y reviens très vite pour
+mes quatre signes. Un gros plan visage, on l’avait vu l’année dernière, il a ses deux pôles. Il y a
+des gros plans visages qui sont centrés sur le contour, souvent, pas exclusivement, souvent, par
+exemple, chez Griffith ; il y a le gros plan visage qui est presque exclusivement fondé sur le trait,
+c’est beaucoup plus le gros plan Eisenstein. Là je trouve bien mes deux signes, mes deux icônes,
+le gros plan étant l’icône cinématographique. [108 :00] [Sur le visage et le gros plan chez
+Griffith et Eisenstein, voir le séminaire Cinéma I, séance 8 (26 janvier 1982), 9 (2 février 1982)
+et 10 (23 février 1982), aussi bien que L’Image-Mouvement, chapitres 5 et 6]
+
+Pour les espaces quelconques, c’est très fréquent aussi, et ça déborde le film de terreur. Je citais
+l’espace d’ombre de l’Expressionnisme lorsque l’ombre noie les contours, noie les tas de choses,
+etc. C’est évident, mais d’une manière plus moderne, la recherche sur les espaces chez les grands
+auteurs de cinéma est déjà fantastique depuis longtemps. Je prends les exemples : les espaces
+déconnectés où vraiment, précisément c’est tout ce que l’on appelle, par exemple, le problème
+des faux raccords ou pas de raccord du tout. [Sur l’espace quelconque et l’Expressionisme, voir
+le séminaire Cinéma I, séance 11 (2 mars 1982), aussi bien que L’Image-Mouvement, chapitre
+7]
+
+Rendre, minimiser les raccords d’un lieu au lieu voisin, c’est le propre de quoi ? Un des plus
+grands, mais un des premiers, c’est [Robert] Bresson, espaces déconnectés parce que
+précisément il veut obtenir par-là des espaces à valeur tactile, qui deviennent des espaces
+visuellement quelconques, des espaces complètement déconnectés. [109 :00] Par exemple, “Le
+Pickpocket” est un chef-d’œuvre, mais déjà “Le procès de Jeanne d’Arc” où vous trouvez la
+cellule qui n’est jamais prise en plan d’ensemble, mais qui est prise, toujours là, en succession
+d’angles fermés sans connexion ou avec des connexions équivoques. Donc je dirais, Bresson est
+un grand cas. [Sur ces espaces, voir L’Image-Mouvement, pp. 168-171]
+
+Mais, mais dans tout le cinéma contemporain, c’était une recherche très, très passionnante sur
+ces espaces déconnectés que vous trouvez, par exemple, complètement dans le néo-réalisme
+italien ; pensez à la forteresse de "Païsa”, par exemple, de Rossellini. C’est, bon, que vous
+trouvez complètement dans l’école de New York au cinéma, pour moi, un des plus grands de
+l’école de New York, c’est évidemment [John] Cassavetes. Or Cassavetes a multiplié les espaces
+quelconques. [Sur les espaces chez Cassavetes et Godard, voir L’Image-Mouvement, pp. 250252] alors les espaces déconnectés où on ne comprend absolument pas comment un type passe
+
+                                                                                                     21
+
+du lieu au lieu même voisin, [110 :00] où il y a là un type de faux raccord, c’est un génie du faux
+raccord. Bon. La nouvelle vague française, je n’en parle pas, les espaces déconnectés de Godard,
+alors c’est, c’est célèbre, tout ça, bon. Là il y aurait toutes sortes de recherches qu’on avait
+esquissés l’année dernière.
+
+Mais les espaces vides, vous les trouvez également, c’est célèbre, c’est célèbre, il n’y a pas
+tellement, deux, il y a trois génies -- il y a tant de génies de partout -- mais il me vient
+immédiatement trois noms à l’esprit : les espaces vides de Straub ; les espaces vides, moi c’est
+celui qui m’intéresserait le plus de tous, les espaces vides d’Antonioni, les plans vides
+d’Antonioni, vous savez lorsque il y a -- après que les choses se soient passées, après que, après
+l’actualisation, après l’événement, [il] nous flanque l’espace vidé. Par exemple, pensez à la fin de
+“Profession : reporter” [1975, "The Passenger"], [111 :00] la caméra reste un moment sur
+l’espace qui est complètement vidé. Splendide, splendide, c’est un beau cas d’espace vidé, et
+alors, pas du tout dépotentialisé, mais qui au contraire n’existe plus que par ses potentiels
+affectifs. Et le, celui que ... J’aurais dû commencer par lui, parce que historiquement, il a dû être
+le premier, évidemment [Yasujiro] Ozu, Ozu, les champs vides d’Ozu sont aussi une valeur
+alors, une valeur très intense, affective, intense, et où là, c’est tellement minutieux, et ses champs
+vides contrairement à ceux d’Antonioni, sont volontairement, tellement insignifiants que s’y fait
+alors vraiment l’élément génétique, quoi, de l’affection.
+
+Je résume ceci : vous voyez, et c’est tout ça que je voudrais systématiser à la rentrée. Non
+seulement on aurait une tout autre -- c’était pour donner un exemple, pour moi cet exemple on
+l’aura … Là, j’aurais par exemple dans un tableau d’une toute autre nature [112 :00] -- on verra -
+- j’aurai : image-affection priméité ; et puis j’aurai en haut, là : signe de composition, ce qui me
+donnerait « icône » ici ; et puis là : signe génétique, ce qui me donnerait : « qualisigne ». Et puis
+j’aurai mes deux signes de composition, « icône de trait » et « icône de contour », et puis j’aurai
+mes deux « qualisignes » : « qualisigne de déconnexion » et « qualisigne de vacuité ». Ce serait
+aussi joli, ce serait bien, voyez. Là j’en aurais quatre dans ce cas-là. Il y aurait des cas où je n’en
+aurais que deux parce que surtout il ne faut pas que ça marche avec une loi. Il faut que ça change
+à chaque fois, hein ? Alors ça, j’ai absolument besoin que pour la rentrée ceux qui n’auront pas
+été dégouté complètement [113 :00] vraiment se rappellent ça, et surtout se rappellent le tableau
+de Peirce. Très bonnes vacances. [Une minute de bruits des voix, de Deleuze et quelques
+étudiants] [1 :54 :00]
+
+Classification des signes (version initiale)
+
+Priméité : Signe en lui-même, qualisigne ; Signe vis-à-vis l’objet, icône ; Signe vis-à-vis
+l’interprétant, rhème
+
+Secondéité : Signe en lui-même, sinsigne ; Signe vis-à-vis l’objet, indice ; Signe vis-à-vis
+l’interprétant, dicisigne
+
+Tiercéité : Signe en lui-même, légisigne ; Signe vis-à-vis l’objet, symbole ; Signe vis-à-vis
+l’interprétant, argument
+
+[Commencement d’un second tableau de signes et images]
+
+                                                                                                       22
+
+Image-Affection/Priméité : Signe de composition, icône (icône de contour/icône de trait) – Signe
+génétique, qualisigne (qualisigne de déconnection/qualisigne de vacuité)
+
+[A la minute 93, à peu près, dans les transcriptions présentées à Paris 8 (notamment, dans parties 2 et 3)
+et à WebDeleuze, un segment de texte, correspondant à quelques 55 minutes de la séance, est resitué dans
+la transcription. Nous avons omis cette longue répétition, et l’indication du début de la partie 3 n’est
+qu’approximative étant donné que la partie 3 à Paris 8 commence en pleine répétition. Malheureusement,
+dans Les Cours enregistrés de Gilles Deleuze, 1979-1987, Frédéric Astier s’est entièrement fié à ces
+transcriptions, et son résumé de cette séance reflète inutilement cette répétition du texte.]

@@ -1,0 +1,1340 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque -- Leibniz as Baroque Philosopher
+
+Session 3, 18 November 1986: Point of View
+
+Transcribed and translated by Charles J. Stivale (duration, 2:27:45)
+
+[This meeting is exceptional because, in contrast to nearly all the others that are
+available only through audio recordings (usually with gaps due to cassette changes), the
+18 November seminar was filmed for broadcast on RAI, is now accessible through
+YouTube, [at https://www.youtube.com/watch?v=yEg4Tc40rWM&list=PL9kBLtNsd7sq6hkuanJ34fXtzJJ9FKic&index=3], and hence is a nearly complete class. Also in
+contrast to the audio recordings, the viewer can see Deleuze's gestures as well as his use
+of the blackboard, an important context nearly entirely absent from the translations
+based on audio transcripts. At one point, however, there is an unexplained 90 second gap
+in the film completed here with access to the audio recording.]
+
+Part 1
+
+[The film starts with Deleuze entering the classroom, then jumps to him seated at his
+table between several students, Hidenobu Suzuki and Georges Comtesse, and ready to
+start]
+
+Let’s get going. So I owe you some explanations about all this [the camera crew and setup]. Here’s what it’s about: the department of philosophy includes a team for a video
+philosophy course. That interests me a lot, the question of knowing if, in a face-to-face
+course, something could pass through video, or if nothing passes. So then we decided to
+try it out twice. This is going to be difficult, and difficult for everyone, two attempts of
+this sort. Several years ago, we had already tried it with Marielle [Burkhalter], but I think
+that the equipment then was not as good.1 And in some ways, this seemed like a good
+thing to render… but in the end, the spoken word-video relations, all that, seem to me
+interesting, at least it is for me. And then, I have an even more perverse idea, that since
+you force me to speak in front of machines [Deleuze points to the line of tape recorders
+set in front of him on the table], it was the dream of having myself taken yet again into an
+even greater machine than you. All this connects obviously to the subject of our meeting
+today which will be, [Up to this point, the transcript source is the RAI-3 video; here
+begins the BNF recording] you will understand quickly, something like the inclusion of
+points of view, or the inclusion of points of hearing, that is, how a point of view can
+adopt another point of view, can identify another point of view, can encompass another
+point of view, or a point of hearing, can seize another point of hearing. Good, on that
+note, let’s go.
+
+I will try to summarize so that this will be very clear, where we are right now. I will try to
+summarize where we are. You remember… -- I’d like you to keep this vaguely in mind
+
+                                                                                               2
+
+each time. -- You remember what our global problem is for the entire year? Our problem
+is the possibility of a definition of Baroque philosophy, that is, of Leibniz’s philosophy,
+as a function of the following determination, the fold, starting from the idea that in the
+end, the Baroque operation par excellence is the fold, creating folds, on the condition that
+this be to infinity (à l’infini); the fold taken to infinity, with everything that this entails,
+notably the operation of smoothing angles: that’s what would define the Baroque act.
+
+But hardly had we stated this regarding Leibniz, that it was a philosophy that carried the
+fold, the pleating, to infinity, we saw that there was a bifurcation. That is, the fold was
+distributed between two floors, the lower floor and the upper floor. And on the lower
+floor were the pleats of matter, the pleats of matter when matter is subjected to infinity.
+And the pleats of matter when subjected to infinity, we saw… We began by studying
+them in a very general manner, and we were connected… The pleats of matters
+connected us, on one hand, to the elastic physical body, and on the other hand, to the
+organic body that possessed the property of folding its own parts and of unfolding its own
+parts. Folding in its own parts was the involution of the organic body; unfolding its own
+parts was the evolution of the organic body. And from that point, we came upon some
+pairs of notions: in-volving and evolving; implicating and explicating; enveloping,
+developing – all pairs of notions that manifested the fold.
+
+And then, the last time, we moved on to the other floor, and the other floor was no longer
+the pleats of matter, it was the fold of the soul. Why these two floors, etc.? We are still
+far from being able to consider these questions. We will take them as they come. The
+folds in the soul are going to constitute the other floor, as what? As form of the infinite,
+or as the ideal genetic element.2
+
+To each floor, you remember, corresponded two labyrinths. Leibniz told us that all
+philosophy was stretched between two labyrinths: the labyrinth of the continuous under
+development, but I would also say that it pleated itself since the labyrinth is the figure of
+the fold: the labyrinth of the continuous that pleated itself of enveloped itself into matter.
+And [there is] the labyrinth of freedom that enveloped itself in the soul. And no doubt,
+what nearly interests me the most is the communication between these two labyrinths. In
+fact, they communicate just as the two floors communicate.
+
+Good, good, good. So we had started studying folds in the soul as a form of the infinite.
+And the last time, we only went, we had travelled a little bit onto the path of this second
+labyrinth. We had gone from inflection to the infinite series. That was our goal for the
+previous meeting, and that came down to saying some very, very simple things: this
+meant, first, that the genetic element of the fold was inflection – I won’t go back over all
+that – that is, the irregular curve of the line around a point, called the point of inflection.
+You recall the small, quite simple schema.3 [Deleuze gestures a curve in the air] And we
+had already gotten a very, very schematic idea of the sense in which Leibniz’s
+mathematics was a mathematics of curves or of forms of curvatures.
+
+And from inflection, or from the curves, we passed on to the idea of infinite series.
+Leibniz’s mathematics was not only mathematics of curves, but also mathematics of
+
+                                                                                               3
+
+infinite series, which meant what? It meant that the curve is necessarily developed in the
+form of an infinite series, and that we had to be careful about the notion of infinite series
+since this notion could only be founded there where it was necessarily a development of
+an infinite series and could not be presented otherwise. Each time the development could
+be presented otherwise, that is, as unfolding, each time the development could be
+presented otherwise, the very idea of the infinite series lacked foundation. And there was
+one case, as it seemed evident, in which the development could only be presented in the
+form of an infinite series, which was the case of the irrational number. And it was the
+irrational number that gave us the key to the Leibnizian notion of infinite series.
+
+Moreover, what does the irrational number have to do with the curve? In order to make
+our genesis coherent, showing this link is required, which is what we did at the last
+meeting. In fact, we showed how the irrational number, locatable on a straight line, was
+only locatable on this straight line to the extent that we had a curve intersect the point that
+the irrational number on the line truly was, as we could say, a curvilinear point and not a
+rectilinear point. Rectilinear points were represented by whole and fractional numbers,
+but the irrational number referred to a truly curvilinear point, that is, the descent of the
+inflection onto the straight line.
+
+Good. For those who weren’t here at the least meeting, this is not that important, but you
+could better understand, I assume. I am summing up a bit what… But I would like, even
+for those who weren’t here… I am assuming that this is a given, that this outcome is
+given, specifically that inflection is expressed, or the variable curve, if you wish, is
+expressed in infinite series. After all, it’s very simple, as I told you: take two points on a
+straight line, as close as you might want. You can always intercalate one, through which
+an inflection passes, that is, that will be an inflection point. Given two points A and B,
+whatever their proximity, you can intercalate a point C that will then be the center of an
+inflection of A to B. Fine, quite simple. If you wish, here it’s rather crude, but it’s the
+simplest way to give you a sense of the way in which inflection develops in the form of
+an infinite series.
+
+Fine. So we were going from inflection to the infinite series. Today’s task is what? To go
+from the infinite series to … no, not the infinite series; going from inflection to inclusion
+through the intermediary of infinite series. Why is this today’s task? Well, the line is
+folded to infinity; that’s the Baroque theme. The line is folded to infinity; it’s a line with
+variable curvature. But why? [Does] Leibniz really like “why” questions? Here again, in
+my own view, at the point we have reached in the analysis, we are deliberating on such
+simple things. Why is a line folded to infinity? Well, in order to place it within, to place it
+inside, that is, it’s folded to infinity because it is included (incluse); it is included insidu.
+Inside what? In other words, inclusion is the final cause, as one might say in philosophy;
+inclusion is the final cause of the fold to infinity. What I am saying here, it’s as stupid
+as… You fold a letter; you fold a piece of paper to place it inside. You fold a letter, a
+piece of paper [Deleuze takes a piece of paper and folds] to put it in an envelope. Imagine
+that the envelope is infinitely tiny. You fold… [Deleuze keeps folding] Whew! [He folds
+it to a compressed block] From inflection to inclusion.
+
+                                                                                           4
+
+I don’t yet know into what the line of the infinite fold, the infinitely folded line, I don’t
+yet know within what it is going to be included. There would have to be… [Deleuze does
+not complete the sentence] Understand today’s goal: what is the term that I must
+necessarily consider as that which [the folded object] is folded into? That which is folded,
+is folded into something. So there is going to have to be something, by whatever nature it
+might be, that it must contain, that it must encompass, that it must envelop the fold.
+Good, so we see at least… once again, at the last meeting we went from inflection to an
+infinite series. Today, that was only half of our path, corresponding to the upper floor.
+We have to follow the other half, that is, from inflection to inclusion through the
+intermediary of infinite series.
+
+So, fine, I would like that to stay… This all seems to be complicated, but you also get
+that these are extremely simple operations. As soon as we talk about folding, it’s about
+practical exercises. There are two ways for you to understand me: on the level of practical
+exercises, of folding exercises, and in mathematics, it’s quite important; in biology, it’s
+quite important; and then in a no doubt philosophical way, corresponding to Leibniz’s
+concepts. But this doesn’t mean that concepts aren’t overlaid (doublés) with extremely
+simple sensitive intuitions. I do believe that it’s very unfortunate to try to understand
+Leibniz starting from considerations on the inclusion of predicates in the subject, to the
+extent that I ask those who are somewhat familiar with Leibniz almost to forget him. All
+of those who are somewhat familiar with Leibniz know that he’s an author who says that
+predicates are contained in the subject, that is, “crossing the Rubicon” is contained in the
+subject Caesar. So we can consider such an idea to be interesting, strange, whatever you
+want, but it seems very abstract. Why does he say it? This is why we have tried to start
+off from something else entirely. The advantage of this: [so that] the idea of attributing
+“crossing the Rubicon” as encompassed in Caesar as subject, would at that point for us, at
+a certain moment, go without saying.
+
+So I mean [that] sensitive intuition, going from the fold to inclusion, from inflection to
+inclusion, is very simple. Only we have to follow it step by step and try to construct
+philosophical notions starting from this idea: that which is folded, is placed inside. That
+which is folded, rolls itself within. Within what? Within something equal to X. What is
+this something equal to X that exists to receive that which is folded? Well here, we have
+to go carefully, and I come back to my inflection. [Deleuze asks for some chalk, then gets
+up to go to the blackboard; he draws a curve] You recall this entirely convincing
+drawing of a random inflection with variable curve. [Deleuze sits down, then gets up
+again] It’s not right. [He draws a new curve, then sits down] Ok, that’s done. For the
+moment, we are considering two things: the point describing the inflection and the point
+of inflection itself. The point of inflection itself is the point in relation to which the
+tangent crosses the curve. Obviously, we have to consider a third kind of point, which is
+what? This third kind of point I could call the center of curvature. What is this center of
+curvature? [Pause] It’s the point at which are supposed to meet all the lines perpendicular
+to tangents of each point taken into the inflection. [Deleuze draws a series of
+perpendicular lines crossing the line of inflection of one of the curve’s folds] Eh? This
+speaks all by itself [the modified drawing].
+
+                                                                                               5
+
+An immediate objection: if it’s an inflection of irregular curvature, there will not exactly
+be a point, but the center of the curvature will itself run along a closed curve. Why
+closed? [Deleuze adds to the drawing] Because when you reach the point of inflection,
+the one whose tangent crosses the curve, you jump to another center of curvature.
+[Deleuze draws a point in the center of the adjoining curving] You jump to another
+center of curvature. In fact, in an inflection of variable curvature, all the lines
+perpendicular to tangents do not meet in a point, but in a region defined by a closed
+curve. When you jump to the other half [of the curvature], beyond the point of inflection,
+you jump to another center that itself is not simply presented as a point. Fine; in other
+words, the center of curvature in an irregular curvature runs along a determined region.
+We will say… let’s assume… Let’s settle on terms: we will say that it has a site (un site).
+It has a site. So it happens, when the curvature is regular, you have a center point, or you
+have a site, that is, a region described by the center. Fine. [Pause]
+
+This is very important for us because what does this come down to saying? This means
+saying that the center is what? The center of a curve, of an inflection with irregular
+curvature, is and can also be called point of view onto the inflection, point of view onto
+the curve. It’s in the direction of concavity. We have made a lot of progress since the last
+meeting, but all this is in some ways very, very elementary. Inflection is affected by a
+vector of concavity. I mean [that] the privilege of concavity in the inflection is what? It
+means that it’s on the side of the concavity that a center is determinable. How is this
+determinable center on the concavity side presented? It is presented as point of view. To
+the extent that the center runs along a region, we will speak of the site of point of view.
+[Deleuze pauses] Fine.4
+
+Here I am indeed saying that although we are accessing a new determination of the point,
+[Deleuze turns, points to the drawing on the board] I am no longer considering the point
+on the inflection, I am no longer considering the singular point that we call point of
+inflection, there where the tangent crosses the curve. I am considering a third kind of
+point that I can determine as a point of view running along a site, and determinable by
+[pointing to the drawing] all that, all these little lines that I drew, and I can also call them
+vectors of concavity. [Pause] Point of view. There we are (Voilà).
+
+Among all of Leibniz’s strokes of genius, here you have his, or one of them: the
+transformation of the center into point of view. We have just taken a huge step in terms of
+our problem, moving from inflection to inclusion. I would like for you to sense this. But
+the ideal would be to sense it without yet understanding it; the ideal is achieved. So I only
+hold onto this idea: you see, I have passed from inflection, that is, from irregular
+curvature from which we started, to the idea of a point of view, point of view onto the
+curvature, point of view onto the inflection, defined outside the line by the center as point
+of view, the center running along a site.
+
+Sense that every point in space can be treated henceforth as a point of view. Ah, every
+point in space could be treated as a point of view. But if this is true, if it’s true, it gives
+enormously, that gives a kind of new gravity to space, a new consistency to space, and it
+removes from space its former consistency. Every point in space can be treated as a point
+
+                                                                                                6
+
+of view: what does that mean? That means something quite simple. That means that
+every point in space is such that intersect there – it’s not very complicated – that intersect
+there an infinity of convergent straight lines. [Deleuze draws a point on the board, then
+straight lines crossing through it] Whatever might be the point in space that you were
+considering, I can have an infinity of straight lines converge through here, which comes
+down to saying what? According to what we just saw, every point in space is a possible
+point of view. Let’s complete this: every point in space is a possible point of view on an
+inflection with irregular curvature.
+
+What a strange world… what a strange world was Leibniz’s world. We call it the
+Baroque world. [Deleuze pauses here, reflecting]
+
+Every point in space is such that an infinity of convergent straight lines can intersect
+there. Fine. Doesn’t that also mean that every point in space is such that I can always
+cause a parallel straight line to pass there in all directions? [Pause] It’s the same thing.
+[Deleuze turns toward the drawing, then again draws on the board] Given a point in
+space, I can have a straight line with its parallels pass through there, but also a straight
+line in another direction. [The drawing is a series of parallel lines going in different
+directions in order to create a figure with crossing lines in a crisscross pattern] Notice
+that my first drawing, through all points in space, an infinity of concurrent straight lines
+can still be passing in this point. And then [in] my other drawing, through all points in
+space, I can have as many straight lines as I want pass there, with corresponding parallels
+in all directions. The first case refers to what is called a conical perspective. [Deleuze
+gets up to draw again] You see? [He draws a set of lines emanating from a point or
+crossing through it] My second case refers to what is called a cylindrical perspective.
+The conical perspective and the cylindrical perspective are immanent to each other. Any
+point in space is referable to both systems, which comes down to saying something that a
+mathematician contemporary with Leibniz, [Girard] Desargues, [Deleuze spells out the
+name] had developed, that concurrent straight lines and parallel straight lines are of the
+same arrangement (ordonnance).5
+
+The cylindrical perspective, what is it? It’s the point of concurrence to infinity at an
+infinite distance, and the conical perspective is the point of concurrence at a finite
+distance. What’s important is the mutual immanence of one and the other. The cylindrical
+perspective is present in all the conical perspectives; the conical perspectives are present,
+the infinity of conical perspectives is present in the cylindrical perspective. You
+immediately sense what Leibniz is going to say, specifically: the cylindrical perspective
+is God; the conical perspectives are creatures. What do they have in common? That of
+being points of view, points of view perpetually implicated in one another, immanent to
+one another.
+
+[Leibniz’s] Discourse on Metaphysics [Deleuze pages through a book] I am just reading
+so that you get the tone: "For God considers from every angle the general system of
+particular events that he has thought fit to produce to manifest his glory, turning it on all
+sides, so to speak.”6 How beautiful, right? You see? [Deleuze rereads the same citation,
+then continues] "As he considers all the faces of the world in all possible ways . . . each
+
+                                                                                              7
+
+view of the universe, as though looked at from a certain viewpoint, results in a
+substance", you and me, we are substance, "that expresses the universe in just that way".
+One cannot say any better that we are conical perspectives immanent to the cylindrical
+perspective of God.
+
+Good. So there we are. We have passed from inflection to the idea of the center of
+curvature that is necessarily point of view. It’s already a huge step, [Pause] point of view
+describing a site. And there… Let’s try to move forward more. I am insisting on the
+fundamental importance of this transformation of this point into point of view. One of the
+best books on Leibniz is one by Michel Serres, Le Système de Leibniz [Leibniz’s System],
+and it’s one of the aspects on which Serres has insisted most: how in Leibniz, it’s the
+center [that] stops being a center of configuration to become, if you will, an optical
+center, that is, a point of view.7 This is no longer the point of view that refers to a center;
+it’s every center that refers to a point of view, and can only be defined from there, what
+Serres expresses by saying that for a geometry of the sphere or circle is substituted the
+geometry of the cone, the cone whose vertex is a point of view.
+
+What does that respond to? It responds, in fact, to a so-called dramatic situation of the
+seventeenth century, or with all the more reason, of the Baroque world, to the extent that
+infinity is introduced everywhere, in the pleats of matter, without series, in the folds of
+the soul, etc. The world is in the process of losing all center. In fact, how to center the
+infinite? Where is there a center in infinity? The center is nowhere. The loss of center,
+right, is a… is almost the dramatic consciousness of the Baroque world. And in a sense,
+the dramatic consciousness of the loss of center is what affects the entire seventeenth
+century. Where can a center be located in infinity? [Deleuze chants] “Give us back a
+center.” Good, they have lost all center; they have lost the earth. They swim in infinity.
+Good, but swimming in infinity, there is no center, hence, as Serres shows very well, the
+importance of an operation consisting of changing radically the conception of center. The
+center, it can no longer be found as point of equilibrium in a configuration. We are going
+to see it under the new form of point of view.
+
+In this regard, it’s what traverses Leibniz’s entire philosophy, but it’s what traverses all of
+Pascal’s Pensées. And Serres is right in this regard to create a long parallel between
+Pascal and Leibniz… -- What is it? [Nothing, nothing (A brief interruption at Deleuze’s
+left)] -- What does that mean, all that, the center becomes point of view? You see there…
+What we are seeking in this second moment of our analysis is a kind of general
+confirmation of what we grasped in a limited way by the prior analysis of inflection,
+notably: inflection refers to a center of curvature that is presented as a point of view, as a
+point of view going along a site. Now we are seeking the most general expression of this
+transformation of the center into a point of view. And we locate the most general
+confirmation immediately in a chapter of mathematics that, for the seventeenth century, is
+fundamental, and comes from the geometrician Desargues, who will have as much
+influence on Descartes as on Pascal and Leibniz. And this chapter of mathematics that
+I’m thinking of is one known under the title “Conical sections”.
+
+                                                                                             8
+
+The conical sections, what is this? Without doubt, the history of conical sections is an
+ancient history of mathematics, but here let’s continue. I am saying some very
+rudimentary things; it doesn’t matter if you don’t understand. And I am saying that it’s
+well known, but the ancient mathematicians, let’s say, felt the need -- they couldn’t do
+any differently – to pass through a certain geometrical figure which was a right-angled
+triangle encompassed in a circle. I needed that to establish the theme of the conical
+sections that we still don’t know about. So they passed through the right-angled triangle
+encompassed in a circle; it was the triangle through the axis. As Pascal said in a small
+text on the conicals (les coniques), he says that the great merit of his contemporaries, and
+of Desargues foremost, is that they no longer need to employ the triangle through the
+axis. So this makes a kind of… what? [A] direct consideration of what is called conical
+sections.
+
+What are we discussing here? -- Don’t take at all seriously mathematically what I am
+saying since we have finished with… I don’t at all want… and then… -- What are we
+discussing? This is well known… -- [Deleuze gets up, looking for a way to erase the
+board] You wouldn’t have a small…? There we are, I’ll move over here. [He moves to
+the empty board, on the right] -- You see, it’s a double cone, but if I gave you just one of
+them, that’s no reason not to give you two. “S” is the vertex; [it’s] useless to tell you that
+it’s a point of view-vertex. The eye is presumed to be located in “S”. You see what that
+means? We are already going to substitute for a geometry of the sphere or circle a
+geometry of the cone. That means that we are going to substitute for the determination of
+centers the determination of points of view. It’s the jump from the center to the point of
+view. [Deleuze continues drawing] And well, look at your cone, assuming that there’s a
+circular base. It could have another base; there are lots of more complicated cases, but
+you have a circular base.
+
+You cut it by a plane parallel to the base. What do you have? You have a circle. [Deleuze
+writes ‘circle’ on the board] You cut it along an oblique plane [and] you have an ellipse.
+[He writes ‘ellipse’ on the board] You cut it along a plane… like that… [a nearly
+diagonal angle] I don’t know what to call that, but you see. You cut it into… [Students
+suggest terms] No, it’s not parallel… Anyway, in short, you have a parabola. And you cut
+it in a way that both cones are affected, [and] you have a hyperbola. You cut it in “S” [of
+the vertex], along a plane passing through “S”, and you have a point. You cut it along a
+plane passing through the generative points of the cone, passing through here, for
+example, [and] you have a straight line…. That’s it [He finishes writing each term].
+Everything I am saying is lamentable, [Deleuze sits down] lamentable, but I mean… This
+has nothing to do with… It’s just to indicate to you, to indicate what? But here, it’s
+curious. I placed myself into “S”, point of view, and what did I do? I varied the planes for
+cutting my cone, and I have obtained successively circle, ellipse, parabola, hyperbola,
+point, and straight line.
+
+What is it? At first glance, there is nothing in common between these things, between a
+point and an ellipse, between a straight line and a parabola, between a hyperbola and a
+parabola. What is it? And nonetheless what can I say, following Serres’s formulation --
+and that barely suffices -- I have the metamorphoses of the circle, where I have what?
+
+                                                                                               9
+
+The connections between a family of curves, if I stick with this case, because I can
+consider the point and the straight line, that is, when the plane of slice passes through “S”
+and when it passes through a generative of the cone, I can consider that these are socalled “degenerated” cases. No, but if I take curves – the circle, the ellipse, the parabola,
+the hyperbola – what do they have in common? Mathematically here, they have
+something in common, to be at the second degree. Seemingly, they seem to have nothing
+in common. And yet, I pass from one to the other, the metamorphoses of the circle, by
+causing the point to vary, the plane of slicing the cone, under the point of view “S”. The
+center is no longer the center of the circle, or even the foyers of the ellipses; the center is
+the point of view as a function of which I have a law of passage, from circle to ellipse,
+parabola, hyperbola.
+
+What is the object? At the extreme, I no longer know. I can say… When I say the
+metamorphoses of the circle – and there as well, Serres showed it quite well – when I say
+metamorphoses of the circle, I privilege the circle. But first, my cone is not at all
+necessarily constructed with a circular base. It can be concave, convex, whatever you’d
+like. And then… [Pause] There are no reasons for the circle to have an absolute privilege.
+The object in all these projects [Deleuze indicates the new drawing] are projections, what
+are called in mathematics of the era the geometral. But at the extreme, understand, the
+geometral is only grasped by God. We, with our finite points of view, we only grasp
+projections, and not only projections, we grasp the connection of one projection to
+another. The object is the connection of projections, or if you prefer, if you would like a
+more modern language, the synthesis of profiles. Every object is in profile. There are
+only profiles. To perceive is to create a synthesis in profile. Husserl would be infinitely
+more Leibnizian if he was himself conscious of being so, and yet he was quite conscious
+of being so. Fine.
+
+So the geometral will perhaps be the object such that it responds to God’s cylindrical
+perspective. But us, we are happy with profiles and their connections. It’s the
+metamorphosis, the object in metamorphosis. This comes down to saying what? That it’s
+another way of saying what we saw at the last meeting: thanks to the notion of point of
+view, there changes radically the very idea of the object in Leibniz. To underscore the
+new status of the object, I was proposing that we call it with a strange name – alas,
+Leibniz did not use it, but we, we can invent the term: we could say that we have found a
+new text, [with] the true name of this type of object, that could be the objectile.8 What is
+it? Saying that the object is an objectile… what could that mean? Why introduce a term
+like that except as a joke? And still, we don’t joke around all that much. [Laughter] Why
+[introduce the term]? In order to regroup a certain number of characteristics.
+
+We would have to say that the objectile is the object insofar as it exists only under its
+profiles. Henceforth, the object’s perspective implies an infinite series of profiles, the
+synthesis of an infinite series of profiles. Thus it’s the objectile; it’s the object insofar as
+it passes through an infinite series. Or if you prefer, it’s the object insofar as it states
+(decline) a family of curves, such as circle, ellipse, parabola, hyperbola. Or if you prefer -
+- and here we don’t emphasize Leibniz’s modernity at all, just as he is truly modern – it’s
+the object insofar as it’s defined through a group of transformations. You see there that
+
+                                                                                             10
+
+the conical sections introduce the idea of a group of transformations by virtue of which I
+pass from the circle to the ellipse, from the ellipse to the parabola, etc. Or if you prefer,
+the objectile is the object insofar as it’s affected by a curvature or an inflection of variable
+curvature. There we are, we can say all that.
+
+This is a profoundly theatrical world. At the same time, think… think about the Baroque
+world, of the importance in Baroque festivals of the transformative decors. The
+transformative decors were the basis, nearly the basic element of the Baroque festival.
+Good. It’s the Italian theater, really, and Leibniz often identifies with the Italian theater:
+he says, yes, the world is like an Italian theater, the world is like a transformative décor,
+that is, the object is indefinable, independently from a group in transformation that affects
+it or independently of a variable curvature that affects it. It therefore has an entirely new
+status for the object.
+
+Furthermore, furthermore, it doesn’t suffice to speak of metamorphoses because
+metamorphosis is the passage from one form to another form. The sole conclusion that I
+can draw is that, in fact, the theory of conical sections as elaborated by Desargues and
+Pascal in the seventeenth century has the innovation of introducing this theme of
+metamorphoses of the objet and of truly belonging to what we were seeking as criterion
+of Baroque mathematics. You see? Of course, I don’t pretend to have said anything
+mathematical at all about the theory of conical sections. And nonetheless, I still have to
+allude to mathematics so let’s return briefly, before being done with this point – the new
+status of the object, the objectile – let’s return to Desargues in his theory of conical
+sections.
+
+His departure point will be as follows, and you will see that this refers entirely to our
+problem about projections. Imagine a triangle, any triangle, which turns around an axis. It
+turns continually around an axis. [Deleuze makes a circular, turning gesture] Are you
+imagining your triangle? [Pause] The projections of this triangle correspond to each
+position of the triangle. Good. Is there a law of projections? Can one discern a law of
+projections, that is, variable images of the triangle as it turns around its axis? Desargues
+explains that one must -- here, I am saying this because it interests greatly, but finally,
+what I am going to say, at the same time… [Deleuze rises and goes to the board; there is
+a slight jump in the film’s editing. On the recording, one hears Deleuze’s comments as he
+draws the triangle] I have to speak loudly; I’ll make my drawing. There’s my axis;
+there’s my triangle. It’s turning around the axis. You see that it corresponds to different
+projections according to each position of the triangle. So – aie, aie, aie, I have to redo it,
+this isn’t right… I need to change this… Ok, that will do – I am just saying that in order
+to account for the law of projections, Desargues is going to bring six points into play, six
+– you can guess, there are six determinable ones – six points on the axis, right,
+corresponding to the vertex. [Return to the film]9
+
+You see, I have three [points], and then corresponding to the extension of the sides of the
+triangle. [He continues drawing, tracing the extensions and marking the points of
+intersection with a straight line] One… (two… three…) Ouf! [He traces just to the top
+edge of the board] See how smart my drawing is; it’s stopping just in time. One-two-
+
+                                                                                                  11
+
+three-four-five-six! [He enumerates the points of intersection on the line, then sits back
+down] [Desargues] is going to consider -- and here is where it gets interesting in the
+mathematics that I am not discussing -- these six points, [Desargues] is going to show
+that there is between them a certain proportion between the segments it determines, a
+certain proportion, a certain rapport between the six points. And what is he going to call
+this rapport, with a term that will endure in mathematics from Desargues onward? He is
+going to call it a rapport of involution, involution, you remember, of envelopment, a
+rapport of envelopment as if, in fact, all the projections of the mobile triangle enveloped
+this rapport. Involution; involvere; the envelopment. One might say that this rapport of
+involution is as if enveloped, folded into each projection.10 Good. [Pause]. Well, ok.
+From there on, he will pass into the matter of four points; he will pass into his theory of
+conical sections.
+
+Fine, fine, fine, fine, fine. So, I was saying that this doesn’t yet suffice, this definition of
+the objectile as passage from one form to another, as a metamorphosis of the form. And
+in other words, the form is constantly in metamorphosis; such is the objectile. The object
+with variable curvature, the objectile is the object with variable curvature. That isn’t
+sufficient. Why? Because that does indeed give us, that does indeed give us a possibility
+of defining the point of view anew, of giving a new definition of the point of view. What
+could one say?
+
+Well, here, I’ve placed everything in a stack [Deleuze indicates the second drawing on
+the board], circle, ellipse, parabola, hyperbola. I just know that there is a variant, a
+community in all these figures. Good, but the point of view gives me another possibility:
+[Jump in the film editing, 90 seconds; access from BNF recording] in fact, it’s the case
+that I placed them in a disorderly way; why? Once we are under a point of view, the
+question is the possibility of introducing an order into the transformations. In what kind
+of form, this order? In other words, you see, point of view is that point starting from
+which I can establish an arrangement (ordonnance), and no doubt, there are several
+arrangements under the same point of view. [There are] several arrangements, yes, yes,
+yes. For example, I am looking at the cleverness in disorder; I made a list in disorder.
+What kind of order can I introduce? Let’s suppose, I tell myself suddenly: finite or
+infinite? Finite or infinite, with a question mark? I answer: [Return to film] the point
+finite, the straight line infinite; the circle finite, the parabola infinite; the ellipse finite, the
+hyperbola infinite. I have created an alternation of finite and infinite cases. I could have
+chosen other criteria. For example, are there double points or not? Sometimes yes,
+sometimes no. Arranging (ordonner) is constituting my series. I have constituted a series
+of certain points of view. Eh? [Pause] I’ve constituted my series. The point of view is not
+only this from which a metamorphosis of the object is revealed, but this from which I am
+able or become able to arrange cases. [Pause] That is fundamentally the point of view:
+arranging contraries, arranging inverses, arranging opposites.11 [Pause]
+
+Let’s find an example so that you feel this, because henceforth… There are as many
+points of view as you would want. Everything depends on the problems considered. In
+general, I can say that you can only pose a problem if you are able to determine the point
+of view according to which you might arrange cases corresponding to the problem.
+
+                                                                                           12
+
+Otherwise, you’ve done nothing.12 What is the point of view that allows you to arrange
+cases corresponding to the problem? That is, what is going to have us pass into the other
+aspect, I mean, of the same question. Arranging cases, yes? Sometimes finite, sometimes
+infinite; sometimes progression, sometimes regression. You are going to create your
+analysis of cases.
+
+At first glance, says Leibniz, everything happens as a form of an irregular curve, so
+irregular that one gives up looking for its law. What is the rule? Whatever might the
+irregularities of a curve, find the point of view, what we earlier called the center of
+curvature. Finding the point of view in relation to which what earlier appeared to you a
+crazy irregularity will be revealed as referring to an equation, an equation under which
+you can organize your cases. Finite, infinite, finite, infinite, finite, infinite; regression,
+progression, regression, progression, regression, progression, etc. It’s not surprising that
+Leibniz creates in all his mathematics a kind of calculus of problems. And for each
+family of problem, one will have to find the point of view. An example [is] in astronomy:
+if you take the planets, you will note an insane rotation. The rotation of planets is such an
+irregular curve that one must give up on everything, except if you find the point of view.
+The point of view is in the sun. That works for the planets and for different planetary
+movements. But if it works for the planetary system, that doesn’t work for the star
+system. One has to find another point of view.
+
+Is there a universal point of view? [Deleuze shrugs doubtfully] What does that mean?
+Here it gets complicated. Is God the universal point of view? Perhaps God is the
+universal point of view, but he doesn’t suppress singular points of view. This is still too
+complicated for us; we have to leave it aside. Is God a point of view or not a point of
+view? We cannot answer this frankly; it’s a delicate question. But each time we will have
+to. When you have a problem, either you will say simply anything, that is, disorder in a
+pure state; or else you construct your point of view such that you will be able to organize,
+arrange the cases of the problem. Perhaps you sense that the famous texts like Pascal’s, in
+his Pensées, on truth, on truth beyond and on this side; what is truth on this side isn’t
+truth beyond, that’s not simply the sense of a platitude, a tiny skeptical platitude – ah
+“what we believed true here, they don’t believe it true over there”. That doesn’t mean “to
+each his own point of view.” Each one having his point of view is the stupidest thought in
+the world. It’s stupid, in the end; that’s a frightening platitude even. “To each his point of
+view, to each his truth.”
+
+But if the word "perspectivism" in philosophy is an important term, it’s precisely because
+it never meant that. Furthermore, perspectivism signifies that there is ever but a single
+point of view from which the truth is stated. That doesn’t mean “it depends on the point
+of view”; it doesn’t mean “to each his/her own truth”. Perspectivism such as it is realized
+in Leibniz’s philosophy, then taken up again by Nietzsche – and Nietzsche knows very
+well what he is doing with it because he renders homage, with his own perspectivism, he
+renders homage to Leibniz. And then in literature, in any another way entirely,
+undertaken by Henry James… But all these great perspectivists are again all authors that
+we can call Baroque. Henry James – I can hardly see a Baroque realization of the novel
+as fine as that of James.
+
+                                                                                             13
+
+So what do they have in common? At least [they have] this in common: perspectivism
+has never been a relativism in the ordinary sense of the term. It’s not “to each his own
+truth”; [rather] it’s “truth refers to a point of view”. All truth in a domain refers to a point
+of view onto this domain; point of view is the condition for the possibility of truth; point
+of view is the condition of the possibility for the emergence of truth, of the manifestation
+of truth. So, above all, don’t think that perspectivism authorizes discussion. [Deleuze
+smiles] God help us, it does not authorize discussion.13 In a family of problems, there is
+only a single point of view. [Deleuze insists on each word] Which one? You will tell me:
+what is the criterion? It’s quite simple: the one that permits arranging cases. You will tell
+me: so, there are several points of view. Yes, there are several points of view, notably: the
+point of view has a site, that is, it runs across a region. So, in fact, in order for me to able
+to group them together as finite forms, infinite [forms], double point [forms], no double
+point, etc. – it’s the site of my point of view. Understand? But above all, the relativism
+“to each his own truth”, and if you truly want perspectivism, [it’s] not even perspectivism
+of the impoverished; it’s perspectivism of the imbecile. [Laughter] It means that
+perspective, as much in Leibniz as in Nietzsche and Henry James, strictly means the
+opposite: how to construct the point of view as a function of which I would even be able
+to arrange opposites. [Pause]. Good.
+
+And I am saying [that] for each family of problems, you must have a point of view. Point
+of view is the genetic element. It’s the genetic element. Let’s consider an example in
+order to be done with my mindless reflections on mathematics. There is something
+beautiful in Pascal that interested Leibniz considerably. It’s the arithmetic triangle.14 I am
+going to tell you about it for those who don’t know about the arithmetic triangle because
+we will need it, so I am bringing it up here. You need to remember it because I can then
+avoid going back over it.
+
+We are going to undertake a strange operation. You’ll see. [Deleuze looks at the board] --
+I’ve lost my chalk… no, I’ve got it. [The student on Deleuze’s left, Georges Comtesse,
+gives him a rag to wipe off the board; Deleuze erases drawing 2] -- So, up above… why
+up above? You place a number 1. Ok? Number 1. So you can take is as the top of the
+vertex. Then underneath, you put 1 + 1, no, not plus; you put 1 there on the left, and 1 on
+the right, and that gives you a little arithmetic triangle. And then there [on a third line],
+you are going to put, staggered, 1, 1. You see? And in between them, you are going to put
+what? The sum of the preceding level: 1 + 1 which gives you 2. [Pause] Yeh? Good.
+
+Then [on the fourth line] you put 1s staggered again. You see how pretty it is, and there
+[in the middle] of this new level, you again do the addition, and you put 3, [the sum] 2 + 1
+[from the previous level]. You place them between the two. You have [along the left
+edge] 1, 2, 3, 4 to this fifth level: 1, 3, 3, 1. And then you sense that you could continue at
+length. [Deleuze begins the fifth level with the number 1] You do the same thing again:
+you stagger your 1s; you have a triangle of greater and greater length, and there, you put,
+if you’ve understood well, 1, 3, 4. You place it between [the 1 and the 3 of the level four]
+and there, [on the right] you will place 4, 3, 1, and in the middle, you will place, if you
+have understood well, you will place 6, or 3 + 3 [from the previous level]. It’s magic;
+
+                                                                                            14
+
+that’s a magic triangle… and you continue. Her [a student’s] head is in the way, so I
+can’t go very far… Here, I am going to do it once more [on the sixth level]. This triangle
+is really beautiful. There [on the left] you will put 5, 4, 1, and there, in the middle, you
+will put 10, or 6 + 4 [from the previous level], and then [on the right], 10 and 5. So, on
+this level, you have 1, 5, 10, 5, 1. You continue, you continue like at. [Deleuze sits down]
+You have a very beautiful triangle that is an arithmetic triangle.
+
+What is the interest [of this]? If you have a sharp gaze, you will notice that at each level
+there corresponds -- except apparently on level one where 1 is all alone -- you have
+overlaid the powers of 2. It's odd, right? This is known by the name Pascal's arithmetic
+triangle. It's very important since Leibniz will work on this triangle a lot and will develop
+it as we will see. We are greatly interested in this because he will join a harmonic triangle
+to it.15 So, since we know that the concept of harmony is very powerful in Leibniz, we
+will have to look at this more closely. But we will thus already have a conception of the
+triangle known as arithmetic.
+
+I said that each level corresponds to powers of 2. The first level 1: 1. If you add it up, that
+gives you 2 to the first power. The next level is 1 + 2 + 1, 4 [or] 2 second power. The
+next level: 4 + 4, 8, [or] 2 third power. The next level: 5, 10, 14-15-16 [Deleuze adds the
+numbers], [2] fourth power. Etc. There [level 5]: 20-30-32, etc. You could continue with
+this, you could continue to infinity, like that. Fine. What have you done? [It’s] the genesis
+of the powers of 2. With what condition? You have found the point of view. What is that?
+Try to understand. We are in the process of getting the sense of many things.
+
+In the end, point of view is quite close to an act. Point of view is an act, and just as
+Leibniz understands it, as an act. However, at first glance, I wouldn't have understood
+[this]. If we hadn't started from the idea that point of view is an act, all that would be
+abstract. But understand that here, we are beginning to understand perhaps that
+concretely, adopting a point of view is an act, if it's true that the point of view is what
+arranges cases. It's what arranges contraries; it's what arranges opposites. I’d say here that
+your arithmetic triangle is the invention of a point of view. A point of view on what? On
+the powers of 2. And I will say, what is point of view? But point of view is the superior
+[number] 1, the vertex of the arithmetic triangle. So, at the outside, I could say, in order
+to assimilate it to the powers of 2, that it's 2 to the zero power, if this expression had any
+sense. But, after all, it's this figure that gives it a sense, eh?
+
+So, good... All this isn't finished because you sense that all the problems are rushing in or
+an entire family of problems is rushing in, notably: can I express any number as a power
+of 2? [Doubtful shrug from Deleuze] And with what condition? It's useless to say that this
+problem alone propels you toward logarithms. Good... But there are many other problems
+connected here. From this [Deleuze points to the arithmetic triangle] I am just
+understanding that I can speak of a point of view that permits arranging the powers of 2.
+There you have typically an arrangement of the powers of 2, just as I can speak of an
+astronomical point of view that arranges planetary movements; just as I can speak of a
+point of view in physics, a point of view on an inflection and a site of this point of view,
+etc.
+
+                                                                                            15
+
+But I am saying that out of this, it's not simply a question of metamorphoses. It's a
+question, a question of anamorphoses. For all this, on metamorphoses and anamorphoses,
+I refer you, of course, to the research of [Jurgis] Baltrusaitis, but I am just trying in this
+way not to say a lot about that because it's going to... It would be better to see it in books,
+from engravings, all that. What is an anamorphosis, and what is the difference from a
+metamorphosis? It's that metamorphosis is always the passage from form to form; it's like
+a connection of forms; it's the passage from a profile to another profile.16
+
+For example, a metamorphosis, but the Baroque world is full of metamorphoses and
+anamorphoses. I recall, in Fascist Italy, there was a great Baroque tradition, a grand
+tradition of metamorphoses, in propaganda, in which there were portraits. That struck me
+because it was impressive, these portraits. They were quite popular. Everyone was buying
+them. These were portraits. I was fascinated by them because I wasn’t very old and I
+looked at them and I wondered, how can we explain something like this? But since then, I
+figured it out: these were portraits on slides. So if you placed yourself in front of the
+portrait, you have Mussolini; this was the central perspective, where you had Mussolini.
+You put yourself on the right – you see, it was painted on slides, produced on
+perpendicular slides, like that. So, when you were in front, you had Mussolini, of course,
+it's the central perspective, [where] you had Mussolini. And then you move to the right
+and there, you had I don’t remember which officer (maréchal). The slides… On the
+length of the slides the officer’s head was painted so that, from the right, you saw the
+officer, and no longer Mussolini. In order to see Mussolini, you had to come back to
+center. [Laughter] There was the officer on the right, and then to the left, there was
+another officer, the officer on the left, eh? -- It astounds me that these haven’t been
+reproduced recently, especially since… eh? I don’t know… [Laughter] So you
+understand. Obviously, there’s a problem for the center, who will we put in the center!
+[Laughter] –
+
+But understand that at the point we’ve reached, we have moved beyond the stupidity that
+would consist in saying, oh well yes, each person has his/her point of view. This isn’t at
+all, this isn’t at all what’s in a Baroque world. It’s not that the point of view changes all
+that much. The point of view doesn’t change; the point of view has a site. The point of
+view’s site, in my triple photo, in my triple image, the point of view’s site is going to be
+from center to right and to left. Simply, [Pause] the point of view gives me the law of the
+form’s transformation. There is metamorphosis. And when I was saying “power to
+arrange cases”, this is just as well [the power] to hierarchize cases, with Mussolini in the
+center, you see? [Return to film track]
+
+I am saying: when do we speak of anamorphosis? It seems to me that we could reserve
+anamorphosis… I’m not at all saying that this is… It’s as you like, eh? We could reserve
+it [anamorphosis] for this, for a case that is deeper than that of metamorphosis,
+specifically: when there is an emergence of form out of the unformed. It’s no longer the
+passage from one form to another; it’s how there is an emergence of form… how there’s
+an emergence of form out of the unformed.
+
+                                                                                              16
+
+What does that mean? In appearance, everything is disorder. In appearance, all is
+disorder. You recognize nothing there; it’s all completely messed up. You have a
+movement; you have an inflection; you have a series of inflections that are going in all
+directions, changing centers constantly. You recognize nothing there. Good. But the point
+of view is what is going to extract a form from this disorder. It’s no longer what passes
+from one form to another, from one profile to another; it’s what is going to extract any
+form at all from a non-form. A well-known type of anamorphosis is in the painting by
+[Hans] Holbein [the Younger], “The Ambassadors”.17 Under a bookshelf you have a kind
+of indeterminate stain, really informal, a formless white-ish stain. And from a certain
+point of view, linked to the lower edge of the painting, from a certain point of view,
+everything arranges itself. This white-ish stain obviously represents a skull that is the
+painter’s signature since [the name] Holbein refers to “hollow bone” or “skull”. Good.
+One could say, you see, both that it’s the point of view initiating an emergence of form
+starting from what has no form, and also a passage from form to form.
+
+There really is a relativism of point of view; the truth is relative to the point of view. But
+that has never meant that the truth varies with one’s point of view. That has always meant
+that the truth… Point of view is the condition of possibility of the manifestation and the
+constitution of truth in a domain, the domain of the point of view, the domain
+corresponding to the point of view.
+
+So here we have henceforth [Deleuze turns over a sheet of paper that he seems to use as
+a guide; he heaves a huge sigh] Aaaaaahhh… On this point, in our problem, we have
+moved forward. We have indeed outlined this notion of point of view. We have discerned
+the contradiction not to be made about point of view. Understand? We still have left a
+final point to look at, good, since the status of the object changes. If the object becomes
+objectile under the point of view, well then, it’s probable that the status of the subject also
+changes.18 The subject is itself a point of view. Point of view is the subject. The point of
+view is the subject. A subject is a point of view. A subject defines itself through a
+constitutive act, and this constitutive act is the point of view. Also the subject has a site.
+It’s the region over which its point of view travels. And in this, perspectivism is
+fundamentally Baroque.
+
+And we should find a name then to emphasize this change of subject’s status no less than
+the change of the object’s status. The object becomes an objectile insofar as it is affected
+by the variable curvature or by the group in transformation. We will say about a subject
+that it becomes a superject [Laughter] insofar… [Deleuze reacts to the laughter] It’s
+funny, but not very… It’s a superject. Why do I say superject? That is, for the couple
+object-subject, Leibniz would substitute, but alas without saying so, the couple objectilesuperject. If I call upon these terms, it’s uniquely to emphasize that object-subject is
+going to take on a completely new sense in philosophy with Leibniz.
+
+And… Superject, ok. Here I am only borrowing a term. The idea that the subject would
+be a superject is an idea that you will find textually and explicitly in the work of a very
+great philosopher from the start of the twentieth century, [Alfred North] Whitehead.
+
+                                                                                           17
+
+[Deleuze spells out the name] Whitehead is one of the great philosophers of the twentieth
+century, and who proposed the term superject. Why place Whitehead into Leibniz? For a
+simple and definitive reason: Whitehead considered himself Leibnizian. So, we have
+every right, or we are comforted in advance if we propose this pair objectile-superject in
+order to define the new status of the object and the subject as it appears in Leibniz’s
+philosophy.
+
+When the object becomes objectile, that is, encounters a group in transformation, the
+subject becomes a superject, that is, becomes a point of view. [Pause] Hardly have we
+won this point than everything vacillates. But in what sense can we be called point of
+view? You, me… For example, we see it well there. [Deleuze turns and points to the
+triangle on the board] 1 is a point of view onto the generation of the powers of two.
+Good. The sun is a point of view on planetary movements. Good. But you, me, we are a
+point of view on the world. Agreed, we are a point of view on the world. We are a point
+of view on the infinite series of the world, yes, since any point of view is onto a series,
+the series of powers of 2, series of curvatures. Any point of view, I would say – and this
+is why we had to call it a superject – any point of view subsumes a series. Which series?
+The series of transformations through which the objectile passes. Notice that this works
+out nicely; it’s very satisfying for the spirit. [You] sense it: the world arranges itself.
+Good. I repeat because it’s so satisfying even, but I repeat: well… yes, no, I no longer
+know. It doesn’t matter.
+
+I am saying that everything vacillates because… well… If it’s true that every point of
+view… Ah yes, I wanted to say… If it’s true that every point of view is defined in
+relation with a series, specifically the series of transformations through which the
+objectile passes, I can say that each of us insofar as the subject is a point of view on the
+world, that is, on the series, parenthetically infinite series, of the world…. Good… well,
+yes, but it’s not simple. We believed that we understood, but we must shift to us, us, us:
+how is it that we are points of view on the world? What does that mean?
+
+Leibniz seems to guide us. He says, "We are like points of view on the city. Each of us,”
+you will see, “is like a point of view on the city.” These texts, you find them everywhere
+in Leibniz, notably in the Discourse of Metaphysics. [Pause. Deleuze consults his notes,
+then opens a book, finding a sheet of paper that he reads] Here we have a text on this:
+"As the same town looks different according to the position from which it is viewed."19
+We are points of view on the city. Notice that this is what is our rapport to the world, our
+rapport with the world, that is, the rapport that we maintain, we subjects, or superjects,
+with the infinite series of transformation; it’s a little like how a single city is diversely
+represented.
+
+What does that mean? Does that mean… What does that mean, "we are points of view on
+the city”? Why didn’t he say, "We are points of view on the countryside"? [Laughter]
+You will tell me, don’t exaggerate. He could have said, we are points of view on the
+countryside. I only feel strongly about one thing: showing that he couldn’t say “we are
+points of view on the countryside”. He could only say “we are points of view on the
+city”. This is once again why Leibniz is unusually modern. There were already no longer
+
+                                                                                           18
+
+any countrysides, I mean. But why? Well, this is where we have… Are you tired or not?
+Do I continue or not? [A student suggests a recess, a pause]… But without out moving
+around, ok? Because you won’t come back if you… [Pause. Deleuze looks at the film
+crew] Is the sound ok? It’s ok? Yeh? Ok ? Do you want a break ? No ?... In any case, just
+stay here; just sit and reflect. [Laughter; Pause… A jump in the film editing, no omission]
+
+[1 :35 :23, RAI-3] So this is where we are. All that is very fine: we are points of view on
+the city. But what does that mean, or rather what does that not mean? At first glance, if I
+dare say, this could mean: for each point of view there corresponds a form or a profile. If
+you look at the city from a particular point of view, it has a particular form or it offers
+you a particular profile. Good. This would be the simplest interpretation; it would be the
+first interpretation. Only here we are, it’s simple, but it’s impossible. If that’s right… And
+yet, I am telling you, beware of texts. Leibniz seems to express himself this way. Each
+subject has a point of view, and to each point of view a profile of the city corresponds. If
+this is that… No, this cannot be that, it cannot be like that for multiple reasons. But the
+principal reason why it cannot be like that is because, once again, this is a feeble idea,
+and Leibniz cannot have a feeble idea. That [first explanation] drops us back into a false
+perspectivism, of the type “to each his own truth.”
+
+But there’s a more solid reason why that couldn’t be [the interpretation]. Confront the
+proposition [Deleuze turns toward the board] “I am a point of view on the city,” [He
+indicated the vertex of the arithmetic triangle] at the vertex ‘S’ of the cone, the point of
+view. Can I say that the circle corresponds to a point of view? The ellipse, to another
+point of view? The parabola, to another point of view? Of course not, I certainly cannot
+say this. You remember? It’s not a question of saying that for each form there’s a
+corresponding point of view or… I haven’t changed the point of view when I pass from
+the circle to the ellipse. [Deleuze insists on this next sentence] The point of view is what
+gives me a hold on the passage from one form to another. It’s what I call the group in
+transformation. The point of view causes the group in transformation to emerge, that is,
+the passage from one profile to another. That which corresponds to the point of view is
+not one particular form or another; it’s the change of form, [Pause] that is, the objectile,
+the object insofar as it traverses [Pause] its group in transformation. You see? It’s not a
+question that each form corresponds to a point of view, not a point of view to each form
+since the point of view allows me precisely to arrange the forms and to pass from one to
+the other. Here, it is necessary that this be very clear.
+
+So I have no choice, even if Leibniz seems to express himself sometimes this way. You
+know, Leibniz is astonishing. He said it a thousand times; he measures his texts to the
+supposed intelligence of those reading him. So, when he wants to be understood by
+everyone, he speaks quite simply; and then, when he has a small audience, he goes
+farther. He doesn’t care since, for him, every level symbolizes one another. So it’s a
+matter of knowing which level is deeper than another. Hence, I am saying [that] it’s not a
+form that corresponds to a point of view. It’s not possible since to every point of view
+corresponds a change in form, that is, a power of arranging forms and of passing from
+one form to another. Fine. So, I would say [that] the point of view is what reveals the
+connection of profiles or the change of form, the passage from one form to another. If
+
+                                                                                             19
+
+there is no point of view, I could never grasp it. If there is no point of view, well, the
+circle, the ellipse, the parabola, the hyperbola will remain eternally separated each on its
+own, each form separated from the other form. If I have a point of view, then yes, I can
+create the synthesis of curves in the second degree. You understand?
+
+But then I have hardly made this first rectification, and I fall back into a difficulty: but
+why would there be several points of view? And how is it that I am a point of view
+distinct from you? How is it that each of us is a point of view distinct from other points of
+view? This is the necessity of a third level, and this gets complicated. [Pause] At first
+glance, it suffices to find a point of view at least in a domain under consideration. But
+why is there a necessity for a plurality of points of view? I have just shown that every
+point of view seized onto a series, and probably – there’s no need to pose a lot of
+hypotheses – and probably an infinite series. If I am a point of view on the world, I grasp
+an infinite series that is the series of the events of the world, that is, a curve with variable
+curvature in which each center of inflection, each point of inflection marks an event.
+Each point of view grasps not this form, not that one, but the infinite series.
+
+But why several points of view? Why is the point of view irreducibly plural? In other
+words, not only has Leibniz transformed the notion of the subject in philosophy, but he is
+the first to introduce the plurality of subjects as a metaphysical problem. If you take the
+thinking subject in Descartes’s work, certainly each of us undergoes the operation of the
+cogito. But we cannot say that in Descartes, the plurality of thinking subjects is
+constructed into a metaphysical problem. We can posit this, wonder what the status of
+thinking subjects in Descartes might be, but to my knowledge, we cannot find an answer
+to this solution, to wit: the answer that there are several thinking substances. But making
+the plurality of subjects into a legitimate problem (problème de droit), it’s Leibniz who
+introduced this problem into philosophy.
+
+So, you understand: I cannot say [that] for each point of view corresponds a form
+separate from others since, once again, the point of view seizes the metamorphosis of
+forms. So what distinguishes one point of view from another? What is going to
+distinguish one of you from me, two points of view? [Pause] We don’t have much
+choice. These are the beautiful moments in philosophy. You can’t go backward. A same
+series must indeed be susceptible to variations. A same series must indeed be susceptible
+to variations, that is, there will be, for each corresponding point of view, a variation on
+the series.
+
+So good, that gives us something: a series is susceptible to variations. What does that
+mean, variations of a series? I am not seeking definitive definitions. We are still operating
+on a kind of intuition, and we are in the introduction to Leibniz, so we cannot ask too
+much from ourselves. But I am telling myself: let’s use a comparison that is going to…
+and that entails a great danger, but in the end… Each of us knows that there is a kind of
+music operating with series. It functions with series of twelve sounds, with the series of
+twelve sounds. Everyone knows that [Arnold] Schoenberg’s name is linked to this music.
+Fine. Well, what happens there? [Jump in the film editing, no omission] And what are the
+variations introduced by Schoenberg into the series of twelve sounds?
+
+                                                                                            20
+
+First type of variation: you can take fewer than twelve sounds, that is, you don’t take
+them all. I would say that here, it’s a purely arithmetic variation.
+
+Second variation: a variation called melodic… no, called rhythmic. You keep the same
+series twice, but you transform the durations. You respect the intervals, but you transform
+the durations.
+
+Third variation, melodic: you transform the intervals. [Pause]
+
+Fourth variation: you transform the ascending movement into descending movement, and
+the descending movement into ascending movement. [Pause]
+
+Fifth variation: recurrent movement, that is, you begin at the point where the preceding
+series ends. You invert the series. Fine.
+
+There you have variations of the series. I would say that a same finite series contains a
+finite number of variables. I can say that an infinite series contains an infinity of
+variables.
+
+Do we not have our solution? Specifically, yes, each of us is a point of view on the
+infinite series of the world. Only here we are: each of us grasps a variable of the series.
+Each of us grasps a variable of the series. Each time, the entire series is there, fine, but as
+this or that variation. Here is what it means [to say] “Each of us is a point of view on the
+city”. Each of us grasps the infinite series of profiles of the city; it’s not at all “to each
+point of view a profile corresponds.” Each of us grasps the infinite series, but as this or
+that variation. This will yield an extraordinary figure that you are going to encounter
+constantly in Leibniz. Each subject, each of us, grasps the entire world as infinite series.
+There you are. Only as we see, this does not mean that each grasps it clearly. It’s in my
+own depths – you sense the return of the theme of the fold – it’s in my own depths that I
+grasp the entire world. Complete this: it’s understood in all this [that] these are things that
+we cannot yet understand, but we can anticipate them. I am not conscious [of the entire
+world]. [Pause] It’s in my depths; it’s in a folded form. Fine. No matter.
+
+Each of us grasps the totality of the world as an infinite series. Yes, but each only grasps
+clearly a tiny portion, such that the clear portion allotted to me is not the same as the clear
+portion allotted to you. And if there is a plurality of points of view, it’s because there are
+as many variations of the series as there are clear portions. What I grasp clearly, you only
+grasp in an obscure manner. Everyone gets even with somebody, eh? Everyone gets even
+with somebody (à chacun la revanche). What each of you grasps clearly, the others
+grasp, yes, but in an obscure way.
+
+Once again, I could say that the clear region is the site of the point of view. The tiny clear
+portion that I grasp in the world is the site of the point of view. Each point of view has a
+site, my tiny portion of clarity. It’s a prodigious idea; it’s a fantastic idea, you
+understand? We are points of view, yes, but do you understand what that means? There’s
+
+                                                                                               21
+
+a tiny domain of clarity – we cannot ask for much more – and then that opens up a whole
+hierarchy. Do animals have a soul? Well obviously, animals have a soul; these are points
+of view, animals. There is the butterfly point of view; there is the elephant point of view;
+there are all of them. These are points of view. So they all do not grasp much clearly.
+There is a hierarchy of souls, fine, of souls. So a little child? [Doubtful shrug from
+Deleuze] Yes, a little child, it’s indeed a little child, but in the end…
+
+What do I grasp clearly? Here I don’t want to say too much ahead of time, but you sense
+that all of Leibniz is engaged in this. What I grasp clearly is finally what relates to my
+body. Why do I have a body? I don’t have a point of view because I have a body; I have a
+body because I have a point of view. There is a deduction of the body starting from the
+point of view. Why do I have a body? Because I only express clearly a tiny portion of the
+series. Otherwise, I would be a pure soul in the world.
+
+I only express clearly a tiny portion of the series. Fine, yes, yes, yes, yes, yes. But
+precisely, that’s what having a body is: I have a body because I express clearly a tiny
+portion of the series. And what I express clearly is precisely going to be what affects my
+body. Who grasps clearly the passage of the Rubicon? One single subject: Caesar. Yes, I
+grasp the passage of the Rubicon, no less than Caesar, yes, no less than him. It’s in me
+like it’s in Caesar. And in fact, that concerns Caesar’s body. Caesar had to take a longer
+step in order to cross the Rubicon. That concerns his body. Fine. No matter. That’s what
+the variations of series are.
+
+I can say, yes, and I have solved my problem. This sentence that seems so inoffensive,
+"each of us [is] like a point of view on the city,” is in fact extraordinarily complex since it
+implies, first, that it’s false that a profile or a face on the city corresponds to each point of
+view; second, since it’s true that every point of view grasps the whole series; and third,
+since there are no fewer multiplicities necessary for points of view since the whole series
+is necessarily affected by an infinite sum of variation such that to each point of view, a
+variation of the whole series corresponds. [Pause]
+
+Understand? So, we are almost done. We can’t take too much more, in any case. You
+understand me still, because there’s not point for me continuing if you no longer
+understand? Yes? I can continue? It doesn’t matter to me; I can start up again the next
+time. So let’s try to continue just a little bit more. So… We are getting close to the goal,
+eh? We are getting close to the goal. Understand?
+
+My purpose today was to go from inflection to inclusion. Inflection is the characteristic
+of the variable curvature under the form of infinite series. And I was saying that this is
+the genetic element of the fold. The variable curvature is the genetic element of the fold.
+And I continued by saying that if things are folded, this is why God never acts in vain.
+Eh? It’s a great principle of Leibniz: God always does everything for the best. If God
+pleated matter, it’s not just for fun; it’s for a final cause. It’s by virtue of a deep finality.
+If the world is not a straight line, if the world is not rectilinear, it’s not by chance. If
+mathematics are mathematics of curvature, it’s because the world sings the glory of God,
+as has been said. And what is the final cause of the fold? I was saying: inclusion. Fine.
+
+                                                                                             22
+
+Folding means placing within. And then we bump into "placing within". Fine. But
+placing within what? So this is going to return to us; this is going to cause us a final
+difficulty about the point of view since we have to answer now: it’s placing within the
+point of view.
+
+And good… Ooo la, la, but then there is the view in the point of view; there you have the
+visible in the point of view. The visible is in the point of view. The visible is included in
+the point of view. In fact, the infinite series of forms is in the point of view. This
+inherence, in esse, that is, “being within,” being in the inclusion, how do we show that it
+belongs to the point of view to contain the visible? Leibniz shows this in the simplest and
+most infantile way possible. And this infantile manner is not even by itself mathematics
+although it seems to be, and does not imply differential calculus, but it presupposes the
+mathematics of differential calculus. For a brief moment, it [the mathematics] borrows,
+on the other hand, the language that is fully developed in differential calculus.
+
+In fact, to show this, Leibniz will say two things. He will say, first case: you take a right
+triangle… You take a right triangle… No, not even a right triangle. You take a right
+angle, excuse me. You take a right angle, like that. [Deleuze makes an ‘L’ gesture in the
+air] -- You see, I am only drawing in the air now; it’s better than going to the board. This
+way, everyone can see and then immediately forget. -- Like that. I draw an arc, the arc of
+the circle, you see? So I have A: the vertex of the angle, and B-C, the extremities of the
+arc. I draw an arc that’s narrower inside. It’s still an arc that refers to the right angle. I
+draw an even narrower one, even narrower. I am getting close to the infinity of the vertex
+‘S’, and I say: where does the right angle begin? Still, this is not mathematics. This calls
+on mathematical language, founded by Leibniz, in fact, but here, it’s quite simple: where
+does the right angle begin?
+
+[Jump in the film editing; Deleuze is looking into a reference text from which he reads] In
+1700, from 12 June 1700,20 I will quickly read to you: “It is evident that this angle is not
+only measured by the great arc B-C-D, but also by a lesser F-G, however small it might
+be, and the opening begins in one word,” the opening of the angle, “begins in one word:
+from the point A that is the center,” that is the vertex of the angle, “it is also in this very
+center that the angle is found, such that we can say that these arcs are represented in the
+center by the relation of the inclination to the center.” This would be very useful to me if
+we had the time to comment on it, for the relation of the inclination, that is, of the
+inflection, to the center. You see, this relation of the inclination, that is, of the inflection
+to the center, is what we had analyzed as today’s departure point, specifically the center
+of curvature. In other words, the angle is already in the vertex of the angle.
+
+Second text: it’s not only the right angle in the vertex; it’s an infinity of angles, an
+infinity of angles that are in the point, since you can always take an infinity of angles that
+coincide through their vertex. And this does not bother us since I remind you that every
+point of view has a site, that is, a region, a region of displacement. This is why one must
+not say “to each immobile point of view corresponds a form,” since the point of view is
+not immobile. The point of view has a site that designates its path (parcours), its limit,
+
+                                                                                               23
+
+the tolerance of its path before arriving at another point of view. Many angles, an infinity
+of angles, can have a common vertex. [Pause]
+
+In other words, the connection of visibles is in the point, or as Serres puts it quite well,
+when the point becomes point of view, space is in the point. It’s no longer that point that
+is in space. This is the kind of revolution about which Leibniz dreams in opposition to
+Newton. It’s not the point that is in space; it’s space that is in the point. In fact, sense how
+much this is a new theory of space that will then have an impact on all mathematics after
+Leibniz and even today, specifically space defined as the order of points of view. This we
+are still unable to understand, so we will come back to it when we reach our discussion of
+space in Leibniz. But space can only be the order of points of view to the extent that the
+point has become point of view. An immediate consequence: space cannot be substance.
+There is no extended substance. Space is an order; it’s not a substance.
+
+Good, but ok, here, really this goes too far. I am only saying that we have just established
+the idea that, in fact, point of view is perfectly able to serve as the subject of inclusion.
+Something is in the point of view, exactly as the infinite series of angles is in the vertex
+that they have in common. [Pause] Fine. In other words, the world is not only an infinite
+series; it is included in each point of view, that is, it is included in each of us. [Pause] It is
+included in each of us. Yes indeed. What does that mean? This is strange because,
+understand, this seems to completely contradict the idea of point of view. Point of view
+seemed to be a point of view by nature onto something outside. There is no longer
+anything exterior to point of view. Yes there is, there is something exterior to point of
+view, it’s the other points of view, but nothing else. The city does not exist; we have to
+go all the way there: the city does not exist outside the points of view onto the city, such
+that the city is what? It’s not an object since there are no longer any objects; there are
+only objectiles, the series of profiles. It’s not an object such that the city is what? It can
+only be the accord of points of view among themselves. The city is identical with the
+assumed accord of points of view onto the city. The city is in the points of view; it does
+not exist outside. In fact, the city is always folded, and to be folded means existing within,
+it’s being included, being included in the point of view. The city is included in the point
+of view; it does not exist outside the point of view that includes it. Fortunately, outside
+the point of view, there is the other point of view, the other points of view such that the
+city is never an object since every object is objectile, but the city is the accord of subjects,
+or of points of view, that is, of superjects.
+
+What can we call the accord of subjects other than by its true name, to wit: God? Well,
+what? Yes that’s it. It means that the point of view is open onto nothing outside. The
+point of view is not open onto an exteriority; it is regulated, regulated from within in
+conformity with other points of view. How do we talk of this? Something like the world
+is a cinema, the world is an Italian theater, a décor in transformation. The world is a
+cinema. Or else we may perhaps have to say something worse, even more included
+because cinema still refers to an outside. Cinema refers to an outside because it is quite
+obvious that something has to be filmed. So after, the film gets folded, and then it gets
+unfolded. But there is still a reference to an exteriority. One had to eliminate any
+references to an exteriority. This is what Leibniz says to us from the start of the
+
+                                                                                            24
+
+Monadology, in a famous text: “the subjects and points of view”, it’s strange, “are
+without doors nor windows.” He says “monads”, a word that I have not yet used since I
+would then have to explain it, so I am keeping myself from using it. But I am saying
+more simply that each subject is without doors nor windows. It grasps the infinite series
+of the world, but this series is within it.
+
+And why is each subject without either doors or windows? At the start of the
+Monadology, [Leibniz] tells us: it’s that – you remember? – subjects are Simples (les
+Simples) as opposed to composed matter. Well, that which is simple can receive nothing
+from outside. Why [is it that] what is simple can receive nothing from outside? For a
+simple reason: if a Simple received something from outside, it would at that moment
+form a Composite with what is acting upon it. So, if there is something simple, this
+Simple can receive nothing from outside, so Leibniz tells us. This is fine, very fine, and
+logically unassailable. If there is something absolutely simple, it can receive nothing from
+outside, which comes down to saying that everything must be located within it. It has
+neither doors nor windows.
+
+So notice this, it’s amazing! This shows well the question of Leibniz’s levels. He comes
+to speak to us of point of view, first moment, and today we have crossed through all sorts
+of levels. First level: we are points of view. We understand that there are points of view
+on the world, yes, on the infinite series of the world. Ah, but be careful: the infinite series
+does not exist outside each point of view, under one variation or another. Henceforth,
+there are neither doors nor windows. Everything is in the point of view; the entire visible
+is in the point of view. So, that leads us to rectify Leibniz’s texts. But we are not the ones
+rectifying them; he rectifies them himself. We readers of Leibniz, we have to reconcile
+his two major propositions: “We are points of view on the city” and “We have neither
+doors nor windows.” There is only Leibniz who understood here as well the stupidity of
+problems of communication.
+
+“We have neither doors nor windows.” So this is not bad. We will see the consequences
+for communication. This is what Leibniz will call the problem of the communication of
+substances, once we’ve said that all the units, all the points of view have neither doors
+nor windows. But then that leads us to correct the notion of point of view. Leibniz began
+by telling us, in the Discourse on Metaphysics [section 9]: “each subject is like a mirror,”
+each subject is like a mirror on the world, a mirror of God or of the world. We are in a
+position to add something: it’s not just any mirror. It’s a concave mirror, and that seems
+indispensable to me. When Leibniz speaks of a mirror, it can only be a question of a
+concave mirror because we saw that inflection referred to a center of curvature on the
+side of concavity, under the vector of concavity. But a mirror assumes a real object. So
+the metaphor of the mirror is only valid at a certain level.
+
+Second point: he said “We are points of view, points of view on the city,” and he linked
+the two statements – mirror and point of view – when he says, for example, in a letter
+[probably a letter to Arnauld]: “Each monad,” no matter, each subject, “is a mirror of the
+universe according to its point of view.” There you have both together: the metaphor of
+the mirror and the theme of point of view. Each person is a mirror of the universe
+
+                                                                                           25
+
+according to his point of view. But a point of view implies an outside; it implies a
+window. It’s useless to tell you that in point of fact, the window looks out on the
+countryside.21 That matters a lot because the countryside is always on the side of
+convexity. The countryside is convex. It cannot be otherwise. So, good. If I have a
+window, I am looking onto the countryside, yes. Only here we are: I have no window. I
+am a point of view without a window. So I say: mirror, point of view, but no window. So,
+let’s consider cinema: I will be like a lined room, with a screen; it’s no longer a mirror,
+but rather a screen that is needed, where the film, folded, unfolds onto the screen, would
+play out onto the screen. And each of us would have his/her film, and the accord between
+the points of view would be the accord of films between each other. This isn’t bad. But
+that doesn’t work because a film still had to be filmed, produced. The screen still doesn’t
+work. There is still too much reference to an exteriority. The screen still implies a
+window. We have to close the windows even more.
+
+What’s left for us? So here as well, I am doing what I did earlier with Schoenberg; while
+begging you not to take advantage and use this badly, I am making a very arbitrary
+rapprochement, fine, something like… that implies no reference onto the exterior, socalled digital images (images numériques).22 Ah yes. What the point of view takes hold
+of, what the point of view grasps, is what has no existence outside itself. Or if you prefer,
+images without models, a pure genesis, that is, digital images; or if you prefer, Leibniz’s
+model, the model that’s rigorously suitable for Leibniz: it’s not the mirror, nor the
+window, nor the screen. Eh? He will pass by the mirror and the window, and he will
+reject the window. You see, at the start of the Monadology, we have neither door nor
+window. Good. Neither mirror, nor… This isn’t adequate. None of the three terms is
+adequate…. Neither mirror, nor window, nor screen. So then what? And what are we
+draped with, us, if we can use this term since we are units (unités)? Can we say “the walls
+of a unit”? What are these closed, opaque walls? Let’s call them information grids
+(tableaux d’information).
+
+The subject is not open onto the exterior. It is in communication with an information grid
+that corresponds to it, and data are inscribed onto this grid. And on my very own
+information grid, certain bits of data are inscribed. On the information grid for one of
+you, other bits of data are inscribed. Is there a world? Yes, there is a world if the
+information grids align, if there is a concordance of information grids. Where would this
+concordance come from? That’s something we cannot know at the moment; we won’t
+even ask ourselves that. We say: I don’t open my window on the outside; I consult an
+information grid. So there, I consult within myself. I consult an information grid within
+myself; I don’t open my window. What is this ? It’s the city. Why is that the city? The
+city is in our heads, you know? The city, this is marvelous, the city; as has been said, it’s
+a brain, the city. And it’s not only that: a monstrous brain, a disgusting brain, that is, an
+information grid. Yes.
+
+This is why I believe that it’s not by chance that the phrase “a point of view onto the city”
+flows from his pen. A point of view onto the countryside, this is [from] the window. But
+here, I don’t even open my window in the morning. There is no longer any need for
+windows. There are people without windows. If I want to know the temperature, I have
+
+                                                                                        26
+
+two ways: the countryside way, I open my window and even risk sticking my arm
+outside; then pulling it back in, I close the window. Fine. But otherwise? Otherwise, I
+have a dedicated thermometer, with a wire going inside, and another inside, with two
+readings; and I look at the thermometer, and I know simultaneously the temperature
+inside the house and the temperature outside. This is already the start of an information
+grid. Some bits of digital data are inscribed on my information grid. Neither door, nor
+window. I have a monologue with myself: "Ah, wow, it’s cold." But I haven’t opened my
+window. This is the regime of information grids in the city.
+
+“We are points of view onto the city.” You see what that means now. That means: being
+a point of view is reading an information grid. Simply, I always have information that the
+other does not have, fortunately. Each person has his/her own information. All that could
+create discord. A singular harmony is required for all these kinds of information even to
+come into a vague concordance. Here too, even at the cost… I am making jumps to try to
+… Above all, don’t take all this literally; we are in an introduction, so given that, I did
+not mean that Leibniz is a precursor of Schoenberg, especially not that. I used
+Schoenberg to make something small understood. I don’t mean to say that Leibniz is the
+precursor of modern painting, but there is a point that is striking in modern painting, and
+it has been emphasized – I spoke about it in past years: it’s how the canvas changes
+status, how the canvas has changed status, that is, how for a long time, the canvas was
+like or called for a window on the world. [Jump both in film editing and the audio
+recording]
+
+In what we call modern painting, I’m not saying this would be better, but sense that there
+is no longer a window onto the world. Take what’s known as abstract expressionism
+which has been something fundamental for launching a painting called contemporary.
+Fine. Is a painting by Pollock a window on the world? And it’s not only the question of
+figurative or not figurative. It’s not this that… A line by Pollock – I am mentioning this
+for those who see what I’m describing – a line by Pollock obviously is not a window onto
+the world. It’s what? It’s inscribed onto an opaque surface, of what type? Say, this
+interests me because if there is a painting of inflection, and of inflection with variable
+curvature, it’s indeed Pollock’s lines.23
+
+But then, in what sense does that develop? That develops more and more in the form of…
+The line is inscribed onto a kind of information grid, either a temperature curve [or…].
+The question becomes not “what do I see through the window?”, but “what kinds of
+information does the painting communicate to me?” The painting has become an opaque
+surface that functions like an information grid. And perhaps, as an American critic has
+said, in a very lovely article,24 the person through which that appears the best, where the
+genius of painting appears the most profoundly, is Rauschenberg. No doubt, it’s with
+Rauschenberg that a new status appears. I am not at all saying that he invents it all at
+once; it’s once again because Pollock and all those who preceded Pollock… One would
+have to create an entire history of this mutation of the painting’s status.
+
+But you find yourself gazing at a famous painting by Rauschenberg that shows a line of
+inflection on the opaque layer that covers the painting. Or sometimes he creates forms
+
+                                                                                             27
+
+from cut-up newspapers. These are not at all collages, understand: he uses printed matter
+as backing. One can no better underscore the painting as an information grid. And this is
+how he creates his painting, a kind of infinitely sinuous line, a line of infinite inflection
+with numerical data, and numerical data in all the senses. An information grid, in fact, no
+longer knows high or low, right or left. A window, yes, a window has a high and a low, a
+right and a left. One window refers to a horizontal man; an information grid no longer
+refers to a horizontal man, that is, there is liberation of the point of view in relation to any
+frontality. Good, and this painting I am thinking of, the famous one by Rauschenberg, as
+its line and its numbers, and from it emanated a pictorial power in a pure state and leaves
+us with this question: “What information does this painting convey to me?” 25
+
+So I would say that here, we have something like an approximation of a realized
+Leibnizian world. In what sense? I just wanted to say, there, in what direction we have
+today fulfilled our short portion, the task we gave ourselves, specifically: the last time – I
+really want you to sense our progress, how slow it is; you have to sense this – the last
+time, once again, we had been on the first floor of Baroque architecture, not the lower
+floor, but the upper floor.26 We’ve moved from inflection, from curvature to the infinite
+series. And today, we’ve moved from inflection to inclusion. Inflection included itself, is
+included in what? Inflection is included in a point of view. On what condition? On the
+condition that point of view be grasped without reference to a supposed exteriority and
+only with reference to other points of view, that is, that the model not be the window, but
+the information grid, as an information grid, a play between terminals, whatever you like.
+You can act stupidly (déconner), you can say whatever since, from the moment that you
+don’t insist on it, there’s no point doing so. Leibniz’s fundamental statement, to support
+all this: there is no window. So I believe myself to have answered the question: in what
+sense can we consider that inflections are included in points, in points defined as points
+of view?
+
+So go reflect on all this and tell me about it next time. And then, I stared into the camera,
+eh! [Deleuze smiles; someone says something inaudible to which he responds] I hope so,
+I hope that I didn’t ruin it by looking into the camera… So there we are; thank you very
+much. [Deleuze begins to relax, rolling his shoulder, visibly wasted, and he emits tiny
+groans, saying] Tired…
+
+A student: It’s the heat that does that do you.
+
+Deleuze: The heat… the filmmaking… [The students start leaving; there is a jump in the
+film editing, and we see Deleuze nearly alone in the classroom, dressed in hat and coat,
+and he says] This was all cinema! [Someone suggests something inaudible, and he
+answers] You want me to fall? [The camera follows Deleuze as he leaves the room] Fine,
+so long! [He turns left into a corridor, and then leaves the building onto the street, and
+says] There we are, it’s recess. That’s it! [Jump to black] [Audio: 2:31:26; Video:
+2:28:04]
+
+Notes
+
+                                                                                                          28
+
+  This is a reference to the seminar titled A Thousand Plateaus I, linked to the Deleuze Seminars site, from
+1975-76.
+  This opening review corresponds to chapter 1 in The Fold.
+  This reference is to the first figure on p. 15 in The Fold.
+  For the introduction of point of view and its linked terms, cf. The Fold, pp. 19-23; Le Pli, pp. 25-30.
+  On Desargues and these distinctions, cf. The Fold, pp. 20-22; Le Pli, pp. 28-30.
+  www.earlymoderntexts.com/assets/pdfs/leibniz1686d.pdf, para 14, p. 9.
+  Cf. The Fold, p. 21; Le Pli, pp. 29-30.
+  Cf. The Fold, pp. 18-19; Le Pli, pp. 25-27.
+  Deleuze adraws a triangle on the board. This drawing corresponds to the image in The Fold, p.21; Le Pli,
+p. 29.
+   On involution, cf. The Fold, p. 21; Le Pli, p. 29.
+   On arranging, cf. The Fold, p. 21; Le Pli, pp. 29-30.
+   On the question of “problems” in philosophy, see L’Abécédaire de Gilles Deleuze, "H as in the History
+of Philosophy".
+   On the futility of “discussion,” cf. What Is Philosophy? pp.28-29.
+   On this term, cf. The Fold, p. 21, p. 46; Le Pli, p. 30, p.62.
+   On this triangle, cf. The Fold, p. 129; Le Pli, p. 176.
+   Here begins a three-minute passage that was deliberately edited from the film and is only accessible on
+the BNF recording, perhaps because of the subject given in the example, given that the film is an Italian
+production for RAI.
+   On Baltrusaijtis, anamorphosis, and Holbein, cf. The Fold, note 12, p. 145; in Le Pli, the corresponding
+note, 11 (p. 27), refers only to anamorphosis.
+   On these aspects of point of view, subject and object, cf. The Fold, pp. 19-20; Le Pli, pp. 27-28.
+   Discourse, p. 5, #9.
+   Letter to Sofia, cf. The Fold, note 18, p. 146; Le Pli, note 17, p. 30.
+   On the countryside perspective, cf. The Fold, p. 27; Le Pli, p. 38.
+   Deleuze makes a brief reference to this same example at the start of chapter 3 of The Fold.
+   On Pollock’s line, see the Painting seminar, session 2, April 7, 1981.
+   The reference is to Leo Steinberg, cf. The Fold and Le Pli, chapter 3, note 2.
+   For a brief reference to Rauschenberg’s work, cf. the start of The Fold, chapter 3.
+   This refers to The Fold, chapter 1.

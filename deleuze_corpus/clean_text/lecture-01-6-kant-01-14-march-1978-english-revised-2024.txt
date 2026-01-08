@@ -1,0 +1,824 @@
+1
+
+Gilles Deleuze
+
+Seminar on Kant, 1978
+
+Lecture 01, 14 March 1978
+
+Transcribed by WebDeleuze
+
+Translated by Melissa McMahon
+
+We are returning to Kant.1 May this be an occasion for you to skim, read or re-read The Critique
+of Pure Reason. There is no doubt that a tremendous event in philosophy happens with this idea
+of critique. In going into it, ourselves, or in going back into it, I had stopped reading it a very
+long time ago, and I read it again for you; it must be said that it is a completely stifling
+philosophy. It's an excessive atmosphere, but if one holds up -- and the important thing above all
+is not to understand, the important thing is to take on the rhythm of a given man, a given writer, a
+given philosopher -- if one holds up, all this northern fog which lands on top of us starts to
+dissipate and underneath there is an amazing architecture. When I said to you that a great
+philosopher is nevertheless someone who invents concepts, in Kant's case, in this fog, there
+functions a sort of thinking machine, a sort of creation of concepts that is absolutely frightening.
+We can try to say that all of the creations and novelties that Kantianism will bring to philosophy
+turn on a certain problem of time and an entirely new conception of time, a conception of which
+we can say that its elaboration by Kant will be decisive for all that happened afterwards, which is
+to say we will try to determine a sort of modern consciousness of time in opposition to a classical
+or ancient consciousness of time.
+
+Why it is that it was Kant who created the philosophical concepts of this new consciousness of
+time, making his philosophical expression possible, does not concern us or in any case does not
+interest me. But what I would like to say is that it is indeed this sort of consciousness of time
+which takes on a philosophical status in Kant, and which is completely new. I will proceed by
+numbered points because I'm always working with the idea that to each point corresponds a type
+of concept. And once again, I will be happy if you grant me at the end of these lessons that
+philosophers are precisely this, that they are no less creative than painters or musicians, simply
+that they create in a determinable domain that is the creation of concepts.
+
+Firstly, what does Kant understand by the a priori which he opposes to the a posteriori? These
+are common terms. In some cases, new words must be invented, and this happens with Kant
+when he creates the notion of the transcendental, which is a very strange notion, transcendental
+subject... No doubt you will tell me that the word existed before, but it was rarely used and it
+marked no difference from the ordinary word transcendent, whereas Kant gives it a very special
+sense: the transcendental subject, he almost created a word... in the case of the a priori, and the a
+posteriori he borrows a word, but he completely renews its sense.
+
+                                                                                                         2
+
+A priori, in the first place, means: independent of experience, that which does not depend on
+experience. In opposition to a posteriori which means: given or givable in experience. What
+things are a priori? Note that I don't ask myself: does the a priori exist, which is to say, are there
+things independent of experience? The question of existence is secondary, we must first know
+what a thing is in order to be able to say and reply to the question of existence: does it exist or
+not? I'm saying that if it exists, what is something that would be independent of experience?
+Thus not givable in experience. Nothing complicated so far, Kant takes this up very quickly, the
+a priori in this sense is the universal and the necessary. Everything that is necessary and
+universal is said to be a priori. Why?
+
+It certainly fulfills the first condition of the a priori: not given in experience, because, by
+definition, experience only gives me the particular and the contingent. With expressions of
+universality and necessity it is always so necessarily, as also with certain uses of the future tense,
+or expressions of the type "each time": each time I bring water to 100 degrees it will boil.
+Philosophers have said this for a very long time: there is something in this which is not given in
+experience. What is it? It's the expressions: "always", "necessarily", or even the future tense.
+What experience has given me is, strictly speaking, that each time I have effectively brought
+water to 100 degrees, it has boiled, but in the formula "water necessarily boils at 100 degrees",
+the necessarily is not an object of experience. Similarly if I say "all objects of experience" - do I
+have the right to say this? We don't even know if "all objects of experience" is not nonsensical.
+Supposing that it is not nonsensical, "all objects of experience" are not given in experience, for
+the simple reason that experience is [inaudible] Thus you can always make a summation, a sum
+of the objects you have experienced, but this sum is indefinite.
+
+Thus the universal and the necessary by definition are not givable in an experience since an
+experience is always particular and contingent. So that gives us a second determination of the a
+priori. The a priori was first of all what is independent of experience, in the second place it is
+what is universal and necessary.
+
+Third point: how can this universal and necessary be defined? There is already something
+extremely delicate here. To say that something is independent of experience doesn't prevent this
+something perhaps being applied to experience and only to it.
+
+The question of application is entirely different. When I say "water will always come to a boil at
+100 degrees", I don't know where this idea of "always" comes from, since it is not given to me in
+experience, I don't know where this idea of necessity comes from, since it is not given to me in
+experience, this doesn't prevent the fact that "always" is applied to water, boiling, 100 degrees,
+all things which are given in experience. Let's suppose then that the a priori is itself independent
+of experience but applies to objects given in experience. In other words the universal and the
+necessary are said of objects of experience; perhaps they are said of other things as well, but they
+are said of objects of experience.
+
+What is universal and necessary? What would these universals and necessaries be which can be
+said of objects of experience? Here is introduced a notion which is famous in philosophy, that of
+the category. A certain number of philosophers have even made or proposed what are called
+tables of categories. There is a famous table of categories in Aristotle. With Kant, who did not
+
+                                                                                                         3
+
+escape a strong influence from Aristotle, there will be another table of categories. What is a
+category? A category is not just anything in philosophy, it's as rigorous as a scientific notion in
+another domain. What is called a category is a universal predicate, or universal attribute if you
+want. Which is to say a predicate which is attributed to, or predicated of, or said of any object.
+This notion of "any object" is bizarre. I say "the rose is red". What is that? "The rose is red" is
+not complicated, it's a relation between two concepts, the rose and red, and if I say "what is
+universal or necessary in that?" I can reply: nothing. Not all objects are roses, not all roses are
+red. Not all reds are the colour of roses. I would say that there is an experience of the red rose
+and that this experience is particular, contingent, a posteriori like all experience. Compare this
+judgement: "the rose is red" to this other judgement: "the object has a cause" or even "the rose
+has a cause".
+
+I see a difference straight away, which is that the concept of rose defines what will be called a
+class in so far as it is an a posteriori concept, the concept of rose defines a class or set. Red is a
+property of a subset of this set, the subset formed by red roses. I can define a set according to
+what it excludes and in relation to what it excludes: all that is not a rose. The set of roses is
+carved out of a broader set which is that formed by flowers, and the set of roses can be
+distinguished from the rest, which is to say all the flowers which are not roses.
+
+When I say, "all objects have a cause", am I not in another domain completely? Evidently I am, I
+am completely in a different domain because to have a cause is a universal predicate which is
+applied to all objects of possible experience, to the point that I don't even need to - or I believe
+that - but that makes no difference because "I believe" will become an act that we will have to
+analyse - I believe that if an unknown object emerged in experience before my eyes, this object
+would not be an object if it didn't have a cause. To have a cause or to be caused is a predicate of
+a wholly other type than the predicate "red". Why? Because the predicate "to be caused" - to the
+point where we can wonder, after reflection, is that really a predicate or is it something else? -
+the predicate "to be caused" is predicable of any object of possible experience, to the point where
+it is not going to define a set or a subset within experience because it is strictly coextensive with
+the totality of possible experience.
+
+Moreover, we must go back. When I said that the totality of possible experience has perhaps no
+sense, now we have the response: the totality of possible experience makes no sense in itself, but
+it is precisely to the extent that there are predicates which are attributed to all possible objects,
+which are thus more than predicates, and this is what Kant will call conditions, they are the
+conditions of possible experience, it is thus via the notion of conditions of experience that the
+idea of a whole of possible experience will take on a sense. There is a whole of possible
+experience because there are predicates or pseudo-predicates which are attributed to all possible
+objects and these predicates are precisely what are called categories. I'll cite some examples of
+categories according to Kant: unity, plurality, totality (with Kant they come in threes). Reality,
+negation, limitation. Substance, cause, reciprocity.
+
+I'll stop there. In what sense are these categories and not predicates of the type red, green, etc...?
+They are categories or conditions of possible experience for the simple reason that any object is
+only an object to the extent that it is conceived as one, but also as multiple, having the unit parts
+of a multiplicity, and in this forming a totality, any object whatever has a reality. On the other
+
+                                                                                                     4
+
+hand, it excludes what it is not: negation, and by virtue of this it has limits: limitation. Any object
+whatever is substance, any object whatever has a cause and is itself cause of other things.
+
+That's enough to be able to say that my notion of object is made in such a manner that if I
+encountered a something which did not allow the categories be attributed to it, I would say that it
+is not an object. So there we have as a last determination of the a priori, they are the conditions
+of possible experience, which is to say universal predicates as opposed to empirical predicates or
+a posteriori predicates.
+
+I could define the categories in the simplest way as being the predicates of any object whatever.
+Thus you can yourselves make your list of categories according to your mood, according to your
+character... what would be good would be to see if everybody came up with the same list of
+categories. In any case you do not have the right to cheat with the word. To make your list of
+categories is for you to ask yourselves what is for me predicable of any object whatever. I have
+already given a certain list of them, with nine categories. In fact, for Kant, there are twelve of
+them, but I left three aside for later; you see: unity, plurality, totality, affirmation, negation and
+limitation, substance, cause, reciprocity or community. To finish with this first point, I am saying
+that the categories, qua predicates of any object whatever, are a priori, and they are conditions of
+possible experience; understand that it is through them that the notion of possible experience
+takes on a sense.
+
+To the question: does the whole of possible experience mean something? No meaning [sens] at
+all if we remain in an a posteriori approach, because in an a posteriori approach I am led to make
+an addition: the roses, the flowers other than roses, the plants which are not flowers, the animals,
+etc.... I could go to infinity like that and nothing tells me that I have a whole of possible
+experience. On the contrary, experience is fundamentally fragmented, it is opposed to a
+totalization. If Kant launches this very, very new notion of a totality of possible experience it is
+because he is in a position to define, to say: yes, there is a level where the whole of possible
+experience takes on a sense, it is precisely because there are universal predicates which are
+attributed to all things, which is to say are attributed to any object whatever. Thus it is a priori
+that the notion of the totality of possible experience will be founded.
+
+Is there anything else besides the categories that can be a priori, which is to say, universal and
+necessary? The reply is yes, and this other thing is space and time. Because every object is in
+space and in time, or at least in time. But you will say to me straight away, very well then, why
+not make a category of them, why not add space and time as two categories? Because space and
+time are also, it seems, predicates. Obviously, Kant has the most serious reasons to not want to
+and he will go to great pains to distinguish the categories on the one hand, and on the other hand
+space and time. There will thus be two sorts of a priori elements: the categories and space and
+time. Why doesn't he want space and time to be among the categories? I will give a reason very
+quickly which will become clear afterwards: it is that the categories qua predicates of possible
+experience are concepts, whereas Kant fundamentally holds that, these are a priori
+representations, a priori representations or concepts, while space and time are presentations.
+There you also have something very new in philosophy, it will be Kant's work to distinguish
+presentation and representation. So there will be two sorts of elements in the a priori.
+
+                                                                                                        5
+
+My second point is Kant's importance at another level, which is the notion of phenomenon, and
+that also is very important. There Kant operates a kind of essential transformation of a word
+which was frequently employed previously in philosophy. Previously philosophers spoke of
+phenomenon to distinguish what? Very broadly we can say that phenomenon was something like
+appearance. An appearance. The sensible, the a posteriori, what was given in experience had the
+status of phenomenon or appearance, and the sensible appearance was opposed to the intelligible
+essence. The intelligible essence was also the thing such as it is in itself, it was the thing in itself,
+the thing itself or the thing as thought; the thing as thought, as phenomenon, is a Greek word
+which precisely designates the appearance or something we don't know yet, the thing as thought
+in Greek was the noumenon, which means the "thought". I can thus say that the whole of
+classical philosophy from Plato onwards seemed to develop itself within the frame of a duality
+between sensible appearances and intelligible essences. You can see clearly that this already
+implies a certain status of the subject. If I say that there are appearances and that there are
+essences, which are basically like the sensible and the intelligible, this implies a certain position
+of the knowing subject, namely: the very notion of appearance refers to a fundamental defect in
+the subject. A fundamental defect, namely: appearance is in the end the thing such as it appears
+to me by virtue of my subjective constitution which deforms it. The famous example of
+appearance: the stick in water appears broken to me. It's what is called the rich domain of
+sensory illusions. So much so that in order to reach the thing in itself the subject must in fact
+overcome this sort of constitutive infirmity which makes it live amongst appearances. It's Plato's
+theme: leave appearances to find essences.
+
+With Kant it's like a bolt of lightning, afterwards we can always play clever, and even must play
+clever, with Kant a radically new understanding of the notion of phenomenon emerges. Namely
+that the phenomenon will no longer at all be appearance. The difference is fundamental, this idea
+alone was enough for philosophy to enter into a new element, which is to say I think that if there
+is a founder of phenomenology it is Kant. There is phenomenology from the moment that the
+phenomenon is no longer defined as appearance but as apparition. The difference is enormous
+because when I say the word apparition I am no longer saying appearance at all, I am no longer
+at all opposing it to essence. The apparition is what appears in so far as it appears. Full stop. I
+don't ask myself if there is something behind, I don't ask myself if it is false or not false. The
+apparition is not at all captured in the oppositional couple, in the binary distinction where we
+find appearance, distinct from essence.
+
+Phenomenology claims to be a rigorous science of the apparition as such, which is to say asks
+itself the question: what can we say about the fact of appearing? It's the opposite of a discipline
+of appearances. What does an apparition refer to? The appearance is something that refers to
+essence in a relation of disjunction, in a disjunctive relation, which is to say either it is
+appearance or it is essence. The apparition is very different, it's something that refers to the
+conditions of what appears. The conceptual landscape has literally changed completely, the
+problem is absolutely no longer the same, the problem has become phenomenological. For the
+disjunctive couple appearance/essence, Kant will substitute the conjunctive couple, what
+appears/conditions of apparition. Everything is new in this.
+
+To make things a little more modern, I would just as well say: to the disjunctive couple
+appearance/essence, Kant is the first who substitutes the conjunctive couple apparition/sense,
+
+                                                                                                        6
+
+sense of the apparition, signification of the apparition. There is no longer the essence behind the
+appearance, there is the sense or non-sense of what appears. Grant me at least that even if what I
+say remains just a matter of words, it's a radically new atmosphere of thought, to the point where
+I can say that in this respect we are all Kantians.
+
+It's obvious that thought, at that time, was changing elements. People had for a long time thought
+in terms which didn't come from Christianity but which fit in very well with Christianity, in the
+appearance/essence distinction, and towards the end of the eighteenth century, prepared no doubt
+by all sorts of movements, a radical change takes place: for the whole appearance/essence duality
+which in a sense implies a degraded sensible world, which even implies if need be original sin, is
+substituted a radically new type of thought: something appears, tell me what it signifies or, and
+this amounts to the same thing, tell me what its condition is.
+
+When Freud comes up and says that there are certain phenomena which appear in the field of
+consciousness, what do these phenomena refer to, Freud is Kantian. How so? In a way that is at
+the same time very general but also very rigorous, namely that, like all those of his era and since
+Kant we spontaneously think in terms of the relation apparition/conditions of the apparition, or
+apparition/sense of what appears, and no longer in the terms of essence/appearance.
+
+If you don't see the enormity of the reversal, admire the fact that the subject, in my second
+couple, the subject is not at all in the same situation. In the disjunctive couple
+appearance/essence, the subject is immediately condemned to grasp appearances by virtue of a
+fragility which is consubstantial with it, and the subject requires a whole method, it needs to
+make a whole effort to get out of appearances and reach the essence. In the other case, what
+makes the subject take on an entirely different value? It's when I say that every apparition refers
+to the conditions of the appearing of the apparition, in this very statement I am saying that these
+conditions belong to the being to whom the apparition appears, in other words the subject is
+constitutive - and understand this well, otherwise it's a radical misinterpretation - the subject is
+constitutive not of the apparition, it is not constitutive of what appears, but it is constitutive of
+the conditions under what appears to it appears to it.
+
+I mean that the substitution of the conjunctive couple phenomena-conditions, or apparitionsconditions ensures a promotion of the subject in so far as the subject constitutes the very
+conditions of the apparition, instead of constituting and being responsible for the limitations of
+appearance, or the illusions of appearance. There is indeed a subject, Kant will say, which is
+subordinated to appearances and which falls into sensory illusions; it will be called the empirical
+subject, but there is another subject which is evidently neither you nor me, which above all is not
+reducible to any empirical subject, which will be from that point on named the transcendental
+subject for it is the unity of all the conditions under which something appears, appears to whom?
+Appears to each empirical subject. It's already beautiful as a system of ideas. I hope you can feel
+its extent, it's a tremendous machine.
+
+To finish this second point, I'll make two corrections: Kant is at the turning-point of something,
+so it's more complicated than I'm making it out to be because he keeps something of the old
+essence-appearance difference, and effectively he will say all the time: do not confuse the
+phenomenon with the thing in itself, the thing in itself is the pure noumenon, which is to say it is
+
+                                                                                                      7
+
+what can only be thought, while the phenomenon is what is given in sensible experience. So he
+maintains the disjunctive duality phenomenon/thing in itself, noumenon. It's the duality of the
+couple appearance/ essence. But he gets out of it and he is already in another type of thought for
+a very simple reason for he says that the thing in itself, it is so by nature or the noumenon - the
+thing in itself can be thought, it is thus noumenon, but it cannot be known. So if it can be
+determined, it is a completely different point of view than that of knowledge; so we don't bother
+with it or at least we will bother about it in very special conditions.
+
+What counts from the point of view of knowledge and of all possible knowledge is the other
+couple, apparition-conditions of appearing, conditions of the fact of appearing.
+
+Once again if I sum up this reversal it's the one which consists in substituting for appearanceessence, apparition-conditions or apparition-sense of the apparition.
+
+If you ask me what these conditions of appearing are, fortunately we have got somewhere
+because our first point gave the answer, the conditions of appearing, which is to say the
+conditions of the phenomenon, in so far as the phenomenon is what appears, we will not look for
+an essence behind the phenomenon, we will seek the conditions of its apparition, and in fact the
+conditions of its apparition are, the categories on one hand and on the other space and time.
+
+Everything which appears appears under the conditions of space and time, and under the
+conditions of the categories. By this fact space and time on the one hand and on the other the
+categories are the forms of all possible experience and they belong not to things as they are in
+themselves, but as forms of all phenomena, as forms of all apparition, space and time on the one
+hand, the categories on the other hand are the dimensions of the transcendental subject. Time is
+already completely involved here. Are there any questions?
+
+Richard Pinhas: How is the difference between the transcendental subject and the empirical
+subject distributed? How is it very different from the domain of being?
+
+Deleuze: Obviously he needs another notion. We start from the idea: phenomenon equals
+apparition. The phenomenon is not the appearance behind which there would be an essence, it's
+what appears in so far as it appears. I can add that it appears to someone, all experience is given
+to someone. All experience is related to a subject, a subject which can be determined in space
+and time. It's here and now that I put my little saucepan on to boil and light the fire. I would say
+that all apparition appears to an empirical subject or to an empirical self. But all apparition refers
+not to an essence behind it but to conditions which condition its very appearing. The conditions
+of the apparition - these are thus forms since apparitions appear in these forms, or under these
+forms - the conditions of the apparition are space and time and the categories. In other words
+space and time are the forms of representation of what appears.
+
+Given this if the apparition presupposes conditions which are not like objective essences behind
+it, but are like the conditions of its apparition to a given empirical self, we already have no more
+choice: the formal conditions of all apparition must be determined as the dimensions of a subject
+which conditions the appearing of the apparition to an empirical self, this subject cannot itself be
+an empirical self, it will be a universal and necessary self. It's for this subject that Kant feels the
+
+                                                                                                     8
+
+need to forge or to extend a word which only had a very restrained theological use till then, thus
+the need to invent the notion of the transcendental, the transcendental subject being the instance
+which the conditions of all apparition are related to, while the apparition itself appears to
+empirical subjects. That doesn't tell you yet very well what the transcendental subject is, you'll
+have to wait because it will be so involved with the problem of time.
+
+We just need for one little thing to suddenly become concrete, we mustn't demand continuous
+concreteness. There is the concrete and the opposite of the concrete, the true opposite of the
+concrete is not the abstract, it's the discrete. Discretion is the moment of thought. My aim is to
+arrive at a fabulous conception of time.
+
+Georges Comtesse: [inaudible comment]
+
+Deleuze: The synthetic a priori was my third point. We have to begin somewhere. If I had begun
+there I would have needed a completely different organisation. Quite simply it seems to me that
+in all I have said I have not needed to assume synthetic judgements. Third point: what is a
+synthesis for Kant?
+
+It is common to distinguish two types of judgements. Judgements which are called analytic and
+judgements which are called synthetic. By definition, a judgement is called analytic if it
+expresses a predicate which is already contained in the subject, i.e. there will be an analytic
+relationship between two concepts when one of these concepts is contained in the other. An
+example of an analytic judgement: A is A, it's the principle of identity. When I say "A is A" I
+don't go outside of concept A. I predicate A of itself, I attribute A to itself, I'm in no danger of
+making a mistake. "Blue is blue", you will say to me that that doesn't go very far, it's obvious...
+because when I say "Bodies are extended" what is that? We want to reply that it's an analytic
+judgement. Why? Because I couldn't have thought the concept "body" - we're not saying "thing"
+- without having already included the concept of extension, thus when I say "Bodies are
+extended" I am formulating an analytic judgement. I think Kant would say something very
+malicious like: OK all bodies are extended is an analytic judgement, but on the other hand "all
+phenomena appear in space or in extension" is a synthetic judgement because if it is true that the
+concept "extended" is in the concept "body", on the other hand the concept "extended" is not in
+the concept "phenomenon" nor the concept "body" in the concept "phenomenon".
+
+Well, let's suppose that "all bodies are extended" is an analytic judgement. At least we can be
+sure of one thing which is that an analytic judgement is perhaps useless but it's true. "A is A" is
+true, no one has ever denied "A is A". In Hegelian-style dialectical contradiction no one says "A
+is not A", they say "A is not non-A", but just that a thing includes in its being this non-being that
+it is not. So they take seriously the formula "A is not non-A" in saying that the being of the thing
+is inseparable from the negation of the negation (is not...not), but they don't deny at all the
+principle of identity.
+
+In experience we have synthetic judgements, it's even in this way that we know things. When I
+say "Oh look, the rose is red", it's an encounter. "Red", at first glance is not contained in the
+concept of rose, the proof is that there are roses which aren't red. You will say that this is stupid
+because isn't "red" contained in the concept of this rose here? It gets complicated because is there
+
+                                                                                                         9
+
+a concept of this rose here, is there a concept of the singular? We'll leave that aside. We will say
+very broadly that, apparently, "the rose is red" is a synthetic judgement.
+
+You can see how this sorts itself out. All analytic judgements are a priori, it's independently of
+any experience that I can say that a thing is what it is. "A is A" is an a priori judgement. Still at
+first glance, the synthetic judgement seems by nature to be the combination of two
+heterogeneous concepts, the rose and the red, it establishes a link or a synthesis between two
+heterogeneous concepts and is by virtue of this a posteriori. The form of this judgement is "A is
+B". In a certain way, I'll just say very quickly, classical philosophy before Kant, just as I was
+saying a moment ago, is caught in the dualist couple, in the disjunctive duality
+essence/appearance, classical philosophy was caught, at least in appearance, in a certain duality:
+either a judgement is a priori and it is analytic, or it is synthetic and it is empirical or a posteriori.
+
+It became very complicated to know in what conditions an empirical judgement could be true.
+There is a famous and very prodigious attempt, Leibniz' attempt, before Kant. In order to found
+the notion of truth, he is led to try and show that all judgements are analytic, we just don't know
+it, we believe in the existence of synthetic judgements because we never take the analysis far
+enough, which is to say to infinity, it's because of this that we believe that there are synthetic
+judgements. But if we could take the analysis far enough, when we truthfully affirm one concept
+of another, the affirmed concept is always interior and contained in the one we affirm it of, to the
+point that - this gives Leibniz' famous theses - Caesar crossed the Rubicon, this proposition
+which seems eminently to be a synthetic proposition, implies the link between two
+representations: Caesar crosses the Rubicon on such and such a date, at such a point in space,
+here-and-now, which seems to be the very signature of the a posteriori, Leibniz says that if in the
+concept of Caesar there was the concept "crossing the Rubicon"... is it any accident that it's the
+same man who is one of the creators of differential calculus, which is to say a mathematical form
+of infinite analysis?
+
+Evidently not, it's not an accident. What does he mean when he manages to treat "crossing the
+Rubicon" as a predicate which is contained in the concept Caesar exactly as "extended" is
+contained in the concept body? Obviously he too will have to engage in a quite astonishing sort
+of gymnastics of concept-creation, because afterwards he will have to save freedom, he holds to
+this for his own reasons, so how can Caesar be free when from the beginning of time "he crossed
+the Rubicon here and now" is included in his concept? And what does such a proposition of
+Leibniz's imply, namely: there are only analytic judgements? That necessarily implies that space
+and time, the here-and-now be reducible and reduced to the order of concepts. Spatio-temporal
+position will be treated as a predicate, which is to say as an attributable concept.
+
+Why does Kant hold so fiercely to the heterogeneity of space and time on the one hand, and on
+the other hand the categories, i.e. a priori concepts. Precisely because he needs there to be
+something which is irreducible to the order of the concept.
+
+Classical philosophy is a long discussion between the respective proportion of a posteriori
+synthetic judgements and a priori analytic judgements. The possibility of reducing one to the
+other, or else the impossibility of reducing...
+
+                                                                                                       10
+
+Richard Pinhas: How is it that we don't manage to derive the principle of identity from
+experience? In the example "A is A".
+
+Deleuze: Because it's a pure empty form, A is A. A is not at all given as a generality, it's pure
+thought, it's generic thought. Moreover, as soon as there is an identity in experience, it's a
+temporal identity, which is to say that it's not a necessary identity. So "A is A" is said to be a
+priori precisely because it is strictly without content, it will be a rule for all possible content.
+
+So now Kant comes along and everything happens as if he discovered a new type, a third type of
+judgement, and he will have to invent the concept to designate this third type of judgement,
+namely synthetic a priori judgement. In doing so, he effects an amazing forced takeover [coup de
+force]. For a classical thinker, still very broadly, analytic a priori judgement, that meant
+something, synthetic a posteriori judgement, that meant something, but synthetic a priori
+judgement - that's truly a monster. So a philosopher cannot but create monsters as new concepts.
+It's a prodigious monster. What on earth can it mean? Here I will use some examples which
+aren't even in Kant, in order to be more faithful, to try and be clearer than he is, because he has
+other things to do.
+
+The triangle is white. If I blithely ask you what that is you will reply it's a synthetic a posteriori
+judgement. I'll reply: very good, you've passed the course. If I say, "we call triangle a figure
+formed by three straight lines enclosing a space", three straight lines enclosing a space, what is
+that? I can say that it is an analytic judgement. Why? Because I'm not saying anything but "A is
+A". The concept of triangle is precisely three straight lines enclosing a space. This was broadly
+the distribution in the world of classical philosophy, the terminological coordinates of classical
+philosophy. Kant comes along and says: if I say that the three angles of a triangle are equal to
+two right-angles - elementary geometrical proposition - what is that? Is it an a priori analytic
+judgement or an a posteriori synthetic judgement? Stunned silence! And yet this was something
+everybody had known for a long time, but nobody had used this case to explode the insufficiency
+of certain philosophical categories, the a priori analytic judgement and the a posteriori synthetic
+judgement. Here he is in the process of finding something which really appeals to the taste of
+philosophy qua philosophy, namely the simplest thing in the world which bursts a conceptual
+frame. In effect this story is very curious: the three angles of the triangle are equal to two right
+angles. It is the very example of what is called a geometrical necessity. It's universal and
+necessary, and yet is it analytic?
+
+As for Leibniz, he would have laughed at Kant's observation, this is why philosophy is so good.
+Leibniz's simple reply is: yes of course the concept of the triangle, if you take the analysis far
+enough, it's obvious that its angles being equal to two right angles is contained in the concept.
+But again, under what condition can Leibniz say that? Because he has also invented a
+mathematical discipline which he has determined as already being a topology, and which allows
+a sort of reduction of spatial determinations to conceptual ones. But under what condition?
+
+Kant began by noting the impossibility according to him of reducing spatio-temporal
+determinations to conceptual ones. In other words, there is an order of space and time which is
+irreducible to the order of the concept. So Kant: I say that [the equation of] the three angles of
+the triangle is so little contained in the concept that to demonstrate it you have to extend a side of
+
+                                                                                                      11
+
+the triangle, raise a parallel on the opposite side... already Leibniz would say that he doesn't
+agree, and he would be right because if he accepts something here he would be screwed, but
+we'll let it go, we'll go along with this attempt of Kant's. So here is my concept: three straight
+lines enclosing a space. To demonstrate the equality of three angles to two right-angles, I take for
+example the base of the triangle and I extend it; at point C I raise the parallel to AB and I show
+that the three angles of the triangle are equal to two right-angles. Kant tells us we mustn't get
+carried away, the side didn't grow all by itself, the triangle is not a flower, it doesn't raise a
+parallel to one of its sides all alone, parallel to a side of the triangle isn't part of the concept of
+the triangle thus it's a synthetic judgement. But it's a very curious type of synthetic judgement,
+not at all of the "the rose is red" type, since it's a universal and necessary synthetic judgement.
+How are you going to explain such a judgement?
+
+I'll take another example. "The straight line is black". Everyone understands, no problem:
+synthetic a posteriori judgement; I encounter it in experience, which is to say I come across a
+straight line which has been drawn in black. I take Euclid's definition: "The straight line is the
+line which is ex aequo in all its points", it doesn't matter if you use another definition. In any
+case, I would say that it's an analytic judgement, it's already contained in the concept of the
+straight line, it's even the statement of the concept of straight line. And then comes the monster, I
+say: "the straight line is the shortest path between two points." Is it analytic, can I say that the
+shortest path is contained in the concept "straight line"?
+
+Once again, Leibniz would say: yes. Kant says no. Why? For several reasons. I'll give a vulgar
+reason and a scholarly reason. The vulgar reason: if one looks very closely at "the shortest", is it
+a predicate or an attribute? It's a question of diagnostics. Is it something else? When I say "the
+straight line is the shortest path", it's bizarre, is "the shortest" an attribute? If you managed to
+demonstrate that it's an attribute, it would be via a very complex route. It wouldn't be an attribute
+because "the shortest"... I'll try putting it another way: if you want to find the straight line, take
+the shortest, what does that mean? The shortest appears to be a predicate, but it's not a predicate.
+In fact, it's a rule of construction. It's the rule according to which I produce in experience a line
+as a straight line. You will say to me; we still have to know what "the shortest" is... the shortest is
+not a predicate that I attribute to the straight line, it's a rule of construction for constructing
+straight lines in experience in order to determine a line as straight. We find this example in one
+of his disciples, Salomon Maïmon, a great, great philosopher. So the shortest is the rule of
+construction of the line as straight, it's the means of producing in experience a line as a straight
+line. What does that mean?
+
+It's obvious that a concept does not give the rule of construction for its object. In other words, the
+rule of construction is outside the concept. Once again Leibniz would say "not at all"; if he
+admitted that his whole system is screwed. At first glance the rules of construction are something
+very different from concepts because the rule of construction is the rule according to which one
+produces in experience an object which conforms to the concept. It's thus obligatory that it's not
+in the concept, by definition. You say: "the circle is where points are situated at an equal distance
+from a common point named center", that is the concept of circle, that doesn't give you any
+means of producing a circle. We are already at the heart of the problem of time. When you say
+that a straight line is a line ex aequo in all its points, you have no means of producing a straight
+line in experience, you still need a rule to produce a line that is ex aequo in all its points, you still
+
+                                                                                                      12
+
+need a rule of construction to produce a figure such that it presents points situated at an equal
+distance from a common point named center. And when you have said that the triangle is three
+straight lines enclosing a space, you have no means of producing a triangle in experience. The
+rule of construction of a triangle will be something else completely which will go via the circle,
+by the way. To produce a triangle you have to go via the circle. It's bizarre.
+
+What does Kant mean when he says it's a judgement of a synthetic kind? In effect you will
+define the rule of construction of a triangle by saying that if you give me a segment of a straight
+line - it assumes the straight line, that goes without saying, and the means of producing the
+straight line -, if you give me a segment of straight line, if the two end-points are taken as the
+center, whether of the same radius or varying radii, if the two circles cross, if you link the two
+ends of the straight line to the point where the circles cross, if the circles are of equal radius, this
+triangle will be called equilateral. (correction: if the radius is equal to the circle). There, I have a
+rule of construction.
+
+You see that there is something amazing in the a priori synthetic judgement, it's that instead of
+operating a synthesis between two heterogeneous concepts, it operates a synthesis between the
+concept, between a conceptual determination, the triangle or the circle, and a group of spatiotemporal determinations. In effect, a rule of construction is a spatio-temporal determination.
+Why is it a synthesis? We have seen it, the rule of construction fundamentally relates
+heterogeneous concepts. Where does this power of necessarily relating heterogeneous concepts
+come from, since the only way we thought that heterogeneous concepts could be linked was
+through the contingency of experience: ah yes, this rose is red. But when I say that the straight
+line is the shortest path, I claim to be saying something necessary, in this sense a priori, it's
+geometrical necessity; it doesn't depend on experience. It is said of experience, I can check on
+any straight line that it is in fact the shortest path, but I don't need to. I know it from the first
+time, I know it at the same time that I understand the judgement. I know that it is necessarily and
+universally valid for all straight lines. ... namely what underlies the necessary relation between
+the concepts is a group of spatio-temporal determinations by which one of the concepts is put
+into a necessary relation with the other.
+
+At this point my scholarly reason comes in. When I say "the straight line is the shortest path
+between two points", at first glance I don't see how that gives me the means to construct a
+straight line, but in fact, those who were here other years will remember that I had tried to show
+something quite obvious in geometry. Namely that "the straight line is the shortest path between
+two points" is not a Euclidean-style proposition, it's an Archimedean-style proposition because it
+implies a fundamental comparison between two heterogeneous concepts, that of the straight line
+and that of the curve. In effect, "the straight line is the shortest path between two points" only has
+a meaning in the very precise situation of the arc of a circle and the chord. In other words, it
+implies the method "the straight line is the shortest path between two points", it's what would be
+called an already pre-differential proposition referring to a pre-differential calculus which is the
+famous calculus of Archimedes, the calculus of exhaustion by which one stretches a broken line
+towards a curved line, to infinity, it implies the passage to the limit. That is why the straight line
+is the shortest path between two points even though the curve is not stated explicitly, the concept
+of the curve is not named.
+
+                                                                                                       13
+
+This judgement is devoid of sense if we don't see that it effects a synthesis between two
+concepts, the straight line and the curve, that it's uniquely in the comparison between the straight
+line and the curve in the very precise Archimedean situation that this judgement is expressed,
+with the passage to the limit and exhaustion, and that Kant's response on this level is: you can
+clearly see that it's not an analytic judgement because two heterogeneous concepts are... just as in
+the example of triangles, once again in order to demonstrate the equality of three angles to two
+right-angles, you have to erect a parallel, but the parallel is a concept exterior to the triangle.
+What welds these heterogeneous concepts together in the synthetic a priori judgement? Solely an
+operation which consists this: being a determination of space and time.
+
+It's the determination of space and time, for example in the figure of the circle's arc and the
+chord, in the elevation of the parallel to one side of the triangle, it's this spatio-temporal
+determination which will make possible the necessary link between these concepts which are
+nevertheless not contained in each other, i.e. you will have at that moment a synthetic a priori
+judgement.
+
+What are Kant's reasons for telling us that space and time are not reducible to categories, that is,
+that there are two sorts of a priori forms: space and time on the one hand, the categories on the
+other hand, or if you like space and time are irreducible to the order of concepts. He gives lots of
+reasons, but he invites us to engage in at least one thought-experiment, as it's the simplest it's the
+one I'll give you. He says, you see two hands, it's the paradox of non-superimposable
+symmetrical objects. You see two hands, not only do you see two hands but you think two hands.
+Let's suppose that, in reality, there are never two hands, there are always little differences, prints,
+traits, from the point of view of thought that is of no interest, you can always say that there are
+no two things alike. But you can still think, you can still represent to yourself two absolutely
+identical hands. Note that if I make Leibniz speak from off-stage, he would say: not at all, you
+believe you think it, but you can't think it, you've just stopped the concept. But we will accept
+this sort of dare of Kant's.
+
+So you can think two hands which are strictly identical in their concept. And however far you go
+in the concept, in the characteristics of the concept and you can even think that such a line is on
+each. And yet... Leibniz would say: OK maybe, but if you do that you will see that there remains
+only one hand. Kant says that there is something irreducible in them. Kant says that he can think
+two strictly identical hands and that there are nevertheless two of them. They are strictly identical
+in their concept, each characteristic of the one has its identical correlate in the other. And yet
+there are two of them. And why are there two? One is the right hand, the other is the left. Or else
+one is before and the other is after or behind. How can that be thought, in the two strictly
+identical hands, that one is on the right and the other on the left? You know that however well
+they can be thought as identical in each of their characteristics, they are not superimposable.
+They are absolutely symmetrical in their smallest details and yet they are not superimposable.
+Kant will say that that's what finitude is.
+
+That's what the irreducibility of space and time is. The right, the left. Here-now. Before, after.
+You can conceive of two objects whose concept is strictly the same, there are still two objects,
+for this very reason that the one is here and the other there. One is on the right, the other on the
+
+                                                                                                    14
+
+left, one is before, the other is after. There is a spatio-temporal order irreducible to the
+conceptual order.
+
+But Kant doesn't invoke that reason. He also gives this famous example: two like trihedrons,
+opposed at their vertex, you cannot make them coincide. Why is it that you can't make them
+coincide? Because superimposing two figures or making them coincide implies a rotation, a
+rotation in a dimension that is supplementary to the figure's number of dimensions. When you
+have two triangles opposed at the vertex, you can make them coincide, which is to say put one on
+the other by making one of the triangles undergo a rotation in the third dimension. You have in
+that case a supplementary dimension to the dimensions of the figure. When you come to
+volumes, i.e. three-dimensional figures, like the two hands or the two trihedrons opposed at the
+vertex, you can easily make the two hands superimpose on each other if you have a fourth
+dimension of space. You would effect the rotation in the fourth dimension. Finitude is the fact
+that space irreducibly has three dimensions and not n dimensions, or that time has one
+dimension. We could always be told that there are theories or spaces with n dimensions, or else
+that time has several dimensions. I think that there's little interest in such a thing because the idea
+of a space with n dimensions already implies a system of problems and concepts which have
+nothing to do with Kant's system of concepts and problems.
+
+Why are space and time irreducible to the order of the concept?
+
+It's because spatio-temporal determinations don't allow themselves to be reduced to conceptual
+determinations, to the extent that however far you take the identity of two concepts, the
+corresponding thing or things will always be able to be distinguished not only by contingent a
+posteriori characters, but by their situation in space and time. By their position in space and time.
+Spatio-temporal position is not a conceptual property.
+
+In which case we are assured of the following principle that the a priori synthesis happens less
+between two concepts, it doesn't happen between two concepts because in the first place, because
+it happens between the general concept on the one hand, and the spatio-temporal determination
+on the other hand. The true a priori synthesis is not between concepts like the empirical
+synthesis, the true a priori synthesis goes from the concept to the spatio-temporal determination,
+and vice-versa. That is why there can be a priori syntheses from one concept to another, because
+space and time have woven a network of determinations which can result in one concept and
+another concept, however different they are, from the moment that there are rules of production,
+forming necessary relations with each other. Thus space and time will acquire a constitutive
+power [pouvoir] which will be the constitutive power of all possible experience.
+
+To better mark the difference between the order of the concept and the spatio-temporal order, I'll
+return to terms that I used just before. Space and time are the forms of appearing, or the forms of
+presentation of what appears. In effect, we can understand this because space and time are indeed
+a form of appearing, but they contain no specific unity. What appears is always diverse, an
+apparition is always an apparition of diversity: the red rose, a smell, a colour etc. So what
+appears is, by nature, diverse. Space and time are forms of perception, but you can see that space
+and time themselves have a diversity, namely the diversity of "heres" in space, any point in space
+
+                                                                                                     15
+
+being a possible "here", and the diversity of moments for time, any point in time being a possible
+moment.
+
+We have thus to distinguish the diversity of what appears in space and in time and the diversity
+of space and time themselves. The first diversity will be said to be empirical diversity, the second
+diversity, the diversity of space itself or of time itself will be a priori diversity. Diversity of
+space. Diversity of time. The a priori diversity of space and of time constitute the forms of
+presentation. By contrast, empirical diversity belongs to what appears. The categories or
+concepts, which we have just seen are of another order than space-time determination, have a
+unity, it's even the function of the concept to unify a diversity. To the extent that you can in fact
+sense that the concept will have to bear, in a certain way, on space and time. Space and time as
+the forms of appearing of what appears are what Kant calls Forms of Intuition. Intuition is
+precisely the presentation, intuition is the immediate. Phenomena are immediately in space and
+in time, which is to say immediately appearing in space and in time. Space and time are the
+forms of immediacy. The concept is always what we call a mediation. The concept refers to the
+concept and it effects a unification. It is in this sense that it is not simply a form of presentation
+of what appears, it will be a form of the representation of what appears. The prefix re- indicates
+here the activity of the concept in opposition to the immediate or passive character of space and
+time which are given or which are the form of what is given.
+
+Space and time are, Kant says, the form of our receptivity, while the concept is the form of our
+spontaneity or our activity.
+
+What incredibly new thing does Kant bring to the history of time? Once it is said that
+determinations of space and time are irreducible to conceptual determinations, there would be no
+possible knowledge unless nevertheless and despite everything we were able to establish a
+correspondence between spatio-temporal determinations and conceptual determinations, and
+that's the sort of miracle of knowledge. And Kant constructed his whole system of new concepts
+to get to that point.
+
+He's an austere philosopher, a severe philosopher, he uses all sorts of complicated words but
+they're never just for effect, he's not a lyrical type. I refer you to his secretaries who wrote things
+about his life, he has a very calm life, very ordered? Thomas de Quincey has translated and
+somewhat arranged, embellished the accounts of Kant's secretaries, in "The Last Days of
+Immanuel Kant". It's a splendid text.
+
+There is a formula, a first formula about time which seems to me to be one of the most beautiful
+things said about time, it's Hamlet who says it. The formula suits is so well: "the time is out of
+joint".2 It's beautiful! It's a very beautiful formula if we understand it. What is the joint? The joint
+is, literally, the hinge [pivot]. The hinge is what the door pivots around. But the door? we have to
+imagine a revolving door, and the revolving door is the universal door. The door of the world is a
+revolving door. The door of the world swings and passes through privileged moments which are
+well known: they're what we call cardinal points. North, South, East, West. The joint is what
+makes the door swing in such a way that it passes and re-passes through the privileged coordinates named cardinal points. Cardinal comes from cardo; cardo is precisely the hinge, the
+hinge around which the sphere of celestial bodies turns, and which makes them pass time and
+
+                                                                                                     16
+
+again through the so-called cardinal points, and we note their return: ah, there's the star again, it's
+time to move my sheep!
+
+"The time is out of joint", time is no longer coiled up in such a way that it is subordinated to the
+measure of something other than itself, such as, for example, astronomical movement. Time has
+ceased to be the number of nature, time has ceased to be the number of periodical movement.
+Everything happens as if, having been coiled up so as to measure the passage of celestial bodies,
+time unrolls itself like a sort of serpent, it shakes off all subordination to a movement or a nature,
+it becomes time in itself for itself, it becomes pure and empty time. It measures nothing anymore.
+Time has taken on its own excessiveness. It is out of its joints, which is to say its subordination
+to nature; it's now nature which will be subordinated to it. I can say, going quickly, that the
+whole of ancient philosophy maintained a subordination of time to nature, even in its most
+complex forms; that classical philosophy, however complicated its conceptions of time were,
+never put into question this very very general principle. The famous definition: "time is the
+number of movement".
+
+With Kant there is an indescribable novelty. It's the first time that time is liberated, stretches
+itself, ceases to be a cosmological or psychological time, whether it's the world or the soul makes
+no difference, to become a formal time, a pure deployed form, and this will be a phenomenon of
+extreme importance for modern thought. This is the first great Kantian reversal in the theory of
+time.
+
+So I take Hamlet's formula literally to apply it to Kant: "the time is out of joint". It's with Kant,
+from the point of view of the concept of time, that we can effectively say that time is out of joint,
+which is to say has ceased to be subordinated to the measure of movement, and on the contrary
+movement will be completely subordinated to it. And time will be this sort of form which is also
+pure, and this kind of act by which the world empties itself, becomes a desert. This is why one of
+Kant's best disciples - it won't be a philosopher, we never find those who understand
+philosophers among philosophers - is Hölderlin, and Hölderlin who, drawing on Kant against the
+Kantians, understood by developing a theory of time which is precisely the pure and empty form
+in which Oedipus wanders.
+
+Next time I would like to see what the formula "the time is out of joint" means, applied to Kant.
+It really means something quite literal.
+
+The second formula that I want to develop truly belongs only to Kant and it is part of his last,
+most obscure texts. Kant, at the end of his life, compiles a book which will appear after his death.
+He begins a sketch of something which will be called the Opus Postumum. And the Opus
+Postumum is very strange because it's a mix of everything. There are laundry lists, there are little
+impressions of everyday life, and then there is a wonderful page. In these texts near the end the
+idea that time is like the form of auto-affection appears more and more. It's the form under which
+the subject affects itself. If anything is mysterious, that is. It would be clear for space, but he also
+says it of time. See how he divides things up: space is the form under which something exterior
+affects me and time is the form under which I affect myself. It's even more mysterious than "the
+time is out of joint".
+
+                                                                                                             17
+
+They're Kant's three oracles: firstly disguised as Hamlet, time is out of joint, secondly disguised
+as himself he says time is the form of auto-affection, the form under which I affect myself. But
+why does he say that? He couldn't do otherwise. If you followed the first point, time is out of
+joint, it no longer measures a movement, it is no longer subordinated to nature.
+
+Already, on the most basic level it's very new. What is new with someone must already be
+grasped on the most basic level. Before him, what did they say, very broadly. With Leibniz no
+problem, time is the order of possible successions, space is the order of possible coexistences.
+Kant wants nothing of this and can no longer accept it. The whole way in which he has posed the
+problem means that he cannot: it's obvious that to define time by the order of possible
+successions implies, at first glance, a subordination of time to a content which measures it, a
+content to which it is subordinated. It must be the case that time is subordinated to succession. So
+once he has conceived of formal time, the pure form of time detached from a movement to
+measure, once he has straightened time, once he has let it go like a spring, he can no longer
+define it by an order of succession. It's all the more significant given that to define time as
+succession means nothing but - of course succession is temporal, but it's only a mode of time, as
+coexistence or simultaneity by which we claim to define space, is another mode of time, it's not
+space. It's a very bad distribution. Space cannot be defined by the order of coexistence since
+coexistence is an idea which can only be understood in relation to time, it means at the same
+time. Time cannot be defined by succession because succession is only a mode of time,
+coexistence is itself another mode of time. You can see that he arranged things to make the
+simple distribution: space-coexistence, and time-succession. Time, he tells us, has three modes:
+duration or permanence, coexistence and succession. But time cannot be defined by any of the
+three because you cannot define a thing through its modes. Moreover space cannot be defined as
+the order of coexistence since coexistence is a mode of time. He is very very good on this point.
+
+He will say - and I want you to admire the simplicity - you will define space as simply the form -
+and above all not the order since order still refers to a measure of something to measure in time -
+as the pure form, of what? Space is the form of exteriority. That doesn't mean that it comes from
+outside, but it means that everything which appears in space appears as exterior to whoever
+grasps it, and exterior from one thing to another. It is not exteriority which [unclear word] space,
+it's space which constitutes the form of exteriority or which constitutes exteriority as form, as
+pure form. As he has just defined space as the form of exteriority, it must be the case that time is
+the form of interiority. It's the form under which we affect ourselves, it's the form of autoaffection. Time is the affection of self by self.
+
+I ask you to consider that this second point follows from the first. So, the first paradox is: what
+does it mean that time is out of joint? The second is: what does it mean that time is the form of
+interiority?
+
+Notes
+
+ For many of the terms and analyses in this session, see Deleuze’s Kant’s Critical Philosophy, trans. Hugh
+Tomlinson and Barbara Habberjam (1963; London: Athlone Press, 1984) notably the introduction on “The
+Transcendental Method”, pp. 5-9, and chapter 1 on “Critique of Pure Reason”.
+
+                                                                                                              18
+
+  Deleuze introduces this expression here for the first time in his teaching (and writing), and then for the 1984
+translation of Kant’s Critical Philosophy, he prepares a preface, “On Four Poetic Formulas Which Might Summarize
+the Kantian Philosophy” (pp. vii-xiii), which he then published in French in Philosophie 9 (1986), pp. 29-34, and
+finally included in Essays Critical and Clinical, trans. Daniel W. Smith and Michael A. Greco (1993; Minneapolis:
+University of Minnesota Press, 1997), pp. 27-35.

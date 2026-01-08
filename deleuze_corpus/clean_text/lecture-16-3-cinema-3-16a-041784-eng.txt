@@ -1,0 +1,1049 @@
+1
+
+Gilles Deleuze
+
+Seminar on Cinema, Truth, and Time: The Falsifier, 1983-1984
+
+Lecture 16, 17 April 1984 (Cinema Course 60)
+
+Transcription: La voix de Deleuze, Ana Lanfranconi (Part 1), Dimitri Bellois (Part 2) and
+Fabienne Kabou (Part 3); additional revisions to the transcription and time stamp, Charles
+J. Stivale
+
+Translation: Graeme Thomson & Silvia Maglioni
+
+Part 1
+
+Would you mind closing the door? Our question is: how did this emergence of a time-image
+function or occur – could you close it? – how did the emergence of a time-image arise? Or,
+what amounts to the same thing: how did the subordination of time to movement become
+reversed?
+
+And we dwelt for a long, long time on what we could roughly call ancient philosophy in
+order to show how, of course, it's true, they had an image of time such that time depended on
+movement. But at the same time there were so many anomalies of movement that the more
+these anomalies of movement were taken into consideration, the more time tended to reverse
+its dependence, and instead of depending on movement, it was now movement that depended
+on time. And this was sensed, this was experienced… was experienced by ancient thinkers
+either in the form of crisis or in the form of fear.
+
+So, since we dwelt on this point for a very long time because it was something that interested
+me, and then we finished it up before the holidays. Regarding this point, are there any...
+meaning on all these points, do you have any remarks, or is everything fine? Did you have...
+by "is everything fine", I mean have you forgotten everything, or do you remember it all,
+though in the end it makes no difference. So, everything is fine.
+
+And then I’ll skip over a lot of things, since otherwise this would never end, and I had said, it
+seems to me that the very act – but an act infinitely prepared by what precedes it, as we have
+seen – the very act of the reversal of the movement-time relation, occurs with Kant. It is Kant
+who draws the conclusions of all that preceded, concerning these anomalies: he gathers
+together all the anomalies to perform the reversal.
+
+I remind you, in fact, that my whole idea from before will founder if you don't take this into
+account: yes, in antiquity, in all sorts of different ways, time depends on movement, but this
+can be firstly the extensive movement of the world, and then it can be the intensive
+movement of the soul. But even insofar as it depends on movement, where time depends on
+movement, where the time-image is drawn from movement, even in this measure, the
+thinkers of antiquity are the first to notice anomalies of movement and, in terms of these
+anomalies, they risk getting into this sort of seesaw game where, regarding the anomalies, it
+is time that will subordinate movement instead of remaining subordinate to it.
+
+                                                                                                 2
+
+So, when I say that Kant, in a way, draws the consequences of all the cosmological and
+psychological anomalies – movement of the world, movement of the soul – he draws the
+consequences of all the psychological and cosmological anomalies in order, in a way, to
+perform this very reversal – to perform it, in any case, in philosophy – this reversal of
+movement in relation to time. It is now time that will, in a sense, be primary in relation to
+movement. This is more important than if there were no more movement; that's why we
+sometimes express ourselves as if there were no longer any movement and then there was
+time. It sometimes happens that, indeed, movement has assumed no more than a secondary
+value; other times this is not the case. On the contrary, it may have retained its full value, but
+it just happens to be subordinate to time, instead of the other way around. So, all the time you
+have to consider all the various nuances.
+
+Now, today I would like us to see, so as to finish with this whole philosophical part, to see
+precisely how Kant operates. And as always with Kant – I arrived here pretty exhausted
+today, not at all because it's the beginning of the university term – it's that every time I have
+to speak about Kant – and this has already happened to me, but not to this extent – I say, oh
+well, it's this is all done and dusted as far as I’m concerned, I mean I really know him well.
+And then I plunge back into the texts, and again there are knots that even I can't unravel. Last
+night I thought I had it all worked out, but then this morning I realised that it wasn't the case
+at all.
+
+So, I'm going to go very slowly, and you mustn't blame me because... you mustn't blame me
+because I feel how odd all this is. Every time, every time, it has this effect on me. I say to
+myself, I can grasp it, and then nothing, I don’t grasp anything, and it's difficult, because... I
+say to myself, the only way when you take one of Kant’s texts, you’re confronted with a very
+difficult language, a language that’s extremely rigorous, very hard, difficult to read – it's not,
+it's not like Descartes, which appears to be very easy to read – but this difficulty is already
+evident in his style. When you read it, if you manage to extract something from it, you say to
+yourself: But what he says is so simple. There are, as it were, three stages: you read a page
+and you think, where is the subject? where is the verb? And so on – of course, it's translated
+from German, and you think, well – if you take the German text, it's difficult.
+
+Second impression, by dint of work, you extract propositions, and you say to yourself: ah but
+yes, but what he's saying is completely obvious. But you're already caught up in the cogs and
+you'll see that these pseudo-commonplaces lead to things that pose such problems that, in the
+end you almost want to use a language that is other than philosophical, you almost want to
+use poetic language, to try to... And after all, that's what he did himself, when you consider
+his last work – which he wrote when he was very old, extremely old, when others would have
+long since finished writing – his last work, that is, his third Critique, the Critique of
+Judgment, reaches an intensely poetic level of expression.
+
+So then, what I would like to do is to follow my path, and then even… don't worry if there
+are moments of great confusion, you just tell me, right? And we’ll try to sort it out. The first
+point, it seems to me, is that when you look at the Critique of Pure Reason, we see him
+formally affirming that time depends on movement... no sorry, I mean that movement
+depends on time, and not at all the other way around. And this is even the element of what he
+calls, or one of the main elements of what he himself calls a revolution in philosophy. It is
+movement, well, it is movement that depends on time, but the way he demonstrates this, at
+the beginning of the Critique of Pure Reason seems to be like child’s play. And it is indeed…
+only what does it hold in store for us? It is. How does he proceed?
+
+                                                                                                    3
+
+It seems to me that he proceeds like this. I multiply – so that's my first point – I multiply the
+subdivisions.
+
+a) He tells us roughly: Extensive movement – that is, local movement of the kind that is
+defined by a change of position, change of position of a moving body – extensive movement
+presupposes time. Why? Because it necessarily takes place across different space-times. In
+other words, extensive movement assumes different times. Extensive movement is that which
+occurs in different times. In other words, extensive movement refers to the notion of
+succession.
+
+Now what is succession? Succession is the relationship between different parts of time.
+Succession is the relationship between different parts of time. All this is elementary. I’m
+already able to draw the conclusion that I can consider time from the point of view of the
+relationship between its parts. This is a first aspect of time.
+
+So, if extensive movement refers to succession, that is, to the relation of parts of time, I see
+that it also refers to time in its first aspect. Which means what? The first aspect of time is the
+relation between its parts. This means that time is composed of infinite times. Time is
+composed of infinite times, okay. There are therefore parts of time and the relation between
+these parts is succession. Time is composed of times. Notice already that, if I think about
+what I'm saying, it would be enough for me to conclude that time is not a concept. Why?
+Because a concept is not composed of something that is homogeneous to it. A concept is
+divided into other concepts according to differences that are called "specific". For example,
+mammals are divided into lions, oxen, etc. But time is different, it is divided into times, it is
+divided into parts of time. Kant will insist enormously on this: spatio-temporal differences
+are irreducible to specific or conceptual differences. I retain only this aspect for the moment.
+Extensive movement presupposes time from the point of view of the relation between the
+parts of time, the relation between the parts of time being succession. The conclusion to this
+point, however small, is already formidable. I cannot define time by succession.
+
+Succession is a mode of time. What mode of time is it? Succession is the mode of the
+relationship between the parts of time. From this point on, you understand – we become
+suspicious – we say to ourselves, well, from such simple things, he's already entitled to
+conclude that time cannot be defined by succession, since succession only defines the
+relationship between the parts of time. In what, in what… we must expect the worst here;
+well, we must expect the worst, and this is quite difficult because many people have defined
+time by the order of succession.
+
+Here Kant forbids himself from defining time by succession. And see what he suggests to us:
+it is because we have defined… among other things, it is because we have defined time by
+succession that we have made it dependent on movement. If we had realized that time cannot
+be defined by succession, because succession defines only the relation between the parts of
+time, then we would not have been able to make time itself dependent on movement. We
+would have realized that, on the contrary, it is only extensive movement which occurs
+according to a principle of succession, that is, according to the relation between successive
+parts of time – it is the parts of time which are successive. This is the first point. Are you
+okay with this so far? You tell me as we go along because it's... [Deleuze doesn't finish the
+sentence]
+
+                                                                                                   4
+
+b) Second aspect, same thing for intensive movement. What is intensive movement?
+Extensive movement is that which occurs across different times, following the rule of
+succession. What is intensive movement? It's what occurs all at once. What is all at once has
+a name, we call it simultaneous as opposed to successive. The successive is what occurs at
+different times; the simultaneous is what occurs all at once. In what way is intensive quantity
+at the same time? In two ways, I think, and we've looked at this, so I'm not going back to it.
+I’ll just mention them but only to remind you. First, because its multiplicity is a virtual
+multiplicity, its plurality is not successive. The plurality contained in thirty degrees is not
+successive. When you say that it is thirty degrees, the thirty degrees are given all at once. And
+the second reason, I would say, is that different degrees of intensity can fill one and the same
+space-time. I mean, fifteen degrees of heat doesn't fill the room any less than thirty degrees of
+heat; so even if this seems quite basic, it's still very important.
+
+In terms of these two aspects, intensive quantity can be defined as that which fills a time. In
+other words, I have a second aspect of time. Succession allowed me... [Tape interrupted]
+[20:56]
+
+... he used simultaneity to define space. He said that time is the order of successions, whereas
+space is the order of simultaneities. Kant says no. Simultaneity belongs to time, as does
+succession. Simultaneity is all at once, and the "all at once" belongs no less to time than the
+“at different times”. Again, this all quite basic. It’s child’s play.
+
+But this is a second aspect of time. Succession is the determination of a relationship between
+the parts of time; simultaneity is the determination of an eventual content of time. That which
+fills a time, that which is all at once. I no longer consider time in terms of its series, I consider
+time in terms of its content. The series is the relationship between the parts, whereas I
+envisage it in its content, that is, in what comes to fill a length of time. And I must also say
+that I cannot define time by succession, since succession only concerns the series of time, that
+is, the relation between its parts. And equally I must consider simultaneity itself as a second
+mode of time, no longer time considered in terms of the relation between its parts, but time
+considered in relation to the content that comes to fill it. In other words, I can define time
+itself neither in terms of intensive quantity, nor in terms of intensive movement, nor in terms
+of extensive movement.
+
+I can already guess… I can already guess what the consequences will be; we’re not done
+exhausting them. Why is that? Because, in the end, there will be no world, there will be no
+soul. You remember how the soul was the substance from which intensive movement
+derived. While the world was the substance from which extensive movement derived. There
+will be no more soul or world, except, perhaps, in a radically new sense. What will there be,
+for the moment? Well, we don't even have time for the moment; we don't even have time! All
+I can say is that time does not depend on movement. So, then, what is time? Is it succession?
+No, it is not succession, since succession is only the determination of the relationship
+between its parts; it is only the series of time. Is it simultaneity? No, it is not simultaneity;
+simultaneity, the "all at once", is only the determination of the content of time.
+
+So what is time? What else is there but succession and simultaneity? There is permanence.
+And indeed, permanence is what is at all times. Succession is the rule of what occupies
+different times; simultaneity is the rule of what is at the same time; permanence is the rule of
+what is at all times. Of that which occupies all time, we say that it is permanent, that it lasts.
+
+                                                                                                  5
+
+Indeed, in a certain way, time is permanence. It is neither the successive, nor the
+simultaneous, neither succession, nor simultaneity. It is permanence.
+
+What does this mean? Time as something permanent, yes, yes, but at the same time, what
+exists in time does not cease to change. What exists in time does not cease to change, either
+according to the relations of succession, of extensive movement, or according to the
+movement of intensive quantity. That which exists in time does not cease to change, both
+from the point of view of content and from the point of view of the parts of time. Hence
+Kant's definition: yes, time is the form of what changes, but the form of what changes does
+not change. The immutable form of that which changes. This is what time will be.
+
+At the same time, I have already gone too far. The immutable form of that which changes, but
+why? Why would this be a definition of time? "Immutable form of that which changes": see
+that, at least, has an advantage: at least in appearance, I no longer define it either by
+succession or by simultaneity. I have discovered a third aspect of time: permanence, the
+immutable form of what changes.
+
+Well, does this help me make progress? Why is time, as a form of what changes, necessarily
+an immutable form? Because if the form of what changes itself changes, it would have to
+change in another time. There would be a nesting of times. This is difficult. Of course, the
+form of what changes cannot itself change. It would have to change in another form that
+would not itself change.
+
+Well, let's accept all that, I mean, it's beyond discussion, it's already so difficult to understand
+that we have no desire to discuss it. But at the same time, what does it mean to speak about
+the immutable form of what changes? Would this be the definition of time? No, no, because
+permanence is in time. I mean, the immutable form of what changes, maybe that's what time
+is, but I can never actually perceive this form. I cannot perceive it, hence Kant's formula: at
+the same time as he defines time as the immutable form of that which changes, he tells us that
+time cannot be perceived in itself.
+
+What is, in fact, the permanent? The permanent is what in time is the correlate of time itself.
+It is the correlate of time as it appears in time. Permanence is the permanence of something
+in time. What is this permanent something? This something permanent, you must understand,
+is in time. I could say, and I will be able to say that it is what passes through successive states
+or it's what possesses simultaneous states; it's this something in time, that I call permanent,
+whose states will be said to be successive or simultaneous. For example, I say of the table
+that it is white and rectangular; this is a simultaneous attribution. I say of the table, that it
+blackens, this would be a successive attribution: from white, it becomes black. The
+permanent is the subject, the table. The permanent is in time. It is the perceived
+representative. It is, in time, the perceived representative of time that itself cannot be
+perceived.
+
+And again, with this table I have taken a spatial example, that is, one that is only indirectly
+relevant to time. Let's take a directly temporal example. This is no longer the thing, but the
+Self. I would say that the Self has such and such a state, in a given time: this is intensity, the
+intensity of its sensation. I would also say that the Self passes from one state to another state:
+this is its succession. And I would say, finally, that there is a permanence of the Self through
+these states. The Self is in time. The temporal Self is the correlate in time of the form of time,
+which is imperceptible in itself. Good. First point completed. [Tape interrupted] [34:20]
+
+                                                                                                   6
+
+Part 2
+
+... I would just like you to be able to sense that the image of a time that no longer depends on
+anything other than itself is beginning to emerge. It is movement that is in time, it is not time
+that stems from movement. What does this mean? Well, it means something fantastic in terms
+of time.
+
+So let me move on to my second point. As far as time is concerned, this means that there is
+no originary time. This is why… all this is already so difficult that I'm not going to
+complicate things by giving you details… I'm just proposing a schema, okay. I know it's not
+perfect... That's why I’m saying this without being too specific, without developing anything.
+All the interpretations of Kantianism that restore an originary time to Kantianism seem to
+me… they seem to me to be quite regrettable, especially the phenomenological interpretation
+that reconstitutes an originary time in Kantianism. This seems terrible to me because I would
+say that Kant's most profound novelty is to tell us that there is only derived time, that is to say
+that there is actually no derived time since there is no originary time. And I would rather say,
+there is only ordinary time. There is only ordinary time, this is the scary message. Scary,
+we'll see why it's all scary. Kant's more or less frightening message is that there is no time but
+ordinary time. Why does this sound – if we're paying attention – why does this affirmation
+that there is only ordinary time sound so odd?
+
+Again, when we think of the philosophers of antiquity, we see there is an originary time for
+them. Why? So there is also a derived time. There is an originary time for them precisely
+because time depends on movement. And oddly enough, it is precisely because time depends
+on movement that there will be an originary time. Indeed, how will originary time be
+defined? It will be defined according to the privileged positions through which the world
+passes and according to the privileged instants through which the soul passes. The originary
+time of the Ancients is either the time of the Platonic planetarium, as we have seen, meaning
+it is privileged because it is defined by the privileged positions of the Cosmos, which is why
+it's cyclical. Or it is the time of the soul, which is originary because it is defined by the
+instants, the nûn as we saw before the holidays, those instants which do not presuppose time
+and which are privileged instants through which the soul passes. In other words, originary
+time is necessarily a time that measures the movement of the Cosmos, the extensive
+movement of the Cosmos or that measures the intensive movement of the soul. It is a time
+that is defined by reference either to the privileged positions of a moving body, or to the
+privileged instants of a soul.
+
+We've just seen how Kant suppressed all that. Here, time has swallowed up succession. It has
+swallowed up simultaneity. And it has swallowed up permanence. It has done all that. It can
+no longer be related either to privileged positions in space or to privileged instants in the soul.
+It is literally the time of the any-instant-whatever or the any-position-whatever of the moving
+body. Why? I can say the any-position-whatever of the moving body since, in this case, it is
+extensive movement that depends on time. It is a time made up of any-positions-whatever
+and any-instants-whatever. It is ordinary time. There will no longer be any way to mark
+privileged instants or privileged positions.
+
+In other words, it is the time of everyday banality. For Kant, there is no other time than the
+time of everyday banality. So, once again, to speak of an originary time in Kant seems to me
+to take away with one hand everything given to him with the other, that is, to make him a
+disciple of Plato and Plotinus. If I had, in this sense, to identify Kant's novelty, I could say
+
+                                                                                                   7
+
+that he is the first to substitute the couple originary time-derived time with the single idea of a
+time of everyday banality: all time is ordinary. Now, we’re a long way from having finished
+exploring something of this nature.
+
+That's why, and in this sense that I want to bring in – I already tried to do this some years ago
+but I wanted to come back to it because we can never be done with it… well, me at least –
+this is where we have to bring in something, a kind of poetic formula that would be the
+equivalent of what Kant tells us.1 And the poetic formula, I see it in Hamlet, when
+Shakespeare makes Hamlet say: “The time is out of joint.” It’s out of joint. Or, what is
+exactly the same, the formula we encountered on another occasion this year, Borges’
+formula: “the labyrinth that consists of a single straight line that is invisible and endless.”2
+
+Okay, and what today we tend to consider – because we’re at risk of not understanding
+anything – what we consider to be a childish representation of time, namely a straight line, is
+on the contrary the most paradoxical, and it's Kant who comes up with this idea. At the
+beginning of the Critique of Pure Reason, he tells us that we “represent the temporal
+sequence through a line progressing to infinity, in which the manifold constitutes a series that
+is of only one dimension and infer from the properties of this line to all the properties of
+time.”3 It is he who gives us the image of time as the straight line of a linear time.
+
+You will say, Well, so what? You might even think that this shows that Kant is, as we say,
+outdated, since we can say that nonetheless all the efforts of the philosophies of time have
+been precisely to break with this elementary representation of time. But thinking in this way
+we understand nothing. We understand nothing because, as we shall see, Kant is the first to
+break with this representation of time that he gives us at the beginning… he’s a man who
+didn't wait for others to catch up. I mean afterwards we can work in more and more advanced
+directions, but what we must see first is that in the unilinear representation of time, there is
+something absolutely new and that this novelty can never be denied. It is a novelty that is
+dated and signed, I mean, signed by Kant in such and such a year, and regarding this point,
+we can of course go elsewhere, we can go in other directions, we can sense say that we need
+to go further, but it will all be beginning from this point.
+
+It is only in a superficial sense that one would criticize the unilinear representation because
+from a certain point of view it cannot be criticized. From what point of view is it
+uncriticizable? It is uncriticizable from the only point of view that counts for Kant, namely, to
+indicate to us that time cannot be understood in terms of privileged positions or privileged
+instants. Time can only be understood in terms of any-positions-whatever of the moving body
+and in terms of any-instants-whatever of the soul. In other words, we no longer have the time
+of the rural world or of the monastery.
+
+What do I call the time of the rural world? It’s the time that gives rhythm to work and to the
+days; it's the great periodicity that implies that time is understood in relation to privileged
+positions through which a moving body – in this case the earth – passes, the cycle of the
+seasons, and so on. So, I would say regarding the time of the rural world, that yes, this is the
+originary time. It is the originary time, in the sense that it derives from the movement of the
+world. The movement of the world passes from one privileged position to another.
+
+Monastic time, the time of the monastery, no longer concerns the hours of the working day,
+even though they worked hard in Christian monasteries. This time, it is a question of the
+hours of the soul, it is the hours of the soul that are punctuated by prayers. Indeed, one must
+
+                                                                                                   8
+
+not confuse the hours of the soul with the instants of nature. They are not at all the same
+thing. There is a whole monastic time which is not the same thing as rural time, but here it
+would be necessary... I’ll leave this whole aspect aside. But we should see what monastic
+time consists in. Why do we need to see this? Because in a way, monasteries are the places
+that have harvested the intensive conception of the intensive movement of the soul. If
+agricultural work is par excellence what harvests the extensive movement of the world, it is
+the monastery that gathers up the intensive movement of the soul and that opposes the
+privileged instants, or that at least distinguishes, the privileged instants of prayer and the
+privileged positions of work.
+
+Now for Kant, there are no longer any monasteries, nor rural world. This is true. Where do
+you imagine the time of everyday banality first arose? Outside the monasteries and the
+countryside, it could only arise in the towns and cities. I really believe – I say this without
+any irony, in any case it’s not funny – he is the first philosopher of the cities, the first
+philosopher of the cities. He took his little walk in Königsberg, he took his little walk in the
+countryside there, every morning, but actually every time he speaks about nature, he's really
+speaking as someone from the city, as someone who comes from the city, he's the
+philosopher of ordinary time.
+
+So now you’ll tell me that his bringing us everyday banality is not such a... The question is
+not whether it is of this or that value, it is that it is a conception of time that has no
+equivalent. It tore time away from the monasteries, just as it it tore time away from the rural
+world. You will tell me that he did not do this alone. Of course, he didn't do it alone, but it's
+not by chance, it's not by chance that he was a Lutheran. And no doubt, the thought of Martin
+Luther is complicated. But, if we have to broadly define a Reformation movement, regardless
+of all the differences involved – I'm really just giving a general overview here – what would
+be a key point that appears in Luther, that appears very clearly and that is developed with
+Calvin, taking on an inordinate importance in the movements that follow. What would this
+be? The assertion that there is only one time, ordinary time, and that it is in this time that we
+win our salvation. The destruction of all originary time. The time is out of joint, time is no
+more than a straight line where you can distinguish neither privileged positions nor privileged
+instants. You will win your salvation according to the laws of daily life. You will not take
+refuge in a monastery which is fundamentally a place of cheating. And you will not work the
+earth, although of course, you have to work the earth, but that’s not what counts, it's not that.
+You will go into business.
+
+As Max Weber admirably shows, the profession of faith, in terms of the Reformation, is
+idenitified… I mean that the two meanings of the word "profession" become intimately
+related: the profession of faith and the temporal professions. So much so that, with regard to
+Kant, we must take up again all of Max Weber's theses on the importance of Protestantism in
+the formation of a capitalist time – because here again I'm only trying to open up pathways…
+the more pathways we can open up, the better – if you think about what capitalist time is, it's
+precisely a time that is no longer either monastic or rural. It’s obvious that it will necessarily
+be a time of the future. And how is it defined? In exactly the same manner: there are no
+privileged positions, there are no privileged instants. Marx will make his analysis, will make
+in his... in his own way, his splendid analysis of this time in saying that capitalism discovered
+abstract time.
+
+And what does abstract time mean? It obviously means time related to the any-instantwhatever and no longer to the privileged instant. He discovered abstract time at the same time
+
+                                                                                                     9
+
+as he discovered the time of mechanical work, as opposed to agricultural work, which
+proceeds by privileged positions, privileged instants. This is the secular and urban time of
+which we will say that time is money. And time is money, if this formula has a meaning – and
+it already appears… Max Weber already provides all kinds of references, it already appears
+in the milieu of the Reformation – “time is money” means, very precisely, time taken at any
+of its moments. Money is the course of time, that is, the increase of money is the passage
+from one any-instant-whatever to another any-instant-whatever. Money is time, time is
+money.4 So here we have the discovery of an abstract time. You will tell me that an abstract
+time is not a good thing. But you have to understand. Here again, abstract – I think I've
+already said it regarding something else – abstract means two things. Taken at face value, it's
+the opposite of concrete, okay. But it turns out that this abstract is the concrete of the city, of
+capitalism, of the Reformation, etc. I’m not mixing up the abstract with the concrete. I'm not
+mixing everything up, I'm merely indicating different openings. This is what the time is out
+of joint, or off its hinges, means. Again, remember, the hinges, what are they? It's exactly
+what allows a door to turn.
+
+What does the door of the world turn around? It turns around an axis, the axis of the world,
+and as it turns around the axis, it passes through privileged positions of the moving body.
+This is time, from the time when it was on its hinges. Hamlet tells us that the time is out of
+joint, that is to say, time is no more than an infinite straight line. Once again, it has become
+the time of ordinary life. Does this mean that ordinary life was something discovered? That
+before there was no ordinary life. There already was such a thing, and these are things that
+have been covered quite well. From time immemorial, there has been capitalism, okay. Of
+course, there has always been capitalism, already, in the Greek city, already in the
+countryside with the land tax. There has always been capitalism but we've looked at all this
+and I don't need to go back over it.
+
+I could come back to this from another point of view, but we don’t have time. I've said from
+the beginning: beware, the Ancients had already encountered this, that the movement on
+which time depended encountered so many anomalies that time shook off its subordination
+and became independent, that is, it became ordinary time. Yes, but for them, these anomalies
+were precisely what had to be restrained each time, even if it meant running up against
+another anomaly. One just had to deal with them and get out somehow. But to take them as a
+model would be to establish ordinary time as the one and only time! Time is a labyrinth, yes,
+but a labyrinth that consists of a single straight infinite line. The time is out of joint. That is, it
+has become a straight line. There is no longer a door of time. There is no longer any originary
+time. So, nor is there any longer a derived time. But how terrible this is!
+
+Is everything okay? No questions? I would like you to feel this... If there was something I had
+to reproduce, it would in some sense be the way that Kant, completely unshakeable, traces his
+path. It begins – it really should be set to music, that – with his little remarks on succession,
+simultaneity, permanence, and then all of a sudden, there's this kind of tremendous cymbal
+crash. There is nothing but ordinary time. You have never had anything but ordinary time.
+And how is all this related to civilization? We’re a long way from Luther, somehow. Kant is
+a Lutheran. This all comes from Luther. It is not by chance that he remains a Lutheran, very,
+very… profoundly Lutheran. Still, it’s very odd. So here we are with this thread. This time,
+the immutable form of what changes, that's it, that’s what ordinary time is. And at the same
+time, it cannot be perceived in itself. It cannot be perceived in itself. What is this unconscious
+of thought, this straight line of time?
+
+                                                                                                   10
+
+Now you will tell me that it can be perceived in itself. No! I can always perceive a spatial
+representation of the straight line. I take up the text I quoted earlier: We "represent the
+temporal sequence through a line progressing to infinity, in which the manifold constitutes a
+series that is of only one dimension, and infer from the properties of this line to all the
+properties of time ". No problem. But he adds: "with the one exception that the parts of the
+former are simultaneous" – the parts of the line in space – "with the sole difference that the
+parts of the former are simultaneous but those of the latter” – meaning time – “always exist
+successively." It's a straight line, fine, but we've seen that this is normal, it's not that he
+defines time by succession. We have seen that the relations between parts of time was what
+defined succession. So, if time is a straight line, it is a very special line since the parts of this
+line will not be simultaneous, they will be successive.
+
+What is this time? What is this unilinear time that defines ordinary life? All I can say at this
+point is: goodbye to the previous conceptions of truth – in order to bring together a little of
+what we have been doing this year. Understand, once again, that the conceptions of truth that,
+for the sake of convenience, I call classical, presented us with a truth that was essentially still
+to be discovered. What was the task of philosophy? It was to discover the truth. And what did
+this imply? The idea of a pre-existing truth, with philosophy defined as the search for this
+truth. So, it's not enough to say, well, we don't believe in this anymore. Since when? Now we
+could say, since Nietzsche. No! Do we have to go back to Hegel, or to Kant? Perhaps. If
+there's something new in Nietzsche – and I would say there is something new – it's not simply
+in terms of no longer believing in truth, although Nietzsche is right to say that he’s the first to
+question truth. He is right, yet at the same time it’s much more complicated, so we’ll let it lie.
+
+But philosophy as a search for truth implies a pre-existence of the true in relation to the
+search. It's a matter of discovering the truth. Well yes, there was a truth to be discovered, it's
+a truth that is in me. For you, it must be obvious now, it is a truth that is in me. A privileged
+proposition .... It's not a truth that ignores movement, as they say, it's not an eternity-type
+truth, not necessarily, but it's a truth that refers to the privileged positions of a moving body,
+and to the privileged instants of a soul.
+
+Now if there is only ordinary time, you see that there is no truth to be discovered. That seems
+obvious to me, it’s obvious. If there is a radical change in the status of truth, it's here: if there
+are no longer any privileged positions, nor privileged instants. That's why it's terrible, if you
+reintroduce Kant once again, and I'll specify for those who are familiar with him, there's an
+admirable – it goes without saying that it can still be admirable – there's an admirable
+commentary on Kant by Heidegger, where everything rests on the idea that in Kant there is
+an originary time and that it's even Kant who would be the inventor of an originary time.
+
+I don't want to play the clown; I understand that even in Heidegger, "originary time" has a
+meaning that is itself new. This does not prevent him from distinguishing between an
+originary time with privileged points… and a derived time. Now, in whatever sense we take
+this, it is this very distinction that, in my view, Kant abolishes. So that if we reintroduce it, in
+one way or another, in whatever way we reintroduce it, it is, it seems to me, the novelty of
+Kant that crumbles. So, I always come back to this... [Tape interrupted] [1:06:56]
+
+... the immutable form of that which changes, but as such, we cannot perceive it. And why
+does it seem to us that this is a kind of nihilism? Everything collapses. But why? Everything
+falls apart in term of the three aspects. I return to my three aspects of time: succession,
+simultaneity, permanence.
+
+                                                                                                11
+
+From the point of view of succession, what do I have? If I ask now, what do these three
+aspects tell me about time? Succession tells me this: a straight line whose parts are
+successive, which is to say that they are undone as they are made. This would be the first
+aspect.
+
+Regarding the second aspect, or the second mode of time, the simultaneous or the point of
+view of content. This is the production of intensive quantities, but there is no longer a
+privileged instant. Therefore, I cannot define intensive quantity as it should be defined, which
+is to say as that whose magnitude is apprehended by its distance from zero, since if there is
+no privileged instant, every instant equals zero. This time, from this second point of view,
+from the point of view of content, time is no longer a set of parts that unravel as they are
+made, it is an instant that empties as it fills.
+
+Suffice it to say that from the third point of view, from the point of view of permanence, it's a
+permanence that never ceases undoing itself and emptying itself. I am devoured, I in time, I
+am devoured by time that I don't even perceive in itself. I am eaten up by something that I
+don't perceive. You understand, even if you think of Bergson, it all depends on this. I mean,
+Bergson will be opposed to Kant: ah, yes, he will be violently opposed to Kant, but all this is
+just a starting point, it's inevitable. It's inevitable. In a certain sense, there's no opposition,
+everyone goes through this, all the philosophers that follow Kant will go through it. They
+won't go back on the achievements of Kant. And all of this is what Kant achieved.
+
+So, how is he going to deal with all of this? How will he deal with it? He'll tell us... That's
+where we'll see the equivocation. He will tell us, be careful, there's a synthesis of time. Time,
+the immutable form of what changes, very good. We have seen this, it’s something we have
+already developed. So there is a synthesis, there is a synthesis of time, but we must not
+confuse the synthesis of time with time itself. Obviously, you can see right away, it seems to
+me that Heidegger, when he reintroduces an originary time, it's because he regards the
+synthesis of time as being itself an originary time. But this isn’t the case, at least it seems to
+me that it's not true. Why isn't it true? Because, in fact, the synthesis of time does not concern
+time as such; it concerns only the modes of time. That is to say, it concerns: the successive,
+that is to say, the relations between the parts of time; the simultaneous, that is to say, the
+eventual content of time; the permanent, that which carries the simultaneities and
+successions.
+
+That's what the synthesis concerns. It does not concern time itself, and it absolutely cannot be
+– it's very odd, well… – it seems clear to me that it cannot be concerned with time itself, but
+only with the modes of time, which is to say, succession, simultaneity, permanence. It can
+only be concerned with... well, if you have understood, we’re talking about the straight-line
+labyrinth and there is no synthesis that can address it as time.
+
+On the other hand, however, there is a synthesis that can be exercised upon the modes of time
+and if salvation exists, it will be here. Our salvation will lie here, and what does it consist in?
+Here I'll go quite quickly because I don't have much time. Yes, this synthesis will have three
+aspects, one that corresponds to succession, one corresponding to simultaneity, and one that
+corresponds to permanence. So I would say: first aspect, not a synthesis of time but synthesis
+of the succession of the parts of time. This must not be confused with a mode of time, with a
+property of time.
+
+                                                                                                12
+
+Now, what does this synthesis consist in? It consists in this, that the intelligence performs
+certain operations, or consciousness; let's say, to establish a term, the "I". We will see why I
+introduce this term. The "I", consciousness that says "I", what does it do? It makes a synthesis
+but what does that mean? Well, time under the aspect of succession, that is, of the relation of
+its parts, gives me parts that are undone at the same time as they are made, since they are
+successive. What consciousness or the "I" can do is to determine a present. I apprehend a
+present. You'll tell me, but it's not, it's not within my possibilities to apprehend a present. But
+it is! It's within your possibility; we never stop living in this way. The act of consciousness is
+the apprehension of a present, the fixing of a present. Why? Well, because we have at our
+disposal a wide variety of possibilities.
+
+I, for example, my present, let’s take our respective situations. I'm here, I'm giving the
+lecture, you are there listening. Third case, one of you intervenes. When I arrive here, I have,
+let's say, a present lasting two hours. I mean, I don't have the impression of the time passing.
+It's as if I've fixed this, and my whole act of consciousness consists in fixing this kind of time
+lapse, a two-hour present, that is to say that these two hours constitute the present. You who
+are there listening… that's why, for me, they go by very quickly…but for you, they don't pass
+quickly at all, except for the times when things work well enough for you to be able to enter
+into my present. When that happens, everything is great, you live the same time as I do.
+
+That's why I can't get bored. That's why, in general, the one who speaks is never bored, or
+else it's a disaster if he's bored. They have to change jobs at all costs. They’re not bored
+because all this, all this time constitutes a present. You, your presents, let's say, as long as
+you haven't let go of your present, they are a kind of duration of understanding: for example,
+ten minutes of attention before you let go. Five minutes of distraction where you’re thinking
+of something else, you think of something else, you think: "Oh, this is going to last a long
+time? well... You have also determined a present. The one who intervenes, they too have
+determined, at least confusedly… what they have to say, why they want to intervene, the
+motives for making the intervention also determine a present. These are very different
+presents.
+
+Just as, if you like, every organism – it's been said a thousand times – every animal organism
+has its mode of presentification, that is to say, it has its minimum of present time, which
+passes more or less quickly. It is obvious that the present of a fly is not the same as the
+present of an elephant and so on. It also depends on the perceptual horizon, it can depend on a
+thousand factors. And if you're looking for an equivalent in space, for example, I say: this
+table is – I don't know, I may be wrong, but it doesn't matter – it's one meter long. You see.
+
+I apprehend a certain space or I apprehend a certain time. That's what I call fixing a present. I
+apprehend the length of the table, that is to say, I understand it, I apprehend it, I grasp it as a
+whole, just as I grasp in a single present a certain passage of time. This doesn’t pertain to
+time itself. It pertains to a synthesis that is exercised over the parts of time. My mind has this
+power to fix a present. You see how it is a variable present. I fix and keep fixing variable
+presents. This is what Kant will call: synthesis of apprehension, the first aspect of synthesis.
+
+This isn’t sufficient because I can vary it. All of a sudden, I say to myself, well, I'm going to
+take half the table as a unit of measurement, or a quarter of the table, twenty centimeters for
+example, I'll take that as a unit of measurement. At that moment, it's the twenty centimeters
+that I apprehend as one thing, as a present. In any case, I operate apprehensions, simple
+apprehensions, the fixing of a present in time. But this wouldn't work if I didn't also dispose
+
+                                                                                                  13
+
+of another power as a mind, as an "I". Through apprehension, I determine a part of time, a
+variable part of time. It is also necessary that there’s something other than apprehension,
+namely reproduction by which… I apprehend... no, not I apprehend, I no longer apprehend, I
+reproduce the parts of the past. In other words, I retain the recollection of it. If I arrived at the
+next part having forgotten the previous one, I would be in the case we saw earlier, namely
+that of parts that come undone in the same moment as they are made. Whereas here, firstly by
+apprehension, I determine a variable present, and secondly by reproduction, I reproduce the
+former presents in the actual present.
+
+And finally, the third aspect of the synthesis, what Kant calls recognition. Because what I
+apprehend and reproduce, I relate to a supposedly permanent term. This is the table. Oh yes,
+it's the table! Oh yes, it's you! I recognize. To recognize is to relate the apprehended present
+and the reproduced former presents to the permanence of something. I say, "Hello Peter", I
+recognize him. And Kant will develop his famous theory of synthesis with these three
+aspects: apprehension, reproduction, recognition. Only, once again, understand what I'm
+saying here: in my view, this synthesis is not at all about time itself, it concerns only the parts
+of time. In other words, it is a successive synthesis of succession.
+
+The same thing, there will be a synthesis which will be exercised on, not time itself, but on
+the content of time. You see that the first synthesis – apprehension-reproduction-recognition
+– the first synthesis is of great interest, it enables us to escape the exhausting regime of parts
+of time that are undone at the same time as they are made. Now I need another synthesis to
+escape the other danger, that is, the instant that empties itself at the same time that it fills.
+This will be another synthesis, this time an intensive synthesis which I’ll just mention very
+quickly, where Kant employs a discovery of the 17th or 18th century, that is, infinitesimal
+calculus, to arrive at the idea – I'm going very, very fast here – to arrive at the idea of an
+intensive quantity. He interprets, which for mathematicians is very strange, but in that epoch
+it was understandable.
+
+Already Leibniz was against this. He was a better mathematician than Kant, right? He makes
+a connection between differentials, between differential relations and intensive quantities, and
+this is a very intelligent move, it seems to me very intelligent, but here I'm speaking for those
+who know a little bit of mathematics. He brings them together, obviously, though it would
+take a lot of explanation to say why. Because the great achievement of, or one of the great
+achievements of differential calculus at its origin, is the discovery that there are relative zeros
+which are not absolute zeros. That is to say that zero over zero is a formula that concerns
+difference. And this is even what constitutes a differential ratio. A differential ratio equals
+zero over zero. Why, why, why? Shall I tell you… or shall I not? It's going to complicate
+things. Maybe it's not worth it, maybe it's not worth it. Who cares, let’s forget it.
+
+I mean, just remember this: it is that, what he will try to show us is that intensive quantities
+are subject to a synthesis which ensures that, however close they are to zero, there is always
+an infinity of degrees that separate them from zero, so that in the end, nothing can make us
+arrive at the conclusion that there is an empty space or an empty time. There is no empty time
+or, at least, no time can be proved to be empty. No time can be proved to be empty because,
+however small the intensity, even if it is below our threshold of perception – this synthesis of
+intensity is one that has much more to do with the unconscious than with consciousness –,
+even if it lies below our threshold of perception, there is such an infinite number of degrees
+below the threshold of our perception that we cannot conclude from the fact that we see
+
+                                                                                                14
+
+nothing in space and time… we cannot conclude from this that there is nothing in space and
+time. Okay. Fine.
+
+You see that this question of synthesis, the synthesis made by the "I", in one case it concerns
+the relations of time and in another case the content of time. Well, but once again, it doesn't
+concern time itself. What does this mean? Well, this is why it cannot in any way restore an
+originary time. But then, what will happen? Synthesis is an activity or, as he says in his
+language, it is a spontaneity. It is exercised on the parts of time and on the content of time. It
+is the act of the "I".
+
+On the other hand, what is there in time? What is in time is "me", the self. Myself follows/is
+in time [Moi suis/suit dans le temps], I am in time5. How is it that I am in time? I am in time
+in the triple form of a permanence, of something permanent that passes from one state to
+another and has simultaneous states, or if you prefer, in the form of a permanence of
+something that experiences a sensation – intensive quantity – that passes from one sensation
+to another – relation of one time to another time – and finally that poses itself in time as
+permanent, according to the three aspects we saw previously. So, I, as myself, am in time,
+and "I", understand well: Myself is/follows in time and "I" make a synthesis of the
+relationships of time and of what is in time. Good. Do you want a rest? Because the next
+part’s going to be hard. But at least it will be short… So, let’s have a little break. [Tape
+interrupted] [1:31:49]
+
+Part 3
+
+... a very interesting question, just now, which I will try to answer. But once again, if you're
+interested in reading Kant, you should do so; don't let yourself be swayed. Be incorruptible,
+okay? Put some originary time back into Kant, do all that, you're free to do so.
+
+This is the problem we are in, and this is our last problem, regarding this question of the
+formidable independence of time. Once again, I repeat: Myself is/follows in time. I would say
+as well, that I appear, that I, as me, as myself, appears, in time – being and appearing, “Me”
+in the language of Kant – "Me” is a phenomenon in time, an appearance in time.
+
+"I" is an act that performs a synthesis not of time itself, but of what is in time and of the parts
+of time. If you bear this in mind… you might say why does it matter. Well yes! I would say,
+you must understand, me, well, every one of us is in time, and in time, we experience
+intensive sensations, we pass from one sensation to another, and, as long as we live, we
+remain, we endure. That is the "me", myself… And on the other hand, how can we deny that
+our acts of consciousness perform a synthesis of what appears in time and of the parts of
+time, syntheses of content and of the parts of time? And what performs this synthesis is the
+"I" of consciousness. Okay.
+
+Hold on to these two things, these two things which it seems to me we have now made very
+clear. But you can't escape, you can't escape. It's not: "I" cannot say "me", it's: "Me" that
+cannot say "I". Me cannot say I. Because in fact, “me” is my existence as I appear in time and
+endure in time. "I" is the act of synthesis that operates on the parts of time and the content of
+time. "Me" cannot say "I", yes, and yet in a certain way, it must say it. "Me" is separate from
+"I", and yet "me" and "I" have an internal relation.
+
+                                                                                                 15
+
+By what are they separated? You can already anticipate it: it is the pure form of time that
+separates "I" and "me". It's literally like a kind of crack in the cogito: the straight line of time
+separates the "I" and the "me", this is even its function. The straight line of time separates the
+"I" and the "me". In what way? In such a way that, if I look for a poetic equivalent, I can only
+say one thing: "I is another”, "I is another”, implying other than me. I am separated from
+myself by the thread of time. "I" is another. I cannot say "I am me", because "I" can only be
+thought of as other than myself. "I" can only think… or rather "Me" can only think "I" as
+another.
+
+"I is an other”, after all, you will tell me, let’s be serious, everyone knows that this is a
+famous formula of Rimbaud’s. "I is an other", says Rimbaud. Well, what does he mean? He
+says it in two places, I remind you, for those who want to look at the text. He says it in two
+very beautiful letters, in the same year, in the same month, which makes us suspect that he
+was writing the same letter to different correspondents, but it was worth it. He wrote it to
+George Izambard in May 1871 – there I put 1971 – in May 18716 and he wrote it to Paul
+Demeny, D-e-m-e-n-y, also in May '71… "I is an other". On one hand, you understand that
+saying "I am another" would be a platitude… I am always other than I am. To try to say what
+he means, he says: "I is an other". He intentionally creates a grammatically incorrect formula.
+Fine.
+
+So, okay. You'll tell me, that was already enough with Hamlet… well, why? Because – I'm
+reading a text by Kant: "I cannot" – I'm reading it slowly – “I cannot determine my existence
+as that of a self-active being,” – allow me, for those who know a little bit about Kant, by selfactive being he means the "I" – “I cannot determine my existence as that of a self-active
+being, rather I merely represent the spontaneity of my thought…” “I cannot determine my
+existence as that of a self-active being, rather I merely represent the spontaneity of my
+thought, i.e. of the determining, and my existence always remains only sensibly
+determinable” – sensibly and not intellectually – “and my existence always remains only
+sensibly determinable.” In other words, I cannot determine my existence as that of a
+spontaneous being, but I cannot help representing spontaneity to myself.7
+
+In what way? “This spontaneity is the reason I call myself an intelligence.” In other words, I
+cannot determine my existence as that of an "I" because I am a "me" in time. But I
+necessarily represent the spontaneity of "I" as an other that is over me or in me. "Me" cannot
+determine my existence as that of an "I" but “me” necessarily represents the “I” to myself as
+an other, as an “I”. What I mean is that here it seems to me that literally… and I quote
+from the current edition… in this text of Kant, and I’m referring to the first edition,8 I don't
+see any difference between this text of Kant and the formula "I is an other". Why? Or rather I
+do see one.
+
+If you refer to Rimbaud's text, the text is splendid, both texts are splendid. But we notice
+something very, very comical, that Rimbaud – who had nonetheless attended his classes, he
+had attended high school from time to time, he didn't go much, but he did a little bit – well,
+he's an Aristotelian. He's Aristotelian. He's a pure Aristotelian. The whole context of these
+two letters of Rimbaud is a purely Aristotelian one. For he tells us, in the first case that "I is
+another. So what if a piece of wood discovers it is a violin" And in the other letter he varied
+this, you will appreciate the variation when he says: "I is another. If the brass wakes as a
+bugle…"9
+
+                                                                                                    16
+
+Now why do I say, he's an Aristotelian? Because you see that the opposition he establishes,
+the distinction, rather, that he establishes, is between matter and form. "I" is another because
+"I" is a mold that organizes a particular matter, just as the form of the violin organizes the
+matter wood, and as the form of the bugle organizes the matter brass. I'm not forcing the text
+by saying it's a purely Aristotelian text. It's a text that develops the idea of a molding, a
+molding of a matter. The "I" is the molding of a matter. “I is an other.”
+
+In relation to this, I wouldn't say that… in a way what I'm saying doesn’t make any sense...
+but somehow Kant is something else entirely, because if we were to lend him the formula "I
+is another", you might feel that we're only beginning to sense what it means. It means: The
+me who is/follows and who appears in time cannot determine my existence as that of an "I",
+but instead I must represent the "I" as another. And through this "I" that I represent to myself
+as another, I am or I discover myself, I call myself an intelligence. Intelligence is the other in
+me. However, Kant is not at all Aristotelian, because here the "I" is the act of synthesis that
+concerns the whole of the possible content of time and the relations of time. In other words, it
+is no longer the moulding of a matter, it is an infinite modulation of phenomena, the infinite
+modulation of what appears. That's well put what I just said, that's good. No, I'm so unhappy
+with all this that when I say that's good...
+
+You see, it's quite different. It's a bit like in music, if we go from partitioned forms,
+partitioned musical forms, to what is precisely called infinite modulation, continuous
+modulation – and I hope the musicians here won’t contradict me on this, otherwise I’ll
+collapse – I mean, it's the passage from an Aristotelian music to a music that, of course,
+existed already as early as the time of Bach, but which will flourish with pre-Romanticism
+and Romanticism, where the genres of infinite modulation begin to dominate.
+
+So, the "I" in Kant, the synthesis, is precisely what will perform the infinite modulation of
+everything that appears in time. At that moment, me, myself, who appears in time, cannot say
+"I"; on the other hand, I can and I must represent this "I" as an other who says… who says
+something in me. And what is it that separates me, once again, what separates "me" from "I"?
+The thread of time.
+
+Let's take this up again through another phrase, and then you'll understand everything: I'm
+asking what is the difference – of course, for those who don’t have a background in
+philosophy this will all be very painful, but we'll finish today, and then, who knows, it might
+say something to you – what is the difference between the cogito in Descartes, the "I think" –
+the sacred formula of philosophers – between the "I think" in Descartes and the "I think" in
+Kant? It is not difficult; well, it is not that it’s difficult, it is very difficult... Descartes says
+this: "I think, therefore I am," and it doesn't stop there. "I think, therefore I am," comma, "I
+am a thing that thinks." "I think, therefore I am, I am a thing that thinks".
+
+If you did a bit of Descartes when you passed your high school exams, you will remember
+that he has very strong doubts, he doubts everything, but that doesn't mean he doubts in the
+sense of, maybe the table doesn't exist, he's not stupid, right? That's something Descartes'
+doubt never meant. He has no doubt at all about the existence of the table, but only about the
+certainty of the knowledge he has of the table. The doubt concerns the knowledge of the
+thing, not the thing itself. It is a search for certainty, not a search for existence. So he doubts,
+he doubts everything. He doubts things, that is, the knowledge of things. He doubts
+mathematical knowledge, he doubts all knowledge. And he says: but at the moment I doubt,
+there is one thing I cannot doubt. It's that I, who doubt, think. And the famous cogito appears.
+
+                                                                                                 17
+
+Why? Because I can doubt all the knowledge I want except one, namely the knowledge that I
+doubt. And the knowledge that I doubt is precisely…that to doubt is to think. So, there's one
+thing I can't deny, I can deny everything, everything I want, but there's one thing I can't deny,
+and that is that, by doubting, I think, or by denying, I think. Hence the formula "I think,
+therefore I am, I am a thing that thinks".
+
+In such a formula of the Cartesian cogito, you see, there is "I" think. I would say the "I", the
+"I think", is what we call a determination. Indeed, the "I think" determines me. "I think"
+equals determination. The "I am" itself is an indeterminate existence. I say I am, but I don't
+say what I am at all. "I am" equals indeterminate existence. I am a thing that thinks, well,
+that's simple. The determination "I think" has determined the indeterminate existence "I am".
+The determination "I think" has determined the indeterminate existence "I am" so that I say,
+"I am a thing that thinks" and in so doing I present a determined existence. Determined by
+what? By the determination. So there is a unity of the determined. So, I am a thing that
+thinks. there is a unity of determination, of the indeterminate and the determined. That's why,
+according to Descartes, this is the foundation of all knowledge.
+
+So here's what Kant tells us. Descartes went too fast, he was in too much of a hurry. And
+Kant offers us his own cogito, and you'll see how strange it looks. [Tape interrupted]
+[1:53:00]
+
+... In other words, "I" determines the relationships of time and the content of time. "I"
+performs the synthesis. Thus, "I think" is a determination. It is quite true, says Kant, that "I
+think" implies "I am". To think, one must exist, so "I think" implies "I am". Only
+the "I am" by itself is an indeterminate existence. "I am" is a purely indeterminate existence.
+You see, Descartes would not say otherwise.
+
+But Descartes added… Descartes, he immediately added that the "I think" gives a
+determination to the indeterminate existence, so I can say, I am a thing that thinks. "I am"
+constitutes an indeterminate existence, but as I think, as "I think" gives a determination to "I
+am", in the form: "I am a thing that thinks", I am determined by thinking. My existence is
+determined by the "I think". I am a thing that thinks.
+
+Kant says: not at all, it’s not the case. For it may be very true that "I think" is a determination.
+It may also be very true that this determination implies an indeterminate existence, "I am".
+But nothing as yet tells us in what form this indeterminate existence will be determinable. He
+wants four terms, – that's what the creation of concepts involves – he wants four terms:
+whereas Descartes was satisfied with only three terms. Descartes played with determination,
+indeterminate existence and the determined, the resulting determined. Kant demands four
+terms: determination, the indeterminate, the determinable, the determinate.
+
+No doubt, "I think" implies "I am", but this still does not tell us in what form my existing "I
+am" is determinable. The "I think" is a determination that is exercised on the parts and on the
+content of time. It implies an "I am", indeterminate existence. But in what form is my
+indeterminate existence determinable by the "I think"? This is what Descartes failed to ask. If
+you understand this, you've understood everything. Everything becomes clear beginning from
+Kant because the answer is self-evident. In what form is my indeterminate existence
+determinable by the "I think"? Kant's answer is: in the form of time.
+
+                                                                                                18
+
+But in the form of time, I am not an "I". I am a "me", a self that appears in time, that
+undergoes changes. I am, as he says, a receptive being in time. So that as for "me", I cannot
+say "I". I am separated from the "I" by the form of time. And that's why it's a catastrophe
+when one tries to relate the synthesis to time itself because at that point one removes
+everything that's new in Kant. “A stream not very deep… death”, ah Mallarmé!10 Another
+poem. A stream not very deep… death, that's it, this is Kant, a stream not very deep… time. A
+stream not very deep… time, this would be the thread of time that separates the "me" in time
+from the "I". So that this me cannot say "I", but I have to represent the "I" as another who
+exercises its synthesis upon me.
+
+Ah, that's perfect, what I just said is exactly the right formula. Yes, I won’t be able to find it
+again… this me cannot say "I", but I have to represent the "I" as another who exercises its
+synthesis upon me. This is Kant, practically word for word. "I" is another. If you remove this
+aspect, everything in Kant is ruined. The cogito is, to the letter, fissured by the thread of time.
+"Me" is separated from "I" by time.
+
+So, it would be enough to… this is where the new independence of time appears as
+something fundamental. I would say, there are three forms, there are three increasingly
+profound levels of the independence of time. First level, the discovery of an ordinary time
+that rejects in advance any distinction between an originary time and a derived time.
+Secondly, second level: the arising of a pure form of time that separates the "me" and the
+"I" and makes the "I" an other.
+
+And the third level is what we still have to look at, but we will not look for it in Kantianism,
+although it is present there, namely… What emerges from this in terms of the transformation
+of the problem of truth? What comes out of it? Because once again, truth sheds its old model
+by which it referred to privileged positions and privileged instants. In other words, truth can
+no longer be discovered. Well, if it can no longer be discovered, what happens? It can only
+appear as the formation of something new, that is, the production of the new, what the
+English or Americans would later call "emergence" or "creativity," a kind of radical
+transformation.
+
+And indeed, creativity or emergence will be the possibility of the productions of an ordinary
+time. The production of the new will be the correlate… the production of the new will be the
+correlate of ordinary time in the same way that the discovery of the true was the correlate of
+originary time for the Ancients. And I would say that all of modern philosophy, from Kant
+on, will ask the question… whether in Germany or in England, America or France, everyone
+will ask the question, how, in relation to ordinary time, is the production of something new
+possible?
+
+Georges Comtesse: Can I ask a question about… [indistinct word]?
+
+Deleuze: Yes?
+
+Comtesse: [Inaudible words] ... the analysis that you made with respect to Kant by saying
+that there could be an originary time and the instants, the instants analyzed as any-instantswhatever, so there are no longer any privileged moments but in the demonstration that you
+made both in Descartes and in Kant, even if Kant's cogito can be said to be cracked, the mere
+fact that someone says or imagines they can say, or ask themselves… [indistinct words] I
+think, and even from there, let's suppose, to say or affirm the being of the subject is to say,
+
+                                                                                                  19
+
+no, the being of the subject, the attribution of derived being is not immediate, I think, in the
+procedure of the cogito. However, to maintain that time, although… [indistinct word] to say
+that time is linked precisely to being, to an "I", isn't this being of the "I" precisely a privileged
+position?
+
+Deleuze: Mmmm… mmm…
+
+Comtesse: That is to say, another privileged position that is no longer the same simply as the
+privileged position of a moving body, of a rigid body in space, or of an intensive state of the
+soul… [indistinct words]?
+
+Deleuze: Yes, yes, yes... If you say...
+
+Comtesse: ... and by the reintroduction, then, of a certain limit of modern philosophy that
+begins with Descartes, the reintroduction of another privileged condition in the form of the
+being of the subject, whatever the problem of the attribution of the being of the subject which
+is a remnant of time, a thing in the sense of a soul, a “me”, etc.
+
+Deleuze: If I’m not distorting what you're telling me... what you're saying only applies to
+Kant, right? I mean, you're telling me: in Kant, there is the permanence of a center. He
+restores a privileged instance in the form of a center which is the subject, since in fact, when
+he presents what he calls the revolution he performs, he says: well, for me, things revolve
+around the subject. Things revolve around the subject, right? So of course, this subject is
+another. "I" is another. But that doesn't prevent there being a center, there is a center. Kant's
+philosophy remains a so-called transcendental philosophy involving a so-called
+transcendental subject, and we will see what sense transcendental will take here, since it is
+precisely, other than me, in a sense that it is not the subject, you and me. And Comtesse says:
+that doesn't prevent there being a center. But this center… if you will, what you’re saying is
+very complicated, because okay, there's a center, but it so happens that this center is always
+thought of as being an other. So, if you like, there is a center, but as for me, I am perpetually
+decentered with respect to this center.
+
+So, I would say that what you’re telling me seems to me completely valid for Kant, but we
+cannot extend it to others, because, from Kant on, you will find all manner of efforts to
+suppress the subject, all the efforts you can think of to arrive at a kind of acentric world
+where there is no longer any center, or where there is a possibility that there is no longer a
+center.
+
+Student: [Inaudible]
+
+Deleuze: At this point – this is a very good question – if I remove the center, does time cease
+to be ordinary? I would say, yes that's a great question because it leaves things open. My
+answer would be, in any case, even if time at that moment ceases to be that of daily banality,
+it is not a return to originary time. We will therefore have new figures of time. But what you
+will not find, I believe, what will have disappeared forever, at least in a rigorous sense, is the
+idea of privileged positions and privileged instants. Of course, we will still be able to use the
+expression "privileged instants" in an aesthetic sense, but not at all in the sense of privileged
+instants of the soul or privileged positions in astronomy. But your question is excellent: if we
+arrive at acentric worlds, doesn’t the ordinary thread, doesn’t time in turn cease to be
+ordinary time? One could almost say that this is the point we’ve got to. At that point, the
+
+                                                                                                                   20
+
+problem bounces back, the problem bounces back, but there will be no return to the past.
+There will be no going back.
+
+So, we're almost there. In order to fix the point where we have arrived today, we can say
+we’ve now finished examining the philosophical aspect of this question of the timemovement reversal, that is to say how philosophy attained a kind of independence or
+autonomy of time in relation to movement.
+
+So, in what sense have we arrived? Well, instead of an image… instead of an indirect image
+of time, we will find ourselves confronted, in a very different way – so I'll take up your
+question – in a very different way, we will find ourselves confronted with direct time-images.
+But what are direct time-images? What are they? Because before it seemed to us that time
+could only be derived from movement-images. If we now say that there must be, and we must
+attain direct time-images, in what form will arrive at them? What are they? What will they
+consist in, these direct time-images which no longer derive from movement, since it is, on the
+contrary, movement which now depends on these direct time-images? You where we are...
+
+Think about it, if there are points that you still find too difficult, we can come back to them
+next time if you want. [End of the recording] [2:09:43]
+
+Notes
+  See the seminar on Kant that took place in March and April 1978 on time out of joint. See also Session 1,
+March 14, 1978. See also session 5, December 13, 1983.
+  Jorge Luis Borges, “Death and the Compass” in Collected Fictions (trans. Andrew Hurley) London: Penguin,
+p. 156. See also Session 3, November 29, 1983.
+  See Immanuel Kant, Critique of Pure Reason (trans. Paul Guyer and Allen W. Wood), Cambridge: Cambridge
+UP, 1998, p.180.
+  In this regard, in The Protestant Ethic and the Spirit of Capitalism, Weber quotes extensively from a sermon
+by Benjamin Franklin, : “Remember, that time is money. He that can earn ten shillings a day by his labor, and
+goes abroad, or sits idle, one half of that day, though he spends but sixpence during his diversion or idleness,
+ought not to reckon that the only expense; he has really spent, or rather thrown away, five shillings besides.
+Remember, that credit is money. If a man lets his money lie in my hands after it is due, he gives me the interest,
+or so much as I can make of it during that time. This amounts to a considerable sum where a man has good and
+large credit, and makes good use of it. Remember, that money is of the prolific, generating nature. Money can
+beget money, and its offspring can beget more, and so on.” See Max Weber, The Protestant Ethic and the Spirit
+of Capitalism and Other Writings (eds. Trans. Peter Baehr and Gordon C. Wells), London: Penguin, 2002.
+  Here Deleuze appears to introduce a slightly Derridean grammatical glitch in his reasoning by playing on the
+double sense of suis/suit (the equivalence of the 1st person of the verb to be – suis – with the 1st and 3rd person
+of the verb to follow – suis/suit) in relation to “me” when he says Moi suit dans le temps instead of the more
+commonplace Moi, je suis dans le temps, as if to say that the consciousness of “me” as a self in time is also
+something that “follows” from the I’s synthesis of apprehension, reproduction and recognition. We have chosen
+to translate moi , which in French also conveys the idea of the “self” by alternating between “me” and “myself”.
+  The appearance of the formula in the two letters is as follows. First to Georges Izambard (his teacher),
+Rimbaud writes: “The problem is to attain the unknown by disorganizing all the senses. The suffering is
+immense, but you have to be strong, and to have been born a poet. And I have realized that I am a poet. It's not
+my doing at all. It's wrong to say: I think. Better to say: I am thought. Pardon the pun. I is an other. So what if a
+piece of wood discovers it's a violin, and the hell with those who can't realize, who quibble over something they
+know nothing at all about!”; Then to Paul Demeny (poet and publisher): “For I is an other. If brass wakes as a
+bugle, it is not its fault at all. That is quite clear to me: I am a spectator at the flowering of my thought: I watch
+it, I listen to it: I draw a bow across a string: a symphony stirs in the depths, or surges onto the stage.”: See
+Arthur Rimbaud, Complete Works, (Trans. Paul Schmidt) New York: Harper Collins, p. 113-115.
+  See Immanuel Kant, Critique of Pure Reason, op. cit. p. 260.
+  Here Deleuze makes reference to a French edition of Critique de la raison pure, published by PUF.
+  See note 5
+
+                                                                                                               21
+
+   “Amazing only as naively agreed/ His lips not drinking there or ceasing breath/A stream not very deep and
+slandered death.” See the poem "Tomb of Paul Verlaine," 1897 (trans. Hubert Creekmore) in Stephane
+Mallarmé, Selected Poetry and Prose (ed. Mary Ann Caws) New York: New Directions, 1982.

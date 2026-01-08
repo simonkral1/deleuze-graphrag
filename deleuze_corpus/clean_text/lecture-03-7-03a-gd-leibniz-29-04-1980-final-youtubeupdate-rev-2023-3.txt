@@ -1,0 +1,1363 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz: Philosophy and the Creation of Concepts
+
+Lecture 03, 29 April 1980
+
+Translation and supplementary additions from transcript completed from the YouTube
+video,1 Charles J. Stivale2
+
+Part 1
+
+So, today, our task is to look at some amusing and recreative, but also quite delicate, things. So, I
+need to have your complete attention for an extended period. First, I have just learned that one of
+you would like to ask a question on something. So, what is this little question?
+
+A student: The question is when became known, at the end of the 19th century, infinitesimal
+calculus becomes known in France and in Europe in a general way, a certain number of
+objections were raised which related to this, that this calculation admittedly made it possible to
+solve in a simpler way a certain number of geometry problems, for example, to find the tangent
+of certain curves, the parabola, for example, but that this calculus was very suspicious because it
+made a certain [inaudible word] and quantity, it had no geometric existence and had only a
+virtual existence. To which the partisans of infinitesimal calculus, Leibniz supporters, the people
+like [two indistinct names] answer that what matters, it is not the quantity dx which was
+effectively an evanescent quantity (quantité évanouissante) with respect to x, or dy with respect
+to y, but what mattered was the relation of dy to dx. So, the question I would like to ask is: do
+you see a relationship between this way of looking at a relation that involves unqualified
+variables, abstract variables? Did you say three months ago about axiomatization and differential
+calculus as resting on a function, that is, a functional relation which equally bears not on
+variables, but on relations between variables which in these relations are not qualified [indistinct
+words]. Is this clear?
+
+Deleuze: The question is very clear, very clear. [Pause]
+
+The student: If you like, I have the answer.
+
+Deleuze: Ah, fine! [Laughter] Ah, fine! Ah, fine! So then, go ahead and answer first. [Pause] I
+have feeling that it won’t be the same as mine. We could answer simultaneously, each with a
+sentence, as you like, as you like. [Pause] So, you can answer so no one can say your answer
+isn’t correct. So, you go ahead.
+
+The student: The answer is that I would say that, to a certain extent, yes, but what intervenes
+with what you have called axiomatic [indistinct words], something intervenes which does not
+intervene in infinitesimal calculus [indistinct words], which will be the identification or fusion of
+two things, the condition and the function, and which operate independently at the end of the
+18th century, that for several authors [indistinct words], for two authors, [indistinct words], that
+status of the function as condition for Kant, despite what he says about there being as many
+
+                                                                                                         2
+
+categories as there are judgments in understanding (l’entendement), and on the other hand, for
+Cuvier, the conception of function or the set of [indistinct words] as a condition for the existence
+of an element. That is to say, contrary to what has been said, Cuvier never believed that, never
+said that there are four planes in [indistinct words]; he always said that there is an abstract plane,
+this diversity between four modes [indistinct words], and this abstract plane is what is said about
+the function, unlike another plane that was [indistinct words] around the same time by other
+[indistinct words]. [4: 00] To me, it seems that there is something missing in infinitesimal
+calculus for that really to be a functional axiomatic, for that really to bear on variables [indistinct
+words], on relations between variables, this something that is missing being the fusion of
+[sneezing blocks words] as in transcendental philosophy, the function as unity [indistinct words],
+on the condition of experience. For this experience to be possible, for this experience to be
+possible, one must admit that there is this transcendental aspect which is defined by [indistinct
+words] and by a table of functions. [Pause] Is that clear?
+
+Deleuze: Very clear, very clear, very clear. But your answer seems to me much broader than the
+question, because your answer consists in creating a very complex or mixed up concept of
+functions. On the concept of function itself, it’s very difficult because in your answer, you have
+at once a logical function of judgment in the Kantian manner, a certain biological function in the
+manner of Cuvier and the Naturalists, and with implicitly adding the underlying mathematical
+function. So that creates a very odd concept.
+
+The student: [Inaudible answer]
+
+Deleuze: Why not? Why not? [Deleuze says this in a doubtful tone] …
+
+The student: [Several inaudible words]
+
+Deleuze: As for the question itself, I would say this. [Pause] You understand, it seems to me that
+one cannot say that at the end of the seventeenth century and in the eighteenth century, there
+were people for whom differential calculus is something artificial and others for whom it
+represents, in the general sense of representing, something real. We cannot say that because the
+division, it seems to me, is not there. It isn’t there; I am choosing a simple example, someone
+who believes, leaving this entirely vague, someone who really believes in differential calculus
+like Leibniz. Leibniz never stopped saying that differential calculus is pure artifice, that it’s a
+symbolic system. So, on this point, everyone is in strict agreement. Where the disagreement
+begins is in understanding what a symbolic system is, but as for the irreducibility – this, I
+attempted to say at the last meeting – as for the irreducibility of differential signs to any
+mathematical reality, that is, to geometrical, arithmetical and algebraic reality, everyone agrees.
+
+Where a difference arises is when some people think that, henceforth, differential calculus is
+only a convention, a rather suspect one, and others think that its artificial character in relation to
+mathematical reality, on the contrary, allows it to be adequate to certain aspects of physical
+reality. Agreed?
+
+The student: That really has some very important consequences because, here … [The comments
+are rather difficult to quote precisely; in general, the student indicates that Leibniz’s perspective
+
+                                                                                                        3
+
+in the end, over two centuries, blocked the possibility of thinking of the concept of the infinite in
+a more open way than according to infinitesimal calculus. The student cites several examples
+and models from a more current perspective in mathematics.]
+
+Deleuze: One can imagine what Leibniz would say if he heard that, because Leibniz never – I am
+also stating a detail that seems to be a pure fact – Leibniz never thought that his infinitesimal
+analysis, his differential calculus, as he conceived them, sufficed to exhaust the domain of the
+infinite such as he, Leibniz, conceived it. For example, even at the level of calculus, there’s what
+Leibniz calls – we will consider this a bit today -- calculus of the minimum and of the maximum
+which does not at all depend on differential calculus. So, differential calculus for Leibniz
+corresponds to a certain order of infinity. When you demand an qualitative infinity or the
+possibility of a qualitative infinity by saying the Leibniz shut the door on such an analysis, that
+seems to be entirely incorrect, this since if it is true that a qualitative infinity cannot be grasped,
+in fact, by differential calculus, Leibniz is, on the other hand, so conscious of it that he initiates
+other modes of calculus relative to other orders of infinity. And a second comment that seems to
+be to be purely a fact, what eliminated this direction of the qualitative infinity, or even simply of
+actual infinity stated baldly, Leibniz wasn’t the one who blocked it off. According to the very
+examples that you cited, [Spinoza’s] “Letter to Meyer”, the history of the cone and the circle, the
+history of everything that could be called the history of the minimum and maximum, in all this
+history, what blocked this direction, for its own benefit and more, was the Kantian revolution.
+This was what imposed a certain conception of the indefinite and directed the most absolute
+critique of actual infinity. This was Kant’s fault, what you are saying; this is not at all Leibniz’s
+fault.
+
+The student: [Inaudible]
+
+Deleuze: … for the reason that has just been stated, the diabolical character of differential
+calculus. How can an artifice, how can a convention at the same time be what will allow us to
+penetrate the secrets of nature itself?
+
+The student: [Inaudible]
+
+Deleuze: Obviously not! Obviously not!
+
+The student: [Inaudible]
+
+Deleuze: You understand, it seems to me, one has to, in order to understand these problems, once
+again, it’s not that I feel myself in such disagreement with what you are saying; it’s that this
+immediately acquired a very, how to say this, a very abstract dimension, what you are saying. It
+seems to me that this is correct, not wrong, what you are saying. But we cannot understand this if
+we do not see at the same time what practical problem this underlies. So, when you ask the
+question, “what would [Girard] Desargues have said?”, a geometrist-mathematician who
+therefore preceded Leibniz, and who precedes the discovery of differential calculus, what would
+Desargues have said? First of all, differential calculus.
+
+                                                                                                    4
+
+And historically, I expect this kind of question because there is no moment when there is no
+differential calculus and then the moment when it appears. When there isn’t…
+
+The student: [He interrupts Deleuze; inaudible]
+
+Deleuze: When there is no differential calculus, they have a calculus that is used for the same
+thing, without the symbolic perfection, and that has existed since the Greeks.
+
+The student: [He continues to make comments while interrupting Deleuze; Deleuze answers him
+with a very low voice, but the student continues] … found the tangent of the parabola according
+to the Leibniz method, but I am persuaded that for Desargues, Pascal or [Philippe de] Lahire, it
+might have been possible to solve the same problem according to the Greek method by
+describing relations… [Inaudible]
+
+Deleuze: No. [Pause] No. [Pause]. No. No, no, no. [The student continues, but Deleuze
+interrupts him] With what method? Listen, you are in the process of saying nonsense [n’importe
+quoi]. The geometry problems are very simple. You have two types of problem in the end, at this
+period, whether it’s in the Middle Ages, or with the Greeks. There are two kinds of problems, the
+problems in which it’s a question of finding so-called straight lines and so-called rectilinear
+surfaces. Classical geometry and algebra were sufficient. You have problems and you get the
+necessary equations; this is what is called, Leibniz speaks of this, if you will, it’s Euclidean
+geometry. Euclid, Apollonius, an entire direction of geometry. Geometry never stopped being
+found, already with the Greeks, then in the Middle Ages, also because that gets more and more
+complicated, confronting a type of problem of another sort: it’s when one must find and
+determine curves and curvilinear surfaces. Where all geometrists are in agreement is in the fact
+that classical methods of geometry and algebra no longer sufficed.
+
+So, the Greeks, already who are going to deal with these problems, have to invent a special
+method; this is what has been maintained under the name of the method by exhaustion, this
+method of exhaustion that enables the determination of curves and curvilinear surfaces in so far
+as they yield equations of variable degrees, and infinite at the extreme, an infinity of varying
+degrees in the equation. It’s those problems that are going to make necessary and inspire the
+discovery of differential calculus and the way in which differential calculus takes up where the
+old method by exhaustion left off. If you already connect a mathematical system, a mathematical
+symbolism to a theory, if you don’t connect it to the problem for which it is created, then at that
+point, you can no longer understand anything. That’s why I insist enormously on the following
+point: differential calculus makes sense only if you have and if you place yourself before an
+equation in which the terms are raised to different powers. It is not a question of… If you didn’t
+have equations whose terms are of different powers, of the x squared y, if you don’t have that,
+then it’s nonsensical to speak of differential calculus. It’s not even a question of this symbolism
+being created; that would be non-sensical, that would be non-sensical.
+
+And it’s very fine to consider the theory that corresponds to a symbolism, or is implied by a
+symbolism, but you must also completely consider the practice. What practice? When you refer
+to Desargues, it’s obvious that what does Desargues need and in relation to what? In fact, he
+already needs a symbolism that he is required to create. It’s because the method of exhaustion is
+
+                                                                                                      5
+
+not adequate for him. This is precisely for problems of stone carving, in general, problems of
+rounding off, problems of vaulting, how to make a vault from these? There is an entire practice
+there. And infinitesimal analysis, one can’t understand anything if one doesn’t see that precisely
+– this is why I am insisting enormously on this point – that all physical equations are by nature
+differential equations. A physical phenomenon can only be studied, and here, Leibniz will be
+very firm, you understand, because Leibniz’s entire topic will be: Descartes only had geometry
+and algebra, and what Descartes himself had invented under the name of analytical geometry, but
+however far he went in that invention, it gave him at most the means to grasp figures and
+movement, and yet, figures and movement, of a rectilinear kind.
+
+And with the aggregate of natural phenomena being, after all, phenomena of the curvilinear type,
+that doesn’t work at all. Descartes remained stuck on figures and movement. Leibniz will
+translate: it’s the same thing to say that nature proceeds in a curvilinear manner or to say that,
+beyond figures and movement, there is something, namely, the domain of forces, and on the very
+level of the laws of movement, Leibniz is going to change everything, thanks precisely to
+differential calculus. When he eventually says – we will see this later – when he says that what is
+conserved is not mv, not mass and velocity, but it's mv2, to understand nothing but that when
+this topic is discovered, the only difference in the formula being the extension of v to the second
+power. This is made possible by differential calculus because differential calculus allows the
+comparison of powers and of rejects [rejets]. So, that that point, one must not even say, why
+didn’t Descartes see that what was conserved was mv2? Why did he believe that it was mv?
+Obviously, Descartes didn’t have the technical means to say mv2. It wasn’t possible. From the
+point of view of language, both of geometry and of arithmetic and of algebra, mv2 is pure and
+simple non-sense.
+
+So, today, everything changes. With what we know in science today, we can always explain that
+what is conserved is mv2 without appealing to any infinitesimal analysis. That happens in high
+school texts, but to prove it, and for the formula to make any sense, for the formula to be
+anything other than non-sense, an entire apparatus of differential calculus is required. But, then,
+there we are. Fine.
+
+Georges Comtesse: [Inaudible intervention, from 20 :45-23 :20] [At the beginning, Deleuze tells
+him: Ah, right, I forgot that.]
+
+Deleuze: Listen, why not? Why not? But I kind of have to make the same demand that I made
+earlier. While you create a very interesting theoretical framework, you need to acknowledge that
+it’s a fact, in the domain of differential calculus and the axiomatic, the fact on which I need to
+insist, on an historical fact, which is this: differential calculus and the axiomatic certainly have a
+point of encounter, but this is one of perfect exclusion. I mean that, historically, what’s called,
+what certain historians of mathematics call the rigorous status of differential calculus arises quite
+belatedly. The rigorous status of differential calculus, what does that mean? It means that
+everything that is convention or at least, everything, no, let’s say, let’s keep the very vague word
+“convention,” is expelled from differential calculus. And what is convention even for Leibniz,
+what is artifice in differential calculus? What artifice is, is an entire aggregate of things: the idea
+of a becoming, the idea of a limit of becoming, the idea of a tendency to approach the limit, all
+these are considered by mathematicians to be absolutely metaphysical notions. The idea that
+
+                                                                                                      6
+
+there is a quantitative becoming, the idea that there is a limit of this becoming, the idea that an
+infinity of small quantities tends toward the limit, all these are considered as absolutely impure
+notions, thus as really non-axiomatic or non-axiomatizable.
+
+So, from the start, I tell myself, whether in Leibniz’s work or in Newton’s and the work of his
+successors, the idea of differential calculus is inseparable and not separated from a set of notions
+judged not to be rigorous or scientific, and they themselves are quite prepared to recognize it. So,
+what happened? It happens that at the end of the nineteenth and the start of the twentieth century,
+differential calculus or infinitesimal analysis is said to receive a rigorously scientific status, but
+at what price? We hunt for any reference to the idea of infinity; we hunt for any reference to the
+idea of limit; we hunt for any reference to the idea of tendency toward the limit. Who does that?
+That is, an interpretation and a rather strange status of calculus will be given because it stops
+operating with ordinary quantities, and its interpretation will be purely ordinal. Henceforth, that
+becomes a mode of exploring the finite, the finite as such. The entire interpretation of calculus is
+changed. It’s a great mathematician, [Karl] Weierstrass, who did that, but it came rather late, to
+the point that, in an axiomatic then… He creates an axiomatic of calculus, but at what price? He
+transforms it completely. To the point that, today, when we do differential calculus, there is no
+reference to the notions of infinity, of limit and of tendency of approaching the limit, no longer
+any reference to those things. There is a static interpretation. There is no longer any dynamism in
+differential calculus, but a static and ordinal interpretation of calculus. This is Weierstrass’s great
+victory, a static and ordinal interpretation of calculus. For those who might be interested in this,
+you’ll find there is a book that, at the end, includes appendices, there’s an entire appendix at the
+back of the book, on the way in which current interpretation of differential calculus does without
+any reference to notions of infinity or of the infinitely small. This is [Jules] Vuillemin’s book, La
+philosophie de l’algèbre.3
+
+So, it seems to me that his fact is very important for us because it must certainly show us that the
+differential relations… -- Moreover, here, even before the axiomatization, all mathematicians
+agreed in saying that differential calculus, interpreted as a method for exploring the infinite, was
+an impure convention. And once again, I never stop saying this, Leibniz was the first to say that,
+but only, we still have to know then what the symbolic value is. But, from the point of view and
+in the new sense that the axiomatic gives to the symbolic, if this whole domain, this whole
+impure domain is expelled, I can then really say, the axiomatic, axiomatic relations and
+differential relations, well no. They absolutely have to… I recall a mathematician from the 19th
+century, for example, who again says, this is an expression that… He says, yes, differential
+calculus has always been a Gothic hypothesis, a Gothic hypothesis. There is no greater insult for
+a mathematician, a Gothic hypothesis, and on this point, until calculus receives… [Deleuze does
+not finish the sentence]4
+
+And in this sense, I am saying, there is an opposition, there is an opposition between differential
+relations such as they are interpreted at the end of the 19th century, and the requirements of an
+axiomatic. So, that does not prevent, in fact… why? Because infinity has completely changed its
+sense, its nature, and in the end, calculus is completely expelled. So, what you are saying is quite
+possible, but on the condition, almost that you manage to show, it seems to me, that point on
+which rests the opposition between an aggregate of axiomatic relations and differential relations.
+
+                                                                                                        7
+
+So, I indeed, indeed, I just have here a vague idea, but finally… If you will, it seems to me that a
+differential relation of the type dy over dx is such that one extracts it from x and y. Fine. At the
+same time, dy is nothing in relation to y, it’s an infinitely small quantity; dx is nothing in relation
+to x, it’s an infinitely small quantity in relation to x. On the other hand, dy over dx is something,
+but it is something completely different from y over x. For example, if y over x – as you stated it
+very well – if y over x designates a curve, dy over dx designates a tangent. And what’s more, it’s
+not just any tangent. Fine.
+
+I would say therefore that the differential relation is such that it no longer signifies anything
+concrete, it signifies nothing concrete in relation to what it’s derived from, that is, in relation to x
+and to y, but it signifies something else concrete (autre chose de concret), and that is how it
+assures passage to the limits. It assures something else concrete, namely a z.
+
+The previous student: [Inaudible]
+
+Deleuze: Certainly not. Oh, don’t complicate things. I am not saying that this is necessarily
+[indistinct word]. [Pause] Understand? It’s exactly as if I said that differential calculus is
+completely abstract in relation to a determination of the type a over b, but on the other hand, it
+determines a c. Whereas the axiomatic relation, no. The axiomatic relation is completely formal
+from all points of view, from all points of view. If it is formal in relation to a and b, it does not
+determine a c that would be concrete for it. So, it doesn’t assure a passage at all. This would be
+the whole classical opposition between genesis and structure. The axiomatic is really the
+structure common to a plurality of domains, a structure common to a multiplicity of domains.
+Differential calculus, in the old style… [Deleuze is interrupted]
+
+The student: [Inaudible; Deleuze answers while he speaks: Agreed, agreed.]
+
+Deleuze: … a bit like, but the difference is more important than the similarity, it seems to me.
+[Pause] Fine, so let’s go on. [Pause]
+
+Well then, well then, well then, the last time, you perhaps recall, we were considering my second
+topic heading, and this second heading dealt with “Substance, World, and Compossibility.” And
+we had seen the first part of this great heading. And in the first part, I tried to say, what does
+Leibniz call infinite analysis? And the answer was this – our answer, but we did a lot of
+searching – our answer was this: infinite analysis concerns this or else it fulfills the following
+condition: it appears to the extent that continuity and small differences or vanishing differences
+are substituted for identity. It’s when we proceed by continuity and vanishing differences that
+analysis becomes properly infinite analysis. So, we tried to explain why, and I won’t go back
+over that.
+
+And I arrive at the second aspect of the question; henceforth, notice, there would be infinite
+analysis and there would be material for infinite analysis when I find myself faced with a domain
+that is no longer directly governed by the identical, by identity, but a domain that is governed by
+continuity and vanishing differences. We reach a relatively clear answer.
+
+                                                                                                          8
+
+Hence the second aspect of the problem: what is compossibility? What does it mean for two
+things to be compossible or non-compossible? And there, we indeed see what that problem is
+connected to. Yet again, Leibniz tells us that Adam non-sinner, an Adam who might not have
+sinned, is possible in itself, but not compossible with the existing world. So, he makes a claim
+for a relation of compossibility that he invents, and you sense that it’s entirely linked to the idea
+of infinite analysis. Fine, but one would have to prove this, one would have to… Why? Where is
+the problem? The problem is that the incompossible, at first glance, cannot be the contradictory;
+it is not the same thing as the contradictory. [Pause] In fact, and however, and however, it’s
+complicated because, once again, you maintain the example. Adam non-sinner is incompossible
+with the existing world; another world would be required. Fine. I see only three possible
+solutions; if we say that, I only see three possible solutions for trying to characterize the notion
+of incompossibility.
+
+First solution: we’ll say that, one way or another, incompossibility has to imply a kind of logical
+contradiction. In a pinch, you’ll grant me that, it’s necessary, yes, that means a contradiction
+would have to exist finally between Adam non-sinner and the existing world. [Pause] Can we
+indeed follow this path? Yes, at first glance, you can still grant me this, you can still grant me
+this, a contradiction would exist between Adam non-sinner and the existing world, only we could
+identify this contradiction only to infinity; it would be an infinite contradiction. Whereas there is
+a finite contradiction between circle and square, there is only an infinite contradiction between
+Adam non-sinner and the world. We can still say that.
+
+Certain texts by Leibniz move in this direction. But, yet again, we know already that we have to
+be careful about the levels of Leibniz’s texts. In fact, everything we said previously implied that
+compossibility and incompossibility are truly an original relation, irreducible to identity and
+contradiction. Contradictory identity. Furthermore, we saw that infinite analysis, in accordance
+with our first part, we saw that infinite analysis was not an analysis that discovered the identical
+as a result of an infinite series of steps. In fact, the whole outcome the last time was that, far from
+discovering the identical at the end of a series, at the end of an infinite series – already, that
+means nothing; it’s non-sense -- at the limit of an infinite series of steps, far from proceeding in
+this way, infinite analysis substituted the point of view of continuity for that of identity. So, it’s
+another domain than the identity/contradiction domain.
+
+Another solution – but then, I will state this rapidly because certain of Leibniz’s texts suggest it
+as well -- it’s that all this is beyond our understanding because our understanding is finite, and
+henceforth, compossibility, this time, would be an original relation, but we could not know what
+its roots are. The roots of this relationship would elude us. The basis of this relationship would
+elude us. Fine. Of course, neither of the two directions can satisfy us. So, it’s very simple. We
+demand a specificity of the relation of compossibility and incompossibility, a proper nature for
+this relation, which is linked at the same time to the nature of the infinite analysis, that is, to all
+that we have seen previously on the continuous and vanishing differences.
+
+And I wonder -- and this is where I wanted to start from – we wonder which way to go? What is
+he going to provide us with? But it gets interesting, he invents a new type of relation, the
+compossible and the incompossible. It gets very rich because he can ... you see, henceforth, the
+whole range of objections, criticisms that he can give himself in relation to earlier philosophies.
+
+                                                                                                      9
+
+He said, oh yes, the others, what did they grasp? Some of them believed that everything was
+necessary; others saw that there was the possible and the necessary; but Leibniz says, I am
+bringing you a new domain. There is not solely the possible, the necessary and the real. There is
+the compossible and the incompossible. He was attempting to cover an entire region of being.
+
+Discovering that, for a philosopher what does that mean? That implies at least that he is not
+satisfied to tell us, I don’t know where that comes from. He can say it without a text, ah well yes,
+that’s beyond our understanding; he can say this as if in passing. But he indeed has to take this
+on once and for all. So there, what bothers me is that… Here is the hypothesis that I’d like to
+suggest: that, on one hand, Leibniz is a busy man because he writes in all directions, all over the
+place, he does not publish at all or very little during his life. Leibniz has everything there, all the
+elements, all the material, all the details to give a relatively precise answer to this problem.
+Necessarily so since he’s the one who invented it, so it’s him who has the solution. So, what
+happened for him not to have put all of it together? What’s the cause of that?
+
+Here’s the hypothesis I’d like to suggest; I am stating it, I’m trying to hurry it up because we
+have to proceed in proper order given that, once again, this story is so delicate and amusing. I
+think that what will provide an answer to this problem, at once about infinite analysis and about
+compossibility, is a very curious theory that Leibniz was no doubt, perhaps, the first to introduce
+into philosophy, that we could call the theory of singularities. For Leibniz’s work, the theory of
+singularities, which is scattered, which is everywhere – I cannot cite a single book where it’s
+doesn’t exist… it’s everywhere, it’s everywhere -- one even risks reading pages by Leibniz
+without seeing that one is fully in the midst of it, that’s how discreet he is or how much he
+inhabits it at certain moments.
+
+The theory of singularities appears to me to have two poles for Leibniz, and one would have to
+say that it’s a mathematical-psychological theory, hence, you see, our purpose today, our work
+today that would be, if I try to enumerate fully, that would be: what is a singularity on the
+mathematical level? What is this strange notion, singularity, singularity for mathematicians?
+[Pause] And what does Leibniz manage to create in all this? What does he create in all that? Is it
+true that he creates the first great theory of singularities in mathematics? Second question: what
+is then that’s something absolutely new, the Leibnizian psychological theory of singularities, of
+psychological singularities? [Pause]
+
+And the last question – so that gives us three questions for today, that’s a lot – the last question:
+to what extent does the mathematical-psychological theory of singularities, as sketched out by
+Leibniz, help us answer the question: what is the compossible, what is the incompossible, and
+definitively, what is infinite analysis? [Pause] There we are. Well then, that’s all that I’d like for
+us to do.
+
+For, in fact then, I begin with the first point. What is this mathematical notion of singularity?
+And what makes it interesting, and why did it disappear? It seems to me, it’s too bad… we’d
+have to see; it’s often like that at times in philosophy: there is something that emerges at one
+moment and will be abandoned. It seems to me that this is the very beautiful case of a theory that
+was really more than outlined by Leibniz, and then there was no follow-up, as if there was a
+
+                                                                                                       10
+
+chance there, and then… Is there a way today to come back to it? Wouldn’t it be interesting for
+us, and why would that be interesting?
+
+I am saying here that I am still divided about two things in philosophy: the idea that philosophy
+does not require a special kind of knowledge, that really, in this sense, anyone is open to
+philosophy, and at the same time, that one can do philosophy only if one is sensitive to a certain
+terminology of philosophy, and that you can always create it -- good terminology is by nature
+always created, but you cannot create it by doing just anything. That’s why, in my view, what
+does not exists, although apparently that exists, a dictionary of philosophy would be a very, very
+important thing – I believe that it’s very difficult to create philosophy if you don’t know what
+terms like these are: categories, concept, idea, a priori, a posteriori, exactly like one cannot do
+mathematics if one does not know what a, b, x, y, etc., variables, constants, equations are; there
+is a minimum. And I notice that, perpetually, logic… But don’t be concerned; at the same time,
+you can learn it bit by bit. It’s just that you will not create philosophy if you do not attach
+importance to those points.
+
+Singular, where does that come from? The singular has always existed in a certain logical
+vocabulary. Only, in what sort of relation is the singular? That’s already interesting; that’s
+something for you to consider. "Singular" designates through difference from and, at the same
+time, in relation to "universal." Why do I feel compelled to say that? Because there is another
+pair of notions, there is a doublet, there are a couple of notions, it’s "particular" that is stated with
+reference to what? Which is stated in relation to "general." If you confuse everything, you will
+employ “particular” and “singular” as equivalent, “general” and “universal” as equivalent. At
+that point, it’s not bad, it’s not bad, it’s not difficult, all that, but one must reflect on the singular
+and the universal. These are in relation with each other; the particular and the general are in
+relation. What is a judgment of singularity? It’s not the same thing as a judgment called
+particular, nor the same thing as a judgment called general.
+
+There we have it, generally, no matter; I am not developing this because that’s not what concerns
+me. I am only saying, formally, "singular" was thought, in classical logic, with reference to
+"universal." And that does not necessarily exhaust a notion: when mathematicians use the
+expression "singularity," with what do they place it into relation? Here, we must be guided by
+words… [Interruption of the recording] [46:39]
+
+Part 2
+
+[Text furnished by Web Deleuze]: There is indeed a philosophical etymology, or even a
+philosophical philology. "Singular" in mathematics is distinct from or opposed to] "regular." The
+singular is what is outside the rule. Fine, we don’t seem to be saying much of anything. There is
+another pair of notions used by mathematicians, and here, in contrast to what I just said, but for
+some obvious reasons, I am going to confuse them: it’s "remarkable" and "ordinary." [Pause]
+You have “singular”-“regular”, “remarkable”-“ordinary”. These are not entirely the same thing
+since mathematicians tell us that there are remarkable singularities and singularities that aren’t
+remarkable. But for us, out of convenience, grant me that because Leibniz does not yet make this
+distinction between the non-remarkable singular and the remarkable singular. Leibniz uses
+"singular," "remarkable," and "notable" as equivalents, such that when you find the word
+
+                                                                                                     11
+
+"notable" in Leibniz in a text, even quite rapid, tell yourself that necessarily there’s a wink, that it
+does not at all mean "well-known". When he says something is “notable”, he enlarges, he
+literally enlarges the word with an unusual meaning. You will ask me, why doesn’t he warn us?
+If he warned us from the start, this style would not exist; warning is not what concerns him.
+When he talks about a notable perception, tell yourself that he is in the process of saying
+something.
+
+What interest does this have for us? You have to understand this: it’s that mathematics already
+represents a turning point in relation to logic. The mathematical use of the concept "singularity"
+orients singularity in relation to the ordinary or the regular, and no longer in relation to the
+universal. We are invited to distinguish what is singular and what is ordinary or regular. What
+interest does this have for us? Understand, if someone tells me one day, suppose someone – we
+might wonder, who could say that? – but suppose someone tells me: philosophy isn’t doing too
+well because the theory of truth in thought has always been wrong. We’ve always been wrong
+because, above all, we’ve always asked what in thought was true, what was false. And, you
+know, suppose there is this anonymous voice, filtered through my own, that’s not what matters;
+in thought, it’s not the true and the false that matter, it’s the singular and the ordinary.
+
+What is singular, what is remarkable, what is notable in a thought? Or what is ordinary, and what
+does it mean that there would be something ordinary? I think of someone who had nothing to do
+with mathematics, who came much later, who was called Kierkegaard and who, much later,
+would say that philosophy has always ignored the importance of a category, that of the
+interesting! What is the interesting? [Pause] Suddenly, it’s perhaps not true that philosophy
+ignored it. There is at least a philosophical-mathematical concept of singularity that perhaps has
+something interesting to tell us about the concept of "interesting." Fine, it’s precisely that.
+
+This great mathematical discovery is that singularity is no longer thought in relation to the
+universal, but is thought, rather, in relation to the ordinary or to the regular. The singular is what
+exceeds the ordinary and the regular. You will tell me, that does not go very far. Yes, it does.
+Saying this already takes us a great distance since saying it indicates that, henceforth, we wish to
+make singularity into a philosophical concept, even if it means finding reasons to do so in a
+favorable domain, namely mathematics.
+
+And in which case does mathematics speak to us of the singular and the ordinary? [Pause] The
+answer is simple, immediately – I am saying some very, very simple things on purpose --
+concerning certain points plotted on a curve. Not necessarily on a curve, we will see later, but
+notably, concerning certain points plotted on a curve or placed onto a curve, or else, let’s say,
+generally concerning any figure. A figure can be said quite naturally, I believe that it’s necessary,
+but one can say that a figure includes singular points and others that are regular or ordinary. Why
+a figure? Because a figure is something determined! So the singular and the ordinary would
+belong to the determination, and indeed, that would be interesting! You see that by dint of saying
+nothing and marking time, we make a lot of progress. Why not define determination in general?
+It’s very difficult to define determination in general. I tell myself, hey, can’t we define
+determination in general by saying that it’s a combination of singular and ordinary, and every
+determination would be like that? Fine, perhaps, right?
+
+                                                                                                    12
+
+But then, in what… We are going very, very slowly. I take a very simple figure: a square.
+[Pause] Your very legitimate requirement would be to ask me: what are the singular points of a
+square? Not difficult, there are four singular points in a square, there are four. [Pause] You see,
+the four vertices a, b, c, d. [Pause] Fine, we are going to try to define a notion, to define
+singularity, but we remain with examples so that, really… Here, we are making a childish
+inquiry; I insist on this: we are talking mathematics, but we don’t know a word of it. We only
+know that a square has four sides, so there are four singular points that I can call, to use a more
+complicated term, that are the extremum, extremum. There are four extremum. – You are going to
+see why; I am acting like a clown in saying this because I need this term; you are going to see
+why -- These points are those marking precisely that a straight line is finite (finie), and that
+another begins, with a different orientation, at 90 degrees. What will the ordinary points be? This
+will be the infinity of points that compose each side of the square; but the four extremities will be
+what are called singular points. [Pause] All ok? Fine.
+
+[Here’s a] question: How many singular points do you give to a cube? [Pause] I see your vexed
+amazement! [Laughter] [Someone responds, inaudibly] There we are! Very good! – I am
+disappointed; I was hoping you’d tell me twelve! [Laughter] -- There are eight singular points in
+a cube. There we are, if you have already understood that, you’ve understood a great deal. That
+is what we call singular points in the most elementary geometry: points that mark the extremity
+of a straight line. You sense that this is only a start.
+
+I would therefore oppose singular points and ordinary points. [Pause] An effort: A curve.
+[Pause] Ah, good, a curve, a rectilinear figure – here is my question, and through it, we come
+back to a comments made earlier, about what was said in the introduction – a rectilinear figure,
+perhaps, we’d have to reflect, but perhaps can I say a rectilinear figure that singular points are
+necessarily the extremum? Maybe not; you’ll have to see; let us assume that at first sight, I can
+say something like that. For a curve, it’s ruined. Let’s take the simplest example: an arc of a
+circle -- There, I’ve had enough of the blackboard, so here I will just draw figures in the air; you
+can follow me fine -- I make an arc of a circle, like that; so, that depends on where I would place
+the ordinate, concave, as you wish, concave or convex. Underneath, I make a second arc, convex
+if the other is concave, concave if the other is convex. You see? You see, right? [Laughter] Both
+meet one another at a point. Underneath I trace a straight line that, in accordance with the order
+of things – I’ll drag myself to the blackboard I you wish, but it’s really a pain -- I call the
+ordinate. I am tracing the ordinate. [Deleuze turns to the blackboard] I draw my lines
+perpendicular to the ordinate, you see. … [Pause while Deleuze moves to the board; laughter
+from students] There’s no chalk! There’s no chalk! … Oh, là, là… [Pause]
+
+So, I'm writing it very small, eh? I'm happy to make a drawing, but on condition that [inaudible
+because of the voices] [Pause] It's not bad, eh? [Deleuze draws while commenting] A-B, X-Y,
+you see? Understood? A-B there, X-Y there, there, there, there. [Pause] A-B, A-B, A-B, in
+relation -- follow me closely -- A-B, where is it? It’s at the encounter point between the two
+circles meet, the two arcs on the ordinate. A-B, this is the longest segment in relation to this arc,
+and it is the shortest in relation to the other. [Pause] Understand? Excellent. [Pause] Second
+point: this is the shortest or the longest, as you wish. It all depends on whether you took the
+concave arc or the convex arc. [Pause] Second characteristic: this is the only one that is unique,
+this is the only segment that is unique. It's simple, you can't say that, but it's interesting.
+
+                                                                                                   13
+
+Here I have to indicate, just so I won’t appear to be wasting your time, that this is Leibniz’s
+example, in a text with the exquisite title, "Tentamen anagogicum",5 a tiny little work seven
+pages which is a master work, and which means in Latin "analogical essays."
+
+So, I am saying two things: Segment ab thus has two characteristics: it’s the only segment raised
+from the ordinate to be unique. Each of the others has, as Leibniz says, a double, its little twin, he
+even says this. In fact, xy has its mirror, its image in x’y’, and you can get closer through
+vanishing differences of ab, there is only ab that remains unique, without twin. Second point: ab
+can also be considered a maximum or a minimum, [Pause] maximum in relation to one of the
+arcs of the circle, minimum in relation to the other. Ouf, you’ve understood it all. I’d say that ab
+is a singularity.
+
+Why have I introduced this example? To complicate matters a bit. I have introduced the example
+of the simplest curve: an arc of a circle. In what way have I complicated this a bit? Because what
+I showed was that a singular point is not necessarily connected, is not limited to the extremum. It
+can very well be in the middle, and in that case, it is in the middle. And it’s either a minimum or
+a maximum, or both at once. Hence the importance, perhaps you sense this, of a calculus that
+Leibniz will contribute to extending quite far, that he will call calculus of, in Latin as well, of
+maximis and of minimis, calculus of maximums and minimums, and then still today, this calculus
+has an immense importance, for example, in phenomena of symmetry, in physical and optical
+phenomena. In optical phenomena, calculus of maximums and minimums has a very, very great
+importance. I would say there we have a singular point; my point A is a singular point; all the
+others are ordinary or regular. They are ordinary and regular in two ways: [Pause] first, they are
+below the maximum and above the minimum, and second, they exist doubly. Thus, we can
+clarify somewhat this notion of ordinary. It’s another case. I started off from the square, there,
+and we are in arcs of the circle. It’s another case; it’s a singularity of another case.
+
+A new effort: take a complex curve. A complex curve will be what? Here as well, this does not
+have to concern very, very difficult things. What will we call singularities? It has singularities; a
+complex curve is defined by its singularities. What are the singularities of a complex curve, in
+simplest terms? In simplest terms, these are neighboring points of which – hey, this is excellent!
+By saying some very simple and some very dim things, you understand? We are in the process of
+gathering lots of things as regards construction of a mathematico-philosophical concept –
+neighborhood, a singular point has a neighborhood. No matter how little you are familiar with
+mathematics, you know that the notion of neighborhood is very different from contiguity, is a
+key notion, for example, in the whole extremely rich domain of mathematics, namely, of
+topology, and it’s the notion of singularity that is able to help us understand what neighborhood
+is. Thus, in the neighborhood of a singularity, something changes, that is, the curve grows, or it
+decreases. [Pause] A curve has moments… You see, I am not creating the drawing; [the curve]
+grows or it decreases. These points of growth or decrease; I will call them singularities. The
+ordinary is what? It’s the series, that which is between – you see, we’re making progress – the
+ordinary is what is between two singularities; that goes from the neighborhood of one singularity
+the neighborhood of another singularity, of the ordinary or the regular. This seems essential to
+me.
+
+                                                                                                    14
+
+Understand? This domain is completely, in relation to classical philosophy, completely … fine.
+I’ve already said too much about it; I will take advantage in order to say, suddenly, why?
+Henceforth, we grasp some of these relations, some very strange nuptials: isn’t "classical"
+philosophy’s fate relatively linked, and inversely, to geometry, arithmetic, and classical algebra,
+that is, to rectilinear figures? You will tell me that rectilinear figures already include singular
+points, agreed, but understand, once I discovered and constructed the mathematical notion of
+singularity, I can say that it was already there in the simplest rectilinear figures. Never would the
+simplest rectilinear figures have given me a consistent occasion, a real necessity to construct the
+notion of singularity. It’s simply on the level of complex curves that this becomes necessary.
+Once I found it on the level of complex curves, now there, yes, I back up and can say: ah, it was
+already an arc of a circle, it was already in a simple figure like the rectilinear square, but before
+you couldn’t.
+
+The student in math [from the start of the session]: [Brief inaudible comment]
+
+Deleuze [in a rasping voice] … Spare me (Pitié)… My God… He broke me since… [Laughter]
+You know, speaking is a fragile thing; speaking is a fragile thing. [Pause; Deleuze’s voice is
+almost at the level of a whisper; the class is extremely silent] Yes, in the end, one might as well
+answer that with the method of exhaustion and apply the method of exhaustion which was a predifferential method. [Pause] No, it’s… I don’t know any more.
+
+The student: [Inaudible; he tries to continue speaking but Deleuze stops him, yelling at him]
+
+Deleuze [yelling]: Ah, spare me, spare me, spare me. [Pitié, pitié, pitié] Ah, no, listen, I’ll let you
+talk for an hour when you want, but not now… Oh, là, là… This is a hole [in memory] [Pause
+while Deleuze seems to regroup himself somewhat; someone says something to him, and he
+answers] Ah, no, ah, no, it’s what’s in my head…
+
+Fine, listen. I will read to you a small, late text by a well-known mathematician named [Henri]
+Poincaré that deals extensively with this topic of the theory of singularities that will be
+developed during the entire eighteenth and nineteenth centuries. In scientific works, since there
+are two kinds of undertaking by Poincaré, logical and philosophical projects, and mathematical
+ones since he is above all a mathematician, there is an essay by Poincaré on differential
+equations. I am reading just a part of it because his essay addresses the kinds of singular points in
+a curve referring to a function or to a differential equation. He tells us that there are four kinds of
+singular points, four kinds of singular points; they’re very important, the names he will attribute
+to them: first, crests [cols], crests, a geographical term, crest. These are points through which two
+curves defined by the equation pass, and only two. Here, the differential equation is such that, in
+the neighborhood of this point, the equation is going to define or going to cause two curves and
+only two to pass; the crest, through which pass two curves defined by the equation, and solely
+two. That’s one kind of singularity.
+
+The second type of singularity: knots, knots, in which an infinity of curves defined by the
+equation come to intersect. The third type of singularity: thresholds [foyers], around which these
+curves turn while drawing closer to them in the form of a spiral. [Pause] Finally, the fourth type
+of singularity: centers, around which curves appear in the form of a closed circle, centers around
+
+                                                                                                    15
+
+which curves appear in the form of a closed circle. And Poincaré explains in the sequel to the
+essay that, according to him, one great merit of mathematics is to have pushed the theory of
+singularities into relationship with the theory of functions or of differential equations.
+
+Why do I quote this example from Poincaré? It’s because already, you could find equivalent
+notions in Leibniz’s works. Here an already very curious terrain appears, with crests, thresholds,
+centers, truly like a kind, we don’t know what to say, a kind of astrology of mathematical
+geography. I am presenting this example because, you see that we went from the simplest to the
+most complex; I mean, on the level of a simple square, of a rectilinear figure, singularities were
+extremum; on the level of a simple curve, you have singularities that are even easier to
+determine, for which the principle of determination was easy. The singularity was the unique
+case that had no twin, or else was the case in which the maximum and minimum were identified.
+There you have more and more complex singularities when you move into more complex curves.
+Therefore, it’s as if the domain of singularities is infinite, strictly speaking.
+
+What is the formula going to be? Here I request that we go quickly because you will see how this
+is constructed. I am returning to the topic from earlier. As long as you are dealing with problems
+considered as rectilinear, that is, in which it’s a question of determining right angles or rectilinear
+surfaces, you don’t need differential calculus. You need differential calculus when you find
+yourself faced with the task of determining curves and curvilinear surfaces. What does that
+mean? This is not by chance. It’s that the singularity – it’s the only thing that I am saying about
+differential calculus -- in what way is the singularity linked to differential calculus? It’s that the
+singular point is the point in the neighborhood of which the differential relation dy/dx changes its
+sign. For example: vertex, vertex relative to a curve before it decreases, before it descends, so
+you will say that the differential relation changes its sign. It changes its sign at this spot, but to
+what extent? Here, it’s very well explained in all the textbooks: to the extent that it becomes
+equal; in the neighborhood of this point, it becomes equal to zero or to infinity. It’s the theme of
+the minimum and of the maximum that you again find there. No matter.
+
+I just want to say, here is the aggregate. This whole aggregate that I’ve just tried to present with
+this aggravating outpouring consists in saying: look at the kind of relationship that we have
+between singular and ordinary, such that you are going to define the singular as a function of
+curvilinear problems in relation to differential calculus, and in this tension or this opposition
+between singular point and ordinary point, or singular point and regular point. That’s it, let’s say,
+this is what mathematicians provide us with as basic material, and yet again if it is true that in
+certain cases, in the simplest cases, the singular is the extremity, in other simple cases, it’s the
+maximum or the minimum or even both at once. Singularities there develop more and more
+complex relations on the level of more and more complex curves.
+
+There we are, let’s assume that there is nothing else; I retain the following formula: a singularity
+is a point in the neighborhood of which – this is, almost, yes, what one must retain – a singularity
+plotted or moved onto a curve, or determined on a curve, is point in the neighborhood of which
+the differential relation changes its sign, and the singularity, the singular point’s characteristic is
+to extend itself (se prolonger) over the whole series of ordinary points that depend on it all the
+way to the neighborhood of the subsequent singularity. So, I maintain that the theory of
+
+                                                                                                     16
+
+singularities is inseparable from a theory or an activity or a technique of extension.6 So,
+understand, this is going to create a great step forward for us.
+
+Wouldn’t these be henceforth a possible definition, or elements for a possible definition of
+continuity? It wouldn’t be easy to define continuity especially in relation with points. I’d say that
+continuity or the continuous – I’m saying this casually, to have… -- continuity or the
+continuous is the extension of a remarkable point onto a series of ordinaries, of a singular point
+onto a series of ordinaries, all the way into the neighborhood of the subsequent singularity.
+Suddenly I’m very pleased! I’m extremely pleased because, at last, I have a kind of definition,
+even if it doesn’t satisfy us, even if we’re forced to revise it, I have an initial hypothetical
+definition of what the continuous is. And notice that it’s all the more bizarre since, in order to
+reach this definition of the continuous, I used what apparently introduces a discontinuity, notably
+a singularity in which something changes. And rather than being the opposite, it’s the
+discontinuity that provides me with this approximate definition. As long as I can extend a
+singularity, it’s continuous. Good, so here we are. That’s all for the mathematical domain.
+
+I pass to the other domain because, while pretending that there is no relation, and you certainly
+sense that for Leibniz, things don’t work that way, that there are obviously relations between the
+two domains. This time, it’s the psychological domain. [Pause] And Leibniz tells us, in the end,
+he tells us something already very odd. He says, well yes, everyone, we all know that we have
+perceptions, that for example, I see red, it’s qualitative, I see red; I hear the sound of sea, a theme
+that returns constantly in his works, I hear the sound of the sea; seated on the beach, I hear the
+sound of the sea. And then, I see red, and there we are, all that, and these are perceptions.
+Moreover, he says, we should reserve a special name for them, we’ll see why, because they are
+conscious. This is perception endowed with consciousness, perception endowed with
+consciousness, that is, perception perceived as such by an "I"; we call it apperception, like aperceiving (apercevoir). For, in fact, this is perception that I perceive. So, let’s reserve a special
+name for it, apperception; apperception signifies a conscious perception.
+
+And Leibniz tells us the following, which at first glance nonetheless seem very strange, very…
+One tells oneself, why not, but why? There really have to – and again, this is the cry, so this is
+the cry that animates the concept -- henceforth there really have to be unconscious perceptions
+that we don’t perceive. These unconscious perceptions that we do not perceive will be called
+“small perceptions”, small perception; we don’t perceive them. You understand that this is very
+important because these are unconscious perceptions. Why is this necessary? Why necessary?
+
+Oddly, Leibniz will give us two reasons; and these are two reasons, you see, that goes so much
+without saying, but I would like to do the same thing here, to state for singularities some things
+so obvious that… Sometimes in texts, he gives them together, but in fact, there are two reasons:
+it’s that we perceive our apperceptions, our conscious perceptions, these are always global. What
+we perceive is always a whole, whether this whole is relative, whether it is changing. What we
+grasp through conscious perception is relative totalities. And it is really necessary that parts exist
+since there is a whole, and that’s a line of reasoning that Leibniz constantly follows: there has to
+be something simple if there is something composite; he raises this into a grand principle; and
+still, it doesn’t go without saying; do you understand what he means? He means that there is no
+indefinite, and that goes so little without saying that it implies the actual infinite. There has to be
+
+                                                                                                    17
+
+something simple since there is something composite. There are people who will think that
+everything is composite to infinity, and they will be partisans of the indefinite, but for other
+reasons, Leibniz thinks that the infinite is actual, so he indeed has to say that. Henceforth, we
+have to, since we perceive the global noise of the waves when we are seated on the beach, we
+have to have small perceptions of each wave, as he says in summary form, and moreover, of each
+drop, each drop of water. You will ask me, why? It’s a kind of logical requirement, and we shall
+see what he means.
+
+The same line of reasoning, and here I insist, on the level of the whole and the parts, he pursues
+it on the level, this time, not by invoking a principle of totality, but a principle of causality: what
+we perceive is always an effect, so there have to be causes. These causes themselves have to be
+perceived; otherwise the effect would not be perceived. In this case, the tiny drops are no longer
+the parts that make up the wave, nor the waves the parts that make up the sea, but they intervene
+as causes that produce an effect. You will tell me that there is no great difference here, but let me
+point out simply that in all of Leibniz’s texts, there are always two distinct arguments that he is
+perpetually trying to make coexist: an argument based on causality and an argument based on
+parts, not the same thing. A cause-effect relation and part-whole relation. These cannot at all be
+entirely the same; we are going to see the problems. Fine.
+
+So, this is how our conscious perceptions bathe in a flow of small perceptions, of unconscious
+small perceptions. What can that mean? On one hand, this has to be this way, this has to be this
+way logically, in accordance with the requirement of principles, but the great moments occur
+when experience comes to confirm the requirement of great principles. When the coincidence,
+the very beautiful coincidence of principles and experience occurs, philosophy knows its
+moment of happiness, even if it’s personally the misfortune of the philosopher. And at that
+moment, the philosopher says: everything is fine, as it should be. So it is necessary for
+experience to show me that under certain conditions of disorganization in my consciousness,
+small perceptions force open the door of my consciousness and invade me. When my
+consciousness relaxes, I am thus invaded by small perceptions that do not become for all that
+conscious perceptions; they do not become apperceptions since they only invade my
+consciousness when my consciousness is disorganized.
+
+At that moment, a flow of small perceptions invades me, unconscious small perceptions. It’s not
+that they stop being unconscious, but it’s me who ceases being conscious. But I live them, there
+is an unconscious lived experience. I do not represent them, I do not perceive them, but they are
+there, they swarm in these cases. I receive a huge blow on the head: dizziness is an example that
+recurs constantly in Leibniz’s work. I get dizzy, I faint, and a flow of small unconscious
+perceptions arrives: a buzz, a buzz in my head. These texts by Leibniz, obviously, refer to texts
+that they cannot be aware of, but it’s rather the reverse. Rousseau knew Leibniz, Rousseau who
+will undergo the cruel experience of fainting after having received a huge blow, and he relates
+his recovery – it’s the same thing, fainting or emerging from fainting -- and the swarming of
+small perceptions. It’s a very famous text by Rousseau in The Reveries of a Solitary Stroller,
+which is the return to consciousness, so this kind of swarming there, something like an itching of
+small perceptions. Fine.
+
+                                                                                                  18
+
+Leibniz says “dizziness”, fine; let’s look, let’s look, we’re looking for what is called, or what
+some called at the end of the 19th century, experiences of thought. Experiences of thought, we
+don’t even need to pursue this, thank God; we know what it’s like, so through thought, we look
+for the kind of experience that corresponds to the principle: fainting. Leibniz goes much further;
+he asks himself: wouldn’t that be death? So, that will pose problems for theology. Leibniz’s
+hypothesis is that death would be that, death, that is, it would be the state of a living person who
+would not cease living; that is, death would be catalepsy, straight out of Edgar Poe, [Laughter]
+one is simply reduced to small perceptions.
+
+And yet again, understand well, it’s not that they invade my consciousness, but it’s my
+consciousness that is extended, that loses all of its own power, that becomes diluted because it
+loses self-consciousness, but very strangely it becomes an infinitely tiny consciousness of small
+unconscious perceptions. This would be death. Very good, that it then; you cannot think… One
+mustn’t be contrary; one must agree, but that creates a load of problems. In other words, death is
+nothing other than an envelopment, perceptions cease being developed into conscious
+perceptions, they are enveloped into an infinity of small perceptions. Or yet again, he says, sleep
+without dreaming; sleep without dreaming is this kind, there are lots of small perceptions. Fine.
+Let’s continue some examples.
+
+Do we have to say that only about perception? No. And there, once again, appears Leibniz’s
+genius. There is a Leibnizian psychology, a psychology with Leibniz’s name on it. That was one
+of the first great theories of the unconscious notably. I have already said almost enough about it
+for you to understand the difference and extent to which it’s a conception of the unconscious that
+has absolutely nothing to do with Freud’s. All this to say, to say to Freud’s great advantage, how
+much innovation one finds in Freud: it’s obviously not the hypothesis of an unconscious that has
+been proposed by very numerous authors, but it’s the way in which Freud conceived the
+unconscious. It’s obviously not at all the same way in which Leibniz conceives the unconscious.
+And, in the lineage from Freud, some very strange phenomena will be found, returning to a
+Leibnizian conception, but I will talk about that later.
+
+Before we reach that point, understand that he simply cannot say that about perception since, in
+fact, according to Leibniz, the soul has two fundamental faculties: conscious apperception which
+is therefore composed of small unconscious perceptions, and what he calls "appetition", appetite,
+desire. And we are composed of desires and perceptions. And appetition is conscious appetite. If
+perceptions are made, if global perceptions are made up of an infinity of small perceptions,
+appetitions or gross appetites as is said, gross appetites are made up of an infinity of small
+appetitions. And appetitions are vectors corresponding to small perceptions, and that becomes a
+very strange unconscious with all these small appetitions and these small perceptions, the drop of
+the sea to which the droplet corresponds, to which a small appetition corresponds for someone
+who is thirsty. And when I say, "my God, I’m thirsty, I’m thirsty," when I say that, what am I
+doing? I grossly express a global outcome; ah, I grossly express a global outcome. And when I
+say, “I am hungry, I am hungry”, I grossly express a global outcome; a global outcome of what?
+Of thousands of small perceptions working within me, and thousands of small appetitions that
+crisscross me. Ah, you will ask, how is that? What does that mean?
+
+                                                                                                    19
+
+I’ll jump again across the centuries. In the beginning of the twentieth century, a great, great
+Spanish biologist fell into oblivion; his name was [Ramon] Turro [y Darder]. He wrote a book
+translated in French with the title: The Origins of Knowledge,7 translated into French in 1914,
+and this book is extraordinary. Turro was greatly involved with considering hunger – how is this
+name pronounced in Spanish; it’s written T-u-r-r-o… How?... Anyway, I don’t know -- Turro
+said that when we say "I am hungry" – in my view, in my view, really, Turro’s background was
+entirely in biology; I don’t think that he read Leibniz; in any case, Turro isn’t… and this is all the
+more interesting because his texts could have been signed [Leibniz]… and it’s great when,
+without any direct influence, there is across a distance of centuries a page, and we might say,
+hey, we might say, what is someone’s actuality, meaning that two centuries later, someone writes
+a book in an entirely different domain, and we say, my God, it’s signed Leibniz, it’s Leibniz who
+has visited us, who has reawakened there, really, it’s strange --.
+
+For Turro said that when one says, "I am hungry," it’s not going well there, because it’s really a
+global outcome, what he called a global sensation. Since, in the end, he says, he uses these
+concepts: global hunger and small specific hungers. He said that hunger as a global phenomenon
+is an effect, a statistical effect. What is… [Interruption of the recording] [93:12] [The BNF
+recording omits the whole text of the following paragraph; we benefit from the text furnished by
+Web Deleuze]
+
+Part 3
+
+[What is] hunger composed of as a global substance? Of thousands of tiny hungers: salt hunger,
+protein substance hunger, grease hunger, mineral salts hunger, etc. . . . When I say, "I’m hungry,"
+I am literally undertaking, says Turro, the integral or the integration of these thousands of small
+specific hungers. The small differentials are differentials of conscious perception; conscious
+perception is the integration of small perceptions. Fine. You see that the thousand small
+appetitions are the thousand specific hungers. And Turro continues since there is still something
+strange on the animal level: how does an animal know what it has to have? The animal sees
+sensible qualities, it leaps forward and eats it, they all eat small qualities. The cow eats green, not
+grass, although it does not eat just any green since it recognizes the grass green and only eats
+grass green. The carnivore does not eat proteins, it eats something it saw, without seeing the
+proteins. The problem of instinct on the simplest level is: how does one explain that animals eat
+more or less anything that suits them? In fact, animals eat during a meal the quantity of fat, of
+salt, of proteins necessary for the balance of their internal milieu. And their internal milieu is
+what? It’s the milieu of all the small perceptions and small appetitions. What a strange
+communication between consciousness and the unconscious. Each species eats more or less what
+it needs, except for tragic or comic errors that enemies of instinct always invoke: cats, for
+example, who go eat precisely what will poison them, but quite rarely. That’s what the problem
+of instinct is. [Return to BNF recording]
+
+This Leibnizian psychology invokes small appetitions that invest small perceptions; the small
+appetition makes the psychic investment of the small perception, and what world does that
+create? We never cease passing from one small perception to another, even without knowing it.
+Our consciousness remains there at global perceptions and gross appetites, "I am hungry," but
+when I say, "I am hungry," in fact, there are all sorts of passages, metamorphoses. My little salt
+
+                                                                                                     20
+
+hunger that passes into another little hunger, a little protein hunger; a little protein hunger that
+passes into a little fat hunger, or everything mixed up, quite heterogeneously. And children who
+are dirt eaters, what do you think of that? By what miracle do they eat dirt when they need the
+vitamin that the earth contains? There we have the problem of instinct. It’s odd. These are
+monsters, we could say about children who eat dirt; yes indeed, they are monsters! But God even
+made monsters in harmony. There we are, there we are.
+
+So then, what is the status of psychic unconscious life? It happened that Leibniz encountered the
+thinking – I don’t think that they met because the other one was dying – the thinking of an
+English philosopher, named [John] Locke, and Locke had written a book called An Essay
+Concerning Human Understanding. Leibniz had been very interested in Locke, especially when
+he discovered that Locke was wrong in everything. [Laughter] And he had fun preparing a huge
+book that he called New Essays on Human Understanding in which, chapter by chapter, he
+reviewed and showed that Locke was an idiot. He was wrong, but still it was a great critique of
+Locke. And then he didn’t publish it because it was quite honest for him, he had a very moral
+reaction, because Locke had died in the meantime. He told himself, to publish anyway – notice, I
+am saying this because, today, things don’t work that way anymore [Laughter] – to publish a
+book against some guy who is either ill or dead, who just dies, that’s not good, there’s something
+awful in that. So, he had a huge book; his huge book was completely finished, and he put it
+aside, he didn’t publish it, he wasn’t afflicted by it, he still sent it to some friends, [Laughter] you
+just can’t be perfect, right?
+
+And I mention all this because Locke, in his best pages, constructs a concept for which I will use
+the English word, because I’m constrained and force to do so -- and as a result, you aren’t going
+to understand what the concept is – it’s the concept of "uneasiness." [Pause] That’s not bad…
+[One student, then another repeat the word to the others] He has a Pakistan accent so it’s not any
+better than mine… “Uneasy”, “uneasy” … “Uneasy”, what is that? And Leibniz is very clever
+here because he say “uneasy”, which means, to summarize, it’s unease (malaise), a state of
+unease, it’s unease, being ill at ease. And “uneasiness”, it’s a state of unease. And Locke tries to
+explain that it’s the great principle of psychic life. You see that it’s very interesting. Why is this
+interesting? Because this removes us from the banalities about the search for pleasure or for
+happiness. Locke says something; he says, generally, well yes, the search for pleasure, that
+someone seeks his pleasure, it’s quite possible to seek one’s pleasure, one’s happiness, it’s
+something else. Perhaps it’s possible, but that’s not all; there is a kind of anxiety (inquiétude) for
+a living person, anxiety. This is an anxiety, you see, it’s not distress either. He doesn’t say it’s
+distress. Anxiety is a concept. He proposes the psychological concept of anxiety. One is neither
+thirsting for pleasure, nor for happiness, nor distressed; that’s not it, no. He seems to feel that
+that’s not it. He thinks that we are, above all, anxious. We can’t sit still, we move around.
+
+And in a wonderful text Leibniz says, you see, that we can always try to translate this concept,
+but Leibniz says, there is something, no, finally, it’s very difficult to translate because that works
+well in English, this word works well in English, and an Englishman immediately sees what it is.
+Ah, I would say it’s someone who can’t sit still. For us, we’d say that someone is nervous,
+nervous, that’s what “uneasy” would be. Good, that’s possible, what does that mean? You see
+how he borrows the concept from Locke and he is going to transform it: this unease of the living,
+what is it? It’s not at all the unhappiness of the living person. Rather, it’s when he is immobile,
+
+                                                                                                       21
+
+when he has his conscious perception well framed, it all swarms: small perceptions and small
+appetites, small appetitions invest the fluid small perceptions, fluid perceptions and fluid
+appetites ceaselessly move, and that’s it. So, of course, if there is a God, and Leibniz is
+persuaded that God exists, this uneasiness is so little a kind of unhappiness that it is just the same
+as the tendency to develop the maximum perception. And the development of the maximum
+perception will define a kind of psychic continuity. We again find the great theme of continuity,
+that is, an indefinite progress of consciousness. [Pause]
+
+So, he combines that, simply, how is unhappiness possible? There can always be unfortunate
+encounters. He says, it’s like when a stone is likely to fall: it is likely to fall along a path that is
+the right path, for example, and then it can meet a rock that crumbles it or splits it apart. It’s
+really an accident connected to the law of the greatest slope. That doesn’t prevent the law of the
+greatest slope from being the best. We can see what he means.
+
+So, there we have an unconscious defined by small perceptions, and small perceptions are at
+once infinitely small perceptions and the differentials of conscious perception. And small
+appetites are at once unconscious appetites and differentials of conscious appetition. You see?
+There is a genesis of psychic life starting from differentials of consciousness. Hence the
+Leibnizian unconscious is the set of differentials of consciousness. It’s the infinite totality of
+differentials of consciousness. There is a genesis of consciousness. So, I am saying, this is an
+unconscious. The idea of differentials of consciousness is fundamental: the drop of water and the
+appetite for the drop of water, specific small hungers, the world of fainting. All of that makes for
+a very odd world.
+
+I am going to open a very quick parenthesis. So, what, that unconscious, that unconscious, you
+will find it in philosophy; it has a very long history in philosophy. Overall, we can say that in
+fact, it’s the discovery and the theorizing of a properly differential unconscious. You see that this
+unconscious has many links – this is why I was saying a psycho-mathematical domain – it has
+many links to infinitesimal analysis. Just as there are differentials for a curve, there are
+differentials for consciousness. The two domains, the psychic domain and the mathematical
+domain, project symbols. [Pause] So, fine, I am saying, if I look for the lineage – in my view,
+whatever they are, there are always predecessors -- but it’s Leibniz who proposed this great idea,
+the first great theory of this differential unconscious, and from there it never stopped. That will
+not stop; there is a very long tradition of this differential conception of the unconscious based on
+small perceptions and small appetitions. It culminates notably in a very great author who,
+strangely, has always been poorly understood in France, from whom we’ve only retained some
+very rudimentary things, namely a very strange German post-Romantic named [Gustav] Fechner
+who is a disciple of Leibniz and who developed the conception of differential unconscious.
+
+I am saying, we say, well then, Freud, “what was Freud’s contribution?”, it’s obviously a nonsense. It’s obvious that the unconscious was already a very well-constructed notion before Freud.
+But what is also obvious is that Freud broke with this conception of the differential unconscious.
+And why? If I am trying to state this quite superficially, it’s not that, for Freud, there were no
+unconscious perceptions, [but] there were also unconscious perceptions, there are also
+unconscious desires. You recall that for Freud, there is the idea both that representation can be
+
+                                                                                                  22
+
+unconscious, and in another sense, affect also can be unconscious. That corresponds to
+perception and appetition.
+
+But Freud’s innovation is that he conceived the unconscious in a relation -- and here, I am saying
+something very elementary to underscore a huge, huge difference -- he conceived of the
+unconscious in a conflictual or oppositional relationship with consciousness, and not in a
+differential relationship. This is completely different from conceiving of an unconscious that
+expresses differentials of consciousness or conceiving of an unconscious that expresses a force
+that is opposed to consciousness and that enters into conflict with it. In other words, for Leibniz,
+there is a relationship between consciousness and the unconscious, a relation of difference to
+vanishing differences, whereas for Freud, there is a relation of opposition of forces. I could say,
+in fact, that the unconscious attracts representations, it tears them from consciousness, and it’s
+really like two forces like that [Deleuze makes a gesture of opposition]. I could say that,
+philosophically, Freud depends on Kant and Hegel, that’s obvious. Those who explicitly oriented
+the unconscious, and who explicitly oriented it in the direction of a conflict of will, and no longer
+of differential of perception, were from the school of Schopenhauer that Freud knew very well
+and that descended from Kant. So, there is no basis for not safeguarding Freud’s complete
+originality, except that in fact, Freud received his preparation in certain philosophical theories of
+the unconscious, but certainly not in the Leibnizian strain; it would be a Schopenhauerian strain.
+But anyway, there we are.
+
+So, to finish with this finally, because… I would like to say this: fine, we have this outline. Our
+conscious perception is composed of an infinity of small perceptions. Our conscious appetite is
+composed of an infinity of small appetites. What does that mean? But this is completely
+different. Leibniz is in the process of preparing a very strange operation; we have an urge to
+protest; and if we didn’t hold ourselves back, we would protest immediately. We could say to
+him, well fine, perception has causes, for example, my perception of green, or of any color, that
+implies all sorts of physical vibrations. And these physical vibrations are not themselves
+perceived. Even though there might be an infinity of elementary causes in a conscious
+perception, by what right does Leibniz conclude from this that these elementary causes are
+themselves objects of infinitely small perceptions? Why? And what does he mean when he says
+that our conscious perception is composed of an infinity of small perceptions, exactly like
+perception of the sound of the sea is composed of the perception of every drop of water? It’s
+still… yes.
+
+And well, if you look at his texts closely, it’s very odd because these texts say two different
+things, one of which is manifestly expressed like that, by simplification and the other expresses
+Leibniz’s true thought. In fact, I am coming back to my topic. You can organize these texts, the
+aggregate of Leibniz’s texts on small perception, into two headings: some are under the partwhole heading, and in that case, it means that conscious perception is always perception of a
+whole, this perception of a whole assuming not only infinitely small parts, but assuming that
+these infinitely small parts are perceived. [Pause] Hence the formula: conscious perception is
+made of small perceptions, and I am saying that, in this case, "is made of" is the same as "to be
+composed of”, “to be composed of”, and Leibniz expresses himself in this way quite often.
+
+                                                                                                       23
+
+I select a text that I’ll quote, like that, but there are a lot of them [Pause; Deleuze looks through
+the text]: "Otherwise we would not sense the whole at all" -- If there were not all these small
+perceptions, we would have no consciousness at all. I am not making this up here; he only says
+that – “The organs of sense operate a totalization of small perceptions.” The eye, for example, is
+what contracts, what totalizes an infinity of small vibrations, and henceforth composes with these
+tiny vibrations a global quality that I call green, or that I call red, or what I call… Here the text is
+clear, it’s a question of the whole-parts relationship.
+
+But when Leibniz really wants to say… And understand, this isn’t a way of being suspicious.
+When Leibniz wants to move rapidly, when he wants to make himself understood quickly, he has
+every interest in speaking like that, but when he really wants to explain things, -- here, yes, this
+would be the opposition between making himself understood and explicating – when he wants to
+make himself understood, he says that; when he really wants to explicate, he says something
+else, he says that conscious perception is derived from small perceptions. It’s not the same thing,
+"is composed of" and "is derived from". In one case, you have the Whole-Parts relationship, in
+the other, you have a relationship of a completely different nature.
+
+So, what different nature? The relation of derivation: that refers us to infinitesimal analysis, what
+we call a derivative. That also brings us back to infinitesimal calculus: conscious perception
+derives from the infinity of small perceptions. At that point, I would no longer say that the
+organs of sense totalize. Notice that the mathematical notion of integral links the two: the
+integral is what derives from, and the integral is also what operates an integration, a kind of
+totalization, but precisely, this is a very special kind of totalization; it’s not a totalization through
+additions; it’s a very special type of totalization. So here, this gets interesting. We can say
+without risk of error that although Leibniz doesn’t indicate it, it’s even the second texts that have
+the final word. When Leibniz tells us, there is something that conscious perception is composed
+of small perceptions, this is not his true thinking. We have every reason to say this; I just
+explained this. On the contrary, his true thinking is that conscious perception derives from small
+perceptions. What does "derive from" mean?
+
+Well, you recall the text that I just read about the whole. Here is an completely different text by
+Leibniz: “Otherwise” – this was “otherwise”, we wouldn’t perceive the whole – this is a different
+text: [Pause; Deleuze looks in the text while humming] "Perception of light or of color that we
+perceive” -- that is, conscious perception – “is composed of a quantity of small perceptions that
+we do not perceive, and a noise that we do not perceive but to which we give no attention
+becomes a-perceptible” -- i.e. passes into the state of conscious perception – “becomes aperceptible through a tiny addition or augmentation."
+
+Ahhh… you understand? Here, we take this literally: he doesn’t say “through a totalization”;
+[Pause] we no longer pass from small perceptions into conscious perception via totalization as
+the first version of the text suggested; we pass from small perceptions into global conscious
+perception via a tiny addition. We realize, suddenly, we thought we understood, and now we no
+longer understand a thing. A tiny addition is the addition of a small perception; so, we pass from
+small perceptions into global conscious perception via a small perception? [Pause; Deleuze gives
+an exasperates sigh] We tell ourselves that this isn’t right. [Another exasperated sigh] Suddenly,
+we tend to fall back on the other version of the text, at least that one was clearer. It was clearer,
+
+                                                                                                    24
+
+but it was insufficient. Sufficient texts are sufficient, but we no longer understand anything in
+them.
+
+A wonderful situation, except if we recall or if we chance to encounter an adjoining text in which
+Leibniz tells us: "We must consider that we think a quantity of things all at once – it seems, for
+him, -- “we have to consider that we that we think a quantity of things all at once, but we pay
+attention only to thoughts that are the most distinguished”. Fine, you will tell me, so… and so…
+[Pause; Deleuze looks in the text] and so… we continue, and we come upon another little
+fragment.
+
+« For what is remarkable must be composed of parts that are not remarkable” – aahh – “For what
+is remarkable must be composed of parts that are not remarkable” -- there, Leibniz is in the
+process of mixing up everything, but on purpose, on purpose. Excellent! We who are no longer
+innocent, we can situate the word "remarkable”, and we know that each time – once again, I am
+certain that I’m correct – each time that he uses "notable", "remarkable", "distinguished", it’s in a
+very technical sense, and at the same time, he creates a muddle everywhere, understand? He
+accomplished a diabolical master stroke. For the very idea that there is something clear and
+distinct, ever since Descartes, was an idea that circulated all over. Leibniz slides in his little
+"distinguished" in the preceding text: “but we pay attention only to thoughts that are the most
+distinguished”. He might have said, we pay attention only to the clear and to the distinct; he
+didn’t say that; he said: “we pay attention only to thoughts that are the most distinguished”.
+Understand "the distinguished”, “the notable”, “the remarkable”, “the singular”, there we are.
+
+So, what does that mean? “We pass from small unconscious perceptions to global conscious
+perception through a tiny addition”, well yes, obviously. This is not just any tiny addition. That
+would be stupid if he meant through addition, through an equally unconscious perception,
+equally small perception. However, if he means something else, then he contradicts himself. For
+he can not say, in fact, we pass into conscious perception through the addition of a perception
+that would itself be conscious. So, what does he mean? He means that your small perceptions
+form a series of ordinaries or a series called regular: all the tiny drops of water, elementary
+perceptions, infinitesimal perceptions.
+
+How do you pass into the global perception of the sound of the sea? First answer, if I summarize
+everything; first answer: via globalization-totalization. Commentator’s answer, that is, you and
+me: fine, it’s easy to say, easy to say, it’s fine. So, myself, I would never think of raising an
+objection to you. I cannot say that doesn’t work. You have to like an author just enough to know
+that he’s not mistaken, that if he speaks like that, he has the right to proceed quickly.
+
+Second answer: I pass via a tiny addition. This cannot be the addition of an ordinary or regular
+small perception, nor can it be the addition of a conscious perception since at that point,
+consciousness would be presupposed. The answer is that I reach a neighborhood of a remarkable
+point, so I do not operate a totalization, but rather a singularization. This is through
+singularization. It’s when the series of tiny perceived drops of water approaches or enters into the
+neighborhood of a singular point, a remarkable point, that perception becomes conscious. It’s a
+completely different vision because at that moment, all objections, a great part of the objections
+made to the idea of a differential unconscious falls away. But you will ask me, what does that
+
+                                                                                                   25
+
+mean? That doesn’t mean anything. What does that mean? [Pause] There we are, have you
+understood? [Pause] Yes, what does that mean? It seems that we are not getting out of this, and
+at the same time, we are already out; it’s the simplest thing. What does that mean?
+
+So, here arrive the texts by Leibniz that appear the most complete. You recall what we are
+bringing with us from the start, in fact, the idea that with small elements, this is a manner of
+speaking because what is differential are not elements, and here, you are fully correct to remind
+us of this earlier; but we can express it in this way through commodity, and it’s simpler to say
+this. In fact, what is differential in relations? What is differential is not dx in relation to an x,
+because dx in relation to an x is nothing. What is differential is not a dy in relation to a y because
+dy in relation to a y is nothing. What is differential is, and what works within the infinitely small,
+is dy over dx, it’s the relation.
+
+But what relation? You recall that on the level of singular points, the differential relation changes
+its sign. That’s excellent! Leibniz is in the process of impregnating Freud without knowing it. On
+the level of the singularity, there are increases or decreases, the differential relation changes it
+sign, that is, the sign is inverted. In this case of perception, which is the differential relation?
+Why is it that these are not elements, but indeed relations? What we must see is that, in fact,
+what determines a relation is precisely a relationship between physical elements and my body.
+So, you have dy-dx. It’s the relation of physical excitation to my biological body. That’s the
+differential relation of perception. So, we will no longer say, at that level, you understand, we
+can no longer speak exactly of small perceptions. We will speak of the differential relation
+between physical excitation and the biological [Pause] state by assimilating it frankly to dy over
+dx, it matters little, by frankly assimilating it to dy over dx.
+
+And perception becomes conscious when the differential relation corresponds to a singularity,
+that is, changes its sign. In other words, for example, when excitation gets sufficiently closer,
+[Pause] I would say that, literally to make like Leibniz – he wouldn’t say this -- it’s the molecule
+of water closest to my body that is going to define the minute increase through which the infinity
+of small perceptions becomes conscious perception. It’s no longer a relation of whole-parts at all;
+it’s a relation of derivation. It’s the differential relation between that which excites and my
+biological body that is going to permit the definition of the singularity’s neighborhood. Notice in
+which sense Leibniz could say that inversions of signs, that is, passages from consciousness to
+the unconscious and from the unconscious to consciousness, the inversions of signs refer to a
+differential unconscious and not to an unconscious of opposition.
+
+Think about when I alluded to Freud’s posterity, in Jung, for example, with the great Freud-Jung
+rupture, I am not at all saying that’s all there is in Jung because it’s such a mixture, Jung, but
+Jung has an entire Leibnizian side, and besides, Jung knows Leibniz well, and what he
+reintroduces, to Freud’s greatest anger -- and it’s in this that Freud judges that Jung absolutely
+betrayed psychoanalysis -- is an unconscious of the differential type. And he owes that to whom?
+He owes it to the tradition of German Romanticism; the unconscious of the German Romantics is
+closely linked also to the unconscious of Leibniz.
+
+So see, I was able to provide a rigorous meaning to Leibniz’s very statement: we pass from small
+perceptions to unconscious perception through addition of something notable, that is, when the
+
+                                                                                                     26
+
+series of ordinaries reaches the neighborhood of the following singularity, such that psychic life,
+just like the mathematical curve, will be subject to a law which is that of the composition of the
+continuous. And why is the continuous the object of a composition? There is composition of the
+continuous since the continuous is a product: the product of the act by which a singularity is
+extended into the neighborhood of another singularity. And that this works not only upon the
+universe of the mathematical symbol, but also upon the universe of perception, of consciousness,
+and of the unconscious, and from this point onward, we have but one question: what are the
+compossible and incompossible? These derive directly from all this. [Pause] What time is it?
+[Inaudible answer] Fine, so I will end on this. There we are. Can you go on some more? Because
+if you are done, it would be better to stop… You can? Well, I don’t know what you’re feeling…
+[ce que vous avez…]
+
+There we are, we possess the formula for compossibility, we possess it. Suppose that I say this:
+you have a singularity. Now I can say: you take the simplest case; I return to my example of the
+square with its four singularities. You take a singularity, [Pause] and you trace… you take a
+singularity, this singular point, it’s a point; you take it as the center of a circle. Are you following
+me? I am no longer doing the drawing. You take is as the center of a circle. Which circle? All the
+way into the neighborhood of the other singularity. In other words, you take [point] A, you take
+large A, in the square ABCD, you take large A as center of a circle that stops within the
+periphery in the neighborhood of singularity B. [With] B, you do the same thing: you take, you
+trace a circle that stops in the neighborhood of the singularity A and you trace another circle that
+stops in the neighborhood of singularity C. You see, these circles intersect. [Pause]
+
+So, you go on like that constructing, from one singularity to the next, what you will be able to
+call a continuity. The simplest case of a continuity is a straight line, but there is also precisely a
+continuity of non-straight lines. Into what? You see, you have your system of circles that
+intersect, you will say that there is continuity when [Pause] the values of two ordinary series,
+those of A to B, those of B to A, coincide. When there is a coincidence of values of two ordinary
+series encompassed in the two circles, you have a continuity. So, you can construct a continuity
+made from continuity. You can construct a continuity of continuity. The square would be a
+continuity of continuity. If the series of ordinaries that derive from singularities diverge, then you
+have a discontinuity. Fine, that becomes quite simple.
+
+You will say that a world is constituted by a continuity of continuity, first definition. A world is
+constituted by a continuity of continuity, it’s the composition of the continuous. A discontinuity
+is defined when the series of ordinaries or regulars deriving from two points diverge. Third
+definition: the existing world is the best? Why? Because it’s the world that assures the maximum
+of continuity. Fourth definition: what is the compossible? An aggregate of composed
+continuities. Final definition: what is the incompossible? When the series diverge, when you can
+no longer compose the continuity of this world with the continuity of this other world.
+Divergence in the series of ordinaries that depend on singularities: at that moment, it can no
+longer belong to the same world.
+
+You have a law of composition of the continuous that is, really, I’m returning here, psychomathematical. Why isn’t that evident? Why is all this exploration of the unconscious necessary?
+Why isn’t that evident? Because, yet again, God is perverse. God’s perversity lies in having
+
+                                                                                                      27
+
+chosen the world that implicates the maximum of continuity – you see, calculus of the maximum
+– he/she chose the world and caused to pass into being, into existence the world that implied the
+maximum of continuity. Only, here we are, he composed the chosen world in this form, only
+he/she dispersed the continuities since these are continuities of continuities. God dispersed them.
+
+What does that mean? It seems that there are, says Leibniz, in our world, it seems that there are
+discontinuities, leaps, ruptures as he says with an admirable term, it seems that there are musical
+descents (chutes de musique), there are musical descents. But in fact, there are none. It’s simply
+that, for example, it seems there is a gap… or to some among us, it seems – on the contrary, there
+are certain people to whom it seems there is not – but to some among us, it seems that there is a
+gap between man and animal, a rupture. This is necessary because God, with his/her extreme
+malice, conceived of the world to be chosen in the form of the maximum of continuity, so there
+are all sorts of intermediary degrees between animal and man, but God held back from making
+these visible to us. If the need arose, God placed them on other planets of our world. Why?
+Because finally, it was good, it was good for us to be able to believe in the excellence of our
+domination of nature. If we had seen all the transitions between the worst animal and us, we
+would have been less vain.
+
+So, this vanity is still quite good because it allows man to establish his power over nature. In the
+end, it’s not a perversity of God; it’s that God never ceased breaking continuities that God had
+constructed. Why? In order to introduce variety in the chosen world, in order to hide the whole
+system of tiny differences, of vanishing differences. So, God proposed to our sensory organs and
+to our feeble thinking, presented on the contrary a very divided world. We spend our time saying
+that animals have no soul, as Descartes would say, or else that they do not speak, or else all of
+that. But not at all, not at all: there are all sorts of transitions, there are always all sorts of tiny
+differences, etc.
+
+So, you see, the definition at which we’ve arrived, and where I want to stop, here we grasp
+something, a specific relation that is compossibility or incompossibility. I would say yet again
+that compossibility is when series of ordinaries converge, series of regular points that derive
+from two singularities and when their values coincide, otherwise there is discontinuity. In one
+case, you have the definition of compossibility, in the other case, the definition of
+incompossibility. Question, once again: why did God choose this world rather than another,
+when another was possible? Leibniz’s answer which, in my view, becomes splendid: it’s because
+it is the world that mathematically implicates the maximum of continuity, and it’s uniquely in
+this sense that it is the best, that is the best of possible worlds.
+
+There we are, finally, I’d just like you to retain this: everything is constructed around what? If
+you will, that’s what a concept is; it becomes very, very… You see? A concept is always a
+complex. A concept is always something very complex. We can situate our session today under
+the sign of the concept of singularity. And the concept of singularity has all sorts of languages
+that intersect within it. A concept is always, literally, polyvocal; it is necessarily polyvocal since
+you can grasp the concept of singularity only through a minimum of mathematical apparatuses:
+singular points in opposition to ordinary or regular points, on the level of thought experiences of
+a psychological type: what is dizziness, what is a murmur, what is a hum, etc. [Pause] And on
+
+                                                                                                                    28
+
+the level of philosophy as concept, in Leibniz’s case, the construction of this relation of
+compossibility.
+
+And the three will have to… It’s not a mathematical philosophy, no more than mathematics
+becomes philosophy, but in a philosophical concept, there are all sorts of different orders that
+necessarily symbolize. And already here, I would say, it’s true for any philosophical concept that
+it is a philosophical concept that it has a philosophical heading, it has a mathematical heading,
+and it has a heading for an experience of thought. And it’s true of all concepts, it’s true for all.
+
+So, I believe that it was a great day for philosophy when someone brought this odd couple to
+general attention, and that’s what I call a creation in philosophy. I call it this “odd couple”; I
+mean, well yes, when Leibniz proposed this topic – you know, the singular, there precisely is the
+act of creation -- when Leibniz tells us, you know, the singular, think about this well, there is no
+reason for you simply to oppose it to the universal. It’s much more interesting if you listen a bit
+to what mathematicians say, who for their own reasons think, on the contrary, of "singular" not
+in relation to "universal," but in relation to "ordinary" or "regular." So, Leibniz isn’t doing
+mathematics at that point.
+
+I would say that his inspiration is mathematical, and he goes on to create a philosophical theory,
+notably a whole conception of truth that is radically new since it’s going to consist in saying:
+don’t pay too much attention to the matter of true and false; you don’t ask in your thinking what
+is true and what is false, because what is true and what is false in your thinking always results
+from something that is much deeper. What matters in thinking is what is remarkable, these are
+remarkable points and ordinary points. Both are necessary: if you only have singular points in
+thinking, you have no method of extension, it’s worthless; if you have only ordinary points, it’s
+in your interest to think something else, it’s all the same, all that. And the more you believe
+yourself [to be] remarkable (special), the less you think of remarkable points, necessarily,
+necessarily.
+
+In other words, the thought of the singular is the most modest thought in the world. It’s there that
+the thinker necessarily becomes modest, because the thinker is the extension onto the series of
+ordinaries, and thought itself explodes in the element of singularity, and the element of
+singularity is the concept. There we are. [End of session] [2:17:37]
+
+Notes
+
+  Cf. https://www.youtube.com/watch?v=7baZ7Qlp_2Y&t=194s [Verified June 28, 2023]
+  We have to indicate that this translation is based on a transcript that we have completely transformed from the text
+that has been available for some twenty years on Web Deleuze, since we have scrupulously followed here, without
+edits or unforeseen omissions, the audio recording available on several platforms (YouTube, Web Deleuze, Paris 8,
+and here on The Deleuze Seminars). We have therefore expanded the text of this second session on Leibniz by
+approximately forty minutes, that is, in addition to the approximate equivalent of about ninety minutes contained on
+the earlier transcript. We have benefitted, however, from Web Deleuze’s alternate transcription in order to fill in two
+specific gaps that occurred when the recording was interrupted for cassette changes, at the end of parts 1 and 2.
+  Jules Vuillemin’s, La philosophie de l’algèbre (Paris: PUF, 1960, 1962).
+  Deleuze refers to “a mathematician from the 19th century” who considers differential analysis as “a Gothic
+hypothesis” two other occasions in the seminars: Spinoza and the Velocity of Thought, session 10, 10 February
+
+                                                                                                                    29
+
+1981; and Foucault, session 14, 4 March 1986. For a possible identity of this mathematician, see the Spinoza
+reference: given the flow and substance of the paragraph in which this reference arises -- where Deleuze discusses
+how mathematicians came to assert that the founding of infinitesimal calculus need not depend on an hypothesis of
+the infinitely small – this eminent “mathematician from the 19th century” who provides infinitesimal calculus with
+“its definitive status” may well be none other than Karl Weierstrass whom Deleuze identifies at the end of this very
+paragraph. See also Deleuze, Sur Spinoza, ed. David Lapoujade (Paris: Minuit, 2024), p. 363.
+  The complete title is "Tentamen Anagogicum. Anagogical Essay on Research into Causes." See
+https://fr.wikisource.org/wiki/Essai_anagogique_dans_la_recherche_des_causes, for an image Leibniz’s drawing
+within this small work.
+  Deleuze will develop these reflections on perception, tiny perceptions, and differentials in chapter 7 of The Fold.
+Leibniz and the Baroque, cf. pp. 85-99; Le Pli, pp. 113-132.
+  Ramon Turro y Darder, Les origines de la connaissance (1914 ; Paris : Hachette Livre-BNF, 2018).

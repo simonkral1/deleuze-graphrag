@@ -1,0 +1,1257 @@
+1
+
+Gilles Deleuze
+
+Sur Cinéma et Pensée, 1984-1985
+
+7ème séance, 18 décembre 1984 (cours 73)
+
+Transcription : La voix de Deleuze, Ezequiel Romero Diaz (1ère partie), Guadalupe Deza
+(2ème partie), et Mohamed Taméga; correction : Claudie Zémiri (3ème partie) ; révisions
+supplémentaires à la transcription et l’horodatage, Charles J. Stivale
+
+Partie 1
+
+... terminer assez rapidement, j’espère, notre programme que nous traînons depuis le début.
+Deuxième point : faire une récapitulation de ce programme avec bibliographie. Et troisième
+point, car je serai alors en mesure de vous expliquer ce que j’attends de vous, à la suite de quoi,
+peut-être, vous ne reviendrez plus, voilà. [Rires]
+
+Alors je termine d’abord, donc, premier point, je termine cette histoire-là sur le cerveau, [1 :00]
+[Pause] l’image cérébrale, tant du point de vue de la science que du rapport vécu que du cinéma.
+Et vous vous rappelez, j’ai essayé de dire deux choses très simples, même en forçant les choses,
+qu’il me semblait, ce n’était pas une mutation brusque, mais que certains accents s’étaient
+déplacés dans notre rapport scientifique avec le cerveau ou dans notre rapport vécu avec le
+cerveau.
+
+Parallèlement, vous complétez de vous-même le cinéma qui s’est toujours, qui a toujours
+présenté une partie de lui-même très importante comme cinéma du cerveau ; pensez au grand
+texte de [Sergei] Eisenstein [2 :00] [Il s’agit de La non indifférente nature (Paris : UGE, 197578)] : le rapport de l’image cinématographique avec le cortex, le thème du cortex revient
+constamment chez Eisenstein. Eh ben que, si le cortex a quelque chose à voir avec l’image
+cinématographique, il y a eu également un changement dans ce rapport du cinéma avec le
+cerveau. Et je disais : l’accent s’est déplacé de deux façons, c’est-à-dire, bon, pendant un certain
+temps, il me semble que ce qui a dominé -- et je parle de tendance encore une fois -- ce qui a
+dominé dans l’étude du cerveau, c’est une certaine conception d’après un axe d’intégration et de
+différenciation. Et on a vu la dernière fois comment le processus d’intégration [3 :00] et de
+différenciation pouvaient en définitive définir une totalité et une circulation dans le Tout.
+
+Et je disais, bon ben, de plus en plus, peut-être, que, à une structure d’intégration et de
+différenciation tend à se substituer -- et encore « substituer », ce n’est pas bon ; il faut corriger
+chaque fois, il faut mettre des nuances ; moi je ne les mets pas -- tend à se substituer, des
+considérations d’un type nouveau, à savoir concernant une structure topologique du cerveau, où
+cette fois-ci, il ne s’agit plus d’intégration et de différenciation. Et dans la topologie, [4 :00] vous
+savez que, par définition, dans une structure topologique, les distances ne comptent pas. J’insiste
+sur pas besoin que vous sachiez très bien ce que c’est qu’une structure topologique, bon ; ce sera
+à vous de voir.
+
+Or du point de vue quand on découvre le cerveau comme structure topologique, qu’est-ce qui ce
+
+                                                                                                    2
+
+passe ? À ce moment-là, ce qui passe au premier plan, c’est un rapport topologique du dehors et
+du dedans, ou je dirais aussi bien, un contact indépendant de la distance, contact
+indépendamment de la distance, contact indépendamment des distances ou, si vous préférez,
+coprésence, [5 :00] application du dedans et du dehors mais aussi bien du futur et du passé, du
+vide et du plein, de l’endroit et de l’envers, du noir et du blanc, du cosmos et du cerveau. C’est le
+cerveau-cosmos. [Pause]
+
+Inutile de vous dire que, par exemple dans le cinéma, la science-fiction, le cinéma de sciencefiction va en profiter, de ce thème. Et je précisais que, lorsque je parle d’une coprésence ou d’une
+application du dedans et du dehors, il s’agit d’un dehors plus lointain que tout monde extérieur et
+d’un dedans plus profond que tout monde intérieur. [6 :00] L’image cinématographique de ce
+point de vue serait vraiment la coprésence ou l’application du dedans et du dehors, du passé et du
+futur, du cerveau et du cosmos, du noir et du blanc. D’une certaine manière, l’écran noir ou
+l’écran blanc serait le signe de cette structure topologique, [Pause] avec toute l’importance qu’il
+a pris dans le cinéma d’après-guerre. [Pause] Et en effet, pour essayer d’être un peu plus clair,
+[7 :00] l’écran blanc ou l’écran noir ou toutes les variétés combinables, composables, est-ce une
+image pleine, est-ce une image vide ? C’est une coprésence du vide et du plein, c’est une
+coprésence du dehors et du dedans, peu importe. C’était ma première remarque sur le cerveau,
+comment l’accent est mis sur la possibilité d’une structure topologique dont l’espace euclidien ne
+rend pas compte.
+
+Et puis on avait fait une seconde remarque. Cette seconde remarque, c'est [Pause] : comment se
+fait, si l’on conçoit la [8 :00] limite du cerveau, comme coprésence topologique, comme
+application topologique, d’un dehors absolu et d’un dedans absolu, ben quand même, comment
+se fait concrètement à l’intérieur du cerveau, la transmission, l’enchaînement, en gros, les
+enchaînements sensorimoteurs, c’est-à-dire les passages d’un influx ou d’un message, d’un
+neurone à un autre ? [Pause] Et on avait donné une réponse, [9 :00] une réponse également
+obscure. On avait dit : peut-être que ça se fait sous forme de rapports semi-aléatoires. [Pause] Et
+on s’était mis à essayer de regarder, à essayer de regarder un tout petit peu qu’est-ce que c’était
+que ces rapports semi-aléatoires, c’est-à-dire des mixtes. Des mixtes de quoi ? Des mixtes de
+dépendance et de hasard [Pause] que l’on pouvait grouper sous le titre général de « phénomènes
+aléatoires partiellement dépendants » ou si vous préférez, d’enchaînements semi-fortuits.
+[10 :00] Et on avait vu que, une drôle de chose, à savoir les chaines de Markov, donnait un statut
+[Pause] à ces enchaînements semi-aléatoires.
+
+Et je me disais, bon, est-ce qu’on ne pouvait pas concevoir que la transmission d’un neurone à
+l’autre, que l’association d’un neurone à l’autre, se fasse sous la forme des chaines de Markov,
+c’est à dire, de rapports semi-aléatoires ? [Pause] Si vous acceptiez cette idée, même si confus
+que soit tout ça, si vous acceptiez cette idée, il y aurait une grande conséquence [Pause]
+[11 :00] : il faudrait dire que l’enchaînement, les enchaînements, se présentent sous forme de
+morcelages, perpétuellement, de morcelages vraiment, perpétuellement ré-enchainés. Le statut de
+l’enchainement semi-fortuit, c’est du morcelage ré-enchainé.
+
+Je vous dis tout de suite où je veux en venir : le morcelage ré-enchainé, ça veut dire pour moi
+que, d’une manière ou d’une autre, la transmission se fait par ré-enchainement et jamais par
+enchainement. [12 :00] La transmission se fait par ré-enchainement et jamais par enchainement,
+
+                                                                                                        3
+
+qu’est-ce que ça veut dire ? Ça veut dire qu’il faut bien interpréter le préfixe « re », « ré » dans
+ré-enchaînement, le ré-enchaînement n’est pas second par rapport à l’enchainement. Le réenchaînement est un type d’enchaînement particulier. Pour moi, ça devient déjà plus intéressant :
+le ré-enchaînement serait un type d’enchainement particulier. Il y aurait des morcelages par réenchaînement qui ne seraient pas du tout seconds, par rapport à des continuités d’enchaînements.
+On pourrait opposer [13 :00] deux types d’enchaînements : d’une part, l’enchaînement de
+continuité, et d’autre part, le morcelage par ré-enchaînement. [Pause]
+
+Ou si vous préférez, pour être encore plus clair, on distinguerait trois cas possibles : premier cas
+possible, il y a un réseau continu, un réseau continu de transmission ou d’association ; [Pause]
+deuxième cas possible, [Pause] [14 :00] il y a un enchaînement d’images associées qui se fait par
+l’intermédiaire de points-coupures, un enchaînement d’images associées qui se fait par
+l’intermédiaire de points-coupures. Quelle est la… ? -- Là il faut que vous compreniez, hein, ça
+c’est le point qu’il faut que vous compreniez -- Quelle est la condition ? Si vous m’avez suivi
+depuis le début, la condition, on la connaît : c’est que les coupures soient rationnelles. [Pause]
+Quand les coupures sont rationnelles, il y a en effet un enchaînement d’images associées par ces
+points-coupure. [15 :00] Qu'est-ce c'est qu’un point-coupure rationnel ? Vous vous rappelez, et
+ça explique tout, j’espère que vous vous rappelez. En tant que coupure, c’est une instance qui
+opère la répartition de deux séries, une série avant et une série après, une série inférieure et une
+série supérieure. En tant que point coupure rationnel, le point-coupure lui-même fait partie de
+l’une ou l’autre des deux séries, soit qu’il soit le dernier terme de la première série, soit qu’il soit
+le premier terme de la seconde série. Je dirais dans ce cas, il y a, non pas comme dans le premier
+cas, [16 :00] réseau continu ; je dirais, il y a enchaînement d’images associées par pointscoupures rationnels, il y a enchaînement.
+
+Troisième cas, [Pause] enchaînement par points de coupures irrationnels. [Pause] On a vu que
+les points-coupures irrationnels se définissaient comment ? Avant tout, par ceci : ils ne font
+partie… ils déterminent bien, ce sont des coupures, puisqu’ils déterminent une répartition en
+deux séries, mais ils n’appartiennent ni à [17 :00] l’une ni à l’autre des deux séries. Ils opèrent un
+morcelage entre les deux séries. [Pause] Et la relation n’est plus un enchaînement d’images
+associées ; c’est par ré-enchaînement d’images indépendantes. J’ai tout dit. Il se produit un réenchainement d’images indépendantes sans que ce ne soit jamais produit au préalable un
+enchaînement d’images associées. Ce sont deux [18 :00] types d’enchaînement complètement
+différents. Dans le second cas qui m’intéresse, c’est du morcelage ré-enchainé. Ce n’est plus
+l’aspect topologique du cerveau ; c’est l’aspect semi-aléatoire ou probabilitaire, si vous voulez,
+du cerveau opéré par morcelages toujours ré-enchainés. [Pause]
+
+Je reprends la formule -- ça me paraît le plus clair -- il n’y a plus enchaînement d’images
+associées, comme on a vu l’importance de ces associations dans l’ancien cinéma, où en effet les
+points-coupures étaient rationnels. [19 :00] Je vous rappelle encore une fois l’importance pour
+moi, l’importance des textes de Eisenstein lorsqu’il insiste sur ce qu’il appelle les césures, c’està-dire les points-coupures, et la nécessité qu’elles soient rationnelles, c’est-à-dire qu’elles
+obéissent à la « section d’or » ou à une structure voisine de la « section d’or », donc, qu’elles
+impliquent des rapports commensurables, des rapports rationnels.
+
+Eh ben là, ce n’est plus le cas : au lieu d’un enchaînement d’images associées par points de
+
+                                                                                                     4
+
+coupures rationnels, vous avez un morcelage ré-enchaîné par points-coupures irrationnels. D’où
+je peux maintenir : le ré-enchaînement n’est pas un second enchaînement, c’est-à-dire qui vient
+après l’enchaînement. Le ré-enchaînement est un type original [20 :00] d’enchaînement ; c’est
+l’enchaînement semi-fortuit. C’est important ça ; je veux dire, là, on tient quelque chose ; je ne
+sais pas pourquoi, on tient quelque chose ; ça va avoir beaucoup d’importance tout à l’heure.
+
+J’insiste dès lors sur -- comment dirais-je ? -- j’insiste dès lors, comme un de nos résultats
+fondamentaux -- car on a beau ne faire que construire un programme, on y obtient déjà certains
+résultats -- je considère comme un de nos résultats essentiels de notre trimestre, là, le lien que
+nous sommes en mesure d’établir maintenant entre trois notions cinématographiques, [Pause]
+[21 :00] mais ça déborde le cinéma évidemment, je pourrais dire aussi bien entre trois concepts
+philosophiques. Première notion : l’écran noir ou blanc et ses variétés. Deuxième notion : le
+point-coupure irrationnel, la coupure irrationnelle. Troisième notion, le morcelage ré-enchaîné.
+[Pause]
+
+En quoi consiste le lien ? Je pourrais partir, vous comprenez, je pourrais partir de l’une de ces
+notions et engendrer les deux autres [22 :00] ; ce serait harmonieux. Je me contente d’un cas : je
+pars de l’écran noir ou blanc, et je dis, c’est la co-application du dehors absolu et du dedans
+absolu, du passé absolu et du futur absolu, etc., bon. C’est ce qu’on a appelé dans le courant de
+notre recherche, c’est ce qu’on a appelé « la force du dehors », un dehors plus lointain que tout
+monde extérieur, un dedans plus profond que tout monde intérieur. [Pause] Comment va se
+manifester -- l’écran, blanc ou noir, peut se manifester pour lui-même, d’accord -- comment il va
+se manifester dans une suite d’images ? [Pause] [23 :00] C’est le deuxième point. La réponse est
+simple : il va se manifester sous forme d’une coupure irrationnelle, [Pause] coupures
+irrationnelles qui surgissent avec le cinéma moderne, avec le cinéma d’après-guerre, [Pause] je
+disais, notamment dans l’utilisation des faux-raccords. Le faux-raccord est typiquement là une
+coupure irrationnelle, dans les fragmentations d’espace de [Robert] Bresson, [Pause] ou toutes
+sortes d’exemples qu’on a vus et qu’on verra. [24 :00] Donc, je peux déduire très facilement, de
+l’écran noir et blanc, je passe à la coupure irrationnelle entre images, dans une série d’images.
+
+Troisièmement, ma question est : lorsque deux séries sont déterminées par une coupure
+irrationnelle et pas par une coupure rationnelle, comment se fait l’enchaînement ? Ma réponse --
+et ça me paraît une déduction absolument nécessaire -- ma réponse, c’est : l’enchaînement ne
+peut plus être un enchaînement d’images associées mais un ré-enchaînement d’images
+indépendantes. Ça répondra à la formule de [Jean-Luc] Godard : non pas une image après une
+autre, mais une image plus une autre ; non pas une image [25 :00] après une autre, mais une
+image plus une autre, c’est la définition, c’est une manière de dire : ré-enchaînement d’images
+indépendantes, au lieu de dire enchaînement d’images associées. [Pause] Il ne faut pas réclamer
+les exemples concrets ; il faut d’abord comprendre dans l’abstrait, il faut d’abord comprendre
+abstraitement, et puis les exemples concrets, bien ça arrange les choses, mais, bon. Donc je
+suppose que vous ayez... ça, il faut à tout prix que vous compreniez, vous voyez, c’est la même
+notion finalement, c’est la même instance qui se présente comme écran noir ou blanc, comme
+coupure irrationnelle et comme morcelage ré-enchaîné, [26 :00] ou comme ré-enchaînement
+d’images indépendantes. Les trois sont absolument liés. [Sur ces trois aspects, voir L’ImageTemps, pp. 276-281]
+
+                                                                                                     5
+
+Alors si on pense, il faudrait rendre ça un peu concret, ben oui, essayons de rendre ça un peu
+concret. L’année dernière, j’avais fait allusion à un roman qui me paraît un des plus grands
+romans de toute l’histoire du roman et qui, cette année, nous concernera très directement car je
+voudrais en faire un commentaire et pas me contenter d’allusions : c’est le roman d’un russe, à la
+grande période du constructivisme russe, c’est le grand roman constructiviste. [Sur Andrei Biély,
+voir les séances 19 et 22 du séminaire Cinéma 3, respectivement, le 19 mai et le 12 juin 1984] Et
+comme on a vu qu’on avait à faire avec des histoires comme [James] Joyce, le monologue
+intérieur, l’automatisme, etc., bon, peut-être qu’il y aura lieu de confronter [27 :00] ce roman ou
+chercher, c’est qu’il a pu apporter de nouveau techniquement, quels étaient ses rapports avec par
+exemple, le roman de Joyce.
+
+Et c’est le roman de, donc, Andrei Biély qui était un très, très grand auteur pour ceux qui ne le
+connaissent pas. Mais justement, un de mes souhaits, c'est que ceux qui ne le connaissent pas en
+profitent pour lire son roman. Ce roman s’appelle Pétersbourg ; il a été traduit aux éditions
+L’Âge d’Homme [1913/1922 ; trad. 1967] À mon avis, c’est un immense chef d’œuvre, vraiment
+une grande œuvre, quoi. [Pause]
+
+Un étudiant : Comment ça s’écrit ?
+
+Deleuze : Biély, b-i-e-l-y, Andreï, André, quoi ; André Biély, Pétersbourg. [Pause] [28 :00] Je
+suppose qu’on soit en train tous ensemble de le feuilleter ; qu’est-ce qu’on découvre ? -- Je ne
+suis pas en train de le commenter ; je laisserai ça pour... Il faut que vous me rejoigniez ; il faut
+qu’on ait le temps pour ça. -- Qu’est-ce qui me frappe ? Au hasard des pages-là, j’imagine, je
+suis en train de le feuilleter. Qu’est-ce qui me frappe ? Première chose qui me frappe, un thème
+lancinant du cerveau-cosmos, le cerveau-cosmos. [Pause] Un corridor -- je cite un passage très
+beau, un admirable passage du roman, j’essaie de le résumer mal -- un corridor s’ouvre [29 :00]
+dans la tête d’un personnage, [Pause] dans le cerveau d’un personnage, et lui-même, il suit ce
+corridor qui le conduit au vide cosmique. Je n’en dis pas plus, mais les pages sont des pages
+tellement belles que, voyez, un corridor s’ouvre dans votre tête, et vous suivez ce corridor, vous
+prenez ce corridor, et vous débouchez dans le vide cosmique, et vous vous émiettez en une petite
+galaxie.
+
+Je feuillette toujours, et dans tout le roman, il est question d’une bombe, un grand roman très
+révolutionnaire. Il est question [30 :00] d’une bombe, mais cette bombe est diversement située.
+C’est à la fois une bombe dans le ventre, dans le corps des personnages, et qui ne cessent de
+risquer de faire éclater ce corps ; et une bombe, en même temps et c’est la même, qui se balade
+dans tous les lieux de la maison, les personnages étant à la recherche de cette bombe. Ils
+l’entendent dans leurs ventres, ils la cherchent à l’extérieur. [Pause] La bombe est explicitement
+présentée comme coprésente au dedans et au dehors, des deux côtés [31 :00] d’une espèce de
+membrane, [Pause] la bombe du dedans et la bombe du dehors s’appliquant l’une à l’autre.
+
+Troisième point : tout le roman est dominé par un des héros qui surgit dans les endroits les plus
+divers -- j’ajoute, non -- toujours dans le même thème, la ville, Pétersbourg. Dans la littérature
+russe, Pétersbourg a une vocation particulière, et dans le cinéma, mais dans la littérature
+notamment, vous trouvez déjà les vertus particulières de Pétersbourg qui sont très, très bien
+décrites par Dostoïevski : [32 :00] c’est la ville fantôme, c’est la ville marécage. C’est la ville où
+
+                                                                                                      6
+
+le dedans et le dehors s’affrontent. [Pause] C’est le cerveau-cosmos.
+
+Dernier point, si on feuilletait toujours sans… -- c’est, ce n’est absolument pas un commentaire
+c’est ce que je dis, c’est... J’ai l’idée naïve de vous donner envie d’aller voir, là -- un personnage,
+un des héros surgit dans les points les plus inattendus de la ville, vêtu d’un domino, vêtu d’un
+domino tout rouge, et il fait peur à tout le monde et fait scandale partout [33 :00] avec son
+domino sanguinolent. Et tous les passages du roman, je dirais à la lettre, sont ré-enchaînés sur le
+domino rouge. Il n’y a jamais d’association -- c’est une des grandes techniques de Biély, à mon
+avis -- il n’y a jamais d’association entre une scène de domino et puis une autre scène. Il y a
+perpétuellement morcelage ré-enchaîné ; on ré-enchaîne sur le domino rouge.
+
+Bon, je vais vous raconter une tout autre histoire. Un auteur de cinéma s’appelle Alain Resnais.
+Je suis très frappé, je ne sais pas si Resnais connait [34 :00] Biély ; je ne pense pas, ou même s’il
+le connaît ; je doute qu’il y ait eu influence. [Sur rapprochement entre Biély et Resnais, voir
+L’Image-Temps, p. 164 et la note 41 ; et pp. 276-277] Je cite par-ci par-là, quelques points forts
+et très connus des œuvres de Resnais. La coprésence, la co-application, d’un dehors et d’un
+dedans comme définition et comme déterminant, un cerveau-cosmos. [Pause] C’est la grande
+noosphère de « Je t’aime, Je t’aime ». [Pause] Le cerveau-cosmos comme ville. [Pause] [35 :00]
+Est-ce un cerveau ? Est-ce un monde ? À votre choix, c’est partout dans Resnais ; c’est la
+Bibliothèque Nationale, [Il s’agit de Toute la mémoire du monde (1956)] est-elle un cosmos ?
+Est-elle un cerveau ? Co-application, coprésence, du dehors et du dedans, du monde et du
+cerveau. Bien plus, qu’est-ce que c’est la Pétersbourg de Resnais ? La Pétersburg de Resnais,
+c’est Boulogne, c’est Boulogne dans "Muriel" [1963], c’est la ville fantomale, c’est la ville
+fantôme, c’est la ville-cerveau. [Pause] [36 :00]
+
+Deuxième trait, dans "Providence" [1977], la bombe du dedans et la bombe du dehors et la
+coprésence des deux bombes. La bombe, elle est dans le corps du vieux romancier alcoolique ;
+son corps crépite, son corps crépite alors dans tous les sens, la bombe comme état organique d’un
+corps décrépi. Le même thème apparaît constamment chez Biély : la bombe qui va éclater dans
+le corps décrépi. Mais la bombe, elle est aussi dans les états cosmiques de "Providence" : le
+tonnerre, la foudre, dans les promenades [37 :00] nocturnes du vieux romancier alcoolique
+insomniaque. Et enfin, elle est dans l’état social et politique. Rafales de mitrailleuses
+perpétuelles, coups de feu, etc. Tonnerre et éclairs cosmiques, crépitement organique, rafales de
+mitrailleuse historico-politiques, et tout "Providence" opère une espèce de contact topologique
+entre tous ces états et fait de ce film, il me semble, un des chef d’œuvre du cinéma moderne.
+[Pause]
+
+Troisième point, quant à Resnais. [Pause] [38 :00] "Je t’aime, je t’aime" [1968], il s’agit de quoi
+? Ceux qui ont vu, mais je raconte très vite : quelqu’un a fait une tentative de suicide, on le
+sauve, et on va le soumettre à une expérience : on l’enferme dans la noosphère, dans le mondecerveau, et on va lui faire revivre une minute de son passé, une minute précise de son passé.
+Cette minute, c’est une minute qui a eu lieu -- je donne parce que les dates sont très nécessaires -
+- le 5 septembre 1966, à 16 heures. [Pause] En principe, il s’agit de [39 :00] ça dans
+l’expérience. Et vous allez avoir, au retour, dans le film, un retour à cette minute, c’était la
+minute où le héros sortait de l’eau et croisait la femme qu’il aimait ou qu’il n’aimait plus,
+Catrine, et il y avait un dialogue comme ça, mais, sans doute cette minute était fondamentale
+
+                                                                                                        7
+
+parce qu’elle devait être à cheval. Il y avait encore une chance entre le moment où il l’aimait
+encore et le moment où il ne l’aimait déjà plus. Je dirais, à ma manière sans doute, c’était une
+coupure irrationnelle. Elle était entre les deux : entre le « aimer encore » et le « ne plus aimer ».
+
+Mais la [40 :00] noosphère a des ratés : au lieu de le renvoyer à la minute, ça le renvoie bien à la
+minute, mais chaque fois, la minute s’enchaîne avec une série d’images de plus en plus
+indépendantes de cette minute. Au début, il y a encore de vagues associations entre la minute, et
+la série avec laquelle elle s’enchaîne, il a encore de l’association. Plus ça va, plus la minute
+s’enchaîne avec des séries lointaines, [Pause] lointaines dans le temps, séparées dans l’espace.
+En d’autres termes, il n’y a plus [41 :00] enchaînement de, il n’y a plus association... Non, il n’y
+plus enchaînement d’images associées, mais la minute ne cesse de passer dans l’autre régime de
+l’enchaînement : morcelage ré-enchaîné, à savoir elle se ré-enchaîne avec des images, des séries
+d’images indépendantes. [Pause]
+
+Je dis que, indépendamment de toute influence entre le grand roman de Biély [42 :00] et l’œuvre
+de Resnais, je crois à un système d’échos qui fait que ça nous donnerait un champ très riche pour
+étudier ce rapport entre coupure irrationnelle, ré-enchaînement, des opérations de réenchaînement, et vous sentez aussi ce qu’on n’a même pas abordé, à savoir dès lors, la possibilité
+d’un cinéma qu’il conviendrait d’appeler effectivement « un cinéma sériel ». Je dirais que le
+cinéma est déjà sériel lorsque, au lieu d’un enchaînement d’images associées, vous avez des réenchaînements d’images indépendantes. Au moins ça m’éviterait d’employer comme parfois,
+comme trop souvent, il me semble, « sériel » à propos du cinéma d’une manière simplement
+métaphorique. Au moins, on partirait d’une première [43 :00] définition de la série de là. Bon,
+voilà.
+
+Je termine ce point -- parce qu’il faudrait qu’il soit très clair ça, tout ça -- je termine ce point en
+disant, on pourrait chercher des confirmations, mais justement ça fera partie de notre programme.
+Je pensais à une confirmation qu’on pourrait aller chercher du côté du cinéma expérimental
+abstrait, dit abstrait, et si je cherche peut-être que, si je me dis tiens, bon, est-ce qu’on aurait une
+confirmation ? On verra, plus tard ; on aura une séance sur le cinéma expérimental, mais si je
+tente là, une très, très grossière, là, très grossière périodisation [44 :00] du cinéma abstrait, je me
+dis, il a bien eu un moment, un premier moment, le grand moment avant la guerre, où il y a eu un
+grand cinéma abstrait, mais on verra, qui peut-être se comprenait par le double mouvement
+d’intégration et de différenciation, d’une part, et d’autre part, d’enchaînement d’images
+associées.
+
+Ça a été le grand âge, comment dire, géométrique, du cinéma abstrait, mais géométrique en quel
+sens ? Il faudrait distinguer déjà beaucoup d’auteurs, puisque ce n’est pas simplement du cinéma
+géométrique, c’est du cinéma plus proche de la peinture. Et il y a évidemment des auteurs très
+différents, il me semble, même que [45 :00] ce ne serait pas difficile de distinguer une tendance
+[Vassily] Kandinsky, et une tendance Paul Klee, quoi. Je veux dire, on reviendra sur tous ces
+points, mais je le dis en passant là, la grande différence étant, si vous voulez, entre les deux
+techniques de ces peintres. Je le dis d’une manière abstraite, c’est que pour Kandinsky, ce qui
+compte c’est les forces, les forces qui s’exercent sur des lignes, mais c'est de là qu’il arrivera et
+qu’il dégagera sa notion, la notion fondamentale de son esthétique, en tant que grand peintre, la
+notion de tension. La tension, c’est le rapport de la ligne avec des forces que s’exercent sur elle.
+
+                                                                                                          8
+
+[Sur le rapprochement Kandinsky et Klee, voir les séances 1 et 2 du séminaire sur Leibniz et le
+Baroque, le 28 octobre et le 4 novembre 1986 ; voir aussi L’Image-Temps, pp. 279-280]
+
+Paul Klee, ce n’est pas ça, il suffirait de comparer -- peut-être, peut-être qu’on aura le temps
+peut-être qu’on le fera -- comparer les grands textes, les grandes œuvres de Klee et de
+Kandinsky, pour voir la différence… [Interruption de l’enregistrement] [45 :57]
+
+… [46 :00] Dans le cinéma géométrique abstrait, il y a les deux pôles, chez des auteurs
+différents ; il y a vraiment un pôle proche de Kandinsky et un pôle proche de Paul Klee, et ce qui
+ne sera pas de tout étonnant. Ah, bon. Mais enfin je dirais, c’est un cinéma qui reste dedans et
+qui correspondrait à l’ancienne image du cerveau, intégration, différenciation, et enchaînement
+d’images associées.
+
+Si je saute, il s’est passé bien des choses entre… si je saute, si je saute dans le cinéma abstrait
+expérimental américain, vers 1960, qu’est-ce que je vois ? Là, accordez-moi, pour ceux qui ont
+vu un peu de ce cinéma, que je crois que je ne force pas le choses ; [47 :00] je vois une trinité,
+une trinité de base, trois composantes fondamentales [Pause] : l’écran noir et l’écran blanc et
+toutes leurs variations, ça c’est chez tous. Je veux dire, je peux citer... enfin il y en a un célèbre,
+"Réflexion sur noir" ["Reflections on Black", 1955], je crois, je crois bien c’est -- je ne sais
+même pas comment on prononçait son nom, [Stan] Brakhage, Brequege, Brakhage, eh bon –
+[Pause] [Deleuze fait cette même référence dans L’Image-Temps, p. 260]
+
+Deuxième grand procédé : le clignotement -- ce n’est pas des procédés gratuits, hein, quand je
+résume comme ça, ça fait gratuit -- procédé de clignotement, [48 :00] tout un cinéma de
+clignotement, je donnerai comme exemple, un film, un film de [Tony] Conrad, c-o-n-r-a-d, ce
+n’est pas le seul, mais c’est un de ceux qui me semble a fait les plus beaux clignotements, bon.
+[Pause] Je dirais, je n’essaie même pas de me justifier, je dirais : c’est évident que le
+clignotement détermine une coupure irrationnelle, c’est même fait pour ça. [Pause] [Sur le
+cinéma de clignotement, voir la séance 8 du séminaire Cinéma 1, le 26 janvier 1982, et L’ImageTemps, pp. 279-280]
+
+Troisième procédé : [Pause] le procédé de la boucle. [Pause] Ah bon, mais tout ça [49 :00] doit
+vous ouvrir, nous sommes en plein programme. Procédé de la boucle, qu’est-ce que c’est ? Bon,
+une série d’images revient -- je ne prétends pas définir là la boucle, je donne une caractéristique
+très grossière -- une série d’images revient avec des variations. Un des plus grands du cinéma
+expérimental a manié en maître ce procédé, c’est Landow, George Landow, l-a-n-d-o-w, l-a-n-do-w. Boucle, c’est curieux parce que les musiciens, ils en connaissent un bout sur la boucle,
+notamment les musiciens modernes. Ils font des boucles. Il faudra bien comparer [50 :00] --
+peut-être est-ce que vous pressentez avec effroi ce que j’attends de vous -- il faudra bien
+comparer boucle musicale et boucle cinématographique, il faudra voir. Tout ce que je peux dire
+c’est que la boucle, c’est typiquement un morcelage ré-enchaîné. [Pause] Ce n’est pas un
+enchaînement d’images associées ; c’est un ré-enchaînement d’images indépendantes. Donc, au
+niveau du cinéma abstrait, on retrouverait exactement là notre trinité.
+
+En d’autres termes, qu’est-ce qui fait notre cerveau moderne ? Comment vous le vivez, votre
+cerveau ? Ça, je reviens -- je conclue juste sur l’histoire du vécu -- comment vous le vivez, votre
+
+                                                                                                        9
+
+cerveau ? Eh ben, votre cerveau, [51 :00] il clignote, et il ré-enchaîne ou il fait de boucles. Un
+cerveau qui clignote, qui ré-enchaîne et fait de boucles, bon, c’est très important ; je veux dire, ça
+change beaucoup. Le cerveau de nos pères, il ne faisait pas ça. [Rires] Ben, il ne faisait pas
+moins bien, hein ? [Pause] Le cerveau de nos pères, il intégrait, il différenciait, il enchaînait. Eh
+bien, nous, on ne fait pas ça ; nous, on est devenus, topologiques, semi-fortuits [52 :00] et réenchainant. [Pause] Ce qui nous donne un autre rapport avec la santé, avec la maladie, ce n’est
+pas les mêmes normes, hein ? [Pause] Bon.
+
+Donc ça nous ouvre beaucoup de choses si bien que l’heure est venue enfin de récapituler tout ce
+qu’on a fait ce trimestre et que du même coup, vous compreniez ce que j’ai à vous proposer pour
+le second. [Pause] Ce qu'il me faut, c’est [53 :00] … est-ce que c’est clair, cette histoire ? Est-ce
+que c’est assez clair ? Moi ce qui m’intéresse là dans tous que j’avais fait jusqu’à maintenant là,
+après une heure, c’est, c’est ma trinité, là. Il faut qu’il soit vraiment... il faut que, que vous l’ayez
+à l’esprit parce qu’après les vacances, on partira de tout ça. Je veux dire, on retrouvera tout ça,
+forcément, alors je le répéterai, mais... Vous voyez, c’est pour ça que j’ai tellement insisté sur la
+coupure irrationnelle chez un mathématicien, ou bien sur les chaînes de Markov, parce que les
+chaînes de Markov, ça me semblait donner un exemple de ré-enchaînement, de morcelage réenchaîné, tout ça. Tout ça c'est parce que j’en avais besoin à cet égard, quoi, et vous sentez ce qui
+m’intéresse ? Bon, bien sûr, c’est le cinéma, mais c’est aussi bien la pensée, c’est-à-dire, [54 :00]
+c’est les concepts philosophiques. Ce n’est pas seulement des... bon alors, je suppose que ça va,
+que c’est clair, bon.
+
+Alors on récapitule : notre premier thème, c’est quoi ? Et ça restera quoi, parce que je ne veux
+pas dire qu’on ait fini ceci ou cela ; non, on a lancé, on allait lancer notre problème. Notre
+premier thème c’est : pensée et automatisme. Et nous partons, nous sommes partis d’un fait
+simple : le caractère spécifique de l’image cinématographique, c’est d’être automatique, [Pause]
+mais cela avec deux conséquences, [55 :00] c’est que l’automatisme de l’image allait -- comment
+dire -- déteindre, sur quoi ? Sur toute une série de choses, sur le personnage cinématographique,
+sur l’acteur cinématographique, sur le spectateur cinématographique. Et je disais dès le début, il
+est normal que, les somnambules, les zombies, etc., les golems appartiennent profondément au
+cinéma sous forme de l’Expressionnisme allemand, ou que les automates appartiennent
+profondément au cinéma, sous forme de l’école française. [56 :00] [Voir surtout les séances 1 et
+2, le 30 octobre et le 6 novembre 1984]
+
+Et je disais, ça ne cessera pas, mais il y aura une sérieuse évolution, et je disais la célèbre
+conception de l’acteur chez Bresson n’est pas séparable du caractère, de cette évidence absolue,
+l’image cinématographique est automatique, et il y a des conséquences pour l’acteur, qui ne doit
+pas être un acteur de théâtre mais que doit être ce que Bresson appelle un « modèle ». Et je vous
+rappelle qu’on a vu dans les textes de Bresson à quel point sa notion de modèle était fondée sur
+c’est ce qu’il appelé lui-même « l’automatisme ». [Pause] [Il s’agit du texte de Bresson, Notes
+sur le cinématographe (Paris : Gallimard, 1975) ; sur Bresson et l’automate, voir L’ImageTemps, p. 233 et note 42]
+
+Tout ça renvoie à un thème bibliographique, tout ce que vous pouvez trouver sur l’automatisme
+psychologique. Livre clé sur [57 :00] l’automatisme psychologique : Pierre Janet, un livre qu’on
+ne trouve plus donc, pour ceux qui s’intéressent à cet aspect, à lire en bibliothèque. [Voir
+
+                                                                                                      10
+
+L’Automatisme psychologique (Paris : Félix Alcan, 1889)] Mais il y avait un autre aspect,
+c’était l’automatisme spirituel, c’est-à-dire cette fois, l’ensemble des images automatiques en
+tant qu’elles constituent un Tout, le Tout de l’œuvre, [Pause] le Tout de l’œuvre en tant qu’elle
+s’offre à la pensée. [Pause] Bien plus, le Tout en tant qu’il n’est pas donné dans une image, mais
+pensé comme le Tout du film. [Pause] [58 :00] Et grâce au caractère automatique de l’image, le
+cinéma mettait en branle l’automate spirituel… [Interruption de l’enregistrement] [58 :09]
+
+Partie 2
+
+… D’où les ambitions premières du cinéma, et là, bibliographiquement, je vous renvoie à tout ce
+que vous voulez dans ce sens, notamment textes de Eisenstein, de [Dziga] Vertov, de [Abel]
+Gance, de [Jean] Epstein et d’Élie Faure, sur les grandes ambitions premières du cinéma,
+Grandes ambitions qui consistent en trois principalement : nouvelle pensée, langue universelle,
+art des masses. C’est l’automate spirituel. [Pause] [Voir surtout les séances 1 et 2, le 30 octobre
+et le 6 novembre 1984]
+
+Mais nous avons vu, pour [59 :00] en finir avec ce premier thème, nous avons vu abondamment
+déjà qu’on allait avoir un grand problème : c’est que du cinéma d’avant-guerre au cinéma
+d’après-guerre, l’automate spirituel, mais même l’automate psychologique, l’automate
+psychologique et l’automate spirituel vont subir une longue et grande évolution. Il va de soi que,
+entre le somnambule de l’Expressionnisme allemand ou le robot de « Métropolis » [1927, de
+Fritz Lang], [Pause] et le robot de [Stanley] Kubrick ou l’automate de Bresson, les différences
+sont très, très grandes. [60 :00] Et ce n’est pas seulement parce que les machines extérieures au
+cinéma ont changé ; c’est en vertu de toute une évolution du cinéma, et finalement, actuellement,
+qui peut-être réunira, ou ait réuni, toutes les formes d’un nouvel automatisme spirituel comme
+identique au cinéma. Peut-être est-ce qu’on pourrait répondre [Hans-Jürgen] Syberberg ? Mais
+enfin, il nous faudrait beaucoup d’analyses pour justifier tout ça. C’est mon premier thème,
+c’était mon premier thème, voilà.
+
+Deuxième thème, c’était : évolution de l’image cinématographique du point de vue de la pensée
+[61 :00] et de ses rapports avec la pensée. Et là, [Pause] tout à l’heure, hein, je veux dire, tout à
+l’heure, je vais avoir besoin de vous dès aujourd’hui, hein ? Parce que je vois avec joie que je
+n’ai pas tellement, hélas, ça fait combien bien ça... ? Hélas, ce qu’il faut re-dégager, c’est... parce
+que j’ai besoin, j’ai très besoin que vous l’ayez après les vacances, hein, dans la tête un peu ça,
+sinon je serai forcé de tout recommencer. J’en ai besoin de... [Pause ; Deleuze cherche dans ses
+papiers] vingt-quatre... -- Ah ! Mais, il [62 :00] m’arrive une catastrophe, je ne vais pas pouvoir
+m’en tirer, j’ai... Ah si ! J’allais dire : j’ai perdu un papier, alors je ne pouvais plus compter. Dix !
+On n’est pas sorti, hein ? Dix. -- Dix petits caractères. Je voudrais résumer cette évolution sous
+dix aspects. Je me suis dit : ça va par trois généralement. Alors, c’est... Ça finit par être fastidieux
+trois. Alors dix, ça fait mieux, hein ? [Rires] [Pause]
+
+Premier aspect : ça ne va pas vous échapper que -- je le fais exprès là -- je vais lier les choses
+qu’on a vues l’année dernière pour ceux qui étaient là -- ceux qui n’étaient pas là, ils ne s’en
+occupent pas -- et des choses qu’on a vues cette année, ne serait-ce que parce que moi, je suis
+sensible à la continuité de ce qu’on fait. [63 :00] Premier aspect, nous avons -- ah, mais ça, on l’a
+presque fait dans le programme, je le rappelle... -- : En quel sens peut-on parler d’une rupture
+
+                                                                                                    11
+
+« cinéma d’avant- guerre » / « cinéma d’après-guerre » ? Je dis bien que chaque fois que j’ai
+employé ce mot, tantôt d’un certain point de vue cette rupture est radicale, tantôt d’un autre point
+de vue cette rupture est très relative. Donc, pas de règles.
+
+Mais ses causes, on l’a vu, ce n’est pas simplement la guerre, c’est ce qui a fait l’essentiel de la
+guerre, à savoir : la montée des propagandes d’État, [Pause] des grandes mises en scène d’État,
+[Pause] [64 :00] l’abomination des camps, qui a marqué tous les auteurs dignes de ce nom dans
+le cinéma. Alors pourquoi c’était lié au cinéma ? Eh bien, parce que Hollywood n’était plus
+possible. Hollywood n’était plus possible. Les États faisaient tellement mieux au niveau de la
+propagande d’État, au niveau de la grande mise en scène. Et d’autre part, un certain type de
+cinéma d’action était rendu impossible par ce qui s’était passé par les camps.
+
+Et c’est en même temps que le cinéma semble être forcé de renoncer à ses grandes ambitions, art
+des masses : non. [Pause] Car l’idée de Eisenstein -- que, par le [65 :00] cinéma, les masses
+deviendraient sujets, sujets de leur propre destin -- Eisenstein devait apprendre lui-même, et pour
+son malheur, que ça ne se faisait pas comme ça. Le cinéma comme langue universelle,
+renoncement qui n’était pas dû simplement, pas du tout, même à mon avis, guère, à l’avènement
+du parlant, mais à ces raisons plus profondes. À cet égard, deux textes fondamentaux que j’ai
+cités : Daney, Serge Daney, La Rampe [1983], éditions Gallimard, Cahiers du cinéma ; et [Paul]
+Virilio, Logistique de la perception [Paris : Éditions de l’étoile, 1984]. Voilà le premier
+caractère.
+
+Deuxième caractère : vu les autres années, le [66 :00] grand phénomène du cinéma moderne
+comme étant la rupture sensorimotrice, c’est tout le cinéma d’action qui cesse d’être possible. Il
+n’y a plus enchaînement sensorimoteur. Vous concevez déjà que tout ce qu’on a apporté en plus
+là ce trimestre confirme ces analyses là pour nous, déjà anciennes. Rupture sensorimotrice avec
+tous ses effets. À savoir, le personnage se trouve dans une situation optique et sonore pure.
+Substitution des situations optiques et sonores pures aux situations sensorimotrices. Donc il ne
+réagit plus. Qu’est-ce qu’il fait ? Il est voyant, ou bien, comme disait [Pierre] Vendryes [Voir la
+séance précédente], il entre en « rapport aléatoire avec le milieu extérieur ». Qu’est-ce que c’est
+que le rapport aléatoire avec le milieu extérieur ? [67 :00] C’est la balade, la promenade. Il n’agit
+plus, il se balade à ses risques et périls, dans les endroits les plus dangereux, tout ce que vous
+voulez. Mais, ce n’est plus du tout le schème sensorimoteur. C’est le schème « situation optique
+et sonore pure » / « balade ». Vous le trouverez dans le Néoréalisme, dans la Nouvelle vague, je
+ne reviens pas là-dessus.
+
+Je dis, ce deuxième trait, si je reliais, si j’essayais de relier avec les autres années, où j’avais le
+souci de faire une classification des signes, maintenant je n’y pense plus, alors, mais c’est pour
+remettre des..., c'est ce que j’essayais d’appeler les « opsignes » et les « sonsignes », « opsignes »
+et « sonsignes », c’est-à-dire les situations optiques et sonores pures, par opposition aux signes
+sensorimoteurs. Et de deux. [68 :00]
+
+Trois : dans l’ancien cinéma, il pouvait y avoir des films de rêve. Et même, le rêve pouvait
+prendre la totalité du film. Ça n’empêche pas que l’imaginaire et le réel correspondaient à deux
+régimes discernables. [Pause] Je ne reviens pas là-dessus, c’est des thèmes ça, de l’année
+dernière, ou même d’il y a deux ans ; non, de l’année dernière. Dans le cinéma moderne, c’est
+
+                                                                                                         12
+
+très curieux, l’imaginaire et le réel sont toujours distincts, mais ils sont bizarrement
+indiscernables. Indiscernabilité [69 :00] de l’imaginaire et du réel. Pourquoi, je dis, et pourquoi
+ils sont quand même distincts ? Parce qu’ils courent l’un derrière l’autre. Ils ne cessent pas de
+courir l’un derrière l’autre. Il y a un circuit imaginaire-réel qui fait que les deux éléments
+distincts cessent d’être discernables. Indiscernabilité de l’imaginaire et du réel.
+
+L’année dernière, ça nous a paru être fondé dans un type d’image particulier : l’image-cristal.
+L’image-cristal, que nous essayions de repérer dans le cinéma d’après-guerre, et dans la
+constitution du cinéma d’après-guerre, sous des formes très, très différentes, suivant un certain
+nombre de grands auteurs, témoignait de cette non-discernabilité du réel et de l’imaginaire. Je
+dirais, là, j’aurais dû y penser..., oui, pour faire joli, ça c’est les « cristosignes ». [70 :00] J’aurais
+dû y penser, trouver un mot plus compliqué : cristo..., enfin, il m’aurait fallu un mot plus savant.
+Je chercherai pendant les vacances. [Rires] Alors, voyez, là. En deux, j’ai les « opsignes » et «
+sonsignes », en trois j’ai ce truc minable de « cristosignes », mais ça ne va pas. Mais, il faut
+trouver quelque chose qui désignerait les « cristosignes », c’est-à-dire, ce qu’on voit dans un
+signe, ce qu’on voit dans un cristal.
+
+Une étudiante : [Inaudible]
+
+Deleuze : Quoi ?
+
+L’étudiante : [Inaudible]
+
+Deleuze : Des « prismosignes » ? Ça ne va pas non plus. Non. On trouvera. Bon, ça..., très bien...
+Et de trois. On avance !
+
+Quatre : [Pause] [71 :00] l’image-mouvement, c’est-à-dire l’image sensorimotrice finalement, ou
+plutôt l’image-mouvement, c’était le développement de l’image sensorimotrice, ou c’était le
+présupposé de l’image sensorimotrice, donnait lieu à une image indirecte du temps. [Pause] Au
+contraire, lorsque les situations deviennent optiques et sonores pures, lorsque les situations ne
+sont plus sensorimotrices, l’image-mouvement est comme détrônée. Ça bouge encore, et pas
+toujours, mais ça bouge encore, c’est la balade, ce n’est plus l’action. Eh ben, voilà que [72 :00]
+l’image indirecte du temps qui dépendait de l’image-mouvement est remplacée par une image
+directe, par une image-temps directe. En d’autres termes, les « sonsignes » et « opsignes »
+s’enchaînent directement avec des « chronosignes ». Là, on a le mot : « chronosigne ». Ça
+marche, « chronosigne », c’est joli. Donc ce n’est plus l’image indirecte du temps qui dépend de
+l’image-mouvement, c’est une présentation directe du temps. Ou c’est une image-temps directe
+qui se présente, qui s’enchaîne avec les « opsignes » et les « sonsignes ». [Pause] Ça, donc,
+[73 :00] les « chronosignes », c’est quatre.
+
+Cinq : [Pause] une présentation directe du temps n’est concevable que si l’on atteint des
+structures temporelles par-delà l’apparence du temps, c’est-à-dire, la simple succession. [Pause]
+Nous avons vu l’année dernière que les images directes du temps dans leur structure mettaient en
+jeu non plus le couple « réel-imaginaire », mais mettaient en jeu le couple « vrai-faux », [Pause]
+[74 :00] et que les paradoxes du temps se présentaient sous forme, tantôt d’une inévocabilité du
+vrai, le temps rendait le vrai inévocable -- une inévocabilité du vrai ; on a cru en trouver le
+
+                                                                                                 13
+
+modèle dans l’œuvre d’Orson Welles -- ou bien d’une inexplicabilité, inextricabilité du vrai et du
+faux -- [Pause] et de l’inextricabilité ou inexplicabilité, on a cru trouver le [75 :00] modèle très
+précis dans une autre structure qui serait représentée par [Alain] Robbe-Grillet -- ou bien une
+indécidabilité du vrai et du faux [Pause] qui nous avait paru représentée par Resnais. Y
+correspondaient trois structures temporelles qui nous avaient parues intéressantes, trois structures
+du temps qui nous avaient parues intéressantes et qui ne se définissaient pas par la succession
+mais, au contraire, le temps conçu comme coexistence de ses propres rapports. [Pause]
+
+Six : [Pause] [76 :00] devant tout ça, indécidabilité du vrai et du faux, inextricabilité du vrai et
+du faux, la puissance du faux à tout prix. La puissance du faux à tout prix. [Pause] Ce qu’on peut
+traduire, et c’est exactement l’enchaînement de l’année dernière avec cette année. Donc c’est au
+niveau de six, nous entrons dans cette année ; c’est le monde entier qui s’est mis à faire du
+cinéma. Tout est passé dans la puissance du faux. Le monde même fait du cinéma, au besoin, par
+l’intermédiaire de nouveaux moyens, par l’intermédiaire de la télé, par l’intermédiaire de ce que
+vous voulez. [77 :00] C’est le monde qui fait du cinéma. Qu’avons-nous besoin de cinéma si
+c’est le monde qui fait du cinéma ? C'était notre point six.
+
+Et notre réponse, c’était ceci : c’est que le cinéma va y trouver, donc comme cinéma d’aprèsguerre, va y trouver une nouvelle fonction fondamentale : à savoir, nous redonner croyance au
+monde. Nous redonner croyance au monde, en quel sens ? Non plus nous donner croyance en un
+autre monde, mais nous redonner croyance en ce monde-ci. Nous redonner croyance à ce mondeci. [Pause] Comment croire à ce monde ? Du point de vue du cinéma, [78 :00] nous a semblé que
+[Roberto] Rossellini, dans toutes ses interviews et entretiens, donnait des textes extrêmement
+beaux pour justifier sa conversion de l’art à ce qu’il appelle lui-même une « éthique », où le
+cinéma n’aurait plus qu’une fonction : nous redonner croyance à ce monde. Mais nous avons vu
+aussi comment bibliographiquement, ce problème -- la croyance au lieu du savoir, et comment
+croire à ce monde-ci, nous demandons des raisons de croire à ce monde-ci -- était un problème
+actif au cœur de la philosophie, notamment à partir de Kant et de sa formule, substituer la
+croyance au [79 :00] savoir. [Pause] Sept ! -- Vous voulez un arrêt, non ? Pas d’arrêt encore ?
+[Rires] --
+
+Sept : ça concernait le changement dans le régime de la pensée, c’est-à-dire, ça concernait les
+noosignes. N-O-O-signes : c’est joli, noosignes. -- Vous voyez ? Il faudrait un mot comme ça
+pour les cristosignes, puisque cristosignes, ça ne va pas. [Pause] Non, je ne trouve pas. -- Les
+noosignes, eh bien, ça... Je vais très vite parce que, vous vous rappelez que dans l’image du
+cinéma [80 :00] d’avant-guerre, il nous a semblé que les « noosignes » étaient constitués par les
+deux axes et leur croisement. Á savoir : l’axe « intégration-différenciation » et l’axe
+« enchainement des images associées », les deux axes se croisant, et réagissant l’un sur l’autre.
+[Pause] Bouleversement de cette image de la pensée au profit de quoi ? Au profit d’une pensée
+du Dehors, mais qui - il faut ajouter tout de suite -- une pensée du Dehors -- avec un D majuscule
+[81 :00] -- mais qui met la pensée dans un rapport immédiat avec un non-pensé, avec un nonpensé interne.
+
+Une force du Dehors qui met l’impensé dans la pensée, une puissance du Dehors qui met
+l’impensé dans la pensée, ça signifie quoi ? On trouve bien notre critère. Un Dehors plus lointain
+que tout monde extérieur. C’est l’essentiel, un Dehors plus lointain que tout monde extérieur. Et
+
+                                                                                                     14
+
+c’est pour cette raison que c’est ce Dehors qui est capable de nous redonner croyance au monde
+extérieur. Si c’était le Dehors du monde extérieur, il ne pourrait pas nous redonner la croyance au
+monde extérieur. Et c’est parce que c’est un Dehors plus lointain que tout monde extérieur que,
+[82 :00] peut-être, quand il souffle sur la pensée, il peut lui redonner croyance au monde
+extérieur, [Pause] et qui en même temps va mettre la pensée en rapport avec un impensé, avec un
+non-pensé, avec un impensable, à son tour, cet « impensable » étant plus profond que tout monde
+intérieur. Vous retrouvez l’idée d’un contact topologique du Dehors et du Dedans, mais d’un
+Dehors plus lointain que tout monde extérieur et un Dedans plus profond que tout monde
+intérieur.
+
+Cette image de la pensée, qu’on avait essayé de définir [83 :00] un peu, nous la cherchions chez
+des auteurs très différents. Nous aurons à combler, nous aurons à reprendre puisque c’est pour
+nous un thème fondamental. Et bibliographiquement, nous allions dans les directions suivantes :
+[Antonin] Artaud, Artaud et son expérience vécue de la pensée [Pause] ; [Martin] Heidegger et le
+très beau livre Qu’appelle-t-on penser ?, Presses Universitaires de France [1985] ; [Pause]
+Blanchot, Maurice Blanchot, au croisement bizarrement d’Artaud et d’Heidegger, mais [84 :00]
+avec son génie propre à lui, Maurice Blanchot : toute son œuvre, c’est-à-dire, tout ce que vous
+voulez, notamment L’Entretien infini [Paris : Gallimard, 1969] ; enfin, Michel Foucault : toute
+son œuvre, mais notamment la seconde partie de Les mots et les choses [Paris : Gallimard,
+1966]. [Pause]
+
+Cinématographiquement, qu’est-ce que c’était ce Dehors plus lointain que tout monde extérieur
+et ce Dedans plus profond que tout monde intérieur ? Le Dehors plus lointain que tout monde
+extérieur, c’était, par [85 :00] exemple, [Pause] ce qui advenait chez [Carl] Dreyer lorsque
+l’image était coupée du monde extérieur. L’image coupée du monde extérieur, loin de se
+refermer, était animée par un prodigieux Dehors. Qu’est-ce que c’était que ce Dehors ? Peut-être
+Bresson donnait-il une réponse, lui, au niveau de son image fragmentée, son image fragmentée,
+donc coupée aussi du monde extérieur par une image où il y ait une pièce complète [86 :00] ;
+rien, jamais on ne verra ni une cuisine, ni même une chaise entière. C’est une multiplicité de
+coupures, quel Dehors est capable de souffler là-dessus ? Sous-titre d’un des films de Bresson :
+"Le vent souffle où il veut ». [Il s’agit du film "Un condamné à mort s’est échappé" (1956)] « Le
+vent souffle où il veut », c’est le Dehors chez Bresson. Un Dehors plus lointain que tout monde
+extérieur est, peut-être, capable de nous redonner croyance au monde extérieur.
+
+Et en même temps, un intérieur plus profond, un Dedans plus profond que tout monde intérieur,
+c’est-à-dire, que la pensée animé par le Dehors soit mise en présence d’un non-pensé. Et ce
+« non-pensé », c’est quoi ? [87 :00] Je recommence, ça peut être « l’inévocable » de Welles, ça
+peut-être « l’inexplicable » de Robbe-Grillet ; ça peut-être « l’indécidable » de Resnais ; ça peutêtre « l’incommensurable » de Godard. [Pause] La topologie du Dehors et du Dedans, c’était
+l’écran noir ou blanc et leur application, comme premier « noosigne », premier grand
+« noosigne » -- ou non, comme « noosigne », après tout... oui, non... oui, -- comme « noosigne »,
+ouais.
+
+Huit : Oulàlà ! Ça va ? Huit ! -- Ah oui, ça va, je n'en ai plus que dix. [88 :00] Huit ! Et là, ça va
+de plus en plus vite puisque c’est des choses qui sont plus fraîches, quoi. -- Cette force du
+dehors, à la différence du cinéma d’avant-guerre, se manifeste dans des « points de coupures
+
+                                                                                                    15
+
+irrationnels » par différence avec les coupures rationnelles et les quantités commensurables de
+l’ancien cinéma.
+
+Bibliographiquement, pour l’ancien cinéma, les quantités commensurables, etc., voir les grandes
+pages d’Eisenstein dans « Le pathétique et l’organique »... Non, pardon, dans « L’organique et le
+pathétique ». [Il s’agit d’une section du tome I de La non indifférente nature d’Eisenstein ; voir
+L’Image-Temps, p. 278, note 37] Voir, pour ceux qui veulent -- car je suis loin d’avoir épuisé le
+sujet -- voir un peu mathématiquement [89 :00] comment ça se passe, les coupures rationnelles et
+irrationnelles là, tout manuel de mathématiques, ou toute histoire des mathématiques, qui
+comporterait un chapitre sur [Richard] Dedekind. [Pause] Pour le cinéma, en particulier, la
+coupure irrationnelle fondamentale va être celle qui se fera entre parler et voir, c’est-à-dire,
+disparition du hors-champ de l’ancien cinéma au profit d’un interstice du cinéma d’après-guerre :
+l’interstice entre parler et voir. Bibliographiquement, on ne s’étonnera pas de retrouver là,
+Blanchot, « Parler, n’est pas voir » [dans L’Entretien infini], Foucault, [90 :00].
+
+En même temps, que du point de vue du cinéma, tout un domaine d’étude s’ouvre à nous, à
+savoir : le hors-champ est remplacé par l’interstice entre, c’est-à-dire, ou si vous préférez, le
+hors-cadre est remplacé par l’interstice entre deux cadrages : cadrage visuel et cadrage sonore.
+Bibliographiquement, le livre de Dominique Villain, L’œil à la caméra [Paris : Cahiers du
+cinéma/Editions de l’Étoile, 1984]. [Pause] Et on se trouvera devant [91 :00] tout ce problème,
+en effet, qu’est-ce que signifie cet interstice qui parfois va jusqu’à... qui s’agrandit, qui s’élargit
+jusqu’à devenir une étrangeté radicale entre le sonore cadré et le visuel cadré, comme dans un
+petit film célèbre de [Jean] Eustache [Il s’agirait du film que nomme Deleuze dans ce contexte,
+Les Photos d’Alix (1980) dans L’Image-temps, p. 325], comme souvent même chez [Jean-Marie]
+Straub, enfin, on aura tout un… Et c’est dans ce jeu ou l’interstice entre les deux cadrages,
+sonore et visuel, ont remplacé le hors-champ ou le hors-cadre. C’est dans ce jeu qu’apparaîtront
+toute sorte, cette fois-ci non plus de... [Interruption de l’enregistrement] [1 :31 :52]
+
+... l’image devenue lisible, ce qui était déjà un thème. Je ne sais pas quel est le premier [92 :00] à
+avoir lancé ça. Dans l’état de mes connaissances, c’est Noël Burch à propos de [Yasujiro] Ozu,
+disant : chez Ozu l’image devient, l’image visuelle devient lisible. Qu’est-ce que ça veut dire ?
+Qu’est-ce que..., on aura tout un domaine de « lectosignes » à étudier. [Sur Ozu, voir le livre de
+Burch, Pour un observateur lointain (Paris : Gallimard, 1982), et aussi L’Image-Temps, pp. 2629]
+
+Neuf : Retour -- on est bien forcés de faire de temps en temps des retours --, retour au thème de
+quelque chose d’impensé dans la pensée. Et la possibilité d’une réponse, nous l'avons vu,
+l’impensé dans la pensée, c’est le corps. Donnez-moi un corps ! [Pause] [93 :00] On a vu qu’il
+en sortait le premier pôle du cinéma expérimental, le cinéma des corps, avec son double aspect :
+le quotidien, le cérémoniel, et le passage de l’un à l’autre. On a vu que ce cinéma allait se
+développer dans le sens d’un cinéma des attitudes : attitudes de corps, cinéma des postures. Mais
+en quoi les postures sollicitaient-elles la pensée ? [Deleuze a une difficulté momentanée à
+prononcer « solliciter »] Eh bien, elles font ce que je dis, elles sollicitent la pensée parce que,
+indépendamment de tout rapport sensorimoteur -- évidemment, il ne faut pas qu’on réintroduise
+un rapport sensorimoteur --, indépendamment d’un rapport sensorimoteur, les attitudes entrent,
+entre elles, dans des rapports de gestus, le gestus étant le lien [94 :00] d’une attitude à une autre,
+
+                                                                                                      16
+
+indépendamment de toute relation sensorimotrice. À cet égard, nous aurons des signes gestuels,
+le geste étant ici défini de cette manière : le lien d’attitudes entre elles, indépendamment de tout
+rapport sensorimoteur.
+
+Bibliographie à cet égard : un petit texte de [Bertold] Brecht [Pause] dans Écrits sur le théâtre
+[Paris : L’Arche, 1966], un texte intitulé « Musique et gestus » ; un commentaire de Roland
+Barthes sur ce texte dans L’obvie et l’obtus [Paris : Le Seuil, 1982 ; le texte « Diderot, Brecht,
+Eisenstein », pp. 86-93], [Pause] [95 :00] et si vous en avez le goût, tout ce que vous voulez sur
+l’art des postures chez [Samuel] Beckett. [Pause]
+
+Bon, dix, c’est quoi ? C’est le cinéma du cerveau [Pause] avec le dernier thème qu’on vient de
+voir, c’est-à-dire, le morcelage par ré-enchaînement du nouveau cinéma, ou ce qui revient au
+même, le ré-enchaînement d’images indépendantes [96 :00] par différence avec l’enchaînement
+d’images associées de l’ancien cinéma. Bibliographie sur le cerveau : le chapitre du livre de
+[Gilbert] Simondon que j’ai cité, sur l’individuation [L’individu et sa genèse physico-biologique
+[Paris : PUF, 1964 ; Grenoble : Millon, 1994] ; le livre de Steven Rose, Le cerveau conscient,
+Éditions du Seuil [1975] [The Conscious Brain (New York : Knopf, 1973)] puis le livre de [JeanPierre] Changeux, L’homme neuronal [Paris : Fayard, 1983], [Pause] et le grand roman
+fondamental : Andrei Biély. [Pause]
+
+Conclusion de tout ça, c’est à l’issue de, si on avance dans cette [97 :00] seconde partie que l’on
+pourra répondre à notre question fondamentale : d’un automatisme à l’autre, quelle est
+exactement la différence entre l’automatisme du cinéma d’avant-guerre et l’automatisme du
+cinéma actuel ? [Pause] Là-dessus, vous allez vous reposer, et si vous êtes gentils, vous n’allez
+pas partir parce que commencent les corvées pour vous, c’est-à-dire, il me reste à vous dire ce
+que j’attends de vous. Et puis, il nous reste, peut-être, je le souhaite beaucoup, vous voyez déjà,
+on va se reposer un tout petit peu, mais ce que je souhaite c’est que vous me disiez, non pas « il
+aurait fallu parler d’autre chose », ça m’est égal, mais que vous me disiez « ah mais, non, il y a
+tel point qui ne va pas », ou bien « il faudrait insister sur tel point », ou bien « on pourrait ajouter
+un point » ; ça je serais ravi si vous [98 :00] m’ajoutez des points. Alors, réfléchissez un peu et
+là-dessus j’ai quelque chose à vous dire personnellement. [Interruption de l’enregistrement]
+[1 :38 :07]
+
+On va être amenés, on va être amenés au second trimestre tantôt à revenir sur des choses qu’on a
+esquissées, tantôt à en prendre d’autres que notre programme n’a pas citées explicitement, mais
+que dont on aura besoin. C’est pour ça que je crois que si vous voulez suivre après le, dans le
+trimestre suivant, il faut que vous ayez quand même présent à l’esprit l’ensemble de ce
+programme. Alors, tantôt on remplira une case vide, tantôt on développera une case déjà remplie,
+et tout ça. Je préviendrai [99 :00] au fur et à mesure, ce que je ne faisais pas les autres fois, sur
+quoi porte notre séance de la fois suivante. Ça, vous verrez si vous venez, ou si vous ne venez
+pas.
+
+Et alors, voilà ! Comme d’habitude, j’ai besoin de vous. Et il arrive quand même que certains
+d’entre vous disent des choses très importantes. Mais, mais oui, oui... Mais j’ai remarqué, et tout
+le monde le sait, que l’exposé est une chose qui ne marche pas du tout parce que d’abord on
+
+                                                                                                    17
+
+entend mal celui qui parle ; ensuite, il y a un manque de croyance générale… Je veux dire, celui
+qui fait l’exposé n’y croit pas, ceux qui écoutent n’y croient pas. [Rires]
+
+Un étudiant : Personne n’y écoute !
+
+Deleuze : Celui qui n’écoute pas n’y croit pas, bon, et finalement, ça [100 :00] empoisonne tout
+le monde, à commencer par celui qui le fait. [Rires]
+
+Alors, tout d’un coup... ça fait exactement trente ans que je cherche une solution. Et voilà que
+j’ai trouvé une solution, qui est enfantine. Quand même, je finis par en connaître un certain
+nombre parmi vous. Alors, ce que je concevrais, moi -- bien entendu, il faut qu’il soit d’accord --
+j’ai besoin de quelque chose, je prends l'exemple suivant. J'ai besoin de quelque chose et je sais
+que l’un parmi vous est compétent, a des idées là-dessus. Bien sûr, il faut que je lui demande la
+permission. S’il dit d’accord, on ne fait pas un exposé, on fait une interview. Ce n’était pas malin
+comme idée, hein ? Il m’a fallu trente ans. [Rires] [101 :00] C’est-à-dire, c’est moi qui interview.
+C’est-à-dire, lui, sa tâche, ce sera de s’être mis dans l’esprit un thème mais qu’il connaît déjà très
+bien et puis, je pose des questions. Et on verra, on verra ce que ça donne. Après tout c’est --
+autant s’en servir -- c’est la méthode Godard, quoi. Bon, je pose des questions, alors évidemment
+il peut me dire que ça ne se pose pas comme ça, que, il peut me dire enfin... bon. Alors je prends
+des exemples sans que les personnes auxquelles je pense se reconnaissent puisque je n’ai pas du
+tout encore leur consentement.
+
+Quelqu’un, par exemple, est parfaitement compétent dans le domaine, à la fois de l’histoire et la
+pratique du cinéma expérimental. Ben, je lui demande s’il accepte [102 :00] là, que moi, je
+l’interview, moi qui ne suis pas compétent, et puis que je lui pose des questions par exemple sur
+le procédé de la boucle, qu’il nous dise un peu comment ça marche, à la fois comment ça
+marche, pas seulement techniquement -- je ne le prends pas comme technicien, je le prends aussi
+comme historien, comme cinéaste lui-même -- quels sont les effets cherchés, les effets
+esthétiques, qu’est-ce que c’est qu’une esthétique de la boucle, tout ça.
+
+Et du coup je m’aperçois que j’ai également besoin de quelqu’un de compétent en musique, qui
+n’est pas forcément le même. Donc je refais une interview, avec cette fois-ci un musicien, là. Il
+ne s’agit pas de faire venir des gens du dehors. Faire venir des gens du dehors, ça me paraît, en
+effet, tout à fait déplorable parce qu’ils ne sont pas au courant du travail qu’on fait. Il faut donc
+que ce soit..., donc, ils ne répondent jamais heu..., il faut que ce soit quelqu’un qui participe au
+travail qu’on fait. [103 :00] Alors, il me faut un musicien aussi pour la boucle. Ou bien, je prends
+un exemple : à la rentrée, on aura à voir un truc qui m’intéresse beaucoup qui est ce
+qu’Eisenstein appelait « les harmoniques de l’image ». Il va de soi que c’est tellement en
+référence à une notion musicale qu’il me faudra quelqu’un de compétent en musique pour voir
+un peu cette histoire des harmoniques. On ferait comme ça. Il y a mille autres exemples, alors
+pour Biély, si quelqu’un connaît bien la littérature russe, alors je voudrais savoir comment, par
+exemple, ce livre, ce livre si beau de Biély se situe, se situe à telle époque, on chercherait peutêtre que... Là, vous voyez ? Je chercherai avant tout vos compétences [104 :00] et ce serait sous
+la forme d’interview.
+
+Un étudiant : Est-ce que je peux proposer une autre voie ?
+
+                                                                                                    18
+
+Deleuze : Oui, oui, oui..., bien sûr.
+
+L’étudiant : [Mots indistincts] de ce travail. Quelqu’un qui en parle, qui donne son contenu et sa
+compréhension générale de ce que tu as dit, et vu que tu parles toi-même, l’interrogé, je veux
+dire, quelque part après poser tes questions. Car, il me semble que si tu commences toi-même
+deux heures de questions, avec toute sincérité, celui-là sera, d’une certaine manière ou d’une
+autre, soit gêné, et se prépare sur le champ de répondre -- comment dire -- d’une manière
+insatisfaisante, ou bien, il lui échappe telle ou telle chose. Donc...
+
+Deleuze : Ouais, ouais, ouais...
+
+L’étudiant : En fait, je ne parle pas du fait que...
+
+Deleuze : Oui, tu redoutes... oui, oui... je comprends…
+
+L’étudiant : [mots indistincts] ... [105 :00] quelqu’un de parler, simplement, qu’il se manifeste
+comme il se comprend, et puis que tu parles toi-même..., -- poser tes questions ...voilà !
+
+Deleuze : Ça, c’est très possible... c’est très possible... D’ailleurs, ça pourra varier d’après le
+souhait de celui qui aurait donné son accord. Ce qui n’empêcherait pas, bien entendu, que l’autre
+aspect, à savoir, que qui le souhaite intervient, voilà. Voilà ce que j’avais à dire.
+
+Et alors, maintenant je fais un grand appel du fond de mon cœur à vous. On dispose donc d’un
+programme, encore une fois, dont certaines cases sont à moitié remplies, d’autres pas remplies.
+Est-ce que vous avez des réactions valables pour ce trimestre-ci consistant à dire : mais, est-ce
+qu’on ne pourrait pas ajouter telle chose ? Ou bien [106 :00] en retirer ? Moi, je suis prêt aussi à
+en retirer tout ce que vous voulez. Est-ce qu’il y a des remarques à faire sur ce programme ? Ou
+bien, ou bien, encore plus simple, hein, des choses qui vous restent obscures ? Parce que je crois
+que vous ne pourrez pas du tout suivre si... Il ne faut pas que ce soit lumineux, mais il ne faut pas
+que ce soit non plus obscur... des points sur lesquels il faudrait revenir. Par exemple, moi, je tiens
+énormément, je vous l'ai dit, à l’histoire topologie, à l’histoire ré-enchaînement, à l’histoire
+coupure irrationnelle, tout ça, j’y tiens beaucoup. Donc si ce n’est pas très clair pour vous, il y a
+déjà malentendu entre nous. J’ai fini, c’est à vous de parler ! [Pause]
+
+L’étudiant : Moi, j’aimerais bien [107 :00] intervenir. J’aimerais que tu [mots indistincts] que tu
+parles peut-être seulement du côté philosophique ou de la pensée, sans faire vraiment un
+enchaînement entre le cinéma et la philosophie car, très modestement, prétendre faire un travail
+pareil serait un peu trop compliqué pour moi, du moins pour le moment. Donc, [Pause] d’abord,
+j’aimerais bien parler, parler vraiment [mots indistincts], automatiquement si tu veux... sans
+même prendre les points que tu as posés, mais tout en parlant je les cherche. Et je crois que j’ai
+mes raisons de parler de la sorte et puisque les semaines avant [mot indistinct], [108 :00] tu nous
+invitais de penser sur les quatre figures que tu as dégagées, à savoir : la substitution de la
+croyance au savoir ; donnez-moi donc un corps ; troisièmement, la pensée du Dehors ; et
+quatrièmement, la fragilité de [mot indistinct] ?
+
+Deleuze : Qu’on a retrouvé aujourd’hui, d’accord.
+
+                                                                                                    19
+
+L’étudiant : Comme on l’a retrouvé aujourd’hui, aujourd’hui, je l’espère... [Rires] Alors, avant de
+sortir de ton cours, de [mots indistincts], il a répété les quatre choses dont je parle.
+
+Deleuze : Il a quoi ?
+
+L’étudiant : Il a répété les quatre voies, on revient vers le Moi, intériorisation provisoire. Et puis
+les voies de l’année dernière revenaient [109 :00] aussi à elle-même, à savoir que l’année
+dernière tu as dégagé quatre figures aussi : premièrement, le cristal fini -- donc, une chose nonexistante, à peu près, tu ne l’as dit pas précisément comme ça, ou je crois [mot indistinct] donc le
+manque, c’est comme la croyance qui est absente …
+
+Deuxièmement, le cristal [mots indistincts] -- le cristal détaché -- ça me paraît correspondre
+d’une manière ou d’une autre, à cette absence aussi ou à ce problème de corps, avec toutes ses
+possibilités et toutes ses faiblesses. Donc, il y a d’abord le cristal pur et une croyance absente. Eh
+bien, le cristal [110 :00] [mots indistincts] séparé classiquement par la pensée philosophique du
+moins chez Descartes. Donc un corps par les faiblesses condamné, et une autre fois un corps
+qu’on découvre ses possibilités, donc il s’agit de quelque chose de concret... de concret,
+contenant à la fois ses possibilités et ses faiblesses.
+
+Troisièmement, le cristal, on le voit en train de se décomposer. Et je me suis dit : « qu’est-ce que
+cela veut dire ? », et ça... Et sans chercher, il me semble que j’ai trouvé une réponse assez
+convenable pour moi, hein, tout en me baladant comme ça à Paris. [111 :00] Alors, je me suis dit,
+c’est bien le cristal en train de se décomposer, c’est bien le moment de crise, le moment de
+l’effondrement, le moment de -- je ne sais pas comment dire -- le moment d’individu pris par
+quelque chose qui est peut-être beaucoup plus fort que sa réalité physique. [Pause] Alors on
+concentre [Pause] de cette pensée du dehors, je me suis dit : c’est aussi un moment de crise, sans
+pouvoir vraiment le définir exactement et précisément.
+
+Mais je passais à un cours... justement le cours qu’on fait dans la quatrième catégorie, à savoir :
+le cristal en train de se former. [Pause] [112 :00] Donc le cristal en train de se former, c’est
+comme la fragilité de… [mots indistincts], pourquoi, je ne suis pas tout à fait clair à ce point.
+[Pause] Car, il me semble que, [mots indistincts] les moments qui précèdent, à savoir, le moment
+de la crise, le moment du cristal en train de se décomposer, et le concept du Dehors, [Pause]
+donc l’individu qui se trouve dans le moment de crise doit à tout prix se réformer en fait, et
+trouver pas seulement son [113 :00] identité mais, disons, son activité et sa réalité. [Pause]
+
+Bon, bref, tout en faisant ce chemin de pensée, il me semblait qu’il y avait -- malgré tout, je veux
+dire, malgré toutes les richesses dont... je ne sais pas comment dire... que tu dises et que tu nous
+donnes -- il me semblait donc qu’il y avait, malgré tout, quelques choses qui ne sont pas tout à
+fait, ou des choses qui ne sont pas tout à fait présentes, à savoir : premièrement, la notion de
+temps. Car on a parlé, ou toi tu as parlé, tu as parlé de [114 :00] trouvailles, si j’ose dire, de
+trouvailles du corps -- donnez-moi donc un corps ! -- tu as parlé premièrement de la substitution,
+tu as parlé de la pensée du Dehors, et tu parles maintenant de l’esprit et de le cerveau, etc., alors
+que la notion de temps, elle n’est pas seulement chère -- pour moi -- un sujet qu’on ne comprend
+pas trop, mais qui se laisse circuler, qui se laisse présenter presque et surtout dans tous les écrits
+
+                                                                                                        20
+
+que tu cites : il s’agit d’Heidegger, il s’agit de Blanchot, il s’agit de Foucault, il s’agit même de
+toi-même. [Pause] Donc…
+
+Deleuze : Je peux vite… ça ne change rien. Je te coupe juste parce que ma réponse, elle est très
+simple sur ce point -- l’ensemble de ce que tu as dit est plus complexe --, sur ce point, ma
+réponse, elle est très simple : c’est [115 :00] que quand même, j’ai consacré toute l’année
+dernière à l’image-temps.
+
+L’étudiant : Ah bon. [Rires]
+
+Deleuze : Tu comprends ? Et là, ben, je te réponds tout de suite, c’est comme si tu me disais « ça
+s’explique ». Alors, j’ai été étonné que tu me dises ça. Tout l’année dernière, on a fait l’imagetemps, alors cette année, je ne la refais pas. Oui, ça.
+
+L’étudiant : D’accord...
+
+Deleuze : Donc, ce point... ce point ne vaut pas, ce point... Mais ça n’empêche pas que ce que tu
+as dit, pour le moment, j’ai retenu deux choses. Tu as d’autres choses à dire ?
+
+L’étudiant : Oui, très rapidement...
+
+Deleuze : Oui...
+
+L’étudiant : D’abord le problème de la substitution de la croyance au savoir, cela me paraît
+vouloir dire que le problème de la croyance n’est pas un problème de la spéculation, de la
+méditation. Il s’agit avant tout [116 :00] d’un trou si j’ose dire..., d’une faille entre moi et le
+monde. Et cela, je l’interprète comme si je me dis : « je n’ai plus de place dans ce monde-là ».
+
+Deleuze : Oui, ça peut se dire comme ça. Oui, oui...
+
+L’étudiant : Hein ? Donc, pour moi, la substitution de la croyance au savoir veut dire plus
+précisément : comment l’individu -- l’individu en tant qu’individu, que personne et individu
+collectif -- comment se fait-il que cet individu soit exclu du monde, qu’il ne trouve plus de place
+? Car si on reprend le problème de la croyance et de sa substitution, avec toute la volonté qu’on
+a, on risque peut-être de rester au niveau, au niveau encore de la croyance, dans tous les niveaux
+et dans tous les sens religieux, etc. Mais pour moi, ça me paraît de trouver une place, [117 :00]
+d’abord égoïstement, et après [mots indistincts] … [Rires].
+
+Deleuze : Et attends ! Je te coupe à nouveau, hein ? Tu es en train de me dire : « il manque une
+case... » [Interruption de l’enregistrement] [1 :57 :14]
+
+Partie 3
+
+… Je dis oui, oui, oui. Et moi en t’écoutant, je la traduis comme ceci : ce qui manque dans notre
+programme, c’est une case politique. Et au niveau du cinéma, je dirais de même qu'on s’est
+demandé : est-ce qu’il y a un changement de régime dans l’image d’avant-guerre et dans l’image
+
+                                                                                                    21
+
+d’après-guerre ? C’est évident qu’il faudra demander : qu’est-ce qui s’est passé passer dans le
+domaine du cinéma politique des Soviétiques au cinéma politique actuel ? Et que le changement
+[118 :00] est absolument considérable. Et que je dirais tout simple : les Soviétiques avant, ce que
+Eisenstein appelle spirituellement la bolchévisation, les Soviétiques, ils croyaient à l’existence
+d’un peuple.
+
+Qu’est-ce qui s’est passé ? Pourquoi est-ce un cinéma politique aujourd’hui, le seul vrai cinéma
+politique aujourd'hui, il est passé dans le tiers monde ? La première réponse, c’est que la grande
+mutation du cinéma politique s’est faite sous la forme de la prise de conscience que le peuple
+n’était pas là, qu’il n’y avait pas de peuple. Alors c’est un changement dans le régime de l’image
+politique aussi important que, alors, ça recoupe complètement la question de la croyance.
+[119 :00] Quand tu dis, bien, substituer la croyance au savoir, ça veut dire : on est coupé du
+monde, et comment est-ce que la croyance va rétablir un lien avec le monde. À un autre niveau,
+tu as complètement raison ; il y a un niveau collectif, c’est : comment est-il possible qu’un
+peuple se fasse aujourd’hui ? Ce qui revient à dire, pourquoi le cinéma politique est devenu
+aujourd'hui un cinéma de minorités ? C’est bien évident qu’entre le cinéma politique de
+[Vsevolod] Poudovkine ou de Eisenstein, et le cinéma politique du Turc [Yilmaz] Güney ou
+d’autres, je cite Güney enfin, il y a une espèce de coupure aussi grande que toutes les coupures
+qu’on a vues.
+
+Alors, moi, je dis : mille fois, oui, à ce programme il est évident qu’à un moment, et voilà que
+[120 :00] tu as devancé ce moment, on verra que de toute évidence, il faut tenir compte du
+problème de : qu’est-ce qu’un peuple ? Qu’est-ce qu’un peuple au cinéma ? En quel sens est-ce
+que le peuple manque ? Qu’est-ce que ça veut dire le peuple manque ? Etc., etc., ça sur ce point
+tu as entièrement raison, c'est-à-dire tu viens de montrer typiquement la nécessité d’ajouter
+quelque chose au programme.
+
+Sur les deux autres points, je dirais oui et non. Si j’ai bien suivi, il y a un point qui, moi, ne me
+convient pas, mais je ne vois aucun inconvénient à ce qu’il te convienne à toi ; vous êtes libres,
+hein ? Tu as voulu -- moi je dirai en gros pour parler aussi très rapidement, hein ?-- tu veux me
+rabattre quatre catégories. Moi je tiens beaucoup à mes quatre catégories. Tu me prends quatre
+catégories, et puis tu me les rabats sur quatre autres. [121 :00] Tu me prends quatre catégories de
+cette année, et puis tu dis : moi, ce qui m’intéresse, je les applique sur les quatre catégories du
+cristal. Alors je m’agite parce que ma réponse, ce serait : ah ben non, qu’on ne me réduise pas
+mes catégories. Moi, plus il y en a, plus que ça m'égaie.
+
+Donc si tu me les rabats et que de huit, tu en fais quatre, tu comprends, surtout que les états du
+cristal et les quatre mutations de la pensée, hein, il faut forcer les choses pour y voir des rapports.
+Bien sûr, il y a des rapports. Mais le rapport que toi, tu as essayé d’instituer entre les deux : les
+catégories de la pensée et les catégories du cristal, comment tu t’es débrouillé ? C’est en
+introduisant -- et là ne le prend pas en un sens péjoratif -- c’est en introduisant un problème qui
+manifestement, toi, t’y intéresse, [122 :00] et moi j’avoue, j’avoue -- sans du tout dire que j’ai
+raison – moi, ne m’intéresse pas, à savoir c’est un certain problème du Moi par rapport aux états
+de choses et par rapport à la pensée. Puisque toutes les histoires des états du cristal, toi, tu en
+faisais comme des états possibles du Moi. Alors en effet, par cet intermédiaire, il me semble que
+tu pouvais rabattre les catégories de la pensée sur les catégories du cristal en fonction d’une
+
+                                                                                                    22
+
+espèce de développement ou de voyage du Moi, et là, ce serait peut-être très intéressant.
+
+À mon avis, ça empêche qu’elle ne se réduirait pas, ça ne fait pas partie du même voyage. Mais
+en effet, moi, ce qui m’intéressait dans l’histoire du cristal, c’était la constitution d’un [123 :00]
+certain type d’images, que le cristal soit en décomposition ou en germes, tout ça. Ses
+conséquences par rapport au Moi, ça m’était, ça m’était égal. Mais je fais partie des gens -- ce
+n’est pas une supériorité, c’est une infériorité -- qui n’arrivent pas à penser la question du Moi,
+ça ne me dit rien. Mais je suis très frappé qu’en effet, tu peux faire ta réduction en posant un
+certain problème du destin du Moi. C’est complètement légitime, complètement légitime. Je
+peux juste dire : ce n’est pas un problème pour moi, mais je sens que c’est un problème pour toi.
+Donc tu as raison.
+
+L’étudiant : [Mots indistincts] …mais la langue intérieure.
+
+Deleuze : Oui, oui, oui.
+
+L’étudiant : Alors c’est un cas interminable, en fait.
+
+Deleuze : Ah, ben non…
+
+L’étudiant : Je veux dire par rapport à moi.
+
+Deleuze : Par nature il est interminable. Oui, oui, oui. [124 :00] … Non, non, c'est très bien, c'est
+très riche ce que tu as dit là pour le moment, pour moi. Est-ce que quelqu'un…
+
+Une étudiante : [Mots indistincts]
+
+Deleuze : Essayez de parler fort, s'il vous plaît, pardon.
+
+L’étudiante : [Mots indistincts ; il s’agit de la classification des signes]
+
+Deleuze : Oui.
+
+L’étudiante : [Mots indistincts]
+
+Deleuze: Voilà, là aussi je fais cette réponse, je fais cette réponse très, très décevante pour vous.
+Vous comprenez, une classification des signes, on est resté deux ans là-dessus. Si bien que
+lorsque je reprenais des appellations de signes, c’était clin d’œil pour réunifier, [125 :00] clin
+d’œil vis-à-vis de ceux qui étaient là. Alors, si vous me dites, ce ne serait pas mal de refaire une
+séance alors, très, très résumée sur ce que c’est, sur ce que c’est qu’un signe, ce que j’appelle un
+signe, on pourra, on peut le concevoir. Mais si j’ai réintroduit ça sans aucune explication, c’était
+pour les mêmes raisons que je disais tout à l’heure pour le temps, c’est parce que pour nous, pour
+une partie d’entre nous, tout ça c’est fini, quoi.
+
+Une étudiante : [Mots indistincts]
+
+                                                                                                     23
+
+Deleuze : Oui, oh ben d’une part, comme je l’ai écrit depuis, je n’allais pas le reprendre, oui,
+mais on peut faire quand-même une séance avec les signes dont je n’ai pas encore parlé, oui.
+
+L’étudiante : [Propos inaudibles]
+
+Deleuze : Une évolution ? Pour moi ? Là-dessus ? Sur ce problème des signes ? [126 :00] Ça
+dépend parce que là, vous avez la gentillesse de faire allusion à des choses que j’ai écrites. Ça
+dépend à quel moment. Le problème des signes, moi, ça m’a toujours beaucoup tourmenté et
+intéressé, alors j’en parle depuis longtemps. Si vous me dites la dernière fois que j’en ai parlé,
+c’est l’année dernière à propos du cinéma, sur l’année dernière à propos du cinéma, non je n’ai
+pas changé. Sur des textes qui sont de bien avant, oui, j’ai beaucoup changé. Oui. Oui, mais ça,
+on pourra faire une séance sur le signe, peut-être même que je vais changer, alors, alors ça serait
+mieux, oui, oui... Moi je crois qu’à propos des signes dont on n’a pas parlé là, noosigne,
+lectosigne, on sera amené à reparler des signes. Oui, oui, oui.
+
+Alors il n’y a pas seulement, encore une fois, [127 :00] dernier appel que je fais, ceux dont je
+connais déjà la compétence dans tel domaine, évidemment rien ne pourrait m’être plus sensible
+que l’un de vous me disant, « eh ben je, je m’y connais un peu dans tel domaine, je peux, je peux
+t’aider, je peux t’aider ». Par exemple, je vois comme il n’est plus là, je peux le citer. Il y avait un
+type, l’année dernière qui est venu me dire qu’il s’y connaissait un peu en cristaux, il fait quelque
+chose sur cristal et qui nous a servi, enfin du moins m’a servi, et c’était très bien. [Il s’agit de
+Jouanny, qui intervient pendant les séances 19 et 20 du séminaire sur Cinéma 3, le 22 et le 29
+mai 1984] Donc je fais un vif appel, à vos… Il suffit si vous voulez que ça rentre par un bout
+quelconque dans, dans notre programme, hein ? Alors, au besoin, je vous demande de réfléchir.
+Oui, tout de suite. Oui ?
+
+Georges Comtesse : [Mots indistincts]
+
+Deleuze : Tu parles fort, hein ? Tu essaies de parler fort.
+
+Georges Comtesse : Sur la question, sur la question de l’enchaînement des postures, donc en lien
+avec le cinéma du corps…
+
+Deleuze : Oui ?
+
+Comtesse : … en référence à [Jacques] Rivette et à Jean-Louis Godard. En particulier, chez
+Rivette, ce qui vaut dans ce cinéma, ce n’est pas simplement, si on prend un exemple précis,
+[mots indistincts], ce qui vaut dans ce cinéma, ce n’est pas tellement et pas simplement le gestus
+de l’enchaînement des postures, mais la provenance de cet enchaînement en rapport justement à
+un certain corps, qui est un corps [129 :00] dérobé ou fuyant. Je m’explique. Par exemple, dans
+le cinéma de Rivette, la scène théâtrale, même dans son dernier film qui est en théâtres
+actuellement, L’Amour par terre [1984] [mots indistincts], la scène théâtrale, la scène du gestus
+théâtrale, c’est pour Rivette une scène qu’il appelle la scène de la suspension de la violence qui
+renvoie toujours, la scène théâtrale, à un groupe, à un groupe, à un groupe privé, ou une société
+secrète qui ourdit littéralement un complot. Mais le complot justement que le groupe ou la
+société ourdit est lui-même ce complot ourdi par un délire. Et la question, [130 :00] la question
+
+                                                                                                    24
+
+autrement dit, du théâtre renvoie à la question du délire, et c’est à partir du délire d’où vient
+justement cet enchaînement, enchaînement des postures, que la question du corps est
+uniquement, uniquement là, se pose dans le cinéma de Rivette.
+
+Je veux dire par-là que la question fondamentale qui se pose et la question de la pensée cinéma à
+ce moment-là, c’est : quel est le corps du délire ? Le corps du délire, c’est-à-dire quel est le corps
+fuyant du délire qui impose le délire, le complot et la scène théâtrale ? Et autrement dit, le corps
+fuyant du délire, … ce serait la question qu’un certain cinéma poserait le corps du délire ou le
+corps de la folie ; ça reviendrait pas mal quand même, et cette question du corps du délire c’est la
+même question qui revient sous une tout autre forme dans par exemple Prénom [131 :00]
+Carmen [1983]. Dans Prénom Carmen, au début de Prénom Carmen, il y a le voyant, le voyant,
+c’est-à-dire l’oncle, l’oncle de Godard, l’oncle Jean. Le voyant, il est sur son lit, et il dit « être,
+être, être », c’est-à-dire qu’il lance le mot de l’appel, le mot de ce qui n’existe pas, de ce qui ne
+peut pas exister, c’est-à-dire le mot de l’absence du réel : être. Et après il ajoute : les jeunes
+d’aujourd’hui, on oublie tout, mais ils oublient tout parce qu’ils sont dans un excès de mémoire.
+Et il ajoute, ils sont tous dans le trou noir.
+
+La question fondamentale qui se pose c’est : qu’est-ce qu’il y a entre le mot de l’appel « être » et
+justement la question du trou noir ? Et ça, entre cela, il y a tous les enchaînements du film, tous
+les chocs agressifs amoureux, tous les mouvements précipités et Orphée lui rend grâce, c’est-àdire, tout [132 :00] ce qui fait appel le cinéma corps. Mais le cinéma corps, ce n’est pas l’image
+corps ; une image du cinéma corps ne s’inscrit pas dans l’enchaînement des postures. C’est ce à
+quoi l’enchaînement des postures renvoie, c’est-à-dire entre « être » et trou noir, ou ce qui
+pourrait se déduire du délire à ce moment-là. C’est dans, c’est dans ce qui pourrait se déduire du
+délire ou ce qu’il y a entre que la question du corps, peut-être pourrait se poser.
+
+Ce n’est pas… par exemple, je vais prendre un autre exemple : si on prend, par exemple, le
+dernier film de Rivette qui s’appelle L’Amour par terre, il y a posé d’une façon nouvelle la
+question de l’automatisme. Par exemple, il y a un moment où il prend le visage en gros plan de
+Jane Birkin et l’œil, l’œil de Jane Birkin devient complétement [133 :00] un œil exorbité ou
+traversé par, par l’effroi. Et à ce moment-là, à ce moment-là, il y a ce qu’il appelle une
+transmission automatique, c’est-à-dire ça se transmet automatiquement, mais ça se transmet. Il y
+a quelque chose dans un corps qui se transmet à un autre corps automatiquement. Et aussitôt, on
+perçoit justement dans une scène où elle est blessée avec justement une femme rouge et l’homme
+témoigne de, justement, du rapport entre la femme rouge et la femme blessée. Cette transmission
+automatique, je pense que c’est une nouvelle image du cinéma qui n’est pas simplement une
+image-temps, une image-temps pure, mais qu’on pourrait appeler une image désir, une image
+délire.
+
+Deleuze : Je veux bien, je veux bien, je ne veux que ça. Pour moi, cette intervention consiste
+[134 :00] à remplir déjà une partie de notre programme. Tu me dis, il faudra faire attention ; le
+gestus est insuffisamment défini par l’enchaînement des postures, car il faut que le gestus d’une
+manière ou d’une autre rende compte aussi -- je ne sais plus quel mot tu employais -- de l’origine
+dont découle l’enchaînement. Et tu proposes une réponse : l’origine dont découle l’enchaînement
+serait le corps désir ou le corps délire. Ben, d’accord je veux bien, c’est très bien. Si tu veux, tu
+donnes ton prolongement toi-même et ta réponse toi-même au problème : qu’est-ce qu’on peut
+
+                                                                                                      25
+
+appeler gestus ? C’est parfait.
+
+Comtesse : Et même, et même, par exemple, à ce niveau-là, …
+
+Deleuze : C’est parfait. Je ne veux pas dire [135 :00] que je sois d’accord. [Rires] C’est parfait.
+
+Comtesse : [Il continue à parler, mots indistincts] [Rires ; on entend Deleuze parler à quelqu’un
+près de lui, J’ai des soupçons… ]
+
+Deleuze : Ah, oui, tu peux là-dessus ramener, en effet, l’impensé, c’est la folie. Ouais, ouais.
+
+Comtesse : Il n’y a pas de philosophie, que la philosophie, que la philosophie n’existe pas parce
+qu’elle n’a pas encore constitué une logique de ce corps, donc elle ne peut pas se prétendre. Il y a
+peut-être des discours qui sont en vue de la philosophie, vers la philosophie, mais pas encore
+justement de discours véritablement philosophique. Ça, c’est un point que je voudrais démontrer.
+
+Deleuze : Et pas pour moi ! [Rires] Tu comprends, moi, Comtesse, je ne peux te faire
+perpétuellement qu’un seul et même tout petit reproche : c’est que quand tu interviens, tu as
+tendance [136 :00] à présenter ce que tu dis comme non seulement une chose qui doit être dite --
+là je serais très d'accord -- mais la seule chose qui peut être dite, [Rires] et qui par nature renvoie
+tout le reste à zéro. Ça me trouble beaucoup parce que tu n’as pas cessé de prendre tremplin sur
+moi. Mais tu rejettes le tremplin avec une vigueur et une force... Et en tout cas, même moi, dans
+mes moments de plus grande certitude, il ne me viendrait pas à l’esprit de formuler des phrases
+comme tu le fais sous la forme : sur tel point, on ne peut dire que ceci. Il faut quand même avoir
+plus confiance dans l’inventivité des gens, et pas croire qu’on dit la seule chose possible sur un
+concept. [137 :00] Car, tu es d’accord avec moi, le concept de gestus, il faut en faire hommage à
+Brecht.
+
+Deuxièmement, et je ne le diminue pas, c’est Barthes. Là j’aime bien les hommages nécessaires
+qui donnent à cette notion une rigueur très intéressante, mais à mon avis, il ne la renouvelle pas.
+Si je me permettais, et ce n’est pas son problème de la renouveler, dans le texte de Barthes, si je
+me permets une déclaration de vanité, comme ça, bon : je la prends chez Brecht, je pense la
+prendre en un autre sens que lui, donc je pense… [Interruption de l’enregistrement] [2 :17 :51]
+
+... ce que tu fais aux gens ou plutôt que tu devrais faire aux gens, [138 :00] chaque fois que tu
+parles, on dirait que tu lances du haut d’un ciel un jugement qui a pour fonction de pulvériser
+tout autre chose que quelqu’un aurait envie de dire. Alors moi, je t’écoute avec beaucoup
+d’intérêt, et je me dis : mais, oui, c’est une voie possible quoique je vois bien tout ce que tu nous
+ramènes : et le manque, et le désir, et le délire et la folie, et que ça va nous ramener à dire
+l’impensable dans la pensée, c’est la folie, ce qui à mon avis serait une forte régression par
+rapport au point où on en est. Tout ça, voilà... Mais si j’avais un reproche à te faire, ce serait
+uniquement celui-là. Essaie de comprendre que lorsque tu parles, tu dis des choses très
+intéressantes, mais que ces choses ne sont pas censées annuler tout autre discours.
+
+Comtesse : Justement, elles n’annulent pas tout autre discours. Mais quand je disais que la
+philosophie n’existe pas…
+
+                                                                                                      26
+
+Deleuze : Et ça peut se démontrer, tu disais. [139 :00]
+
+Comtesse : Et ça n’est pas moi qui dit cela ! [Rires, y compris Deleuze] Curieusement,
+curieusement, c’est un auteur auquel tu as fait référence, c’est-à-dire l’auteur qui a soustrait la
+pensée, la pensée, le modèle du savoir et qui reconnaissait – je parlais de Kant -- qui
+reconnaissait que la pensée de l’inconnu, ou la pensée de la foi, n’est pas du tout une
+philosophie. Et, il dit Kant, dans un texte qu’on commenté l’année dernière, justement dans un
+groupe que précisément la philosophie, ça n’existe pas. Ça n’existe pas. Et c’est comme une
+sorte, disait-t-il, de maîtresse insaisissable.
+
+Deleuze : [Il rit un peu en parlant] Écoute, comme toujours tu ne nous les amènes jamais, tes
+textes. J’ai beau faire appel à toi en disant : amènes-moi le texte. [Il continue en riant] Si tu
+m’amènes un texte, c’est promesse, hein ? Tu me promets de m’amener un texte de Kant en
+disant que la philosophie [140 :00] n’existe pas ?
+
+Comtesse : Bien sûr !
+
+Deleuze : Bien sûr. [Rires] Dis donc, eh, tu as du culot, parce que les textes, je les attends
+toujours, moi. Notamment, la dernière fois tu m’avais promis un texte de Élie Faure, hein ?
+[Rires] [Il s’agit de la discussion pendant la séance 3, le 13 novembre 1984]
+
+Comtesse : [Mots indistincts] [Rires] … Comment tu veux que la philosophie existe alors que les
+gens ne sont pas capables de penser la folie. [Rires]
+
+Deleuze : Écoute, tu me, tu me... j’ai l’impression que tu me fais faire une régression fantastique.
+C’est curieux. C’est curieux. Voilà qu’on va se retrouver, ben oui évidemment, on va se retrouver
+avec le manque, avec la folie, tout ça. C’est ta voie, alors je la respecte, hein ? Mais ne
+m’entraîne pas là-dedans. Quant à la question alors plus précise, tu ne vas pas me dire aussi que
+c’est dans Kant, que la philosophie n’existe pas tant qu’on n’a pas pensé la folie. [141 :00] Je
+retiens juste que tu me promets de m’apporter le texte de Kant disant la philosophie n’existe pas.
+Hein, d’accord ?
+
+Comtesse : Bien sûr ! Cela était commenté avec des références très précises l’année dernière au
+séminaire de Jacques Derrida. Je fais référence à ses commentaires, justement …
+
+Deleuze : Non, mais alors, c’est Derrida ou c’est Kant ?
+
+Comtesse : … Je ne me réfère pas à toi, selon ton accusation pour dire telle ou telle chose. Je me
+réfère aussi beaucoup aux autres.
+
+Deleuze : Tu te réfères aux autres, Comtesse ?
+
+Comtesse : J’entends beaucoup de choses et je vois beaucoup de choses avant de parler moimême.
+
+                                                                                                       27
+
+Deleuze : Et j’en suis sûr, mais tu ne te réfères aux autres que pour proposer des propositions
+dites définitives. Alors elles peuvent venir de Derrida, mais j'espère, je suis sûr que Derrida a
+beaucoup plus de nuances que toi. Et j’insiste [142 :00] sur, il ne faut pas venir dire ici en tout
+cas : voilà la vérité. Il faut peut-être le dire chez Derrida ; je n’en sais rien moi, [Rires] mais pas
+ici, pas ici. Sinon tout ce que tu dis est bon, si on arrive à ôter cet aspect. Est-ce qu’il y a d’autres
+choses ? Non ? Eh bien, bonnes vacances !
+
+Un étudiant : Je voudrais proposer pour le cristal une [mot indistinct] parce que comme le zoe, le
+cristal, le zoe… [mots indistincts]
+
+Deleuze : Oui, mais il y aura un inconvénient puisque zoe-, zoe- fait allusion à quelque chose de
+vivant et que justement le visage du cristal [143 :00] le distingue du vivant. [Pause] Ça aussi ce
+serait joli, mais… [Pause] Cherche, hein ? Tu trouveras mieux. [Rires] [Fin de la séance]
+[2 :23 :14]

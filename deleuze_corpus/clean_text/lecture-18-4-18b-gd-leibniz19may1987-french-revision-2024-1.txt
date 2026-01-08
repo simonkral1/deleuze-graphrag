@@ -1,0 +1,994 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque – Les Principes et la Liberté
+
+Séance 18, le 19 mai 1987: Les Principes et la Liberté (13) -- Qu’est-ce qu’avoir un corps ?
+
+Transcription initiale de Web Deleuze; transcription augmentée, Charles J. Stivale (durée,
+2:14:05)
+
+[L’annonce avec laquelle commence cette séance – où Deleuze explique que le séminaire sur
+Leibniz de cette année est le dernier qu’il présentera en tant que professeur pour des raisons de
+santé -- est un moment énorme pour tous les participants. Par conséquent, comme il dit, cette
+séance et les deux qui suivent seront les séances finales de sa carrière. Pourtant, Deleuze a sans
+doute signalé à ses proches son intention de prendre la retraite car il y fait référence dans une
+lettre de décembre 1986 à Arnaud Villani, publiée dans Lettres et Autres Textes, éd. David
+Lapoujade (Paris : Minuit, 2015), p. 86]
+
+Partie 1
+
+Richard Pinhas: C’est une question de zoologie par rapport au dernier cours, et je le pose aussi
+bien dans le contexte de Leibniz que par rapport à la problématique de Gilles, et qui est d’abord,
+qui s’articule en tant que: est-ce qu’il y a un passage possible, en ce qui concerne l’inquiétude
+dont a parlé Gilles, l’inquiétude du lapin qui se fait chasser, mais l’inquiétude au sens peut-être
+plus général, est-ce que cette inquiétude peut concerner, doit concerner les autres créatures, à
+savoir l’homme ? Et d’autre part, si ça demeure encore de l’inquiétude au sens aussi fort où on
+l’a entendue, et d’autre part, est-ce que cette inquiétude a à voir avec ce que la phénoménologie
+moderne appelle le souci ? Comment est-ce que tu conçois l’articulation entre l’inquiétude et le
+souci, un rapprochement possible ou une exclusion possible entre l’inquiétude et le souci ? Donc,
+c’est une question de zoologie.
+
+Deleuze : Mmmm. [Pause] Le deuxième aspect de la question, c’est toi qui vas y répondre.
+[1 :00] [Rires] [Pause] Bon.
+
+Tout le monde entend bien, parce qu’on m’a dit que dans le fond souvent vous ne m’entendiez
+guère ? Il me semble de beaucoup d’importance. [Rires] Alors, voilà, je voudrais d’abord vous
+parler pratique, et je voudrais que vous me pardonniez d’avoir à vous parler pratique comme ça,
+et je vous dis très vite que ma santé, ma santé est assez moyenne et qu’il faut que je prenne du
+repos. Donc je vais… Mais elle va très bien ; moyenne, c’est déjà, c’est déjà très bien. Donc je
+vais cesser assez vite les cours. De toute manière, que je vais cesser, c’est parfait. Je vais les
+cesser sous la forme suivante [2 :00] parce que je n’y arrive plus d’ailleurs. Je sens que le
+moment est venu, je n’y arrive plus. C’est très spécial, faire des cours, vous savez, c’est très
+curieux. Il y a un moment où on sent très bien quand le moment est venu depuis qu’on fait.... Ce
+n’est pas que ce soit l’activité la plus divine du monde, pas du tout, mais c’est une activité
+tellement spéciale. J’ai pensé à ça, mais peu importe.
+
+                                                                                                    2
+
+Donc je vais arrêter assez vite, mais je vais finir quand même ce que je voulais, c’est-à-dire je
+vais, aujourd’hui, mais vous allez voir sous quelle forme, et puis je vais faire encore deux cours,
+deux cours sur ce à quoi je tenais, c’est-à-dire : l’harmonie et la comparaison de l’harmonie
+musicale à l’époque de Leibniz, [3 :00] et de ce que Leibniz appelle l’harmonie. Donc
+aujourd’hui, on va avoir une séance que je vais vous expliquer ce que je souhaiterais qu’on fasse,
+et, les deux semaines prochaines seront sur l’harmonie où j’aurais besoin vivement du concours
+de deux auditeurs, ici, compétents en musique, mais au besoin, j’aurai besoin d’autres personnes
+aussi.
+
+En gros, que je précipite un peu la fin des cours, ce n’est pas très grave parce qu’on a fait à peu
+près ce que je souhaitais, enfin l’essentiel de ce que j’avais envie de dire sur Leibniz. Pour le
+reste, je viendrai encore en juin, enfin, on a deux cours donc ça nous met…, je viendrai encore en
+juin, mais uniquement pour voir les étudiants [4 :00] soit de premier cycle, soit de deuxième
+cycle, soit de thèses, qui ont besoin de me voir et que d’habitude je n’ai jamais le temps de voir.
+Vous le considérez donc du point de vue de notre travail en commun, vous considérez qu’il n’y a
+plus que deux cours, ce qui fait le 27 [à vrai dire, le 26] et un au début de juin. Après, je ne parle
+plus. [Pause] Voilà.
+
+Ceci dit, ceci dit, je voudrais aujourd’hui que ce soit une séance très douce parce que j’avoue que
+[Pause], il me semble que c’est un domaine, dans la pensée de Leibniz tellement à la fois
+complexe, mystérieux, tellement en avance sur son temps, tellement à d’autres niveaux, [5 :00] je
+ne sais pas. C’est un domaine alors que je résume sous la forme, qu’est-ce que ça veut dire pour
+Leibniz, que : avoir un corps ? Qu’est-ce que c’est que ça : avoir un corps ? Et je vais essayer de
+faire le plus, je ne sais pas, non pas comme j’ai fait les autres fois parce que, pour moi, dans la
+lecture que je fais de Leibniz à cet égard, les questions abondent beaucoup plus que… [Deleuze
+ne termine pas la phrase]. Et si je n’y arrive pas, je vous le dirai, je vous le dirai, bon, voilà ce
+que je n’arrive pas à comprendre. [Pause]
+
+On était parti, vous vous rappelez, de ceci -- je lance des points assez séparés -- on était parti de
+ceci que la substance individuelle, la monade, qui est pur esprit [6 :00] -- vous vous rappelez, on
+l’a vu sous cette forme : elle est pur esprit, elle est âme ou esprit -- nous avons vu que la
+substance individuelle avait deux réquisits : elle était unité active spontanément productrice de
+ses propres prédicats. Remarquez que ce n’est déjà pas facile : qu’est-ce que peut bien vouloir
+dire un prédicat comme : “je me promène”, alors que le sujet, c’est la monade comme pure âme ?
+Elle se promène, l’âme, [7 :00] qu’est ce que ça veut dire ? On dira : c’est que d’autre part il y a
+déjà des corps ; Non ! Si vous suivez ma difficulté, Non, on n’en sait rien du tout. Pourquoi on
+n’en sait rien du tout ? On ne sait pas s’il n’y a pas lieu d’être Berkeleyen, comme on voyait la
+dernière fois, à savoir : il y a des perceptions, oui, il y a des perceptions dans la monade, et
+intérieures à la monade. Alors je pourrais dire à la rigueur : je me perçois me promenant. Ce qui
+est dans la monade, ça ne peut pas être la promenade. Ce qui est dans la monade, c’est le
+percipit, c’est la perception de la promenade. [8 :00]
+
+Je voudrais que vous fassiez un effort de plus parce que on sent bien que ça ne va pas. S’il n’y
+avait pas de corps, il y aurait des perceptions, d’accord, mais est-ce qu’il y aurait des perceptions
+de la promenade? Ça paraît bizarre. Je prends un texte de Bayle, vous savez, dans ses “objections
+à Leibniz ”. Dans ses “objections à Leibniz ”, Bayle dit en gros -- même pas en gros -- il dit
+
+                                                                                                     3
+
+exactement -- vous vous rappelez l’histoire du chien, le coup de bâton qu’il reçoit quand il
+mange, etc. -- Et il dit : mais la monade du chien perçoit, donc, perçoit confusément le coup de
+bâton qui se prépare [9 :00] -- perception du coup de bâton -- et puis, saisit la douleur pendant
+que le coup de bâton se prépare dans la matière, et que le bâton, comme corps, s’abat sur le corps
+du chien. Mais comme dit Bayle : rien ne force, à la limite, à ce qu’il y ait de corps. La monade
+du chien pourrait très bien enchaîner perception de bâton et perception de coup. Dieu l’aurait
+ainsi constitué, mais il n’y aurait pas de corps. C’est bien ce que nous dira Berkeley. [Pause]
+[10 :00]
+
+Qu’est-ce qui me fait dire : il y a un corps ? Ça me gêne ces exemples. C’est vrai que d’un point
+de vue logique absolu, je peux dire : la monade du chien passe de la perception du bâton, et ne
+passe pas du bâton au coup de bâton puisqu’elle est purement spirituelle, mais elle peut passer de
+la perception du bâton à la perception du coup de bâton. Elle passe d’une perception à une autre.
+Les perceptions sont des données, en effet, inhérentes à la monade. Donc, ça, je peux le dire,
+mais c’est très bizarre : s’il n’y avait pas de corps, ce serait assez bizarre que les perceptions
+soient des perceptions [11 :00] d’un pseudo-corps. Il me semble que, s’il n’y avait pas de corps,
+la monade serait pleine de perceptions, mais des perceptions d’une autre nature que des
+perceptions de coups de bâton fantomatiques. [Pause] Bien, j’entends tout ça.
+
+Et quand Leibniz répond à Bayle : mais oui, mais oui, ce serait possible, à la limite, ce serait
+possible qu’il n’y ait pas de bâton et qu’il n’y ait pas de corps du chien, ça n’empêcherait pas la
+monade chien d’avoir une perception du bâton, et d’avoir une perception du coup sous forme de
+douleur. On se dit : oui, mais enfin, d’accord, mais c’est une manière de parler tout ça. Qu’est-ce
+que ça veut dire ? Pourquoi est-ce qu’il faut qu’il y ait des corps ? [12 :00] Avoir un corps ! Au
+point ou on en est, en effet, on a bien défini monade, pourquoi est-ce qu’il faut qu’il y ait des
+corps? Je me dis quelque chose : peut-être est-ce que l’exigence d’avoir un corps appartient le
+plus fondamentalement du monde à l’événement. [Pause] On dirait presque que l’événement a
+une double exigence, et si vous m’accordez qu’on a passé un long temps de cette année à
+s’interroger sur qu’est-ce qu’un événement, en y voyant comme un double secret de la
+philosophie de Leibniz et de la philosophie de Whitehead, je dirais : [13 :00] oui, il n’y a pas
+d’événement qui ne s’adresse à l’esprit. Peut-être que les événements, les événements, ce ne sont
+pas des essences éternelles, mais d’une certaine manière, peut-être est-ce qu’ils nous guettent et
+nous attendent. [Pause]
+
+Un étudiant : Est-ce que je peux dire quelque chose ?
+
+Deleuze : Oui.
+
+L’étudiant : Une toute petite remarque au niveau de l’événement. Quelqu’un qui semblait esqualité pour en parler, c’était Ferdinand Braudel. Tout à fait à la fin il dit : l’événement, c’est un
+petit peu comme une explosion comme ça de poussières, comme un feu d’artifice, et après
+[14 :00] tout retombe dans la nuit et dans l’obscurité. C’est une phrase de Braudel. Je veux dire
+par là que si l’événement est forcément capital, d’où la nécessité d’un corps, il y a le problème
+du continu et du discontinu qui se présente. Lui, Braudel, présentait les événements, -- et il avait,
+quand même, quand il parlait de l’événement, il savait ce qu’il disait quand même -- et que
+c’était donc quelque chose de discontinu, qui explosait comme ça et après qui retourne dans une
+
+                                                                                                    4
+
+espèce d’obscurité ou de nuit, donc le problème du continu et du discontinu. Est-ce donc,
+pendant ce temps-là, qu’est-ce que fait le corps ? Je veux dire, est-ce qu’il est en vacances, est ce
+qu’il est en vadrouille ? Il n’est pas nécessairement la substance, il n’est pas toujours branché,
+comme on pourrait dire aujourd’hui, sur l’événement dans une espèce de tension de tous les
+instants, puisque l’événement vraiment [15 :00] n’apparaît comme ça que comme une espèce
+d’explosion qui nous surprend, et après on en tire ce qu’on en tire, mais après c’est de nouveau
+l’obscurité, c’est la nuit. [Pause]
+
+Deleuze : Je voudrais dire, avec beaucoup d’estime, et que ce soit un conseil vraiment : ne
+mélangez pas. Toi, tu nous dis, oui, il y a Braudel qui dit ceci. Et sûrement, ce que dit Braudel est
+beau, mais je ne suis pas sûr que ça implique la discontinuité de l’événement que tu dis. Mais
+enfin on pourra en parler. Mais nous, nous sommes restés plusieurs semaines, par exemple, sur
+l’événement non pas chez Braudel, mais par exemple, sur l’événement chez Whitehead, [16 :00]
+et Whitehead nous disait : faites attention, vous vous rappelez, un événement, ce n’est pas
+quelqu’un qui se fait écraser. C’est ça aussi, mais dix minutes passées dans cette pièce, c’est un
+événement, même s’il ne se passe absolument rien. C’est un événement. C’est un événement. Le
+passage de la Nature, comme il dit, dans un lieu, c’est un événement, c’est un événement. La vie
+de la Grande Pyramide pendant deux minutes, c’est un événement.
+
+Alors, bon, quand on a analysé… et c’est pour ça que je n’éprouve pas le besoin de revenir à
+Whitehead puisqu’on l’a fait. On a analysé toute l’épaisseur d’explication et de définition que
+Whitehead nous proposait de l’événement, depuis les séries convergentes qui impliquaient,
+[17 :00] les préhensions, les préhensions de préhensions, etc. Si on se mettait à Braudel, je pense
+qu’on aurait d’autres définitions, d’autres valeurs de l’événement. A mon avis elles auraient des
+points de rencontre très, très importants. Alors, je dis, en tout cas, il ne faut pas trop prendre un
+historien nous parlant de l’événement dans l’histoire puisque nous on s’occupe aussi bien de
+l’événement partout, un événement ici, quelqu’un allume une cigarette, c’est un événement. S’il
+y a le feu, c’est un événement, [Rires] mais il y a des événements vraiment qui sont de tous
+courants.
+
+Alors, moi, ce que je veux dire, c’est, une fois que j’ai dit qu’on peut se demander là-dessus, ah
+bon, est-ce que ça colle à Braudel, et dans quelle mesure est-ce que ça colle, par exemple, à ce
+que dit Braudel ? [18 :00] Moi j’ai le sentiment que l’événement est double, que c’est une
+bifurcation, que tout événement est bifurquant. Pourquoi ? Parce que d’abord tout événement se
+précède, tout comme il survient lui-même, c’est pour ça que je disais : ne jugez pas tout trop vite,
+d’une continuité ou d’une discontinuité. On sait qu’un événement risque bien de se précéder et
+de se suivre lui-même. [Interruption de l’enregistrement ; texte de Web Deleuze] [18 :32] Mais,
+en tant qu’il se précède et se suit, c’est… Leibniz : la perception du bâton précède le coup, mais
+la perception du bâton, l’homme méchant qui s’approchait derrière le chien, c’était déjà un
+événement. [Retour à l’enregistrement]
+
+Partie 2
+
+Tout événement se précède, tout événement se suit lui-même. [Pause] D’une certaine manière,
+on pourrait dire : tout événement m’attend! Et c’est déjà ça. Ce qui m’intéresse, c’est une morale
+de l’événement, parce que [19 :00] je crois qu’il n’y a pas d’autre morale que celle de la nature
+
+                                                                                                     5
+
+des gens par rapport à ce qu’il leur arrive. La morale, ce n’est jamais : qu’est-ce qu’il faut faire ?
+C’est : comment supportes-tu ce qui t’arrive, que ce soit en bien ou en mal ?
+
+Un des plus grands moralistes de l’événement c’est le poète Joë Bousquet. Bousquet avait eu une
+blessure affreuse qui l’avait rendu paralysé, et entre autres, tout ce qu’il a essayé de dire et
+d’expliquer, c’est d’une certaine manière : cet événement, j’étais fait pour l’incarner. C’est àdire, à partir de là son problème, c’était, d’une certaine manière, être digne [20 :00] de
+l’événement. Vous sentez bien qu’il y a des gens qui sont indignes de l’événement aussi bien en
+bonheur qu’en malheur. Être digne d’un événement si petit qu’il soit, c’est pour ça que c’est une
+morale très concrète. Ça ne veut pas dire être grave, sûrement pas, ce n’est pas ça, mais il y a des
+gens qui font notre souffrance, pourquoi ? Parce que, en quelque sorte, ils médiocrisent tout, et le
+bien qui leur arrive, et le mal qui leur arrive. Vous sentez bien qu’il y a une certaine manière de
+vivre l’événement en étant digne de ce qui nous arrive en bien ou en mal. Je dirais que ça c’est
+l’aspect par lequel tout événement s’adresse [21 :00] à mon âme. [Pause]
+
+Qu’est-ce qui rend les gémissants tellement durs à fréquenter ? Ils ne sont pas dignes de ce qui
+leur arrive. Vous me direz : ce qui leur arrive… A moins que j’en dis trop déjà en disant que les
+gémissants ne sont pas dignes de ce qui leur arrive, car il y a des gémissants qui ont du génie. Et
+plus… -- Je voudrais presque que ce soit comme ça tout le temps, je ne peux pas avancer dans
+une phrase sans devoir la retirer -- Il y a des gémissants qui sont dignes de ce qui arrive, c’est
+même ceux-là qu’on appelle des prophètes, [22 :00] le prophète dans son gémissement
+fondamental. Il y en a qui portent le gémissement à un tel niveau de poésie, d’élégie, élégie ça
+veut dire la plainte. Il y en a qui se plaignent avec une telle noblesse. Pensez à Job ; la plainte de
+Job est digne de l’événement. Bon, donc je ne peux même pas dire. Il faut à chaque fois que je
+retire, mais vous corrigez de vous-même. Je dis juste : tout événement s’adresse à l’âme et à
+l’esprit. Alors, je comprends un peu mieux : il y a des événements qui s’adressent tout
+particulièrement à l’âme. Je dirais à la rigueur, d’accord, du coup, je comprends un petit quelque
+chose, qu’on puisse [23 :00] nous dire que se promener est un événement de l’esprit, et qu’on
+puisse compter “je me promène” parmi les prédicats de la monade, oui. Ça va avancer à ça, au
+moins. [Pause]
+
+Si j’essaie de faire de la terminologie, je dirais : ça m’explique au moins un couple de mots que
+Leibniz emploie constamment : virtuel, actuel. Le virtuel et l’actuel. Et on l’a vu, ça. On a vu
+qu’il l’employait en des sens assez différents. [Pause] [24 :00] Premier sens : chaque monade,
+vous ou moi, chaque substance individuelle est dite “actuelle”. Elle exprime la totalité du monde,
+mais ce monde, vous vous rappelez, n’existe pas hors des monades qui l’expriment. En d’autres
+termes, ce monde qui n’existe que dans les monades qui l’expriment est en lui-même “virtuel”.
+Le monde, c’est la série infinie des états d’événements. Je peux dire : [25 :00] l’événement,
+comme virtualité, renvoie à des substances individuelles qui l’expriment. C’est le rapport virtuelactuel. Qu’est-ce qu’il implique, ce rapport ? Quand on a essayé de le définir, on est arrivé à
+l’idée d’une sorte de torsion : à la fois toutes les monades sont pour le monde, mais le monde est
+dans chaque monade, ça nous donnait une sorte de torsion. Et Leibniz emploie extrêmement
+souvent les termes virtuel, actuel. Je dis juste, en quelque sens que ce soit, il nous dira, par
+exemple, que toutes les idées innées, toutes les idées vraies, sont des idées virtuelles, [26 :00]
+qu’elles sont virtuelles. Il emploiera virtuel dans d’autres cas, mais à mon avis, toujours en
+rapport avec l’actuel, et pour désigner le rapport d’un type d’événement avec l’âme. Or rien, rien
+
+                                                                                                          6
+
+ne peut nous retirer de l’idée que ce n’est pas encore suffisant, et que si profond que soit
+l’événement, dans la mesure où il s’exprime dans l’âme, il lui manquera quelque chose toujours
+si aussi il ne se réalise pas dans les corps, et qu’il faut qu’il aille jusque-là. Il faut qu’il s’inscrive
+dans une chair. [27 :00] Il faut qu’il se réalise dans un corps. Il faut qu’il se marque dans une
+matière. Et cette fois-ci, ce serait autre chose.
+
+Si je cherchais un couple, il faut que l’événement non seulement s’actualise dans une âme, mais
+il faut qu’il se réalise dans une matière, dans un corps. Je dirais : là, ce n’est plus exactement
+virtuel-actuel, c’est réel… Non, c’est plutôt possible-réel. C’est possible-réel. [Pause] [28 :00]
+L’événement resterait éternellement un pur possible s’il ne se réalisait pas dans le corps. Il
+resterait un pur virtuel s’il ne s’actualisait pas, s’il ne s’exprimait pas dans une âme. Il resterait
+un pur possible s’il ne passait pas dans un corps. Pourquoi je dis ça ? Mais parce que chez
+Leibniz, les deux couples fonctionnent : possible-réel, virtuel-actuel. Or c’est un grave danger, il
+me semble, parce que beaucoup de commentateurs ne font pas de différence entre ces deux axes.
+[Pause] [29 :00] Il y a une différence fondamentale.
+
+Dans les lettres au président Des Bosses dont je vous ai déjà parlé, dans les lettre au président
+Des Bosses – oui, c’est Des [Bosses] – apparaît tout à fait à la fin de la vie de Leibniz, apparaît
+une série d’expressions très curieuse. Les lettres sont écrites en latin. Apparaît à peu près toutes
+les trois pages, donc avec une très grande fréquence, le terme “realisere”, ou, au participe
+“realisans”, [Pause] et il demande : qu’est-ce qui est capable de réaliser les phénomènes, [Pause]
+[30 :00] ou quel est le "realisans" ? Je cite [Pause] : “Les monades influent sur ce réalisant mais
+lui ne changera rien à leurs lois ”. Peu importe qui est ce réalisant ; ce qui importe c’est qu’il ne
+se confond pas avec les monades. [Pause] [31 :00] Autre texte : ”Je vois mal comment on
+pourrait expliquer la chose à partir des monades et des phénomènes, il faut ajouter quelque chose
+qui les réalise ”, quelque chose qui réalise les phénomènes et des monades, il faut ajouter
+quelque chose qui les réalise.
+
+Qu’est-ce qui m’intéresse ça, comprenez ? Qu’est-ce qui est réel ? Ce qui est réel, ce n’est pas la
+matière, sinon ce serait elle qui serait réalisante, ce n’est évidemment pas la matière. Ce n’est pas
+le corps, ce n’est pas le corps non plus. Bien plus, la matière, le corps, c’est ce qui seront réalisés
+par le réalisant. [Pause] [32 :00] Le réalisant, on le verra ou on essayera de voir, a un rapport
+étroit avec non pas le corps en général, mais avec le corps vivant, avec le vivant. [Pause] Il ne
+faut pas seulement, et ça, ça me paraît une idée très profonde dans une philosophie de
+l’événement comme celle de Leibniz, et ça engage toute sa morale aussi. [33 :00] il n’arrive pas
+seulement que l’événement s’actualise dans la monade, il faut qu’il se réalise dans le corps vécu,
+et en ce sens, il faut qu’il y ait un réalisant, tout comme il y a un actualisant. L’actualisant, c’est
+la monade elle-même. Il faudra un réalisant qui réalise l’événement dans la matière, ou qui
+réalise l’événement dans le corps, exactement comme il y a – pas exactement comme, mais
+comme il y a [Pause] [34 :00] comme il y a un actualisant qui… [Deleuze ne termine pas la
+phrase].
+
+Si bien que je reviens, comme quelqu’un me l’avait demandé la dernière fois, je reviens à un
+point de départ quand je disais : vous voyez, le Baroque, ce n’est pas, pas tellement, [Pause] ça
+ne devrait pas être tellement difficile de le définir. Et je vous disais : le Baroque, c’est la maison
+à deux étages, et il faut qu’il y ait deux étages. Et l’un des deux étages renvoie aux replis de la
+
+                                                                                                     7
+
+matière, et l’étage du dessus renvoie aux plis dans l’âme. Il y a des plis dans l’âme tout comme il
+y a des replis de la matière. C’est sans doute une espèce [35 :00] d’étrange circuit d’un étage à
+l’autre qui va constituer le monde baroque. Sentez que, maintenant là, on tient une raison, du
+moins au niveau de Leibniz, on tient une raison leibnizienne concernant ces deux étages. La
+raison leibnizienne, c’est l’événement. C’est l’événement qui implique ces deux étages. Il doit
+s’actualiser dans la monade, oui, mais aussi il doit s’inscrire dans un corps vécu. [Pause] [36 :00]
+Quand l‘événement s’actualise dans la monade, il fait des plis dans l’âme, [Pause] mais il faut le
+vivre, c’est l’âme là, c’est votre âme qui se plisse. Et quand l’événement s’inscrit dans votre
+corps vécu, il fait des replis, il fait des replis dans la matière, dans la matière vivante.
+
+Alors qu’est-ce qui se passe ? Je voudrais que vous sentiez, oui, on avance un peu dans la raison
+: pourquoi est-ce que la monade a tellement besoin d’un corps ? Pourquoi est-ce que Leibniz
+n’est pas Berkeleyen ? Pourquoi est-ce qu’on ne peut pas [37 :00] se contenter du fameux : Esse
+est percepi, c’est-à-dire : tout ce qui est dans la monade, finalement, sera perçu par la monade, et
+un point, c’est tout ? Je crois que la raison la plus profonde est précisément contenue dans
+l’événement, [Pause] que l’événement ne peut pas s’inscrire dans l’âme, sans en même temps
+réclamer [Pause] un corps dans lequel il se trace. [Pause]
+
+Et voilà que [38 :00] je tombe sur un texte auquel je ne pensais plus. Je pensais à tout ça là, et
+puis je me dis que ça me rappelle quelque chose. On procède beaucoup comme ça, comme si
+j’avais déjà lu ça. Et je me suis dit, il faut… et je me suis rappelé un livre très curieux de Husserl.
+Et ce livre de Husserl s’appelle Méditations cartésiennes. [Voir Le Pli, p. 143, où Deleuze
+considère ce texte de Husserl] C’est un livre qui a eu comme point de départ la venue de Husserl
+en France, avant la guerre, et il a fait un certain nombre de conférences en allemand, mais en
+France, qui ont été prises, qui ont été traduites [39 :00] sous le titre Méditations cartésiennes. Le
+titre faisait hommage à la France. Très bizarrement, Husserl invoque au début Descartes, mais
+plus ça avance, plus il invoque non pas Leibniz, mais les monades, et c’est un terme si bizarre
+alors sous la plume de Husserl qu’on se dit : mais qu’est-ce qui se passe ? [Pause]
+
+Et c’est surtout dans la cinquième méditation, dans la dernière donc, dans la cinquième
+méditation où Husserl va… [40 :00] Mais je vous raconte ça un peu très inexactement, allez voir
+ça vous-même ; le texte n’est pas très difficile. Pour une fois c’est du Husserl pas trop difficile.
+Husserl nous dit : appelons monade -- sans même se référer à Leibniz -- l’ego, mettons “le moi”,
+avec ses appartenances. La notion d’appartenance, on voit ce qu’il veut dire. Par exemple : “je
+perçois la table”, c’est une appartenance de l’ego. Ça va. J’ai l’habitude de percevoir la table ;
+c’est une appartenance de l’ego. On voit ce qu’il veut dire. Mais c’est déjà assez intéressant
+puisque -- je parle pour ceux qui connaissent un minimum, mais la plupart d’entre vous, [41 :00]
+de phénoménologie -- les intentionnalités, les consciences de quelque chose sont des
+appartenances de l’ego. [Pause] Et, dans un texte très curieux, Husserl va tellement loin qu’il dit:
+ce sont des transcendances immanentes. Les intentionnalités sont des transcendances,
+transcendances de la conscience vers la chose, mais ce sont des transcendances immanentes
+puisque ces intentionnalités sont immanentes à la monade. La monade, c’est l’ego saisi avec
+toutes ses appartenances. [42 :00] Or toutes les intentionnalités sont des appartenances. Vous
+voyez !
+
+                                                                                                      8
+
+Et voilà qu’il pose une étrange question, Husserl, il dit : comment va-t-on passer de la
+transcendance immanente à la transcendance objective ? [Pause] C’est-à-dire : est-ce qu’il y a
+moyen, pour la monade, en quelque sorte, de sortir d’elle-même ? Vous vous rappelez, eh, le sort
+de la monade ? On est en plein de quelque chose de tellement important [43 :00] pour Leibniz,
+sans porte ni fenêtre. [Il n’est] pas question qu’elle sorte d’elle-même, à première vue, pas
+question. Comment sortirait-on de soi-même si on n’a ni porte ni fenêtre ? [Pause]
+
+Et voilà que Husserl raconte une histoire, et dit : c’est curieux parce que, l’ego dans ses
+appartenances, c’est-à-dire la monade, saisi parmi ses appartenances une appartenance très
+particulière. C’est quelque chose qu’elle identifie comme l’autre, [Pause] [44 :00] c’est-à-dire
+qu’elle identifie comme un corps vécu, le corps vécu de l’autre. [Pause] Ça, c’est une
+intentionnalité très curieuse ; c’est une intentionnalité spéciale. Pourquoi ? Parce que c’est une
+intentionnalité vide. Les intentionnalités vides, j’en ai beaucoup. Par exemple, je regarde ce truclà, cet appareil, mais j’ai une intentionnalité vide. C’est la face que je ne vois pas. Seulement,
+voilà, c’est une intentionnalité vide, mais il suffit que je fasse l’effort, si ça m’intéresse, elle se
+remplira. Donc ça va. Tandis que, lorsque, [Pause] [45 :00] dans mes appartenances, je rencontre
+un de vous, c’est une intentionnalité vide ; [Interruption de la transcription WebDeleuze ; texte
+de l’enregistrement BNF & YouTube] en quel sens ? En ce sens que, quoique je fasse, je ne serai
+pas à votre place et que vous serez vous-même. Je découvre, si vous voulez, dans les
+appartenances de ma monade quelque chose, un corps vécu, qui ne peut renvoyer qu’à une autre
+monade. Vous voyez ?
+
+Et peut-être est-ce que si vous vous rappelez L’Être et le Néant, vous vous rappelez, une très
+belle page de Sartre où l’on voit bien que Sartre s’est inspiré complètement de Husserl et de
+[46 :00] ce texte précis de Husserl, tout en lui donnant un air, et pas seulement un air, tout en le
+redoublant. C’est lorsque Sartre s’imagine ou se voit dans un jardin public, il regarde les fleurs, il
+regarde les fleurs, et puis il voit quelqu’un là qui les regarde en même temps. Et il explique dans
+une belle page que c’est comme si tout son monde qui fuyait, alors comme il aime les
+métaphores misérabilistes, qui fuyait par un trou d’égout. Vous voyez ? Il était centré sur son
+monde, tout ça, et puis il voit le voisin qui regarde la même chose. [Retour à la transcription
+WebDeleuze] C’est comme si tout son monde s’écoulait, s’écoulait dans le sens de l’autre. Il
+n’est plus le centre de son monde. [47 :00]
+
+Qu’est-ce qui m’intéresse là-dedans ? Dans les deux cas, le corps, le corps vivant [Pause] est
+vraiment comme l’espèce de ligne qui fait passer d’un domaine à l’autre. [Pause] Est-ce qu’on
+pourrait dire, mais, que le père de tout ça, c’est Leibniz ? Hélas, non ! Hélas, non ! Mais je ne
+suis pas sûr que ce ne soit pas lui qui ait raison. Pour que vous ayez [48 :00] tous les éléments du
+problème en main, ce que je crois c’est que, en revanche, Leibniz nous dirait très bien quelque
+chose du type : oui, dans les appartenances de la monade, il y a quand même quelque chose qui
+est curieux, c’est que jamais, jamais on ne pourrait sortir. Et je crois… -- Là il me faudrait les
+textes, il faudrait très longtemps ; c’est juste une indication que je donne. -- Je crois qu’on
+trouverait des textes n’allant pas jusqu’à dire -- je ne lui fais pas le dire -- mais tournant autour
+de l’idée suivante : il n’y aurait que les monades s’il n’y avait pas des animaux, s’il n’y avait pas
+des vivants. C’est le vitalisme qui le sort du spiritualisme. [Pause] [49 :00]
+
+                                                                                                      9
+
+C’est pour ça que je vous disais – et je rejoins la question de Richard [Voir ci-dessus la question
+au début de cette séance] -- c’est pour ça que je vous disais que, à mon avis, c’est l’inventeur de
+la psychologie animale : il a besoin des animaux. Et souvent, il le dit explicitement. Il dit
+explicitement : ceux qui croient qu’il n’y a que les monades et que ce qui est inhérent aux
+monades, et ce qui est inclus dans les monades, ne peuvent croire qu’à des âmes humaines. C’est
+finalement les bêtes qui, d’une certaine manière, vont nous forcer à convenir qu’il y a des corps.
+[Pause] Lui il ne dirait pas, comme Husserl, il ne dirait pas [50 :00] que c’est l’existence
+d’autrui, pour une simple raison, c’est, on le verra, c’est que dans les monades fermées, il n’y a
+pas de rencontre avec autrui. Il faut l’expliquer, la rencontre avec autrui. Déjà elle ne peut se
+faire qu’en dehors des monades. Il ne peut pas se le donner. D’ailleurs je ne suis même pas sûr
+que, dans les Méditations cartésiennes, Husserl puisse se donner la rencontre avec…, il ne dit
+pas la rencontre avec autrui, mais la rencontre avec le corps vécu d’autrui. Il me semble que ça
+excède le pouvoir des perceptions contenues dans les monades. Donc, il ne peut pas se le donner,
+ou du moins il faudrait une genèse. Comme il parle dans le texte, il est très beau, pour ceux que
+ça intéresse, ce texte, comme il parle d’une genèse, il dit bien : il s’agit de faire une genèse dans
+cette cinquième méditation. [51 :00] Je crois qu’il n’a pas encore assez de données pour faire une
+genèse du corps vécu.
+
+Mais voyez pourquoi je traîne là-dessus. Je voudrais vous faire sentir quelque chose : c’est que
+toute morale de l’événement a ces deux coordonnées : soit digne de ce qui t’arrive, d’une part, et
+d’autre part : sache l’inscrire dans ta chair. [Pause] Il ne faut pas, il ne faut pas… [Pause] Il faut
+même parfois, il faut parfois que tout agisse. Qu’est-ce que c’est que les civilisations ? Chaque
+civilisation nous propose des manières [52 :00] d’inscrire dans la chair ; chaque civilisation nous
+propose des manières d’être digne ou pas. Alors, c’est très compliqué.
+
+Prenez un cas qui me fascine : le bouffon. Le bouffon c’est un personnage fondamental. On a fait
+beaucoup d’études sur le bouffon. Très intéressant, le bouffon. A première vue, prenez le
+bouffon russe, ou bien le bouffon anglais. Je veux dire que vous pouvez aller de Shakespeare à
+Dostoïevski, et j’en oublie. Le bouffon, à première vue, c’est celui qui, chaque fois qu’il lui
+arrive quelque chose, il en est indigne, il fait exprès d’en être indigne, et puis [53 :00] il évite de
+l’inscrire dans sa chair, il fuit de tous les côtés. Et puis, d’une manière plus complexe, on
+apprend toujours que c’était le bouffon qui était le seul à inscrire dans sa chair et à être digne de
+ce qui arrivait. Il y a toutes sortes d’histoires là.
+
+Mais enfin, je dis, voyez, on pourrait alors… [Deleuze va au tableau] On va comme ça alors.
+[Voir une version du dessin qui suit dans Le Pli, p. 140] Voyez, on ferait une ligne qui
+commencerait par être droite, horizontale, voyez ? Et puis on la ferait bifurquer en deux, comme
+ça, comme une petite branche, voyez ? Alors, on mettrait [54 :00] “événement” sur la ligne
+droite. Puis, sur la bifurcation, la bifurcation d’en haut on mettrait “virtuel”. Bon, je veux bien le
+faire, mais non, c’est clair, eh ? On mettrait "virtuel". Sur la bifurcation du bas, qu’est-ce qu’on
+mettrait ? On mettrait “possible”, et puis là on mettrait une grosse bulle avec écrit : “actuel”, ce
+serait la monade. La monade inclut le monde virtuel, [55 :00] elle l’actualise, elle est actuelle. De
+l’autre côté donc, on mettrait “possible”, et on ne mettrait pas là une bulle, on va voir ce qu’il
+faudrait mettre… on mettrait des trucs, [Rires] et cette fois, ce serait : “réel”, avec une erreur
+qu’il ne faudrait pas faire : ça aurait l’air de dire que c’est la matière qui est réelle. Non, ce n’est
+pas la matière qui est réelle, mais la matière acquiert la réalité qu’elle peut, ou qui lui correspond,
+
+                                                                                                     10
+
+lorsque un réalisant, dont nous savons d’avance qu’il concerne le corps vécu, [Pause] incarne
+dans la matière ; [56 :00] la matière prend de la réalité quand elle incarne l’événement. Je ne
+peux pas le dire mieux, donc. Bon, ça va. [Pause] Vous voyez ?
+
+J’ai le sentiment que chez Leibniz, ces aspects, c’est pour ça qu’il y a deux étages, c’est pour ça
+qu’il y a deux étages. Les deux étages, c’est le circuit de l’événement, et pourtant vous sentez
+d’avance qu’il n’y aura jamais le moindre rapport direct entre l’âme et le corps. Les deux étages
+resteront toujours séparés. [57 :00] Simplement je dis : le réalisant, ce sera peut-être ce qui fait
+passer de l’un à l’autre, ce qui fait passer de l’un à l’autre l’aspect de l’événement. Le réalisant,
+encore une fois, c’est une notion qui n’apparaît que tout à fait à la fin de Leibniz, dans ses
+dernières années. Avant, il se contente d’invoquer, comment dirais-je, une correspondance entre
+les deux étages, l’étage du dessus et l’étage du dessous. Tout à fait à la fin, il arrive à quelque
+chose de plus profond : il ne suffit pas que l’événement s’actualise dans les monades, il faut qu’il
+se réalise dans le corps. [58 :00] Ça n’y est pas encore dans sa philosophie précédente, il y a
+correspondance entre les deux, et ce qui réalise dans le corps c’est un réalisant qui va expliquer
+le rapport de la monade et du corps vécu. [Pause]
+
+Si bien qu’alors, à la fin, tout à fait, de Leibniz, nous aurions trois aspects : l’âme et les plis dans
+l’âme. Les plis dans l’âme, ce sont les événements qui s’expriment dans l’âme, l’âme et les plis
+dans l’âme. La matière et les replis de la matière, [Pause] [59 :00] ce dans quoi l’événement se
+réalise. Et entre les deux, assurant la réalisation, le realisans qui ne peut plus être ni monade, ni
+corps vécu, mais qui ne peut être qu’une chose, ce qui rapporte le corps vécu à la monade. Ce
+sera le rapport des plis dans l’âme aux replis de la matière, et cela répondra au nom latin : le
+vinculum substantialae. Le vinculum, qu’est-ce que c’est le vinculum? C’est la chaîne, [60 :00]
+c’est le nœud, c’est la chaîne. Qu’est-ce que c’est que cette chaîne? Est-ce qu’il fallait une chaîne
+là, est-ce qu’il fallait une chaîne pour que les deux sortes de plis se correspondent ? Pourquoi
+cette chaîne au dernier moment ? Est-ce que c’est elle qui va décider des textures de la matière,
+mais aussi des qualités de l’âme ? On va être lancé dans toute une philosophie qui va nous
+confirmer donc que, non seulement il y avait des plis dans l’âme, des replis de la matière, mais il
+faut faire intervenir un vinculum qui, si c’était possible, coudrait les uns aux autres. Il ne coud
+pas les uns aux autres, en fait, mais [61 :00] il coud singulièrement un corps vécu, un corps
+vivant, qui est le corps de la monade. C’est tout ça qu’il faut voir d’un peu plus près.
+
+Mais je dis, ce n’est pas pour que vous le compreniez, parce que si je m’étais adressé à votre
+compréhension, je crois que ce serait très obscur, c’est pour que vous sentiez quelque chose. Je
+crois que là Leibniz nous fait sentir quelque chose et qu’il fallait bien que j’essaie aussi de vous
+faire sentir : c’est une conception de l’événement. C’est comme si je vous disais, ben oui, un
+événement, qu’est-ce que vous voulez que ce soit sinon quelque chose qui nous fait nous tenir
+droit, ou bien qui nous fait nous coucher ? [62 :00] Quelque chose qui fait appel à une dignité, et
+qui n’a rien à voir avec “soyons digne à cause des autres, quelqu’un nous regarde”. Et c’est aussi
+quelque chose qui fait une plaie – mais une plaie, j’ai tort de dire une plaie, c’est même
+grotesque – ou [quelque chose] qui gratte. Il y des chatouillements d’événements, c’est peut-être
+les meilleurs. Il y a tout ça : que ça concerne ton corps sous cette forme-là ! Et que ça concerne
+ton âme sous cette forme-là !
+
+                                                                                                   11
+
+Et c’est très difficile. Je veux dire, tout a toujours son petit frère comme contresens abominable.
+"Sois digne de l’événement", mais, ça peut être une phrase odieuse. C’est que justement c’est sur
+le mot “ digne ” qu’il faudrait s’entendre. Je suppose que [63 :00] quelqu’un vient de faire une
+perte importante, non pas une perte d’argent, mais une perte humaine très importante. Vous lui
+tapez dans le dos, et vous lui dites : “Sois digne de l’événement”. Il n’a plus qu’à me flanquer
+une paire de gifles, j’espère. Qu’est-ce que c’est que cette dignité ? Là, je ne peux pas en dire
+plus, c’est à chacun de vous de [répondre] si vous posez le problème comme ça. Il faut bien aussi
+se gratter le corps. Se gratter, c’est quoi : il faut être un pouilleux de l’événement. [Rires] Se
+gratter, comment ? Il y a aussi des manières immondes de se gratter : “Moi, le plus malheureux."
+Et tous les matins, tous les matins je me referais mon [64 :00] grattage, "moi le plus malheureux
+!”. Et puis, il y a, en effet, des manières immondes de se gratter. C’est tout à fait autre chose, je
+ne suis pas le plus malheureux. Mais, enfin, il n’y a pas de recette, il n’y a vraiment pas de
+recettes. Alors je vous dis, bon, ça c’est un point.
+
+Il n’y a rien à… ? Pas de réactions, pas de… ? Ce n’est pas que j’en réclame du tout. Pas de
+réactions ? Vous sentez où je veux en venir, c’est très bien ! Avoir un corps vécu, avoir un corps
+vivant. Bon. Etre une monade, avoir un corps vivant : voilà que être une monade n’est plus que
+la moitié de nous-mêmes : il faut bien que nous ayons un corps vivant ! [Pause] [65 :00] Oui ?
+[Interruption de l’enregistrement ; texte de WebDeleuze] [1 :05 :01]
+
+Georges Comtesse : Je me souviens d’un texte de Leibniz où il parlait de ce que tu avançais, le
+vinculum. Il prend l’exemple de l’audition, à partir d’une source sonore, de l’audition d’un écho.
+[Retour à l’enregistrement]
+
+Partie 3
+
+Deleuze : Car enfin, il est … C’est très curieux parce que, à mon avis il y a deux textes. Le
+vinculum, c’est un terme tardif chez Leibniz. Donc, tu ne le trouves que dans les textes tout à fait
+finaux, et notamment, à mon avis, je ne suis même pas sûr qu’il existe ailleurs que dans la
+correspondance avec Des Bosses. Ça c’est un point. Mais deuxième point, il y a dans les Lettres
+à Arnauld, beaucoup plus avant, il y avait dans les lettres à Arnaud, il y a un texte extraordinaire
+où il imagine les conditions d’un orchestre dont les différentes parties ne se verraient pas et où --
+il n’emploie pas le mot de vinculum, puisqu’il ne le connaît pas, enfin, il ne s’en sert pas pour
+son compte -- et il emploie déjà le mot “écho”. [66 :00] Là où ta mémoire est parfaitement fidèle,
+mais ça, on le doit en grande partie, à ma connaissance, -- parce que le texte dans la
+correspondance à Des Bosses, quand il dit que le vinculum est un écho, c’est des textes alors
+d’une très, très grande difficulté, -- et à ma connaissance, c’est [Yvon] Belaval qui a su les
+commenter de telle manière que nous n’éprouvions aucune difficulté -- et tu as très bien retenu,
+c’est très fidèle ce que tu dis, je veux dire fidèle à Leibniz, mais c’est conforme à l’interprétation
+de [Belaval].
+
+C’est évident ce que tu dis même. Suppose -- je simplifie énormément – suppose quatre sources
+sonores. Assimilez-les à des monades. Bon, [67 :00] Elles sont quatre. Mettons quatre notes ; des
+notes, ce sont des perceptions, vous pouvez les assimiler à des monades. Qu’est-ce que c’est, un
+écho ? C’est ça qui est épatant dans un écho, c’est qu’il est second, il suppose les sources
+sonores. Seulement quel est le miracle de l’écho ? Comme l’a dit Comtesse, il implique,
+
+                                                                                                  12
+
+supposons, une paroi. Quel est l’effet de la paroi ? Il va constituer l’unité par écho des quatre
+sources. [68 :00] Elles n’avaient pas d’unité. Vous me direz : elle pouvait avoir des unités si
+c’était quatre notes extraites de telle musique, c’était quatre notes. Le miracle de l’écho, c’est,
+nous dira Leibniz, c’est d’introduire une unité seconde. Mais cette unité seconde, elle va être
+essentielle puisque c’est comme ça qu’il va expliquer le vinculum, qu’il va expliquer cette espèce
+de couture du corps vivant. La couture du corps vivant, ce sera un écho. Et vous voyez pourquoi
+il aura besoin de ça. Qu’est-ce qui fait l’unité du corps vécu, du corps vivant ? Là du coup, il me
+force à aller plus vite, mais plus vite qu’on ira, mieux que ce sera. [Pause] [69 :00]
+
+Qu’est-ce qui peut faire l’unité du corps vivant ? Les monades, c’est des esprits ; elles sont sans
+porte ni fenêtre, elles sont une par une. Il n’y a pas de monade des monades, voyez ? [Pause] Il
+faut bien qu’il y ait quelque chose d’équivalent à la paroi pour que d’une pluralité, d’une
+multiplicité de monades, découle une unité, une unité seconde. L’unité du corps vécu ce sera
+celle du vinculum, [70 :00] c’est-à-dire de la paroi. Vous me direz, d’où ça vient cette paroi,
+qu’est-ce que c’est que cette paroi ? On verra. C’est une unité seconde, c’est une unité de
+couture, et c’est ça qui va être constitutif du corps vécu. Le corps vécu, sinon, il n’y aurait pas
+d’unité, il n’y aurait pas de corps vécu ni vivant. Alors si vous voulez, l’intervention de
+Comtesse est d’autant mieux que ça permet, à ceux qui veulent, de faire l’unité avec cette espèce
+de groupement de problèmes, Leibniz, Husserl et même Sartre, une fois dit que Leibniz, que
+Husserl se réclame explicitement. Ce serait un peu arbitraire s’il n’y avait pas cette invocation
+explicite dans la cinquième méditation. [Pause] [71 :00] Oui, ça va ?
+
+Alors, nous, on se dit, il faut une genèse, ben oui. Vous voyez notre problème : il faut une
+genèse. Ce à quoi je tiens finalement -- quel dommage qu’on ne termine pas là-dessus parce que
+je ne tenais pas à autre chose -- c’est ces deux aspects de l’événement. [Pause] A ce moment-là,
+il y aurait des épreuves pratiques, épreuves pratiques ! Leçons de chose, interrogation écrite. Estce qu’il y a [Pause] du virtuel réel ? Deuxième question : est-ce qu’il y a de l’actuel possible ?
+[72 :00]
+
+C’est très fâcheux. Regardez si vous lisez des commentateurs de Leibniz, c’est très fâcheux :
+possible, virtuel actuel, réel, ils emploient ça n’importe comment, je crois, enfin, pas tous. C’est
+très embêtant si on emploie ça n’importe comment. Encore une fois, vous avez vos deux lignes
+très différentes. C’est comme si on confondait les deux étages. [Pause] Du possible se réalise,
+mais c’est toujours, quand du possible se réalise chez Leibniz, regardez le contexte. Evidemment
+vous trouverez toujours des exemples qui ne vont pas dans ce sens, mais ça ne fait rien. Quand
+du possible se réalise, c’est toujours dans du monde de la matière, du corps. [Pause] Quand du
+virtuel s’actualise, c’est toujours dans une âme. [Pause] [73 :00]
+
+Alors maintenant, on tient bien les deux étages et on dirait qu’il faut une couture entre les deux,
+un nœud, un vinculum pour que quoi ? A votre choix ! Pour que l’étage dans dessous existe. Pour
+que l’étage dans dessous existant ait un rapport quelconque avec l’étage du dessus. Enfin il y
+aura beaucoup de réponses.
+
+En un sens, cela nous donnerait une terminaison. Je vous disais, au début de l’année, je vous
+disais : oui, vous savez, le Baroque, [74 :00] on va faire comme si on tenait une définition, et
+puis on verra bien, on verra bien où ça nous mène. Et je vous disais que le Baroque, ce n’est pas
+
+                                                                                                      13
+
+faire des plis, parce que des plis, tout le monde en a toujours fait. C’est que les plis aillent à
+l’infini. Et là-dessus, ce qui est bien sinon rien ne vaut, moi j’étais, j’étais un peu, comment le
+dire, on ne peut pas faire quoique ce soit quand on est trop complètement sûr de soi. Donc je
+n’étais pas sûr que ça marcherait jusqu’au bout.
+
+Et puis, vraiment, je tombe il y a quelques jours sur des catalogues du Greco. C’est effarant.
+C’est effarant. C’est effarant. Ce n’est pas seulement effarant par la beauté, mais qu’est-ce que
+c’est que cette beauté du Greco ? Alors, bien sûr, tout ne vaut pas ; bien sûr, [75 :00] tous les
+tableaux n’ont pas cette formule-là. Il a fait – bon, je ne peux pas le situer – il a fait sept ou huit
+"Christ au jardin des oliviers". Il y en a un qui est en Angleterre, à Londres et qui est tellement
+bizarre, car, et je le cite là car c’est l’épreuve de notre hypothèse : tout y est plis, il n’y a que des
+plis, il n’y a que ça ! Et les plis sont distribués sur trois registres : [Pause] plis du tissu, et ce
+n’est pas au sens où tout tissu alors fait des plis ! Si vous voyez une reproduction de ce tableau,
+c’est la tunique [76 :00] du Christ alors où les plis sont tellement travaillés, tellement replis
+renvoyant les uns aux autres. C’est une étude de plis fantastique. Plis des rochers, le rocher est en
+peinture peut-être ce qui se plie autant que l’étoffe. Le plissement de rocher ! Et il y ajoute alors
+un traitement des nuages qui est un véritable pli, plissement de nuages. Il y a volontairement une
+manière de traiter les nuages, tout comme il traitait les rochers sous une certaine forme, et il y a
+dans tout le tableau cette circulation des trois sortes de plis qui se renvoie vraiment à l’infini.
+
+Maintenant qu’on touche au bout, je vous dirais : bien oui, qu’est-ce qu’on a fait ? C’est cette
+histoire des plis [77 :00] dans l’âme. Encore une fois, les plis dans l’âme, ça vient de ce que
+l’événement est inclus dans la monade. [Pause] Et puis il y a les replis de la matière. Et entre les
+deux, qu’est-ce qu’il y a ? Il y a cette couture, il y a ce vinculum substantialae qui surgit là, si
+peu de temps avant sa mort, et qui va conférer alors… -- du coup, je me demande si j’arrêterais
+aussi vite que je pensais…, enfin, peu importe -- qui va conférer à la matière des textures,
+[78 :00] car il faudra bien s’occuper un jour – nous, je veux dire ; il y a des gens qui s’en sont
+très bien occupé -- des textures de la matière. Il emploie le mot, Leibniz, il emplois le mot
+“textura”, aussi à la fin de sa vie, Leibniz. Il devait avoir tellement, tellement d’idées. Il y a ces
+textures de la matière, qui normalement devraient faire partie d’une physique de la matière, et
+d’une Esthétique après tout. Une Esthétique des textures, il n’y a pas de notion plus difficile, à
+mon avis. C’est tellement plus beau alors -- ce n’est pas pour attaquer la notion de “structure”,
+mais je me dis, structure, ça fait quand même un certain nombre d’années, ça a duré longtemps,
+on en a beaucoup parlé. Ce n’est pas que ce soit trop mal, on a… très bien. Mais si on se donnait
+un peu une récréation [79 :00] pour aller vers d’autres notions qui, elles, sont restées…
+
+“Texture” est une notion extrêmement difficile à analyser. Je parle pour vous, je dirais qu’à votre
+âge, ou dans vos projets de travail, s’il arrive à certains d’entre vous : voyez la richesse du
+matériau aussi, à propos des textures. Je veux dire, il y a du “matériau industriel”, très bon pour
+le moment, soyez compétitif. Mais un des matériaux qui est le moins étudié et peut-être le plus
+important, c’est la peinture. Les grands peintres de textures, ce n’est pas n’importe qui. Et on
+trouverait que c’est des espèces de baroques modernes. Moi, je ne sais pas moi, il faudrait voir si,
+chez les baroques, chez les grands peintres baroques, il y a déjà ce qu’on peut reconnaître comme
+vraiment des textures radicales. – [Deleuze parle ici à un étudiant particulier] Ça, c’est pour toi,
+si tu peux [80 :00] t’occuper de ça un peu plus que tu en avais fait, puisque tu avais déjà
+commencé à le… -- Moi, je vois trois grands peintres modernes des textures ; ce serait à vous
+
+                                                                                                    14
+
+d’aller voir, et j’en oublie surement. C’est Fautrier, Fautrier ; c’est Dubuffet qui a reconnu sa
+dette justement à l’égard de Fautrier puisque Dubuffet emploie constamment le mot structure ;
+[Pause] et Paul Klee… Klee, Paul Klee. Ce n’est pas quand même par hasard qu’ils aient
+quelque chose en commun, et qu’ils ne sont pas étrangers complètement les uns aux autres.
+
+Alors, je disais ça [Deleuze tousse] parce qu’on se trouve devant… Finalement qu’est-ce qui
+rapporte les plis de l’âme aux replis de la matière et les replis de la matière aux plis de l’âme ?
+[81 :00] Ça m’embête en même temps parce qu’on avait parié que tout ça tiendrait sans couture.
+[Rires] Et puis, voilà qu’il a peut-être eu besoin d’une couture, la couture passant par le corps
+vivant, sans quoi le corps inorganique ne serait pas un corps réel, serait purement imaginaire, et
+sans quoi, la monade, fermée sur elle-même, etc., ne pourrait renvoyer à rien d’autre. [Pause]
+Repos, eh ? Cinq minutes de repos ? [82 :00] Mais alors je vous en supplie, alors vous ne
+revenez pas dans un quart d’heure. [Pause dans la séance] [1 :22 :09]
+
+Deleuze : … à notre, à notre exigence de… [Pause] Oui ?
+
+Un étudiant : Sur le Christ. Est-ce que le Christ est une monade qui dit : je suis incarné, moi je
+suis incarné ? Est-ce que ça réalise, d’une certaine manière, l’incarnation d’une monade ? Est-ce
+que le christianisme ou le Christ [83 :00] lui-même serait un événement spécifique ?
+
+Deleuze : Voilà. Ce n’est pas grave, je réponds très vite parce que plus la question est
+fondamentale, plus il faut répondre vite. [Rires] Il ne faut surtout pas dire -- mais ça pas
+d’importance, ce n’était pas dans ton esprit, mais c’était dans ta formulation -- il ne faut surtout
+pas identifier monade et événement. L’événement, c’est ce qui se passe et qui arrive, et la
+monade, c’est ce qui contient ce qui se passe et qui arrive. L’événement, c’est franchir le
+Rubicon, la monade, c’est César. Et c’est surtout, d’une part, distinction monade–événement
+qu’il faut toujours faire. Deuxième point: jamais la monade n’est incarnée. [84 :00] Il n’y a
+aucune incarnation de la monade, pour une raison simple, c’est que la monade se suffit pleine et
+entière sans porte ni fenêtre. Quand on dit, pour aller plus vite, que la monade a un corps, cela
+veut dire que dans le domaine des corps, quelque chose se rapporte à telle monade.
+
+Donc si le Christ est incarné, il est incarné exactement comme toutes les monades sont
+incarnées ; c’est même sans doute le modèle de l’incarnation. Est-ce que le Christ pose des
+problèmes particuliers ? Oui ! Mais bizarrement pas au niveau de l’incarnation, chez Leibniz. Il
+pose des problèmes très particuliers [85 :00] au niveau de la transsubstantiation. Or la
+transsubstantiation n’est pas l’incarnation, c’est la trans-incarnation où le corps et le sang du
+Christ deviennent le pain et le vin. Tu vois ? Il pose donc un problème particulier au sens de
+passage d’un corps à un autre, passage du corps du Christ au corps et pain.
+
+Ceci dit, Leibniz personnellement est protestant et ne croit pas à la transsubstantiation, mais il
+consent à donner une aide au père Des Bosses qui se fait beaucoup de soucis à cet égard, et il lui
+dit – en effet, et c’est un moment assez gai dans la correspondance avec le père Des Bosses –
+[86 :00] si j’étais vous -- moi je n’ai pas ce problème, c’est pas mon affaire --, mais si j’étais
+vous, je dirais des choses comme ceci, comme cela, et il donne de la transsubstantiation une
+interprétation des plus étranges de Leibniz qui doit faire la joie de tous, et qui a dû servir sans
+doute à certains catholiques parce que le père Des Bosses avait l’air content plutôt. En tout cas,
+
+                                                                                                     15
+
+quant au Christ et à l’incarnation, à ma connaissance, il n’a aucune position spéciale, sauf qu’il
+est sûrement l’archétype ou le modèle de l’incarnation.
+
+Alors, je dis, repartons de notre genèse. Mais, vous vous rappelez, j’avais déjà réclamé ça la
+dernière fois : surtout ne l’inversez pas, bien qu’on soit tenté de l’inverser constamment. Vousvous rappelez cette genèse qui consiste, [87 :00] à partir de la monade, la monade contient tout,
+elle exprime le monde entier. Elle exprime l’univers entier. Seulement, attention : elle a une
+petite région privilégiée qu’elle exprime particulièrement ou clairement. On l’a vu. Ça, je dirais,
+c’est la première proposition. Deuxième proposition : donc j’ai un corps. C’est ça qu’il faut
+comprendre. Donc j’ai un corps. [Pause] En effet, ça ne peut pas être autrement. Ce serait plus
+commode, peut-être, de dire : j’ai un corps, donc j’exprime une région privilégiée ! La seule
+chose qui soit sure c’est que la région privilégiée, mon petit département que j’exprime
+clairement, une fois dit que j’exprime le monde entier, mais [88 :00] je l’exprime obscurément et
+confusément.
+
+Sentez déjà tout ce qu’on n’aura pas le temps de faire. Vous pressentez qu’il y a toutes sortes de
+monades chez Leibniz, qu’il y a des statuts de monades très différents. Par exemple, un papillon
+ne renvoie pas à une monade comme vous ou moi. Il y a toute une hiérarchie des monades. Il y a
+une grande hiérarchie des monades. Alors, il faudrait se demander : est-ce qu’il y a des monades
+qui n’expriment rien clairement, qui n’ont pas de région particulière. Là les textes sont très
+difficiles, il faudrait faire des études de près des textes. Leibniz varie suivant les occasions.
+Suivant les occasions, il suggère que certaines monades restent dans la nuit complètement. Il y
+en a d’autres qui, pendant un certain temps, expriment une petite région claire. A mon avis : les
+animaux [89 :00] ont une monade qui exprime une petite région claire, forcément. Par exemple,
+une vache exprime clairement son pré. [Pause] Seulement du fait qu’elle exprime son pré, elle
+exprime de proche en proche le monde autour, l’univers entier. Même une vache a une zone
+d’expression claire, et si on la transporte dans un autre pré, elle change d’expression claire. Ce
+n’est déjà donc pas facile, ça. Mais, même donc les animaux.
+
+Or, dans d’autres textes, Leibniz a l’air de nous dire qu’il n’y a que les âmes raisonnables qui ont
+une zone d’expression claire. Ce n’est pas possible. [Pause] Tout ça, donc, ça nous poserait
+des… Mais, je dis, Votre zone d’expression claire, [90 :00] c’est ce qui concerne votre corps, et
+ça, on n’a pas le temps. Les textes sont multiples, dans les Lettres à Arnauld notamment. Je cite
+la page 215 dans les morceaux choisis de madame Prenant : "J’avais dit que l’âme exprimant
+naturellement tout l’univers en certains sens, et selon les rapports que les autres corps ont au
+sien" -- et selon les rapports que les autres corps ont au sien. C’est ça qui définit ma région claire
+: tout ce qui affecte mon corps, en effet. [91 :00] Et il faut bien, d’une certaine manière, que ça
+passe par mon corps. Et vous voyez, je ne peux pas dire, premièrement : j’exprime clairement ce
+qui passe par mon corps, et deuxièmement : la monade. Pourquoi ? Parce que ce qui est premier
+c’est la monade sans porte ni fenêtre. Pourquoi est-ce qu’elle a une région d’expression claire ?
+Parce qu’elle a un certain nombre de singularités autour desquelles elle est constituée. C’est en
+conséquence, je dis [Interruption du texte de WebDeleuze ; texte de l’enregistrement BNF &
+YouTube] tout ce qu’elle exprime clairement concerne son corps et affecte son corps et passe par
+son corps.
+
+                                                                                                     16
+
+Seulement, ce n’est pas facile, ça. Ils doivent dire tout de suite des objections : mais mon corps,
+je ne le connais pas du tout. Si je le traite comme [92 :00] perception dans la monade, mais c’est
+une perception singulièrement confuse. Vous vous rappelez ? J’exprime tout l’univers
+confusément, acceptons [-le]. S’il y a mon corps dans l’univers, j’exprime mon corps, d’accord,
+mais je l’exprime confusément, obscurément. Les mouvements de ma lymphe ; c’est qu’objecte
+Arnauld. Arnauld, lui, objecte, mais les mouvements de votre lymphe, vous les saisissez… et les
+mouvements de votre sang, vous les saisissez très, très obscurément, très confusément. Comment
+pouvez-vous dire [93 :00] que ce que vous exprimez clairement, c’est ce qui concerne votre
+corps et ce qui passe par votre corps alors que votre corps, vous ne l’exprimez pas du tout
+clairement ? Voyez, ce premier … Vous exprimez tout, d’accord, mais vous exprimez tout dans
+le noir. C’est le fond sombre de la monade. On l’a vu. Vous exprimez tout dans la confusion.
+Alors vous exprimez les battements de votre cœur, de vos artères, le mouvement de votre sang,
+tout ça. Vous pouvez toujours dire que vous l’exprimez, mais vous l’exprimez très, très
+confusément, et alors vous allez nous dire qu’en revanche, ce que vous vous exprimez clairement
+lorsque vous dites, "Ah, ça, c’est de l’herbe verte," ce que même un bœuf ou une vache ont fait,
+on dit, voilà, c’est de l’herbe verte, et voilà qu’elle a enfin exprimé quelque chose de clair.
+[94 :00] Et c’est parce que ça ne passe pas par son corps, comment se débrouiller ça ? Et je crois
+que c’est une des choses les plus étonnantes de Des Bosses-Leibniz.
+
+Et deuxième problème – ça, c’est un premier problème – deuxième problème, c’est : en quoi estce qu’avoir un corps [Pause] n’est pas simplement une perception ? En quoi est-ce que le corps
+est un objet de la perception ? Qu’est-ce qui me fait dire non pas "je perçois un corps" comme je
+perçois du vert, [95 :00] prédicat de la monade ? Mais je dis bien plus : je dis que, j’ai un corps,
+[Pause] et que non pas la monade, mais moi, je suis composé [Pause] d’une monade et d’un
+corps vécu. [Retour à la transcription WebDeleuze] Qu’est-ce qui me permet d’affirmer le corps
+comme objet de la perception ? Et sur ces deux points, sur ces deux problèmes, je dois dire que
+les réponses de Leibniz sont étonnantes. Je voudrais juste vous les donner pour que vous
+réfléchissiez.
+
+Première réponse : qu’est-ce qui explique que le corps, [96 :00] que je ne saisis que si
+confusément, mon corps, puisse être dit en même temps la condition sous laquelle [Pause] se
+rapporte, à moi, ou passe tout ce qui se rapporte à moi, tout ce que j’exprime clairement, la petite
+portion que j’exprime clairement ? J’essaie de vous la raconter parce que vous trouvez dans
+Leibniz toutes sortes de textes disant, en gros, ceci : il y a de petites perceptions inconscientes, et
+avec ces petites perceptions inconscientes, nous faisons une perception consciente. [Pause] Bien
+plus, [97 :00] c’est ça le sens des organes. Et des exemples qu’il donne volontiers, c’est : vous
+n’entendez pas le bruit d’une goutte d’eau si elle est assez loin, vous n’entendez pas même le
+bruit d’une vague lointaine, et puis vous entendez, petit à petit la vague plus proche, la vague est
+comme ça, il raconte comme tout le monde, la vague est proche, jusqu’à ce que ça devienne une
+perception consciente : le bruit de la mer. Ou bien il dit : vous n’entendez pas ce que disent
+chaque personne dans une foule, mais vous entendez le brouhaha. [Pause] Il y a beaucoup de
+textes de Leibniz alors [98 :00] dans ce sens. Et on a envie de les interpréter au sens de partietout. On a envie de dire, oh, ben oui, c’est très simple : on ne perçoit pas les parties, mais on
+perçoit le tout,
+
+                                                                                                   17
+
+Ou bien ça nous rappelle quelque chose sur la psychophysique. Et un psychologue, qui au
+moment du baccalauréat nous a été très pénible, qui s’appelait Fechner, et il cherchait à établir un
+rapport entre l’accroissement de l’excitation et le surgissement de la sensation. C’est que le
+bachot est toujours une chose fâcheuse, car Fechner est un philosophe du XIXe siècle qui est
+génial. [99 :00] Il est génial. Et il a pour propriété géniale d’être leibnizien, donc c’est pour ça
+que ça étonne moins qu’il soit l’auteur de la psychophysique. Bien plus, loin d’être un savant
+positif, comme on nous le fait croire dans la psychophysique, ce n’est pas un compliment, je
+dirais que c’est une espèce de fou grandiose, c’est un très grand romantique allemand. Alors,
+c’est assez curieux, qu’un grand romantique attiré au romantisme allemand, enfin au
+postromantisme plutôt, c’est très curieux qu’il ait inventé, qu’il ait crée cette discipline, mais
+enfin peu importe.
+
+Si vous regardez les textes, j’ai l’impression qu’on va s’apercevoir de quelque chose de
+beaucoup plus curieux, enfin, que ça. [Pause] Essayez de comprendre, [100 :00] si peu que ce
+soit, ce n’est pas dur à comprendre, du calcul infinitésimal à sa base, tout à fait à sa base. Vous
+avez deux quantités x et y qui sont des variables. Vous pouvez les soumettre à des augmentations
+et à des diminutions quelconques. On les appelle, mettons, D petit a, D petit b, tout ce que vous
+voulez. [Pause] Non, plutôt D petit x, D petit y. [101 :00] Et puis vous pouvez les soumettre à
+des additions et à des soustractions [Fin de la transcription Web Deleuze ; le texte
+supplémentaire est de l’enregistrement BNF & YouTube] plus petites que toute quantité donnée.
+[Pause] On les appellerait, mettons, Delta x et Delta y. [Pause] A la limite, Delta x égale zéro,
+Delta y égale zéro. Vous écrirez Delta y sur Delta x égale zéro sur zéro. [102 :00] Ça va ? Ce
+n’est pas trop difficile.
+
+Je vous lis un texte de Leibniz, et vous allez comprendre tout de suite. [Deleuze cherche dans
+son texte] "Ce ne sont pas des riens absolument" – Delta x et Delta y -- "Ce ne sont pas des riens
+absolument ; ce ne sont des riens que comparativement", c’est-à-dire Delta x égale zéro par
+rapport à x ; Delta y égale zéro par rapport à y. [103 :00] – Tu le corrigeras ; je suis tellement
+abruti que si je fais un… Mais je crois que c’est très simple. – Ça n’empêche pas que Delta x et
+Delta y ne sont pas la même chose et ne s’équivalent pas. Je vous le montrerai facilement…
+Tiens, tu me le fais ? Tu vas au tableau ? [104 :00] [Interruption, mouvement de déplacements
+dans la salle ; Deleuze demande de l’aide aux étudiants avec ce qu’il veut montrer au tableau]
+Ah, non, ce n’est pas la peine, là, [105 :00] on va s’arranger… [Pause continue] Voilà …
+[Deleuze regarde l’étudiant, Richard Pinhas, qui écrit au tableau]
+
+Richard Pinhas : Ça suffit, ça ?
+
+Deleuze : Ça suffit, ça suffit. Il faut que vous compreniez, il y a un petit problème. C’est que x
+[Pause ; Deleuze lit ce qui est au tableau et hésite] – Fais un grand C [Pinhas : Là ?], oui, et fais
+un petit c de A à C [Pinhas : Un petit c de A à C] et x par convention est égal à Ax [Pinhas suit
+les instructions en les répétant] si bien que Cx est égal à Ax moins Ac… Ça va ? [Pinhas : C’est
+bon ?] [106 :00] C’est bon. Tout va bien. [Pause ; quelques étudiants posent des questions sur
+cette présentation au tableau] Eh ? [Deleuze fournit d’autres instructions à Pinhas ; quelqu’un
+demande : Mais, ou est-il, le grand X ?] Evidemment, vous ne pouvez pas le voir ; ça va mal se
+finir comme l’autre fois. [Rires]
+
+                                                                                                      18
+
+Bon. Voyons au minimum, eh ? Voulez-vous que je vous lise le texte ? Il est beau, il est très
+beau. Ça vous donnerait une idée du style mathématique de... [Deleuze ne lit pas, mais continue
+à faire faire quelques corrections au tableau] Soyez sensible uniquement à ceci. La droite Cy,
+[Deleuze indique le tableau] et E, grand E [107 :00] E et Cy se transportent parallèlement à ellesmêmes vers A. Qu’est-ce qui se passe ? E tends vers zéro, C tend vers zéro. Voilà. C’est tout le
+mystère qu’il faut que vous compreniez. Il faut que vous compreniez que tous les deux tendent
+vers zéro, mais qu’ils ne deviennent jamais égaux. Pourquoi ? Parce que s’ils devenaient égaux,
+il faudrait que, que quoi ? Il faudrait que y, petit y, le côté A, petit y, [108 :00] et le grand Cy –
+on va lui donner un nom là, le grand Cy ? -- devient également égaux. Or, lorsque vous avez
+obtenu la coïncidence en A, vous avez maintenu votre triangle, A-x-y, avec sa différence entre x,
+c’est-à-dire entre Ax, et Ey. Donc, C et E peuvent coïncider avec A sans perdre leur rapport du
+type, alors qu’on appellera un type, mettons, rapport différentiel, [109 :00] Delta y sur Delta x.
+Ça va ? Ça va à peu près ?
+
+Voilà ce que moi, je vous suggère, quand vous lirez ces textes de Leibniz sur la mer, etc. Enfin, il
+ne s’agit pas du tout du problème tout-partie. Il s’agit de quoi ? Il s’agit des conditions dans
+lesquelles a exercé un rapport différentiel de manière à produire quelque chose, [Pause] de
+manière à produire, il faudrait presque ajouter, indirectement. [Pause] [110 :00] Delta y sur Delta
+x, assimilez-les à quoi ? Il me faut deux termes. Ce qui va être très fâcheux dans la lecture de ces
+textes de Leibniz, c’est si je ne retiens qu’un terme, l’eau. Mais il me faut deux termes, sinon
+cela n’a aucun sens. Il me faut l’eau et l’oreille. [Pause] Il faut que vous considériez la
+différentielle de l’eau, mettons la… -- c’est exprès, ces textes, ce n’est même pas de la science ;
+c’est la manière dont, si vous voulez, on peut faire une espèce d’allusion mathématique – il faut
+que vous considériez la différentielle de l’eau, mettons la goutte, la plus petite goutte, [Pause]
+[111 :00] et la différentielle de l’oreille de telle manière que tout le texte doit être réécrit sous la
+forme Delta y sur Delta x. [Pause] Qu’est-ce que nous dit le calcul infinitésimal de, de la
+manière la plus élémentaire ? … [Interruption de l’enregistrement] [1 :51 :27]
+
+Partie 4
+
+… Donc, ça marche, et j’y tiens beaucoup parce que moi, je suis frappé par…, là je crois que les
+interprétations vont, généralement qu’elles vont... [Pause ; Deleuze ne termine pas la phrase] Je
+prends un exemple autre, l’œil ; c’est la même chose, eh ? Je regarde mon pré, j’ai un Delta x qui
+est [Pause] [112 :00] l’herbe, une herbe, une herbe toute petite, la plus petite des herbes. J’ai un
+Delta y, le plus petit, le plus petit clin d’œil, [Pause] Delta y sur Delta x. – Non, je n’ai pas le
+droit de dire vert ; je dis herbe verte. Je retire vert ; je n’ai surtout pas dit vert… Je ne l’avais pas
+dit ? [Un étudiant près de Deleuze : Une herbe toute petite] Ah, c’est ça, j’ai raison, l’herbe toute
+petite, et puis mon clin d’œil – Delta y sur Delta x, peu importe les conditions – là, dans des
+conditions, vous pouvez les inventer biologiquement… Je suis assez près, je suis assez près,
+[113 :00] je suis réveillé, tout ça – Delta y sur Delta x égale, égale quoi ? Le vert, une tache verte
+dans la monade, une perception de vert. C’est toute une théorie de la perception. Vous me direz,
+il faut bien que la matière agisse. Non, pas du tout, pour le moment, pas du tout. [Pause] Vous
+avez de la matière, ça, on va vous la donner ; on va voir, ça, on va vous la donner. Vous avez un
+corps, vous avez un corps.
+
+                                                                                                    19
+
+Ce que je suis en train d’expliquer, c’est comment la chose la plus confuse du monde est capable
+de vous donner, ou de communiquer à la monade, une perception claire. [114 :00] Avec Delta y
+sur Delta x, ou plutôt à Delta y sur Delta x correspond – je ne dis rien d’autre que correspond –
+une perception incluse dans la monade, c’est du vert. – [Comme pendant la séance précédente,
+on entend un grincement de porte] Qu’est-ce que c’est que ça ? [L’étudiant près de Deleuze :
+C’est la porte] [Rires] -- Je dirais que c’est une causalité, c’est une causalité, mais très curieuse.
+C’est une causalité entre termes qui n’ont pas besoin d’avoir quoi que ce soit de commun, ce que
+Leibniz appellerait une causalité idéale. [Pause] [115 :00] J’expliquerais la perception du vert
+par le Delta y sur Delta x, de deux éléments corporels, la petite herbe, le coup d’œil. [Pause]
+
+Deuxième argument, très bizarre aussi, un tout autre argument : je reviens à mon chien battu ou à
+l’épingle qui s’enfonce alors que je suis un pauvre petit enfant qui boit son lait, l’épingle que ma
+nourrice m’enfonce cruellement. [Rires] Eh ben, j’éprouve une douleur. [116 :00] Pourtant, dit
+Leibniz, c’est curieux ça parce que cette douleur ne ressemble pas [Pause] au mouvement de
+l’épingle. [Pause] Et il n’y a pas de doute, eh ? [Pause] De même, la douleur du chien recevant
+le coup de bâton ne ressemble pas au coup de bâton.
+
+Alors, je voudrais presque, que [je] vous prends à témoin. Voilà deux textes extraordinaires, à
+mon goût, extraordinaires de Leibniz. – Je crois les avoir perdus si bien que… [117 :00] Aïe, aïe,
+aïe, aïe, aïe, aïe, aïe, aïe… Il ne faudrait surtout pas que je… [Pause] Non, ce n’est pas dans
+celui-là… [Deleuze continue à chercher le texte] Ça m’est égal parce que je l’ai ailleurs, mais
+donc je n’ai pas… [Pause] [118 :00] Et là, non plus… Mais je vais le trouver, vous savez. Il
+existe. [Pause] [119 :00] [Un grognement de frustration de Deleuze] … Ha, ha ! Voilà !
+
+Alors, dans tout ça, j’ai perdu complètement mon effet parce que je ne me rappelais plus…
+[Rires] [Pause] Voilà… [120 :00] [Pause ; Deleuze continue à regarder le texte] Je cherche où
+couper le texte parce que je n’arrive pas… [Pause] [Le titre des textes cités ici est donné à la fin
+de la séance ; dans Le Pli, p. 127, Deleuze indique : "Les deux textes essentiels sont : Addition à
+l’explication du système nouveau (l’édition Guérard, vol. 4, p. 575) et Nouveaux essais II, chap.
+8, paragraphes 13-15] "Et quoiqu’il soit vrai que leur entière explication passe nos forces" – il
+dit, voyez, ça dépasse nos forces, déjà expliquer tout ça – "à cause de la trop grande multitude de
+variétés enveloppées, on ne laisse pas d’y pénétrer de plus en plus par des expériences qui font
+découvrir des fondements de pensées distinctes dont la lumière et les couleurs nous fournissent
+des exemples. Ces sentiments confus" – couleurs et lumière – "ne sont pas arbitraires" – ce sont
+des perceptions, n’est-ce pas, dans les monades – "Ces sentiments confus ne sont pas arbitraires,
+et on ne demeure point d’accord de l’opinion reçue aujourd’hui par plusieurs et suivie par notre
+auteur" – il s’agit de Locke [121 :00] – "qu’il n’y ait point de ressemblances ou de rapports entre
+nos sensations et les traces corporelles." C’est bien notre problème : il y a ressemblance entre les
+sensations dans la monade et les traces corporelles du corps, dans le corps.
+
+"Il paraît plutôt que nos sentiments les représentent et les expriment parfaitement. Quelqu’un
+dira peut-être que le sentiment de la chaleur ne ressemble pas au mouvement" -- Quelqu’un dira
+peut-être que le sentiment de la chaleur ne ressemble pas au mouvement – "Oui ! Sans doute. Il
+ne ressemble pas à un mouvement sensible tel que celui d’une roue de carrosse. Mais il
+ressemble [122 :00] à l’assemblage de mille petits mouvements de feu et des organes qui en font
+la cause. De même, la blancheur ne ressemble pas à un miroir sphérique convexe" [Pause] -- la
+
+                                                                                                     20
+
+blancheur ne ressemble pas à un miroir sphérique convexe – "Cependant, elle n’est autre chose
+que l’assemblage de quantités de petits miroirs convexes tels qu’on voit dans l’écume en la
+regardant de près." Mais, il dit une chose étonnante ; il dit une chose : vous ne trouvez jamais
+une ressemblance entre la perception [123 :00] et l’objet perçu si vous en restez dans les limites
+du fixe. Si vous passez à l’infinitésimal, vous vous trouverez alors devant le blanc comme
+sensation et une infinité de petits miroirs convexes. Quelle est la ressemblance des deux ?
+L’écume. [Pause]
+
+L’autre texte, vous allez voir son… Ah, je n’en connais que deux dans Leibniz. C’est Nouveaux
+essais sur l’entendement humain, livre I. [Pause] [124 :00] Il dit ceci : avant moi, vous savez, les
+philosophes ont distingué deux sortes de qualités, les qualités premières et les qualités secondes.
+Les qualités premières, c’est l’étendue, etc. ; les qualités secondes, c’est les qualités sensibles. Et
+ils ont dit, à la rigueur, les qualités premières ressemblent à l’objet, mais les qualités secondes,
+elles, sont subjectives comme la couleur, la chaleur, et rien ne leur correspond dans l’objet, du
+moins de direct. Et voilà ce qu’il dit dans ce texte des Nouveaux essais :
+
+"Je viens de marquer comment il y a de la ressemblance ou du rapport exact à l’égard des
+qualités secondes aussi bien qu’à l’égard des premières qualités." [125 :00] Pour lui, il faut que
+la ressemblance aille jusque [là]. C’est énorme si vous voyez ce qu’il veut dire, ce qu’il est en
+train de faire. Il faut maîtriser le confus en tant que confus, si il trouve une ressemblance. Si il
+trouve une loi de ressemblance par le confus même, mais c’est un gain fantastique pour lui. "Il
+est bien raisonnable que l’effet réponde à sa cause ; et comment assurer le contraire puisqu’on ne
+connaît point distinctement, ni la sensation du bleu, par exemple, ni les mouvements qui la
+produisent ?" D’où le texte auquel je veux arriver : "Il est vrai que la douleur ne ressemble pas
+aux mouvements d’une épingle" – la même chose, vous vous rappelez ; l’autre texte disait, il est
+vrai que le blanc ne ressemble pas à un miroir convexe -- "il est vrai que la douleur ne ressemble
+[126 :00] pas aux mouvements d’une épingle, mais elle peut ressembler fort bien aux
+mouvements que cette épingle cause dans notre corps."
+
+Ça, je vous dirais… C’est un texte qui n’a l’air de rien. Qu’est-ce qu’il fait ? Je commente, moi,
+un mot : Il est vrai que la douleur ne ressemble pas aux mouvements d’une épingle, ce qui n’est
+pas dans les bonnes conditions de démonstration. Si j’ai une chance, je ne vais pas établir un
+rapport terme à terme, mouvement de l’épingle-douleur, "mais elle peut ressembler fort bien aux
+mouvements que cette épingle cause dans notre corps." Là, j’ai deux termes, [127 :00] et bien
+plus, deux termes qui passent, qui tendent à l’infiniment petit. Comme ma nourrice méchante
+approchait l’épingle de mon corps, c’était un mouvement fini, mais là, quand elle va l’enfoncer
+dans mon pauvre corps et la tourner un petit peu, [Rires] voyez, là je me trouve devant deux
+facteurs corporels. Je me trouve en présence d’un Delta y et d’un Delta x, et c’est ce Delta y et ce
+Delta x auxquels correspond douleur dans la monade. Et de même pour le blanc : tant que
+j’essayais de mettre en correspondance [Pause] [128 :00] [L’étudiant près de Deleuze lui dit :
+Miroir] miroir convexe-blanc, c’était stupide. Ce qu’il fallait que je fasse, c’était mettre en
+correspondance, d’une part, un rapport matériel, miroirs infiniment petits et écume comme
+phénomènes physiques, et c’est à ce rapport Delta y sur Delta x que va correspondre dans l’âme
+le blanc. Dans les deux cas, vous avez douleur dans l’âme égale Delta y sur Delta x dans les
+corps, [Pause] et je crois que c’est la seule manière d’interpréter ces textes, en tout cas, ces deux
+
+                                                                                                  21
+
+grands, [129 :00] ces deux grands textes de Leibniz, à telle condition, je dis, qu’est-ce qui me fait
+[que] j’ai un corps.
+
+Voilà. Je peux résumer donc pour en finir. J’ai un corps. Pourquoi [est-ce que] j’ai un corps ?
+C’est une conséquence, rien d’autre qu’une conséquence. J’ai un corps parce que cela découle –
+c’est un point de vue génétique – cela découle de ce que j’ai une région claire d’expression. Dès
+lors, je dirais, ce que j’exprime clairement, c’est ce qui concerne mon corps. Il ne faudra surtout
+pas renverser la causalité. C’est le corps qui découle de ma région claire et pas l’inverse.
+
+Deuxième statut de la genèse : [Pause] [130 :00] Pourquoi est-ce que je suis sûr d’avoir un
+corps ? [Pause] Parce que ce que j’exprime clairement dans ma monade, qui elle, n’a pas de
+rapport avec mon corps, parce que ce que j’exprime clairement dans ma monade correspond à
+quelque chose du type Delta y sur Delta x, [Pause] qui est comme la cause idéale ou l’objet, et
+l’objet ressemblant de ma perception. [131 :00] Il y a donc un objet ressemblant de ma
+perception, il y a donc une cause idéale de ma perception, et ce n’est pas seulement mon corps,
+mais le rapport de mon corps à tous les autres corps. Nous nous trouvons dès lors devant deux
+types de rapport, un rapport des corps entre eux à l’infini, un rapport des monades entre elles à
+l’infini. Ce n’est pas le même type de rapport, pour une raison simple : c’est que les corps
+exercent les uns sur les autres une causalité directe, alors que les monades ne font rien d’autre
+que s’entre-exprimer, c’est-à-dire exprimer un seul et même monde, chacune étant sans ports ni
+fenêtres.
+
+Voilà, c’est ce que je voulais… La prochaine fois, vous me dites si… et puis on tirera encore de
+nouvelles conclusions, [132 :00] et on commencera l’histoire de l’harmonie. Vous sentez
+pourquoi on arrive à l’harmonie : c’est qu’il va falloir, entre toutes ces opérations du corps et
+toutes ces opérations des monades, il faudra quelque chose qui s’implique comme harmonie.
+
+Un étudiant : Vous pouvez donner les références des deux textes [de Leibniz] ?
+
+Deleuze : Eh, Nouveaux essais, livre 1… Oui, en effet, pour moi, ces deux textes de Leibniz sont
+essentiels. Eh, livre 2, Nouveaux essais, livre 2, chapitre 8, et l’autre, [Pause] [Deleuze cherche
+son texte et consulte l’étudiant près de lui] [133 :00] dans l’édition Guérard, eh ? Tome 4,
+[Pause ; bruits des étudiants qui sortent] page 575, et le titre est… [Pause] Eh, le titre est
+compliqué parce que… [Pause] Ça dépend de si tu l’as dans une autre édition… [Pause] Ça fait
+partie [Pause] des textes de tout un groupe de textes intitulés "Explication du système nouveau
+touchant l’union de l’âme et du corps", [134 :00] et ce texte précis, c’est "L’addition à
+l’explication." [Fin de l’enregistrement] [2 :14 :11]

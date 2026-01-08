@@ -1,0 +1,970 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Prinicipes et la Liberté
+
+Séance 20, le 2 juin 1987 : Les Principes et la Liberté (15) -- Cours sur l’harmonie,
+suivi d’un débat avec les étudiants
+
+Transcription : Charles J. Stivale
+
+[François Dosse, dans Gilles Deleuze, Félix Guattari: Vies croisées, explique qu’afin de
+considérer le thème de l’harmonie (qui est aussi le sujet du chapitre 9 de Le Pli), Deleuze
+se tourne à plusieurs spécialistes en musique, notamment Pascale Criton et Vincent
+Valls, et aussi Richard Pinhas (musicien, compositeur), d’où un séminaire avec beaucoup
+plus d’interventions de l’auditoire que d’habitude.
+      Il y trois sources pour la préparation de la transcription : d’une part, les deux
+enregistrements sonores habituels, celui de WebDeleuze et celui fourni par la BNF ; et
+d’autre part, la bande sonore du tournage d’un film réalisé par Marielle Burkhalter
+d’une partie de la séance. Bien que la séance filmée consiste essentiellement en la partie
+des présentations invitées par Deleuze, et alors commence en plein débat, avec une
+discussion entre Deleuze et Pascale Criton, les enregistrements disponibles offrent toute
+la séance, avec quelques trous à cause des changements de bande.
+      Malheureusement, le début de la présentation de Pascale Criton est presque
+inaudible (de 13 :10 à 18 :50). Mais lorsque Deleuze intervient pour lui poser une
+question, la fin de cette intervention correspond au moment où commence la séance
+tournée par l’équipe de RAI. Malgré la présence de l’équipe avec les caméras (ou peutêtre à cause de leur présence), le montage et la bande sonore du film sont parfois coupés,
+d’où l’importance des enregistrements. Ainsi, la transcription initiale s’est faite à partir
+de l’enregistrement audio de WebDeleuze, ensuite avec la bande sonore du film, et enfin
+cette transcription a été vérifiée finalement avec l’enregistrement de la BNF.]
+
+Partie 1
+
+J’ai le sentiment que certains d’entre vous, ne serait-ce que par cet appareillage, viennent
+ici pour un dernier cours. Or, je voudrais vous dire quelque chose sur les derniers cours :
+c’est que les derniers cours, on les fait toujours, mais pas au moment où l’on croit. Les
+derniers cours, ils sont toujours déjà faits. Le dernier cours, c’était le cours de la dernière
+fois ou le cours de l’avant-dernière fois.
+
+Donc, aujourd’hui, ce n’est pas du tout un dernier cours. Aujourd’hui, c’est tout à fait
+autre chose. Et je vous avais prévenu, je souhaitais que l’on se retrouve, un petit nombre
+de ceux qui ont travaillé cette année ou ensemble pour lancer de nouvelles directions de
+recherche en fonction de ce qu’on avait fait cette année. Et là-dessus, [1 :00] ce que
+j’attendais, c’est qu’un certain nombre de vous, certains entre vous particulièrement
+compétents, à mon avis, que certains entre vous parlent, et moi, je ne parle pas. [Rires] Et
+moi, je pose des questions. Moi, mon dernier cours, je l’ai fait. C’est comme ça que les
+lumières, je ne sais pas où vous allez les mettre… [Deleuze indique l’appareil de l’équipe
+qui filme] Je ne vois pas très bien…. Ça sera du cinéma muet ! [Rires] C’est donc parfait
+
+                                                                                               2
+
+puisque je vois que, cette fois-ci, on s’entend tout à fait, mais vous ne comptez pas sur
+moi pour faire un dernier cours avec des lumières… Les derniers cours, vous ne cesserez
+pas de les rater. Un dernier cours, ça ne se filme pas parce que, je ne veux pas dire nul,
+mais il est toujours d’hier… ou à jamais. [2 :00]
+
+Bien. Or, il s’agissait de quoi dans cette relance que je souhaitais ? Certains d’entre vous
+avaient bien voulu accepter le principe suivant : c’est qu’on avait passé un an sur cet
+auteur très étrange, très prenant, Leibniz, et puis rôdait tout le temps ce thème de
+l’harmonie, harmonie des âmes entre elles, harmonie des âmes et des corps, etc., et puis
+on remarquait chaque fois au passage, on se disait [que] c’est quand même intéressant
+parce que harmonie, harmonie – lier l’harmonie à l’âme, on peut en faire toute une
+histoire de la philosophie. C’est bien connu que déjà du côté de Pythagore, de Platon,
+[3 :00] l’harmonie, l’âme ne sont pas sans rapports, mais on disait, non, ce n’est pas ça.
+On se disait, il y a autre chose ; on se disait qu’avec Leibniz, c’est quand même
+curieux parce que l’harmonie doit, on supposait, doit être en train de prendre un sens
+tournant. Immédiatement, et cela toujours a été notre méthode depuis qu’on travaille
+ensemble, quelque chose nous tendait les bras : ce qui nous tendait les bras, c’était la
+musique car, après tout, à la même époque, il arrivait quelque chose qui ressemblait
+singulièrement au dégagement d’une toute nouvelle notion d’harmonie.
+
+Est-ce que donc, une fois de plus, dans une des philosophies les plus créatrices [4 :00] et
+dans le plus créateur d’un mouvement musical, quelque chose n’allait pas se faire
+résonance, sans du tout se copier, s’appliquer ? Mais lorsque Leibniz estimait libérer
+l’harmonie de certaines notions avec lesquelles on l’avait confondue jusque là, et lorsque
+les musiciens allaient découvrir l’harmonie en la libérant, mettons – je parle très
+grossièrement -- la libérant de certaines attaches du contrepoint, est-ce qu’il n’y avait pas
+des choses pour nous ?
+
+Et ajoutant, avant que je puisse me taire, que justement [5 :00] notre méthode était
+volontairement un peu monstrueuse ; je veux dire – quand j’en ai parlé à ceux sur
+lesquels je dépends particulièrement pour nous aider dans ce…, ils m’ont dit, première
+réaction n’était pas tellement pour – c’était ce qu’il y a de monstrueuse, c’était que, à
+première vue, ça impose que dès lors on écoute de la musique. Je voudrais que vous
+compreniez, et vous n’aurez pas de peine parce que cela a toujours été notre méthode, et
+dans la mesure où on a travaillé ensemble, vous serez moins surpris. Moi, je rêve d’un
+renversement d’une certaine méthode, c’est la philosophie qui devient l’exemple illustré
+des autres choses. Je ne réclame pas des morceaux, par exemple, les exemples musicaux
+ce qui nous ferait comprendre ce qui arrive dans l’harmonie. Je réclame juste le
+contraire : [6 :00] il y a, par exemple, dans Leibniz des exemples philosophiques qui vont
+nous faire comprendre, peut-être, ce qui arrive dans la musique. Ceux qui avaient
+travaillé avec moi sur le cinéma, vous vous rappelez peut-être que jamais on n’a utilisé un
+exemple cinématographique. C’était, au contraire, la philosophie qui devait nous servir
+d’exemple pour les concepts du cinéma. C’est ce renversement des exemples qui me
+paraît important si bien que l’on va parler de la musique sans entendre une seule partie de
+musique.
+
+                                                                                               3
+
+En revanche, ceux qui auront tiré de cette dernière… de cette séance, quoi que ce soit, ils
+iront entendre de la musique, mais je crois aussi qu’ils iront entendre du Leibniz et qu’ils
+auront de Leibniz une certaine entente musicale, [7 :00] et pas seulement philosophique.
+Je plaide toujours pour la nécessité d’une double lecture des grands philosophes qui
+doivent être lus, bien sûr, philosophiquement si l’on peut, mais que si vous n’avez pas la
+culture philosophique pour lire un grand philosophe, vous en avez parfaitement la culture
+esthétique, et qu’il y a des lectures musicales, il y a des lectures picturales des grands
+philosophes, ou des lectures affectives des grands philosophes qui font que, vous savez,
+ce n’est pas que vous ne perdriez rien ; vous perdriez à ce moment l’aspect purement
+conceptuel, mais quelque chose de très profond qui est la philosophie même reste. Il y a
+une lecture affective de Spinoza qui a toujours coexisté avec une lecture conceptuelle. Il
+y a une lecture musicale de Leibniz qui coexiste avec sa lecture conceptuelle.
+
+D’où mon appel à certains d’entre vous parce que je disais… Bon, je parle vraiment des
+[8 :00] remarques extrêmement grandes et extrêmement grosses. Supposons cette époque,
+une époque où l’harmonie change de statut ; ce qu’on appelle harmonie tend à changer et
+subir une mutation. Supposons que, par exemple, l’harmonie ne se définisse plus par des
+intervalles, [Pause] mais qu’elle se définisse par des accords. L’harmonie se définirait par
+des accords. [Pause] S’ouvrirait alors peut-être un tout nouveau traitement concernant les
+dissonances. [Pause] [9 :00] S’approfondirait tout un domaine des composantes
+intérieures du son. [Pause] Se ferait la découverte d’une certaine tonalité [Pause] sous le
+thème de centres tonals et d’attraction. Voilà tout un groupe, l’harmonie qui renvoie aux
+accords, l’organisation de tonalités de centre, et de centres d’attraction. Bon, c’est sur ce
+premier point, moi, que je demande à deux qui ont travaillé [10 :00] avec nous cette
+année d’[y] mettre un peu de clarté, parce que la question, pour nous, c’est : est-ce que
+cette nouvelle harmonie, par exemple, est-ce que cette nouvelle harmonie qui renvoie à
+des accords, et non plus exactement à des intervalles, est-ce que cette nouvelle harmonie
+qui sera dite précisément d’un caractère fondamental de la musique baroque ? Est-ce que
+ce n’est pas ça, que, d’une autre manière, Leibniz opère ? Et lorsqu’il nous parle de
+l’harmonie de l’âme et du corps, il la définit par des accords, ce qui est absolument
+nouveau philosophiquement, et non plus par quoi ? Et non plus par des intervalles, ou par
+des influences. [11 :00]
+
+Et lorsque Leibniz nous dit qu’il distingue trois manières de concevoir les rapports de
+l’âme et du corps -- l’influence, l’assistance, et le consentement -- est-ce qu’il ne tourne
+pas autour de notions beaucoup plus musicales que l’on croirait d’abord ? [Pause]
+L’influence, renvoyant à la mélodie pour des raisons que, là, j’aurai aujourd’hui à faire
+un cours, je sentirais plus sûr là-dessus ; l’assistance, renvoyant à un certain type de
+contrepoint et à une évolution de contrepoint ; et le consentement, faisant appel alors à
+une conception de l’accord et des accords.
+
+Mais enfin, c’est là-dessus que [12 :00] je voudrais… et là, j’ai demandé à Pascale Criton
+et à [Vincent] Valls [le prénom est donné plus tard dans la séance ; pourtant il n’est pas
+certain que le surnom soit précisément épelé] de nous démêler un peu cette histoire où la
+musique baroque tourne autour de cette mutation de l’harmonie. [Pause] Et il faudrait
+presque dire… Eh oui, tu parles à des philosophes, à des gens qui ne savent pas la
+musique, là, et tu vas leur faire saisir un concept musical.
+
+                                                                                            4
+
+Pascale Criton : Oui, est-ce que je … [Propos inaudibles]
+
+Deleuze : Oh, bien sûr, tu le mènes comme tu veux, et si j’ai quelque chose à poser, oui,
+bien sûr, d’accord, d’accord.
+
+[Pascale Criton commence à parler ; le contenu reste peu audible surtout à cause des
+micros éloignés (des deux enregistrements) d’elle et des bruits ambiants dans la salle.
+Elle fait un survol de l’importance des voix basses et aigues dans l’évolution de
+l’harmonie et des accords à l’époque baroque.] [13 :00-18 :50]
+
+Deleuze : Pardon, je peux poser une question ? C’est juste une question. Ce qui me
+frappe, c’est que, si je comprends bien, tu es en train de nous parler de la condition pour
+que [19 :00] l’harmonie se découvre et se définisse par l’accord, et non plus par
+l’intervalle, [PC : Oui] c’est d’abord un nouveau régime des voix, [PC : Oui] et non pas à
+l’inverse, est-ce vrai ? [PC : Non, c’est-à-dire…] C’est ça que je voudrais que tu indiques
+mieux… c’est-à-dire, [Le début du film de cette séance] il n’y aurait pas d’harmonie
+déterminable par l’accord si l’on passait par le nouveau régime de voix.
+
+[Etant donné les sauts dans le tournage du film (d’où des lacunes dans l’audio), le
+déroulement de la séance à partir de l’enregistrement BNF sera désormais indiqué]
+
+PC : C’est qu’il y a eu des accords; il y a eu une notion d’accord… C’est un accord
+vertical qui traversait l’ensemble des voix.
+
+Deleuze : C’est ça, ouais.
+
+PC : Tandis que là, ce n’est plus du tout… ce qui régissait [20 :00] l’ensemble des voix.
+Donc là, on passe dans un phénomène… [Pause] C’est des petits textes qu’on retrouve de
+la Camerata de Florence, de Monteverdi et, enfin, des auteurs de cette époque-là qui
+s’appuyait énormément sur le savoir-faire des chanteurs. C’est-à-dire ce sont les
+chanteurs qui ont amorcé cette façon de faire et qui ont inventé avec les compositeurs…
+C’est-a-dire, il y avait donc une rencontre continuelle, constante, voulue, un travail très
+serré entre les poètes, des poètes plutôt lyriques comme Pétrarque… non, pas Pétrarque…
+Le Tasse, enfin, ils sont plusieurs, [Ottavio] Rinuccini, [21 :00] les chanteurs et les
+compositeurs. [Saut dans le film]
+
+Deleuze : J’ai à te dire que c’est important pour moi, ta question, parce que ou bien l’on
+dit – et ça me semble être ta tendance – ou bien l’on dit, ben oui, il y a un nouveau
+régime de voix, et c’est ce régime de voix qui a permis le nouveau surgissement, le
+surgissement d’une nouvelle harmonie déterminable comme accord. [Pause] Ou bien l’on
+dirait – ce qui m’irait mieux, mais si c’est faux, si ce n’est pas possible de le dire, ben,
+tant pis, ce n’est pas grave – ou bien ce qui m’irait mieux, c’est de dire que, vous
+comprenez, de tout temps, de tout temps plus on s’approchait d’un tournant dans la
+Renaissance [Retour au film] entre déjà en lutte [22 :00] ou entre déjà en conflit deux
+directions possibles qu’on appelle ordinairement, de manière très, très vulgaire,
+l’horizontal et le vertical, la mélodie étant par nature horizontale, étant dite l’horizontal,
+et l’harmonie avec les accords, les accords entre sons, impliquant un contrôle vertical
+traversant plusieurs lignes d’horizon.
+
+                                                                                            5
+
+Et puis, je saute à un tout autre aspect. Ça, c’est une chose : mon cheminement horizontal
+de la musique mélodique, ma construction verticale des accords, ça, éventuellement
+l’harmonie [23 :00] ne se définira par l’accord que lorsque la ligne verticale acquerra,
+sous des raisons quelconques, une espèce d’autonomie. Voyez que, ensuite, l’histoire de
+la musique -- et je précise, ce que j’ose appeler l’histoire de la musique -- ce que posera
+le vrai problème, c’est qu’il y a de tout temps en musique, c’était toujours les diagonales
+qui existaient comme accords, comme en peinture, comme partout… Donc que tout ça
+était abstrait. [Saut dans le film]
+
+Mais, deuxième point, [Retour au film] donc, il y avait un grand problème musical en
+général, mettant en jeu le concept, à savoir mélodie horizontale et harmonie verticale, et
+leur combinaison diagonale. Et puis il y avait un tout autre problème. C’est que la
+musique, ça a toujours été un agencement, une machinerie et que, [24 :00] faire de la
+musique, c’est machiner des voix et des instruments, des voix entre elles, des instruments
+entre eux, des voix avec des instruments, et des instruments avec des voix, et que la
+machination instruments-voix, l’agencement voix-instruments, a toujours eu des
+variations très, très importantes. Et que… Alors là, je reprends le premier thème de
+Pascale. Oui, dans le contrepoint, voix et instruments sont comme strictement -- ce qui
+représente déjà des choses de génie, comprenez? Ce n’est pas du négatif – sont d’une
+certaine manière interchangeables. Interchangeables, qu’est-ce que ça veut dire ? Enfin,
+je parle très vite ; vous me corrigerez, [25 :00] vous qui savez… Je vois déjà que tu as
+l’œil sévère, et cela m’inquiète un peu. [Deleuze indique Pascale Criton] Supposons…
+
+Et puis, avec le début de la musique baroque, au contraire, là je reprends, non plutôt je
+renvoie à ce que Pascale vient de dire. Il y a des différences de nature très forte qui
+apparaissent entre les voix, d’où l’importance de la basse continue, eh ? Toute cette
+histoire de la basse et de l’aigue, mais aussi il va y avoir de nouveaux rapports voixinstruments qui vont engendrer alors un type de machination entre les voix, et entre les
+voix et les instruments tout à fait différente… [Pause] Si bien que, voilà, juste ma
+remarque … Est-ce que plutôt que faire dépendre harmonie-accord [26 :00] de l’histoire
+des voix, on ne pourrait pas le considérer que c’est comme deux faces ?
+
+Richard Pinhas: J’ai quelque chose à dire..., C’est très important. Bon. Une fois dite que
+tout ce qu’a dit Pascale est absolument correct, il me semble qu’il y a … C’est quand
+même important ; il y a comme une espèce de renversement qui pourrait s’établir, à
+savoir que la modification n’est pas interne à la machine musicale, est là secondairement,
+pas que ce soit moins important, mais tout aussi important, mais secondairement, arriver
+au niveau des voix, c’est-à-dire c’est après coup que les voix vont être transformées.
+Qu’est-ce qui se passe avec le passage de la musique classique à l’époque, et le passage
+au Baroque, ce qui est un acte révolutionnaire et qui est marqué par des étapes très, très
+tranchées ? J’essaie de les nommer ; c’est principalement Monteverdi, [Dieterich]
+Buxtehude et Bach, une fois dit qu’on va assister à quelque chose qui va être de "la
+musique des sphères" qui arrive, c’est-à-dire une musique qui est vraiment celle de
+l’harmonie préétablie, de l’harmonie universelle, [27 :00] revendiquée comme telle par
+les musiciens, ce qui fait que – c’est encore une parenthèse dans la parenthèse – on a un
+développement parallèle et continu de la musique au niveau de ce qui est de l’harmonie et
+de la philosophie, au niveau de ce qui est l’harmonie préétablie chez Leibniz.
+
+                                                                                           6
+
+Alors qu’est-ce qui se passe avec la musique baroque, une fois dit que ça va renvoyer à
+un développement des voix, mais en après coup ? On a d’abord l’établissement de de
+consonances de basses qui viennent effectivement remplacer les contrepoints mélodiques
+habituels. On a une dominante flottante au niveau de la tonalité, c’est-à-dire qu’on a
+l’instauration d’une tonalité qui va passer d’une dominante flottante à une dominante
+fixe. On va voir une espèce de modulation et une variation continue du tempo, comme l’a
+dit Pascale, et on va voir un terme très important en musique, comme on a vu la dernière
+fois avec Rameau, et je pense que c’est un terme qui a des résonances philosophiques très
+précises: on va voir une inflexion majorisée. Ça, c’est en gros les points techniques qui
+viennent marquer la machine sonore elle-même.
+
+Or le point le plus important au niveau de ce changement qui est pratiquement une
+révolution au niveau musical qui est entamé pleinement à partir de Monteverdi [28 :00] et
+qui va, bien sûr, se répercuter au niveau du traitement des voix, mais qui est
+fondamentalement un changement dans la machine musicale elle-même, c’est-à-dire on
+passe des intervalles à une suite d’accords. On passe d’un monde qui sera presque un
+monde prébaroque, qui sera incarné par des philosophes comme Jakob Böhme ou [Marin]
+Mersenne, à quelque chose qui est une continuité, à une espèce d’harmonie infinie, à un
+continuum infini qui est incarné [On entend Deleuze faire un bruit de voix] aussi par
+Bach dans la musique, que par…
+
+Alors, je finis: ce qui est très, très important, c’est qu’on arrive à des consonances de
+basses et ces consonances de basses vont devenir de véritables référents. Et ce qu’il
+faudrait que tu expliques [il s’adresse à Pascale], parce que je crois que tu avais
+commencé tout à l’heure, c’est que : ces termes de consonance et de résonance qui sont si
+importants pour un musicien, elles ont, je pense à leur pendant en philosophie et surtout
+chez Leibniz, et que ces consonances et ces résonances, qui vont donner vie à toute une
+série d’harmoniques, qui vont être justement la résonance et la consonance des accords
+entre eux qui vont donner naissance à un nouveau monde, qui va être le monde de
+l’harmonie, [29 :00] ou le monde de la "musique des sphères", le monde de l’harmonie
+préétablie en musique, et je pense que si tu définissais un petit peu ce que c’est en
+musique la consonance et la résonance, si tu pourrais arriver à expliquer ça, ça serait très
+bien, alors, une fois dit que… Voilà.
+
+Deleuze: Alors c’est moi qui ait tout brouillé en mettant … parce que ça, maintenant, ça
+se complique, ça devient, enfin pour moi, encore plus intéressant parce que, vous voyez,
+tout se passe comme si on pourrait dire trois choses : [Deleuze regarde Pinhas] Pascale
+disait, elle dans son exposé, elle nous disait: prenez bien conscience que quelque chose de
+nouveau surgit au niveau des voix, et que c’est cette différence qui éclate au niveau des
+voix, qui n’était pas comprise dans la musique précédente, dans la musique de la
+Renaissance, c’est cette différence qui va rendre possible l’harmonie par l’accord. Moi,
+j’intervenais alors assez timidement [30 :00] en disant que ça m’arrangerait mieux – et on
+peut toujours essayer – ça m’arrangerait mieux que pour le moment, on tienne compte de
+ça comme de deux variables indépendantes. D’une part, pour des raisons à voir, là-dessus
+que vient de suggérer d’ailleurs Richard, l’harmonie se définit par l’accord et non plus
+par… là… je ne sais plus quoi, là… [Les voix des étudiants s’entendent]… par
+
+                                                                                            7
+
+l’intervalle, non plus par l’intervalle. Et d’autre part, la machinerie voix-instruments ne se
+fait plus du tout de la même façon. [Saut dans le film]
+
+[La séance continue avec Pascale Criton, dont les propos brefs sont peu audibles aux
+deux versions audio. Deleuze l’écoute en fumant une cigarette]
+
+PC: Je peux dire quelque chose. On ne pourrait pas … Tout part de [Retour au film]
+l’héritage de la musique écrite, [31 :00] de la musique savante. Je ne veux pas dire
+[Deleuze : Oui] qu’il n’existait pas d’instruments – il serait fou de dire ça – mais
+l’écriture pour les instruments n’existait pas.
+
+Deleuze : C’est ça !
+
+PC : Donc, on ne peut pas dire que la voix soit venue après.
+
+Deleuze : C’est ça !
+
+PC : C’est absolument…
+
+Deleuze : Mais c’est ça qu’on peut considérer cela comme étant l’état d’une machinerie
+qui n’introduit aucune différence.
+
+PC : Oui, absolument. Il y a un échange.
+
+Deleuze : C’est ça !
+
+PC : Il y a une échange, mais l’échange est, quand même, pendant tout le début du
+[l’époque] baroque, est très importante.
+
+Deleuze : Et ce que tu as appelé tout à l’heure l’égalité… C’est ce que tu as appelé toimême l’égalité. [32 :00]
+
+PC : Oui, mais il me semble que c’est très important de sentir ce qui se passe au début du
+Baroque puisque c’est là une rupture ; c’est la rupture d’un monde. Il y a l’écriture du
+contrepoint de Buxtehude, par exemple, mais un peu plus tard. C’est en Allemagne, et en
+Allemagne, le Baroque est venu très, très tard, et ils ont conservé l’écriture du
+contrepoint, et ils ne l’ont jamais lâchée….
+
+Deleuze : D’accord. Alors, il n’y a pas de problème là-dessus. Mais je veux dire, la
+troisième position de Richard était: est-ce qu’on ne peut pas encore même commencer
+par définir l’apport baroque des accords ? D’où son appel à repartir d’une définition des
+consonances et des dissonances, je suppose. [PC : Oui.] Commencer par le problème des
+accords… [33 :00]
+
+Pinhas : … et des résonances harmoniques…
+
+Deleuze : et des résonances harmoniques, oui … ?
+
+                                                                                             8
+
+PC : Mais les dissonances ne sont pas harmoniques au départ ; les dissonances, elles sont
+mélodiques, elles sont expressives, et c’est le fait que les voix expriment des choses
+[Pause]… C’est le fait d’une telle expressivité des voix qui permet le chromatisme.
+
+Deleuze : C’est très intéressant, ça, tu vois, parce que là, je ne sais pas si tu ais raison,
+mais tu rejustifies et tu maintiens ton primat, avec une tout petite différence : tu maintiens
+ton primat des voix qui, à ton avis, pour comprendre le problème, il faut partir des voix.
+Alors c’est très possible… [PC essaie d’intervenir] mais c’est ça que je voudrais
+souligner…
+
+PC : Mais les instruments passent leur temps à imiter les voix à cette époque.
+
+RP : Est-ce que je peux faire une remarque ? C’est que…
+
+PC : Toutes les indications instrumentales sont "col cantare", [Deleuze : Oui!] comme les
+voix, comme [Deleuze : Oui !] etc. Toutes les imitations des…
+
+Deleuze : Ça, c’est un argument historique ; il est très précis…
+
+RP : Seulement une chose : ce n’est pas du tout [34 :00] une négation par rapport à ce que
+dit Pascale, mais plutôt une confirmation. Le chromatisme qui est, effectivement, une des
+composantes fondamentales qui va entrer dans la construction de la musique baroque, et
+cette espèce de généralisation dans le chromatisme plus ouvert par rapport à ce qui va se
+développer ensuite, mais c’est très, très important parce que c’est une espèce de
+retournement de la musique. D’ailleurs, si on parle d’un chromatisme retourné aussi chez
+Monteverdi, c’est un chromatisme qui naît pleinement avec Monteverdi, qui fait partie
+pleinement de son style et qui s’applique à la musique elle-même, et c’est par après coup
+ou en même temps si on veut, mais c’est par inférence, ça, et presque par déférence que
+cela va s’appliquer aux voix. La seule chose qui me choque un petit peu, enfin, qui me
+gêne un petit peu, c’est de dire que la musique ne préexiste pas avant le Baroque, et que
+tout est surdéterminé par les voix.
+
+Deleuze : On laisse ça, on laisse ça… On laisse ça, parce que ce qui m’intéresse, la
+différence des deux positions déjà, mais je sens [35 :00] qu’il n’y a aucun conflit. [A
+Pascale] Toi, tu tiens, en effet… Il faudrait savoir pourquoi tu t’y tiens. Parce que ça
+m’intéresse quant à Leibniz, pourquoi tu tiens à ça.
+
+PC : Parce que dans le contrepoint, tout ce qui est dissonant – et encore, j’espère que tu
+me comprends, je lâche là un peu pour tout le monde – ce qu’il y a, à l’époque de la
+Renaissance, on s’appuie sur la résonance, sur les principes de résonance qui sont les
+premières résonances du son. Et ce principe, il n’est pas, il est réglé, en fait, on fait
+attention à ce que les voix se superposent en respectant la résonance.
+
+RP : Tu ne peux pas expliquer un peu ce qu’est ta résonance parce que c’est important
+pour tout le monde.
+
+PC: Oui, mais ce qui nous intéressera plus, c’est la consonance, c’est la consonance. La
+résonance… c’est…
+
+                                                                                           9
+
+Deleuze: Oui, oui, oui…, non [Deleuze intervient pour réorienter la discussion]
+Continue… Je crois qu’il n’y a pas besoin de l’expliquer. Non, tu continues…
+Consonance, résonance, je suppose qu’on va y arriver [après]… Continue [36 :00] en
+employant les mots…
+
+PC: Et dans l’écriture de contrepoint qui régit l’unité de la résonance, on prépare les
+dissonances, c’est-à-dire, c’est tout le jeu de l’écriture du contrepoint. C’est le
+mouvement. Pourquoi des voix ne vont pas entre en collision ? Pourquoi elles vont
+toujours pouvoir laisser de l’air, un espace les unes entre les autres ?
+
+Deleuze: C’est une ouverture formidable de dire ça. Tu as complètement raison. Or là je
+n’ai pas besoin de faire… C’est une application brute. Qu’est-ce qu’il faut retenir
+de l’harmonie préétablie chez Leibniz? C’est une ouverture du fameux "le meilleur des
+mondes possibles," c’est une ouverture formidable aux dissonances. C’est un art de la
+dissonance.
+
+PC : Voilà. Absolument, et ce que je voudrais ajouter, c’est quand je dis voix, quand je
+parle du contrepoint et je dis voix, je ne dis pas forcément la voix chantée. C’est ce qu’on
+appelle… On dit voix en musique, [37 :00] c’est-à-dire la conduite des voix, qu’elles
+soient instrumentales ou vocales. On appelle ça "une voix”. Je voudrais préciser que
+chaque fois qu’on dit "voix", je ne veux pas dire "voix chantée".
+
+Deleuze : Bien sûr, bien sûr, bien sûr… Je voulais… Voilà… Je lis là dans un livre
+classique sur la musique baroque : "Alors que l’harmonie par intervalle de la Renaissance
+n’admettait que des accords parfaits et des accords de sixte, les autres combinaisons étant
+fondées sur les retards, la polarité entre la basse et le soprano," et ça te donne raison là,
+"ouvre la porte à de nouvelles possibilités harmoniques qui, pour les esprits conservateurs
+de l’époque, semblent le début du chaos." [La référence qu’il lit est peut-être de Manfred
+Bukofzer, Histoire de la musique baroque 1600-1750 (1982), cf. The Fold, note 33, p.
+163 ; Le Pli, note 32, p. 185] C’est-à-dire, c’est les dissonances, c’est le monde des
+dissonances qui… Alors là, on tient, on voit un petit quelque chose avant que tu ne
+reviennes [38 :00]… Toi, toi, [Deleuze s’adresse à Vincent Valls] comment tu prends la
+question par rapport à où on en est ? … Tu peux dire tout autrement que ce qu’on a dit là.
+
+Vincent Valls : Je suis fondamentalement d’accord avec Pascale. Donc, j’ai peu de
+choses à ajouter. [Pause] Je pense qu’il y a une chose qui est fondamentale, [Pause] c’est
+que la musique, la polyphonie franco-flamande était aussi avant tout une musique sacrée
+qui a refusé, à mon sens, l’expressivité, et c’est ce désir de faire entrer l’expression des
+sentiments dans la musique qui va passer par la monodie accompagnée et par l’emploi du
+chromatisme de certaines formules. [Pause] [39 :00] Je pense également qu’il y a un
+rapport au texte et à la voix…
+
+Deleuze : [Pause] Ouais… Là je peux poser… et la question, c’est peut-être prématurée
+parce que je ne suis pas du tout sûr de moi, ça va de soi. Quand vous dites, tous les deux,
+avant… [Pause] il n’y avait pas, enfin je simplifie, il n’y avait pas expressivité, moi
+j’avais tendance plutôt à penser que la découverte baroque de l’harmonie avait fondé une
+toute nouvelle expressivité, et que c’est cette nouvelle expressivité qui allait faire
+
+                                                                                            10
+
+scandale. Parce que, avant, il y avait bien une expressivité. La musique était parfaitement
+expressive, [40 :00] et il me semble que c’est confirmé par tous ceux, enfin appelons-les
+pour faciliter, par tous ceux qui sont réactionnaires au moment, à l’époque de la musique
+baroque, tous ceux qui voudraient revenir en arrière, et dont le thème principal est "le
+Baroque ou la découverte des accords, de l’harmonie par accords," … [Interruption des
+versions audios] [40 :23]
+
+Partie 2
+
+Deleuze : (Texte du film) [Tous ceux qui voudraient revenir en arrière] flanquent en
+l’air l’expressivité. La vraie expressivité, c’était quoi ? C’était pour eux l’inflexion. C’est
+l’inflexion mélodique, [Retour à l’enregistrement] mais elle est présentée comme la seule
+expressivité. Alors, je prends par exemple un auteur qui musicalement est en effet
+retardataire par rapport à son temps, à Rousseau. Sa position contre l’harmonie [baroque],
+la position de Rousseau contre l’harmonie baroque, c’est tout le temps… Mais… Vous
+tuez l’expressivité. L’expressivité ne dépend pas des accords. Ce qu’on reprochait à la
+musique baroque, surtout, c’est beaucoup plus, d’avoir prétendu – et ça, alors ça
+m’intéresse quant à Leibniz – c’est d’avoir prétendu [41 :00] faire dépendre l’expressivité
+des accords. Et on voit bien ce qu’ils veulent dire. Comment voulez-vous que de
+l’expressive sorte d’un accord de sons ? [Pause] Ce n’est pas ça ?
+
+PC : Ce n’est pas. C’est le contraire.
+
+RP : Je voudrais dire juste un mot… Attends, juste un petit mot [Deleuze semble vouloir
+continuer sans interruption] … Il faudrait se mettre, pour les gens qui ne connaissent pas,
+dans la position des gens qui écoutaient la musique au début du [vingtième] siècle, le
+Pierrot lunaire de Schoenberg. L’inflexion du récitatif, c’est exactement ce qui se passe
+dans les pièces de Monteverdi. [Deleuze a l’air résigné] Ce qui se passe, c’est qu’il y a
+une espèce de torsion radicale qui est infligée, d’une part, au texte, et d’autre part, à la
+ligne mélodique majeure et aux lignes continues. Et ça, à la même inflexion dans un autre
+registre, c’est exactement la même chose avec l’apparition des pièces majeures de
+Schoenberg.
+
+Mais la chose principale que je voulais dire que, peut-être par-delà tout ce qu’on a pu dire
+sur l’expressivité, sur le changement harmonique lui-même, [42 :00] quoique le problème
+des âmes harmoniques devienne prépondérant -- et j’insiste là-dessus, le fait qu’il y a une
+dominante fixe à la place de la dominante flottante, je crois est un point très, très
+important -- c’est qu’on rentre dans un monde avec la musique baroque de la
+simultanéité, et on passe effectivement à un monde du vertical, c’est-à-dire qu’on change
+complètement d’axe et que la révolution s’incarne de là, et on rejoint en résonance totale
+l’apport de Leibniz parce qu’il me semble que la philosophie de Leibniz, c’est
+l’ouverture, c’est l’entrée dans un monde de la simultanéité.
+
+[Valls …] : Ce qu’il y a aussi… La dominante fixe suppose une unité de l’échelle, et cela
+est postérieur. L’échelle n’existe pas encore unifiée à l’époque de Monteverdi. Il faut
+attendre pratiquement un siècle, …
+
+                                                                                               11
+
+Deleuze : Oui.
+
+Valls : … et cela variera selon le pays. L’unification de l’échelle va beaucoup plus
+rapidement en Allemagne. Bach écrit dans une échelle totalement unifiée, y compris en
+mineur, avec les trois tons de mineur qui peuvent éventuellement [43 :00] se superposer.
+Alors qu’à la même époque en France, le mode mineur est encore plus fluctuant ; il n’est
+pas encore complètement unifié. Mais moi, j’aurais même tendance à dire que les
+compositeurs comme Monteverdi ne recherchaient pas cette unification parce que ça leur
+permettait justement de jouer sur l’ambiguïté, jouer sur les deux tableaux, …
+
+Deleuze : Surement.
+
+Valls : … et c’est ce qu’on peut très bien entendre dans… il y a une œuvre qui, pour moi,
+est relativement importante, c’est l’Orfeo de Monteverdi, parce qu’on y trouve cette
+différence radicale entre les scènes pastorales qui ne sont pas encore tonales, mais on voit
+un rapport d’échelle qui s’instaure, donc un rapport à dominante tonique qui s’oppose à
+toutes les parties récitatives, entre autres, d’autres œuvres ou d’Orfeo même qui font…
+[Pause] qui sont beaucoup plus modales et qui s’opposent. Cela leur permet de jouer (sur
+les niveaux) et d’avoir, [44 :00] d’un côté, une harmonie qui dérive de la musique de
+danse qui est justement la musique pastorale, et d’autre côté, d’avoir une espèce
+d’errance qui leur permet d’exprimer et d’opposer les deux sentiments.
+
+Deleuze : Ça, je te suis complètement, mais à mon avis, nous n’avons qu’un problème à
+cet égard. Si tu veux dire que de telles mutations se font sur de larges périodes de temps,
+c’est vrai non seulement pour la musique, mais pour la philosophie. C’est-à-dire, par
+exemple, on ne peut pas dire qu’avec Leibniz, il n’y a que ceci qui se passe. Il joue
+encore… il y a tels éléments de Cartésianisme qui subsistent, et il y a tels éléments de la
+Renaissance qui subsistent, et il joue avec tout ça ; et ce que tu dis d’un musicien, est vrai
+également d’un philosophe, est vrai également d’un peintre, et vrai… ça n’empêche pas à
+mon avis, ça n’empêche pas ce qu’on pourrait appeler "les rigueurs du concept," [45 :00]
+le concept ne disant pas, "à partir d’un tel moment, il y a ceci", mais le concept
+précisément faisant valoir les germes de nouveauté qui travaillent encore dans l’ancien.
+Comment ils vont précipiter, se décaler, etc. Là on est… Bien sûr, il faut rajouter que tous
+les indices de temps que tu dis.
+
+PC : Pourtant c’est important parce qu’il demeure avec la bipolarité de la basse et de la
+mélodie, c’est de nouveaux rapports. C’est-à-dire qu’il y a des forces, des nouvelles
+forces qui entrent en jeu, et que ces forces, elles sont … peu à peu les accords, alors
+qu’ils étaient plaqués pour soutenir le jeu instrumental ou le jeu vocal, ils deviennent peu
+à peu fonctionnels, ils entrent dans ce nouveau rapport [46 :00] qui est celui des formes
+alternées, des formes opposées, de dialogue, de réponses de groupe à groupe, d’étages qui
+communiquent les uns entre les autres.
+
+Deleuze : Ouais ?
+
+PC : C’est ainsi que les accords peu à peu ont des rapports de tension entre eux, des
+rapports de force. Donc, il y a un rapport essentiel qui naît, qui est le rapport de quinte,
+
+                                                                                            12
+
+[Deleuze : Oui !] qui va être déterminant pour la construction du système des
+consonances. La quinte est un… Quand on fait résonner un son, on a donc la série des
+harmoniques, qui est, comment le dire, l’harmonique le plus fort, c’est l’harmonique qui
+revient le plus souvent, et qui est le facteur le plus déterminant pour l’identité d’un son.
+
+Deleuze : Mais là, pardon, est-ce que tu peux très rapidement juste, pour donner une idée
+générale à tout le monde, toute cette liste d’accords ? [47 :00]
+
+PC : Il y a un accord dans le son, oui.
+
+Deleuze : Dominant, tonique… Quel serait l’ordre ? … Les entre-tonals…
+
+PC : Ce qu’il faut comprendre, c’est que le son est un accord en lui-même. Le son est un
+accord. On construit les gammes en couchant l’accord qui est dans la résonance du son.
+
+Deleuze : Voilà, bon !
+
+PC : C’est quelque chose qui est simultané et couché et reporté à l’horizontal, et qui
+donne des points qui constituent la gamme tonale, la gamme du tonique. Et c’est un
+rapport de parenté qui est créé dans une tension. Et cette tension, elle se constitue par
+l’harmonique qui est la quinte, qui est le troisième harmonique.
+
+Deleuze : Donc, j’ai un centre tonique déjà…
+
+PC : Voilà, il y a un centre tonique qui est un point X, un point où on prend un son et dit
+que ce son caractérise… [48 :00]
+
+Deleuze : Et j’ai des harmoniques [PC : Voilà] J’ai un centre tonique et des harmoniques.
+
+PC : Mais tout son qu’on a…
+
+Deleuze : Qu’est-ce qui me donne là-dessus la dominante ?
+
+PC : La dominante, c’est le fait que lorsqu’on entend un son, on ne suppose pas qu’il
+vienne du néant ; on suppose qu’il vient d’un état résonant, que donc qu’il procède d’un
+autre son. [Deleuze : Ouais ?] On ne donne pas un do, un re, un mi comme ça, à priori. Il
+est généré par quelque chose d’autre.
+
+Deleuze : Sous-dominante…
+
+PC : Attends, non, non, non, ce n’est pas ça. Il est généré par le fait que, dans un son, le
+premier harmonique, c’est l’harmonique qui redouble ce son, c’est-à-dire on a un do,
+l’harmonique, ça va être le do d’en-dessus, l’autre octave, qui est dans un rapport
+d’identité. Il n’y a pas d’altérité, c’est-à-dire que ce do va avoir encore les mêmes
+harmoniques, et ça ne va rien ouvrir, il n’y a pas de génération. [49 :00] La première
+génération, c’est le second harmonique importante, c’est celui qui reviendra le plus
+souvent, mais en deuxième importance, disons, et ça va être la quinte. Bum, baaa [PC
+chante deux sons et rit] voilà une quinte, et ça c’est la dominante, la dominante de tout
+
+                                                                                           13
+
+son. C’est la quinte ou dominante, c’est, comment dire, c’est l’expression de la première
+altérité d’un son ; c’est ce qui va générer un cycle, qui va ouvrir les sons les uns aux
+autres… Ça va ?... Et c’est très important parce que c’est là qu’il y a une tension, qui fait
+que les sons ne sont pas des mesures juxtaposées, mais ont un rapport dynamique les uns
+entre les autres, un rapport où la résonance est conçue comme quelque chose
+d’extrêmement précis. [50 :00] On ne peut pas se promener n’importe comment. Et la
+façon dont les premiers accords du Baroque agissaient n’était pas encore tendue, n’était
+pas encore dynamique. Et je crois qu’il y a… -- moi, je l’explique comme ça ; je crois
+que certaines personnes ressentent aussi dans la musique -- il y a un lien entre le fait qu’il
+y a une tension dramatique, il y a une ouverture des tensions dans la musique, dans le
+pathétique, dans l’expression propre au Baroque qui fait qu’on a besoin de trouver dans
+les sons des appuis qui vont construire des progressions, des progressions de tension, des
+progressions qui vont devenir de plus en plus hiérarchiques, qui vont devenir fonctionnels
+les unes par rapport aux autres… Je vais trop vite ?
+
+Deleuze : Pardon de reprendre tout de suite ma question : ces découvertes
+appartiennent… ?
+
+PC : … au Baroque, au cycle des quintes…
+
+Deleuze : A l’analyse de l’accord, de l’harmonie par accord…
+
+PC : Oui, mais tout ça va lentement [51 :00] parce que, par exemple, Rameau a une…
+
+Deleuze : D’accord, cela arrive très lentement sous les conditions que Vincent a
+[expliquées]…
+
+PC : Et c’est très lié aux besoins de la musique, [Deleuze : D’accord] c’est très lié au
+besoin d’exprimer des choses…
+
+Deleuze : Bien, mais est-ce que ce n’est pas une voie où précisément tu pouvais faire ton
+explication indépendamment du problème des voix ?
+
+PC : Ehhhhh… [Pause] Je ne sais pas ; non, pas vraiment.
+
+Deleuze : Pas vraiment.
+
+PC : Non ! Tous les auteurs qui ont été déterminants et qui ont été vraiment les normes…
+
+Deleuze : Oui, c’est ça qui m’intéresse…
+
+PC : … ont commencé par travailler avec les voix. [On entend le bruit fort d’un avion] Le
+madrigal est vraiment la forme qui évolue le plus vite et qui apporte le plus.
+
+Deleuze : J’entends bien. Ouais.
+
+PC : Il n’y a pas un madrigaliste qui n’ait pas fait un madrigal qui apporte une nouveauté
+entre les années…
+
+                                                                                           14
+
+Deleuze : Mais je ne peux pas dire que cette condition de… cette conduite des voix était
+une condition [52 :00] pour cette nouvelle organisation de l’harmonie par accords ?
+
+PC : Attends, répète… Cette conduite des voix était une condition de… ?
+
+Deleuze : … était une simple condition pour la découverte de cette harmonie par accords
+et des déterminations de cette harmonie par accords… [Saut dans le film] -- Une seconde
+[Deleuze résiste l’interruption] -- Mon souci c’est toujours, est-ce que je peux séparer là
+les deux lignes conceptuelles ou est-ce que je ne peux pas les séparer…
+
+PC : Bien sûr, tu peux les séparer ; tu peux les séparer mais… [Les propos suivants de
+PC sont peu audibles, pendant à peu près 90 secondes]
+
+Deleuze : D’accord, d’accord …
+
+PC : [Elle continue, inaudible]
+
+Deleuze : Oui, cela m’intéresserait d’autant plus que ce serait deux lignes alors ;
+philosophiquement [53 :00] ce serait deux lignes différentes chez Leibniz qui, elles aussi,
+convergeraient, se recouperaient…
+
+PC : [Propos inaudibles, pendant 50 secondes ; Deleuze réagit : D’accord, oui, oui, oui]
+[Retour au film] Bach utilise et relance ces voix en parcourant par quinte tous les degrés,
+tous les degrés [54 :00] diatoniques.
+
+Deleuze : Oui, oui, oui, oui.
+
+PC : Il y a cette notion de cycle et cette notion de graduation, de passer, d’étagement de
+grades.
+
+Deleuze : Oui, oui, oui, oui. Je voudrais juste, je fais un point très, très rapide là. C’est
+qu’on se rend compte, ceux qui pensent à Leibniz, ici, déjà se rendent compte d’un petit
+amalgame, que lorsque Leibniz parle de l’accord des âmes entre elles, on peut se dire,
+bon, c’est une manière de parler, comme ça ; il y a l’équivalent chez Malebranche, chez
+Descartes, il y a l’équivalent chez plein de philosophes. Eh bien, peut-être pas, peut-être
+pas. Peut-être qu’il introduit déjà une notion d’accords qui n’est pas loin [55 :00] de ce
+qui se passe à ce moment-là, ou ce qui s’est passé dans la musique, et que les rapports
+entre monades, tels qu’on les a vus, vous savez, il y a une principale, des dominantes, les
+sous-dominantes, peu importe mais… Tout ça est très lié à quelque chose d’absolument
+nouveau au point que ce n’est pas, comme on le dit, une variante concernant les théories
+de l’union de l’âme et du corps chez Leibniz. Ce n’est pas une variante ; c’est quelque
+chose de tout à fait nouveau et qui est lié à une nouvelle conception de l’harmonie, bien
+qu’il ne puisse pas l’invoquer pour la raison qu’a dit Vincent. C’est que c’est une
+conception de l’harmonie qui s’élabore, [56 :00] et sans doute, dans plusieurs domaines.
+Elle s’élabore… Elle doit s’élaborer à la fois en astronomie, en physique, en
+mathém[atiques]… [Pause], en musique, en philosophie, et qu’elle doit s’élaborer, elle
+s’élabore sur des dizaines d’années.
+
+                                                                                            15
+
+Et enfin, on fait un pas en avant un petit peu. Tu as quelque chose à ajouter, Vincent ?
+
+Valls : Non, pas pour l’instant.
+
+Deleuze : Pas pour l’instant. [Deleuze se tourne vers le tableau, s’adresse à Richard
+Pinhas] Et tu voudrais … ?
+
+RP : Non, c’est juste un dessin d’une table des harmonies pour que les gens voient….
+Quand un son est donné, fondamentalement [Pinhas se réfère à un dessin qu’il a fait au
+tableau], il y a les résonances qui arrivent par niveaux, exactement comme l’a expliqué
+Pascale, qu’on voit d’une manière projetée. On arrive à comprendre qu’il arrive la quinte,
+la tiers, la septième, la neuvième, etc., une fois dit que la table des harmonies commence
+par étapes. L’harmonie, c’est une partielle du son fondamentale qui vient… Les termes
+sont très importants parce que la notion d’harmonie, qui pour nous est fondamentale chez
+Leibniz, [57 :00] est fondamentale aussi en musique et notamment à cette période parce
+qu’il y avait simplement, comme tu disais, tout à l’heure, Pascale, une zone de fusion qui
+arrive entre le vertical et l’horizontal, et c’est cette zone de fusion dans laquelle va naître
+le Baroque.
+
+Alors, le rapport des consonances des accords, c’est comme s’il y avait des espèces de
+projection de virtualité. Les résonances de l’accord, la table des harmoniques, sont à la
+lettre, littéralement, des virtualités. On est dans un monde où règne une temporalité –
+temporalité, ce n’est pas un bon mot – mais où règne une simultanéité. La simultanéité
+est représentée d’abord par le son, et ensuite par les accords, puis par la succession des
+accords, non pas dans leur succession, mais dans leur interpénétration, donc sur un axe
+littéralement vertical. Et il va y avoir en dessous des sons fondamentaux, en dessous de
+consonances fondamentales, il va y avoir une profusion et une prolifération de
+consonances virtuelles qui sont actualisées selon les modes techniques et selon les modes
+d’effectuation du compositeur. [58 :00] Et ce sont ces virtualités qu’on retrouve dans le
+domaine de la philosophie, et notamment … je dirais des virtualités inconscientes ou
+presque inconscientes qui vont être actualisées par le compositeur et qui vont former le
+nouveau système des consonances. Mais ça revient à ce qu’a dit Pascale…
+
+Deleuze : Ah, non, on retombe là… Parfait… Pascale et Vincent, ils en étaient là, il me
+semble, à la question des consonances.
+
+PC : ... C’était à propos des consonances, la ligne des basses au lieu d’être attentive à
+l’expressivité des voix mélodiques instrumentales ou vocales deviennent constructives à
+un univers harmonique, c’est-à-dire le rapport s’inverse, c’est-à-dire au milieu, fin
+baroque …
+
+Deleuze : (Tu) répètes… ?
+
+PC : … le rapport …
+
+Deleuze : Qu’est-ce qui s’inverse ?
+
+                                                                                             16
+
+PC : Ce qui s’inverse, c’est que la basse devient harmonique à un point tel, c’est-à-dire…
+Ce dont on vient de parler, c’est-à-dire [59 :00] ce que contient les accords devient ce qui
+va… [Pause] ce qui va organiser un nouveau contrepoint. C’est-à-dire que le contrepoint
+se réinstalle, revient, mais il est organisé dans un plan qui est de plus en plus architectural
+par cette tension qui s’est créée, qui a créé une architecture, vraiment une architecture
+tonique des points, des points de rapport et de tensions à l’intérieur des vibrations des
+sons. Je m’explique… Ça va ?... Et donc, par exemple, ce qu’on appelle la basse, ensuite
+ce qu’on appelle la basse modulante ou la basse "ostinato" est une basse qui va donner
+tous les points par lesquels une composition musicale va évoluer et qui peut même
+donner la forme générale [60 :00] d’une composition, même très grande comme la
+Passion, les cantates de Bach. Ce n’est pas seulement la ligne de basse, ce n’est pas
+seulement local ; elle ne va pas avoir une action locale, alors qu’au début du Baroque,
+elle a une action très, très locale, elle avance par points, par touches ; elle soutient
+certains endroits et le reste du temps, elle attend, alors que là, cinquante ans plus tard, elle
+n’attend plus du tout.
+
+Valls : … est considéré "le rythme harmonique".
+
+Deleuze : C’est ça. Oui ?
+
+PC : Voilà.
+
+Valls : [Propos au départ sont peu audibles] … relativement indépendant du rythme des
+voix dans le sens de la ligne, et un harmonique peut avoir son propre rythme qui est
+également indépendant du rythme de sa basse, parce que par le jeu du renversement, on
+peut réfléchir un même accord tandis que le rythme de sa basse a son propre rythme ; on
+va avoir le rythme de l’harmonie qui va s’établir. [Deleuze : Oui, oui…]
+
+PC : Et ce rythme d’harmonie qui s’est accélérée, qui s’est densifiée, je crois enfin, on
+explique que [61 :00] c’est dans les circonstances où l’action dramatique devait être de
+plus en plus soutenue – enfin, c’est ce que les musiciens s’expliquent – que la basse a dû
+construire des chemins, a dû construire des fonctions de plus en plus précises, de plus en
+plus complexes. C’est ça qui… Il y a quand même un rapport aux voix qui pendant tout
+le début du Baroque, je ne sais pas, on ne peut pas l’oblitérer. Ensuite cela devient
+instrumental, parce que tout se rapporte dans les formes du code du style concertant
+instrumental qui est l’héritier vraiment des façons du madrigal, des madrigaux et des…
+C’est difficile de ne pas penser aux voix au début du Baroque.
+
+Deleuze : Tu reviens à la… [Pascale sourit à la réaction de Deleuze]
+
+PC : Et puis, après qu’on apprend, on oublie ! [62 :00]
+
+RP : Peut-être qu’il y a… C’est important. Je pense que la formule est exemplaire, que les
+voix, et c’est très important, sont comme pliées. C’est le terme qu’on emploie en
+musique…
+
+Deleuze : Les voix pliées, oui, ça existe.
+
+                                                                                           17
+
+RP : Elles sont pliées sur l’axe vertical ; ce n’est pas une métaphore. Et c’est exactement
+ce que tu as dit [à Pascale]. [Pendant que RP parle, Deleuze parle aussi à voix très
+basse, de façon inaudible, à quelqu’un à côté de lui] C’est-à-dire que les voix sont
+importantes, mais elles subissent un mouvement de torsion, sur l’axe vertical. Là c’est la
+première chose. La deuxième chose est importante dans le passage au Baroque -- c’est
+juste une remarque comme ça – c’est que quand tu as dit tout à l’heure [à Pascale] qu’il y
+a la cadenza harmonique qui arrive. Et qu’est-ce que ça veut dire, ça ? C’est littéralement
+ce qu’on appelle, avec les termes modernes -- mais quelque part cela correspond bien
+aussi à la philosophie de Leibniz -- une mise en variation continue du tempo. Et ça, ça
+fait partie – à proprement parler du matériau musical lui-même. Le terme de "matériau"
+est un terme récent et relativement moderne, et cela fait partie du travail de la matière
+sonore.
+
+Deleuze : C’est leibnizien. Il y a une continuité.
+
+RP : Voilà. Alors, donc, on a une réorganisation du matériau qui passe aussi par les
+cadences harmoniques.
+
+Deleuze : C’est la basse continue, c’est la basse continue, [63 :00] et il y a l’équivalent
+chez Leibniz -- je n’ai pas besoin… c’est des points qu’on a déjà présentés -- mais elle a
+un rôle fondamental, elle a un rôle fondamental puisque il y a même une loi, c’est une loi,
+c’est une loi de l’harmonie, la continuité… [Pause] Oui, très bien… Ouais… Je suis déjà
+satisfait, et alors… Qu’est-ce que, qu’est-ce que… [Deleuze se tourne du côté de RP]
+
+RP : Peut-être Pascale pourrait nous expliquer un petit peu ce qui se passe au niveau du
+matériau dans ce changement du matériau sonore lui-même, comme par exemple, avec
+l’apparition d’un certain type d’orchestration, par exemple. On s’aperçoit que… Bon,
+moi, je donne juste une indication : c’est qu’il va y avoir un phénomène très moderne
+comme la stéréophonie, c’est-à-dire la répartition bipolaire des instruments. Autrement,
+je prends un exemple : au lieu qu’il y a un orgue au milieu, ou un orgue à droite, il va y
+avoir un orgue à gauche et un orgue à droite, et aucune écriture faite pour ça. Pareil pour
+d’autres instruments, donc, tout un tas de choses qui touchent au matériau. Et Pascale a
+raison [64 :00] d’y insister : c’est que la transformation de la musique classique de
+l’époque en musique baroque, elle se fait sur un siècle, un siècle et demi, et ça c’est pareil
+en philosophie. Je veux dire que tout ce type de mutation se fait sur un assez long temps,
+et donc l’écriture prend forme pendant beaucoup de périodes successives. Et je pense que
+tu pourrais peut-être dire quelque chose sur l’organisation de ce matériau, une fois dit, je
+pense qu’elle est fondamentale, et qu’elle est fondamentale dans le développement de
+cette continuité, de cette simultanéité qui prend naissance. [Regard sur le visage de PC
+qui écoute et réfléchit]
+
+PC : Enfin, dès le début de la musique concertante, de la musique instrumentale de
+Venise, c’est surtout à Venise : d’abord il y a l’école vénitienne, puis l’école bolognaise,
+puis l’école française, puis l’école allemande. Et tout ça sur des générations qui se
+suivent. Et ce qui s’amorce, c’est effectivement des groupes d’instruments [65 :00] qui
+représentent des… C’est des timbres, c’est vraiment des groupes de timbres, et ce qui est
+important, c’est que, du fait qu’ils sont différenciés, il y a des groupes (d’instruments) de
+
+                                                                                           18
+
+cordes qui s’opposent aux groupes d’instruments à vent, avec des "continuo" chacun –
+chacun a sa basse continue – et c’est une organisation formelle qui est vraiment le début
+de tout le… enfin, c’est le principe de la variation, des variations dans l’orchestration.
+C’est là que naît la musique instrumentale qui va donner l’orchestre ; c’est la naissance
+de l’orchestre. [Pause]… Ce n’était pas tout à fait, ça ?
+
+Deleuze : Ah, si, ça me va tout à fait ; ça me va tout à fait. [66 :00]
+
+PC : Vous savez, j’ai essayé de te répondre sur un plan plus stricte… enfin, sur un plan
+assez strictement musical parce que je crois que c’est à toi de faire la relation avec
+Leibniz.
+
+Deleuze : Mais, c’est celui-là, et moi, je ne veux plus rien faire. [Rires, surtout PC] Je ne
+veux plus rien faire. Moi, je voudrais rêver, qu’on rêve ensemble presque ceci : on aurait
+à travailler ensemble une autre année. Eh bien, qu’est-ce qu’on se serait dit là en ce
+moment ? On se serait dit que c’est ça, c’est nous qui pouvons, c’est ça qu’on va faire,
+parce que bizarrement, il me semble que c’est parfait vraiment. Il ne s’agit pas
+d’appliquer des notions de musique complexes à Leibniz. Il s’agit vraiment de chercher
+dans Leibniz en quoi cette idée, d’une part, d’un accord des âmes, d’autre part, d’une
+espèce de changement de direction [où] l’accord des âmes [67 :00] devient accord des
+âmes avec les corps, n’a pu se faire qu’en même temps un système – système nommé par
+Leibniz de l’harmonie préétablie – n’a pu se faire qu’en même temps que la musique
+opérait à mon avis -- c’est pour ça que je tenais, que j’ai toujours essayé de réintroduire
+l’indépendance des deux facteurs… eh ? -- deux moments corrélatifs qui ont constitué la
+musique baroque et qui est la découverte de l’harmonie par accords avec tout ce qu’on
+nous a montré comme signification, c’est-à-dire les composantes internes évidemment,
+les composantes internes du corps résonnant, [68 :00] [Pause] et d’autre part, sans que
+là… l’autre aspect strictement complémentaire, une nouvelle machination des voix et des
+instruments ou, si vous préférez, philosophiquement alors, une nouvelle machination des
+âmes et des corps. Ce qui voudrait dire quoi ? Ce qui voudrait dire que c’est dans la
+mesure où chacun suit ses propres lois qu’il entre en accord avec l’autre. Si vous voulez,
+c’est l’idée d’une autonomie des deux séries, qui va fonder la correspondance ou ce que
+Leibniz appelle le "consentement", [69 :00] et ce sera à partir de tout cette, presque, à
+faire rendre à Leibniz un sonore absolument.
+
+RP : Il y un dernier point qui me paraît très, très important. [Deleuze : Oui ?] C’est en
+rapport avec les notions musicales récents qui ont une résonance totale avec la
+philosophie de Leibniz. Ils sont, d’une part, le synthétiseur qui est une expression de
+monade, de la monade, quoi. Je veux dire, à la lettre, la monade synthétiseur, c’est
+l’actualisation existante du monde. Et d’autre part, un autre terme, un appareil, c’est-àdire une machine technique qui s’appelle un harmoniseur, et c’est un appareil très, très
+important. Pourquoi ? Parce que c’est un appareil qui existe depuis une dizaine d’années
+maintenant et que Boulez utilise dans ses dernières créations depuis quatre ou cinq ans.
+J’aimerais bien faire un petit schéma pour expliquer comment ça fonctionne parce que
+cela met au jour les virtualités du monde musical qui sont déjà présentes complètement
+dans la musique baroque [70 :00] et qui montre comment les mondes différents qui sont
+incarnés par ces différentes virtualités qui sont les consonances, ces véritables pluralités,
+
+                                                                                          19
+
+parce ses millions d’âmes harmoniques qui sont les résonances et les harmonies ellesmêmes. Il va y avoir une espèce de prise en charge, d’actualisations de certains auteurs,
+de certaines partielles harmoniques, et ça va créer un monde technique très, très… je n’ai
+pas le terme exacte mais je dirais très modulé, quoi. Est-ce que je peux faire un petit
+dessein pour montrer comment ça fonctionne ?
+
+Deleuze : Mais, certainement. Mais, certainement.
+
+RP : Ça s’appelle vraiment un harmoniseur. Alors, je l’explique. [Il se met au tableau et
+trace le dessein tout en parlant]
+
+Deleuze : Un dessein simplifié parce que ça, c’est complexe.
+
+RP : A partir du moment où on émet une note quel qu’elle soit, ou un accord, il va y avoir
+d’abord un jeu temporel sur cet accord, c’est-à-dire que cet accord est décalé une fraction
+de second. Elle est, à la limite, non saisissable [71 :00] à l’oreille, c’est-à-dire une
+centième d’une second ou une millième d’un second. Et un harmoniseur généralement
+travaille avec deux voix ou plus que deux voix. Donc ce n’est pas quelque chose de duel.
+Il va donner naissance, à partir d’un accord unique, qui est déjà constitué d’une pluralité
+de notes et donc de consonances, à une pluralité de voix. Et cette machine qu’on peut se
+situer ici, va traiter cet accord de manière à ce qu’il fasse résonner des accords préétablis
+par le compositeur et qui peuvent varier de l’un à l’autre. J’en prends deux comme
+exemples, mais on peut en imaginer beaucoup. Alors techniquement, ça se passe par un
+retard sur le temps qui n’est pas perceptible par l’oreille parce que c’est un retard d’un
+ordre d’une centième ou d’une millième de seconds, qui s’appelle un "delay", en anglais.
+Et à partir de cet accord, je vais pouvoir avoir, par exemple, ici la quinte et là la tiers –
+c’est pareil pour une note – on va avoir donc des consonances de consonances. Et ce
+monde, qui est un monde de virtualités possibles, [72 :00] évidemment un monde de
+virtualité actualisable, est actualisable selon le désir… selon les lois de la composition
+qu’aura appliquées le compositeur. Donc ce sont en soi des fantômes de sons mais qui
+vont pouvoir être actualisés à un tel ou tel moment de manière à venir résonner entre ici
+et ici [RP indique le dessein], sur un plan qui est virtuel et qui passe à l’actualité par la
+mise en marche de la machine et les désirs du compositeur, ou qui va venir résonner l’un
+avec la consonance de basse ou l’accord de basse, ou tous les trois en même temps, où on
+peut imaginer une dizaine de sons ou, voire, une centaine de sons déjà complexes euxmêmes, qui résonnent simultanément dans une espèce de monde continu, le monde de la
+composition et de l’harmonie préétablie. Et c’est comme si on avait une réponse
+aujourd’hui technique aux "grandes lois”, qu’avait… "grandes lois", entre guillemets…
+
+Deleuze : Au jeu… Oui, parce que je vous disais un jour que, comprenez, dire que Dieu a
+fait le monde en jouant, c’est une idée très intéressante [73 :00] qui parcourt toute la
+philosophie et qui commence très tôt. Mais l’important, c’est de savoir quel est le mode
+de jeu. L’idée peut signifier, et ce n’est même pas une idée tant qu’on n’a pas dit de quel
+jeu il s’agissait. On l’a vu trop brièvement parce que, là aussi, dans une reprise d’une
+autre étude, qu’il faudrait étudier de très, très près ce que Leibniz présente comme "le jeu
+de Dieu" quand il crée le monde, et on a vu, le peu qu’on a vu, c’était extrêmement
+complexe, que c’était un type de jeu qui n’était pas du tout le même que le jeu d’Héraclite
+
+                                                                                          20
+
+ou que le jeu de Mallarmé, et que c’est un type de jeu très, très spécial. [Deleuze regarde
+le dessein de RP au tableau] Là, ce qui est intéressant, c’est que le jeu de l’harmoniseur,
+c’est un type de jeu, je ne veux pas dire du tout que ce soit celui de Leibniz, mais qui est
+de la même famille, tout à fait de la même famille. [74 :00]
+
+Ecoutez, je souhaite que ça se termine comme ça. Ce que je voudrais vous dire, c’est
+deux choses. La semaine prochaine, comme je l’ai déjà dit, mais j’y tiens parce que
+sinon, il y en a pleins d’entre vous – alors, écoutez-moi bien – qui seront dans l’ennui :
+mardi prochain, je reviens mais uniquement pour voir les premiers cycles, deuxième
+cycles, troisième cycles en fonction de leurs travaux personnels et qui ont des problèmes
+et des choses à me faire signer. Donc je serai à leur disposition mardi ; ça, ne l’oubliez
+pas. Et on règle mardi tous vos problèmes des premiers, deuxième et troisième cycles.
+Alors, faites-le, venez ; sinon, j’ai dit que vous pouviez me téléphoner si vous ne pouviez
+pas venir, si vous avez un problème d’urgence. [75 :00] C’est très important que votre
+situation administrative soit au point. Donc, on se donne rendez-vous mardi prochain vers
+10 heures, à cet égard.
+
+Sinon, l’autre chose, elle est très simple. Je trouve que l’année que nous avons faite a été
+encore une année riche, et je dis, sans aucunement flatterie de votre part, que ça a été en
+très grande partie grâce à vous. Et enfin, je remercie très, très vivement ceux qui sont
+intervenus dans cette histoire de musique. Donc, j’aime bien qu’elle nous laisse, au
+besoin, avec des impressions confuses. Mais je crois que, en tout cas pour moi, elle me
+donne des points de départ de travail que je n’aurais pas eus sans cette séance. Voilà,
+merci beaucoup. [Fin de l’enregistrement ; il était une fois à Vincennes/St. Denis… ]
+[1 :15 :58]

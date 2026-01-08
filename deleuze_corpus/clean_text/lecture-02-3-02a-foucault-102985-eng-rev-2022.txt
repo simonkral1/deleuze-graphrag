@@ -1,0 +1,981 @@
+1
+
+Gilles Deleuze
+
+Seminar on Foucault, 1985-1986
+
+Part I: Knowledge (Historical Formations)
+
+Lecture 02, 29 October 1985
+
+Transcribed by Annabelle Dufourcq; time stamp and additional revisions, Charles J.
+Stivale
+
+Translated by Mary Beth Mader
+
+Part 1
+
+About what we have to do, about what we did last time, what do you have to say? This work
+should imply a certain sort of collaboration for you, even if you have not read Foucault. It’s
+about what it awakens in you, do you see any connections to be drawn, things of that nature, in
+relation to what you know. [Pause] I’m smiling at you to encourage you. [Pause] Okay, it’ll
+come… [Pause] Who here is doing an undergraduate degree [premier cycle]? So, those of you
+who are undergraduates, for the next time, I would like you to hand in a small sheet of paper,
+with your name and address, but especially with what you are doing, which DEUG,1 which
+whatever-it-is, and what your areas of interest and study are this year. So. And then, since there
+are not many of you, I’ll take them one by one as needed. I would like to have this next time.
+Okay, so . . . I’ll try to recap. I want to say, even what I’m calling your reactions, that can be
+anything, okay, in whatever field, depending on what we talked about . . . [Pause] Okay, I’ll try
+to recap.
+
+Our last session was on the topic of: what is an archive according to Foucault? What is
+archaeology? What we brought to light is a very general idea, namely: seeing and speaking, or
+more precisely, but this “more precisely” should already seem almost startling to us, and we are
+not yet in a position to understand it, we just know that the terms that follow are more precise
+than “seeing and speaking.” Seeing and speaking, or more precisely, the visible and the statable,
+or, if you prefer, visibilities and statements, make up the two stable forms in each period. In the
+end, a substantial portion of Foucault’s corpus consists in dividing up and positioning these two
+forms—I would say that from History of Madness to Discipline and Punish (I’m not saying that
+Foucault’s books can be reduced to this, I’m saying that they include this)—distributing two
+forms according to the given historical period: the form of visibility, the form of statability. And
+I stressed once and for all that certain interpretations of Foucault that sacrifice the conception of
+the visible to a conception of the statement, of the statable or the sayable, are necessarily led to
+mutilate Foucault’s thought.
+
+Hence, the visible and the statable comprise two stable forms in each historical period. This
+should perhaps even be reversed: what defines an historical period is a complex field of visibility
+
+                                                                                                      2
+
+and a complex regime of statements. In other words, an historical period is defined by what it
+sees and what it says. [Pause] Hence: what does “archaeology” mean? It means a discipline that
+analyzes archives. And what is an archive? It is the audiovisual record of an historical period, the
+visible and the statable. [Pause]
+
+Consequently, it is through the visible and the statable that we will define an historical period, or
+that which we can now call “an historical formation.” An historical period is defined by what it
+sees and what it states. What we will call “an historical formation,” or Foucault sometimes says
+“a positivity,” is the intertwining [entrecroisement] of the two stable forms of an historical
+period, the seen and the said, the visible and the statable. Thus, Foucault can take a substantial
+portion of his corpus to be an analysis of certain historical formations. This way, he can say at
+the start of a recent book, at the start of The Use of Pleasure, he can say, “yes, one whole portion
+of my books is historical studies.”
+
+You can see that the historical formation is defined by: a statement regime, a field of visibility.
+Which implies one thing in particular, and that is that all historical periods, all historical
+formations, do not see the same thing, do not say the same thing. Visibilities and statements are
+the variables of each formation. They vary from one formation to another. We saw this in detail,
+not in much detail, but we saw it in a bit of detail with respect to the two books which present
+quite striking parallels, History of Madness and Discipline and Punish. In History of Madness,
+the general hospital in the 17th century is the visibility of that period, the hospital makes
+madness be seen through one visual category or another. As Foucault says, there is an evidence,
+taking ‘evidence’ in the sense of visibility, there is an evidence to madness in the general
+hospital and under the conditions of the general hospital, namely: grouping mad people with
+vagabonds, jobless people, beggars, etc. This is a visibility of madness, madness is made to be
+seen, it is made to be seen in the framework of the general hospital. And in the 19th century, the
+asylum and the foreshadowing of what will be, over the course of the 19th century, the
+psychiatric asylum, provide a wholly other sort of visibility, that’s a wholly other way to see it.
+
+And in parallel fashion, in the 17th century, at the same time as the general hospital makes
+madness be seen as one kind or another, the statements of madness, that is, the statements that
+concern madness, originate there equally, and are statements that revolve around the “discursive
+object”—as Foucault will put it—around the following discursive object: unreason. Madness is
+understood as unreason. Don’t say, “that goes without saying,” because . . . [Interruption of the
+recording] [10:29]
+
+… Don’t say, “that goes without saying,” because unreason as an object of discourse is a
+perfectly original theme which undoubtedly can only arise in the Classical Age, due to the
+conception of reason in that age. But subsequently in the 18th century, starting in the 18th
+century, it is no longer in relation to reason that madness will be stated [énoncée]. It will be
+stated in relation to entirely different coordinates. To the extent that we can say: the 17th
+century: the way to see madness: the general hospital; the way to state madness: unreason. With
+respect to madness, that’s what comprises the historical formation of the “Classical Age.”
+
+We saw that it’s the same thing for the prison. The prison in the 18th century. The prison regime
+is formed in the 18th century as what? As a new way of seeing crime. At the same time, penal
+
+                                                                                                       3
+
+law undergoes a change relative to preceding periods. What is this change? It is the formation of
+a new type of statement, whose discursive object, the statable object [l’objet énonciatif], is
+delinquency. Statement of delinquency, prison as the visibility of crime—this, too, defines an
+historical formation.
+
+So, that was really the first point that I believe I can consider as basically established. There is
+always this confrontation, at the level of each historical formation, between the visible and the
+statable. What does a period make seen and see—it’s the same thing. What does it see and make
+seen? What does it say and make be said? It’s a very solid method, and in my view, very
+original. We will see why it is ‘original.’ Why, precisely, is it original? Why can Foucault say
+once again, at the start of The Use of Pleasure, “I do historical studies, but not the work of an
+historian?” Why is it the work of a philosopher? The new conception of history, what has been
+called the Annales School, proposes both a history of behaviors, and as I said last time, a history
+of mindsets. Indeed, I referred you to the example of the anthology, Comment on meurt en Anjou
+à telle époque [How one Dies in Anjou in a Given Period].2 How one Dies in Anjou in a Given
+Period is solely a study of behavior, and also a study of a mindset since what is considered there
+is the way in which death was conceived, the ideas about death.
+
+Foucault distances himself from this approach. Why? We already have all the elements to answer
+this question. He does not do the work of an historian. He does not at all say that historians are
+wrong. He says that his own business is elsewhere. And why? My answer was simply, when I
+wondered: “but why does he say this, and what does that mean?” My answer was “well, yes,
+because:” you can see that with the visible and the statable, he claims to ascend—whether he’s
+right or not is all the same to me—he claims to ascend to a determination of conditions. The
+visible or visibility is not a behavior, it is the condition under which, it is the general condition
+under which all behaviors of a period show themselves, are brought to light. Statements are not
+ideas . . . [Interruption of the recording] [15:39]
+
+Part 2
+
+. . . very important conception of philosophy has always defined philosophy as the search for
+conditions. Under what conditions is something possible? And that’s what a philosophical
+question was. If I ask “what is mathematics?”, I do not necessarily do philosophy. But if I ask
+“Under what conditions is mathematics possible,” then I am doing philosophy. “I do not do the
+work of an historian” for Foucault thus really means, it seems to me, that Foucault is ascending
+to the conditions that make the behaviors of a period possible, and the mindsets of a period
+possible. In other words, Foucault intends to determine pure elements. Hence, in Archaeology of
+Knowledge, the use of the very unexpected term, a priori. In philosophy, a priori has always
+meant “independent of experience,” whereas the conditions of experience are a priori, that is, the
+conditions of experience are not given in experience itself. The visible and the statable are the a
+prioris—the a prioris of what? The a prioris of a period, the a prioris of an historical formation.
+Whence Foucault’s very bizarre idea, we’ll have occasion to come across it again: the a prioris
+are historical. Whereas in Kant, for example, ‘a priori’ and ‘historical’ are opposed, here there
+are historical a prioris: these are the conditions for visibility, the conditions for statability, which
+permit the definition of a period. Thus, the visible and the statable are two pure elements. As
+such, they combine to define the historical formation, that is, to determine the conditions of this
+
+                                                                                                          4
+
+formation. Under what conditions is the Classical Age possible? Answer: under the conditions of
+these certain forms of visibility, of these certain forms of statability.
+
+You can see that this is one thing that sets Foucault’s project apart; I’m not saying which sets it
+in opposition, but it shows its originality, and the impossibility of identifying it, in fact, with the
+work of an historian. At a pinch, I would say that historical formations are strata, stratifications.
+And we will see, here I’m using this word because it seems convenient to me and because it
+resonates well with the term ‘archaeology’—archaeology is the study of strata—and we will see
+that one can lend all sorts of senses to this word ‘stratum,’ but the first sense that would justify
+my using such a word is: a stratum is precisely a composite of visible and statable, an
+intertwining of visibility and statement. Such that historical formations are strata, are
+stratifications. And this is one whole axis, one first axis, as it were, of Foucault’s corpus: this
+archaeological study of stratifications, that is, of historical formations defined by the visibilities
+that they set out, the statabilities that they put forth.
+
+I say “a first axis” . . . oh, is that right? Would there be other axes? We can indeed ask this
+question. Doubtless, there will be other axes. Seeing and speaking, the visible and the statable,
+from the very start, do not exhaust the whole, we can be sure of that, and from the start of his
+work Foucault is very conscious of this. But if there are other axes, we must wonder what their
+relations are with historical formations. If there are other axes, perhaps these other axes no
+longer have anything to do with the stratified. The stratified is defined by composition, the
+intertwining of two stable forms: the visible and the statable.
+
+However, however, however . . . Is everything stable? Is everything an historical formation? Is
+everything a stratum? There is a sublime text by Herman Melville, the American novelist. It is so
+beautiful that I will read it to you. And just because I think it’s a text that would have pleased,
+that would have infinitely pleased, Foucault. It’s in a very great novel by Melville called Pierre;
+or, The Ambiguities [1852] I’ll read it to you: “Ten million things were as yet uncovered to
+Pierre. The old mummy lies buried in cloth on cloth; it takes time to unwrap this Egyptian king.
+Yet now, forsooth, because Pierre began to see through the first superficiality of the world, he
+fondly weens he has come to the unlayered substance. But, far as any geologist has yet gone
+down into the world, it is found to consist of nothing but surface stratified on surface” [ils n’ont
+trouvé que strate sur strate]. Did you catch that? That’s the archaeologist. “To its axis, the world
+being nothing but superinduced superficies. By vast pains we mine into the pyramid; by horrible
+gropings we come to the central room; with joy we espy the sarcophagus; but we lift the lid—
+and” And, and, ellipsis. “no body is there!—appallingly vacant as vast is the soul of a man!”3
+
+There you have it . . . let’s be silent for a little bit because it’s, I don’t know if you are sensitive
+to the beauty of a text like this. So, I’ll read it while translating it into terms that are immediately
+close to Foucault. All the historical formations are strata, and what are we doing, we others—I’m
+voicing Foucault, here—we other archaeologists, what are we doing? We’re going from stratum
+to stratum, we’re going from formation to formation. We shouldn’t too hastily suppose that
+we’ve reached unstratified substance. Is there an unstratified substance? If there is an unstratified
+substance, it is beyond seeing and beyond speaking, beyond the visible and beyond the statable.
+For the visible and the statable join to constitute the strata and to form strata following one
+formula or another. We go from stratum to stratum, but have we reached unstratified substance?
+
+                                                                                                         5
+
+As far—so, I’m hardly transposing here—as far as the archaeologists have gone down into the
+depths of the earth, they have found only stratum upon stratum, they have found only historical
+formation upon historical formation, for all the way to its axis, the world is nothing but
+superimposed strata. “By vast pains we mine into the pyramid; by horrible gropings we come to
+the central room.”—that is, we are going from formation to formation seeking unstratified, we
+arrive at the unstratified substance, at least at the place of unstratified substance, the central
+chamber of the pyramid. All the faces of the pyramid are strata, but all of these strata are there to
+cover the central chamber of the pyramid, where unstratified substance bubbles. Why does it
+bubble? Because if the strata are solid, we must imagine the unstratified as strangely liquid, or
+worse, as gaseous. “We come to the central room; with joy we espy the sarcophagus.” We say:
+here is where the unstratified is. “We lift the lid . . . and no body is there!—appallingly vacant as
+vast is the soul of a man!”
+
+So, you can perhaps sense that once we will have completed this axis, we will notice—and it
+should have been said from the start, might as well say it from the start—that this was only one
+first axis. Strata or historical formations, that is, the great composites of visible and statable, do
+not exhaust the thought of Foucault. There will be another axis and then perhaps still another
+axis. There will be plenty of axes to this thought, perhaps the novelty of Foucault is to have set
+up a new coordinate system.
+
+But now we’re looking at the first dimension, only the first axis or the first dimension, of the
+coordinate system that I will summarize for the nth time: seeing and speaking, a combination of
+the visible and the statable, depending on the period, that is, according to each historical
+formation that is determinable as a stratum. And visibilities and statements are the pure elements
+of each stratification. Such that—I’m repeating—I must ask two fundamental questions of a
+stratum or an historical formation, which are not historical questions, but actually philosophical
+questions: what do you see? and what do you make seen? And what do you say? Or, using the
+more technical terms that we saw last time: what are your forms of proof? What are your
+discursivities? There you go. [Pause] That was what we dealt with last time.
+
+And we had barely begun the second question, which was no longer “What is an archive? What
+is archaeology?”, that is, the search for the two pure conditions. You see why he uses, why he
+must appeal to, a word like ‘archaeology’ to distinguish himself from history, to distinguish
+himself from the historian—the archive is not history, it’s the determination of the two elements,
+that is, the conditions of visibility and statability. And we had opened up a second topic, that is,
+‘what is knowledge [savoir]?”, “what is knowledge?”. And we said the same thing: to know is to
+see and to state. That made a nice sequence, it’s a bit as if, at first glance, the historical formation
+expressed objectively what knowledge tells us subjectively. Knowledge and historical formation
+. . . it still seems bizarre to us: knowledge and historical formation are but one. Knowing, in fact,
+is seeing and stating. That is, to know is to combine something of the visible with something of
+the statable. Consequently, all knowledge is historical. And that’s just about where we were. So,
+I repeat my invitation: Are there any comments on this first point about the archive? No? There’s
+no problem, no unclarity? It’s very clear? Okay, well then let’s continue. [Pause]
+
+How can we understand this kind of identity between knowledge and historical formation? The
+identity of knowledge and historical formation is the archive itself. But how should we
+
+                                                                                                      6
+
+understand it concretely? Actually, knowledge has neither object nor subject. Knowledge
+[savoir] as Foucault conceives of it is not the knowledge [connaissance] of an object by a
+subject. Knowledge [savoir] has neither object nor subject. What does it have, then? Well,
+there’s nothing to do now but let oneself go. We’ll see that we’ll find new difficulties concerning
+the question “what is knowledge?”, but for now “it’s all downhill.” We know how to define
+knowledge: knowledge has neither object nor subject, it has elements. It has two elements: the
+visible and the statable. You’ll tell me: “the visible is its object and the statable is its subject.”
+No, not true, not true. There are two pure elements that are absolutely irreducible. In other
+words, there is nothing beneath knowledge or prior to knowledge.
+
+Ah, there’s nothing prior to knowledge or beneath knowledge! Here, we’ve got to monitor our
+words, because we just let it be understood a while ago that there would be dimensions other
+than the historical formation or the stratum. But if knowledge is but one with the strata, with the
+historical formations, then the other dimensions, the other axes that are not reducible to the
+historical formation, are they not reducible to knowledge, either? No, doubtless, they are not
+reducible to knowledge, but they are not beneath knowledge or prior to knowledge. Can we at
+this point conceive of what these other axes could be? Perhaps they are beyond strata, or interstrata, but they are not “beneath,” and they are not “prior to.”
+
+That is what explains one thing on which Foucault insisted, it must be said, from the start, that is,
+his opposition to phenomenology. What form did this take? According to Foucault, there is no
+experience that can be called ‘wild’ or ‘originary.’ ‘Wild’ or ‘originary experience’ were terms
+used by [Maurice] Merleau-Ponty, and Foucault, on a number of occasions, signaled his
+departure from all phenomenology in this way: there is no originary experience. Even further, in
+Archaeology of Knowledge, he will tell us: in History of Madness, there was still an ambiguity,
+certain pages could lead one to believe in an originary experience of madness. That is, certain
+pages were still from the point of view of a phenomenology of the mad person. And he rejects
+this and says ‘no,’ these pages, he says, might have said this, but in any case, that’s never what
+he had in mind. What replaces phenomenology, is what? It is literally, says Foucault, an
+epistemology [une épistémologie]. An epistemology, that is, there is no experience that is not
+grasped in a knowledge. In other words, on a stratum, there is only knowledge, all is knowledge.
+Which implies what? Which implies that [savoir] knowledge, for Foucault, will have an entirely
+other sense than [connaître] knowing. Knowledge . . . Yes?
+
+A student: [Inaudible remarks]
+
+Deleuze: Why is the sentence ‘I know something’ not possible?
+
+The student: [Inaudible remarks]
+
+Deleuze: On the contrary. “I know something” is possible. Because statements have objects that
+are proper to them, objects that belong to them, that do not exist outside of them. These objects
+are discursive objects. So, ‘I know something’—what’s more, visibilities themselves have
+objects, objects that are their own. To know is to see and to state, it is to combine the visible and
+the statable. There are objects of visibility, there are objects of stating [objets d’énonciation],
+discursive objects. So, to say “I state something” is perfectly possible, “I see something” is
+
+                                                                                                        7
+
+perfectly possible. For example, “I state delinquency,” “In the prison, I see crime,” “At the
+general hospital, I see madness,” “I state unreason.” I would say: unreason, delinquency, are
+objects that are properly discursive. Prison, the general hospital, are places of visibilities. I can
+perfectly well say “I see something,” but this something is internal to knowledge, it’s not an
+object that would exist independently of knowledge or that would preexist knowledge. Thus, I
+can say “I know something,” provided we understand that the ‘something’ is internal to
+knowledge, that is, is a variable of knowledge. [Pause]
+
+So . . . Knowledge [savoir] cannot be reduced to knowing [connaissance]—what does this
+mean? Further, there is a radical difference between knowledge [savoir] and science. Such that
+we would have to retract the word I just proposed a while ago, the word ‘epistemology,’ if it
+were taken in the strict sense, namely “concerning science.” In fact, Foucault’s epistemology
+concerns knowledge [savoir] and not particularly science. Hence, knowledge [savoir] is not
+necessarily scientific and cannot be reduced to a knowing [connaissance.] What does this mean?
+It means there are — you will see, maybe this will take us further along— that there are
+thresholds of statements, there are thresholds of statements. What is a threshold of statements?
+It’s a level on which basis a statement can be qualified as one kind of statement or another. In
+other words, for example, there is a threshold for scientificity. The threshold for scientificity
+must be defined by the features on the basis of which, when statements possess these features,
+those statements are deemed ‘scientific’ or ‘statements of knowing’ [énoncés de connaissance].
+Moreover, analyzing these thresholds, Foucault even distinguishes a number of thresholds that
+refer to science: a threshold he will call that of “epistemologization;” a threshold he will call that
+of “scientificity;” and a threshold of “formalization.”
+
+For example, mathematics reached the top threshold of science, the threshold of formalization.
+But other sciences have not attained it and accept a threshold of scientificity. However, if one
+thus defines science as a mode of knowledge [savoir], well, then one says that knowledge
+[savoir] is: any statement insofar as it its combinable with visibilities. There are thresholds of
+visibility that make vision become scientific. There are thresholds of the statement that make the
+statement become scientific. But one shouldn’t become fixated on science, because, as soon as I
+say that, I say to myself: well, yes, this conception of Foucault’s is very interesting.
+
+We will see why it is very interesting, it’s very interesting because, in addition, it opens up
+thresholds: starting from what threshold does a statement become political? What are the
+thresholds of politicization of a statement? [Pause] I will say very simple things, but things that
+seem important for the analysis of historical formations. Understand that at this point we must be
+very, very careful. It’s always idiotic to say, “this has existed forever,” nothing has existed
+forever. Let’s take an example: anti-Semitism. There have always been anti-Semites. Okay, but
+saying this is of very little interest. What starts to become interesting? It’s if I ask: in what
+historical formations has anti-Semitism given rise to political statements? And there can be
+multiple answers to this: in this historical formation, in that one, too, etcetera. Or else there may
+be an anti-Semitism of public opinion that is not taken up into the political statements of a
+period, that does not enter or does not substantially enter the political statements of a period.
+
+To put it otherwise: When do anti-Semitic statements cross the threshold of politicization? Now
+that’s becoming a good question. Good . . . and likewise for everything! I mean: I’ll speak of a
+
+                                                                                                        8
+
+threshold of politicization, and that amounts to what? It’s that statements imply rules of
+formation and we will see that this idea is so important that it will carry us very far. Every
+statement has its rules of formation. Well then, these formation rules are not therein exhausted,
+but they make possible the determination of a threshold, which means the statement belongs to
+one threshold or another. There are formation rules without which a statement cannot be
+political. There are formation rules without which a statement is not diplomatic. There are
+formation rules without which a statement cannot be religious, etc.
+
+One must thus not only speak of a threshold of scientificity for possible statements, one must
+speak of a threshold of politicization, of a threshold of ethicization—starting when, and from
+which threshold, is a statement a moral statement? This does not at all go without saying, all of
+this—of a threshold of aestheticization . . . When one expresses, for example, problems of the
+sort: “when does nature take on an aesthetic value?”, that’s interesting. Either it’s a false
+problem, or it’s very interesting, we don’t know; only analysis will tend to let us know. But
+“when does nature begin to take on an aesthetic value?” means “when do statements about nature
+reach, cross, the aesthetic threshold of the period?” Hence: the need to find what the aesthetic
+threshold of the period is, and how statements on nature cross this threshold. And, likewise for
+visibilities; visibilities, too, have a threshold. Each period sees. The period sees, okay, but what
+are we to say, ultimately, about public opinion? The statements of public opinion. They, too,
+have a threshold.
+
+You see: each formation . . . This now allows me to enrich the earlier notion of the archive. I was
+saying a while ago, I was saying—and that was the first determination—the archive is a
+stratification, it’s a stratum as an historical formation, that is, it was the first determination of the
+stratum—it’s a combination of the visible and the statable. That already makes for a certain
+thickness of the stratum. Now, I can add that the stratum is a stacking of varyingly oriented
+thresholds. A stacking of thresholds—and here this really takes into account the word ‘stratum,’
+and you see how it enriches the notion of archaeology—a stacking of varyingly-oriented
+thresholds according to which statements can be deemed “political statements from a particular
+formation,” “aesthetic statements,” “scientific statements,” etc.
+
+This will perhaps allow us to specify the idea of a regime of statements or statement regime.
+What does the statement regime comprise? It comprises at least three things. A statement regime
+comprises the determination of the stratum on which statements are produced, that is, the
+determination of the historical formation, the determination of the family of statements to which
+the statement belongs, and the determination of the threshold (is it a political statement, a
+juridical statement, an aesthetic statement, etcetera?). You will notice that statements in the same
+family can belong to different thresholds, statements of the same threshold can belong to
+different families. For example, in one same historical formation and at the level of one same
+science, that is, at the level of one same threshold, the threshold of biology, you will have
+evolutionary statements and anti-evolutionary statements that belong to the same formation, that
+is, to the same regime—and yet they are not in the same family, and nevertheless they have the
+same threshold. Thus, the formation, the family, the threshold, etcetera, are features of the
+stratum. Let’s move on.
+
+                                                                                                       9
+
+So, knowledge [savoir] is not science, it is science that is a type of knowledge [savoir]. Which
+amounts to saying that for Foucault knowledge [savoir] is fundamentally a practice. Knowledge
+[savoir] is actually composed of practices: Practices of visibility, Statement practices [pratiques
+d’énoncé], or, if you wish: discursive practices (these are the statements), non-discursive
+practices (these are the visibilities).
+
+And the true, what is that? Does it have a meaning? Well, yes, the true is, we always come back
+to this, it’s the combination of the visible and the statable. But in what case would the
+combination prejudice a truth? Now, here we might have a problem, and Foucault, in any case,
+will align himself with a history of the true. A history of the true. A history of truth. And in a
+certain sense, Foucault is entitled to suppose that he is realizing, at least in part, a fundamental
+element of Nietzsche’s enterprise, namely, a “history of truth.” But why is there a history of
+truth? There is a history of truth precisely because knowledge [savoir] is a matter of practice(s).
+Knowledge [savoir] is a matter of practice(s) and the true is the relation between discursive
+practices and non-discursive practices. Put otherwise, the true, the truth, is inseparable from the
+practices that produce it, the true, the truth, is inseparable from a procedure [procédure]. And
+this is what I was pointing out last time, in a way that was still very vague, namely: we can
+reserve the term ‘procedure’ [procédure] to designate the relation between the two practices:
+discursive practices of statements; and non-discursive practices of seeing, of visibility.
+
+We keep the word ‘procedure,’ okay, good, and the true is never separable from the procedures
+by which one not only attains it, but one produces it. Actually, the notion of truth . . . So, here’s a
+statement, or what appears to be a statement—okay, it’s a statement: “I want the truth”, “I want
+the truth.” We’ll have reason to wonder: what is a statement? Because you can surely tell that we
+have not yet addressed the essential problem, namely, what does Foucault call a statement? Is it
+the same thing as a sentence? In any case, we’re starting off from a sentence, at least for the time
+being, since we lack the means to do otherwise; we’ll go very slowly in our analyses. “I want the
+truth.” Who is it who says that? What is this sentence? Actually, it is perhaps not a statement, we
+can already sense that, in fact, statements and sentences will not be the same thing. Why?
+Because this sentence does not tell me much. If I say to you, “Consider the sentence: ‘I want the
+truth,’” you immediately want to know “but who is it who can say such a thing?” There are many
+people who can say this, but they vary so much. Now we’re making a lot of progress, it’s always
+when we aren’t expecting it that we make progress, because shouldn’t we have to say that there
+are as many statements in the sentence “I want the truth” as there are people to say this sentence?
+But at the same time, we lose ground because that would mean that the statement depends on
+whoever says the sentence. Perhaps, but not only that. So, we’ll set that aside because we don’t
+have the wherewithal, but we’ll just keep it set aside. We’ll have to return to this point, it will be
+central for the question: what is a statement, what is the difference between a sentence and a
+statement? I’ll return now to: “I want the truth”, “I want the truth”. Who says that and what does
+he or she want when they say, “I want the truth?” What is his or her object? Because we saw in
+what sense, following the question that you asked, we saw in what sense one could speak about
+an object, about an object of a statement, about an object of visibility. “I want the truth.”
+
+When Descartes says, “I want the truth,” if it’s Descartes who says it, he does not hide what he
+wants: He wants the thing in person, he wants presence. He wants evidence. Except it is not
+possible to attain evidence. He wants the thing in person as an idea. The thing in itself as an idea.
+
+                                                                                                    10
+
+When in the 18th century, [David] Hume says, “I want the truth,” what does he want? He wants
+signs. Or even [Thomas] Hobbes, a contemporary of Descartes. He does not want the thing in
+person, that doesn’t mean much to him, the thing in person. He wants signs. Signs on the basis of
+which he could infer the true. But the true will never be given. It will always be inferred on the
+basis of something other than itself. The more probable the inference, the surer the truth. So look,
+here you go, wanting the truth—now things start to get more precise—“I want the truth” gives
+rise to two families of statements since... [Interruption of the recording] [56:45]
+
+Part 3
+
+… This is the highly nuanced idea of Foucault’s. You’ll really have to hold these two things in
+your mind at once. Each period says everything and shows everything. That’s one thesis. I’ll try
+to list them numerically. Thesis 1: each period, each historical formation, says everything and
+shows everything. Thesis 2: visibilities and statements are not given immediately, they must be
+extracted. There you go, we’ll consider these two aspects.
+
+The first aspect goes fairly quickly, that is: there is nothing secret and nothing hidden. This
+comes down to saying: well, yes, if you consider statements—only, as an aside: the problem will
+pop back up again at us immediately afterwards. “If you consider statements . . .”, right, but how
+am I going to find the statements? If you consider the statements, you will surely see that
+everything is said, if you consider the visibilities, everything is shown, everything is given,
+obviously. And even, even before knowing what a statement is, or what a visibility is, you have
+to rid yourself of ready-made ideas. Ready-made ideas consist in believing that discourses, the
+discursive, hide… [Interruption of the recording; an audio distortion is heard] [58:42]
+
+… You don’t have to be all that clever to see this. The rules that determine the politicization of a
+statement, that is, its political nature, you see that politicians never lie and that, in a sense, they
+say everything, with a radical cynicism. That is, it’s stupid to say, “they lie.” They absolutely do
+not lie. Take what is currently happening, whether it’s in the election campaign, the right, it says,
+but it says exactly what will happen to us after the elections, but we know this, we know this.
+[Jacques] Chirac, he’s not at all a liar, he’s a truthteller. They have no need to hide anything
+whatsoever from us, we know very well what will happen to us, we know it very well, they’re
+not hiding it from us: identity checks—right, well, we know that young guys who are a bit brown
+will be in for those. We can’t say they’re lying to us, they’re proclaiming it to us. That business
+leaders can fire employees without the ministry of labor having any say in it, we can’t say that
+this is being hidden from us. They say absolutely everything, they have nothing to hide, you
+know, politicians. Well, anyway, when they do have something to hide, those are entirely
+personal things: when they are corrupt, when they steal money, but, come on, that’s not what we
+mean, that’s not what’s important, that’s not what’s serious.
+
+But apart from that, their programs, they are always absolutely faithful to their programs. Back at
+the very start, when most of you were not here, I took up another case: the speeches of the pope.
+There, too, one should never say that a speech is either lying or meaningless, or that it’s spouting
+empty words. When the pope speaks to us about the Holy Virgin, I said, and here, again, one
+must take into account the threshold of religiosity for statements. He is not spouting empty
+words, nor is he speaking anachronistically. He is speaking exactly according to the rules of the
+
+                                                                                                  11
+
+religious statement—obviously, he observes the rules of the religious statement, without which a
+statement would not have crossed the threshold of religiosity, and making his statements cross
+the threshold of religiosity is the very least the pope could do, otherwise, what would happen!?—
+he tells us something very important, namely, that ecumenism, that is, a religious policy about
+the unity of Christianities, of Catholicism and of Protestantism, etcetera—has had its day and
+that he is reintroducing universality, properly Catholic universalism, against ecumenism. Indeed,
+the problem of the Virgin being then, as now, a part of these points of friction between
+Catholicism and the Reformation, it goes without saying that the intense love of the pope for the
+Virgin implies something that the Reformed, that the Protestants, fully grasp. Thus, we can’t say
+that he spouts empty words, but by conforming to the rules according to which a statement is
+religious, he says absolutely everything. And when he kisses the earth, and he speaks all the
+languages, and he feels the need to say hello every time he lands in a country, speaking the
+language of the country—there, too, it’s not, as people say, to put on a show, it’s to claim the
+apostles’ gift of languages. And this has a meaning in the context of Catholic universality, this
+has an extremely precise meaning, namely: it’s a type of statement that says exactly what it
+means.
+
+And I appealed to the text—I refer you to it, for those of you who love Proust—when, in In
+Search of Lost Time, Proust stages an ambassador by the name of Monsieur de Norpois,
+Monsieur de Norpois is given two pages in In Search of Lost Time, splendid pages in which
+Monsieur de Norpois explains that diplomatic language has specific rules — Foucault would say:
+there is a threshold for the diplomaticity of statements — And that given the rules of the
+diplomatic statement, the meeting reports, for example, between ministers from different
+countries, say exactly all that is true, there is never anything hidden. Once we know the
+formation rules for statements in a given domain, absolutely nothing can be hidden from us.
+What do you think they could hide?
+
+When Reagan announced, for example, that he’ll lower taxes, and that, as a result, he’ll
+dismantle the institutions of social welfare, you can’t say that he’s lying or that he’s hiding
+something. It’s obvious. It’s obvious. It’s something evident. I mean: they always say . . . You
+can’t say that Hitler ever hid anything whatsoever. I mean, you would have, in fact, had to never
+have read a single line from Hitler in order to judge that Hitler hid anything whatsoever. It would
+be very interesting to ask oneself, it would be a problem suited to Foucault, but it’s to some
+extent the problem that Jean-Pierre Faye took up: what are, and how can one speak of, properly
+fascist statements? How do they appear? How do statements of a new type, fascist statements,
+appear in a political landscape? Moreover, far from hiding the goals of fascism and the means of
+fascism, Hitler is the initiator and the inventor of a regime of statements that from then on will be
+recognized as the form of Nazi statements and even of fascist statements. That’s why it’s very
+interesting to read the newspapers, because in a sense, everything is said, there’s nothing secret.
+
+In addition, even in his own works, I would like… in his own works, Foucault returns a number
+of times and in a very interesting way to the speech of the humanitarian [philanthrope]. He will
+show that the humanitarian says, I mean, he says exactly everything, and only literally. To know
+the most obscure aspects of a period, what is apparently the most hidden, all one need do is to
+take literally, but quite literally, the discourse of the humanitarian. The rawest and most cynical
+aspects are all on display in the discourse of the humanitarian. And this will benefit us later,
+
+                                                                                                       12
+
+that’s why I’m discussing it starting now, since we’ll see that one of the bases for Foucault’s
+critique of humanism has its source in his critique of the humanitarian’s discourse. But to
+critique does not at all mean to extract what is secret. It’s a very different operation, it’s
+extracting the rules that a given type of statement obeys, but mind you, the rules that a given type
+of statement obeys are not given, but they are absolutely not secret, hidden. They are not given
+because they are rules. Rules are not given. What is given are the products, that is, the statements
+themselves, and that only if you find them following the rules.
+
+Hence: the discourse of the humanitarian. The first great case of an analysis of the
+humanitarian’s discourse, that is, of the corresponding statement regime, is the liberation of the
+mad at the end of the 18th century and the start of the 19th century. Roughly simultaneously in
+America and in France. [Pause] In France, it was with [Philippe] Pinel. Pinel, who at the time is
+called a great humanitarian and who liberates the mad from their chains. Unchain the mad
+people. There you have it, unchain the mad people, and I checked before coming, Petit Larousse,
+“Pinel,” there is—okay, so, this is a statement, a statement—what’s said for Pinel, and why not?,
+is: “In the asylums, he replaced violence with gentleness. He is a great humanitarian for having
+done this.” And there is a famous anecdote, for which Foucault supplies the source: it’s Pinel’s
+son, who recounts the monumental meeting between the deformed monster and the great
+humanitarian. It is [Georges] Couthon, a member of the National Convention, a paralytic
+regicide—he had voted for the death of Louis XVI. He was infirm, paralyzed, he got around in a
+little cart, and Couthon comes to see Pinel at the asylum and says to him, “Friend, you yourself
+are mad, since they tell me that you want to free these base creatures.” Pinel looks at him from
+his full height and says: “Yes, citizen, but I’ll succeed.” And the other fellow says: “So much the
+better for you, but don’t let them escape!” And away he goes, pushed in his chair—the
+monster—and the great humanitarian accomplishes his feat, he breaks the chains of the mad.
+Okay.
+
+Foucault is not against this, he says: “okay, so be it, but . . .” This will put us a bit on the trail of:
+how have we found statements? He says: you should not simply stop at this filial tale, which is
+very lovely, but that’s about it . . . Because you’ve got to look at the pronouncements of Pinel
+himself, what are those about? Well, those do interest us directly. In his pronouncements, Pinel
+indeed talks about: “liberating the mad, releasing them from their chains.” Now that is a doctrine,
+it can’t be denied, and in fact the mad will no longer be chained up, at least they are no longer
+immediately chained up. But what replaces the chains? Pinel does not hide this, the entire
+method is based on this: the mad person much constantly be seen, that is, monitored, that he be
+constantly seen and monitored, and constantly judged. And Pinel lets out the two important
+words that will put us on the trail of statements: the gaze (regard) and judgment.
+
+In other words, what will replace material chains is the monitor’s [surveillant] look and perpetual
+judgment, the perpetual gaze from the monitor and perpetual judgment from the caregiver. Why
+do I stress this? The gaze leads us to visibility—the mad person must be visible twenty-four
+hours a day, and judgment leads us to a type of statement. The status of madness is still defined
+in terms of visibility and the statement. Perpetual looking, perpetual judgment. Why? Here, too, I
+can put . . . so, I can divide a sheet of paper in two, and put on one side what humanitarianism
+seems to be. Eliminate the chains, first thing.
+
+                                                                                                     13
+
+Second thing, Pinel’s assurances are constant: the mad person is not guilty of being mad. In the
+17th century, in the statements of unreason, the mad person was in a certain sense basically
+guilty of being mad, just as the devotee [le passionné] was guilty of his passions, guilty of not
+following reason. The concept of unreason ensured the guilt of the mad person: the mad person
+is guilty of being mad. Pinel’s humanitarian statement: the mad person is not guilty of being
+mad. But as Foucault says—but Pinel’s writings say it at much greater length—Pinel’s idea is
+that the mad person has stopped being guilty of being mad, the mad person is innocent, which is
+a great increase in humanity. But in his innocent madness, he is responsible for that which, in
+this madness, disturbs the moral order and the social order. The mad person is no longer guilty of
+being mad, he is responsible for that which, in his madness, itself innocent, disturbs the moral
+order and the social order.
+
+In other words—this is terrific—what Pinel did is a magisterial move: he made statements on
+madness cross the moral threshold. It’s because of the disturbance the mad person brings to the
+moral order . . . The mad person is innocent, but this innocent madness leads him to disturb the
+moral and social order. He is responsible for what disturbs the moral and social order and is no
+longer guilty. The statement on madness crosses the moral threshold but—Foucault takes care to
+specify, and he is entirely right for the whole beginning of the 19th century—it does not in the
+slightest cross the epistemological threshold, the threshold of science. To the extent that Pinel
+never speaks in the name of a knowledge [connaissance] of madness, he speaks in the name of
+morality. It’s only quite a bit later that a psychiatry appealing to a knowledge [connaissance] of
+madness will develop; at that point in time, statements about madness will have crossed the
+threshold termed ‘epistemological.’ But what Pinel does is another thing altogether: he makes
+statements on madness cross the moral threshold.
+
+Which amounts to saying what? If you follow the letter of Pinel’s discourse, you see two things
+there. On the one hand, you see that there are chains that are better than physical chains. What
+are the chains that are better than physical chains? It’s the monitor’s look and the judgment of
+the caregiver. What are these chains made of? It’s because if . . . Right, second point: there is a
+responsibility that is deeper than all guilt. That is, deeper than the guilt of being mad, there is the
+responsibility that the mad person has when he infringes on the moral order and the social order.
+The moral threshold of statements on madness. And consequently, how does the asylum operate
+in the 19th century as opposed to the situation in the 17th century? They break the mad person’s
+chains, but what are they going to confine him in? They will confine him in a kind of familial
+model. That’s what Foucault shows very, very well and in the end, psychoanalysis—
+psychoanalysis is perfect, because it consummates, it brings to perfection the project of 19th
+century psychiatry. It does not break with it at all, he says. For if you examine how the asylum is
+to be set up according to Pinel, the look and the judgment on which basis the mad person will be
+held responsible for disturbances he causes in the moral and social order—that’s the situation of
+the child in a familial model. And never will psychiatry give up this familial model. And the
+caregiver is not treated as a scholar, but as a father, and Pinel is the first father in this new
+treatment of the mad.
+
+However, can one say that something is hidden? No. Nothing in the discourse of the
+humanitarian of the asylum, nothing, is hidden. Moreover, if the mad person persists in
+disturbing the moral and social order, at that point, yes, at that point, he must be punished. So, is
+
+                                                                                                   14
+
+he then put back in chains? Yes, they put him back in chains, frequently they put him back in
+chains. But otherwise, Pinel explains himself with great ingenuity, and he says, roughly—the
+passages Foucault provides are unequivocal, and Foucault summarizes, he does not interpret, he
+summarizes—that madness must no longer frighten. On the other hand, and this is the foundation
+for all therapies for madness at the start of the 19th century, the mad person must be afraid. The
+mad person must be afraid. It never occurred to the 17th century, which chained up mad people,
+that the mad should be afraid. I don’t mean—one mustn’t conclude the reverse—that the 17th
+century was terrific, because they sure saw their share of the mad! But they didn’t say “what we
+need is for the mad to be afraid;” they treated them like animals. But they were afraid of the mad,
+and that’s why they treated them like animals, because they were afraid of them. All of that
+changes with Pinel, really: it’s the mad person himself who should be afraid. Can you believe it?
+There’s no need to do any interpreting here to be able to say . . . this is actually a way that the
+bourgeoisie fundamentally reassures itself with regard to the problem of madness: they’re the
+ones who should be afraid, not us, it’s not for us, we normal ones, to be afraid of the mad,
+they’re the ones who should be afraid. And this theme is the fear that they should feel about what
+will happen if they disturb the moral and social order of the hospital.
+
+And all the rules, all the statements on madness will be about that: a scale of penalties, the mad
+person is supposed to live in fear, which will prevent him precisely from disturbing the moral
+order and the social order. Thus, this scale of penalties runs from a shower, which is not at all
+presented by Pinel as a therapeutic tool, it is presented as a means for causing fear. The
+suddenness of the punishment! It is crucial that the punishment be sudden. And on this point the
+statements say it all. For example, with all the caregivers of the period you have a mad person
+who picks up a pebble, while strolling. The monitor is there and watches him; the mad person
+must constantly be monitored. He picks up his pebble and the monitor says to him, “Watch out,
+there! What have you got there in your hand? Drop the pebble . . .” If he holds onto the pebble . .
+. He’s got to be afraid: the next time, he won’t pick up the pebble, he will have understood that
+he’s not supposed to pick up the pebble. He is no longer guilty of being mad, sure, right . . . but
+be careful, here! He is innocent, completely! He is innocent, but he is responsible for the
+disturbances he causes to the public order, that is, to the moral and social order. He picks up a
+pebble: but that’s a disturbance. It disturbs the social order . . . Okay, and so, if he doesn’t drop
+it, he’s in for it. And the suddenness of the punishment, once again, is a crucial factor. There we
+are.
+
+Likewise, in Discipline and Punish, you find a lengthy analysis of the discourse of the prison
+humanitarian. And it’s very interesting because at the same time as the prison, as we’ve seen,
+penal law becomes a law whose statements are statements on delinquency. However,
+delinquency is a new category. It’s an object of a statement, it’s what I earlier called a discursive
+object. And we notice that in this penal law, since at that juncture there was a whole renewal, it
+seems that there was above all an alleviation of the punishments, an alleviation of the penalties.
+And the humanitarian achieves a humanization of the penalties. In particular, tortures tended to
+disappear slowly; the prison replaces tortures. In fact, in the period when there were no prisons,
+sanctions were of the type: torture, exile, forced labor. Exile, the galleys. A regime of penalties
+does not need prison, you know. It’s not necessary, you have legal systems without prisons. In
+any case, prison does not come from the law, Foucault showed this definitively. The penitentiary
+
+                                                                                                        15
+
+regime does not at all come from the law. On the contrary, you have all kinds of law that do not
+include prison, or that include prison only in very specific cases of very rare offences.
+
+So, again, how does one punish in the 17th century? There are the galleys, there is exile, there
+are tortures, that in itself covers an impressive range of punishments. The case of lettres de
+cachet, where there certainly is confinement, is a case that Foucault studied very closely. We’ll
+come back to this very bizarre institution from the French monarchy, lettres de cachet, where, at
+the demand of the family—the lettre de cachet is exactly like what is today called “voluntary”
+placement—one locks a person up. Placement called “voluntary” in psychiatry today is the direct
+descendant, it seems to me, of the lettres de cachet. But prison is not necessary to a scale of
+penalties. Thus, when the prison comes about, at the same time penal law undergoes changes, for
+its part, independently, and there is what is called a quantification of punishments; instead of
+torturing people, they are given two years of prison, three years of prison, etc. The discourse of
+the humanitarian.
+
+But here, too, Foucault says, we must look more closely. For if we make an effort to look, what
+do we see? And here, too, it’s easy to see, and it is said. The statements of the period stress
+significantly that criminality is in the process of changing. If we continue further, in the
+statements from today, we find statements of the same sort, the development of criminality.
+What does this mean? It means that between the 17th and the 18th centuries, there was a very
+interesting phenomenon, which has been very, very well analyzed by an historian called [Pierre]
+Chaunu, a contemporary, modern historian called Chaunu. He gives a very interesting history, he
+says that between the 17th and 18th centuries—this is roughly, I’m really condensing his study—
+crimes against persons regressed, while crimes of property, on the other hand, developed
+enormously. So, there are reasons for this, there are all sorts of reasons. Why? Because crimes
+against persons implied a whole 17th century regime. It’s very much tied to rural crimes and to
+gangs, marauding bands, insurgent peasants, and large gangs; and then, from one century to
+another, the urban model develops significantly, the circulation of money develops significantly,
+and for example frauds begin to proliferate. Large gangs are on the way out, and instead of large,
+rural gangs, you have the phenomenon of “tiny urban gangs,” who instead take to crimes of
+property.
+
+Of course, there is still killing, but the proportion has changed a great deal, and thus it’s not so
+much that justice becomes less severe, on the contrary. In the statements from that time period,
+here is what we see: the old justice system is not severe enough for this new criminality. And in
+actuality, these are little frauds that in the 17th century would not even have been prosecuted, or
+thefts that would not been prosecuted. It’s a justice system that in a sense is too crude to register
+the detail of criminality. We see that once the nature of the crimes changes, and a large
+proportion of property crimes arises, the justice system must become more refined, it must
+tighten the nets. It’s got to weight crimes and delinquency in a completely different way, plus the
+justice of the Sovereign, the royal model of justice couldn’t grasp, as a result of the whole
+apparatus of justice . . . That is, as a result of these new crimes and the new criminality, a new
+organization of the power to punish is needed.
+
+And the legal statements will convey, not so much a humanism, not so much an increase in the
+gentleness of mores, no, it’s something else. It’s not cruelty, either. It’s a kind of mutation, that
+
+                                                                                                      16
+
+is: a new statement regime, a new statement regime about criminality. Here is where the
+discursive object ‘delinquency’ will appear. It’s a question of seizing in the nets of justice a
+whole region of “petty,” in quotation marks, delinquency that escaped prior statements. Okay, so
+what does this mean? Well, this time, and I’m appealing to a third title of Foucault’s, it means
+that the law will truly . . . statements will really . . . legal statements, and not solely legal ones,
+but juridical statements, political statements, even technological statements will singularly
+change in nature, in regime.
+
+If I try to give a very rough definition—we’ll come back, we’ll have reason to return to all these
+points: the power of the Sovereign. Let’s say that in the context of the French absolute
+monarchy, the power of the Sovereign ends near the end of the 17th century. What is the power
+of the Sovereign? It may be defined like this: deducting [prélever], it’s a right to deduct; they are
+statements on deducting. The King’s share. Or the lord’s share. What goes to the lord, deducted
+on what is produced, deducted on life, deducted on wealth? What does the lord have the right to
+deduct? What does the king, the lord of lords, have the right to deduct, both from the lords and
+from the people? It’s a right to deduct, it’s an operation of deduction. And moreover, it’s a right
+to deduction and the greatest of deductions is what? Life. It’s a right to death. It’s a right to make
+die. The Sovereign is the one who deducts and who in the end decides on death. That’s the old
+statement regime. The sovereign statement allots deductions and ultimately decides on death,
+that is: do I let you live, the Sovereign wonders, or do I decide for your death?
+
+Towards the 18th century, a change begins that—I’m summarizing very, very roughly—will
+singularly change the statement regime, in these respects: political, juridical, regulatory,
+technological, etc. It’s no longer about deducting, taking your portion of the yield, of wealth, it’s
+about compelling production. So, in other words, to compel the production of a useful result and
+to increase it tenfold. I would say that this is no longer a regime of deduction, it’s a regime of
+organization or gridding. The problem of power is no longer: what should be deducted from the
+vital forces [forces vives]? The problem of power becomes: how to compose the vital forces so
+that they produce maximally? In other words, it’s a problem, right, of organization or of gridding
+and no long one of deducting. And at the same time, the great statements, that’s what Foucault
+will call, if you will, “disciplinary statements”—“discipline statements,” as opposed to
+statements of sovereignty. “Disciplinary” is a regime, among others, it’s a statement regime, just
+as “sovereignty” was a statement regime.
+
+And at the same time what is happening? At the same time, power is no longer the right to make
+perish. Power, just as it no longer deducts, but organizes and compels production and multiplies
+what is produced through its gridding, its organization, power no longer makes die; it takes as its
+aim the management and control of life. “The management and control of life:” we have to
+understand this very concretely down to the very technologies themselves that start up in the
+18th century, which imply all the statistics pertaining to life. Statistics or the use of probabilities.
+The calculation of probabilities about wealth, populations, even about cultures—this is the
+beginning of our modern world.
+
+Our modern world is disciplinary and managerial as opposed, if you will, to the world that
+ended, according to Foucault, near the end of the 17th century, which, itself was a world of
+sovereignty and was in this way deadly: the power of the prince is the ultimate decision to make
+
+                                                                                                      17
+
+die. To manage and control life—and it’s at this very point, near the start of the 18th century,
+that the fundamental idea that that there are no nations without demography emerges, and that all
+the demographic methods are used, that a nation’s power entails a whole demographics that
+increases. Under what conditions would demographics increase? These are the problems that at
+this point become the current problems of the State: marriages, deaths, births, the statistical
+comparison of all of this enters into the apparatus [l’appareil] of the government. But what does
+that mean? At issue is no longer causing to die but controlling life even down to its smallest
+detail. That’s an entirely other kind of power.
+
+So, as Foucault says, on a very lovely page, in History of Sexuality . . . You see, the abolition of
+the death penalty, it’s obvious that it’s a tendency of this new statement regime from the very
+start. It will take a long time to get there, but it goes without saying that the death penalty, in this
+new statement regime, is a remnant, it’s a remnant of the old sovereign power. Why? If power’s
+true object is the management and control of life, well, there is something really very shocking
+about the death penalty, to regimes of this sort. There is something very shocking, that’s why,
+starting in the 18th century, you have an absolute denunciation of the death penalty, which will
+carry on from author to author, from technocrat to technocrat, with all the arguments we saw
+brought out when it was at last abolished in France. But these arguments were already available;
+it was pointed out that they were all already found in Victor Hugo. But Victor Hugo’s arguments
+were all already found in the 18th century, about the fact that the death penalty had never
+prevented the spread of crime, etcetera. It was all there. And you’ll certainly understand that, in
+actuality, if power is defined as a management and a control of life in its lowliest detail—to the
+tune of: a woman must have three children. And all this, these are writings, these are statements
+that appear constantly, starting in the 18th century. So, one should not think that contraception
+came into being only recently. Already, the 18th century took part in the discussion on
+contraception, the use of contraception in the countryside. One should not think farmwomen are
+slow; it appears that since the 18th century, contraception in the countryside posed a very
+difficult problem for nations.
+
+There exist new things, but sometimes we go wrong in our judgment about novelty, because we
+do not have a good method for identifying statements. But, well, anyway, you can surely tell that
+the death penalty, actually, is a sort of thing that is inassimilable by the new conception of
+power. On the other hand, as Foucault says, it’s not that death does not exist for this power, but
+that death is always the underside of what power has made of life. That was not the case for the
+Sovereign. I mean: modern death, in its relation to power, is the Holocaust. It’s no longer the
+death penalty, it’s the Holocaust, that is, it’s the death of entire groups, the death of entire groups
+[several indistinct words]. And why is the Holocaust really the modern thing, it’s the modern
+infamy? Well, it’s quite simple, it’s that holocausts cannot be conceived following the form, the
+old form of the Sovereign’s “I condemn you to death.” It’s not that… [Interruption of the
+recording] [1:41:24]
+
+Part 4
+
+… You can comprehend the extermination of a group, of a people, of a nation only if you relate
+it to the conditions for life that the exterminating people believes in or grants itself. And I believe
+that this is a very, very solid remark about the modern nature of holocausts. Namely: the groups,
+
+                                                                                                  18
+
+the exterminated peoples, are assimilated to germs, to infectious agents that threaten the life of
+the exterminating people. In other words, it’s in the name of a perverse vitalism, a properly
+demented vitalism. Take for example the extermination of the Jews by Hitler. The extermination
+of the Jews is done in the name of what? The Jew is assimilated to an agent that is pathological,
+pathogenic, which threatens the health of the pure German nation. To what did Hitler appeal? To
+life and to “living space” [l’espace vital]. It’s in the name of life, with a kind of race vitalism
+[une espèce de vitalisme de la race], a kind of twisted vitalism, that Hitler proceeds to eliminate
+homosexuals, to eliminate those condemned, then, as bacterial agents… [Interruption of the
+recording] [1:43:09]
+
+ . . . atomic weapons pose both the question of the elimination of entire peoples who will be
+considered as agents infectious to the life of the peoples that make use of the atomic weapon and
+being all the while a condition for survival—the theme of life and survival [de la vie et de la
+survie]. And already the survival of the German race is the fundamental theme of Hitler and all
+holocaust themes, atomic weaponry themes—I’m dealing with two very different categories—
+are perfectly comprehensible in relation to this new conception of the political: the management
+and control of life. … Yes?
+
+A student: [Inaudible remarks]
+
+Deleuze: The colonization of the Americas? . . . I’m unable to give you an answer, I would have
+to think about it, I don’t know. For you to ask the question, you must already have some idea of
+an answer, so tell me your reply.
+
+The student: [Inaudible remarks]
+
+Deleuze: [Deleuze repeats the question] Had there already been an argument based on “living
+space?” Well, that, that would surprise me. We should be clear. Right now, if you said to me “in
+the settler colonies of ancient Greece, was there already a ‘living space?’, I would say to you,
+‘certainly not.’ Even though they had to export population, they had to export citizens, but this
+was absolutely not in the name of a “living space.” The idea of “living space” appears so 19th
+century . . . I am unable to give you an answer, but that’s an excellent example for a subject of
+research . . . The person who asks the question should answer it. Next week. Think about it and
+tell us next week.
+
+So, I’d like to read to you, to finish this point, the page in Foucault that seems very lovely to me,
+it’s History of Sexuality, Volume I, p. 136.4 You see, I’ll try to summarize the theme of the page,
+it amounts to saying that it’s for the same reasons that the individual death penalty tends to be
+abolished in modern societies and that the holocausts of peoples tend to develop. “Since the
+classical age the West has undergone a very profound transformation of these mechanisms of
+power. ‘Deduction’ [le prélèvement] has tended to be no longer the major form of power but
+merely one element among others, working to incite, reinforce…” Deduction exists, still, in the
+case of taxes. But the true form of power today is a “… power bent on generating forces, making
+them grow, and ordering them, rather than one dedicated to impeding them, making them submit,
+or destroying them. There has been a parallel shift in the right of death, or at least a tendency to
+align itself with the exigencies of a life-administering power and to define itself accordingly.
+
+                                                                                                  19
+
+This death that was based on the right of the sovereign to defend himself or to require that one
+defend him, is [now] manifested as simply the reverse of the right of the social body to ensure,
+maintain or develop its life. Yet wars were never as bloody as they have been since the
+nineteenth century, and all things being equal, never before did regimes visit such holocausts on
+their own populations.”
+
+“But this formidable power of death”—and this is perhaps what accounts for part of its force and
+the cynicism with which it has so greatly expanded its limits—"now presents itself as the
+counterpart of a power that exerts a positive influence on life…”5 --This was not the case for
+death determined by the Sovereign. -- [Deleuze continues reading] “… as the counterpart of a
+power that exerts a positive influence on life, that endeavors to administer, optimize, and
+multiply it, subjecting it to precise controls and comprehensive regulations. Wars are no longer
+waged in the name of a sovereign who must be defended; they are waged on behalf of the
+existence of everyone; entire populations are mobilized for the purpose of wholesale slaughter in
+the name of life necessity: massacres have become vital. It is as managers of life and survival, of
+bodies and the race, that so many regimes have been able to wage so many wars, causing so
+many men to be killed. And through a turn that closes the circle, as the technology of wars has
+caused them to tend increasingly toward all-out destruction, the decision that initiates them and
+the one that terminates them are in fact increasingly informed by the naked question of survival.
+The atomic situation is now at the end point of this process: the power to expose a whole
+population to death is the underside of the power to guarantee an individual’s continued
+existence. The principle underlying the tactics of battle—that one has to be capable of killing in
+order to go on living [pouvoir tuer pour pouvoir vivre]—has become the principle that defines
+the strategy of states. But the existence in question is no longer the juridical existence of the
+sovereignty; at stake is the biological existence of a population. If genocide is indeed the dream
+of modern powers, this is not because of a recent return of the ancient right to kill; it is because
+power is situated and exercised at the level of life, the species, the race, and the large-scale
+phenomena of population.”
+
+“On another level, I might have taken up the example of the death penalty. Together with war, it
+was for a long time the other form of the right of the sword; it constituted the reply of the
+sovereign to those who attacked his will, his law, or his person. Those who died on the scaffold
+became fewer and fewer, in contrast to those who died in wars. But it was for the same reason
+that the latter” – those who die in wars – “became more numerous and the former” – those who
+die on the scaffold” -- become “more and more rare.”6 -- It’s for the same reasons that the death
+penalty is abolished and holocaust spreads. -- [Deleuze continues reading]: “As soon as power
+gave itself the function of administering life, its reason for being and the logic of its exercise—
+and not the awakening of humanitarian feelings—made it more difficult to apply the death
+penalty. How could power exercise its highest prerogatives by putting people to death, when its
+main role was to ensure, sustain, and multiply life, to put this life in order? For such a power,
+execution was at the same time a limit, a scandal, and a contradiction,”7 whereas the holocaust is
+not that, since the holocaust is the condition for the survival of the exterminating people.
+Beautiful pages.
+
+Moreover, all this—I would like to conclude since you can’t take anymore—I’m concluding,
+I’ve finished the first point: in what sense is everything always said, in what sense are statements
+
+                                                                                                   20
+
+not hidden, the statements are not secret, and visibilities not hidden, you can see, and you can
+hear in your time period all that can be seen and all that can be heard. Get rid of the idea that
+politicians trick you, it’s worse, it’s definitively worse: if only all they did was trick us! Even,
+even with respect to holocausts, they don’t hide them. They don’t hide them. You see, so of
+course you can tell right away what you have to read in order to learn these pseudo-secrets. This
+and that.
+
+Everything’s good, and that’s what Foucault’s method will be. It’s that you have to occasionally
+read the medical journals to see what today’s health policy is. In medical journals, you’ll read
+pronouncements that personally make me shudder, of the sort: we’re heading towards a medicine
+without doctors or patients. It’s easy to see what that means: an illness will no longer be defined
+by symptoms, it will be defined by images, the kind produced by scanner, etc. That is, you’ll be
+treated before being sick, you won’t even have the time to be sick. That is, a medicine through
+images instead of a medicine through signs. This is very interesting: we can’t say that they are
+hiding it, they are saying it. “A medicine without doctors or patients”—in fact, everything takes
+place between the image and the bearer of the image, by means of the detection device. It sort of
+sends shivers up and down your spine—but it’s said, so don’t tell us it’s hidden! You’ll say: “it’s
+said, but in specialized journals” . . . so what? Specialized journals are not secret. Perhaps what is
+part of the statement is: the speaker and the hearer—yes, okay. But that a statement implies a
+given speaker and is addressed to a given hearer, does that mean that it is secret? No, that does
+not mean that it is secret, not at all.
+
+You will see, this last comment will surely start us off for our next analysis. Reading the military
+journals is likewise very, very interesting. Because there they truly hide nothing from us. We
+can’t say that a general is a liar. There is nothing more candid than a general. That’s a law of
+statements. Even out of them all—politician, diplomat—the general is the most candid! The most
+terrifying, too, but the most loyal. A general does not lie, he never lies. They are very interesting,
+the journals, the military research. There, too, you have speakers and addressees. So, there you
+have it.
+
+The theme, all I wanted to say, about this, the theme that Foucault constantly reprises, it’s a rule
+of his method: what’s hard is to find statements where they are, but they are somewhere. It’s up
+to you to find them. They are not hidden. And the archive means this: put together the corpus, as
+Foucault says, but he uses a term very frequently used by linguists, or at least by certain
+linguists, put together the corpus of statements that are characteristic of an historical formation.
+That in itself requires a lot of ingenuity. You have to find them where they are. “Find them
+where they are” means both: they are not hidden, and yet it takes an effort to find them. You
+must construct the corpus of statements from which you start off. When you conduct research on
+a particular historical formation, you’ve got to build your corpus. That’s it, so, we’ll move on to
+the other problem: but then, if they are not hidden, they are nonetheless not given either. So:
+what to do? And why are they not given? That’s it! [End of the recording] [1:56:10]
+
+Notes
+
+                                                                                                               21
+
+    Abbreviation for the undergraduate degree, Diplôme d'Etudes Universitaires Générales.
+  This is close to a title published in 1971: Les Hommes et la mort en Anjou aux XVIIe et XVIII siècles. Essai de
+démographie et de psychologie historiques (Paris-La Haye, Mouton, 1971). (English title would be: Men and Death
+in 17th and 18th Century Anjou. Essay in Historical Demography and Psychology).
+    The Project Gutenberg Ebook of Pierre; or, The Ambiguities, www.gutenberg.org, EBook #34970, page 724.
+    La Volonté de Savoir, pp. 179-181.
+    History of Sexuality, Volume I, pp. 136-7.
+    History of Sexuality, Volume I, p. 137-8.
+    History of Sexuality, Volume I, p. 138.

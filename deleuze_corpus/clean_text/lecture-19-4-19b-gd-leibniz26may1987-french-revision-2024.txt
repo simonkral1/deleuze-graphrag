@@ -1,0 +1,940 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Principes et la Liberté
+
+Séance 19, le 19 mai 1987 : Les Principes et la Liberté (14) -- Qu’est-ce qu’avoir un corps ?
+
+Transcription initiale, WebDeleuze ; transcription augmentée, Charles J. Stivale
+
+Partie 1
+Donc, écoutez-moi bien, si vous m’entendez. Comme je vous l’ai dit la dernière fois, nous avons
+deux séances dont je vous demande pardon de vous les présenter si rapides, et ensuite, je ne peux
+pas – pour mille raisons – continuer. Donc, aujourd’hui et la semaine prochaine. Ensuite notre
+travail de cette année est fini. Les autres mardi, je viendrai uniquement pour régler les cas de
+premier cycle, deuxième cycle, troisième cycle, les travaux que certains d’entre vous doivent me
+remettre. Donc je ferai des réunions [1 :00] aux heures habituelles, ou plutôt un peu plus tard,
+vers, mettons, dix heures. Donc, cela n’intéressera que ceux qui ont des rapports quelconques
+avec l’UV, pour mettre leur situation au point. S’il y a des situations à mettre au point tout de
+suite, parce que j’ai reçu un papier disant, où c’est à vous de le savoir, tout ça, j’ai reçu un papier
+où certains d’entre vous ont besoin de certificats en avance. Donc je viendrai uniquement pour
+ça. Si par hasard, je ne pouvais pas venir, à ce moment-là, ceux qui ont besoin de me voir pour
+des signatures, etc., ou des choses administratives, vous auriez la gentillesse de me téléphoner,
+en n’abusant pas du téléphone. Le téléphone, il est dans l’annuaire. Voilà. Reste [2 :00]
+aujourd’hui et la prochaine fois, et c’est très simple.
+C’est un peu comme si ce cours sur Leibniz, en avançant un petit peu et puis en reculant souvent,
+s’était développé comme un travail qui aurait dû durer deux ans, si bien que ce que je fais là
+maintenant, c’est beaucoup plus ce qui aurait été la matière à une autre année. Et puisqu’il nous
+reste aujourd’hui et la prochaine fois, j’essaie d’y mettre le plus de clarté aujourd’hui, j’avais
+envie de vous proposer une série de, comment dire, de parcours concernant les deux étages,
+puisque c’était notre point de départ, cette philosophie de deux étages, une espèce de visite des
+deux étages ou, si vous préférez, [3 :00] un ensemble de, presque de rêveries, tel que j’aimerais
+beaucoup que vous interveniez s’il y a un point qui… [Deleuze ne termine pas la phrase] De
+rêveries sur cette organisation de la philosophie de Leibniz, et notamment sur le rôle qu’y a le
+vivant ou l’organisme. Et cela devrait nous amener aux rapports respectifs des deux étages: celui
+des âmes et celui des corps, en gros – puis on aura vu entre-temps que ce n’est pas celui des
+âmes et celui des corps. C’est pour ça que je dis "rêveries" parce que il faudra, chaque fois que je
+dirai une phrase, il faudra attendre le moment de la corriger, ou bien que vous-mêmes la
+corrigiez. Ce n’est pas ma faute, c’est le style de Leibniz.
+Et donc il faudrait arriver à ces deux étages: [4 :00] est-ce qu’ils ont une loi commune ? Quels
+sont leurs rapports? Et ce rapport nous le pressentons déjà: c’est ce que Leibniz appellera celui
+de l’harmonie, harmonie des âmes entre elles, harmonie des corps entre eux, harmonie des âmes
+avec les corps. Et ce sur quoi nous voulions finir depuis le début, c’est précisément ce point, ce
+concept d’harmonie devenu fondamental pour la philosophie. Qu’y a-t-il à voir avec ce qui, à
+peu près à la même époque, se passe en musique, en musique? [Pause]
+
+                                                                                                  2
+
+On me donne là, par exemple, un petit livre [5 :00] de Rameau, où je lis: "L’expression du
+physique est dans la mesure et le mouvement," "L’expression du physique est dans la mesure et
+le mouvement." Si je lis le plus bêtement, par associations d’idées, je me dis, ah tiens, ça renvoie
+peut-être à la musique qui précède. "L’expression du physique est dans la mesure et le
+mouvement", on sait nous déjà que, chez Leibniz -- quoique sur ce point, je n’ai pas été très loin
+– on sait déjà que chez Leibniz, ce n’est pas le mouvement qui compte, mais que c’est une raison
+du mouvement qu’il appellera la force. Je continue: "L’expression du physique est dans la
+mesure et le mouvement. Celle du pathétique, au contraire…" [6 :00] Est-ce qu’avec Leibniz, la
+pathétique arrive ou le pathétique arrive? Eh oui ! Là, je coupe. Peu importe, on rêve. Oui.
+Eh oui, le pathos arrive. Pourquoi? Parce qu'il nous dira que par-delà le mouvement, il y a
+quelque chose d’autre. Et que ce par-delà le mouvement, qu’est-ce que c’est? C’est l’altération,
+la variation, le pathos. "L’expression du physique est dans la mesure et le mouvement" ; nous
+pouvons lire maintenant presque, "l’expression du physique ou de la musique d’hier est dans la
+mesure et le mouvement ; celle du pathétique, au contraire, est dans l’harmonie et les inflexions."
+[7 :00] Peut-être vous rappelez-vous: ce fut nos premiers mots de cette année, quand il s’est agi
+de définir la philosophie de Leibniz – dire: partons des inflexions. "Celle du pathétique, au
+contraire, est dans l’harmonie et les inflexions, ce qu’il faut bien peser avant que de décider sur
+ce qui doit emporter la balance." Ça veut dire quoi ? Rameau nous dit: réfléchissez bien, vous
+musiciens, à ce qui doit emporter la balance: ou bien la mesure et le mouvement qui constituent
+la physique, la physique musicale, ou bien la pathétique qui réside dans l’harmonie et les
+inflexions.
+Or, si alors on consent à l’idée [8 :00] que, à peu près à la même époque, l’harmonie en musique
+connaît une mutation très importante, [Pause] qui concernera déjà Monteverdi, et qui concernera
+fondamentalement Bach, est-ce que l’on ne peut pas penser aussi que, lorsque Leibniz présente
+ce qu’il nous donne comme un de ses concepts fondamentaux – l’harmonie préétablie -- et qu’il
+oppose l’harmonie préétablie à Descartes et aux Cartésiens, et que en même temps il reproche à
+Descartes et aux cartésiens d’en être resté au mouvement, et par-là de ne pas avoir compris la
+nature du mouvement [9 :00] – est-ce qu’on ne peut pas se dire: ben oui, on tient quelque chose,
+on tient quelque chose ? On peut s’étonner que la confrontation n’ait pas été faite suffisamment
+encore entre Leibniz et la musique. [Pause]
+Alors essayons de répartir là ces étages, cette histoire, les deux étages baroques. Et vous vous
+rappelez, on s’était dit ceci: ce qui est fondamental, c’est une ligne à inflexions. Pourquoi est-ce
+que c’est ça qui est fondamental? Je ne recommence pas, je suppose que vous l’avez un peu
+présent. [10 :00] Pourquoi est-ce que c’est… C’est une ligne qui n’est pas une ligne droite, mais
+qui présente des singularités, des singularités intrinsèques, vous vous rappelez. Une ligne qui
+représente, alors mettons, représentation abstraite d’une ligne qui présente des singularités
+intrinsèques, c’est une ligne à inflexions. On l’avait vu, par exemple, chez Paul Klee dès le
+début. Et on avait dit: supposons, c’est ça, vous savez, la ligne baroque. [Pause] Mais
+concrètement, ça veut dire quoi? Concrètement, ça veut dire: [Pause] ce qui compte, et presque
+l’unité du monde, c’est l’événement. L’événement, c’est une inflexion. L’inflexion, c’est la
+figure abstraite de l’événement ; [11 :00] l’événement, c’est le cas concret de l’inflexion. [Pause]
+Et le monde, c’est quoi? C’est un ensemble, c’est une succession infinie d’inflexions ou
+d’événements qui seront nommés: états du monde. A quoi vous me direz, peut-être: c’est comme
+une curieuse manière de définir et de commencer à présenter un étage dont vous vous attendez
+déjà – en vertu de tout notre passé – à ce que ce soit l’étage des âmes, et puis invoquer des
+
+                                                                                                     3
+
+événements et des inflexions. [12 :00] C’est que déjà tout est mêlé. Socrate est assis dans sa
+prison. Vous voyez, Socrate est assis dans sa prison, ça fait référence à un texte célèbre de
+Platon. Pourquoi est-ce que Socrate est assis dans sa prison en attendant la mort? Et Platon
+demande: est-ce qu’il a des genoux qui peuvent plier? [Rires] D’accord il a des genoux qui
+peuvent plier. Ça n’empêche pas que ce n’est pas parce qu’il a des genoux qui peuvent plier qu’il
+est assis dans sa prison. Il est assis dans sa prison parce qu'il trouve que c’est bien. Qu’est-ce qui
+est bien ? Il trouve que c’est bien de ne pas chercher à s’évader. Il attend sa condamnation.
+Qu’est-ce que ça veut dire? Comprenez: [13 :00] tout acte doit être rapporté à deux choses à la
+fois – les causes efficientes, dira déjà Platon, mais dira aussi Leibniz, et Leibniz le dira avec plus
+de force –, et les causes finales. Socrate est assis dans sa prison parce qu'il trouve ça bien: cause
+finale. Bien.
+Je veux dire une chose très simple: tout événement est événement de l’esprit, et je ne veux rien
+dire d’autre. Ou si vous préférez, il va de soi que tout événement concerne les corps, et je ne
+pourrais pas citer sans doute un seul événement qui ne concerne les corps. Mais je dis juste: cet
+aspect-là, on le laisse de côté pour le moment. Il est entendu qu’on ne peut pas dire tout à la fois,
+donc l’aspect par lequel l’événement concerne les corps, [114 :00] on ne s’en occupe pas pour le
+moment, car il y a un autre aspect de l’événement. Si vous me dites: mais ce n’est pas une
+dualité? Non ce n’est pas une dualité, l’un est strictement dans l’autre – mais de quelle manière?
+Quelle relation [est-ce qu’] il y aura entre les deux aspects ? L’événement est bien dans les corps,
+mais il n’est pas seulement dans les corps.
+Alors bien, ça éclaire un tout petit peu. Ça répond à l’objection que je me faisais: comment vous
+dire… Je vais vous parler de l’esprit, et puis commencer à un événement comme être assis dans
+sa prison. Et on a vu comment avançait, dans cette découverte de l’esprit, Leibniz. C’est que la
+ligne à inflexions, ou que la ligne à événements, est enveloppée dans une unité spirituelle
+[15 :00] qui s’appellera monade. On va de l’inflexion à l’enveloppement. Je ne reviens pas làdessus. Si bien que, s’il est vrai que toute inflexion est une singularité, est une singularité
+intrinsèque, il faudra dire qu’une monade est une condensation de singularités, ou si vous
+préférez, que une monade exprime le monde. [Pause]
+Elle exprime le monde en quel sens? Les événements sont [16 :00] ses prédicats. Et l’on a vu à
+quel point il pouvait être ruineux pour une compréhension de la philosophie de Leibniz de penser
+que les prédicats étaient des attributs, des attributs de jugement, alors que les prédicats étaient
+des événements comme exprimés par des propositions. Le type de la proposition chez Leibniz, ce
+n’est pas "le ciel est bleu", c’est "César franchit le Rubicon". Comprenez pourquoi j’insiste
+tellement là-dessus: si on n’a pas ça, si on ne comprend pas ça très vivement, on ne comprend
+strictement rien à ce que veut dire Leibniz. Et si l’on a rapproché si fort Leibniz et Whitehead,
+c’est pour cette raison – ce sont des philosophies de l’événement où finalement tout est
+événement, [17 :00] et par-là même, tout est prédicat de sujets, d’unités individuelles qui
+expriment le monde. [Pause]
+Donc, ça c’est un premier stade qui me permet de dire à la fois, si vous vous rappelez, qui me
+permet de dire à la fois, ben oui, vous comprenez, il faut dire à la fois que chaque substance
+individuelle, chaque monade, âme ou esprit – tout ça, prenons-le comme identiques – chaque
+substance individuelle, chaque âme ou esprit, chaque monade, exprime la totalité du monde.
+[Pause] [18 :00] Et il faut dire à la fois que les monades sont pour ce monde qu’elles expriment
+– si le monde avait été autre, les monades auraient été autres puisqu’elles auraient exprimé un
+autre monde -- donc il faut dire à la fois que les monades sont pour le monde qu’elles expriment,
+
+                                                                                                    4
+
+mais que ce monde n’existe pas hors des monades qui l’expriment. Si bien que qu’est-ce que le
+monde? C’est l’exprimé commun de toutes les monades que Dieu a fait passer à l’existence. Il
+aurait pu faire passer d’autres monades à l’existence, très bien, mais à ce moment-là, ça aurait été
+un autre monde. Il aurait choisi un autre monde, et on a vu cette notion bizarre de choix du
+monde chez Leibniz. [19 :00]
+Faisons encore un pas de plus dans l’examen de cet étage – vous voyez, nous sommes donc dans
+l’étage, un étage très curieux ; là, j’ai tenu au moins à ce qu’on a fini ce point qui était notre
+point de départ. C’est que le monde est exprimé par chaque monade, oui. Et comme le monde
+n’existe pas hors des monades qui l’expriment, il faut dire que chaque monade a une infinité de
+plis ; le monde est plié dans chaque monade. Et apparaissait ce thème de la pliure, déjà, au
+niveau de l’esprit. Mais, immédiatement le problème rebondissait: bon, mais alors, pourquoi pas
+une seule monade? Pourquoi tant de monades? Pourquoi y a-t-il une infinité de monades [20 :00]
+qui expriment toutes le même monde? Et la réponse de Leibniz, la réponse que Leibniz nous
+donnait, c’est pourquoi est-ce que il n’y a pas un seul monde, un seul Dieu, un seul… ? Pourquoi
+Spinoza a-t-il tort, selon Leibniz? La réponse de Leibniz, c’est qu’il y a bien une raison
+individuelle, il y a bien un principe d’individuation des monades, à savoir qu’elles expriment
+toutes le même monde infini, à l’infini, mais elles n’expriment clairement qu’une petite portion
+du monde. Chacun de nous n’exprime clairement qu’une petite portion du monde.
+Si bien que dès le début, vous voyez, cet étage des âmes, indépendamment du corps – c’est ça
+qui m’importe chez Leibniz, [21 :00] c’est que l’obscurité ne vient pas du corps. C’est l’âme,
+encore une fois, c’est l’âme qui est sombre, c’est l’âme qui est obscure. Elle n’a qu’une petite
+région de clarté. Sa petite région de clarté, c’est la portion privilégiée qu’elle exprime
+particulièrement. Elle exprime particulièrement une notion privilégiée. Vous, moi, quelqu’un qui
+vivait il y a mille ans, nous n’exprimons pas la même région du monde. Ce qu’il dit si bien,
+encore une fois, chacun a son département, département dont on a vu -- je ne reviens pas làdessus -- à quel point il pouvait être réduit ou étendu. A quel point, par exemple, [22 :00] chez le
+damné, il allait se réduire à rien, à un presque rien, et au contraire, chez l’homme de progrès, [il
+allait] s’étendre. Mais enfin, tout ça, c’est des notions qui nous font visiter cet étage des âmes.
+Une étudiante (près de Deleuze) : [Inaudible, en chuchotant]
+Deleuze : Quoi ?
+L’étudiante : [Inaudible, elle indique qu’il y a quelqu’un avec une question]
+Deleuze : Oui, oui, vous m’arrêtez, surtout vous m’arrêtez. C’est comme une visite ; c’est
+comme si je vous disais, voilà un appartement sur deux étages. Alors vous me dites: ah bon, ça
+sert à quoi? On fait de la gestion… Vas-y.
+Une étudiante : Une petite chose qui me trouble: est-ce que c’est juste parce que [si] toutes les
+monades sont en contact, disons, en contact les unes avec les autres, qu’on peut déduire que le
+monde n’existe pas en dehors de ces monades? [Pause]
+Deleuze: Non, car ce serait contradictoire. [23 :00] Si je disais: les monades n’ont strictement
+rien à voir les unes avec les autres parce qu’elles sont en contact, [Interruption de
+l’enregistrement BNF et YouTube ; texte de WebDeleuze] [23 :09] ça n’irait pas parce que ce
+contact formerait un quelque chose de commun, un monde commun. Ce qu’il y a, c’est que les
+monades, on ne peut même pas dire, Leibniz dit dans un texte: on ne peut pas dire qu’elles sont
+
+                                                                                                      5
+
+lointaines ou distantes, elles n’ont ni porte ni fenêtre. [Retour à l’enregistrement BNF &
+YouTube ; 23 :10] Elles sont entièrement fermées sur soi, elles sont closes.
+Partie 2
+L’étudiante : Mais vous avez quand même parlé une fois d’un rapport qu’elles y avaient toutes,
+même si elles sont sans porte ni fenêtre. Parce qu’avec tout ce rapport, ça me paraît… Non, parce
+que c’est quand même quelque chose de bizarre de dire que les monades sont pour le monde
+qu’elles expriment mais ce monde n’existe pas en dehors de ces monades.
+Deleuze : C’est ça, eh bien, c’est l’essentiel. C’est l’essentiel. Je veux dire, en effet, la question
+est très bonne parce que si vous lâchez un des deux aspects, c’est fichu. Je veux dire, il faut à
+tout prix maintenir les deux aspects. Dire, il faut dire… Bien sûr, le monde n’existe pas hors des
+monades. [24 :00] Comment est-ce qu’il existerait? Il n’existe pas hors des monades pour une
+raison très simple, c’est que: tout prédicat est dans le sujet. On a vu cette longue analyse, ou si
+vous préférez, tout ce qui donne lieu à une inflexion est plié dans la monade, donc il n’y a pas de
+monde qui ne soit plié dans cette espèce d’enveloppe: la monade, vous ou moi.
+Vous savez, je pense à tout à fait autre chose en disant cela. Je pense à un texte célèbre de Proust,
+comment un monde peut être plié dans un personnage, dans une personne. C’est le cas. Pour
+Leibniz, le monde est perpétuellement plié dans des unités individuelles. [25 :00] Pourquoi?
+Alors si on demande, pourquoi ? Alors, si on dit, c’est parce que, si vous comprenez bien que
+l’événement est toujours une inflexion, [Pause] eh bien, l’inflexion n’existe plus que enveloppée
+dans. – [Deleuze s’adresse à l’étudiante près de lui qui veut répondre] Alors, pardon, je ne
+recommence pas. Je termine juste pour que tu me dises ça. -- Donc je peux dire: le monde
+n’existe que dans les monades qui l’expriment. Mais il faut que je dise aussi: les monades
+n’existent que pour le monde qu’elles expriment. Pourquoi? Parce que, Leibniz revient tout le
+temps à ceci, exemple typique: Dieu n’a pas créé Adam pêcheur, [26 :00] il a créé le monde où
+Adam a pêché. Il n’a pas créé telle monade, telle autre monade, telle autre monade, parce qu’à ce
+moment-là, elles n’exprimeraient pas le même monde. Il a créé un monde, il aurait pu en créer un
+autre. Quand il fait passer ce monde à l’existence, il le fait passer dans et en créant l’infinité des
+monades qui expriment ce monde. Sinon, il ne peut plus rien faire. S’il crée un monde commun,
+s’il crée un monde commun dans lequel il y aurait des individus, des sujets, etc., [Pause] on
+serait dans la situation bien, mais les autres mondes qu’il aurait pu créer… [27 :00] Il faut, si
+vous voulez que… [Pause] Il a la conception d’une infinité de mondes possibles, qui ne sont
+pas, comme il dit, compossibles les uns avec les autres. Il choisit un de ces mondes, celui qui a le
+plus de réalité, celui qui a le plus de quantité de réalité, comme il dit, c’est-à-dire le plus parfait.
+Mais ce monde, il n’a aucune existence en lui-même indépendamment des substances
+individuelles, puisque les substances individuelles, c’est la réalité même qui n’a aucune existence
+hors des substances individuelles qui l’expriment. J’insiste là-dessus parce que si on ne
+comprenait pas à ce niveau, je crois qu’on ne comprendrait rien là. [28 :00]
+Alors je devance presque quelque chose: qu’est-ce que c’est que la notion de l’harmonie?
+Leibniz, quand il emploie le mot harmonie, et là je ne parle pas en termes de musique, ni en
+termes de philosophie, je dis, à l’occasion de cette question : faisons une hypothèse, déjà pour la
+prochaine fois ; elle servira pour la prochaine fois. L’harmonie, vous comprenez, [il y a]
+énormément de textes de Leibniz sur l’harmonie. Alors, on cherche ce qu’il y a de commun. Et je
+crois que si on réunit tous les textes, comme on n’aura pas le temps, on voit déjà que l’harmonie,
+c’est un rapport assez curieux entre… ; c’est un rapport qui concerne l’expression. C’est un
+
+                                                                                                         6
+
+rapport d’expression, c’est l’expression comme rapport. [29 :00] Tiens ça, je dis ça nous
+conviendrait peut-être pour la musique, parce que d’une certaine manière – peut-être qu’on le
+verra la prochaine fois – c’est avec le Baroque que la musique se réclame d’une valeur
+expressive. La valeur expressive de la musique, ça c’est déjà, l’introduction du Baroque. [C’est]
+peut-être un peu ce que Rameau appelait "le pathétique", mais on verra.
+Je dis: l’harmonie, c’est un rapport d’expression, mais qu’est-ce que le rapport d’expression?
+Précisons-le ; ça ne va pas nous faire avancer beaucoup. J’appelle rapport d’expression un
+rapport entre un terme dit "exprimant" et un terme dit [30 :00] "exprimé". [Pause] Bon, [cela
+n’a] aucun sens, à moins que je ne définisse ce rapport ; je dirais, dans quel temps ? Alors, si
+l’expression c’est un rapport entre un exprimant et un exprimé, en quoi consiste ce rapport? Je
+propose comme hypothèse: il est double. D’une part, l’exprimé n’existe pas hors de son
+exprimant, d’autre part, et en même temps, l’exprimant est dans une [31 :00] correspondance
+réglée avec son exprimé. [Pause] Oh, quelle joie, je n’aurais jamais cru arriver à quelque chose
+de si clair et abstrait à la fois. Je crois que c’est ça, c’est ça l’harmonie, et que ça ne convient à
+rien d’autre. Deux choses sont en harmonie quand elles sont dans cette situation.
+Je renvoie, par exemple, à un texte pour ceux qui s’y rapporteraient, mais il est en latin, et à ma
+connaissance, il n’est pas traduit. C’est Quid sit idea, "ce que c’est qu’une idée", tome 7 des
+Œuvres philosophiques, Quid sit idea, où Leibniz analyse le rapport d’expression. Je crois que le
+texte là, je ne veux pas dire trop, je ne peux pas dire qu’il soit dedans, [32 :00] mais je dis que
+peut-être ce texte favorise cette conclusion que j’en tire, cette relation entre un exprimé et un
+exprimant. Il faut les deux, si vous voulez, à la fois: ce que j’exprime n’existe pas hors de moi,
+c’est une très bizarre relation. C’est pour ça que je vous disais: il y a une torsion, il y a une
+torsion dans l’exprimé et l’exprimant. Ce que j’exprime n’existe pas hors de moi, et en même
+temps, moi je n’existe que dans une correspondance réglée avec ce que j’exprime.
+Qu’est-ce que c’est ça en mathématique? Si alors du coup, j’ose tout, mais vous savez, ce n’est
+pas loin, ce n’est pas loin précisément de ce qu’on appelle une fonction. [33 :00] Et je ne sais pas
+si en mathématique si on ne pourrait pas dire – je sais qui pourrait nous le dire, mais ça m’ennuie
+de l’ennuyer –, si on ne pourrait pas déjà dire quelque chose comme ça, que en mathématique
+que une fonction est fondamentalement expressive, s’il n’y a pas les deux caractères, si une
+fonction n’est pas un rapport entre deux termes tels que l’un n’existe pas indépendamment de
+l’autre et l’autre n’existe pas indépendamment d’une correspondance réglée avec l’un. Je dis à la
+fois: le monde que Dieu a choisi n’existe pas hors des monades qui l’expriment, différemment,
+on l’a vu. Il n’y a pas deux monades qui expriment le monde de la même façon – on l’a vu, c’est
+la théorie du point de vue. [34 :00] La théorie du point de vue, on a vu en quoi elle consistait.
+C’est que chacun de nous a son département, il a sa petite portion d’expression claire.
+Un étudiant : [Inaudible, sauf ce que Deleuze répète] D’où vient cette limite?
+Deleuze: D’où vient cette limite ? Nous sommes finis. Toute créature est finie; il y a un seul être
+qui n'a pas cette limite, c’est Dieu. Lui, il exprime adéquatement et distinctement, non seulement
+l’univers qu’il a choisi, mais l’infinité des autres univers. Mais nous, notre finitude, ça veut dire
+que nous n’exprimons [35 :00] qu’un seul monde parmi tous les mondes compossibles, d’une
+part, et que nous n’exprimons clairement qu’une petite région de ce monde. C’est la conséquence
+de quoi? C’est la conséquence de notre finitude, c’est-à-dire du fait que nous n’ayons pas
+seulement une force expressive, mais que nous ayons – on l’a vu une fois précédente – une
+matière première, matière première voulant dire: puissance de finitude.
+
+                                                                                                        7
+
+Une étudiante (près de Deleuze): Si toutes les monades sont finies, à travers Dieu le monde est
+quand même infini …
+Deleuze: Ouais, puisqu’il y a une infinité de monades …
+L’étudiante: … ça laisse quand même supposer qu'il y a un monde qui existe en dehors des
+monades.
+Deleuze: Pourquoi? [Pause] [36 :00] Non, il faut trouver un autre mot. Moi, je crois que c’est…
+Il y a longtemps, à propos de tout à fait d’autre chose, il nous est arrivé, j’avais proposé un autre
+mot: le monde n’existe pas hors des monades – il faut dire qu’il insiste. Il n’existe pas. –
+Comment, c’est curieux. C’est là, je m’attendais à ce qu’il n’y ait pas de difficulté et on est
+toujours surpris. -- Je dis: les monades, c’est l’existence du monde. Je veux dire, pour moi, non
+pas pour moi, pour Leibniz, ça va tellement de soi que le monde n’existe pas en dehors des
+monades puisque si on demande: qu’est-ce que l’existence du monde? Il dit: c’est les monades.
+L’étudiante: Mais Dieu est plus que la totalité des monades.
+Deleuze: Evidemment… Il les crée.
+L’étudiante : Ben oui.
+Deleuze : Il choisit le monde.
+L’étudiante : Donc, pour moi, [37 :00] cela laisse supposer qu’il y a un plus.
+Deleuze : Un plus, les monades ?
+L’étudiante : Oui.
+Deleuze : C’est Dieu.
+L’étudiante : Oui.
+Deleuze : C’est tout. [Rires] … A ce stade, eh ? Ne me faites pas dire… A ce stade, c’est tout. A
+la visite de l’appartement où on est.
+L’étudiante : C’est-à-dire qu’il y a une partie du monde qui existe, … ah non, tu as dit un, un, un
+qui…
+Deleuze : Oui ! C’est le petit dessin que… C’est le petit dessin, alors il faut que je le refasse
+presque ? On rappelle que… [Pause ; bruit de Deleuze qui va au tableau] Je fais mon petit
+dessin lumineux mais je ne sais pas si c’est très clair maintenant. [Il s’agit sans doute du dessin
+qui se trouve à la fin du chapitre 2 dans Le Pli, p. 36 ; The Fold, p. 26] Je suppose que c’est le
+monde, c’est le monde. [Pause] [38 :00] – Ah, c’était plus joli, eh ? -- Je le mets en pointillé
+parce que comme monde, il n’a d’existence que virtuelle. [Pause] Mais il ne devient actuel, il
+n’est actuel que dans les monades qui l’expriment et dont chacune l’exprime tout entier. Quelles
+différences [y a-t-il] entre les monades? Elles l’exprimeront tout entier d’un point de vue – là, ça
+se complique, ça ne va plus du tout –, d’un point de vue, c’est-à-dire chacune a sa zone
+privilégiée. Et là, tu me dis, ça, est-ce que ça existe ? Oui, ça existe, mais ça existe là ! Si bien
+que tu peux dire: le monde n’existe que dans les monades, [39 :00] mais chaque monade a un
+rapport réglé avec le monde, d’après son propre point de vue. [Pause ; Deleuze revient à sa
+place, et s’adresse à l’étudiante] Non ? Je sens que tu n’es pas leibnizienne… [Elle commence à
+répondre, mais est interrompue]
+
+                                                                                                     8
+
+Un étudiant (du fond): [Propos inaudibles]
+
+Deleuze : Quoi ?
+
+L’étudiant : [Inaudible, il continue sa question]
+
+Deleuze : Ah non, impossible, il y a… à moins que j’aie mal compris, il y a une irréductibilité
+absolue des monades les unes par rapport aux autres. Vous voyez pourquoi? C’est parce que ce
+qu’il ne veut pas, c’est l’idée d’un seul monde. [40 :00] D’une certaine manière… --
+Un étudiant (qui intervient doucement) : [Inaudible]
+Deleuze : Il y en a un, quoi ? Il y a un appareil ? Oh, laisse, laisse… C’est bon, c’est qu’il
+marche… Oui, oui, je suis toujours étonné… -- Oui … [Deleuze s’adresse à quelqu’un, peut-être
+Isabelle Stengers] sauve-moi parce que…
+Isabelle Stengers (peut-être) : En physico-mathématiques, le problème s’est posé pratiquement à
+la fin du XVIIIe siècle, c’est que les physiciens-mathématiciens ont construit des fonctions
+globales, par exemple l’énergie potentielle, le champ, en fait l’ancêtre de la théorie des champs
+que nous avons aujourd’hui, et qui au départ ont été construit à partir de forces qui elles ont des
+définitions purement locales. Mais quand on parle de la définition du potentiel (juste après
+Lagrange), la force n’apparaît plus que comme une fonction qui est une dérivée locale d’une
+fonction qui représente l’intégrale du système [41 :00] au même moment, et pendant tout un
+temps, il y avait une symétrie parfaite entre l’idée que les forces n’étaient, au fond, que des
+dérivées locales du champ intégral, ou que le champ intégral était construit par intégration à
+partir des forces locales. [Deleuze: ouais, ouais…] Le rapport de symétrie a été posé par
+l’électromagnétisme. [Deleuze: ouais, ouais…] Le champ a pris son autonomie, mais il y avait
+toujours un problème : il n’a pas réconcilié la relativité d’Einstein qui est sur le champ
+gravitationnel et l’électromagnétisme… [Les propos deviennent moins distincts]
+Deleuze: Alors, d’accord, et nous qui sommes leibniziens, nous pouvons dire, -- bien entendu ce
+n’est pas lui qui résout les problèmes de la science actuelle, -- mais que si on essaie de…, que
+lui, il résoudrait le problème que tu dis au niveau de l’autre étage, au niveau de la théorie de la
+matière, ce qu’on va voir si on continue cette visite. Alors, [Deleuze s’adresse à l’étudiante près
+de lui qui avait posé la question précédente], d’accord ?
+L’étudiante : Oui !
+Deleuze : Bon. Tu es leibnizienne un peu ?
+L’étudiante : Oh, je ne sais pas pourquoi je le serais !
+Deleuze : Oh, il ne faut pas chercher pourquoi, il ne faut pas chercher pourquoi… Moi, j’ai envie
+de te faire un aveu : moi non plus. [Rires] Mais moi, je sais pourquoi ! [Rires]
+Donc, juste continuons cette pièce -- j’appelle ça une pièce comme dans un logement -- cette
+pièce des âmes. Vous voyez, elle est énorme [43 :00] puisqu’elle contient déjà le monde entier,
+les expressions de monde, les mondes incompossibles, tout ça, la liberté, enfin tout ce qu’on a
+vu. Je dis, un dernier effort. Chacun de nous a son département. C’est là-dessus que j’insiste: le
+corps, nous ne l’avons pas encore fait intervenir. Ce que nous avons fait intervenir c’est, vous
+vous rappelez ? La matière première, c’est-à-dire toute substance individuelle ou monade
+
+                                                                                                     9
+
+comporte une force primitive active et une force primitive passive, [Pause] force primitive
+passive nommée une matière première et qui ne fait qu’un avec sa finitude. [Pause] [44 :00]
+En d’autres termes: que je ne n’exprime pas la totalité du monde clairement, que je n’ai qu’un
+petit bout d’expression claire, c’est quoi, ça? Ce n’est rien d’autre qu’une autre manière de dire
+qu’il y a plusieurs monades, que je ne suis pas seul au monde. Le sombre en moi, c’est la part
+des autres. [Pause] L’ombre – Oui, vous pouvez maintenant ouvrir. Il fait trop chaud… Vous
+pouvez, vous allez ouvrir par derrière – [L’ombre,] c’est la part des autres, c’est la pluralité des
+monades qui fait que [45 :00] seul Dieu n’est pas à l’ombre. Mais nous, nous avons une part
+obscure, nous avons une part noire, nous avons une part sombre qui est le fond de notre âme. Et
+ça ne veut pas dire le mal. Ce sera la possibilité du mal, mais ça ne veut pas dire le mal. Ça veut
+dire que toute vérité doit être arrachée à ce sombre. Or le point de départ de tout arrachement de
+la vérité, c’est la petite région claire que chacun de nous exprime. Et, on l’a vu, à partir de là, les
+âmes ou les esprits, mais les âmes et les esprits raisonnables ont en effet leur manière d’accéder à
+la vérité.
+Et on l’a vu notamment la dernière fois grâce à l’analyse de la perception. Les perceptions
+intérieures de la monade puisque [46 :00] les monades, en exprimant le monde, perçoivent les
+événements, on a vu que ces perceptions consistaient à tirer du sombre une clarté où des petites
+perceptions non remarquées – comme il dit, une perception remarquable. C’est toujours la
+théorie des points singuliers, c’est toujours la théorie des points remarquables -- et on a vu
+comment dans chaque monade se faisait cette constitution d’une perception remarquable. Et à
+partir de la constitution de la perception remarquable, on accédera à d’autres vérités dont on avait
+fait l’analyse, [47 :00] je vous le rappelle, et qui était des analyses de séries, de séries
+convergentes vers des réquisits qui dépassaient les choses, les choses perceptibles vers des
+réquisits et séries infinies qui allaient plus loin jusqu’à l’idée de Dieu. Tout ça, je ne reviens pas
+là-dessus, mais tout ça agrandit de plus en plus l’appartement.
+Eh ben, on arrête cet étage-là, et on demande tout de suite: bon, mais quoi, qu’est-ce qui se
+passe? Il n’y a que ça, à mon avis, dans le premier appartement, il n’y a que ça. On a tout fait,
+compte tenu des problèmes énormes qui s’y posent: problème de la liberté, problème de etc. Et
+tout d’un coup, ce qui va définir, ce qui va définir l’autre étage, c’est quoi? [48 :00] Eh bien,
+c’est: "j’ai un corps"! Moi, monade… Oh, il faut que j’ajoute, dans mon premier étage, il y a déjà
+une grande variété: c’est que toutes les monades ne se valent pas. Non seulement on a vu que les
+monades avaient des zones d’expression claire plus ou moins grandes, mais est-ce qu’il n’y en a
+pas déjà qui elles se contenteraient d’une zone de perception remarquable ou remarquée et
+n’atteindrait pas aux vérités divines, n’atteindraient pas aux séries infinies ? On est forcé de le
+laisser. Qu’est-ce que ce serait ces monades? En d’autres termes: est-ce que toute monade est une
+âme raisonnable, ou un esprit? [Pause] [49 :00] A l’étage où on est, on ne peut rencontrer que
+des âmes raisonnables ou des esprits.
+Donc je dis: allez, on saute dans l’autre étage, et ce qui nous fait sauter, mais alors, c’est comme
+quoi ? C’est comme une espèce d’escalier ? – c’est quoi? "J’ai un corps", l’annonce que j’ai un
+corps! [Pause] Comprenez en quoi ça m’ouvre… Je vous le disais, ça va ouvrir quoi? Qu’est-ce
+qui l’exige, que j’ai un corps? C’est l’événement. L’événement ne se contente pas du premier
+étage. Donc, il faudra le mettre, [50 :00] si on tente un schéma, il faudra le mettre entre les deux.
+Et finalement peut-être que tout sera entre les deux car ce qu’on a vu comme appartenant au
+premier étage, c’est quoi? C’est l’événement comme détermination spirituelle. Et qu’est-ce que
+
+                                                                                                  10
+
+c’est l’événement comme détermination spirituelle? C’est l’événement ou l’inflexion en tant
+qu’elle s’actualise, en tant qu’il s’actualise dans un sujet individuel. [Pause]
+Vous vous rappelez: le monde est une virtualité, et c’est là que joue le couple leibnizien virtuelactuel. Le monde est une virtualité qui s’actualise dans chaque monade qui l’exprime. [51 :00] Si
+vous préférez: la monade est l’existence actuelle du monde, et le monde n’existe actuellement
+que dans les monades, sinon il est pure virtualité. Or qu’est-ce que l’événement réclame en plus?
+C’est très beau! Il me semble que c’est très beau: enfin, vous dites, ben oui, Socrate s’assied sans
+sa prison parce qu'il trouve que c’est bien. Mais alors, il faut rajouter d’autres choses. Encore
+faut-il aussi qu’il ait des genoux qui plient. En d’autres termes, je ne vois rien de plus beau pour
+vous dire une chose si simple: il faut aussi que l’événement [52 :00] s’inscrive dans les corps. Il
+faut aussi que l’événement s’inscrive dans les corps. En d’autres termes, l’événement n’est pas
+seulement une virtualité qui vous attend et qui vous guette et qui s’actualise dans votre âme.
+L’événement est une possibilité qui se réalise dans vos corps, et ça va être ça, ça va être ça
+l’étage d’en dessous. [Pause]
+Mais, "J’ai un corps", pourquoi? Première raison: parce que, mais c’est justement parce que je ne
+peux exprimer qu’une portion claire, réduite, justement [53 :00] parce que je ne peux exprimer
+qu’une petite portion. Dieu n’a pas de corps. [Pause] Le corps, c’est exactement mon
+département. [Pause] Et rappelez vous ce qu’on disait très fort – ne faites surtout pas là le
+changement qui rendrait Leibniz incompréhensible: ce n’est pas parce que j’ai un corps que j’ai
+une portion d’expression réduite; c’est parce que j’ai une portion d’expression réduite que dès
+lors j’ai un corps. En effet, ce que j’exprime, ce que ma monade exprime clairement, c’est cela
+qui sera dit concerner mon corps, et quoi, dès lors concerner le rapport d’autres corps avec le
+mien. [54 :00] En d’autres termes, un événement ne peut pas se réaliser dans un corps qui serait
+le mien, il ne peut se réaliser que dans une interaction de corps sur le mien. Il faut que j’aie un
+corps et je n’aurais pas de corps s’il n’y avait d’autres corps interagissant sur le mien. [Pause]
+Que j’ai un corps, cela découle [Pause] de ma finitude, c’est-à-dire de la puissance passive ou, si
+vous préférez, du fait que je n’ai une zone d’expression [55 :00] claire très, très restreinte.
+Un étudiant: Est-ce que l’événement réalisé est le déploiement du temps? Où est le temps?
+Deleuze: L’événement réalisé n’est pas le déploiement du temps, votre question est très juste car
+le temps et l’espace, on n’en a pas parlé du tout. L’espace et le temps suivront tout cet ensemble.
+Il y a déjà un espace et un temps à l’étage supérieur, simplement ce temps sera uniquement
+l’ordre des possibles coexistents. Par exemple: votre monade, votre esprit en tant qu’esprit ou
+bien coexiste ou bien ne coexiste pas avec celui, par exemple, de César. Vous n’êtes pas de la
+même époque. Ça c’est déjà compris complètement. Donc le temps comme ordre des successions
+possibles [56 :00] et l’espace comme ordre des coexistences possibles appartiennent au premier
+étage. Cet espace n’a rien à voir, en revanche -- je réponds du mieux que je peux à votre question
+-- cet espace et ce temps n’a encore rien à voir avec de l’étendue et avec de la durée. L’étendue
+et la durée appartiennent à l’autre.
+L’étudiant : C’est infini.
+Deleuze : Quel rapport y aurait-il… C’est infini, c’est temps infini ? Non, pas au premier sens.
+Ce n’est pas un temps infini puisqu’il est second, il est second par rapport à ce qui le remplit. Il
+n’est infini que par conséquence, il n’y aurait pas un temps et un espace vides qui seraient
+remplis par l’action de Dieu. Ce que j’appelle l’espace et le temps, c’est l’ordre des coexistences
+[57 :00] et des successions entre monades, si bien que dire que elles pourraient changer d’espace,
+
+                                                                                                   11
+
+d’endroits dans l’espace, ou de moments dans le temps, sans changer elles-mêmes, ça n’aurait
+aucun sens.
+Le même étudiant: Donc, il est infiniment virtuel?
+Deleuze: Il est infiniment virtuel ? Non. [Deleuze rit] Oui et non, oui et non. Il est virtuel si vous
+l’identifiez au temps du monde, à l’exprimé. Il est actuel si vous le prenez comme l’ordre des
+successions des monades, des monades qui sont actuelles. Alors, le problème compliqué ce sera
+mathématiquement, parce que vous sentez déjà que, au premier étage, il y a une logique du
+temps défini comme l’ordre des successions, [58 :00] par exemple, ou une logique de l’espace, et
+Leibniz tiendra beaucoup à la distinction des mots. Il n’emploie à cet étage-là que les termes de
+spatium, espace, et tempus, temps. Quand vous voyez le mot extensio ou extensum, ça ne renvoie
+jamais à cela. Ça renvoie au contraire à quelque chose qui concerne déjà les corps. Alors le
+problème, ce sera quels rapports y a-t-il entre le spatium et l’extensio, par exemple. Ce sera une
+des théories mathématiques, je crois, les plus audacieuses de Leibniz. Mais enfin voilà, c’est tout
+ce que je peux dire rapidement.
+Alors, je dis, vous voyez: chacun de nous a un corps; chacun de nous a un corps, et en même
+temps, [59 :00] il a un corps sur lequel d’autres corps interagissent. [Pause] Voir, par exemple
+Monadologie. – [Deleuze cherche son texte, sans succès] Je ne sais pas… Tant pis. Je les ai déjà
+cités d’ailleurs, et puis ça suffit, oui. Monadologie, c’est un tout petit texte. [Rires] [Pause]
+Or, il y a déjà un problème, vous voyez, car vous avez deux systèmes, les deux étages sont
+subordonnés à deux modes de construction complètement différents. Le premier étage a pour
+mode de construction [Pause] un monde virtuel [Pause] qui n’existe actuellement [60 :00] que
+dans chaque monade; en d’autres termes, chaque monade exprime la totalité du monde et inclut
+la totalité du monde. Au niveau des corps où vous êtes, ce n’est plus ça du tout. Les corps sont
+extérieurs les uns aux autres et interagissent les uns sur les autres. Les monades, au contraire,
+sont telles que le monde est intérieur à chacune et qu’elles sont sans porte ni fenêtre, c’est-à-dire
+qu’elles n’interagissent pas. Chacune exprime le monde pour son compte, sans porte ni fenêtre,
+tandis que là, il y a une interaction, une interaction des corps. [Pause] [61 :00]
+Et je dirais: ce que j’exprime clairement dans le monde, ce sont les corps qui affectent le mien ;
+ce sont les corps qui affectent directement le mien, et c’est par ce processus de l’affection, alors,
+de l’interaction des corps, c’est par ce processus que quelque chose dans cet étage-là va répondre
+aux perceptions intérieures des monades. On l’a vu la dernière fois, quand j’ai essayé d’analyser
+l’exemple de la goutte d’eau et de la vague, [Pause] et que l’on voyait qu’entre le corps liquide
+[62 :00] et mon corps se constituait, à la limite, une sorte de rapport différentiel dy/dx, à l’autre
+étage se constituait dans la monade une perception distinguée: j’entendais le bruit de l’eau. Vous
+voyez déjà qu’il y a correspondance là entre les deux étages, mais chacun des deux a sa loi – ils
+n’obéissent pas à la même loi. Il y a une loi qui est l’interaction des corps les uns sur les autres,
+une autre loi qui est: les monades [Pause] dont chacune exprime [63 :00] l’univers entier, et qui
+ne communiquent pas les unes avec les autres.
+Alors, ça va nous faire une difficulté. Je veux dire, comment rendre compte d’une telle différence
+entre les deux étages ? Eh ben, qu’est-ce qu’il y a entre les deux étages ? Autant demander: de
+quoi est fait mon corps? Si on a demandé ça, presque ça nous suffirait. Donc faites un effort: de
+quoi est fait mon corps? De quoi est fait tout corps? Ce n’est pas facile à comprendre chez
+Leibniz, de quoi est fait un corps, et pour moi, ça me parait un des plus grands mystères de toutes
+les philosophies du XVIIe siècle. [64 :00] Je dirais qu’un corps est fait – pas chez tous d’ailleurs,
+
+                                                                                                       12
+
+mais chez Leibniz et chez Spinoza aussi d’ailleurs ; il y a ça de commun entre Leibniz et Spinoza
+peut-être. -- Chez Leibniz et Spinoza, un corps est fait d’une infinité de parties actuelles
+infiniment petites. Tout corps est constitué par une infinité de parties actuelles infiniment petites,
+[Pause] c’est-à-dire on ne peut pas arriver à une dernière partie. C’est ce qu’on appelle l’infini
+actuel. [Pause] Il faut l’imaginer, c’est ça qui est bien, il faut l’imaginer, et c’est proprement
+[65 :00] inimaginable. C’est mathématisable, mais c’est inimaginable.
+Suivez-moi, ça s’oppose à deux choses. Ça s’oppose d’une part aux atomes. Avec les atomes, il y
+a toujours, si loin que ce soit, il y a toujours une dernière partie, une dernière partie irréductible.
+Là, c’est au contraire une infinité de parties actuelles telles qu’il n’y a pas de dernière partie, que
+toute partie comporte encore une infinité de parties actuelles. Et d’autre part, ce n’est pas du
+divisible à l’infini ; ce n’est pas du divisible à l’infini puisque l’infinité de parties actuelles telle
+qu’aucune partie ne peut être dite la plus petite, [66 :00] précisément sont données actuellement,
+existent actuellement, et ne dépendent pas du processus de division que vous faites subir à
+l’ensemble. [Pause]
+C’est ce que ces auteurs diront ou essayeront d’expliquer en disant: ce sont des multiplicités
+indénombrables, c’est-à-dire [Pause] qui ne sont pas de la nature du nombre. [Pause] Elles sont à
+proprement parler innumérables, ce qui n’empêche pas que vous pouvez dire qu’un corps est le
+double d’un autre. Un corps peut très bien être le double d’un autre, mais il comporte, non moins
+que l’autre, une infinité de parties actuelles, [67 :00] infiniment petites. Est-ce qu’une telle
+conception… C’est ce que Leibniz l’affirmera dix fois en disant: il n’y a d’infini que actuel, et
+très souvent -- je crois vous l’avoir dit trop vite, mais je le répète -- très souvent on objecte
+d’autres textes de Leibniz où Leibniz dit que le calcul infinitésimal, ou que même le calcul des
+séries infinies, n’est qu’une fiction mathématique. Mais il me paraît évident qu’il n’y a aucune
+contradiction et que ça veut dire que même le calcul infinitésimal ne rend pas compte de cet état
+de l’infini actuel.
+Donc, supposez là des collections de parties infinies, ce sont des parties de parties infinies, sans
+que vous puissiez arriver à la dernière, et qui pourtant sont actuellement [68 :00] données,
+contrairement à ce qui se passe dans une divisibilité à l’infini. Tout corps est de ce type. [Pause]
+Quand je dis, j’ai un corps, je veux dire, je comporte une infinité de parties infiniment petites,
+actuellement, actuellement. [Pause]
+Un étudiant: Est-ce que c’est parce qu'elles sont actuelles qu’on évite le paradoxe de Zénon,
+c’est-à-dire l’infini ne soit jamais… [Les réponses de Deleuze couvrent la voix de l’étudiant]
+Deleuze: C’est ça, absolument. C’est pour ça aussi qu’il va y avoir une conception particulière
+du mouvement qui va dépendre de la force. [69 :00]
+L’étudiant : Le mouvement en train de se faire.
+Deleuze : C’est ça.
+L’étudiante (près de Deleuze) : Donc l’âme est finie mais pas le corps?
+Deleuze: Non. La question ce n’est pas de savoir si l’âme est finie et pas le corps. La question,
+c’est que tout est à la fois, sauf Dieu, infini et fini. C’est-à-dire, Dieu, lui, son compte est réglé, il
+est infini. Bon, ouf, c’est fini ; enfin, si j’ose dire, on en parle plus. Mais tout ce qui est fini est
+infini par un certain aspect, et des infinis, je vous disais, c’est ça. [Fin de cassette ; interruption
+de l’enregistrement BNF & YouTube ; texte de WebDeleuze] [1 :09 :46] Il me semble que le
+secret de la pensée du XVIIe siècle, c’est la distinction des ordres d’infini. Or si Dieu est infini et
+
+                                                                                                        13
+
+s’il est le premier infini, c’est parce qu'il est dit: infini par soi. Il est infini par soi. Mais il y a
+immédiatement un deuxième infini qui est l’infini par sa cause. [Retour à l’enregistrement BNF
+& YouTube] [1 :09 :48]
+
+Partie 3
+L’infini par sa cause, c’est les créatures. Alors, les monades sont infinies par leur cause. Elles
+sont infinies, pourquoi?... [70 :00] Non, plutôt, elles sont finies, elles ne sont pas infinies parce
+que ce sont des créatures, elles sont créées par Dieu. Mais elles sont infinies, simplement infinies
+par leur cause, pourquoi? Parce que Dieu les crée de telle manière qu’elles expriment la totalité
+d’un monde infini. Et leur formule c’est que, dès lors, elles auront une infinité de prédicats, et cet
+infini par sa cause a pour formule, on l’avait vu, 1/infini; alors que Dieu par sa cause aurait pour
+formule, infini/1, c’est-à-dire l’infini comme individualité, l’infini comme être personnel. Donc
+au premier étage des monades, elles sont finies et elles sont infinies.
+Là, alors, quand nous arrivons aux corps [71 :00] et aux ensembles de parties actuellement
+infinies à l’infini, c’est le troisième sens de l’infini. A savoir: un infini qui est pris dans des
+limites, une portion de matière, et qui, quelles que soient les limites et l’étroitesse des limites
+considérées, est à proprement parlé indénombrable. Donc c’est du fini puisqu’il est pris entre des
+limites; il est infini puisqu’il comporte une infinité de parties actuelles. C’est le troisième infini.
+Est-ce qu’il y en a d’autres? Hélas, il y en a d’autres encore, mais on s’en tient à ceux-là parce
+que c’est les trois grands, [72 :00] c’est les trois grands modes d’infini. Encore une fois, pas chez
+tous ; ça, ce que je dis ne vaut que pour Leibniz et pour Spinoza.
+Alors je dis: c’est ça, d’abord, avoir un corps. Bon, et ça veut dire quoi? Vous vous rappelez,
+ajoutons: pourquoi [est-ce que] j’avais un corps? J’avais un corps parce que je ne voyais que, je
+n’avais qu’un département, etc., qu’un petit département clair. Mais pourquoi [est-ce que] je
+n’avais qu’un petit département clair? Parce que j’étais une créature, parce que j’étais fini. En
+d’autres termes, parce que j’avais une matière première, et la matière première, on l’avait vu, ce
+n’est pas avoir un corps, c’est l’exigence d’avoir un corps. Et alors, l’exigence d’avoir un corps,
+alors bon, [73 :00] la voilà satisfaite. [Pause] C’est pour cela que Leibniz parlera… Ces
+ensembles infinis de petites parties actuellement infinies, il ne faudra pas que vous vous étonniez
+qu’il les appelle matière seconde. A peine je dis ça, je dois vous dire, attendez-vous à ce qu’on
+doive corriger, ça ne suffit pas. Mais c’est un aspect de la matière seconde. La matière seconde
+ce sera la forme sous laquelle la matière effectue l’exigence de la matière première… [Pause ; un
+étudiant semble poser une question] … de la finitude. [74 :00] Elle revient dans toute notre
+histoire, elle revient: nous sommes finis, donc nous ne pouvons exprimer qu’une partie finie,
+donc nous avons un corps.
+Un étudiant : [Inaudible, voix presque indistincte]
+Ah, il y a une immanence de la monade à la matière première, absolue, complètement. –
+[Deleuze parle aux étudiants près de lui] Oh, dites, ça se complique, ça, eh ? Mais ça devrait en
+même temps se dénouer alors, parce que… Vous voyez bien le problème que nous avons dans
+les pieds maintenant? C’est bon, mais… -- Qu’est-ce que mon corps? En quoi c’est mon corps? Il
+faut bien que quelque chose en fasse mon corps. [Pause] [75 :00] J’ai un ensemble infini de
+parties matérielles infiniment petites, mais en quoi ça me concerne tout ça? [Pause]
+
+                                                                                                     14
+
+Aussi la matière seconde a deux aspects, et nous n’avions donné qu’un aspect de la matière
+seconde. C’est que cet ensemble infini de matière infiniment petite comporte en même temps une
+infinité de petites âmes. [Une étudiante répète pour quelqu’un : Les âmes] De petites âmes,
+comme si on remontait au premier étage. Les petites âmes, vous allez dire, les petites âmes, mais
+quoi ? -- J’hésite entre deux choses: si je vais très lentement, on s’y perd; si je vais très vite, on
+s’y perd encore plus. – [76 :00] La matière seconde doit comporter… je n’en sais même plus rien
+moi… Si! Un ensemble infini de petites parties actuellement infinies, mais elles ne
+m’appartiennent que sous l’hypothèse d’une infinité de petites âmes.
+Mais pourtant, il est cartésien, il y a distinction réelle entre l’âme et le corps. Ouais! Mais vous
+vous rappelez, ça me parait un des coups les plus étonnants de Leibniz: la distinction réelle
+n’implique pas la séparabilité. Mon corps est constitué d’une infinité de petites âmes animant
+une infinité de parties organiques infiniment petites – la machine qui va jusqu’à l’infini. [77 :00]
+Les deux sont réellement distincts? Oui, mais ça ne les empêche pas d’être inséparables, d’où
+l’étonnante théorie du vivant. C’est ça, le statut du vivant. [Pause]
+Heureusement – bon, je préfère aller vite parce que, encore on a l’impression de se perdre tous.
+Alors quoi! Où on en est? On ne sait même plus où on en est? -- Si! Formule lumineuse, la
+lumière arrive: il suffira de dire que vous, chacun de vous, est une monade dominante, et en tant
+que vous êtes une monade dominante, vous avez un corps. Monade dominante, ça veut dire: vous
+êtes une âme raisonnable, [Pause] [78 :00] et en tant que telle, vous avez un corps, avec un
+cerveau – il n’y a pas d’âme sans cerveau. Vous avez un corps avec un cerveau. Votre corps, il
+est fait de quoi? D’une infinité de petites parties actuellement infinies, [Pause] mais inséparables
+d’une infinité de monades dominées [Pause] qui sont, elles, non pas raisonnables mais animales
+ou sensitives. [Pause] D’où cet extraordinaire vitalisme qui peut dire en même temps: alors, il
+n’y a pas de matière vivante, non, toute matière est matière, c’est tout. Simplement, [79 :00] il va
+y avoir inséparabilité de la matière seconde et des petites âmes, c’est-à-dire des monades
+dominées. [Pause] Seulement, si c’était tout? Ça ne va pas marcher si facile! Pour moi, à mon
+avis, c’est un des plus grands organicismes qu’on ait fait en philosophie. Comme Whitehead
+aimait appeler sa philosophie organiciste, organicisme, c’est une raison de plus pour les
+comparer.
+Alors, vous voyez déjà où ça nous entraîne si je voulais gagner du temps ; il n’est plus question
+de gagner du temps! Si je voulais gagner du temps, quelle est la situation des animaux? Les
+animaux, c’est compliqué [80 :00] parce que, on a beau dire, les animaux, ils n’ont pas d’âme
+raisonnable, ils n’arrivent pas aux vérités nécessaires, ils n’arrivent pas aux séries infinies, ils ne
+font pas de mathématiques, ils ne connaissent pas Dieu, etc. Mais ils ont quand même une petite
+portion claire, [Pause] et ils font non pas des raisonnements, mais ils enregistrent des
+consécutions, comme il [Leibniz] dit, dans leurs monades, et on a vu que la psychologie de
+l’animal était vraiment pour Leibniz quelque chose de fondamental. Bien.
+"Je meurs!" Vous vous rappelez ce qui se passe quand je meurs. On l’avait vu parce que ça
+faisait notre joie, cette bonne nouvelle, [Rires] au tout début: c’est épatant, quand je meurs!
+[81 :00] Mon âme raisonnable est réduite à une âme sensitive ou animale, mais elle demeure.
+Elle demeure. [Pause] C’est les fameux plis, replis, déplis. Et elle sera redéplié lorsque Dieu
+l’appellera au jugement dernier. Vous vous rappelez cette idée très bizarre [Deleuze éclate de
+rire] qu’il avait que les âmes appelées à devenir raisonnables ne l’étaient pas dès le début du
+monde – en effet, ce serait idiot. Moi, mon âme raisonnable, vous pensez, et la vôtre aussi, il a
+bien fallu attendre qu’on naisse dans l’ordre du temps, dans l’ordre des successions, au premier
+
+                                                                                                   15
+
+étage. [82 :00] Il a fallu que Dieu nous appelle, c’est-à-dire: déplie nos propres parties pour que
+nous exprimions le monde. Mais avant, on existait, mais on existait comme quoi? Comme une
+âme animale sensitive, comme l’âme d’un vers. Simplement, qu’est-ce qui nous distinguait d’un
+vers? On ne pouvait pas le savoir, à l’époque. Comme [Leibniz] dit: c’est comme si Dieu avait
+scellé, dans certaines âmes sensitives, un acte, acte qu’elles allaient accéder à la raison, etc.
+Enfin, ça c’est le Leibniz qui nous touche le plus, pas celui qui … Bon, j’arrête là-dessus.
+Quand nous mourrons, nous redevenons une âme sensitive faisant partie de la matière seconde. –
+Mais alors, il n’y a plus qu’un petit effort à faire. [Fin de cassette et interruption du texte de
+WebDeleuze] – Prenons la loi des corps : [83 :00] la matière seconde et toutes les petites
+monades dominées, [Retour du texte de WebDeleuze] ce qu’il appelle le plus souvent les formes
+substantielles, toutes les formes substantielles, elles ne cessent pas d’aller et venir. Pourquoi? En
+vertu de la loi du premier étage. La loi du premier étage, si vous vous rappelez: l’interaction
+universelle des corps. Notre corps, il ne cesse pas de changer de parties, et non seulement il ne
+cesse pas de changer d’organes, mais par-là même, il ne cesse pas de changer de petites âmes,
+c’est-à-dire de formes substantielles, puisque les formes substantielles ou les petites âmes sont
+strictement inséparables des organes. [Pause] [84 :00] Ce qui veut dire une chose très simple,
+vous savez: vous avez une âme de votre cœur, vous avez votre âme à vous, vous avez votre âme,
+mais vous avez une âme de votre cœur, vous avez une âme de votre bras, vous avez une âme de
+tout ça. Vous avez des millions et des millions d’âmes, mais elles ne cessent pas de changer en
+même temps que les parties de votre organisme. Ça n’arrête pas de changer. Il a trouvé une
+métaphore plus belle que le fleuve d’Héraclite pour dire que tout change, Leibniz. Il dit: c’est
+comme le vaisseau de Thésée, notre corps est comme le vaisseau de Thésée que les Grecs
+réparaient toujours. Toujours un trou, toujours un trou. Ça revient à dire que dans tout corps
+[85 :00] les atomes ne cessent pas de changer.
+Un étudiant: Sous cet angle-là, [Xavier] Bichat a parlé des infinités de morts partielles.
+Deleuze: Complètement, les morts partielles… parce que… Ce n’est pas difficile, calculer une
+mort partielle chez Leibniz, et en même temps, en quoi [est-ce qu’] il n’y a pas de mort totale?
+Vous prenez un organisme, vous prenez votre organisme au moment petit a, et voilà ce que vous
+faites: toutes les parties de cet organisme et toutes les âmes de cet organisme ne s’en vont pas en
+même temps. Alors vous avez un premier temps, au moment b, mettons que la région a prime
+[86 :00] ait subsisté et que la région a second soit partie, et de proche en proche. Et vous vous
+demandez, par rapport au moment a dont vous étiez parti, à quel moment toutes les parties se
+sont renouvelées. Mais à ce moment-là, ça n'empêche pas que par rapport au moment précédent,
+un certain nombre de parties, ou plutôt des parties innombrables, soient demeurées. On pourra
+appeler "période d’un organisme" la distance de temps, la différence de temps pour renouveler
+complètement les parties et âmes de l’organisme, une fois dit que ça ne se fait jamais d’un coup,
+que ça ne se fait jamais d’un coup et que, bien plus, il n’y a jamais de moment où tout se
+renouvelle. [87 :00] Si je pouvais refaire mon schéma… Je pars du moment a, au moment b je
+peux dire, mettons, je dis n’importe quoi, dix molécules sont parties, au moment c, vingt
+molécules sont parties. Mais des dix nouvelles qui étaient arrivées, celles-là durent. C’est donc
+une période. -- Je vois votre œil tout à fait éteint et abattu. Enfin ça se comprend. -- Votre
+période elle ne coïncide jamais avec une disparition ou avec une naissance totale. Elle est
+toujours à cheval avec une part qui reste et une part qui s’en va.
+Mais alors comment conjuguer à la fois, c’est mon corps et ça ne cesse pas de s’en aller? Et
+Leibniz a finalement beaucoup de peine. [88 :00] Et si j’essaie de résumer, je retombe sur
+
+                                                                                                       16
+
+quelque chose qu’on avait commencé à dire la dernière fois. Eh ben oui, il faut maintenir les
+deux choses suivantes: ce qui va définir un corps, avec ses fuites et ses arrivées, avec ses
+nouvelles fournitures et ses nouveaux départs, ce qui va définir un corps comme mien, c’est --
+pardonnez-moi l’expression -- c’est une couture. Une espèce de couture ou un nœud, un lien, ce
+que Leibniz appellera le vinculum, le vinculum. [Pause] [89 :00] Ce qui correspond à ma monade
+dominante, c’est un vinculum qui réunit les monades dominées, et les organes. [Pause]
+Comment est-ce qu’il le concevait, ce vinculum ? Ce vinculum est dit substantiel, c’est-à-dire
+dépendant directement de la substance. [Pause] Il m’appartient à moi, monade dominante. C’est
+dans les Lettres à Des Bosses, c’est à moi qu’il appartient -- les textes sont là très, très difficiles ;
+je ne vous donne qu’une esquisse, bien qu’ils aient été très bien interprétés, d’une part par
+[Yvon] Belaval dans son Introduction à la pensée de Leibniz, [90 :00] et d’autre part, par une
+philosophe qui s’appelle Christine Frémont qui a publié les lettres traduites, les Lettres à Des
+Bosses. Mais ça n’empêche pas que le texte est vraiment très difficile. Je dis, il me semble que le
+vinculum m’appartient à moi comme monade dominante. Là-dessus, tous les organes et les
+monades dominées qui composent mon organisme, et qui vont et qui viennent, c’est-à-dire qui
+arrivent et qui s’en vont, ne dépendent pas du vinculum. Elles m’appartiennent en tant qu’elles y
+entrent, mais elles sortent et elles prennent un autre vinculum, [91 :00] ou bien plus elles ne
+prennent pas de vinculum du tout. [Pause] Et c’est ça qui va emmener l’interaction universelle
+des corps. [Pause]
+Alors bon, essayons de voir. Je dis très vite. -- C’est déjà bien difficile tout ça. -- J’essaie de faire
+un classement. On me dirait, c’est très bien, tout ça ; essayez de faire un classement des grandes
+catégories dont vous venez de parlez. Je dirais:
+Premièrement: événements, [Pause] singularités intrinsèques, inflexions. [92 :00]
+Deuxièmement: monades, [Pause] forces primitives actives [Pause] qui expriment le monde ou
+plient les événements. [Pause] C’est l’actualité du monde. [Pause]
+Troisièmement: les monades ont non seulement une force active primitive, mais une force
+passive primitive – c’est leur finitude, ou leur matière première, en fonction de laquelle elles
+n’expriment [93 :00] que [Pause] une portion finie du monde. Elles n’expriment clairement
+qu’une portion finie du monde.
+Quatrièmement: si je n’exprime qu’une portion finie du monde, j’ai un corps, ce qui revient à
+dire: si j’ai une matière première, elle exprime une exigence, exigence d’avoir un corps.
+Cinquièmement: le corps est la troisième forme d’infini, [Pause] l’ensemble actuellement infini
+de parties infiniment petites non dénombrables. [Pause] [94 :00] A ce titre, il est matière seconde
+[Pause] et reste inséparable d’une infinité de monades dérivées, de sous-monades, de monades
+dérivées ou formes substantielles, qui sont des âmes dominées par rapport à mon âme dominante.
+Cinquièmement ou sixièmement [Les étudiants disent, Sixièmement] – Oh, C’est limpide, c’est
+très bien, vous ne pouvez plus rien… -- Sixièmement, cinquièmement: deux aspects. [Pause]
+[95 :00] La matière seconde appartient, m’appartient, appartient à ma monade pour autant qu’elle
+entre sous le vinculum, la chaîne, la chaîne substantielle qui m’appartient, qui me caractérise. Là,
+je m’appuie fort sur un texte [des Lettres à] Des Bosses: le vinculum m’appartient et est fixé, le
+vinculum est fixé à la monade dominante. – [Deleuze réagit peut-être à quelqu’un qui veut
+l’interrompre] Je continue ce que je dis parce qu’autrement, je n’y comprends plus rien. --
+D’autre part, les mêmes, c’est-à-dire les parties organiques et les monades dominées ne cessent
+
+                                                                                                      17
+
+d’aller et de venir, [96 :00] comme le vaisseau de Thésée : suivant qu’elles changent de
+vinculum… [L’étudiante près de Deleuze lui dit quelque chose] Oui, elles passent sous une autre
+monade, [Pause] ou se libèrent de tout vinculum. [Pause]
+Septièmement: de toute manière, on s’y retrouvera [Rires] car, [Pause] à la mort -- c’est là qu’il
+y a un problème, vous savez, c’est ce qu’il n’a pas voulu, il ne veut pas… il a déjà fait une si
+belle théorie de la damnation, il ne faut pas tout [97 :00] lui demander, il n’a pas voulu régler
+l’un avec l’autre le problème de la mort et le problème de l’organisme, je crois. -- Car quand
+nous mourrons, encore une fois, nous perdons notre âme raisonnable qui redevient une âme
+sensitive, alors elle perd son vinculum. Est-ce qu’elle perd son vinculum? Si elle perd son
+vinculum, tout est perdu: comment est-ce qu’on reconnaîtra le corps qui lui appartient? Vous
+vous rendez compte ? Oh, le problème, [rires de Deleuze] c’est terrible.
+Heureusement, il y a ce texte si étrange: avant que nous ne soyons appelés à devenir
+raisonnables, et une fois mort, quand nous cessons d’être raisonnables, il y a cette chose bizarre:
+[98 :00] l’appel scellé. Mon âme est redevenue animale, mais elle contient l’appel scellé, et, à
+mon avis, c’est la seule manière pour que Dieu reconnaisse les siens, sinon il ne peut pas
+reconnaître les siens. A moins qu’il ne faille faire intervenir un mystère, et comme à la fin, il le
+dit dans la correspondance avec Des Bosses, et c’est le mystère de la transsubstantiation: "ceci
+est mon corps, ceci est mon sang." C’est un exemple où les monades, les monades dominées –
+car ce n’est pas la monade du Christ -- les monades dominées, c’est les monades du corps et du
+sang du Christ, et puis les monades du pain et du vin qui entrent dans un très étrange rapport.
+Dernier point. -- Peu importe. On a fait ce qu’on pouvait. [99 :00] – Dernier point – Mais, je
+dirais pour tout satisfaire, sur ce point, on n’a pas tout à fait fini, eh ? Un peu de courage encore.
+Dernier point, je dis: ben, vous comprenez – qu’est ce que vous devriez comprendre ? – Oui,
+notre programme du début de l’année, il est quand même un peu fait, à savoir: l’âme est pleine
+de plis qu’elle déplie partiellement. Voilà, c’était la première proposition baroque: les plis dans
+l’âme. Elle les déplie partiellement, on l’a vu, par les opérations de recherche de la vérité, etc.
+Deuxième proposition: la matière est pleine de replis, [Pause] et c’est l’autre étage. [100 :00] La
+matière est pleine de replis qui abritent, libèrent, et font circuler des infinités de parties actuelles
+et des infinités de monades dominées inséparables, inséparables des parties actuelles. [Pause]
+En haut, dans les événements, il y avait des singularités. En bas, si on avait eu le temps, on
+verrait que, dans la physique de Leibniz, va se développer une physique des extrema, des minima
+et des maxima, et en effet, dans certaines conditions, [101 :00] qui sont celles du monde
+physique, les points singuliers – mais là, c’est des choses qu’il aurait fallu pouvoir aborder la
+physique – les points singuliers deviennent des minima et des maxima, des extrema. Qu’est-ce
+qu’il y a entre les deux? Il y a toute cette histoire d’organismes, il y a toute cette histoire de
+vitalisme qui nous fait passer perpétuellement d’un étage à l’autre. [Pause] Qu’est-ce qu’on peut
+en conclure? … Oui ?
+Un étudiant: Ça me fait penser à Bergson parce que ça aide à comprendre la question de la
+différence entre les multiplicités qualitatives et quantitatives. On pourrait dire que la multiplicité
+qualitative est au croisement de deux lignes infinies. Ces infinies seraient [102 :00] l’infini par
+soi et l’infini par sa fin. Ce que je veux dire… Je prends un exemple: ce qui me tient à cœur c’est
+d’arriver à considérer l’espace, ou ce qu’il appelle l’étendue, sous l’ordre de quelque chose de
+purement qualitatif. Est-ce qu’on pourrait dire qu’un espace qualifié, qu’il y a quelque chose qui
+donne lieu, est au croisement de deux infinis, un infini qui est celui du corps en mouvement qui
+
+                                                                                                     18
+
+est, à ce moment-là, c’est les infinités de petites parties infiniment actuelles, et l’autre ligne
+infinie, c’est la lumière qui est, elle, un indénombrable?
+Deleuze: Ouais. Je vais te dire parce que je préfère la manière dont tu finis à la manière dont tu
+commençais, parce que tu es sensible autant que moi au danger de faire des rapprochements.
+[103 :00] A l’égard du problème des multiplicités, qui est en effet un problème fondamental, on
+peut dire ceci, en gros: à mon avis, Bergson arrive à un moment crucial dans la théorie des
+multiplicités et va tenter un coup pour la faire sortir du stade des mathématiques. Il y a deux
+auteurs qui simultanément font cette tentative pour faire sortir la multiplicité du simple stade
+d’une théorie des mathématiques pour l’introduire en philosophie: c’est Husserl et c’est Bergson.
+Ça, c’est un point. Ce qui intéresse Bergson, c’est un point particulier: le rapport entre les
+multiplicités discrètes et les multiplicités continues. Bon. Est-ce qu’il s’intéresse ? Oui, il
+s’intéresse [104 :00] au problème de l’un et du multiple puisque, encore une fois, il n’y a pas
+d’un et de multiple, il n’y a que des multiplicités, et c’est par-là qu’il est profondément moderne.
+Il n’y a plus d’un et de multiple, la question de l’un et du multiple ne se pose plus en philosophie
+etc.
+Je dirais pour Leibniz, pour éviter les confusions, il y a quelque chose qui manque chez Bergson
+et qui est chez Leibniz, et quelque chose qui manque chez Leibniz et qui est chez Bergson. C’est
+pour ça que la philosophie est si belle. Ce qui manque chez Leibniz, c’est la suppression du
+problème de l’un et du multiple. Il continuera à penser – c’est un homme du dix-septième siècle
+–, il continue à penser en termes d’un et de multiple. Bien plus, sa conception de l’harmonie, tu
+as des rapports multiples-multiples, mais les rapports multiples-multiples sont fondamentalement
+[105 :00] étalonnés sur des rapports multiples-un chez Leibniz. En revanche, tu as chez Leibniz
+une tentative et une exploration des types de multiplicités dans tous les sens qui dépassent là, qui
+ne correspondent pas du tout à la situation bergsonienne. Alors si j’essayais… les trois,
+notamment, les trois plus simples, ce n’est déjà pas des multiples, les trois infinis ; il n’y en a que
+deux: il n’y a que la multiplicité des monades et la multiplicité des corps.
+Alors c’est merveilleux parce que tu me donnes notre fin. Je n’ai plus qu’à dire, eh ben oui,
+considérez : qu’est-ce que Leibniz appelle l’harmonie? Qu’est-ce qu’il appelle l’harmonie? Ce
+qu’il appelle l’harmonie, c’est deux choses: toutes les monades expriment le même monde,
+[106 :00] mais [Pause] ce monde n’existe que dans les monades; elles sont sans porte ni fenêtre,
+elles n’ont pas de communication ; elles n’ont pas d’action l’une sur l’autre. Chaque monade n’a
+que des actions internes, chaque monade agit sur elle-même, par rapport à ses prédicats. Aucune
+monade n’agit sur une autre. Elles sont fermées, simplement elles expriment le même monde. On
+dira qu’entre les monades, il n’y a aucune action directe, mais qu’il y a une harmonie. Encore
+fallait-il qu’elles expriment le même monde, une fois dit que ce monde n’existe pas hors d’elles.
+L’harmonie, ça sera exactement ça. Il n’y aurait pas harmonie si elles exprimaient [107 :00] un
+même monde qui existait hors d’elles.
+Si un monde est supposé exister entre nous tous et qu’on soit en harmonie, il n’y a aucun
+problème – ce que je vois de face, tu le vois de dos, et un point, c’est tout. Mais ce n’est pas ça.
+Le monde n’existe pas hors des monades; dès lors, pour que ce soit le même monde, il faut que
+les monades soient en harmonies les unes avec les autres. Comme il dit: c’est une preuve de
+l’existence de Dieu. S’il n’y avait pas de Dieu, ce serait exclu que vous exprimiez le même
+monde, ou bien alors il faudrait que le monde commun existe réellement. Mais s’il est vrai que le
+monde, c’est uniquement [108 :00] la virtualité qui ne prend d’actualité que dans chaque monade
+qu’il exprime, le monde, ça n’est rien d’autre que l’harmonie préétablie des monades entre elles.
+
+                                                                                                       19
+
+C’est comme si Dieu avait réglé des pendules les unes sur les autres. C’est ce qu’il dit avec la
+grande métaphore de la pendule: comme si Dieu avait réglé les pendules les unes sur les autres –
+comprenez le contresens abominable, ça serait de croire que ça veut dire: tout le monde est à la
+même heure. Ça veut dire, au contraire, que quand moi je suis à une heure cinq, il y en a un qui
+est à une heure dix, et qu’entre les deux portions d’expression, ça se connecte. C’est ça
+l’harmonie préétablie [109 :00] des substances entre elles ou des monades. [Pause]
+Mais, deuxième point : vous comprenez ça ? C’est essentiel. Je ne sais pas que vous dire pour
+que ce soit concret, oui: [Pause] je m’en vais, vous restez. [Pause] S’il y a un trou, c’est comme
+un mirage, et s’il n’y a rien dans ce trou, dans ce trou d’univers, il n’y a pas harmonie préétablie.
+Il faut qu’il y ait connexion entre ce qui se termine dans une monade et ce qui commence dans
+une autre. [110 :00] Or la connexion n’est pas directe puisque les monades n’agissent pas les
+unes sur les autres. Donc il y a harmonie préétablie des monades entre elles. Toutes, elles
+déroulent le même monde, bien qu’elles ne communiquent pas avec l’une et l’autre, bien
+qu'aucune ne communique avec d’autres.
+Mais alors, -- dernier effort… dernier effort… C’est du Leibniz au pas de course, quoi. Dernier
+effort ; ça me fait penser à la visite du Louvre au pas de course dans Godard [La Bande à part].
+Dernier effort et on y est. – Vous vous rappelez ? Mais, qu’est-ce que c’est mon corps, sinon
+l’ombre que vous me faites? L’harmonie préétablie, du coup, [Pause] [111 :00] c’est l’harmonie
+des âmes et des corps, en tant que quoi? En tant que non seulement, ce serait une insuffisance, en
+tant que non seulement elles obéissent à des lois différentes, [Pause] et avant tout en tant qu’elles
+ont des natures différentes. Car, et c’est un des points les plus fondamentaux de Leibniz, la
+critique qu’il fait à certains disciples de Descartes, c’est-à-dire à Malebranche et à d’autres
+Cartésiens. [Pause] -- Là, alors, vraiment [112 :00] vite, vite, vite. – Je dis: il y a quand même
+quelque chose de curieux dans notre réflexion, c’est que souvent on nous dit que la philosophie
+s’est occupée de causes et que la science a imposé la seule idée qui était vraiment scientifique et
+qui était celle de lois.
+Or ce n’est pas vrai, c’est des choses qu’il ne faut pas croire, ça. La notion de loi, elle s’est
+constituée au dix-septième siècle, et elle s’est constituée au dix-septième siècle dans les systèmes
+les plus théologiques du monde. Je veux dire, là… Chez Auguste Comte, il y a quelque chose qui
+ne va pas bien quand il dit que la cause, c’est la métaphysique – il voulait dire autre chose, mais
+ça ne fait rien. -- Comte pris à la lettre, c’est très catastrophique: il ne faut pas dire la cause, c’est
+la métaphysique et puis la science arrive avec l’idée de loi. Car ceux qui ont découvert et ont
+constitué les premiers [113 :00] un véritable concept de lois, c’est les Cartésiens. Pourquoi?
+Parce que Dieu seul étant cause, la Nature est régie par des lois. C’est eux, c’est eux qui élèvent
+un concept de lois défini essentiellement par la généralité et, -- je vais vite, d’ailleurs, ce n’est
+pas suffisant – mais, principalement par la généralité, et distinguant ainsi le miracle et la loi, le
+miracle renvoyant aux volontés particulières de Dieu, et la généralité renvoyant aux volontés
+générales de Dieu. Dieu opère par volonté générale, ce sera toute la théorie de Malebranche
+nommée "occasionalisme". Bon, peu importe. [Pause]
+Or [114 :00] voilà l’objection de Leibniz. Je ne veux pas dire qu’il ait raison, parce que c’est une
+grande discussion entre les deux, entre Malebranche et Leibniz, et à moi, l’objection de Leibniz
+elle me parait splendide. Il dit: d’accord, tout ce que vous voulez, Dieu opère par lois générales,
+à une condition: c’est que les corps, ou les âmes, [Fin de cassette et interruption du texte de
+WebDeleuze] c’est-à-dire les termes qui répondent aux lois générales, soient capables de le faire.
+Le schéma de Malebranche, si vous voulez, c’est le schéma dit occasionaliste. Le schéma de
+
+                                                                                                    20
+
+Malebranche : il faut une occasion, fixée par Dieu, 100 degrés, eh ? C’est une occasion comme
+une autre. – [Deleuze s’arrête un moment en disant : Oh, la, la, la, la, la, la, la, la, la] [115 :00]
+C’est l’occasion, loi générale, passage du liquide à la vapeur, transformation du liquide en
+vapeur, ce qui vous donne la loi, l’eau bout à 100 degrés, voyez ? C’est l’analyse entre une
+occasion et une relation générale. Ou bien, dans toutes la théorie des lois du mouvement, vous
+avez le choc et l’occasion. Le choc est une occasion, le choc de deux corps est une occasion, et la
+loi générale, c’est la transformation du mouvement, la transformation du mouvement entre le
+corps choquant et le corps choqué, quoique le choc lui-même soit le corps immobile. C’est
+justement par-là qu’il y a occasion. C’est donc le passage d’un moment à l’autre. Vous
+comprenez ? Ce sera la théorie qui, par exemple, [116 :00] appliquée à l’âme et au corps sera dite
+occasionaliste.
+Je trouve que Leibniz a une riposte étonnante… [Brève interruption de l’enregistrement BNF,
+puis reprise] Mais quelle intériorité entre dans un corps, [Pause] et à la limite, quelle intériorité
+dans une âme ? [Retour au texte de Web Deleuze] Leibniz, lui, a su nous montrer qu’il y avait
+une intériorité dans le corps, et que c’était la force. Et Malebranche est bien embêté puisque
+c’était la force au sens de force motrice, ou travail, une chose que Malebranche et Descartes, que
+Malebranche à la suite de Descartes, ne connaissaient pas. Donc il pouvait concevoir une
+définition du corps en fonction de l’extériorité. [117 :00]
+Mais Leibniz arrive et dit: mais en vertu de la science moderne – c’est tout le thème de Leibniz –
+vous savez, il leur dit finalement, je ne tiens pas à vous reflanquer dans les pattes à Aristote, je ne
+tiens pas tellement à ressusciter Aristote, alors que vous croyez en avoir fini avec Aristote. Mais
+c’est au nom de la science moderne, dit-il, que je vous redis: ne croyez pas que la Nature ait
+perdu toute intériorité. Pour qu’un corps observe une loi, encore faut-il qu’il ait une Nature
+intérieure qui rend cette observation possible et nécessaire.
+Qu’est-ce que ça veut dire, ça? L’eau boue à 100 degrés, d’accord, [118 :00] vous n’aurez rien
+dit, vous vous serez contenté d’un discours extrinsèque, comme il dit, si vous ne trouvez pas
+dans la nature intérieure de l’eau. [Pause] Pourquoi… ces 100 degrés? C’est-à-dire pourquoi
+est-ce que ce que vous appelez "occasion" rend précisément possible cette transformation? Vous
+me direz pourquoi, mais la science y a renoncé depuis très longtemps. Pas du tout. Il y a toute
+une série de cours des transformations d’états, et tout ça vous entraîne vers une physique
+qualitative qui était présente chez Aristote, que Descartes avait complètement dépassée, et que
+Leibniz va reconstituer comme nouvelle physique – qui n’est pas du tout un "retour à Aristote" –
+mais [119 :00] qui est comme une reprise d’Aristote sous de nouvelles données.
+Alors, je veux dire, l’harmonie préétablie, ça va être, d’une part, l’harmonie des monades entre
+elles, l’harmonie des âmes entre elles, d’une part, et d’autre part, l’harmonie des âmes avec les
+corps, c’est-à-dire en quoi les corps eux-mêmes comportent une intériorité qui les mette en
+harmonie avec l’intériorité des âmes. C’est-à-dire, il ne suffit pas que les corps soient régis par
+un régime de l’interaction. Il faudra aussi une intériorité dynamique, une force, une force des
+corps [120 :00] qui soit dans un rapport harmonique avec les âmes comme forces primitives; les
+forces des corps en rapport harmonique et qui pourtant sont des forces de corps. Travail, action
+motrice, c’est ce qu’il appellera forces dérivatives, par distinction avec les forces des âmes, qui
+sont les forces primitives.
+Donc la prochaine fois, c’est ça que je voudrais qu’on fasse, ce point précis de l’harmonie:
+comment précisément Leibniz, pour nous faire comprendre ça, avait besoin d’un concept
+
+                                                                                                21
+
+d’harmonie, et la question: est-ce que ce concept d’harmonie doit quelque chose, dès lors, à la
+musique? Mais n’oubliez pas au moins le thème de l’harmonie, ça doit vous guider. Moi,
+l’hypothèse que je vous propose, c’est que dans tous les sens de l’harmonie tel qu’on vient de le
+voir, dans tous les sens chez Leibniz, [121 :00] l’harmonie va se présenter sous ce double aspect:
+premièrement l’exprimé n’existe pas hors de l’exprimant, et vous verrez que pour chaque stade,
+ça convient, et deuxièmement, l’exprimant n’existe que sous une correspondance réglée avec
+l’exprimé. A ce moment-là commence une espèce de musique baroque qui accompagne la
+philosophie baroque.
+Je vous remercie et à la semaine prochaine. [Fin de l’enregistrement] [2 :01 :41]

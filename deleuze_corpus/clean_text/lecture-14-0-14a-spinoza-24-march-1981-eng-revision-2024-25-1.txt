@@ -1,0 +1,1005 @@
+1
+
+Gilles Deleuze
+
+Spinoza, The Velocities of Thought
+
+Session 14, 24 March 1981
+
+Transcriptions: Part 1, Sandra Tomassi (duration 31 :20); Part 2, Madeleine Manifacier
+(duration 46 :56); Part 3, Sandra Tomassi (duration 43 :28) ; augmented transcription,
+Charles J. Stivale
+
+Translation by Timothy S. Murphy (for Web Deleuze); translation augmented by Charles
+J. Stivale
+
+Part 1
+
+Whatever happens, this is the last time that we will speak of Spinoza. And I would like to begin
+with a question which is important and that was posed to me last time. Here’s the question, and
+it’s almost a question that places in question the entirety of what we’ve been saying; here it is:
+how can Spinoza say, at least in one text, but one text is enough, how can Spinoza say at least in
+one text that every affection, that any affection is an affection of essence?
+
+What is this text? In fact, "affection of essence," -- you feel that it’s a slightly odd expression --
+I’m not saying that it’s unexpected, but in any case, the fact is that, to my knowledge, it’s the
+only case in which one finds this expression. Which case? A very precise text, which is a
+recapitulative text at the end of book III of the Ethics. Here Spinoza gives us a series of
+definitions in a supplement (hors livre). That is, he defines, or he again provides definitions
+which, until then, had either not been given or were scattered. He gives definitions of the affects,
+once it’s understood that book III focused precisely on affects.
+
+And you recall that the affects were a very particular kind of affection, notably this is what
+follows -- we often translate it by the word "feeling" (sentiment), but there is the French word
+"affect" which corresponds completely to the Latin word "affectus" – this is indeed what follows
+from the affections strictly speaking, the affections being perceptions or representations. And in
+definition one at the end of book III, we read this: "Desire is man’s very essence, desire is man’s
+very essence insofar as this essence, insofar as being this essence, is conceived to be determined,
+from any given affection of it, to do something." So, desire is man’s essence insofar as this
+essence is conceived as determined to do something through an affection of itself, an affection of
+essence.
+
+And this definition includes, in fact, quite a long explanation and, if one continues, one stumbles
+upon a sentence that also creates something of a problem: “For by affection of essence, for by
+affection of essence,” – the formulation is there precisely -- "we understand any constitution of
+that essence, whether it is innate” in parentheses “(or acquired)." Why in parentheses? Because
+the Latin text seems truncated; it’s strange. The Latin text merely presents “for by affection of
+man’s essence, we understand any constitution of that essence, whether it is innate”; it’s missing
+
+                                                                                                       2
+
+something, and in the Dutch translation of the Short Treatise, there is, in fact, the complete
+sentence that we expect. Why do we expect this complement, "(or acquired)"? Because it’s a
+very standard distinction in the 17th century between two types of ideas or affections: ideas that
+are called innate, and ideas that are called acquired and fortuitous (adventices). In Descartes, for
+example, you find the distinction innate ideas-fortuitous ideas.
+
+But as a way of compounding our astonishment, if it’s true that innate-fortuitous, innate-acquired
+is a duality, it’s a quite standard pair of notions in the 17th century since Descartes but, on the
+other hand, the fact is that Spinoza has not used this terminology. It’s only in this recapitulation
+that the words innate and acquired appear. All that is very odd. What is this text in which
+Spinoza employs terms that he hasn’t employed up until now and, on the other hand, in which he
+introduces the formulation "affection of essence"? Where is the problem? If you think about
+everything we’ve said up until now, in fact, there is a small problem: how can Spinoza say, “all
+affections and all affects are affections of essence”?
+
+So, that means that even a passion is an affection of essence. As a result of all our analyses,
+we’ve tended to conclude, well, that what truly belongs to essence are adequate ideas and active
+affects, notably, the ideas of the second kind and the ideas of the third kind [of knowledge].
+These are what truly belong to essence. And Spinoza seems to say entirely the opposite: not only
+do all the passions belong to affections of essence, are affections of essence, but even among the
+passions, kinds of sadness, the worst passion. Every affect affects essence! You see the problem.
+[Deleuze addresses one of the students] This is indeed the question that you asked me? So, this is
+the question that I would like to answer almost by reorganizing somewhat what we’ve done,
+what I was suggesting. In any case, does everyone see where the problem comes from?
+
+It’s not a question of discussing one of Spinoza’s texts; this isn’t at all possible. So, we must take
+it literally. Fine. He teaches us that, be that as it may, every affection is affection of essence. So,
+passions belong to essence no less than actions; inadequate ideas belong to essence no less than
+the adequate ideas. And as he says, we cannot do otherwise. And nevertheless, there is
+necessarily a difference. I mean that, in all evidence, -- here we have no choice -- passions and
+inadequate ideas must not belong to essence in the same way that actions and adequate ideas
+belong to it.
+
+How do we resolve this? I would almost say, “affection of essence” -- what interests me is the
+formula "of." In Latin the genitive is “affectio essentiae”, “affection of essence”, in French, the
+genitive is therefore indicated by the particle "of (de)," “affection of essence.” Well then, well
+then, well then, alas, words fail me because I’ve forgotten… I think I recall that grammar
+distinguishes several senses of the genitive. For, after all, there is a whole variation. When you
+employ the locution "of" to indicate a genitive, this always means that something belongs to
+someone. If I make the genitive a locution of belonging, this doesn’t prevent the belonging from
+having very different senses, notably the genitive can indicate that something comes from
+someone and belongs to her insofar as it “comes from someone”, or else it can indicate that
+something belongs to someone insofar as this someone submits to the something. In other words,
+the genitive does not yet choose, the locution “of” does not choose the direction in which the
+arrow flies, if it’s a genitive of passion or a genitive of action. Fine.
+
+                                                                                                         3
+
+What does that mean? My question is this: I have an inadequate idea, I have a confused
+proposition out of which comes a passion-affect. In what sense does this belong to my essence?
+It seems to me that the answer is this, if you recall: in my natural condition, I am condemned to
+inadequate perceptions. What does this mean? This means precisely that I am composed of a
+very great number, of an infinity of extensive parts external to one another. These extensive parts
+belong to me according to a certain relation, but these extensive parts are perpetually subject to
+the influence of other parts which act upon them, and which don’t belong to me. For example, I
+consider certain parts that belong to me and that make up part of my body, let’s say my skin,
+corpuscles of skin that belong to me according to a particular relation: ah, it’s my skin. They are
+perpetually subject to the action of other external parts, the aggregate of what acts on my skin,
+particles of air, particles of sun. I’m trying to explain at the level of a rudimentary example, the
+corpuscles of sun, the corpuscles of heat act on my skin. What does this mean? This means that
+they act according to a certain relation that is the relation of the sun. The corpuscles of my skin
+act according to a certain relation that is precisely characteristic of my body. But these particles
+that precisely have no other law than the law of external determinations act perpetually upon one
+another. I would say that the perception that I have of heat is a confused perception, and from it
+come affects which are themselves passions: I say, "I’m hot!" Do you follow me?
+
+So, here you have… if I try to distribute on the level of the proposition “ah, I’m hot!”, if I try to
+distribute the Spinozist categories, I would say: yes, an external body acts on mine. It’s the sun,
+that is, it’s that parts of the sun – it’s not the totality of the sun, it’s some parts – parts of the sun
+act on the parts of my body, all of that being pure external determinism. It’s like shocks, the
+shocks of particles. There we are. I am calling “perception” when I perceive the heat that I
+experience, I am calling perception the idea of the effect of the sun on my body. It’s an
+inadequate perception since it’s an idea of an effect; I do not know the cause and from it follows
+a passive affect; either “oh, la, la, it’s too hot”, that is, I’m sad, or I feel good, and I say, “what
+happiness having the sun!” Understand well: in what sense is this an affection of essence? It’s
+inevitably an affection of essence. You will tell me that, at first glance, it’s an affection of the
+body. Yes, it’s an affection of the body; it’s an affection of the existing body, “I’m hot”. Yes, it’s
+an affection of the existing body.
+
+But finally, there is only essence. The existing body is still a figure of essence. Why? The
+existing body is essence itself insofar as an infinity of extensive parts, according to a certain
+relation, belongs to it. So, “according to a certain relation”, what does that mean, this relation of
+movement and rest? You recall, you have essence that is a degree of power of action (puissance).
+All that is delicate; it’s not at all difficult, but it’s very, very detailed, so you must be patient.
+You have essence that is a degree of power of action. To this essence corresponds a certain
+relation of movement and rest. As long as I exist, this relation of movement and rest is realized
+by the extensive parts that, from then on, belong to me according to this relation.
+
+What does that mean? That means, in the Ethics, there is a quite curious slippage of notions, as if
+Spinoza had a double vocabulary there. And this is understandable, if only by virtue of the
+physics of that era, as if he sometimes had, sometimes passed quite agilely from one to the other,
+as if he sometimes had a kinetic vocabulary, you see, in terms of kinetic movement, and
+sometimes a dynamic vocabulary. In fact, it’s very odd that when you’ll read or have perhaps
+already been struck by this, that he considers the following two concepts as equivalents: relation
+
+                                                                                                         4
+
+of movement and rest, and power (pouvoir) of being affected or aptitude to be affected. And yet,
+we must indeed situate, we must ask ourselves why he treats this kinetic proposition and this
+dynamic proposition as equivalents. Why is a relation of movement and rest that characterizes
+me at the same time a power of being affected that belongs to me?
+
+And he will define the body in two ways; there are two definitions of the body for Spinoza, a
+kinetic definition and a dynamic definition. The kinetic definition will be this: if we derived it in
+its pure state, it’s that “each body is defined by a relation of movement and rest.” The dynamic
+definition is: “each body is defined by a certain power of being affected.” It’s important to
+consider here, on the level of great detail if you will, there are two ways of understanding. – It’s
+not important if you are satisfied with just one. – There is a quick and vague manner of
+understanding. And again here, we must notice that if you are reading, you must be vaguely
+sensitive to this identity, and you must tell yourself: ah fine, there’s a dual register, kinetic and
+dynamic. And then, if you happen to seek a more demanding reading, well then, you cannot be
+satisfied with a confused feeling. When we are searching, we always will discover. If you are
+searching, you’re going to discover, you will in fact find a text – I’m not going to tell you where
+it is; in this way, you’ll still have something to look for – a text in which Spinoza says that “a
+very large number of parts” – that is, an infinity, we’ve seen this and won’t go back over it -- "a
+very large number of extensive parts belongs to me, a very large number of extensive parts
+belongs to me,” [Pause] “henceforth, I am affected in an infinity of ways," “a very large number
+of extensive parts belongs to me, henceforth, I am affected in an infinity of ways.”
+
+For me, this text sets us on a path. Having an infinity of extensive parts according to a certain
+relation equals the power of being affected in an infinity of ways. Henceforth, everything
+becomes clear, why? There’s not even any need to state it, in fact, it’s so obvious. If you
+understood the law of extensive parts, they never cease to have causes, to be causes, and to
+undergo the effect upon each another. This is the world of causality or extrinsic, external
+determinism -- there is always a particle that strikes another particle, etc. -- In other words, you
+cannot think an infinite set of simple parts without thinking that they have, at each instant, an
+effect upon one another. What does one call affection? One calls affection the idea of an effect.
+You see, if you have understood what these extensive parts were that belong to me, you cannot
+conceive them as having no effect upon one another. They are inseparable from the effect that
+they have on one another. They never cease encountering each other, striking each other,
+colliding and bouncing off each other, massing together and then coming undone, etc. So, they’re
+inseparable from the effect that they have on each other, and there is never an infinite set of
+extensive parts that would be isolated.
+
+There is indeed an infinite set of extensive parts that is defined by this: this set belongs to me; it
+is defined by the relation of movement and rest according to which the set belongs to me. But
+this set is not separable from other sets, from the other equally infinite sets that act on it, that
+have influence on it, and which do not belong to me. In other words, the particles of my skin are
+obviously not separable from the particles of air that come to strike them, either in the form of a
+cold and biting, bitter air, or in the form of a bright and warm air, etc., fine. In other words, by
+virtue of the very law and the nature of extensive parts, extensive parts are such that they act
+perpetually on one another; they perpetually have an effect on one another. And, an affection is
+
+                                                                                                      5
+
+nothing other than the idea of the effect, the confused idea, the necessarily confused idea since I
+have no idea what the cause is. It’s the reception of the effect: I say, “I perceive”.
+
+This is how Spinoza can pass from the kinetic definition to the dynamic definition, notably the
+relation according to which an infinity of extensive parts belongs to me is equally a power of
+being affected. But then, what are my affections and my passions, my joys and my kinds of
+sadness? What are my affects? If I continue this parallelism between the kinetic element and the
+dynamic element, I will say that the extensive parts belong to me insofar as they realize a certain
+relation of movement and rest that characterizes me. The extensive parts belong to me insofar as
+they realize a certain rapport of movement and rest that characterizes me. I am almost
+underlining the “insofar as they realize”. In fact, they realize a relation since they define the
+terms between which the relation interacts (joue).
+
+If I speak now in dynamic terms, I would say, “the affections and the affects”; I would no longer
+say “extensive parts realize the relation of movement and rest.” I would say, I’m seeking, if you
+will, the equivalent in dynamic terms. – Once again, you can search for it as well; that would
+make a nice contest (concours) – The complete formulation, you see, the primary kinetic
+formulation is: “I define myself through a relation of movement and rest.” The dynamic
+formulation is: “I define myself through a power of being affected.” Complete kinetic
+formulation: an infinity of extensive parts belongs to me “insofar as”, insofar as they realize my
+relation of movement and rest. The complete dynamic formulation: Affections and affects belong
+to me insofar as they fulfill my power of being affected, and at each instant, my power of being
+affected is fulfilled. There is no moment in which my power of being affected is not fulfilled.
+
+Compare these nonetheless completely different moments: instant A, you are out in the rain, you
+draw yourself within yourself. You have no shelter, and you are reduced to protecting your right
+side with your left side and vice versa. That’s going to bring us into a strict Spinozism; you are
+sensitive to the beauty of this sentence – “you are reduced to protecting your right side with your
+left side and your left side with your right side” – here we have a very kinetic formula, that is, I
+am forced to make myself, to make half of myself into the shelter for the other half. Why can I
+say that this is a very beautiful formulation? Because it’s a verse, one I cannot quote because it’s
+in Italian; it’s a lovely verse from Dante. That doesn’t matter; I mean, we mustn’t mix this with
+Spinoza. But, it’s in one of the circles of Hell, not one of the awful ones, it’s a circle of Hell in
+which there’s a light rain, and the bodies are lying in a sort of mud. There’s a light rain, and
+Dante tries to translate the sort of solitude of these bodies that have no other resource than that of
+turning over in the mud. That is, each time they try to protect one side of their body with the
+other side. In this formulation, there is a very great… One senses a body that is delivered to the
+elements, even if it’s a light rain.
+
+On the other hand, instant two, instant two: now you open up. Earlier, you were entirely
+contracted; you were truly a poor guy under a persistent rain. We truly see that all that is a matter
+of particles. The particles of rain were like little arrows, it was horrible; you were grotesque in
+your swimsuits, [Laughter] and the sun comes out, instant two. There, your whole body opens
+up; there you are now, it’s no longer at all protecting the right side with the left. You would like
+your whole body to be capable of spreading out (comme étalable). You reach out toward the sun.
+Understand what Spinoza says on the beach. Don’t be fooled; in both cases, your power of being
+
+                                                                                                        6
+
+affected is fulfilled, it’s necessarily fulfilled. Simply, you still have the affections and affects that
+you deserve according to the circumstances, including the external circumstances. But an affect
+belongs to you only to the extent that it actually contributes to fulfilling your power of being
+affected.
+
+There you have what I’m trying to say. It’s in this sense that every affection and every affect is
+affect of essence. Ultimately, the affections and the affects can only be affections and affects of
+essence. Why? Because they exist for you only insofar as they fulfill a power of being affected
+which is yours. The power of being affected is your essence’s power of being affected.
+[Interruption of the recording] [31:18]
+
+Part 2
+
+And yet, Spinoza does not at all mean “everything is equal” (tout se vaut), [that] the rain equals
+the lovely sunshine. He does not mean that. What he means is that, in any case, nothing, nothing,
+nothing is ever expressed, or is ever founded to be expressed as something missing (un manque).
+In other words, it’s the general formulation, “there is only Being”. Fine, why then isn’t
+everything equal? That’s what we have to see last. But you understand? Every affection, every
+perception and every feeling, every passion is perception, affection and passion of essence.
+
+It’s simply not by chance that philosophy constantly employs a word for which it’s been
+reproached, but what do you want, philosophy needs it: it’s the kind of locution "insofar as" (en
+tant que). I believe that if it were necessary to define philosophy by a word, one could say that
+philosophy is the art of the "insofar as." In fact, that belongs to philosophy: if you see someone
+by chance happening to say, "insofar as," you can tell yourself that this is thought being born.
+The first man who thought said "insofar as."
+
+Why? Because "insofar as" is the art of the concept. It’s the concept. Is it by chance that Spinoza
+constantly employs the Latin equivalent of "insofar as"? And in fact, why do all thinkers happen
+to do the same? It’s because the "insofar as" refers, I believe, to distinctions in the concept that
+are not perceptible in things themselves. When you work by way of distinctions in the concept
+and through the concept, you can say that “the thing, insofar as”, that is, [it’s] the conceptual
+aspect of the thing. So then, every affection is affection of essence, yes, but insofar as what?
+When it’s a matter of inadequate perceptions and passions, we must add that, yes, these are
+affections of essence insofar as the essence has an infinity of extensive parts that belong to it
+according to such a relation.
+
+Good, henceforth, I’ve almost finished. Here the power of being affected belongs to essence,
+simply it is necessarily fulfilled by affects that come from outside. These affects come from
+outside; they do not come from the essence. They are nevertheless affects of essence since they
+fulfill the power of being affected of essence. But remember well that they come from outside. In
+fact, the outside is the law to which the extensive parts acting upon one another are subject, are
+subject, the extensive parts acting on one another. Fine, you recall, when one rises – and in the
+previous meetings, I have tried to show this, so I won’t return to it, how this was possible – when
+one rises, when one succeeds in rising to the second and third kinds of knowledge, what
+happens? Here, I have adequate perceptions and active affects. What does that mean? Well, it’s
+
+                                                                                                    7
+
+the affections of essence. I would even say, with all the more reason, what is the difference from
+the preceding case? This time, they do not come from outside, they come from inside. Why? We
+saw this. A common notion already, with all the more reason, an idea of the third kind, an idea of
+essence, why does this come from inside?
+
+Let’s go back to my formulation from earlier, and we will look for the equivalent formulation. I
+was saying that inadequate ideas and passive affects belong to me. They belong to my essence.
+So, these are affections of essence insofar as this essence actually possesses an infinity of
+extensive parts that belong to it according to a certain relation. Let’s now try to find the common
+notions. A common notion is a perception, we’ve seen; it’s a perception of a common relation, a
+relation common to me and to another body. Active affects result from this. Fine. These
+affections, perceptions and affects are also affections of essence that belong to essence. I would
+say it’s the same thing, “affection of essence”, but insofar as what? No longer insofar as essence
+is conceived as possessing an infinity of extensive parts that belong to it according to a certain
+relation, but insofar as essence is conceived as expressing itself in a relation.
+
+Ah yes! Here, the extensive parts and the action of the extensive parts are cast off since I’ve been
+raised to the comprehension of relations that compose it. So, I’ve been raised to another aspect of
+essence. It’s no longer essence insofar as it actually possesses an infinity of extensive parts; it’s
+essence insofar as it expresses itself in a relation, and with all the more reason, if I am raised to
+ideas of the third kind. These ideas and the active affects that result from them belong to essence
+or to affections of essence, this time, insofar as essence is in self (en soi), is in itself (en ellemême) and for itself, is in self (en soi) and for self (pour soi) a degree of power of action
+(puissance). So, at the extreme, I would say broadly that every affection and every affect are
+affections of essence. Only there are two cases, the genitive has two senses? There are… Yes?
+
+Anne Querrien: [Inaudible]
+
+Deleuze: Yes, this would be the “ab”, yes, yes, agreed. [Deleuze listens to the intervention] That
+wouldn’t be the same, yes, except that it seems to me… [Deleuze listens to the intervention] …
+Yes, but I’m afraid Anne, that there are two uses of the genitive in Latin. Besides, it’s better that
+the genitive… [Deleuze listens to the intervention] … Yes, yes. But, the “ab” then will be valid
+for external causality as well. In the extreme, I’d say ideas of the second kind and [those] of the
+third, you see? These are affections of essence, but it would have to be stated according to a
+word that will only appear really much later in philosophy, with the Germans, for example, these
+are auto-affections. Ultimately, throughout the common notions and the ideas of the third kind,
+it’s essence that is affected by itself…. That doesn’t appeal to you? And if he said it? [Deleuze
+listens to the intervention] You believe that you didn’t have electricity in order to [inaudible]
+auto-affection? [Deleuze listens to the intervention] … Nonetheless, after all, Spinoza employs
+the term “active affect”, active, and there is no great difference between auto-affection and active
+affect. [Deleuze listens to the intervention] You don’t like that? Ok, well then, we’ll just drop it.
+
+Richard Pinhas: These are ideas of modern consciousness.
+
+Anne Querrien: But not at all? [Deleuze listens to the intervention]
+
+                                                                                                    8
+
+Deleuze: Yes, yes, yes, fine, so you see? In any case, there you have the sense in which we must
+say that, yes, all the affections are affections of essence. But be careful, affection of essence does
+not have one and only one sense. There we are! Fine, are there any… [Deleuze does not complete
+this]
+
+There remains for me something obvious, today to draw some kinds of conclusions that between
+the relation, for the ethics-ontology relation. Why is there all that? That’s my question. Why does
+all this constitute an ontology? And I’m going to tell you my idea. But here, my idea is rather
+suspicious. It’s a passing idea (une idée comme ça), a feeling-idea (idée de sentiment). It seems
+to me, it seems to me – I’m knocking on wood here [The sound of Deleuze rapping on the table]
+-- that there has never been but a single ontology. There is only Spinoza who has managed to
+pull off an ontology. The others, they’ve done some lovely and different things, but it wasn’t an
+ontology, if one takes ontology within an extremely rigorous sense. I see only one case in which
+a philosophy has realized itself as ontology, and that’s Spinoza. But then why could this
+achievement only be realized once? Why was it by Spinoza? You see? These are almost very,
+very important legal questions. Fine, that’s what I have left to say. But I’d like your reactions, if
+there were any other questions… Yes?
+
+Richard Pinhas: According to what you said, we end up with two operating modes that you
+described as kinetic and the other as dynamic. In my perception of what you said, I could say that
+the kinetic functioning of affections and relations is of the external type, so, it’s a mode of
+exteriority. I hesitate to say form of exteriority. This is the word that came to me ... In the
+dynamic case, we would have an equivalent -- the terms are bad -- which would be the form of
+interiority. In fact, what we end up with is self-affection, and here you just moved on as if ...
+
+Deleuze: In what you are saying, I believe there’s something quite dangerous, eh? It’s above all
+that in my opinion, there is no more interiority on the dynamic level than on the kinetic level.
+For a very simple reason: it’s when I say, “power of being affected” of an essence can just as
+well be realized by external affections as by internal affections. Above all, we must not think that
+power of being affected refers more to an interiority than the kinetic relation did. The affects can
+be absolutely external; this is the case of the passions. The passions are affects that fulfill the
+power of being affected and that come from outside.
+
+Pinhas: There I completely agree… I would like to rephrase my question: my question, in fact,
+its focus is: we arrive at something new, compared to the history of philosophy, which is selfaffection. Let's leave the term aside; we are faced with a very specific form of affection on which
+...
+
+Deleuze: Yes, obviously, if you are telling me… Yes, Anne?
+
+Anne Querrien: [Deleuze listens to the intervention] … like Edith Piaf… on lack: no, I regret
+nothing, neither good nor bad, all that’s quite the same. [Laughter]
+
+Deleuze: It’s true! Yes… [to a different student] You’d like to say something?
+
+                                                                                                     9
+
+A woman student: I would like to say something about the question Richard asked last week, that
+is, about the need for foundation. If we take the example of wood, that is, you were talking about
+the essence of wood. I would rather say that wood is the thing that will invent the planer, and that
+the planer will become at a certain moment the tool that will tell us something about wood. That
+is, in the second degree of knowledge, the wood and the plane will say something about each
+other in this relation, wood, essence. In this relation, that they have with each other, but ... [Anne
+Querrien's intervention, inaudible] ... But my problem is the problem of the foundation. So, it
+may be ... Yes ... [Anne Querrien's intervention, inaudible] No, I don't think so, no.
+
+Deleuze [to the interrupted student]: Wait, you speak first! [To Anne Querrien] You’re going to
+become a Hegelian, you know! [Laughter]
+
+The student: So, about the problem of essences, what is it ... Richard said that he indeed wanted
+essences to exist, but that he did not see why Spinoza needed a foundation. And what I would
+say is that if there is no foundation for essences, the essences become metaphors for God, that is,
+fine, as in Christian religion, in "God is everything", and from the moment when God is in
+everything, as soon as we have no chance of being able to achieve it, that is, if for us, in this
+work that there would have be needed in order to reach the third kind of knowledge, if that
+would be a way of achieving what is divine in us, these essences must have a foundation. That is,
+if God is the set of all the essences, in fact, God is not within the essences, he is withdrawn, but
+this is a kind of pantheism. He is withdrawn outside the essences. But it seems to me that if there
+is no foundation, each essence is only a metaphor of God, and therefore for us there is nothing
+more to do!
+
+Anne Querrien: [Inaudible]
+
+The student: Yes, yes, you’re right, I think that you’re correct within the Christian problematic,
+but that reverses Spinoza completely.
+
+Anne Querrien: [Inaudible]
+
+Deleuze: I’m going take a look. I have an idea that reconciles each one in the end; it’s…
+
+Another woman student: [Inaudible; concerns intuition, auto-affection on a reflection of divine
+light]
+
+Deleuze: I am adding in order to confirm this, in fact, in this regard, book V appears to me to
+found this notion of auto-affection. So, you take a text like this one, which finally is a text that
+has its equivalent in many mystic, or so-called mystic propositions, notably “the love by which I
+love God” (understood in the third kind, on the level of the third kind), “the love by which I love
+God is the love by which God loves itself and loves me myself.” What does this mean? This
+means that at the level of the third kind, all the essences are internal to one another and internal
+to the power (puissance) called divine power. There is an interiority of essences. That does not
+mean that they merge. We reach a system of intrinsic distinction. This is no longer the system of
+exterior distinctions; this is a system of intrinsic distinction. From this point on, when an essence
+affects me – you understand? This is the definition of the third kind -- an essence affects my
+
+                                                                                                  10
+
+essence, another essence affects my essence. But since all essences are internal to one another, an
+essence that affects me is a way in which my essence affects itself.
+
+I’d like to make a final appeal, almost because I’d really like to select an example; I do feel that
+these examples are dangerous. I’m returning to my example of the sun because, fine, it’s still a
+question of succeeding, not at all in knowing abstractly, but in understanding a bit concretely
+what we mean by "pantheism”? How do people who call themselves pantheists live and feel? I
+mentioned to you that, after all, there are some writers who are called – it’s not only a matter for
+philosophers, all this – I am thinking precisely as a function of my tale of the sun earlier, of my
+sun example, I am thinking of a famous author who greatly constituted for himself a kind of
+English pantheism -- there are many Englishmen who are pantheists; there’s a source, there’s a
+very, very important pantheist inspiration in all of English literature, and which must come from
+their irremediably protestant character, but in the end, this goes beyond character. – Fine. So, I’m
+thinking of [D.H.] Lawrence. Lawrence, it’s nonetheless odd all that he says about the sun. I’m
+finding this kind of cult of the sun. So, I’m not going to say that Spinoza engaged in a cult of the
+sun. Still, they have in common… They both end up with light and tuberculosis, right? These are
+the two points common to Lawrence and Spinoza, light and tuberculosis. So, fine, what is this
+about?
+
+On the level of the sun, Lawrence has with the sun some relations; you’d find something – don’t
+take this literally; take it as… I’m trying to make something resonate within you, if you… For
+the moment, I’m only speaking here for those who love the sun in a certain way, who feel that
+they have a concern, let’s assume, a special concern with the sun. There are people who have this
+sensation. – Well, then, Lawrence tells us something like this, and that there are, generally
+speaking, three ways of being in relation to the sun. Here, in objecting to many people, he hates
+them, he is quite contemptuous. But Spinoza as well was suspicious. Lawrence couldn’t stand a
+lot of people; he found them vulgar. So, he’s not comfortable in his era. And yet, this matters
+little; those who know a bit about this author, you see what I mean…
+
+Fine, he says, “there are people on the beach” – yes, there were fashionable people – on beaches,
+in the sun, etc. And he says, “They don’t understand, they don’t know what the sun is.” It’s not at
+all that he wants to protect all that for himself. He finds that these people live poorly. There you
+have his idea. It was also Spinoza’s idea that people live poorly, and if they are wicked, it’s
+because they live poorly; fine. They live poorly, they dump themselves onto the beach, and they
+understand nothing about the sun. If they were to understand something about the sun, after all,
+says Lawrence, they would come out of it more intelligent and improved. The proof: as soon as
+they put their clothes back on, they are as bitter (teigneux) as before. [Laughter] Here, it’s yet
+another proof then; they lose nothing of their virtues and vices. If there were someone who
+arrived and hid the sun from them, they’d protest, they’d say, “What’s this about?”, etc. So,
+they’re vulgar.
+
+Fine, so what do they make of the sun, at this level? They really remain in the first kind [of
+knowledge]. They declare: “I love the sun”, but “I love the sun” is a meaningless proposition.
+It’s absolutely meaningless, “I love the sun.” It’s like the elderly lady who says, “ooh, I love
+heat!” What is this “I” in “I like heat”? In fact, that has no meaning. A mechanist, a physicist, or
+a structural biologist would say nothing at all; “I”, “you don’t like heat at all”! He’s simply
+
+                                                                                                      11
+
+saying: there is within you some phenomena of vasoconstriction and phenomena of vasodilation
+that result in you “objectively” needing heat. Good, fine. In other words, the "I" in "I like the
+heat" is an “I” that expresses what? That expresses relations of extensive parts of the
+vasoconstrictive and vasodilative type, and that are typically, and that express themselves
+directly, within an external determinism putting the extensive parts in play.
+
+So, I can say, “I love the sun” in this sense. It’s therefore the sun particles that act on my
+particles. and the effect of one on the other is a pleasure or a joy. I’d say that’s the sun of the first
+kind, the sun of the first kind of knowledge that I translate with the naïve formulation, "oh the
+sun, I love that." In fact, these are extrinsic mechanisms of my body that are in play, you see,
+with both the relations between parts, parts of the sun, and parts of my body.
+
+Second, this is still a bit different from someone who “is involved” (a à faire) with the sun. My
+question would almost be very Lawrencian: starting from when, in relation to the sun, can I
+begin authentically to say "I"? As long as the sun is warming me up, I have no reason to say, “I
+love the sun”: I’m in the first kind of knowledge. There is a second kind of knowledge. This
+time, I go beyond the zone of the effect of parts on one another. I’m no longer awaiting the effect
+of parts on one another. I have acquired some kind of knowledge of the sun, and after all, there
+are people who have such knowledge, and it’s not at all a theoretical knowledge. I’m not going
+to say I’m an astronomer. Not at all, since that would be a contradiction here. I have a kind of
+knowledge and a practical comprehension of the sun. I have a kind of knowledge and a practical
+knowledge even if I cannot express it about climate, rains, fogs. What does this practical
+comprehension mean?
+
+I mean, surely, I’m getting ahead; I know what such a miniscule event linked to the sun means,
+such a furtive shadow at such a moment. I know what this announces. I’m no longer at the point
+of recording the effects of the sun on my body. I’m raising myself to a kind of practical
+comprehension of causes, at the same time as what? At the same time that I know how to
+compose the relations of my body with a particular relation of the sun.
+
+A painter – so, I’m jumping ahead, it’s perfect – what does a painter do? What does it mean, to
+compose the relations of his body with relations of the sun? In what way is this different from
+being subject to effects? Let’s take the perception of a painter. How does a painter… Let’s
+imagine a 19th still life painter who goes out into nature. He has his easel; this is a certain
+relation. He has his canvas on the easel; this is another relation. There is the sun, and the sun
+does not remain immobile. Fine, so what is he going to do? What is it that I’m calling this
+knowledge of the second kind? He will completely change the position of his easel; that is, he is
+not going to have the same relation to his canvas depending on whether the sun is high, or the
+sun is about to set. Ah, wait! There’s an example like that. Van Gogh painted on his knees. In
+Van Gogh’s letters, he speaks at length of sunsets that forced him to paint almost lying down.
+Why? So that Van Gogh’s eye had the lowest horizon line possible.
+
+At that moment, what does it mean to have an easel? It means nothing, nothing at all. Everything
+depends on what one does with the easel. And what if there’s a southern wind (du Mistral)?
+There are moving letters from Cézanne and from Van Gogh as well: “Today, I couldn’t go out; I
+got nothing done. Too much Mistral”. That means that the easel, well, would have blown away,
+
+                                                                                                     12
+
+or else, he’s have had to tie it down, or what? How to compose the canvas-easel relation with the
+relation of wind, and how to compose the relation of the easel with the setting sun, and how to
+end up in such a way that I might paint on the ground, that I might paint lying on the ground?
+That’s not something I’d learn at school. It’s not at the Academy that I would learn that. I’m
+composing relations, and in a certain way, I am raising myself to a certain comprehension of
+causes, and at that very moment, I can begin to say, “I love the sun.”
+
+“The sun, I love it!”, you understand? And then, I no longer follow the effect of particles of sun
+on my body, I am in another domain, in compositions of relations. And at this very moment, you
+understand? I am not far from it. Everything has its danger. I’m not far from a proposition that
+appeared useless to us, that would have appeared to us mad in the first degree. I am not far from
+being able to say, "the sun, I possess (j’en ‘suis’) something of it." I have a relation of affinity
+with the sun.
+
+Fine, we’ll stay there. This is the second kind of knowledge. No need to be a painter. Maybe that
+would inspire me to be a painter if I manage, if I reach this state in relation to the sun. But you
+sense that this is a completely different state from the one in which the elderly lady warms
+herself in the sun! Having said this, the lady warming herself in the sun might be a painter as
+well. But she won’t be doing both at the same time because these two relations with the sun
+exclude each other. Here, at the second level, there is already a kind of communion with the sun.
+Peruse Van Gogh’s letters; it’s obvious that when he is painting these huge red suns, it’s obvious
+that this is what he is. Not that the sun is brought down to him; it’s he who begins to enter into a
+kind of communication with the sun.
+
+Fine, and what about the third kind [of knowledge]? I chose as an example, and I was wrong to
+do so, I chose an example of a painter for the second kind, and I seem to have blocked him off at
+the second kind. Yes, perhaps next, it’s no longer from the domain of painting. What would the
+third kind be? Here, Lawrence’s texts abound. In texts like that, it’s really, and I hope, excuse
+me, but I hope that what I’ve said earlier won’t make him seem ridiculous for some of you. It’s
+what might be called, generally, “ah well yes, it’s something like that that we call in abstract
+terms a mystical union”. What is this then? All kinds of religions have developed mystiques of
+the sun. This is a step further. And after all, my entire order is normal. What causes Van Gogh, in
+relation to his red sun that devours the entire canvas, with Van Gogh-like ripples, etc., to still
+have the impression that there is a beyond that he cannot manage to paint? What is this? It’s still
+further, that he will not manage to render insofar as he is a painter. Is this it? So fine. Is that what
+the mystic connection is? The mystique: is that what it is, the metaphors of the sun for the
+mystics? But these are no longer metaphors if one comprehends it like that. These are absolutely
+not metaphors. They can say literally, “God is the sun”. They can say literally, "I am God."
+Why? Not at all because there is an identification, not at all.
+
+It’s because, at the level of the third kind, one arrives at this mode of intrinsic distinction. And
+it’s here, if you will, that there is something terribly mystical in Spinoza’s third kind of
+knowledge. At the same time, the essences are distinct, only they distinguish themselves on the
+inside from one another. As a result, the rays by which the sun affects me are the rays by which I
+affect myself, and the rays by which I affect myself are the rays of the sun that affect me. It’s
+solar auto-affection. Written out, this seems grotesque. Understand that at the level of modes of
+
+                                                                                                    13
+
+life, as an author said, “well, you can always come across a mystic in the street.” A guy who has
+his experiences isn’t visible from outside. He’s not… He’s like you and me. He’s like you and
+me.
+
+Fine, in Lawrence, I’m drawing your attention to this: in his final texts, precisely when Lawrence
+can no longer stand the sun due to his illness, when the sun is fatal for him, well, he develops his
+texts on this kind of identity that maintains the internal distinction between his own singular
+essence, the singular essence of the sun, and the essence of the world. [Here ends the Web
+Deleuze transcript and translation] And this kind of song that made Lawrence’s last works, this
+kind of song to the world on which he will die, but really, he will die without resentment. He is
+going to die truly, truly as a Spinozist: after a long walk, his last walk, there he collapses, and he
+dies. It’s at this moment that he reaches these texts on the sun. So, see if you can get hold of
+these. You always need, in order to understand a philosopher, I think, to accumulate a thousand
+other things as well that have value by themselves. But, if you read the texts, for example, by
+Lawrence on the sun, it can trigger an understanding of Spinoza that you would never have had if
+you had stayed solely with Spinoza. We always need everyone in order to understand, however
+little that might be. And that's why we spend our time making mistakes. At the same time, one
+must not mix things up, yes, of course! That's what I meant.
+
+A student: [Inaudible at the start] … in relation to the solar relation, I was wondering if in
+[Michel] Tournier’s Vendredi [Friday], we don’t have in fact and literally a very lovely
+description of this itinerary of apprenticeship?
+
+Deleuze: Yes, you are right, yes, yes! In the texts of ... Now we can judge. But, in fact,
+moreover, Tournier's obsession with that -- you have to talk about people personally; it's always
+interesting, as much as possible; you have to imagine Spinoza personally, though he doesn't talk
+about the sun except in examples, but Lawrence personally, yes? -- Tournier personally, in fact,
+has a relation with the sun. Yes indeed, it’s very important; it’s at this level, you know that you
+cannot write just anything. And if you write something that is not really at that very, very deeply
+experienced level, that gives you literature that’s just imitation. It yields literature without any
+interest. That’s something we feel.
+
+A student: [Inaudible at the start] ... concept of beach, sun, one of the scales of the universe that
+occurs ... [Deleuze: I don't know.] [Inaudible comments continue]
+
+Deleuze: What testifies to the authenticity of an experience, it always seems to me, I'm not
+saying that there is no other way, but what testifies as the first guarantee of the authenticity of an
+experience is the splendor of the pages, or of the works, however small they may be, that flows
+from them. I can say: Van Gogh has a personal, unique experience with the sun, this, yes. What
+proves it? His paintings, his paintings, that's all. On the other hand, when considering some very
+great painters who can paint suns, we know that this is not the strong part of the picture. It’s not
+with the sun that they are involved; they are involved with something else. Maybe they needed
+the sun. From Lawrence's pages, I know this man had a special involvement with the sun.
+
+So, that's why, you understand that when we speak, -- and here, I’m opening a parenthesis, and
+it's just an appeal that I’m making to you -- when we speak, when one undertakes
+
+                                                                                                      14
+
+psychoanalysis, when people talk about sexuality and all that, really it ends up being dirty and
+disgusting. It's dirty and disgusting because they don’t seem to see that our real sexuality is with
+the sun. So, when we are told things like "the sun is the image of the father", then I weep. I weep.
+Indeed, I say to myself, so much trampled beauty, so many beautiful things diminished, it's
+odious, this thing is odious! Do you realize? Van Gogh's sun, is it castration, Van Gogh's sun?
+[Laughter] No, no! there’s no need to speak... But, I mean, that’s vulgarity, that’s really
+vulgarity. Well, well, there you go -- I still have a lot to say, but what time is it?
+
+A student: 11:40
+
+Deleuze: So, I have time to speak, and on that, I will not continue. I'm going to end today just by
+trying to justify part of what I had left to do, namely how it seems to me that Spinoza
+undoubtedly succeeded philosophically [in creating] the only ontology that we can really name
+an ontology. Obviously, what I am going to say is hardly going to be convincing because what
+I’m not attempting would be to create a comparison with other philosophical traditions. Well,
+here, suddenly, I come back to book I of the Ethics, and I say: what is very curious in this book I,
+including why are there nine primary propositions that seem very bizarre?
+
+When you read this book I, there are nine propositions on what Spinoza calls "substances with
+only one attribute". As everyone knows that for Spinoza, ultimately, there is only one substance,
+[that] there are no substances with only one attribute, these propositions are quite bizarre. We say
+to ourselves: "but, what is he aiming at?" And one realizes, in fact, that in proposition nine and
+ten, he arrives at a substance having all the attributes. Why did he go through the first nine
+propositions, where he considers attributes for themselves? This is curious, this whole passage.
+Because, at the same time, I’m asking myself, what is really new in Spinoza, from a theoretical
+point of view, that is, from the first book of the Ethics? What is really new, if I tried to express
+it? You understand? My concern is that really you might feel this just as much as about what I
+tried to say earlier, about the sun. And fine, there is a proposition which dominates philosophy...
+[Interruption of the recording] [1:18:18]
+
+Part 3
+
+... by this formulation that surprises no one that it’s Greek since, for Heidegger, philosophy is
+Greek. This formula is in Greek; it's very pretty in Greek, and then you have to imagine it in a
+song, you have to imagine it as being rhythmic, it's "en panta", [Deleuze spells it out] e-n and
+further, p-a-n-t-a. That would be the cry of philosophy because when I shout, "en panta", feel
+that it’s a cry... "en panta", the dancers, the dancers, and the dancers are philosophers, the
+dancers shout while tapping rhythmically on tambourines: "en panta, en panta".
+
+First, how to translate "en panta", which will, in fact, cross the whole of Greek philosophy? "en"
+is "the One". En means One, One; "panta": that means all things, it’s a neutral plural nominative,
+all things. But is there any point translating "en panta"? If it’s true that "en panta" is a cry, there’s
+less purpose in translating; it’s not a proposition, it’s not a proposition. Once again, you have to
+imagine a rhythmic "en - pan - ta". But word for word, that means, we very often translate it by:
+"The One All"; "The One All" is a kind of magic, mystical formula, the One All. When the
+formula is spoken, something begins! The "One All", in fact, is not a good literal translation
+
+                                                                                                   15
+
+since it does not take into account the plural, so we should say, we can risk saying: "the One All
+Things”, “One All Things”.
+
+And from Plato to Neoplatonism and much more, not even Plato, from the philosophers we call
+the first philosophers, which are the pre-Socratics, Heraclitus, Parmenides, etc., passing through
+Plato and going to the Neoplatonists, that is, after Jesus Christ, the "en panta" resounds
+everywhere. "The One All" is like the philosopher’s rallying cry. It’s weird! You understand, I
+can at least conclude from this that philosophy has always had, I am not saying that it identifies
+itself with it, but it has always had a very particular relationship, a particular concern with what
+is called pantheism. For what do we call pantheism? What’s known as pantheism is something
+that is called something even more scholarly: panentheism. And what is pantheism or
+panentheism? "Pan" which means all, this time in the singular, "Pan" all; "En", one; Theism,
+"Theos", God. Pantheism or panentheism is "The One All God" -- [A student offers details on
+these terms] Yes, yes ... -- So, "the One All, or One All Thing, that's what is God”. In other
+words, pantheism means, or panentheism means "the All One thing, there we have God". Fine,
+we have to believe that if this Greek formula, "en panta", which, once again, haunts them all, is
+at the origin of philosophy, it’s because it has something to do with the essence of philosophy,
+with what philosophy is at the deepest level.
+
+Well then, what I just note, what interests me is that, it seems to me -- I would like to have been
+able to develop it, but I cannot -- that among the greatest philosophers, the recognition of the
+formula, or rather, the philosophical cry "en panta,” has always been accompanied by a brilliant,
+grandiose attempt to ward off or not to fall -- and there, I’m being very careful -- not to fall
+completely into the pantheism that this formula implies. [Pause] And here, one has to be very
+nuanced, because to fall halfway, yes, but not quite, there is only one philosopher who, in my
+opinion, very calmly accepts the idea that philosophy henceforth merges with the purest
+pantheism, and that’s Spinoza. Only, what does that mean? And after him, no, it will be over;
+after him, but in the end, he will have accomplished this move for all eternity! He’s the only one
+who won’t say, “Ah, but watch out. We have to make distinctions! There are other levels,” or
+else “this is in a rather special sense"; he’s the only one who will take literally, and who will
+push to its final consequences, the "en panta".
+
+So how do we explain that? Immediately, if you open up the Ethics, what does he consider in this
+regard? One of the newest things in Spinoza, one of the newest things in Spinoza, seems to me to
+be the following statement: you have to know where this something new is located, because
+there’s what results from the new thing, but if you start from what results, you cannot fully
+understand. I think what's new in all of Spinoza's theoretical apparatus is the statement that the
+same forms, or if you prefer, the same attributes -- taking attribute in the simplest sense, that
+which is attributed -- the same forms, the same attributes in the same form, are said of God and
+of things. Here’s a proposition, I’m emphasizing it, which for the vast majority of other
+philosophers, in my opinion, is heresy, a fundamentally impious proposition and, moreover,
+nonsense.
+
+And very quietly, Spinoza introduces this formulation. You have to see what he risks at his time,
+what did this entail? Why did Spinoza remain a model of something terrifying? All of this is not
+innocent. When we read this in passing at a time in which our problems are not exactly the same,
+
+                                                                                                     16
+
+but you know, this continues to have impact on our problems, you just have to live it sufficiently.
+This proposition is very bizarre: "The same forms are claimed in the same sense, are attributed in
+the same form to God and to all things". Why is this proposal extraordinary? Because most
+philosophers were saying, what were they saying for "the One All"? Other philosophers, to better
+understand this enormous novelty of Spinoza, other philosophers were saying, "Watch out! you
+can attribute a same word to God and to all things, but not in the same sense, not in the same
+sense, obviously, not in the same sense!”
+
+An example: you say, "God is just", and then you say "that man, Peter, is just", this is not in the
+same sense, for a simple reason: it’s because, in one case, it is the finite justice of a man, and in
+the other case, it is the infinite justice of God. And it's not the same form, it's not the same form.
+Fine. So, there would be the same word that would have several forms; there would be several
+forms. In what relation? Is man’s justice in the finite form with God’s infinite justice in the
+infinite form? In what relation can a finite form be with the infinite form? A huge problem, an
+enormous problem that will animate all theology.
+
+In any case, this is heresy, and moreover, it's blasphemy, to say that the same forms insofar as
+being the same – “insofar as”, I need to say insofar as -- the same forms insofar as being the
+same belong to God and to man. Before, we would have been told the same names may belong,
+but not in the same form. [Pause] Okay. Spinoza then really proceeds without nuance. What does
+he mean? All the forms which can be attributed to God are forms also in the same form that are
+attributed to man, in the same form. What are the forms that can be attributed to God? That’s not
+difficult, there, the criterion; Spinoza preserves it. He will say that the forms which can be
+attributed to God and being so, henceforth, are necessarily so, are what? These are all the forms
+that we can conceive as able to be raised to infinity.
+
+Here, I’m moving along very quickly because it’s very simple: take any form, shape or quality.
+Form equals quality. Take any quality and ask yourself, can I think of it as infinite? If you say
+yes, at that point, you attribute it to God; it’s an attribute of God. The criterion is quite simple,
+it’s not difficult. Example: red, can I imagine an infinite red? In this, I’m not trying to persuade
+you. In the Middle Ages, in the 16th or 17th centuries, they all agreed: there is no infinite red. To
+think of an infinite red is contradictory. Any color implies a figure. I don't know if they're right
+or wrong, we're not going to debate this with them, it doesn't change anything, the example! In
+any case, no! Henceforth, I cannot say "God is red", because red is a form, a form of color, but it
+is not able to be raised to infinity. So, I'm looking at random; "hot": can I speak of an infinite
+heat? No! They will say "heat is the domain of the indefinite, it is not the domain of the infinite";
+they are very attached to this distinction. No matter, there, again, we are not debating that!
+
+Spinoza finds two forms, and still not everyone would agree with him, but the fact is, it’s not on
+this point that I’d like to direct our understanding. Spinoza arrives and says: "We men know of
+two forms which we can conceive as infinite without contradiction. These are thought and
+extension. " That’s curious! And for the 17th century, they all agree infinite extension is not
+contradictory. This is their concern; for mathematical, logical reasons, they prove that very well,
+but it is not my purpose to develop this. We accept that; we are starting with Spinoza’s premises.
+
+                                                                                                           17
+
+Spinoza does not maintain any less that there’s an infinity of infinite forms. Only here we are,
+the fact is that we only know of two. We humans only know two infinite forms. That doesn't
+mean there are only two. These are thought and extension. That doesn't mean there are only two.
+That means that we, humans, are made up in such a way, we’re constituted such that we can only
+know these two. And why? Because, in fact, we are constituted by a soul and a body. And what
+is a soul? It’s a way of thinking, it’s a manner of thinking. A body is a mode of extension.
+Henceforth, as we are constituted by a body and a soul and nothing else, according to Spinoza;
+we can only know two infinite forms: the infinite form which corresponds to the body, which is
+extension, [and] the infinite form which corresponds to the soul, and that is thought. Fine. Up to
+here, there is nothing of interest for us.
+
+What is interesting is that Spinoza is going to develop a whole doctrine according to which these
+same forms, thought and extension that we attribute to God, these same forms of infinity also
+belong, to what? To finite things, no doubt, but they do not belong in the same way: it’s not in
+the same way that thought and extension belong to God and belong to you or me. But it is in the
+same form that they belong to one and the other. Understand, it gets pretty complicated, and at
+the same time, it's entirely clear. The idea is that forms are equal, attributes are equal. These are
+the same attributes that will be claimed of God and of finite beings. Fine. "The same" does not
+mean that God and finite beings are "the same".
+
+In other words, they are equal forms that are stated “in relation” and that are stated of terms that
+are unequal, that are not equal. There are forms common to God and the creature. What did the
+others say? To my knowledge, they said, "either there are no common forms properly speaking",
+or else they said, "there are analogous forms, there are analogous forms [Pause] between God
+and creatures", that is, what the infinite form is to God, the finite form is to the creature. So, we
+were told: either the forms are not the same, or else, we were told, there is analogy of forms.
+Spinoza is the only one to tell us: there is a community of forms. These are the same forms that
+are claimed of God and that are claimed of finite beings. So, God and finite beings are not the
+same, but the forms that are claimed of one and the other are the same. Understand, this is the
+theoretical formulation of pantheism. If these are the same forms, the formula "hen panta", "the
+One All" or the "One All Things", these are the same forms that are claimed of the One and that
+are claimed of things. Henceforth, things are within "the One", and "the One is within things".
+They are not the same, but they have the same forms.
+
+What does that mean, that? Why is this practically important, this formulation? And in what way
+is this ontology, Being? I'm going to tell you a story, and again, I want you to feel the extent to
+which this is a matter -- how to put it? -- that it’s also a question of the problem of what it is to
+create in philosophy. Up to a certain author, I believe, thought worked -- I will not say which one
+yet -- thought worked in terms of alternative, disjunction. It was stated: it’s this or it’s that. We
+can always recount things like that. For a long time, well yes, thought found no need to question
+this principle. So, “you mean, this or that? It’s one or the other?” I’m thinking of a very simple
+thing. Is it finite or is it infinite? And so, answer! And if I answer, it’s indefinite? Ah no, no, no!
+If it is indefinite, it is only a consequence of the finite! Well, "it’s finite or it’s infinite, or else it’s
+universal or it’s singular?” And somehow, it has to be one or the other.
+
+                                                                                                    18
+
+An example: "animal", I say "animal"; this is a great mystery that I reveal to you here, so feel it.
+I’m saying "animal" to you, all innocent. Fine, you have the right to tell me, but what, "animal",
+in what sense? Why is it that, at first glance, there are two meanings? "Animal" can be a genus,
+the animal genus. Where does the animal genus exist? Is it what we will call "a universal", where
+it exists as a universal? It doesn't exist in things; you've never seen an animal, full stop. It’s not
+possible to see an animal, full stop! If there were one, what would it be? How many legs would it
+have, an animal full stop? It’s not possible! So "animal" full stop exists only in the mind. The
+mode of existence of the genus "animal" is a mode of existence in the mind. The universal exists
+in the mind, we are told. And in things, what is there? It’s a particular "animal", the singular
+animal. Ah yes, there are singular animals. A huge problem, what connection is there between
+singular animals and the universal animal in the mind? Hence an entire opposition between in re
+and in mente, "in things" and "in mind". For that, there are all kinds of philosophies which are all
+built on such disjunctions. Fine.
+
+Along comes a philosopher -- and to my knowledge, and that's what troubles me, I believe, and
+according to the scholars, because here, it is necessary to question the specialists, he’s a very
+special philosopher – along comes an Arab philosopher in the 11th century, an Iranian Arab. He
+writes sometimes in Arabic, sometimes in Iranian. His name is Avicenna. [Deleuze spells it out]
+He's a very, very great philosopher. -- This is always part of the shame within the history of
+philosophy in France that we always take this short-cut around the Middle Ages, about what
+happened, etc. Avicenna, I know Avicenna very poorly, so I don't pretend that this is ... I know
+him very poorly -- I just know that there is a thesis which appears in Avicenna and which is very,
+very unusual. He says: "so there you are, there are essences", "there are essences". Up to there,
+nothing new. Philosophers talked a lot about essences. "There are essences". He says, for
+example, "the animal is an essence". And he says, "Is it possible to think of a pure essence?” says
+Avicenna the Arab. He says, "Yes, yes. Only you have to see what that commits you to.” The
+animal essence -- a philosophical discovery, which sounds like nothing, you understand; I like
+that a lot -- he introduces a formulation that’s also like a kind of cry, a watchword (mot d’ordre):
+"animal tantum". It sounds like nothing much; he says, casually, "animal tantum" in a text; I'm
+talking about the translation, it was very quickly translated into Latin; "animal tantum", which
+means what? It means "animal only", "animal only". And what does "animal only" mean?
+Understand, this is very important.
+
+He tells us, if you want to think of pure essence, it’s "animal insofar as being animal", that is,
+neither universal, nor singular. And he himself will say in other texts about other examples,
+"neither infinite, nor finite". [Pause] Hey! He recognizes perfectly, he agrees that there are two
+great modes of existence: the universal in the mind and the singular in things. But precisely, if
+there weren’t two -- if there weren't a "third state" (tiers état); that's to please Anne [Querrien] --
+we need a third state. If there were only two, we wouldn't even understand that there could be
+two. For if there were the universal in the mind, at that point, there would be no singular animals.
+And if there were singular animals, there would be no universal animal in the mind. It can be one
+and the other only because there is a third party (tiers). What is the third party? It is the animal
+essence, and animal essence is neither universal, nor singular. It’s outside these criteria.
+
+Anne Querrien: [Inaudible comments]
+
+                                                                                                      19
+
+Deleuze: Do you think he's fighting for Joseph?
+
+Anne Querrien: [Inaudible comments]
+
+Deleuze: So, understand, that seems completely insignificant. Imagine the others, there, and this
+becomes interesting: someone arrives and says to you, "Listen; in my view, it is necessary to
+create the concept which would be a concept of essence, and such a concept which is neither
+universal nor singular. No, it is neither infinite nor finite. The essence is not subject to these
+criteria." Take a philosopher of the era, he can say: “but what are you talking about? That’s
+nonsense, it’s pure nonsense, that story: what is this essence that is neither singular nor
+universal? Even Plato, what would Plato have said about something like that?” In my opinion, he
+would have said, "This is a Sophist's idea," Plato would have said. "No, it's not right!" So, there
+are those who say it's nonsense; there are those who can be imagined being much more
+suspicious who say: "Why does he say that? What will he bring us back to? How will he develop
+his story?" One senses that there are already things that are already involved here. What will
+change, including in theology, if I introduce this third state of essence, neither universal, nor
+singular, neither finite, nor infinite? Isn't that already the path along which things flee from God?
+What is that? Well, we can see how that will be developed by Avicenna, but that would be too
+complicated.
+
+Some time later, what emerges from another philosopher? Well, the average of philosophers -- I
+regret saying this so vaguely – they spoke to us up to then about Being and the problem of Being.
+They said, "You see, there is God, the infinite Being, then there are the finite beings.” Very well,
+but a Being is either finite or infinite; a Being is either finite or infinite. Once again, are these the
+same forms that we attribute to an infinite Being and to finite beings? No, at best, these are
+analogous forms. Namely, the infinite justice of God is analogous, or rather the finite justice of
+men is an analogous to the infinite justice of God. That is, it is to finite things what infinite
+justice is to infinite Being. And in particular, there was a philosopher who had greatly advanced
+the theory of these analogous relations, it was Saint Thomas. Saint Thomas is even famous for a
+theory called the theory of the analogy of Being. Namely, Being is an analogous concept, that is,
+that it is stated regarding God and regarding creatures in an analogous way. The infinite Being is
+stated regarding God, the finite being is stated regarding men.
+
+It so happens that after Saint Thomas, comes a strange, strange philosopher named Duns Scotus,
+[Deleuze spells it out] who will be named -- because they gave themselves some kind of
+nicknames in the Middle Ages -- who will be named by his disciples "Subtle Doctor", and says:
+"Well, no, that's not it!", and this will then unleash struggles, even knife fights, between the
+Thomists and the Scotists, struggles that are not over today. So, this concerns something, but
+what? What is this about? And what does he say, Duns Scotus? He says, "Well, there you are, of
+course" -- you have to understand how subtle he is -- "Of course, when you relate Being to God
+and creatures, you can only relate it analogically.” Why? Because God and creatures are not "the
+same". He thought he was protecting himself against pantheism by saying that. But, glorious and
+unfortunate, because what will happen to him? He adds, "Okay, God and creatures are not the
+same, so Being is not related to them in one and the same way; it is related to them in an
+analogous way. But, on the other hand, this Being which is related in an analogous way only to
+God and to creatures is, in itself, strictly univocal: there is only one and the same Being."
+
+                                                                                                       20
+
+Ah, understand, what do you want to answer to that? Only this, "Ah yes, that's true", and it
+should be added, "if that exists, if there is Being, there is only one and the same Being.” What is
+not the same is what I relate to -- I am being very indulgent, and I’m agreeing on everything --
+You tell me that God and creatures, you tell me that there is God, okay, I'm not saying the
+opposite; you tell me there are creatures, okay, there are creatures, whatever you want, and you
+add that God and creatures are not the same at all, and I say okay. You add that I relate Being to
+God, when I say, "God is", to creatures when I say, "creatures are". I’m relating to Being. You
+add: it is not in the same relation that I relate Being to God and to creatures. Obviously, it’s not
+in the same relation, and you therefore conclude that the Being is analogical. And there I say:
+"Not at all", "no", "you can't [say that]".
+
+You cannot. Why can't you? Because it is true that Being is analogical when you relate it to God
+and creatures, but when you think of it insofar as Being without relating it to anything, what is it?
+A splendid answer: "There is a concept of Being which is absolutely indifferent to the finite, to
+the infinite". Being insofar as Being, it is no more infinite than finite. From then on, it's the same.
+This concept of Being which is neither finite nor infinite, and which is Being insofar as Being, it
+is strictly the same, although it ceases to be the same when you do not relate it to the same
+things. Okay, but in itself, it is the same. So, there is a Being that is neither finite nor infinite.
+You see that it is exactly the same move on the level of Being as Avicenna’s move on the level
+of Essence, which Duns Scotus does against Saint Thomas, namely, "Being is univocal". There is
+only one and the same sense of the word Being: neither finite nor infinite, although Being relates
+to things which do not have the same sense: God and creatures. Imagine the state of a Thomist
+faced with that! I mean, how might we speak of intellectual hatred? It's not the fault of
+philosophy, you know. You understand objections, objections, these are always passions.
+Objections never matter; they are counterattacks in war, an objection. What do you want to say
+to this Duns Scotus thesis? If you are a Thomist, your reason falters! You say, you say, "not at
+all, Being insofar as Being, that's not what you are saying"! If you are a Thomist, you are
+condemned, in my case, to assert this: "This Being insofar as Being is abominable nonsense.
+This is heresy, it is contrary to Revelation, it’s against reason.” So, a Being that is neither finite,
+infinite, universal, nor singular, a Being that is -- as Duns Scotus said, and there the word is great
+for us -- "neuter", that is, "neutral", what is neutral? What does it mean in Latin? It means
+"neither one nor the other".
+
+Anne Querrien: [Inaudible comments]
+
+Deleuze: Not in the Middle Ages, not for Duns Scotus after Spinoza, but he will not say
+"neutral" precisely.
+
+Querrien: [Inaudible comments]
+
+Deleuze: So, fine! Maybe you understand, I don't know; it doesn't take a lot of knowledge
+(savoir), you understand, to assess what's new in a thought. This is not about the level of
+discussion. At this level of discussion, what do you want? I’m insisting greatly on this is not
+being a matter of argumentation. Here is a guy who has just discovered a new domain, it's really
+like a new territory: the territory of Being. It does not tell us much, at first glance, it is simple, it
+is not difficult: it is neither infinite, nor finite, nor singular, nor universal. But, does he need to
+
+                                                                                                   21
+
+say so much more, since each of his propositions is a huge paradox compared to the thought of
+the time and, even more, compared to today since we tend to say, "But something has to be this
+or that!"? Well then, no!
+
+Only you see where that leaves Duns Scotus – here, I’m obviously going way to fast -- : he
+discovers a sphere which is made of Being insofar as Being, only he neutralizes it, that is, a
+purely logical concept. As a result, there can be, at the extreme, an agreement between Thomists
+and Scotists. They will say yes, "Being insofar as Being is logically univocal, but it is physically
+analogous." In other words, there is a Being who is the same, but at the same time, as soon as
+you relate it to be-ings (étants), it ceases to be the same, if you relate it to the Be-ing "infinite
+God" or if you relate it to singular be-ings, "things". There would be a little arrangement, but
+arrangements never occur like that. The Thomists will not cease to go after the Scotists, and the
+Scotists will not cease to provoke the Thomists.
+
+Okay, so imagine one more step, and this is where I would like to finish because you can't take it
+any more: just imagine one more step, imagine that someone finds the means to liberate, to
+release this unique Being, this Being insofar Being from its neutrality. That is, he affirms this
+Being, he says, that is the real. This Being insofar as Being, which is the same for all and for
+everything, this unique Being, this univocal Being, it is not only thought in a logical concept, it is
+physical reality in itself, it is Nature. [Pause]
+
+In other words, it’s the same forms that are said of God and of creatures, it’s the same Being that
+is said of all be-ings of God and of the creature. Henceforth, creatures are in God, God is in
+creatures. However, is it the same "be-ing"? No, God and men are not the same thing. But the
+same forms are said of God and are said of men, in what sense? In this sense, that the same forms
+constitute the essence of God and include or contain the essences of men. So, there is no equality
+of essence, but there is equality of Being for unequal essences. At that point, an ontology
+becomes possible; at that point, the ontology begins and, at that point, the ontology ends. Yes,
+starts and ends, there we are, good, [Pause] it's over ... [Pause]
+
+Listen, I feel like I should have developed, I don't know ... Even if those who didn't understand
+this, it doesn't matter, you delete all that, [Laughter] and keep what you understood the other
+times. Those who have understood something, that’s good. Next time, therefore, I will start
+another completely different course on painting, but we can have at the start of the session some
+questions if there happen to be any questions. But I will not speak on Spinoza anymore. There
+we are! [End of the session] [2:01:44]

@@ -1,0 +1,1262 @@
+1
+
+Gilles Deleuze
+
+Leibniz : La Philosophie et la Création des Concepts, 1980-2
+
+2ième séance, 22 avril 1980
+
+Transcription originale et augmentée, à partir du vidéo YouTube,[1] par Charles J.
+Stivale[2]
+
+Partie 1
+
+La dernière fois, comme convenu, nous avons commencé une série d’études sur Leibniz qu’il
+fallait concevoir comme introduction à une lecture – la vôtre, éventuelle, la vôtre – de Leibniz.
+Donc, pour introduire une clarté numérique, je tenais à numéroter les paragraphes pour que tout
+ne se mélange pas. La dernière fois, on a fait un premier paragraphe très simple qui était une
+espèce de présentation des concepts ou d’un certain nombre des concepts principaux de Leibniz.
+Ouais, à l’arrière fond de ceci, il y avait un problème correspondant à Leibniz, [1 :00] mais
+évidemment beaucoup plus général, à savoir, je vous le rappelle très vite : qu’est-ce que c’est au
+juste que de faire de la philosophie, et, à partir d’une définition très simple: faire de la
+philosophie, c’est créer des concepts, comme faire de la peinture c’est créer des lignes et des
+couleurs. Faire de la philosophie, c’est créer des concepts parce que les concepts, ce n’est pas
+quelque chose qui préexiste. Ce n’est pas quelque chose qui soit donné tout fait, et en ce sens, il
+faut définir la philosophie par une activité de création: création des concepts ou création de
+concepts. Or cette définition nous semblait convenir parfaitement à Leibniz qui se livre, en effet,
+dans une philosophie dont l’apparence est fondamentalement rationaliste, se livre à une espèce
+de création exubérante de concepts insolites dont il y a peu d’exemples d’autant de concepts
+bizarres, [2 :00] peu d’exemples.
+
+Et dans tout ce premièrement, où j’avais essayé de faire surgir un certain nombre de ces concepts
+signés Leibniz, en effet, si encore une fois les concepts sont objets d’une création, alors il faut
+dire que ces concepts sont signés. Il y a une signature, non pas que la signature établisse un lien
+entre le concept et l’individu qui le crée, le philosophe qui le crée, c’est beaucoup plus, les
+concepts eux-mêmes qui sont des signatures. Bon, donc tout ce premier paragraphe avait fait
+surgir un certain nombre de concepts proprement leibniziens. Les deux principaux qu’on avait
+dégagés au courant de la dernière fois, et là, je ne vais plus les reprendre parce que vous
+comprendrez vous-mêmes, ceux qui n’étaient pas là, c’était inclusion et compossibilité. Il y a
+toutes sortes de choses [3 :00] qui sont incluses dans certaines choses, ou bien enveloppées dans
+certaines choses, inclusion, enveloppement.[3] Puis un tout autre concept, très bizarre, celui de
+compossibilité: il y a des choses qui sont possibles en elles-mêmes mais qui ne sont pas
+compossibles avec une autre. Voilà, on avait dégagé tous ces concepts.
+
+Aujourd’hui, je voudrais donner comme titre au second paragraphe, à cette seconde recherche
+sur Leibniz, je voudrais donner comme titre, «Substance, Monde et Continuité» [Deleuze le
+répète]. Si on arrive à dire ce que c’est tout ça, on verra ce qui restera. [4 :00] Ce second
+paragraphe a pour but ou se propose d’analyser plus précisément ces deux concepts majeurs de
+Leibniz: Inclusion et Compossibilité, qu’est-ce que ça veut dire ?
+
+                                                                                                     2
+
+C’est qu’en effet, au point où on en était resté la dernière fois, on se trouve devant deux
+problèmes, on se trouve devant deux problèmes leibniziens. Le premier problème, c’est bien
+celui de l’inclusion. En quel sens? On a vu que si une proposition était vraie, il fallait que d’une
+manière ou d’une autre – mais j’insiste déjà sur ce « d’une manière ou d’une autre » -- il fallait
+que d’une manière ou d’une autre que le prédicat ou l’attribut soit contenu, soit inclus non pas --
+bien qu’on puisse s’exprimer ainsi d’une manière rapide – non pas dans le sujet, [5 :00] mais
+dans la notion du sujet. [Pause] Si une proposition est vraie, il faut que le prédicat soit inclus
+dans la notion du sujet. Laissons-nous aller et on se confie à ça, comme le dit Leibniz, et si je dis
+à ce moment-là Adam a péché, il faut que péché, pécheur, soit contenu, soit inclus dans la notion
+individuelle de Adam. Il faut que tout ce qui arrive, que tout ce qui peut s’attribuer, tout ce qui se
+prédique – c’est une philosophie de la prédication – tout ce qui se prédique d’un sujet soit
+contenu dans la notion du sujet. Devant une proposition aussi étrange, dont j’ai essayé la dernière
+fois d’indiquer certaines raisons pour lesquelles Leibniz la soutient et la lance, [6 :00] on les
+retrouvera ensuite, donc, pour ceux qui n’étaient pas là la dernière fois ; cela n’a pas tellement
+d’importance ; vous savez, on les retrouvera d’une certaine manière – là, si on accepte cette
+espèce de pari de Leibniz, on se trouve tout de suite devant des problèmes.
+
+A savoir que si un événement quelconque, si un événement quelconque qui concerne telle notion
+individuelle, à savoir Adam, ou César – César a franchi le Rubicon, il faut que franchir le
+Rubicon soit compris, contenu, inclus dans la notion individuelle de César –bon, très bien,
+d’accord, je suppose, on est tout prêt à dire « oui » à l’avis de Leibniz. Mais si on dit ça, encore
+une fois, je veux bien marquer qu’on ne peut pas s’arrêter: si une seule chose est incluse dans la
+notion individuelle de César, comme «franchir le Rubicon», il faut bien que d’effet en cause et
+de cause en effet, il faut bien que la totalité du monde soit incluse dans cette notion [7 :00]
+individuelle puisque, en effet, « franchir le Rubicon » a lui-même une cause qui doit à son tour
+être contenue dans la notion individuelle, etc., etc., etc., à l’infini, en remontant et en descendant.
+A ce moment-là, il faut que l’empire romain qui, en gros, découle du franchissement du Rubicon,
+l’instauration de l’empire romain et toutes les suites de l’empire romain, soient d’une manière ou
+d’une autre inclues dans la notion individuelle de César. Si bien que chaque notion individuelle
+sera gonflée de la totalité du monde qu’elle exprime. Elle exprime la totalité du monde. Voilà
+que la proposition devient de plus en plus étrange.
+
+Or pour nous, il y a toujours des moments délicieux dans la philosophie et un des moments les
+plus délicieux, c’est lorsque l’extrême bout de la raison, c’est-à-dire la raison ou le rationalisme
+poussé jusqu’au bout de ses conséquences engendre et coïncide avec une [8 :00] espèce de délire
+qui est un délire de la folie. A ce moment-là, on assiste à ce défilé, à cette espèce de cortège, à
+ces épousailles, où c’est la même chose qui est le plus rationnel, où c’est le rationnel poussé
+jusqu’au bout de la raison, et qui est le délire, mais le délire de la folie la plus pure. Donc chaque
+notion individuelle -- vous, moi, César, peu importe, aucune… là, à ce niveau, il n’y a pas de…
+ce n’est pas parce que c’est un personnage historique, et pas nous, ce n’est pas ça – ça vaut pour
+toute notion individuelle. S’il est vrai que le prédicat est dans la notion du sujet, inclus dans la
+notion du sujet, il faut bien que chaque notion individuelle exprime la totalité du monde, et que
+la totalité du monde soit inclue dans chaque notion. On a vu que ça conduisait Leibniz à une
+théorie extraordinaire qui est la première grande théorie en philosophie, la première grande
+théorie de la perspective, ou du point de vue, puisque chaque notion individuelle sera dite
+exprimer [9 :00] et contenir le monde, oui, mais d’un certain point de vue qui est plus profond, à
+
+                                                                                                      3
+
+savoir c’est la subjectivité qui renvoie à la notion de point de vue et pas la notion de point de vue
+qui renvoie à la subjectivité. Ça va avoir beaucoup de conséquences sur la philosophie, à
+commencer par l’écho que ça allait avoir sur Nietzsche dans la création d’une philosophie dite
+perspectiviste.
+
+Bon, bon, bon, voyez, mais alors, le premier problème, c’est ceci: ce premier problème, à la
+recherche duquel je suis, bon, quand on dit que le prédicat est contenu dans le sujet, on a vu la
+dernière fois, ça supposait que ça soulevait toutes sortes de difficultés, à savoir est-ce que les
+relations peuvent être ramenées à des prédicats, est-ce que les événements peuvent être
+considérés comme des prédicats, etc., etc. Mais acceptons ça quand même. Que le prédicat soit
+contenu dans le sujet, je le comprends à la rigueur, même ça se comprend assez vite, [10 :00]
+indépendamment de la question de savoir si c’est vrai ou c’est faux. Mais encore une fois, cette
+question est tout à fait dénuée de sens puisque vérité et fausseté, ça n’a pas un rapport à un
+système de concepts. Donc il faut d’abord comprendre les concepts de Leibniz, et une fois qu’on
+les a compris, moi, je crois qu’il n’y a pas de chance qu’il se trompe. Simplement, c’est des drôle
+de concepts. On ne peut donner tort à Leibniz qu’à partir d’un ensemble de coordonnées
+conceptuelles différent de celles de Leibniz, ça va de soi.
+
+Alors, alors, vous comprenez ? Dire qu’une proposition vraie est telle que l’attribut est contenu
+dans le sujet, on voit bien ce que ça peut vouloir dire à quel niveau ? On voit bien ce que ça peut
+vouloir dire au niveau des vérités qu’on va appeler précisément des vérités d’essences. Les
+vérités d’essences, du type, par exemple, soit les vérités métaphysiques, ce que Leibniz appelle
+vérités métaphysiques, concernant Dieu, par exemple, [11 :00] ou bien alors pour parler des
+choses qui vous diront plus, vérités mathématiques. Si je dis 2 + 2 = 4, je peux concevoir -- il y
+aurait beaucoup à discuter là-dessus -- mais je comprends immédiatement ce que veut dire
+Leibniz, toujours indépendamment de la question est-ce qu’il a raison ou tort, on a tellement de
+peine déjà à savoir ce que quelqu’un est en train de dire que si, en plus, on se demande s’il a tort
+ou s’il a raison, vous comprenez, on n’a pas fini, ça n’a pas de sens.
+
+Donc, on comprend bien chacun ce que ça veut dire. 2 + 2 = 4 est une proposition analytique. Je
+rappelle qu’une proposition analytique, c’est une proposition telle que le prédicat est contenu,
+compris dans la notion du sujet, à savoir c’est une proposition identique ou réductible à
+l’identique, [12 :00] identité du prédicat avec le sujet. En effet, je peux démontrer, nous dit
+Leibniz, je peux démontrer, à l’issue d’une série de démarches finies, d’un nombre fini de
+démarches ou d’opérations, je peux démontrer que [Pause] 4, en vertu de sa définition, et 2 + 2,
+en vertu de leur définition, sont identiques. [Pause] Bon. Est-ce que je peux vraiment le
+démontrer, et de quelle manière? Leibniz, le grand mathématicien, nous dit qu’il peut le
+démontrer. Bon. [13 :00] Je ne pose pas ce problème de, comment, etc.? Encore une fois, ce qui
+m’intéresse, c’est que, en gros on comprend ce que ça veut dire: le prédicat est compris dans le
+sujet, ça veut dire que, à l’issue d’un ensemble fini d’opérations, je peux démontrer l’identité de
+l’un et de l’autre.
+
+Leibniz prend un exemple dans un texte, un petit texte qui s’intitule «De la liberté». Il va
+démontrer que tout nombre divisible par douze est par là même divisible par six. Tout nombre,
+comme il dit, tout nombre duodénaire est sexaire. Tout nombre divisible par douze est divisible
+par six. Remarquez que dans la logistique du XIXe et du XXe siècle, [14 :00] vous retrouverez
+
+                                                                                                        4
+
+des démonstrations de ce type qui ont fait notamment la gloire de [Bertrand] Russell. La
+démonstration de Leibniz est très, très convaincante: il démontre d’abord que tout nombre
+divisible par douze, que divisible par douze – et là, il le démontre très bien – que divisible par
+douze égale, est identique à divisible par deux, multiplié par deux, multiplié par trois. Ce n’est
+pas difficile. Tout nombre divisible par douze égale divisible par deux [multiplié par] trois. Il
+démontre, d’autre part, que divisible par six est identique à divisible par deux-trois, multiplié par
+trois. Pas facile à démontrer tout ça ; ça prend beaucoup de temps, ça prend…
+
+Par là même qu’est-ce qu’il a fait voir? Il a fait voir [15 :00] une inclusion puisque deux
+multiplié par trois est contenu dans deux multiplié par deux multiplié par trois. Vous me direz, ce
+n’est rien. Bon, c’est quand même un exemple, ça nous fait comprendre : au niveau des vérités
+mathématiques, on peut dire que la proposition correspondante est analytique ou identique, c’està-dire que le prédicat est contenu dans le sujet, à savoir, je peux faire, comprenez ce que ce que
+ça veut dire, ça veut dire à la lettre, que je peux faire en un ensemble, en une série finie
+d’opérations déterminées – ça, j’insiste là-dessus, une série finie d’opérations déterminées
+[Pause] –, je peux démontrer l’identité du prédicat avec le sujet, ou je peux – ce qui finalement
+revient au même -- faire surgir une inclusion [16 :00] du prédicat dans le sujet. Je peux
+manifester cette inclusion, je peux la montrer. Ou bien je démontre l’identité ou bien je montre
+l’inclusion.
+
+Il a montré l’inclusion lorsqu’il a montré, par exemple -- ce qui n’est pas une identité, une
+identité pure ça aurait été: tout nombre divisible par douze est divisible par douze, mais vous
+voyez là, on en est à un autre cas de vérité d’essence: tout nombre divisible par douze est
+divisible par six -- cette fois-ci, il ne se contente pas de démontrer une identité, il montre une
+inclusion à l’issue d’une série de démarches, d’opérations limitées, finies, bien déterminées, une
+et puis une, dans ce cas, il y en a trois. Voilà, ça c’est les vérités d’essence. Je peux dire que
+l’analyse, que l’inclusion du prédicat dans le sujet [17 :00] est démontrée par analyse et que cette
+analyse répond à la condition d’être finie, c’est-à-dire qu’elle ne comporte qu’un nombre limité
+d’opérations, d’opérations bien déterminées. Eh ? Vous me direz que… Je ne sais pas ce que
+vous me direz, mais enfin, c’est nécessaire, croyez-moi ; faites-moi confiance. Dire que c’est
+nécessaire que j’insiste sur tout ça.
+
+Mais quand je dis qu’Adam a péché, ou que César a franchi le Rubicon, c’est quoi ça? Ça
+renvoie non plus à une vérité d’essence, c’est très daté, César a franchi le Rubicon ici et
+maintenant, ça a référence à l’existence, César ne franchit le Rubicon que s’il existe. [Pause]
+Puis, ça se fait ici et maintenant, 2 + 2 égale 4, [18 :00] ou tout ce qui est divisible par douze est
+divisible par six, ça se fait ici et maintenant, en tout temps et en tout lieu. Donc, il y a tout lieu de
+distinguer des vérités qu’on appellera d’existence, les distinguer des vérités d’essence.
+
+La vérité de la proposition «César a franchi le Rubicon» ou « Adam a péché », ce n’est pas du
+même type que 2 + 2 = 4. Et pourtant, en vertu des principes qu’on a vu la dernière fois, et on a
+vu qu’il y a de fortes raisons qui poussaient Leibniz à dire cela, pour les vérités d’existence non
+moins que pour les vérités d’essence, il faut bien que le prédicat soit dans le sujet et compris
+dans la notion du sujet; compris donc de toute éternité dans la notion du sujet, il est inclus de
+toute éternité que Adam péchera à tel endroit et à tel moment. C’est une vérité d’existence. Je dis
+non moins que pour les vérités d’essence, [19 :00] les vérités d’existence, le prédicat doit être
+
+                                                                                                     5
+
+contenu dans le sujet, soit, mais non moins, ça ne veut pas dire de la même façon. Et en effet, on
+a vu, et c’est ça notre problème, c’est ça la difficulté que je voulais arriver à isoler, c’est que
+quelle différence, quelle première grande différence il y a entre la vérité d’essence et la vérité
+d’existence? Eh ben, on le sent tout de suite ; on est en mesure enfin déjà de la comprendre, de
+comprendre une première grande différence. À savoir, pour les vérités d’existence, Leibniz nous
+dit, vous savez, que même là, le prédicat est contenu dans le sujet. Il faut bien que «pécheur» soit
+contenu dans la notion individuelle d’Adam, seulement voilà: comme si « pécheur » est contenu
+dans le notion d’individuelle d’Adam, c’est le monde entier qui est contenu dans la notion
+individuelle d’Adam, si l’on remonte les causes et si l’on descend les effets, comme c’est le
+monde entier, vous comprenez [20 :00] que la proposition «Adam a péché» doit être une
+proposition analytique, à savoir, le prédicat « pécheur » est contenu dans le sujet, seulement dans
+ce cas-là, l’analyse est infinie. L’analyse va à l’infini.
+
+Alors, on se dit, est-ce qu’il en train de se moquer de nous, Leibniz ? Il ne faut rien exclure.
+L’analyse va à l’infini, qu’est-ce que ça peut bien vouloir dire? En d’autres termes, ça semble
+vouloir dire ceci: pour démontrer l’identité de «pécheur» et de «Adam», ou l’identité de «qui
+franchit le Rubicon», « franchissant le Rubicon », et «César», il faut une série cette fois-ci infinie
+d’opérations. Il va sans dire que nous n’en sommes pas capables, [21 :00] ou qu’il semble que
+nous n’en soyons pas capables. Sommes-nous capables d’une analyse infinie? Voilà la réponse
+déjà de Leibniz : oui, toute proposition est analytique, seulement les propositions d’existence
+renvoient à une analyse infinie. Est-ce que c’est un mot comme ça ? Est-ce que c’est une manière
+de s’en tirer ? Est-ce que c’est une manière de, vraiment, de se moquer de nous ? L’analyse
+infinie, alors en vivant, je n’y arriverais pas, je ne peux pas. Mais Leibniz est très formel: non,
+vous ne pourrez pas, nous, hommes, nous ne pouvons pas. Alors, pour nous repérer dans le
+domaine des vérités d’existence, il faut attendre l’expérience. Bien, il faut attendre l’expérience,
+mais alors pourquoi toute cette histoire qu’il vient de dire sur les vérités analytiques, sur les
+propositions analytiques? Alors il ajoute: oui, mais en revanche, l’analyse infinie est non
+seulement possible mais faite dans l’entendement de Dieu.
+
+Est-ce que ça nous arrange de savoir que Dieu, lui qui n’a pas de limites, qui est infini, [22 :00] il
+peut faire l’analyse infinie? On est content, on est content pour lui, mais à première vue, on en
+est au point où on se dit, mais qu’est-ce qu’il est en train de nous raconter ? Je retiens juste que,
+voilà ma première difficulté: qu’est-ce que c’est que l’analyse infinie? [Pause] Toute proposition
+est analytique, seulement il y a tout un domaine de nos propositions qui renvoie à une analyse
+infinie. Alors qu’est-ce que c’est qu’une analyse infinie ? Alors, on a un espoir: si Leibniz est un
+des grands créateurs du calcul différentiel ou de l’analyse infinitésimale, sans doute c’est en
+mathématique, et il a toujours distingué les vérités philosophiques et les vérités mathématiques et
+donc il n’est pas question pour nous de mélanger tout; [23 :00] mais c’est impossible de penser
+que, lorsqu’il découvre en métaphysique une certaine idée de l’analyse infinie, qu’il n’y ait pas
+certains échos par rapport à un certain type de calcul qu’il a lui-même inventé, à savoir le calcul
+de l’analyse infinitésimale.
+
+Donc, voilà ma première difficulté: lorsque l’analyse va à l’infini, qu’est-ce que c’est que… de
+quel type ou quel est le mode de l’inclusion du prédicat dans le sujet? De quelle manière
+«pécheur» est-il contenu dans la notion d’Adam, une fois dit que l’identité de pécheur et d’Adam
+ne peut apparaître que dans une analyse infinie? Alors, qu’est-ce que veut dire analyse infinie
+
+                                                                                                      6
+
+alors qu’il semble qu’il n’y ait d’analyse [24 :00] que sous les conditions d’une finitude bien
+déterminée? Comment une analyse peut-elle être infinie ? [Pause] Bon, voilà. C’est un rude
+problème.
+
+Deuxième problème, deuxième problème : voyez que je viens de dégager déjà une première
+différence entre vérités d’essence et vérités d’existence. Je la résume : dans les vérités d’essence,
+l’analyse est finie ; dans les vérités d’existence l’analyse est infinie. Ce n’est pas la seule ; il y a
+une seconde différence. La seconde différence entre une vérité d’essence et une vérité
+d’existence selon Leibniz, c’est qu’une vérité d’essence est telle que le contradictoire en est
+impossible, à savoir qu’il est impossible que 2 et 2 ne fassent pas 4. [25 :00] Pourquoi? Pour la
+simple raison que je peux démontrer l’identité de 4 et de 2 + 2 à l’issue d’une série de démarches
+finies. Donc 2 + 2 = 5, on peut démontrer que c’est contradictoire et que c’est impossible tandis
+qu’Adam non-pécheur, Adam qui n’aurait pas péché, je prends donc le contradictoire de pécheur,
+non-pécheur. Adam non-pécheur, c’est possible. La preuve c’est que, suivant le grand critère de
+la logique classique – et à cet égard Leibniz reste tout à fait dans la logique classique –, je ne
+peux rien penser lorsque je dis 2 + 2 = 5; je ne peux pas penser l’impossible, pas plus que je ne
+pense quoi que ce soit selon cette logique que quand je dis cercle carré. Je ne peux pas penser 2 +
+2 = 5 [26 :00], mais je peux très bien penser un Adam qui n’aurait pas péché.
+
+Les vérités d’existence sont dites des vérités contingentes. César aurait pu ne pas franchir le
+Rubicon. On a vu la dernière fois qu’elle était la réponse, à cet égard, splendide de Leibniz,
+enregistre cette seconde différence des vérités d’existence et des vérités d’essence, et sa réponse
+va être, oui, bien sûr, Adam aurait pu ne pas pécher, César aurait pu ne pas franchir le Rubicon,
+etc., etc. Un Adam non-pécheur était possible. [Pause] Seulement voilà, ce n’était pas
+compossible avec le monde existant. Un Adam non-pécheur enveloppait un autre monde. Ce
+monde était possible en lui-même, il aurait été possible [27 :00], ce monde était possible, un
+monde où Adam – comprenez ce que ça veut dire, Adam ; ça veut dire le premier homme – un
+monde où le premier homme n’aurait pas péché est un monde logiquement possible, seulement il
+n’est pas compossible avec notre monde. C’est-à-dire, Dieu a choisi – là, il va y avoir une notion
+très insolite de Leibniz, ça va être le choix – dans une perspective leibnizienne, Dieu a choisi un
+monde tel que Adam pèche. En d’autres termes, Adam-non pécheur impliquait un autre monde:
+ce monde était possible mais il n’était pas compossible avec le nôtre.<
+
+Alors, pourquoi est-ce que Dieu a choisi ce monde où Adam pèche et ce qui a fait tout notre
+malheur? Eh bien, Leibniz va l’expliquer. Mais ce que je veux dire, c’est que, comprenez donc,
+[28 :00] à ce niveau, la notion de compossibilité devient très étrange ; qu’est-ce que c’est que
+cette relation, qu’est-ce que c’est que cette relation de compossibilité ? Qu’est-ce qui va me faire
+dire que deux choses sont compossibles et que deux autres sont incompossibles? Par exemple, si
+Adam n’avait pas péché, ça appartient à un autre monde que le nôtre, cet Adam non-pécheur,
+mais du coup, César n’aurait pas franchi le Rubicon non plus. Vous me direz, tant mieux, ça ne
+fait rien. Ça aurait été un autre monde possible. Les deux ne sont pas compossibles. Qu’est-ce
+que c’est cette relation de compossibilité très insolite?
+
+Comprenez que c’est peut-être la même question que, qu’est-ce que c’est que l’analyse infinie?
+Mais elle n’a pas le même aspect. Et voilà qu’on peut en tirer un rêve, on peut en tirer un rêve,
+[29 :00] alors on peut faire ce rêve, on peut le faire à bien des niveaux. Imaginez ceci : vous
+
+                                                                                                         7
+
+rêvez, et une espèce de sorcier est là qui vous fait entrer dans un palais; vous me suivez ? Ce
+palais… -- alors, je précise parce que, sinon, vous n’allez pas m’écouter : je ne fais que raconter
+un texte célèbre de Leibniz dont je donnerai la référence tout à l’heure, très beau texte, qui est le
+rêve d’Apollodore ; il invente un rêve comme ça – voilà qu’Apollodore va voir une déesse, et la
+déesse l’amène à un palais, et en regardant mieux, ce palais est composé de plusieurs palais.
+Leibniz adore ça, des boîtes qui contiennent des boîtes. Dans un très beau texte qu’on aura à voir,
+il explique, [30 :00] à voir, il explique que dans l’eau, il y a plein de poissons et que dans les
+poissons il y a de l’eau et dans l’eau de ces poissons il y a des petits poissons de poissons: c’est
+toujours l’analyse infinie. L’image du labyrinthe le poursuit. Il ne cesse de parler du labyrinthe
+du continu, le labyrinthe du continu.
+
+Bon, alors voilà, on l’amène devant un palais, et je m’aperçois que ce palais est composé de
+palais, et il a une forme de pyramide, la pointe vers le haut, et il n’a pas de fin. Et je m’aperçois
+que chaque section de la pyramide constitue un palais. Puis, je regarde de plus près et, puis làdedans, c’est exactement comme les aquariums qui sont empilés ; je m’approche, et dans ces
+aquariums, il y a mille petits poissons, quoi. Et je regarde mieux, et c’est bizarre, [Pause] [31
+:00] à la section de ma pyramide la plus haute, plus près de la pointe, je vois un personnage qui
+fait ceci, il fait telle chose. Juste en dessous, je vois le même personnage qui fait tout autre chose
+en un autre lieu. En dessous encore, voyez, comme si toutes sortes de pièces de théâtre se
+jouaient, alors complétement différentes, se jouaient simultanément, dans chacun des palais, avec
+des personnages qui ont des segments communs. D’où ça vient, ces segments communs ? C’est
+un texte célèbre, un gros livre de Leibniz qui s’intitule La Théodicée, à savoir la justice de Dieu,
+la justice divine. [32 :00]
+
+Or, voilà, à chaque niveau, vous comprenez, ce qu’il veut dire, c’est que à chaque niveau, c’est
+un monde possible. Dieu a choisi de faire passer à l’existence le monde extrême le plus proche
+de la pointe de la pyramide. Sur quoi s’est-il guidé pour choisir ça? On verra, il ne faut pas
+précipiter car ce sera un rude problème, quels sont les critères du choix de Dieu. Mais, une fois
+dit qu’il a choisi tel monde, ce monde impliquait Adam pécheur; dans un autre monde, ou bien
+on peut concevoir Adam péchant, tout ça simultanément ; dans cette version du rêve, tout est
+simultané : il y a Adam péchant, mais péchant d’une toute autre manière. [On peut] concevoir,
+une variante, c’est des variantes ; alors, ça, c’est des variantes très intéressantes, ou bien on peut
+concevoir Adam péchant [33 :00] pas du tout. Il y a chaque fois un monde ; c’est déroulé, tous
+ces mondes, simultanément. Chacun d’eux est possible. Ils sont incompossibles les uns avec les
+autres, un seul peut passer à l’existence.
+
+Or tous tendent de toutes leurs forces à passer à l’existence. La vision que Leibniz nous propose
+de la création du monde par Dieu devient très stimulante. Il y a tous ces mondes qui sont dans
+l’entendement de Dieu, et qui chacun pour son compte presse à une prétention à passer du
+possible à l’existant. Ils ont un poids de réalité, en fonction de leurs essences, en fonction des
+essences qu’ils contiennent ; ils tendent à passer à l’existence. Et ce n’est pas possible. Pourquoi
+? Parce que tous ces mondes sont possibles, chacun pour soi, mais ils ne sont pas compossibles
+les uns avec [34 :00] les autres. D’où l’existence est comme un barrage. Une seule combinaison
+passera. Laquelle? Vous sentez déjà la réponse splendide de Leibniz: ce sera la meilleure!
+Qu’est-ce que veut dire « la meilleure » ? Peut-être pas en vertu d’une théorie morale, mais en
+
+                                                                                                     8
+
+vertu d’une théorie des jeux. Et ce n’est pas par hasard que là aussi, Leibniz est un des fondateurs
+de la statistique et du calcul des jeux. Bon, enfin, ça va se compliquer, tout ça.
+
+Alors, voilà, qu’est-ce qu’il y a à en tirer ? Qu’est-ce que c’est que cette relation de
+compossibilité? Je remarque juste qu’un auteur célèbre aujourd’hui est leibnizien. Quant à la
+question, qu’est-ce que c’est alors ? Je disais déjà la dernière fois, qu’est-ce que ça veut dire
+quelqu’un, par exemple, en 1980 peut dire « je suis leibnizien? », ou s’il ne le dit pas, c’est pareil
+parce qu’on sait. Alors qu’est-ce que ça peut vouloir dire ? Qu’est-ce que ça peut vouloir dire
+quelqu’un qui dit aujourd’hui que [35 :00] « je suis hégelien » ou « je suis spinoziste » ? Moi, je
+crois que ça veut toujours dire deux choses, une pas très intéressante et une très, très intéressante.
+Si j’en reviens à ce que je disais rapidement la dernière fois sur le rapport du concept
+philosophique avec le cri, c’est que, d’une certaine manière, le concept, c’est précisément, est
+dans un rapport spécial avec le cri.
+
+Eh bien, je dis, il y a une manière pas intéressante d’être leibnizien ou d’être spinoziste
+aujourd’hui, c’est presque par nécessité de métier ; bon, il y a des types qui travaillent sur un
+auteur, voilà bon, ça ne règle rien. Je ne veux pas dire que ce soit mal parce que travailler sur un
+auteur, ça suppose qu’il y ait des raisons, pourquoi cet auteur plutôt qu’un autre, pourquoi est-ce
+qu’un tel, pourquoi est-ce qu’un tel commentateur s’est senti bien à commenter un philosophe
+plutôt qu’un autre ? Mais il y a une autre manière d’être ou de se réclamer d’un philosophe. Bon,
+c’est des types… Cette fois-ci, [36 :00] c’est presque non professionnel. Et ce que je trouve de
+formidable pour la philosophie, c’est lorsqu’un non-philosophe se découvre une espèce de
+familiarité que je ne peux plus nommer conceptuelle, mais saisit immédiatement une espèce de
+familiarité entre ses propres cris à lui et les concepts du philosophe. Il n’a pas besoin d’être
+philosophe pour ça. Il peut l’être ; il peut être philosophe. Par exemple, je pense à une lettre
+tardive de Nietzsche qui, pourtant, avait lu Spinoza très tôt, et qui dit, « je viens de relire
+Spinoza, je n’en reviens pas! Je n’en reviens pas! J’ai compris enfin, j’ai compris, c’est mon
+type. Je n’ai jamais eu une relation avec un philosophe comme celle que j’ai eue avec Spinoza. »
+
+Et ça m’intéresse encore plus quand c’est des non philosophes. Quand un romancier comme le
+romancier anglais, [D.H.] Lawrence dit en quelques lignes le bouleversement que lui donne
+Spinoza, là il y a quelque chose [37 :00] d’intéressant parce qu’il ne devient pas philosophe pour
+ça, Dieu merci. Il saisit quoi? Qu’est-ce que ça veut dire? Lorsque Kleist se découvre, il tombe
+sur Kant, à la lettre, il n’en revient pas. Qu’est-ce qui se passe ? Qu’est-ce que c’est que cette
+communication-là? Je veux dire que cette communication-là, s’il peut se faire entre un grand
+poète ou un grand littérateur et un philosophe, elle peut se faire aussi entre, il me semble, entre
+quelqu’un d’inculte et un philosophe. Je crois que Spinoza a secoué beaucoup d’incultes, par
+exemple. C’est très curieux, ça.
+
+Alors je dis, prenons, puisqu’on en est à Leibniz, qu’est-ce que cela peut vouloir dire ? Il y a un
+auteur bien connu [38 :00] aujourd’hui, un Argentin, qui s’appelle Borges – comment est-ce que
+ça se prononce en… [français] ? [Un étudiant lui répond], Borges ?... entre les deux, ça doit se
+prononcer ni l’un, ni l’autre – enfin, vous voyez cet auteur qui est un auteur, en effet, après tout
+extrêmement savant, quoi, et lui, il a beaucoup lu. Mais, ayant beaucoup lu, vous voyez ses
+schémas, c’est, voilà, il est sur deux trucs toujours: le livre qui n’existe pas, qui va être traité
+comme un livre existant, qui va être écrit et raconté comme un livre existant, et le labyrinthe. Il
+
+                                                                                                        9
+
+n’a pas de peine à montrer que c’est la même chose, que le livre qui n’existe pas et le labyrinthe,
+c’est pareil. Or, je dis que parce que, c’est une évidence, à travers toute son œuvre, Borges est
+fondamentalement et [39 :00] profondément leibnizien. C’est vrai de toute son œuvre, mais
+encore une fois, je prends un exemple, et je vous [y] renvoie parce que cela lui donne un côté
+moderne, une espèce de conte policier. Il aime bien les histoires policières, Borges, mais Leibniz
+aussi. Dans un livre de Borges intitulé Fictions, vous trouvez une nouvelle qui s’appelle, qui a un
+joli titre, «Le jardin aux sentiers qui bifurquent», très beau texte. Alors, je lis très rapidement
+quelques passages ; je résume l’histoire : c’est un espion chinois… Vous allez voir ; vous
+pouvez, vous vous rappelez, vous gardez dans votre tête le rêve de tout à l’heure, le rêve de la
+Théodicée, le fameux rêve de la Théodicée.[4]
+
+Eh ben, voilà, cette fois, c’est un espion chinois qui travaille pour les Allemands. [Pause] … --
+Non, je me trompe. [40 :00] Ce n’est pas celui-là. [Rires] … Est-ce que c’est celui-là ? Ah, non,
+non, je ne sais plus… Si, si, si, si, c’est celui-là. Oui – Donc, un espion chinois qui travaille pour
+les Allemands. Il est poursuivi par un Irlandais qui veut sa peau. – Vous me suivez, eh ? – Il sait
+qu’il va y passer. Pourquoi il le sait ? Tiens, ça nous intéresse parce que c’est écrit de tout temps,
+c’est écrit de tout temps. Bon. C’est écrit dans sa notion individuelle à lui, que l’Irlandais aura sa
+peau. Il se dit, « oh ben, je peux gagner peut-être dix minutes, un quart d’heure, deux heures, un
+jour, mais c’est tout. » Il s’enfuit, et il arrive dans une maison. Quelqu’un lui ouvre la porte et lui
+dit, « Eh ben, ça tombe bien, je suis sinologue ». [41 :00] Alors, il entre, et l’espion chinois lui
+dit, « Mais, vous savez, mon grand ancêtre, vous devez le connaître, mon grand ancêtre chinois
+est celui qui est célèbre à la fois pour avoir construit un labyrinthe qu’on n’a jamais retrouvé et
+pour avoir écrit un livre infini qu’on n’a jamais retrouvé. » Vous voyez, c’est le thème perpétuel
+de Borges, le livre infini et le labyrinthe, j’ajoute, le livre infini et le labyrinthe du continu. Voilà.
+
+Alors, ils parlent, ils parlent, et le sinologue lui explique, il dit, « Moi, j’ai compris ce que voulait
+faire votre ancêtre. Personne n’a retrouvé le labyrinthe ; personne n’a vu le livre, mais moi, j’ai
+très bien compris ». [Deleuze cite Borges et lit] « Je pensais à un labyrinthe de labyrinthes, à un
+sinueux [42 :00] labyrinthe grandissant qui embrassait le passé et l’avenir et qui comprendrait les
+astres en quelque sorte ». Bon, on le voit, il n’y a pas à se forcer vraiment. C’est la même
+signature ; c’est signé Borges, mais c’est signé aussi bien Leibniz ; mais je peux trouver dans la
+Théodicée des phrases exactement semblables à ça. C’est «Le jardin aux sentiers qui bifurquent».
+
+Alors, qu’est-ce que c’est «Le jardin aux sentiers qui bifurquent» ? Eh bien, [Pause ; Deleuze se
+prépare à lire de nouveau] : « Le livre est un vague amas de brouillons contradictoires. Je les
+examinai naguère. Au troisième chapitre, le héros meurt. Au quatrième chapitre, il est vivant. »
+[Pause] [43 :00] « J’ai reçu une note » -- c’est toujours le sinologue qui parle ; d’après cette note,
+[qui] était écrit par le vieux philosophe – « ‘je laisse aux nombreux avenirs, non à tous, mon
+jardin aux sentiers qui bifurquent.’ Je compris presque sur-le-champ. ‘Le jardin aux sentiers qui
+bifurquent’ était le roman chaotique du vieux Chinois. La phrase ‘nombreux avenirs’ » -- « je
+laisse aux nombreux avenir mon jardin aux sentiers qui bifurquent » -- « la phrase ‘nombreux
+avenirs’ me suggéra l’idée de la bifurcation dans le temps, non pas dans l’espace. Une nouvelle
+lecture générale de l’ouvrage confirma cette théorie.[5] Dans toutes les fictions » -- c’est le
+passage essentiel – « Dans toutes les fictions, chaque fois que diverses solutions se présentent,
+l’homme en adopte une et élimine les autre. » [44 :00] -- Par exemple, si quelqu’un meurt, bon
+ben, il meurt ; on adopte, on prend cette hypothèse-là. – « Dans la fiction du presque inexplicable
+
+                                                                                                    10
+
+Ts’ui Pen » -- c’est l’ancêtre chinois – « il les adopte toutes simultanément » -- il les adopte
+toutes simultanément – « Il crée ainsi divers avenirs, divers temps qui prolifèrent aussi et qui
+bifurquent, de là, les contradictions du roman. Fang, par exemple, » [Deleuze se répète] « Fang,
+par exemple, détient un secret. Un inconnu frappe à sa porte. Fang décide de le tuer » -- entre
+parenthèses, c’est la même situation que celle que la nouvelle est en train dr raconter – « Fang
+décide de le tuer. Naturellement, il y a plusieurs dénouements possibles : [Deleuze dit « Deux
+points »] Fang peut tuer l’intrus ; l’intrus peut tuer Fang ; tous les deux peuvent réchapper ; tous
+deux peuvent mourir, etc. Dans l’ouvrage du grand Ts’ui Pen, [45 :00] tous les dénouements se
+produisent ; chacun est le point de départ de d’autres bifurcations ».
+
+Bon. C’est absolument le monde de Leibniz ; c’est le monde des compossibilités. Mais, est-ce
+que c’est tellement étonnant, d’ailleurs ? L’idée du philosophe chinois comme ayant à faire avec
+le labyrinthe, c’est une idée de contemporains [de Leibniz]. Ça apparaît en plein XVIIe siècle. Il
+y a un texte célèbre d’un philosophe contemporain de Leibniz, à savoir qui s’appelle
+Malebranche qui est l’entretien avec le philosophe chinois, où il y a des choses très curieuses.[6]
+Leibniz aussi, il cite très souvent Confucius, il le citait beaucoup, ou l’Orient, ça le fascine. Alors
+que Borges imite tout ça, il a vraiment fait une espèce de copie conforme de Leibniz avec une
+différence essentielle ; voyez bien la différence entre Borges et Leibniz, et il n’y en a qu’une :
+[46 :00] c’est que, pour Leibniz, -- mais j’ai peur là que ce ne soit Borges qui ait raison – pour
+Leibniz, tous les mondes différents, tous ces différents mondes où tantôt Adam pèche de telle
+manière, Adam pèche de telle autre manière, Adam ne pèche pas du tout, etc., toute cette infinité
+de mondes, ils s’excluent… [Fin de la cassette] [46 :26] [Le texte suivant est suppléé grâce à
+l’enregistrement de Web Deleuze : les uns des autres, ils sont incompossibles les uns avec les
+autres, si bien qu’ils conservent un principe de disjonction très classique: c’est ou bien ce mondeçi, ou bien un autre. Tandis que Borges met toutes ces séries incompossibles dans le même
+monde. Ça permet une multiplication des effets. Leibniz n’aurait jamais admis que les
+incompossibles fassent partie d’un même monde.
+
+Partie 2
+
+Pourquoi? J’énonce juste – [Fin du texte suppléé] nos deux difficultés: la première difficulté,
+c’est « qu’est-ce que c’est qu’une analyse infinie? », et deuxièmement, c’est comme nos deux
+labyrinthes, labyrinthe de l’analyse infinie et labyrinthe de la compossibilité, « qu’est-ce que
+c’est que cette relation d’incompossibilité? » puisque, encore une fois, la plupart des
+commentateurs de Leibniz, à ma connaissance en tout cas, tentent finalement, d’une manière plus
+ou moins compliquée, de ramener la compossibilité [47 :00] au simple principe de contradiction.
+Finalement il y aurait une contradiction entre Adam non-pécheur et notre monde. Mais là, la
+lettre de Leibniz nous paraît déjà d’une telle nature, la lettre de ce qu’il écrit, que ce n’est pas
+possible. Ce n’est pas possible puisque, encore une fois, Adam non-pécheur n’est pas
+contradictoire, n’est pas contradictoire en soi et que la relation de compossibilité est absolument
+irréductible à la simple relation de possibilité logique. Donc essayer de découvrir une
+contradiction logique, ce serait encore une fois ramener les vérités d’existence aux vérités
+d’essence. Là, je ne crois pas qu’on puisse… Dès lors, ça va être très difficile d’essayer de
+définir la compossibilité.
+
+                                                                                                    11
+
+Donc, toujours dans ce paragraphe sur la substance, le monde et la continuité, je voudrais poser
+la question de qu’est-ce que c’est qu’une analyse infinie? Et là, je vous demande [48 :00],
+aujourd’hui je vous demande beaucoup de patience. Ensuite, ça s’éclaircira parce que je reprends
+un thème que j’ai dit la dernière fois, à savoir que : les textes de Leibniz, il faut s’en méfier
+beaucoup puisque c’est des textes toujours adaptés à des correspondants, un public donné, et que
+si je reprends son rêve, il faudrait le varier, et une variante du rêve serait que, même à l’intérieur
+du même monde, il y a des niveaux de clarté ou d’obscurité tels que le monde pourrait être
+présenté de tel ou tel ou tel point de vue. Si bien que les textes de Leibniz il faut savoir, encore
+une fois, à qui il les adresse pour les juger.
+
+Voilà une première sorte de texte de Leibniz où il nous dit que dans toute proposition le prédicat
+est contenu dans le sujet. Seulement il est contenu soit en acte – actuellement – soit
+virtuellement. Le prédicat est toujours contenu dans la notion du sujet, mais cette inhérence, [49
+:00] cette inclusion, est ou bien actuelle ou bien virtuelle. Voyez, on aurait envie de dire que ça
+va très bien. Convenons que dans une proposition d’existence du type Adam a péché, César a
+franchi le Rubicon, l’inclusion n’est que virtuelle, à savoir pécheur est contenu dans la notion
+d’Adam, mais il n’est que virtuellement contenu, bien.
+
+Deuxième sorte de texte: l’analyse infinie sous laquelle pécheur est contenu dans la notion
+d’Adam, c’est une analyse indéfinie, [Pause] est indéfinie, [50 :00] c’est-à-dire que je
+remonterais de pécheur à un autre terme, à un autre terme, à un autre terme, etc., exactement
+comme j’ai alors, « Adam a péché » serait du type 1 = 1/2 + 1/4 + 1/8 +, etc., etc., etc., etc., à
+l’infini. Bon, voyez, ce serait donner un certain statut: je dirais que l’analyse infinie, c’est une
+analyse virtuelle, c’est une analyse qui va à l’indéfini. Il y a des textes de Leibniz qui disent ça,
+notamment dans le Discours de métaphysique, mais dans le Discours de métaphysique, Leibniz
+propose et présente la totalité de son système à usage de gens peu philosophes.
+
+Je prends un autre texte [51 :00] qui paraît alors contredire le premier. Dans un texte réservé à un
+usage plus savant, le texte « De la liberté », Leibniz emploie le mot «virtuel», mais très
+bizarrement, ce n’est pas à propos -- et là j’y tiens beaucoup à ce texte parce qu’il permet au
+moins de dénoncer de fausses interprétations -- car il emploie le mot virtuel, mais pas à propos
+des vérités d’existence, il l’emploie à propos des vérités d’essence. Ce texte me suffit déjà pour
+dire qu’il n’est pas possible que la distinction vérités d’essence/vérités d’existence se ramène à
+ce que dans les vérités d’existence, l’inclusion soit seulement virtuelle, puisque l’inclusion
+virtuelle, c’est un cas des vérités d’essence. En effet, vous vous rappelez que les vérités
+d’essence renvoient à deux cas ; il y a deux cas de vérités d’essence: [52 :00] la pure et simple
+identité où l’on démontre l’identité du prédicat et du sujet, et le dégagement d’une inclusion du
+type, j’ai donné un exemple, tout nombre divisible par 12 est divisible par 6 ; or tout nombre
+divisible par 12 est divisible par 6, je démontre ou je montre l’inclusion de 2 multiplié par 2
+multiplié par 3, non, de 2 multiplié par 3 dans 2 multiplié par 2 multiplié par 3, je démontre
+l’inclusion à la suite d’une opération, d’une séries d’opérations finies. Or, c’est pour ce cas-là
+que Leibniz dit: j’ai dégagé une identité virtuelle. Donc il ne suffit pas de dire que l’analyse
+infinie est virtuelle.
+
+Est-ce qu’on peut dire que c’est une analyse indéfinie? Non, parce qu’une analyse indéfinie ça
+reviendrait à dire que c’est une analyse [53 :00] qui n’est infinie que par défaut de ma
+
+                                                                                                      12
+
+connaissance, c’est-à-dire que je n’arrive pas jusqu’au bout. Dès lors Dieu lui-même alors, Dieu
+avec son entendement, l’entendement de Dieu, Dieu arriverait jusqu’au bout. Est-ce que c’est ça,
+que lui, il n’a pas une connaissance limitée, n’est pas subordonné à des conditions limitées de la
+connaissance? Est-ce que c’est ça que veut dire Leibniz ? Réponse formelle : Là encore, non, ce
+n’est pas possible que Leibniz veuille dire ça. Ce n’est pas possible qu’il veuille dire ça parce
+que l’indéfini, ça n’a jamais existé chez Leibniz. Je crois que là, il y a des notions qui sont
+incompatibles, qui sont des anachronismes, quoi. Indéfini, ce n’est pas un truc de Leibniz. On ne
+peut rien interpréter dans les textes de Leibniz à partir de la notion de l’indéfini. [Pause]
+
+Qu’est-ce que c’est l’indéfini en toute rigueur? Quelles différences y a-t-il entre l’infini et
+l’indéfini ? L’indéfini, [54 :00] c’est le fait – je donne une définition très lourde, il me semble,
+mais qui essaie d’être rigoureuse – c’est le fait que je puisse toujours ou que je doive toujours
+passer d’un terme à un autre terme, toujours, sans arrêt, mais sans que le terme suivant auquel
+j’arrive ne préexiste. C’est ma propre démarche qui consiste à faire exister. Si je dis 1 = ½ + 1/4
++ 1/8, etc., etc., il ne faut pas croire que le «etc.» préexiste ; c’est ma démarche qui chaque fois le
+fait surgir, c’est-à-dire que l’indéfini existe dans une démarche par laquelle je ne cesse de
+repousser la limite que je m’oppose. Rien ne préexiste. [55 :00] C’est ce que Kant plus tard
+exprimera ; Kant, à ma connaissance, sera le premier philosophe à donner un statut à l’indéfini,
+et ce statut, ce sera précisément que l’indéfini renvoie à un ensemble qui n’est pas séparable de la
+synthèse successive qui le parcourt, ce n’est pas séparable de la synthèse successive qui le
+parcourt, c’est-à-dire les termes de la série indéfinie ne préexistent pas à la synthèse qui va d’un
+terme à un autre. Bien.
+
+Leibniz ne connaît pas ça, et en plus, ça lui paraît, l’indéfini, ça lui paraît purement
+conventionnel ou symbolique – pourquoi? Parce que s’il y a quelque chose… Si on essaie de
+dire, qu’est-ce qui fait l’air de famille des philosophies du XVIIe siècle, il y a un auteur qui l’a
+très bien dit quand il s’en est… il ne s’en est pas beaucoup occupé mais, c’est Merleau-Ponty.
+Merleau-Ponty a une très belle formule ; il a fait un petit texte sur les philosophies classiques [56
+:00] du XVIIe, des philosophies dites classiques,[7] et il essaie de les caractériser d’une manière
+vivante, et il disait que ce qu’il y a d’incroyable dans ces philosophies, et ce dont on a fait
+complètement, complètement le secret, c’est une manière innocente de penser à partir de l’infini
+et en fonction de l’infini. C’est ça, le siècle classique, une manière innocente de penser à partir
+de l’infini. Je dirais, pourquoi cette phrase de Merleau-Ponty me semble-t-elle très, très
+intelligent ? Parce que c’est beaucoup plus intelligent que de nous dire que c’est une époque où
+encore la philosophie est mêlée à la théologie, parce que c’est bête de dire ça. Il faut dire que si
+la philosophie est encore mêlée à la théologie au XVIIe siècle, c’est précisément parce que la
+philosophie n’est pas séparable à ce moment-là d’une manière innocente de penser en fonction
+de l’infini.
+
+Or, l’infini, c’est quoi ? Quelles différences y a-t-il entre l’infini [57 :00] et l’indéfini? C’est que
+l’indéfini, c’est du virtuel: en effet, le terme suivant ne préexiste pas avant que ma démarche ne
+l’ait constitué. C’est du virtuel. L’infini, c’est de l’actuel, il n’y a d’infini qu’en acte. Alors il
+peut y avoir toutes sortes d’infinis. Pensez à Pascal. [Une petite remarque indistincte] C’est un
+siècle qui, à force précisément d’avoir une manière innocente de penser en fonction de l’infini,
+ne cessera de distinguer des ordres d’infinis, et la pensée des ordres d’infinis est fondamentale
+dans tout le XVIIe siècle. Et il faudra attendre pendant très longtemps, elle nous retombera
+
+                                                                                                     13
+
+dessus, cette pensée, elle nous retombera dessus à la fin du XIXe et au XXe siècle précisément
+avec la théorie des ensembles dits infinis. Avec les ensembles infinis, on retrouve quelque chose
+qui travaillait mais du fond – on le retrouve sur d’autres bases, d’accord – mais on retrouve [58
+:00] quelque chose qui travaillait le fond de la philosophie classique, à savoir la distinction des
+ordres d’infinis.
+
+Or qui sont les grands noms dans cette recherche sur les ordres d’infinis ? C’est des grands noms
+de la philosophie classique, c’est évidemment Pascal, c’est évidemment Pascal. C’est Spinoza
+avec un texte fondamental qui est la fameuse lettre sur l’infini où il distingue toutes sortes
+d’ordres de l’infini,[8] et c’est Leibniz qui va subordonner tout un appareil mathématique à
+l’analyse de l’infini et les ordres d’infinis. A savoir, dans quel sens peut-on dire qu’un ordre
+d’infinis est plus grand qu’un autre? Qu’est-ce que ça veut dire, un infini qui est plus grand
+qu’un autre infini? etc., etc., manière innocente de penser à partir de l’infini, mais pas du tout
+confusément puisqu’on introduit toutes sortes de distinctions.
+
+Or je dis, l’analyse de Leibniz, dans le cas des vérités d’existence, elle est évidemment infinie.
+[59 :00] Elle n’est pas indéfinie. Donc, quand il emploie les mots de virtuel, quand il emploie
+bien plus, il y a un texte formel, il y a un texte formel qui donne raison à cette interprétation que
+j’essaie d’esquisser, c’est un texte tiré de « De la liberté » où Leibniz dit exactement ceci: «
+quand il s’agit d’analyser l’inclusion du prédicat pécheur dans la notion individuelle Adam,
+[Pause] Dieu certes » -- là de Leibniz, je cite par cœur, presque par cœur – « Dieu certes voit,
+non pas la fin de la résolution, fin qui n’a pas lieu». En d’autres termes, même pour Dieu, il n’y a
+pas de fin à cette analyse.
+
+Alors, [60 :00] vous me direz que c’est de l’indéfini, même pour Dieu? Non, ce n’est pas de
+l’indéfini puisque tous les termes de l’analyse sont donnés. Si c’était de l’indéfini, tous les
+termes ne seraient pas donnés, ils seraient donnés au fur et à mesure, ils seraient donnés à
+manière que je passe de a à b, de b à c, etc. Ils ne seraient pas donnés d’une manière préexistante.
+En d’autres termes, dans une analyse infinie on arrive à quel résultat ? Vous avez passage
+d’éléments infiniment petits les uns aux autres, vous passez d’un élément infiniment petit à un
+autre élément infiniment petit, l’infinité des éléments infiniment petits étant donnée. On dira
+d’un tel infini qu’il est actuel, et non virtuel, puisque la totalité des éléments infiniment petits est
+donnée. Vous me direz, mais alors, on peut arriver à la fin! Non, par nature, vous ne pouvez pas
+arriver à la fin puisque c’est un ensemble infini. La totalité des éléments est [61 :00] donnée, et
+vous passez d’un élément à un autre, et vous avez donc un ensemble infini d’éléments infiniment
+petits. Vous passez d’un élément à un autre: vous faites une analyse infinie, c’est-à-dire, une
+analyse qui n’a pas de fin, ni pour vous ni pour Dieu.
+
+Alors, en quoi cette analyse, et qu’est-ce que vous voyez si vous faites cette analyse si vous êtes
+Dieu? Supposons qu’il n’y ait que Dieu qui puisse la faire. Vous vous êtes ramené à l’indéfini,
+vous faites de l’indéfini parce que votre entendement est limité, mais Dieu, lui, il fait de l’infini.
+Il ne voit pas la fin de l’analyse puisqu’il n’y a pas de fin de l’analyse, mais il fait l’analyse. Bien
+plus, tous les éléments de l’analyse lui sont donnés dans un infini actuel. Vous voyez ? Cela veut
+dire donc que pécheur est relié à Adam. Voyez, ça devient tout simple. Pécheur est un élément ;
+j’appelle pécheur un élément. Il est relié à la notion individuelle d’Adam par une infinité d’autres
+éléments actuellement donnés. [62 :00] Bon, d’accord, c’est précisément tout le monde existant,
+
+                                                                                                       14
+
+à savoir tout ce monde compossible qui est passé à l’existence. Alors, on touche là quelque chose
+; juste un peu de patience et tout va devenir très clair.
+
+Car, suivez-moi : qu’est-ce que ça veut dire, « je fais l’analyse » ? Je passe de quoi à quoi? Je
+passe d’Adam pécheur à Ève tentatrice – c’est un autre élément -- d’Ève tentatrice à serpent
+méchant, à pomme, bon, tout ça, tous mes éléments. Tiens, tiens, tiens, bon. C’est une analyse
+infinie ; c’est cette analyse infinie [63 :00] qui montre l’inclusion de pécheur dans la notion
+individuelle Adam. Ça semble qu’on n’avance pas. Qu’est-ce que ça veut dire: élément
+infiniment petit? Pourquoi est-ce que le péché est un élément infiniment petit? Pourquoi la
+pomme est-ce un élément infiniment petit? Pourquoi franchir le Rubicon est un élément
+infiniment petit? Vous comprenez ? Qu’est-ce que ça veut dire, un élément infiniment petit? Il
+n’y a pas d’élément infiniment petit. Alors qu’est-ce que ça veut dire, un élément infiniment petit
+? Un élément infiniment petit ça veut dire évidemment -- on n’a pas besoin de le dire, on a tous
+compris -- ça veut dire un rapport infiniment petit entre deux éléments. Il s’agit de rapports, il ne
+s’agit pas d’éléments.
+
+En d’autres termes, un rapport infiniment petit entre deux éléments, qu’est-ce que ça peut être?
+Qu’est-ce qu’on a gagné en disant qu’il ne s’agit pas d’éléments infiniment petits, il s’agit de
+rapports infiniment petits entre deux éléments? Et vous comprenez que si je parle à quelqu’un
+qui n’a aucune idée, par exemple, du calcul différentiel, vous pouvez lui dire que c’est des
+éléments [64 :00] infiniment petits. Leibniz a raison. Si c’est quelqu’un qui en a une très vague
+connaissance, je peux lui dire, oh ben non, tu comprends bien, toi ! Voyez, je fais de la
+simultanéité aussi là. Ah, non, pour toi, il faudra que toi, tu ne dois pas comprendre un élément
+infiniment petit ; il faut que tu comprennes rapports infiniment petits entre éléments, entre
+éléments finis. Si c’est quelqu’un qui est très savant en calcul différentiel, je pourrais peut-être
+lui dire autre chose.
+
+Alors, on en est à quoi ? L’analyse infinie qui va démontrer l’inclusion du prédicat dans le sujet
+au niveau des vérités d’existence, elle ne procède pas par démonstration d’une identité. Elle ne
+procède pas par… alors, là, on tient quelque chose : elle ne procède pas par démonstration d’une
+identité, même virtuelle. Ce n’est pas ça. Leibniz, [65 :00] il s’exprime comme ça pour qu’on le
+lâche quand on ne comprend pas ce qu’il veut dire. Mais, alors, dans un autre tiroir, il a une autre
+formule à vous donner: alors, c’est quoi ? L’identité, ça régit les vérités d’essence, ça ne régit pas
+les vérités d’existence – tout le temps il dit le contraire, mais ça n’a aucune importance,
+demandez-vous à qui il le dit. Mais alors, c’est quoi? Ce qui l’intéresse au niveau des vérités
+d’existence, ce n’est pas l’identité du prédicat et du sujet, c’est que l’on passe d’un prédicat à un
+autre, d’un autre à un autre, et encore d’un autre à un autre, etc., du point de vue d’une analyse
+infinie, c’est-à-dire du maximum de continuité. En d’autres termes, c’est l’identité qui régit les
+vérités d’essence, mais c’est la continuité qui régit les vérités d’existence. [Pause] [66 :00]
+
+Et qu’est-ce que c’est que le monde, un monde? Un monde est défini par sa continuité. Qu’est-ce
+qui sépare deux mondes incompossibles? C’est le fait qu’il y ait discontinuité entre les deux
+mondes. Qu’est-ce qui définit un monde compossible? C’est la continuité dont il est capable.
+Qu’est-ce qui définit le meilleur des mondes? C’est le monde le plus continu, et Dieu choisit, le
+critère du choix de Dieu, ce sera la continuité, à savoir, de tous les mondes incompossibles les
+uns avec les autres et possibles en eux-mêmes, Dieu fera passer à l’existence celui qui réalise le
+
+                                                                                                      15
+
+maximum de continuité. Bon, pourquoi le péché d’Adam est-il compris dans le monde qui a le
+maximum de continuité? Il faut croire que le péché d’Adam est une formidable connexion, que
+c’est une connexion qui assure des continuités de séries. Pourquoi, par exemple, qu’il y a une
+connexion de continuité directe [67 :00] entre le péché d’Adam et l’incarnation et la Rédemption
+par le Christ ? Alors, là, il y a comme des séries qui vont se mettre à s’emboîter par de là les
+différences de temps et d’espace ; il y a des séries qui vont se mettre à s’emboîter très, très
+bizarrement.
+
+En d’autres termes, dans le cas des vérités d’essence, je démontrais une identité où je faisais voir
+une inclusion; dans le cas des vérités d’existence, je vais témoigner d’une continuité assurée par
+les rapports infiniment petits entre deux éléments. Deux éléments seront en continuité lorsque je
+pourrais assigner un rapport infiniment petit entre ces deux éléments. Vous me direz, mais
+comment tu vas faire ça, assigner un rapport infiniment petit entre deux éléments ? Qu’est-ce que
+ça veut dire, un rapport infiniment petit, alors ? Il faut… Je suis passé de l’idée d’élément
+infiniment petit à un rapport infiniment petit entre deux éléments, ça ne suffit pas, rapport
+infiniment petit. Il ne faut pas lâcher Leibniz. Qu’est-ce que ça veut dire, [68 :00] un rapport
+infiniment petit entre deux éléments ? Ça ne veut rien dire. [Il faut] un effort de plus.
+
+Ça veut dire, supposons, ça veut dire une différence, puisqu’il y a deux éléments, il y a une
+différence entre les deux éléments, oui. Entre le péché d’Adam et la tentation d’Ève, il y a une
+différence; d’accord, il y a une différence. Seulement, voilà, quelle est la formule de la
+continuité? La continuité, c’est quoi ? La continuité, ça serait, et l’on pourrait la définir comme
+l’acte d’une différence en tant qu’elle tend à s’évanouir. La continuité, c’est une différence
+évanouissante. Tiens, un nouveau concept de Leibniz, la différence évanouissante.
+
+Qu’est-ce que ça veut dire qu’il y a continuité entre la séduction d’Ève et le péché d’Adam? [69
+:00] C’est que la différence entre les deux est une différence évanouissante, c’est une différence
+qui tend à s’évanouir. Bon, ça ne s’arrange pas, vous me direz ; on est renvoyé à quoi ? Là, il y a
+un nouveau concept, différence évanouissante. Je dirais donc que, pour le moment, avant le
+dernier effort que nous avons à fournir aujourd’hui, je dirais que les vérités d’essence sont régies
+par le principe d’identité, les vérités d’existence sont régies par la loi de continuité, ou – cela
+revient au même - des différences évanouissantes. Donc entre pécheur et Adam, vous ne pourrez
+jamais démontrer une identité logique, mais vous pourrez démontrer – et le mot démonstration
+changera de sens –, [70 :00] vous pourrez démontrer une continuité, c’est-à-dire une ou des
+différences évanouissantes. [Pause] Si on arrive à comprendre un tout petit peu ça, alors on a
+tout acquis. On aura acquis le premier problème, qu’est-ce qu’une analyse infinie. Une analyse
+infinie, c’est une analyse du continu opérant par différences évanouissantes. [Pause]
+
+Là-dessus, vous retenez ça dans un coin de votre tête, et il reste juste à dire, bon, mais ça veut
+dire quoi, continuité, différences évanouissantes ? Tout le monde sent, en effet, que ça renvoie à
+une certaine symbolique, symbolique du calcul différentiel ou de l’analyse infinitésimale. [71
+:00] Mais c’est en même temps – là, c’est précisément le cas de création qui se fait deux fois,
+simultanément – c’est en même temps que Newton et que Leibniz montent le calcul différentiel.
+Or, l’interprétation du calcul différentiel par les catégories de différences évanouissantes, c’est le
+propre de Leibniz. Chez Newton, interprétation du calcul, alors que tous les deux, là vraiment,
+l’inventent en même temps, l’armature logique et théorique est très différente chez Leibniz et
+
+                                                                                                   16
+
+chez Newton, et le thème de la différence infiniment petite conçue comme… ou du moins, la
+différentielle conçue comme différence évanouissante, c’est proprement du Leibniz, et Leibniz y
+tient énormément, et il y a une grande polémique entre les newtoniens et Leibniz. [72 :00]
+
+Donc, notre question-là se rétrécit, devient : qu’est-ce que c’est que cette histoire de différence
+évanouissante? -- Est-ce que quelqu’un a de la craie ? J’ai un besoin urgent de la craie, un petit
+bout de craie [Réponses inaudibles] Il y en a là ? Ah bon, ah bon, ah bon. J’espérais en même
+temps que vous diriez, il n’y en a pas [Rires] … Est-ce que quelqu’un a un torchon ? [Bruits
+divers] Si on n’a pas de torchon, je ne peux pas… Ah bon, il y a tout. -- Alors, écoutez-moi.
+Voyez ce symbole – je parle vraiment pour ceux… qui… Vous n’avez besoin de rien savoir, de
+rien, rien, rien. … Voyez ce petit symbole, que vous l’avez rencontré dans le dictionnaire. –
+[Pause ; Deleuze s’adresse à quelqu’un tout près] Non, mais, je suis pour, je suis pour ; si vous
+en avez tous assez et [73 :00] que vous partiez, je préférerais que vous le fassiez en masse… [Un
+étudiant : On fait une pause ? Cinq minutes ? ] Vous êtes fatigués avant… Alors, moi je reste
+comme ça… [Rires]
+
+Encore une minute avant qu’on se repose ; je dis juste, calcul différentiel, ça veut dire quoi, ce
+calcul qui prétend manier l’infiniment petit ? Vous me direz aujourd’hui, aujourd’hui,
+aujourd’hui, qu’est-ce qui se passe ? Les équations différentielles, c’est fondamental. Il n’y a pas
+de physique sans équations différentielles. Même la physique comme science, elle a existé en
+partie au dix-septième siècle, et du Moyen Age, parce qu’il y avait des antécédents du calcul
+différentiel ; il y avait une espèce d’équivalent, il y avait des calculs d’exhaustion. Mais la
+physique scientifique n’a existé que par le calcul d’exhaustion et par le calcul différentiel.
+Aujourd’hui, il n’y a pas tellement de problèmes parce que… -- oh, il n’y en a plus, je ne sais pas
+– [74 :00] Mathématiquement, le calcul différentiel a aujourd’hui, s’est purgé de toute
+considération de l’infini, tout simple, mais ça s’est fait très tardivement, ça s’est fait à la fin du
+XIXe siècle, l’espèce de statut axiomatique du calcul différentiel où il n’est absolument plus
+question d’infini. Mais ça s’est fait en même temps, ça ne me sert pas tellement parce que
+comme la mathématique retrouve le problème de l’infini dans la théorie des ensembles, on ne
+peut pas dire que c’est gagné.
+
+Mais, si je me place au moment de Leibniz, qu’est-ce que c’est ? À quoi ça sert, le calcul
+différentiel ? Pour bien comprendre, il y a des choses qu’il faut savoir à tout prix, parce que
+même si vous ne savez rien en mathématiques, mettez-vous à la place d’un mathématicien – c’est
+très difficile pour lui -- qu’est-ce qu’il va faire lorsqu’il se trouve devant des grandeurs ou des
+quantités à puissances différentes, et des équations dont les variables sont à des différentes
+puissances, je veux dire, une équation [75 :00] du type ax2 + y? Ax2 + y, [Deleuze fait un dessin
+à la craie] vous avez une quantité à la puissance 2 et une quantité à la puissance 1. Comment
+comparer? C’est aussi dur. Vous savez tous l’histoire des commensurables et des quantités non
+commensurables. Là, au XVIIe siècle, les quantités de puissances différentes ont reçu un mot
+voisin: c’est les quantités incomparables. Comment comparer une quantité à la puissance 2 à une
+quantité à la puissance 1 ? [Il n’y a] pas de moyen. Toute la théorie des équations, au XVIIe
+siècle, se heurte à ce problème qui est un problème le plus fondamental, même dans l’algèbre la
+plus simple: à quoi ça sert le calcul différentiel? Pourquoi il est inventé ? Qu’est-ce qu’ils font,
+ceux qui l’inventent, Newton, Leibniz ? [76 :00]
+
+                                                                                                    17
+
+Le calcul différentiel vous permet de procéder à une comparaison directe des quantités de
+puissances différentes. Bien plus, il ne sert que là. Il n’y a pas de calcul différentiel appliqué à
+des quantités du même puissance. Le calcul différentiel -- il n’y a pas besoin de comprendre quoi
+que ce soit pour retenir ça et pour même pressentir ça -- le calcul différentiel trouve son niveau
+d’application quand vous vous trouvez devant des incomparables, c’est-à-dire devant des
+quantités à puissances différentes. Pourquoi? Vous avez, je reprends mon exemple, ax2 + y,
+supposons que par des moyens quelconques, vous extrayez delta x et delta y, dx et dy. dx, c’est
+la différentielle de x, dy c’est la différentielle de y. Voyez ? [77 :00] Qu’est-ce que c’est? On le
+définira verbalement, par convention : on dira que dx ou dy, c’est la quantité infiniment petite
+supposée être ajoutée ou soustraite de x et de y. En voilà une invention! La quantité infiniment
+petite, c’est-à-dire que c’est la plus petite variation de la quantité considérée. Et quoi que vous
+disiez, si vous dites, ah bon, alors c’est un dix millionième, c’est encore plus petit. Elle est,
+comme on dit, inassignable ; il ne faut pas essayer de l’assigner, elle est inassignable. Elle est par
+convention inassignable. Vous me direz, alors quoi, dx = quoi ? Eh ben, dx = 0 ; dy = quoi ? [78
+:00] dx = 0 en x, par rapport à x ; c’est la plus petite quantité, n’est-ce pas, dont puisse varier x,
+et ça égale zéro. dy = 0 par rapport à y. Comprenez ?
+
+Commence à prendre corps la notion de différence évanouissante. C’est une variation ou une
+différence, dx ou dy: elle est plus petite que toute quantité donnée ou donnable. C’est la
+différence évanouissante, plus petite que toute quantité donnable. Voilà, c’est un symbole
+mathématique ; bon, ils ont d’autres symboles. En un sens, c’est fou ; en un sens c’est opératoire.
+C’est opératoire de quoi, puisque c’est égal à 0 ? Voilà ce qui est formidable dans le symbolisme
+du calcul différentiel: dx = 0 par rapport à x, la plus [79 :00] petite différence, le plus petit
+accroissement dont soit capable la quantité x ou la quantité y inassignable, inférieur à toute
+quantité donnée ; c’est de l’infiniment petit.
+
+Bon, d’accord, dx = 0 par rapport à x, dy = 0 par rapport à y ; seulement, miracle ! dy sur dx
+n’est pas égal à zéro, et bien plus: dy sur dx a une quantité finie parfaitement exprimable. C’est
+des relatifs uniquement relatifs. dx n’est rien par rapport à y, dy n’est rien par rapport à x, mais
+voilà que dy sur dx c’est quelque chose. Stupéfiant, admirable, grande découverte mathématique.
+Bon, pourquoi ça ? [80 :00] Comment ça c’est quelque chose ? C’est surement quelque chose
+parce que, vous vous rappelez l’exemple dont je suis parti, ax2 + y, ax2 + by, mettons, ax2 + by
++ c, par exemple vous avez deux puissances dont vous avez des quantités incomparables: y2 et x.
+Si vous considérez le rapport différentiel, c’est pour ça que la différentielle n’a pas de sens ; il
+n’y a que des rapports différentiels. La différentielle, par nature, c’est dx ou dy, c’est 0,
+complètement inassignable. Mais le rapport, dy sur dx, n’est pas 0 ; lui, il est déterminé, il est
+déterminable. [Pause] [81 :00]
+
+Alors, le rapport dy sur dx vous donne le moyen de comparer les deux quantités incomparables
+qui étaient à des puissances différentes car il opère une dépotentialisation, comme on dit, une
+dépotentialisation des quantités. [Pause] Donc il vous donne un moyen direct de confronter les
+quantités incomparables à puissances différentes. Dès ce moment-là, toutes les mathématiques,
+tout l’algèbre, toute la physique s’inscriront dans le symbolisme du calcul différentiel.[9] Il n’y a
+pas d’équations en physique qui ne soient une équation différentielle. C’est avec le calcul
+différentiel, c’est très curieux, c’est avec le calcul différentiel, qui est le symbolisme le plus
+artificiel qui soit, parce qu’il consiste à mettre en rapport des zéros, [82 :00] il consiste à mettre
+
+                                                                                                   18
+
+en rapport des zéros absolus de telle manière que le rapport de ces zéros absolus soit indéterminé
+et se distingue de zéro.
+
+Eh bien, eh bien, quand vous disposez d’une telle merveille, c’est très curieux parce qu’un
+symbole complètement artificiel, dx ou dy, est précisément rendu possible, cette espèce de
+compénétration de la réalité physique et du calcul mathématique. C’est-à-dire on ne peut pas s’en
+tirer simplement en disant que c’est une simple convention. Car c’est sous les conditions de cette
+convention que la réalité physique et le calcul mathématique deviennent adéquats l’un et l’autre
+au point, par exemple, où les phénomènes de la chaleur, les phénomènes de la chaleur quand ils
+sont découverts au XIXe siècle, ne pourront l’être que dans un ensemble d’équations
+différentielles.
+
+Voilà, alors [83 :00] on arrive au dernier point, le plus simple : il faudrait montrer comment ça
+marche. Heureusement, [il y a] un texte minuscule de Leibniz -- pas difficile pour nous, donc on
+pourra tout comprendre -- qui s’intitule, qui est tiré des Écrits mathématiques de Leibniz – alors
+j’ai préféré choisir un texte qui n’était pas philosophique – c’est trois pages, une petite note de
+trois pages qui s’appelle «Justification du calcul des infinitésimales » -- c’est-à-dire les calculs
+différentiels – « Justification du calcul des infinitésimales par celui de l’algèbre ordinaire». Alors
+ça, c’est qu’il faut que je vous explique parce que vous comprendrez tout. Ce n’est pas que ce
+soit la base du calcul différentiel ; c’est bien un cas où Leibniz veut montrer que le calcul
+différentiel, eh ben, d’une certaine manière, il a forcément déjà fonctionné avant d’être
+découvert, et qu’on ne pouvait pas faire autrement, qu’on ne pouvait pas faire autrement même
+au niveau [84 :00] de l’algèbre la plus ordinaire.
+
+Alors comment il va montrer ça ? -- Vous voulez un peu de repos avant cet effort, ou bien… ?
+Un tout petit peu ? … [On lui pose une question de référence] Quoi ? oh, là, là, les Écrits
+mathématiques, tome IV, page 104, l’édition de Gerhardt, la grande édition de Leibniz ; c’est
+faite évidemment par un Allemand. Elle comprend un grand nombre de volumes, et c’est
+l’édition Gerhardt [Deleuze épèle le nom]… Donc, c’est les Écrits mathématiques, tome IV, page
+104 … [Bruits des étudiants] 104. Bien, reposez-vous un petit peu… [Interruption de
+l’enregistrement] [1 :24 :51] [10]
+
+Alors, alors… [Bruit des chaises et des étudiants] [85 :00] [On entend la voix de Deleuze qui
+s’est éloigné de sa chaise et s’est placé devant le tableau ; donc, pause, plusieurs commentaires
+entre Deleuze et quelques étudiants] Alors, vous voyez, vous voyez, vous comprenez… Voici
+une ligne droite [Rires] qui est perpendiculaire au sol ; je la nomme – il faut que je garde les
+mêmes lettres que lui ; c’est son dessein à lui – [86 :00] je la nomme A-X, d’accord ? A-X.
+J’assigne deux points que je nomme grand A et grand X. Ce n’est pas trop compliqué….
+[Quelques commentaires indistincts de Deleuze] … Voilà, j’ai les deux points, j’ai assigné deux
+points. Je considère une autre droite… [Pause] que j’appelle – qu’est-ce qu’il dit, lui ? – mais
+oui, c’est E-Y ; j’assigne deux points E et Y, [87 :00] [Quelques commentaires indistincts de
+Deleuze] [Pause] De la ligne E-Y, je tire à partir d’un point que je nomme précisément [mot
+indistinct] une droite perpendiculaire, à A-X ; même chose [Pause] je tire la perpendiculaire, à
+A-X ; vous voyez ? [Pause] Compris ? [Quelques commentaires indistincts de Deleuze] J’appelle
+E-A [Pause] [88 :00] J’appelle E-A, j’appelle, oui, le point de rencontre des deux droites, je
+l’appelle grand C, je l’appelle C, le segment A-C.
+
+                                                                                                      19
+
+J’appelle… [Quelques commentaires indistincts de Deleuze] j’appelle X, le segment A-X. Voilà
+tout ce que j’ai, j’écris C-E. Il ne m’échappe pas que les deux triangles – [89 :00] un rectangle,
+[mot indistinct], un perpendiculaire, l’angle droit – que ces deux triangles sont semblables. Je
+peux donc écrire C-E = [mot indistinct] [Rires] … petit y. Alors, [Deleuze se parle en ajoutant
+des lettres au dessein] Donc C-X, c’est X moins C [90 :00] … je veux dire, X moins C sur y
+[Deleuze répète cette formule], X moins C sur y = C sur [mot indistinct] en vertu de la similitude
+des deux triangles.
+
+Alors, c’est très simple. Supposez maintenant que E-Y se déplace en restant parallèle à soi-même
+[Deleuze répète cette phrase] [Pause] Qu’est-ce qui va se passer ? [91 :00] C’est facile : je peux
+dire aussi bien que grand E et grand C tendent à coïncider en A, ou que petit e et petit c tendent à
+diminuer de plus en plus [Pause]. Voilà. A la limite, à la limite, je n'ai plus que cette figure-là : E
+est tombé en A… E, X, Y… [92 :00] e et c ont diminué à l’infini ; grand E et grand C coïncident
+en A. Qu’est-ce qui se passe à ce moment-là ? Ce qui se passe, c’est que c a diminué à l’infini au
+point que C coïncide avec A ; en d’autres termes, X moins C = X, dans ce cas. [Pause] Quand E
+et C coïncident avec A, je peux écrire X moins C = X… [Fin de la cassette] [1 :32 :54]
+
+Partie 3
+
+… [Deleuze se parle au tableau, mots indistincts] [93 :00] [Pause] C = 0, E = 0. Je peux donc
+écrire 0 sur 0 = X sur Y. [Pause] Et pourtant, ce ne sont pas, comme il dit, des zéros absolus.
+Pourquoi ? Parce que si c’étaient des zéros absolus, x serait égal à y, et x n’est pas égal à y, ni
+dans un cas ni dans l’autre puisque ce serait contraire aux données mêmes de la construction du
+problème. Vous avez le point en rectangle, x n’est pas égal à y. Dans la mesure où [94 :00] vous
+pouvez écrire pour ce cas x sur y égale c sur e, c et e sont des zéros. Ce sont, comme il dit dans
+son langage, ce sont des riens, mais ce ne sont pas des riens absolument, ce sont des riens
+respectivement. A savoir ce sont des riens mais qui conservent la différence du rapport. Donc c
+ne devient pas égal à e puisqu’il reste proportionnel à x sur y et que x n’est pas égal à y. Bon,
+c’est très simple. C’est ce qu’on appelle, c’est une justification, si vous voulez, conformément au
+titre, c’est une justification du vieux calcul différentiel, et l’intérêt de ce texte très simple, c’est
+que c’est une justification par l’algèbre la plus facile, par l’algèbre ordinaire, c’est-à-dire que
+cette justification ne met rien en cause de la spécificité du calcul différentiel. [95 :00]
+
+Alors, le texte est très beau ; je le lis lentement puisque vous avez déjà compris : [Deleuze lit en
+commentant presque chaque phrase] «Donc, dans le cas présent, » -- donc, dans le cas présent,
+c’est-à-dire si la droite, si l’oblique tend vers A dans son déplacement – « Or dans le cas présent,
+il y aura x moins c = x. » -- Alors ça coïncide en A, et vous avez x moins c = x puisque c s’est
+annulé – « Vous avez x moins c = x ; supposons que ce cas est compris sous la règle générale » --
+c’est déjà une phrase très importante – « Supposons que ce cas » -- où il n’y a plus qu’un seul
+triangle -- « est compris sous la règle générale » -- où il y avait deux triangles, vous voyez ? [96
+:00] C’est une pure supposition ; c’était comme ça, une hypothèse conventionnelle – «
+Supposons que ce cas est compris sous la règle générale et néanmoins c et e » -- petit c et petit e
+– « ne seront point des riens absolument [Deleuze répète ces mots] puisqu’elles gardent ensemble
+la raison de [grand] Cx à [grand] Xy, » -- c’est-à-dire la raison de grand Cx, c’est-à-dire x [mot
+indistinct] à y – « ou celle qui est entre le sinus entier ou rayon et entre la tangente qui convient à
+l’angle en c, » -- c’est plus difficile [ici, Deleuze lit assez rapidement] « lequel angle, nous avons
+
+                                                                                                    20
+
+supposé, est toujours demeuré le même. Car si [petit] c et [petit] e étaient des riens absolument
+dans ce calcul réduit au cas de la coïncidence des points [grand] C, [grand] E et [grand] A,
+comme un rien vaut l’autre, [97 :00] alors c et e seraient égales, » -- si petit c et petit e, écoutez
+bien en fonction de la figure, si petit c et petit e étaient des riens absolument dans ce calcul réduit
+au cas de la coïncidence des points [grand] C, [grand] E et [grand] A – « comme une fois dit que
+un rien vaut l’autre, » -- un rien vaut un autre rien – « petit e serait égal, et de l’équation ou
+analogie x sur y = C sur E serait fait x sur y = 0 sur 0 = 1, c’est-à-dire qu’on aurait x = y ce qui
+est une absurdité puisque nous avons… » -- là-dessus il y a de l’eau qui est tombé sur ma page,
+alors je ne sais plus ce qu’on, ce que nous avons, donc je ne peux pas lire – « Donc, donc petit c
+et petit e … » -- à nouveau, il y a une coupure ; c’est comme ça les manuscrits, qu’est-ce que
+vous voulez ? [98 :00] [Deleuze faits quelques bruits tout en cherchant où continuer sa lecture]
+
+Voilà, « Ainsi l’on trouve dans le calcul de l’algèbre les traces du calcul transcendant des
+différences » -- c’est-à-dire du calcul différentiel -- « et ses mêmes singularités dont quelques
+savants se font des scrupules, et même le calcul d’algèbre ne saurait s’en passer si il doit
+conserver ses avantages dont un des plus considérables est la généralité qui lui est due afin qu’il
+puisse comprendre tous les cas.» -- Or le texte va se continuer. Finalement, il ne va pas donner
+beaucoup d’explications. – « C’est exactement de cette manière que je peux considérer que le
+repos est un mouvement infiniment petit, » -- le repos est un mouvement infiniment petit – « ou
+que le cercle est la limite d’une série infinie de polygones dont les côtés [99 :00] augmentent à
+l’infini. »
+
+Qu’est-ce qu’il y a de comparable dans tous ces exemples? Il faut considérer le cas où il y a un
+seul triangle comme le cas extrême de – alors, là, ça devient très, très important – comme le cas
+extrême de deux triangles semblables opposés par le sommet. Alors, à cet égard, le texte est
+limpide. Ce qu’il a démontré dans ce texte – il ne le dit pas formellement, mais ça me paraît
+évident – ce qu’il a montré dans ce texte, c’est comment et dans quelles circonstances un triangle
+peut être considéré comme le cas extrême de deux triangles semblables opposés par le sommet.
+Peut-être vous sentez que là, [100 :00] on est peut-être en train de donner à «virtuel» le sens que
+l’on cherchait pour arranger l’ensemble des textes de Leibniz. Je pourrais dire que dans le cas de
+ma seconde figure où il n’y a qu’un triangle, l’autre triangle est là mais virtuellement. Il est là
+virtuellement puisque a contient virtuellement e et c distincts de a. Pourquoi est-ce que e et c
+restent-ils distincts de a lorsqu’ils n’existent plus ? e et c restent distincts de a pour une raison
+très simple : c’est qu’ils interviennent dans un rapport qui lui, continue à exister lorsque les
+termes se sont évanouis. [Pause] C’est de cette même manière que le repos sera considéré
+comme le cas particulier d’un mouvement, à savoir [101 :00] un mouvement infiniment petit.
+Dans ma seconde figure, xy, je dirais, le triangle… je dirais -- à la fois je prends des termes qui
+sont là de Leibniz, mais empruntés à un autre texte – je dirais que ce n’est pas du tout que le
+triangle grand E, grand A, grand C, plutôt grand C-grand E-grand A, ce n’est pas du tout que le
+triangle ait disparu au sens commun du mot, mais il faut dire à la fois qu’il est devenu
+inassignable, -- c’est curieux, cette notion d’inassignable -- et pourtant il est parfaitement
+déterminé puisque dans ce cas c = 0, e = 0, mais c sur e n’est pas égal à zéro. c sur e est un
+rapport parfaitement déterminé égal à x sur y. Donc il est déterminable [102 :00] et déterminé,
+mais il est inassignable. De même le repos est un mouvement parfaitement déterminé, mais c’est
+un mouvement inassignable; de même le cercle est un polygone inassignable et pourtant
+parfaitement déterminé.
+
+                                                                                                       21
+
+Vous voyez ce que veut dire virtuel, encore une fois. Je dirais, le virtuel ne veut plus du tout dire
+l’indéfini – et là tous les textes de Leibniz peuvent être récupérés. Il faisait une opération
+diabolique: il prenait le mot virtuel, sans rien dire – c’est son droit –, sans rien dire ; il lui donnait
+une nouvelle acceptation tout à fait rigoureuse et tout à fait nouvelle, seulement il ne le dira pas,
+il le dirait dans les textes. Ça ne voulait plus dire qui va à l’indéfini, ça voulait dire inassignable
+et pourtant déterminé. Et ça me semble une conception du virtuel à la fois très, très nouvelle et
+très [103 :00] rigoureuse. Encore fallait-il avoir la technique et les concepts pour que prenne un
+sens cette expression un peu mystérieuse au début: inassignable et pourtant déterminé. Or encore
+une fois, c’est inassignable puisque c’est devenu égal à zéro, et puisque e est devenu égal à zéro.
+C’est donc inassignable. Et pourtant c’est complètement déterminé puisque c sur e, à savoir 0 sur
+0, n’est pas égal à zéro ni à 1, c’est égal à x sur y. Voyez ? Là, je trouve, il a vraiment un génie
+de prof en plus, parce que, en effet, preuve qu’il réussit son coup, il savait, par exemple,
+comment expliquer à quelqu’un qui n’a jamais fait que de l’algèbre élémentaire ce que c’est que
+le calcul différentiel. [104 :00] Il ne présuppose aucune notion du calcul différentiel, et le calcul
+différentiel, je précise, ça serait bien autre chose, ça serait bien autre chose à manier.
+
+Or qu’est-ce que j’en tire pour mon compte ? Tout ce qu’il nous fallait, il ne nous fallait pas
+tellement plus, c’est que l’idée qu’il y a continuité dans le monde, ça prend quand même un sens
+rudement plus concret. Il ne s’agit plus de dire simplement -- et là, il me semble aussi qu’il y a
+trop de commentateurs de Leibniz qui font de la théologie plus que Leibniz n’en demande: ils se
+contentent de dire que, eh ben, oui, l’analyse infinie, c’est dans l’entendement de Dieu. -- Et
+c’est vrai, c’est vrai, d’après la lettre des textes, c’est dans l’entendement de Dieu. Mais, nous, il
+se trouve qu’on a l’artifice, avec le calcul différentiel, on a l’artifice non pas de nous égaler à
+l’entendement de Dieu – chose évidemment impossible -- mais le calcul différentiel nous donne
+un artifice tel que nous pouvons opérer une approximation bien fondée de ce qui se passe dans
+l’entendement de Dieu. [105 :00] Qu’est-ce qui se passe dans l’entendement de Dieu tel qu’on
+peut l’approcher grâce à ce symbolisme du calcul différentiel, puisque après tout, Dieu aussi
+opère par symbolique, pas la même, mais il opère par les symboles ? Eh ben, cette approximation
+de la continuité, c’est quoi ? C’est que le maximum de continuité est assuré lorsqu’un cas étant
+donné, le cas extrême ou [Pause]… le cas extrême ou contraire [Pause] peut être d’un certain
+point de vue considéré comme inclus [Pause] [106 :00] dans le cas d’abord défini.
+
+Vous définissez le mouvement, peu importe ; vous définissez le polygone, peu importe ; vous
+considérez le cas extrême ou contraire, à savoir le repos, le cercle qui est dénué d’angle. [Pause]
+La continuité, et c’est par là qu’il y a le labyrinthe, c’est l’instauration du chemin selon lequel, ou
+suivant lequel le cas extrinsèque, le repos contraire du mouvement, le cercle contraire du
+polygone, tout ce que vous voulez, le cas extrinsèque peut être – alors là, tout doit s’éclairer
+comme dans un coup de foudre pour vous – je dirais, à la lettre, il y a continuité lorsque le cas
+extrinsèque peut être considéré [107 :00] comme inclus dans la notion du cas intrinsèque.
+Simplement il vient de montrer comment et pourquoi. Vous retrouvez exactement la formule de
+la prédication: le prédicat est inclus dans le sujet.
+
+Le cas extrinsèque, encore une fois, comprenez bien : j’appelle «cas général intrinsèque» le
+concept de mouvement qui recouvre tous les mouvements. J’appelle «cas extrinsèque», par
+rapport à ce premier cas, le repos ou bien le cercle par rapport à tous les polygones, ou bien le
+triangle unique par rapport à tous les triangles combinés. Je me charge de construire un concept
+
+                                                                                                     22
+
+[108 :00] différentiel qui implique précisément tout le symbolisme différentiel, je me charge de
+construire un concept qui, à la fois, correspond au cas général intrinsèque et qui, pourtant,
+comprend aussi le cas extrinsèque. Je dirais, là, si j’y arrive, je peux dire qu’en toute vérité le
+repos, c’est un mouvement infiniment petit, tout comme je dis que mon triangle unique, c’est
+[Pause] l’opposition de deux triangles semblables opposés par le sommet, simplement, dont l’un
+des deux triangles est devenu inassignable. A ce moment-là, il y a continuité du cercle au
+polygone, et du polygone au cercle, il y a continuité du repos au mouvement, il y a continuité des
+deux triangles semblables opposés par le sommet à un seul triangle.
+
+Parenthèse : toute la géométrie, et là, croyez-moi, [109 :00] surtout que, à propos de l’État, je ne
+sais pas si vous vous rappelez, j’ai fait une allusion, je n’étais pas très long là-dessus, j’aurais dû
+l’être parce que ça serait… Quand au XIXe siècle, en plein XIXe siècle, un très grand
+mathématicien, qui s’appelle [Jean-Victor] Poncelet, fera, assoira la géométrie projective en son
+sens le plus moderne, il sera directement leibnizien.[11] La géométrie projective tout entière est
+fondée sur précisément ce qu’on appelle, ce que Poncelet et les contemporains appelaient un
+axiome de continuité selon lequel, tout simple, si vous prenez, par exemple, un arc de cercle
+coupé par une droite en deux points, si vous faites remonter la droite, il y a un moment où elle ne
+touche plus l’arc de cercle qu’en un point, c’est la tangente, et un moment où elle sort du cercle,
+elle ne le touche plus en aucun point. L’axiome de continuité de [110 :00] Poncelet réclame la
+possibilité, encore une fois, de traiter le cas de la tangente comme un cas extrême, à savoir que
+ce n’est pas qu’un des points ait disparu, c’est que les deux points sont toujours là, mais virtuels,
+et quand tout sort, ce n’est pas que les deux points aient disparu, ils sont toujours là, mais les
+deux sont virtuels. C’est l’axiome de continuité qui permet précisément tout un système de
+projection, tout un système dit projectif. Bon, ça, les mathématiques en sortiront, elles garderont
+ça intégralement – c’est une espèce de technique très, très formidable.
+
+Là, ils se donnent le moyen, mais alors, vous voyez sur quoi on peut presque terminer notre rude
+problème ; c’est quand même marrant. Enfin, je ne sais pas si vous allez être très sensible, mais il
+y a quelque chose d’éperdument comique là-dedans, mais ça ne va pas du tout gêner Leibniz, pas
+du tout. [111 :00] Il me semble, là aussi, que les commentateurs, ils se heurtent… -- mais j’ai tort
+de dire ça, en tout cas, je n’en sais rien -- que c’est très curieux, très, très curieux. Car on patauge
+depuis le début dans un domaine où il s’agit de montrer que les vérités d’existence, ce n’est pas
+la même chose que les vérités d’essence ou vérités mathématiques. Et pour le montrer, ou bien
+c’est des propositions générales pleines de génie chez Leibniz, mais qui nous laissent comme ça -
+- l’entendement de Dieu, l’analyse infinie – et alors, c’est quoi tout ça? Et enfin quand il s’agit de
+montrer en quoi les vérités d’existence sont irréductibles aux vérités mathématiques, quand il
+s’agit de le montrer concrètement, tout ce que Leibniz dit de convaincant, c’est mathématique.
+C’est rigolo, non? [Silence, et rires supprimés]
+
+Alors, qu’est-ce qu’il a ? Mais vous comprenez, si vous comprenez ça, vous aurez compris
+comment, qu’est-ce qu’il répondrait. Voilà, un objecteur de service dirait à Leibniz [112 :00] –
+d’ailleurs tout lui a été dit ; qu’est-ce qu’il a subi, Leibniz -- un objecteur viendrait et lui dirait,
+oh, mais Leibniz dit, oh, ça ne va pas la tête ? tu nous annonces que tu nous parles de
+l’irréductibilité des vérités d’existence, et cette irréductibilité, tu ne peux la définir concrètement
+qu’en utilisant des notions purement mathématiques. Alors, voilà ce que répondrait Leibniz. Il
+répondrait – ça dépendrait de son humeur – [Rires] il répondrait, comprenez bien, parce que c’est
+
+                                                                                                        23
+
+normal parce que c’est très difficile : voilà, Leibniz en toutes sortes de textes, dit beaucoup, on
+m’a toujours fait dire que le calcul différentiel désignait une réalité. Il dit, Je ne l’ai jamais dit; le
+calcul différentiel, c’est une convention, simplement, comme il dit, c’est une convention bien
+fondée. C’est une notion [113 :00] déjà pas commode. Donc il tient énormément -- et ça, tous les
+textes de Leibniz ont toujours été très précis là-dessus -- le calcul différentiel n’est qu’un
+système symbolique, il ne désigne pas une réalité, il désigne une manière de traiter la réalité.
+
+Mais, ça veut dire quoi, une convention bien fondée? Ce n’est pas par rapport à la réalité que
+c’est une convention, c’est par rapport aux mathématiques. Je veux dire, c’est là le contresens à
+ne pas faire. Convention, d’accord. Le calcul différentiel, c’est une convention, c’est du
+symbolisme, mais par rapport à quoi ? C’est du symbolisme par rapport à la réalité
+mathématique, pas du tout par rapport à la réalité réelle. C’est par rapport à la vérité
+mathématique que le système différentiel, que le calcul différentiel est une fiction. [114 :00] Il
+emploie aussi bien le mot «fiction bien fondée». C’est une fiction bien fondée par rapport à la
+réalité des mathématiques. En d’autres termes, le calcul différentiel mobilise des concepts qui ne
+peuvent pas se justifier du point de vue de l’algèbre classique, c’est évident, ou du point de vue
+de l’arithmétique, c’est évident. Des quantités qui ne sont pas rien et qui sont égales à zéro, c’est
+du non-sens arithmétique. Donc ça n’a ni réalité arithmétique, ni réalité algébrique ; c’est une
+fiction.
+
+Donc, à mon avis, il ne veut pas dire du tout que le calcul différentiel ne désigne rien de réel, il
+l’aurait dit. Il veut dire que le calcul différentiel est irréductible à la réalité mathématique. C’est
+donc une fiction en ce sens, mais précisément en tant qu’il est une fiction, il peut nous faire
+penser l’existant, en tant qu’il est une fiction par rapport à la réalité mathématique. [115 :00] Il
+peut nous faire penser ce qui est irréductible à la réalité mathématique, à savoir l’existant dans sa
+réalité. En d’autres termes, le calcul différentiel est une espèce d’union des mathématiques et de
+l’existant, à savoir: c’est la symbolique de l’existant, et c’est parce qu’il est une fiction bien
+fondée par rapport à la vérité mathématique qu’il est dès lors un moyen d’exploration
+fondamental et réel de la réalité d’existence. [Pause] Dès lors, vous voyez ce que veut dire
+«évanouissant», puisque c’était mon point de… [départ] «Différence évanouissante», c’est
+lorsque le rapport continue [116 :00] alors que les termes du rapport se sont évanouis. Le rapport
+c sur e continue alors que grand C et grand E se sont évanouis, c’est-à-dire coïncident avec grand
+A. Vous avez donc construit une continuité par le calcul différentiel.
+
+Et là, Leibniz devient beaucoup plus fort, pour nous dire: eh ben, voilà, comprenez que dans
+l’entendement de Dieu – là, alors, il peut vraiment refaire de la théologie avec [mots indistincts]
+– il peut nous dire, comprenez, dans l’entendement de Dieu entre le prédicat pécheur et la notion
+d’Adam, il y a une continuité. Il y a une continuité par différence évanouissante au point que
+quand il crée le monde, Dieu ne fait que calculer. [117 :00] Et quel calcul! Évidemment pas un
+calcul arithmétique, il n’a pas besoin de le dire. Alors là-dessus, il peut osciller aussi ; il oscillera
+entre deux explications.
+
+Bref, Dieu fait le monde en calculant. Il y a la formule célèbre de Leibniz, en Latin, en Latin
+c’est plus joli ; c’est beaucoup plus jolie, mais en français, vous la préférez en français, ce n’est
+pas mal : Dieu calcule, le monde se fait, Dieu calcule, le monde se fait. Voilà, admirez la
+nécessité de, je crois, tout confondre dans la philosophie si vous aimez assez la philosophie.
+
+                                                                                                    24
+
+L’idée d’un Dieu joueur – et c’est pénible dans les textes parfois parce qu’il y a trop de mélanges
+-- l’idée d’un Dieu joueur, on la trouve partout. Si vous dites « Dieu fait le monde en jouant »,
+[118 :00] tout le monde a dit ça. Ce n’est pas très intéressant, très bien, on peut toujours le dire,
+mais ça a toujours été dit ça. Et ça ne veut jamais dire la même chose. Quand quelqu’un vous dit,
+« le monde n’est qu’un jeu de Dieu », « Dieu fait le monde en jouant », il ne faut pas lâcher,
+quelqu’un qui vous donne un secret aussi important. Il ne faut pas le lâcher ; il faut lui dire, «
+mais quel jeu ? » Les jeux, ça ne se ressemble pas.
+
+Il y a un texte célèbre d’Héraclite ; alors là, on peut toujours en parler parce que quand c’est des
+petits bouts de phrases. Alors, il est question de l’enfant joueur qui vraiment constitue le monde.
+Il joue, mais à quoi? Ils jouent à quoi, les Grecs et les enfants grecs? Ils jouent à quoi ? Alors, il
+y a des éditions qui disent, « au tric-trac » ; il y a d’autres éditions d’Héraclite qui disent « au
+palais », « palais », c’est un autre jeu, bon. [119 :00] Ils peuvent dire ça, mais Leibniz ne dirait
+pas ça. Qu’est-ce qu’il dit quand il dit « Dieu … » -- Quelle heure il est ? [Réponse] Une heure ?
+Oo, là, là ! Vous n’en pouvez plus ! Eh ben, j’ai presque fini. – Il ne dit pas ça, Leibniz.
+
+Quand il s’explique sur le jeu, il prend deux explications. -- Vous allez voir pourquoi ça termine
+notre étude aujourd’hui – Il lance… Il avait trouvé plein de trucs dans un domaine, dans un petit
+domaine de mathématiques tout à fait compliqué. Le domaine de mathématiques, c’est les
+problèmes de pavage, à cheval sur les mathématiques et l’architecture. Les problèmes de pavage,
+ce n’est pas rien, les problèmes de pavage ; ça doit intéresser tout le monde, les problèmes de
+pavage. Une surface étant donnée, avec quelle figure la remplir complètement? Bien plus, alors,
+problème plus compliqué: si vous prenez [120 :00] une surface rectangulaire et que vous voulez
+la paver avec des cercles, vous ne la remplissez pas complètement. Avec des carrés, est-ce que
+vous la remplissez complètement? Ça dépend de la mesure. Avec des rectangles? Des rectangles
+égaux ou pas égaux? Le problème va se compliquer : à supposer deux figures, lesquelles se
+combinent pour remplir complètement un espace? Si vous voulez paver avec des cercles, avec
+quelle autre figure vous comblerez les vides? Très intéressant, ça ; on peut prévoir des choses, il
+y a des formules, il y a plein, plein de choses. Ou bien vous consentez à ne pas remplir tout ;
+voyez, c’est très lié avec le problème de la continuité. Mais, dans quels cas et avec quelles
+figures et quelles combinaisons de figures différentes arriverez-vous à remplir le maximum
+possible? [121 :00] Ça met en jeu des incommensurables, ça met en jeu des incomparables, tout
+ça – ça le passionne, les problèmes de pavage.[12]
+
+Lui, quand il dit que Dieu fait exister et choisit le meilleur des mondes possibles, on a vu ce qu’il
+était en train de… ça, on verra cela plus tard parce que c’est tellement compliqué, mais on a déjà,
+on devance, on comprend Leibniz avant qu’il n’ait parlé maintenant parce que, qu’est-ce qu’il est
+en train de dire, le meilleur des mondes possibles ? Ça a été la crise du leibnizianisme, ça a été le
+retournement, l’anti-leibnizianisme généralisé du XVIIIe siècle: ils n’ont pas supporté l’histoire
+du meilleur des mondes possibles. Voltaire et tout ça, il avait raison Voltaire. C’est-à-dire qu’ils
+étaient arrivés avec une exigence de philosophie qui n’était évidemment pas remplie par Leibniz,
+notamment du point de vue de la politique. Donc, ils ne pouvaient pas pardonner à Leibniz.
+
+Mais Leibniz, si l’on se lance dans une démarche pieuse, qu’est-ce que Leibniz voulait dire par le
+monde qui existe est le meilleur des mondes possibles? [122 :00] Il veut dire une chose très
+simple: comme il y a plusieurs mondes possibles, simplement ils ne sont pas compossibles les
+
+                                                                                                   25
+
+uns avec les autres, Dieu choisit le meilleur, et le meilleur, c’est quoi ? Ce n’est pas celui où on
+souffre le moins. L’optimisme rationaliste, c’est en même temps d’une cruauté infinie; ce n’est
+pas du tout un monde où on ne souffrirait pas, c’est le monde qui réalise le maximum de
+continuités. C’est évident que, c’est évident que le cercle, si j’ose une métaphore inhumaine,
+mais c’est évident que le cercle souffre lorsqu’il n’est plus qu’une affection du polygone. C’est
+un mot même des mathématiciens, une « affection ». Lorsque le repos n’est plus qu’une affection
+du mouvement, imaginez la souffrance du repos. Simplement c’est le meilleur des mondes parce
+que c’est celui qui réalise le maximum de continuité. D’autres mondes étaient [123 :00]
+possibles, mais ils auraient réalisé moins de continuité. Ce monde est le plus beau, le meilleur, le
+plus beau, le meilleur, oui, le meilleur et le plus beau, le plus harmonieux, etc., uniquement sous
+le poids de cette phrase impitoyable: parce qu’il effectue le plus de continuité possible. Alors si
+ça se fait au prix de votre chair et de votre sang, peu importe.
+
+Et ce qui complique tout, c’est que, comme Dieu n’est pas seulement juste, c’est-à-dire
+poursuivant le maximum de continuité, mais comme il est en même temps d’une coquetterie, il
+veut varier son monde. Alors, c’est en réalité le monde qui effectue le maximum de continuité,
+mais Dieu la cache, cette continuité. Il l’abrise. Il fout un segment qui devrait être en continuité
+avec celui-là, eh ben, le segment qui devrait être en continuité, il le met ailleurs. Pourquoi ? [124
+:00] Pour cacher ses voies. On ne risque pas de s’y retrouver, nous, mais ça se fait sur notre dos,
+ce meilleur des mondes. Vous voyez ? Évidemment le XVIIIe siècle ne trouvera pas que c’est
+très, très bien, toute cette histoire de Leibniz. Mais c’est, en effet, le monde de la continuité.
+Alors, voyez, les problèmes du pavage expriment très bien ce choix du meilleur monde: le
+meilleur des mondes sera celui dont les figures et les formes rempliront le maximum d’espacetemps en laissant le moins de vide.
+
+Deuxième explication de Leibniz, et là il est encore beaucoup plus fort: le jeu d’échecs. Si bien
+qu’entre la phrase d’Héraclite qui fait allusion à un jeu grec et Leibniz qui fait allusion au jeu
+d’échecs, il y a toute la différence qu’il y a entre les deux jeux au moment même où la formule
+commune «Dieu joue» pourrait [125 :00] faire croire que c’est une espèce de béatitude. Car
+comment est-ce qu’il conçoit le jeu d’échecs, Leibniz ? Très simple : l’échiquier, c’est un espace;
+les pièces, c’est des notions. Quel est le meilleur coup aux échecs, ou le meilleur ensemble de
+coups? Vous savez, dans tous les problèmes d’échecs, vous avez des bifurcations, comme dirait
+l’autre « Le jardin aux sentiers qui bifurquent ». Eh ben, le meilleur coup ou ensemble de coups,
+c’est celui qui fait qu’un nombre déterminé et avec des valeurs déterminées de pièces tient ou
+occupe le maximum d’espace, l’espace total étant détenu par l’échiquier. Il faut placer votre fou,
+[126 :00] votre cheval, votre… reine, vos pions de telle manière qu’ils commandent le maximum
+d’espace, pour que l’autre soit… [Deleuze ne termine pas]
+
+Et enfin, qu’est-ce qui ne va pas là-dedans ? Pourquoi est-ce que ce ne sont que des métaphores?
+Là aussi il y a une espèce de principe de continuité – le maximum de continuité. Qu’est-ce qui ne
+va pas dans ces deux métaphores, aussi bien de pavage que du jeu d’échecs ? C’est que dans les
+deux cas, vous avez référence à un réceptacle. On présente les choses comme si les mondes
+possibles rivalisaient pour s’incarner dans un réceptacle déterminé, dans le cas du pavage, c’est
+la surface à paver; dans le cas du jeu d’échecs, c’est l’échiquier. Mais dans les conditions de la
+création du monde, il n’y a pas de réceptacle préalable.
+
+                                                                                                 26
+
+Il faut donc dire que le monde qui passe à l’existence, [127 :00] c’est celui qui réalise en luimême le maximum de continuité, c’est-à-dire qui contient la plus grande quantité de réalité ou
+d’essence. Je ne peux pas dire d’existence, puisqu’existera le monde qui contient, non pas la plus
+grande quantité d’existence, mais la plus grande quantité d’essence sous les espèces de la
+continuité. Et, en effet, la continuité, c’est précisément le seul moyen d’obtenir le maximum de
+quantité de réalité. Vous comprenez ?
+
+Voilà, cela devient une vision très, très belle, comme philosophie. Je considère que j’ai répondu,
+dans ce second paragraphe, à la première question, à savoir qu’est-ce que c’est que l’analyse
+infinie? Je n’ai pas répondu encore à la question: qu’est-ce que c’est que la compossibilité ?
+[2 :08 :00] Voilà. [Fin de la séance] [2 :08 :04]
+
+Notes
+[1] Cf. https://www.youtube.com/watch?v=LzJQNX6W53s
+[2] Il faudra signaler que cette transcription renouvelle entièrement le texte disponible depuis une
+vingtaine d’années à Web Deleuze dans la mesure où nous suivons intégralement ici, sans
+coupures ni transpositions de texte, la version audio également disponible à YouTube, Web
+Deleuze, Paris 8, et dans The Deleuze Seminars. Nous élargissons ainsi le texte de cette
+deuxième séance du séminaire par [une quarantaine de minutes, sur l’équivalent d’à peu près
+quatre-vingts qui se trouvent dans l’ancienne transcription.] [Nous profitons, pourtant, de
+l’enregistrement alternatif de Web Deleuze, et donc de l’ancienne transcription, afin de suppléer
+les deux trous du texte qui ont lieu lors du changement des cassettes à la fin des parties 1 et 2.]
+[3] La partie II de Le Pli. Leibniz et le Baroque s’intitule « Inclusions », composée du chapitre 4,
+« La raison suffisante, » chapitre 5, « Incompossibilité, Individualité, Liberté, » et chapitre 5, «
+Qu’est-ce que l’événement ? ».
+[4] Dans la séance sur Leibniz qui a lieu le 27 janvier 1987, Deleuze élabore en détail à la fois
+l’exemple tiré de la Théodicée, et celui tiré des Fictions de Borges.
+[5] Le texte de Borges présente cette phrase ainsi : « aux nombreux avenirs, non à tous » dans le
+commentaire présenté.
+[6] Voir la séance 5, le 6 janvier 1987, du second séminaire sur Leibniz pour un développement
+bref de cet ouvrage de Malebranche.
+[7] Il n’est pas tout à fait clair à quel écrit de Merleau-Ponty Deleuze se réfère ici, peut-être un
+des essais recueillis sous le titre Eloge de la philosophie, Leçon inaugurale faite au Collège de
+France le jeudi 15 janvier 1953 (Paris, Éditions Gallimard, 1953).
+[8] En ce qui concerne cette lettre, voir la séance sur Spinoza, le 20 janvier 1981, aussi celle du
+10 février 1981, et aussi, de Deleuze, Spinoza, philosophie pratique, pp. 111-112.
+[9] Dans la transcription de Web Deleuze, on trouve ici la notation : «[Explication de Deleuze
+sur le calcul différentiel] ».
+[10] Dans la transcription de Web Deleuze, on trouve ici la notation : « [Explication de Gilles
+Deleuze qui dessine au tableau, avec dessin à la craie: construction de triangles. 85 :30 à 93
+:30] »
+[11] Voir aussi la discussion de la géométrie projective et de Poncelet lors de la séance 9 du
+séminaire précédent, le 26 février 1980.
+[12] Deleuze revient à ce même sujet, du pavage, lors de la séance du 27 janvier 1987, la
+huitième séance sur Leibniz et le baroque.

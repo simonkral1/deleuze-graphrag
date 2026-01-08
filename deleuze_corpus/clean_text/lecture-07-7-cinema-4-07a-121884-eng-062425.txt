@@ -1,0 +1,1189 @@
+Gilles Deleuze
+
+Seminar on Cinema and Thought, 1984-1985
+
+Lecture 07, 18 December 1984 (Cinema Course 73)
+
+Transcription: La voix de Deleuze, Ezequiel Romero Diaz (Part 1), Guadalupe Deza and
+Mohammed Tamega (Part 2); correction: Claudie Zémiri (Part 3); additional revisions
+to the transcription and time stamp: Charles J. Stivale
+
+Translation: Graeme Thomson & Silvia Maglioni
+
+Part 1
+
+... I hope we'll be able to complete our program today fairly quickly, since we've been
+dragging on with it since the beginning of the year. Secondly, I’d like to summarize the main
+points of the program, including the bibliography. And thirdly, I will finally be able to
+explain what I expect of you… after which, perhaps, you won't come back...
+
+So, first of all, I'll try to finish with this matter of the brain, the cerebral image, from the
+points of view of science, of lived experience as well as that of cinema. And, if you
+remember, I tried to say two very simple things, even if I was forcing the issue a bit… that, it
+seemed to me, it wasn't a sudden mutation that occurred but certain accents had already
+shifted in the scientific relation with the brain, and in our lived relation with the brain.
+
+At the same time, you’ll be able to fill in the gaps yourselves with the kind of cinema that has
+always partly presented itself as a cinema of the brain. Think of [Sergei] Eisenstein's great
+text on the relationship between the cinematic image and the cortex1… the notion of the
+cortex recurs constantly in Eisenstein. Well, if the cortex has something to do with the
+cinematographic image, it means there has also been a shift in the relation between cinema
+and the brain. And, as I was saying, the emphasis has shifted in two ways, that is, well… for a
+certain time, it seems to me that what dominated − and here I'm speaking of a trend – the
+approach that dominated the study of the brain was a certain conception based on an axis of
+integration and differentiation. And we saw last time how the process of integration and
+differentiation could ultimately define a totality and a circulation within the Whole.
+
+As I was saying, increasingly the structure of integration and differentiation are perhaps being
+replaced – and again, “replaced” isn't the best term, you have to correct each time, you have
+to add your own nuances… I’m not going to add them for you – are perhaps being replaced
+by considerations of a new kind, namely, concerning a topological structure of the brain,
+where it is no longer a question of integration and differentiation. And in topology, you must
+know that, by definition, in a topological structure, distances are of no account. Of course,
+you don't yet need to know exactly what a topological structure is, you’ll be able to see that
+later.
+
+Now, if we want to discover the brain in terms of a topological structure… what would this
+involve? Here, what comes to the fore is a topological relation of outside and inside or, I
+might say, a type of contact that is independent of distance, a contact independent of
+
+distances or, if you prefer, a co-presence, an attachment of the inside and the outside but
+equally of future and past, void and plenitude, front and back, black and white, cosmos and
+brain. It's the brain-cosmos.
+
+I don't need to remind you that, in terms of cinema, science-fiction films, for example, will
+make broad use of this theme. And I emphasize that when I speak of a co-presence or an
+application of the inside to the outside, I'm speaking of an Outside that is more distant than
+any external world, and an Inside that is deeper than any internal world. From this point of
+view, the cinematographic image is really the co-presence or application of inside to outside,
+past to future, brain to cosmos, black to white. In a way, the black screen or the white screen,
+in light of the important role it gained in post-war cinema, would be the sign of this
+topological structure. And indeed, to try to be a little clearer, we have to ask ourselves: does
+the white screen or the black screen, or all their combinable, composable varieties, constitute
+a full image, or is it rather an empty image? In actual fact, what we have is a co-presence of
+empty and full, a co-presence of outside and inside. So, that was my first remark on the brain,
+how the accent is placed on the possibility of a topological structure that is not accounted for
+by Euclidean space.
+
+And then we made a second remark. This second remark was: if we conceive of the limit of
+the brain as a topological co-presence, as a topological application of an absolute outside on
+an absolute inside, how does transmission, how do linkages… in short, sensory-motor
+linkages – that is, the passage of an impulse or a message from one neuron to another –
+actually take place inside the brain? And here we gave an equally obscure answer. We said:
+maybe it takes place in the form of semi-aleatory relations. And we set about trying to see
+what these semi-aleatory relations were, in other words, these mixtures. Mixtures of what?
+Mixtures of dependence and chance that could be grouped under the general heading of
+partially dependent aleatory phenomena or, if you prefer, semi-fortuitous linkages. And we
+also saw that an odd thing called Markov chains gave a singular status to these semifortuitous linkages.
+
+And I thought, Well, couldn't we imagine that the transmission from one neuron to another,
+that the association from one neuron to another, could take the form of Markov chains, in
+other words, of semi-aleatory relations? If you were to accept this idea, however confused it
+may appear, if you were to accept this idea, there would be a major consequence. We’d have
+to say that the linkage… the linkages, take the form of a perpetually… a truly perpetually
+relinked parceling out. The status of the semi-fortuitous linkages is that of a relinked
+parceling out.
+
+I'll tell you what I'm trying to get at straight away: in my view, relinked parceling out means
+that, in one way or another, transmission takes place by relinking and never by linking. What
+does it mean to say that transmission takes place by relinking and never by linking? It means
+that the prefix “re” of relinkage, must be interpreted correctly: relinking is not secondary to
+linking. Relinking is a particular type of linkage. For me, this is already getting more
+interesting: relinking would be a particular type of linkage. There would be parceling out
+through relinking that would not be at all secondary in relation to the continuities of linkage.
+We could contrast two types of linkage: on the one hand, continuity-type linkage, and on the
+other, parceling out by relinkage.
+
+Or, if you prefer, to be even clearer, we could distinguish between three possible cases: in the
+first possible case, we have a continuous network, a continuous network of transmission or
+
+association. A second possible case: there is a linkage of associated images that takes place
+via cut-points, a linkage of associated images that takes place via cut-points. What is the...
+you have to try to understand this point... What is the condition? If you've followed me from
+the beginning, you will know the condition: that the cuts be rational. When the cuts are
+rational, there is in fact a linkage of images that are associated by these cut-points. What is a
+rational cut-point? You remember… and this will explain everything, I hope you remember.
+Being a cut, it is an instance that divides two series, a series before and a series after, an
+inferior series and a superior series. As a rational cut-point, the cut-point itself forms part of
+one or other of the two series, either as the last term of the first series, or as the first term of
+the second series. In this case… unlike in the first case, where there's a continuous network,
+in this case I'd say there's a linkage of images associated by rational cut-points. There is a
+linkage.
+
+Third case: linkages by irrational cut-points. How did we define irrational cut-points? First
+and foremost, they don't pertain to... they determine, they are cuts, since they determine a
+division into two series, but they don't themselves pertain to either of the two series. They
+produce a parceling out between the two series. And the relation is no longer a linkage of
+associated images, it's a relinking of independent images. And that’s it in a nutshell. There is
+a relinkage of independent images, without there ever having been a prior linkage of
+associated images. These are two completely different types of linkage. In the second case,
+which interests me most is the fact that we have relinked fragments. It's no longer the
+topological aspect of the brain, it's the semi-aleatory or probabilistic aspect, if you like, of the
+brain produced by fragments that are constantly being relinked.
+
+I go back to our old formula – since to me it seems the clearest – there is no longer a linkage
+of associated images… we saw the importance of these associations in the old cinema, where
+the cut-points were rational. I remind you once again of the importance of Eisenstein's texts,
+where he insists on what he calls caesuras, meaning cut-points, and the need for these to be
+rational, that is, to obey the “golden section” or a structure that would be close to the golden
+section, meaning that they imply commensurable relations, rational relations.
+
+Well, now that's no longer the case: instead of a linkage of images associated by rational cutpoints, what we have is a parceling out relinked by irrational cut-points. Hence, I can say that
+relinkage is never a secondary linkage, that is, one that comes after linking. Relinkage is an
+original type of linkage. It's a semi-fortuitous linkage. This is extremely important. I mean,
+we're getting somewhere here… I don't know why, but we're definitely getting somewhere…
+and it will be extremely important for what we do later on.
+
+So, I want to insist on this – how shall I put it? – I want to insist that one of our fundamental
+results – because even if we're still only constructing the program, we're already getting
+certain results – one of the main results of what we’ve done this first term is the link we can
+now establish between three cinematographic notions… but this goes beyond cinema of
+course, and I could just as easily say between three philosophical concepts. First notion: the
+black or white screen and its variations. Second notion: the irrational cut-point, the irrational
+cut. Third notion: relinked parceling out.
+
+What is the connection between all these? I could start, you see, from one of these notions
+and obtain the other two… that would be harmonious. I will settle for one case: I start with
+the black or white screen, and I would say, it's the co-application of the absolute outside and
+the absolute inside, the absolute past and the absolute future and so on. Okay. This is what in
+
+the course of our research we've called “the force of the Outside”, an Outside that is more
+distant than any external world, an Inside that is deeper than any internal world. How will it
+appear – the white or black screen may also manifest itself autonomously – how will it appear
+in a sequence of images? This is the second point. The answer is simple: it will appear in the
+form of an irrational cut… the irrational cuts that arise with modern cinema, with post-war
+cinema, notably, as I was saying, in the use of false-continuity. False-continuity is typically
+an irrational cut, in [Robert] Bresson’s fragmentation of space, and in all sorts of other
+examples we’ve seen or will see in future. So, I can deduce very easily… from the black and
+white screen, I can move on to the irrational cut between images, in a sequence of images.
+
+Thirdly, my question is: when two series are determined by an irrational cut and not by a
+rational cut, how is the linkage produced? My answer – and this seems to me an absolutely
+necessary deduction – is that the linkages can no longer be a linkage of associated images, it
+will be a relinkage of independent images. This point will enable us to respond to [Jean-Luc]
+Godard's formula: no longer one image after another but one image plus another. No longer
+one image after another but one image plus another. That would be the definition, and it's a
+way of saying that instead of a linkage of associated images we have a relinkage of
+independent images. You shouldn’t start asking for concrete examples yet… first you have to
+understand this in the abstract, you have to understand it abstractly, and then concrete
+examples will come after, which will make things easier. Okay. So, I imagine you have...
+you've got to understand this at all costs, you see, in the end it's all the same notion, it's the
+same instance that presents itself as a black or white screen, as an irrational cut and as a
+relinked parcelling out, or as a relinkage of independent images. The three are absolutely
+connected.2
+
+So, if you think that we need to make this a little more concrete… well, okay, let's try to
+make it a little more concrete. Last year, I alluded to a novel which seems to me to be one of
+the greatest novels in history, and which this year will be of direct concern to us, because
+now I'd like to comment on it and not just allude to it… it's a novel by a Russian writer, from
+the great period of Russian Constructivism. It's the great Constructivist novel.3 And, as we
+saw when we were looking at [James] Joyce and the interior monologue, automatism and so
+on, well, perhaps now will be the time to compare this novel and find out what new
+techniques it has contributed, explore what relation it has, for example, to Joyce's novel.
+
+It's a novel by Andrei Bely, who was a great author, for those who don't know him. But one
+of my wishes is that those who don't know him should take this opportunity to read his novel.
+The novel is called Petersburg [1913/1922]. In my view, it's an immense masterpiece, a truly
+great work.
+
+Student: How do you spell it?
+
+Deleuze: Bely, b–e–l–y, Andrei. Andrei Bely, and the novel is called Petersburg. Suppose we
+all leaf through it together… what do we discover? I'm not going to comment on it, I'll leave
+that for... You have to be with me in this, we’ll have to find time for that. What do I find so
+striking? I'm leafing through the pages... What strikes me? The first thing that strikes me is
+the very haunting theme of the brain-cosmos, the brain-cosmos. A corridor – I'm referring to
+a very fine passage, an admirable passage from the novel, I'll try to make a rough summary –
+a corridor opens in the head of a character, in the brain of a character, and he follows this
+corridor that leads him to the cosmic void. I'll say nothing more, but the passage is so
+
+beautiful that… you see, there is a corridor that opens up in your head, and you follow that
+corridor, you take that corridor, and you emerge into the cosmic void, into a small galaxy.
+
+I'm still leafing through it, and throughout the novel there’s this question of a bomb – it’s a
+great revolutionary novel. There's talk of a bomb, but this bomb is located in different places.
+It's a bomb that’s in the belly, in the body of the characters, who are constantly at risk of their
+body exploding. But it’s also a real bomb, and it's the same one that shifts around all over the
+house, and the characters are on the lookout for this bomb. They hear it in their belly and they
+look for it outside. The bomb is explicitly described as co-present inside and outside, on both
+sides of a kind of membrane… the bomb inside and the bomb outside are applied to one
+another.
+
+Third point: the whole novel is dominated by one of the heroes, who pops up in the most
+diverse places, always propelled by the same theme, which is the city of Petersburg itself. In
+Russian literature, Petersburg has a particular vocation. As it does in film, but in literature in
+particular, you already find these particular virtues of Petersburg that are so well described by
+Dostoevsky: it's the ghost town, the swamp town. It's the city where inside and outside
+confront one another. It's the brain-cosmos.
+
+Lastly, if we leaf through without... What I’m saying is absolutely not a commentary, it's... I
+have the naive idea of trying to get you to go and check it out for yourself. A character, one
+of the heroes, pops up in the most unexpected places in town, wearing a domino, wearing a
+red domino, and he scares everyone and causes a scandal everywhere with his blood-red
+domino. And I'd say, literally, every passage in the novel is relinked with the red domino.
+There's never any association – this, in my view, is one of Bely's great techniques – there's
+never any association between a domino scene and another scene. There's a perpetual
+parceling out and relinkage. The relinkage occurs with the red domino.
+
+Well, let me tell you a completely different story. A filmmaker called Alain Resnais… I find
+it very striking… I don't know if Resnais knows Bely’s novel, I don't think he does… or even
+if he does, I doubt it had much influence.4 I want to summarize some of the most well-known
+features of Resnais's work. The co-presence, the co-application, of an outside and an inside as
+definition and determining factor, a brain-cosmos. This is the great noosphere of Je t'aime, Je
+t'aime [1968]. The brain-cosmos as city. Is it a brain? Is it a world? It’s for you to decide, but
+you find it everywhere in Resnais… it’s the Bibliothèque Nationale.5 Is it a cosmos? Is it a
+brain? Co-application, co-presence of outside and inside, world and brain. More to the point,
+what would Resnais's Petersburg be? Resnais's Petersburg is Boulogne, it's the Boulogne of
+Muriel [1963], it's the ghost town… it's the spectral town, the brain town.
+
+Second feature, in Providence [1977], the bomb inside and the bomb outside, and the copresence of the two bombs. The bomb is in the body of the old alcoholic novelist. His body
+rattles, his body rattles in all directions, the bomb as the organic state of a decrepit body. The
+same theme recurs constantly in Bely's work: the bomb that explodes in the decrepit body.
+But the bomb is also present in the cosmic states of Providence: in the thunder and lightning
+and in the nocturnal walks of the old alcoholic, insomniac novelist. And finally, it is in the
+social and political state. Perpetual bursts of machine-gun fire, gunshots and so on. Cosmic
+thunder and lightning, organic crackling, historical-political machine-gun bursts, and the
+whole of Providence produces a kind of topological contact between all these states, making
+this film, it seems to me, one of the masterpieces of modern cinema.
+
+Third point, regarding Resnais. What is Je t'aime, je t'aime about? For those who have seen
+it… anyway, I'll tell you very quickly… someone who has attempted suicide is rescued and is
+then subjected to an experiment. He is sealed into the noosphere, the world-brain, and is
+made to relive a minute of his past, a precise minute of his past. This minute is a minute that
+took place – I'm telling you this because dates are extremely important – on September 5,
+1966, at 4 p.m. In principle, this is the experiment. And in the course of the film, you have a
+perpetual return to this minute, the minute when the hero gets out of the water and returns to
+Catrine, the woman he loves or no longer loves, and there is a dialogue between them… no
+doubt this minute is of fundamental importance because it must have been a moment of
+uncertainty between the two states. There was still a chance between the moment when he
+still loved her and the moment when he no longer did. In my view, I'd say this an irrational
+cut. It is an in-between moment: between still loving and no longer loving.
+
+But the noosphere is misfiring: instead of simply sending him back to that minute… it does
+send him back to the minute, yes, but each time this minute is linked with a series of images
+that are increasingly independent of that minute. At first, there are still vague associations
+between the minute in question and the series with which it's linked. But the more the film
+goes on, the more the minute is linked with series that are more distant, removed in time,
+separated in space. In other words, there's no longer any linkage, there's no longer any
+association... No, I mean, there is no longer a linkage of associated images, but the crucial
+minute never ceases passing into the other regime of linkage. So, we have a relinked
+parceling out, that is, the moment is relinked with a series of other images, a series of
+independent images.
+
+I'm saying this independently of any connection between Bely's great novel and Resnais's
+work… I believe there is a system of echoes that provide us with a very rich field where we
+can study this relation between irrational cuts and relinkages, operations of relinkage. And we
+can also sense what we haven't yet touched on, namely the possibility of a cinema that should
+indeed be called a serial cinema. I would say that cinema can be considered serial when,
+instead of a linkage of associated images, you have relinkages of independent images. This
+would allow me to use the word serial in more than a merely metaphorical way when talking
+about cinema, as others too often do. In this way we can at least begin from a first definition
+of series. Okay.
+
+I'll end this point – and I'd like to make this very clear – I'll end this point by saying… we
+could look for confirmation, that's part of our program. I was thinking we could look for
+something to confirm this in what is called abstract experimental cinema, and if I look
+perhaps… I ask myself, well, would we find confirmation there? We'll see all this later when
+we come to have a session on experimental cinema, but if I were to attempt a very, very
+rough periodization of abstract cinema, I would say there was indeed a moment, a first
+moment, the great moment before the war, when there was a great abstract cinema but which
+– we’ll have to see – perhaps consisted in the double movement of integration and
+differentiation on one hand, and the linkage of associated images on the other.
+
+It was the great age of… how can I put it? Geometric, abstract cinema. But in what sense
+would it be geometric? Here we should distinguish between different filmmakers, because it's
+not just geometric cinema, it's a type of cinema that is closer to painting. And there are
+obviously very different filmmakers, it seems to me, even if it wouldn't be hard to distinguish
+between a Kandinsky tendency and a Paul Klee tendency. I mean – and we'll come back to all
+these points – but I'll say very briefly here that there is a considerable difference, if you like,
+
+between the techniques of these two painters. What I'm saying here may sound quite abstract
+but for Kandinsky what counts are the forces, the forces that are exerted on lines, and it's
+from this that he will arrive at his notion… at the fundamental notion of his aesthetic, as a
+great painter, the notion of tension. Tension is the relation between a line and the forces
+exerted upon it.6
+
+For Paul Klee, the situation is different. You just have to compare – and maybe, maybe we'll
+have the time, maybe we will – you just have to compare some great texts, some great works
+of Klee and Kandinsky to see the difference... [Recording interrupted; 45:57]
+
+… In abstract geometric cinema, there are two poles that group together different filmmakers.
+There is a pole which is close to Kandinsky and a pole which is close to Paul Klee, and this
+shouldn’t at all surprise us. But I would say this is a type of cinema that remains within and
+corresponds to the old image of the brain, of integration-differentiation and linkage between
+associated images.
+
+But if we jump – and of course there’s a lot that will happen between times – but if we jump
+to American abstract experimental cinema of the late 50s, early 60s, what do we find? For
+those of you who have seen some of these films, please forgive me if I seem to be forcing the
+issue… I see a trinity, a kind of trinity with three fundamental components: the black screen,
+the white screen and all their variations. We find this in all of them. Here I could mention…
+well, there is this famous film, Reflections on Black [1955], I think, I think it's by… sorry, I
+don't quite know how to pronounce his name… Stan Brakhage.7
+
+The second great procedure is flickering – and this is not a gratuitous process… when I sum it
+up like that it may sound gratuitous – the process of flickering, there’s a whole cinema of
+flickering. I'll give you an example, a film… a film by [Tony] Conrad [The Flicker, 1965].
+It’s not the only one, but it's one of the films that, in my view, have created the most beautiful
+flickering effects. And I would say, I don’t need to justify this right now, but I'd say that
+flickering obviously determines an irrational cut, we could almost say that it’s made for that
+purpose.8
+
+The third procedure is the looping procedure. Oh, but all this should open up, we're in the
+middle of making our program. What's a looping procedure? Well, a process in which a series
+of images return… I'm not trying to define the loop, I'm just giving a very rough
+description… it’s a process in which a series of images are made to return with variations.
+One of the greatest experimental filmmakers who mastered this procedure is called Landow,
+George Landow. Loops. It’s interesting because musicians, especially modern musicians,
+know a lot about loops, they create loops. We'll have to compare – perhaps you're getting a
+frightening sense of what I'm expecting from you – we'll have to compare musical loops and
+cinematographic loops, we'll have to look at all that. All I can say is that the loop is typically
+a relinked parcelling out. It's not a linkage of associated images, it's a relinkage of
+independent images. So, in terms of abstract cinema, this is exactly where we find our trinity.
+
+In other words, what makes up our modern brain? How do you live your brain? I'll come
+back to that – I just want to conclude by considering the question of lived experience – how
+do you live your brain? Well, your brain… it flickers, and it relinks or it makes loops. A brain
+that flickers, relinks and loops… well, that's very important. I mean, it changes a lot. Our
+forefathers’ brains didn't work like that! But it doesn’t mean their brains were inferior… Our
+forefathers’ brains integrated, differentiated and linked things together. Now, we don't do
+
+that. We've become topological, semi-fortuitous and relinking. Which gives us a different
+relation to health, to illness, they’re not the same procedures, right? Okay.
+
+So, this has opened up a lot of things for us, and now it's time to sum up everything we've
+done this term, so that you can understand what I have in mind for the second term. What I
+need is... is this all clear? Is it clear enough? What interests me in everything I've done so far
+during the last hour is my trinity. It has to be really... you should keep it in mind because,
+after the vacation, we'll be starting from there. I mean, we'll pick up all this again, of course,
+so I'll be going back to it but... You see, that's why I insisted so much on the irrational cut in
+the work of a mathematician… on Markov chains, because Markov chains seemed to me to
+give an example of relinkage, relinked parcelling out and all that. And all this because I
+needed it, and you know what interests me… Well, of course, there’s cinema, but there’s also
+thought. In other words, philosophical concepts. It's not just... well, I suppose that's fine for
+now, it’s clear, okay.
+
+So, let's recap. What was our first topic? And what will it become? Because I don't want to
+say that we've finished. No, we've just introduced, we were just in the middle of introducing
+our problem. Our first topic is thought and automatism. And we started from a simple fact:
+the specific character of the cinematographic image is that it is automatic… but with two
+consequences: what would the automatism of the image – how can we put it – spread to? To a
+whole series of things, to cinema characters, to the cinematographic actor and to the spectator
+of cinema. As I said, right from the beginning it was clear that somnambulists, zombies,
+golems and so on would profoundly belong to cinema in the form of German Expressionism,
+or that automata would profoundly belong to cinema in the form of the French school.9
+
+As I said, this won't end here but there will be a major evolution, and I said that Bresson's
+famous conception of the actor cannot be separated from the character, from this obvious fact
+that the cinematic image is automatic, and that this has consequences for the actor, who must
+no longer be a stage actor but what Bresson calls a “model”. And I remind you that in
+Bresson's texts we saw the extent to which his notion of the model was based on what he
+himself called “automatism”.10
+
+All this refers to a bibliographical topic which includes all you can find around psychological
+automatism. One of the key books on psychological automatism is a book by Pierre Janet,
+which is no longer available… so, for those interested in this aspect, you should look for it in
+the library.11 But there was another aspect we looked at, which was spiritual automatism, that
+is, all the automatic images that constitute a Whole, the Whole of the work… the Whole of
+the work insofar as it gives itself to thought. And more than this, the Whole insofar as it is not
+given in a single image but is thought as the Whole of the film. And thanks to the automatic
+nature of the image, cinema set the spiritual automaton in motion... [Recording interrupted;
+58:09]
+
+Part 2
+
+... So, the first ambitions of cinema, and here, bibliographically, I refer to whatever you can
+find, in particular the texts by Eisenstein, [Dziga] Vertov, [Abel] Gance, [Jean] Epstein and
+Élie Faure that discuss the great first ambitions of cinema – great ambitions that consist
+mainly of three things: new thought, universal language, art of the masses. And this is the
+spiritual automaton.12
+
+But to finish with this first topic… we've already seen how we're going to confront a major
+problem: from pre-war to post-war cinema, the spiritual automaton, and also the
+psychological automaton… the psychological automaton and the spiritual automaton will
+undergo a long and important evolution. It goes without saying that, between the
+somnambulist of German Expressionism or the robot of [Fritz] Lang’s Metropolis [1927] …
+and the robots of [Stanley] Kubrick or Bresson's automata, the differences are enormous. And
+it's not just because machines exterior to cinema have changed. It's by virtue of a whole
+evolution within cinema that could finally bring together, or has already brought together, all
+the forms of a new spiritual automatism that are intrinsic to cinema. Perhaps we could also
+include [Hans-Jürgen] Syberberg? But we would need a lot of analysis to justify all that. This
+is my first topic, this was my first topic, okay.
+
+The second topic was the evolution of the cinematographic image from the point of view of
+thought and its relationship to thought. And then, later… I mean later on, but from now on I
+will need you to… Because I'm happy to see that I don't have that much… alas, how much...
+alas, what needs to be reintroduced is... because I need, I really need you to keep all this until
+after the vacation, otherwise I'll have to start all over again from the beginning. I would
+need... twenty-four... Ah, it’s a disaster, I'm not going to be able to manage, I have... Oh but
+yes, I can. I was going to say, I’d lost a piece of paper so I didn’t have the count anymore.
+Ah, it’s ten! It’s all clear now. Ten. Ten aspects. I'd like to summarize this evolution in terms
+of ten aspects. I said to myself, it normally goes in threes. So, it's... it ends up being a bit
+boring if it goes in threes. So, ten is better, don’t you think?
+
+First aspect. As you can imagine… I'm doing it on purpose… I'm going to link the things we
+saw last year for those who were here – those who weren't here won’t care in any case – with
+the things we’ve looked at this year, because I care about continuity in what we do. First
+aspect… we have… Ah, but we've almost finished with that in the program, I remember... In
+what sense can we speak of a rupture with the past? In what way can we say there’s been a
+rupture between pre-war cinema and post-war cinema? I would say that every time I've used
+this word… from one point of view, this break is radical, but from another point of view, the
+break is very relative. So, there are no rules.
+
+But its causes, as we've seen, weren't simply the war itself, it was what was central to the war,
+namely the rise of state propaganda, the great mises en scène of the state, the abomination of
+the camps, which left its mark on all filmmakers worthy of the name. So, what did it have to
+do with cinema? Well, because Hollywood was no longer possible. Hollywood was no longer
+possible. Nation states were doing so much better in terms of state propaganda, in terms of
+the grand mises en scène. And yet, on the other hand, a certain type of action cinema was
+made impossible by what had happened in the camps.
+
+And at the same time, we could say that cinema was forced to renounce its great ambitions,
+the art of the masses… Because Eisenstein's idea that, through cinema, the masses would
+become subjects, subjects of their own destiny… unfortunately for him, Eisenstein would
+learn that it wasn't like that. Cinema as a universal language, a renunciation that was not due
+simply, not at all, to the advent of the talkies but to more profound reasons. In this respect,
+there are the two fundamental texts I've cited – Daney… Serge Daney’s La Rampe [1983]13
+and [Paul] Virilio’s The Logistics of Perception.14 So this was the first aspect.
+
+Second aspect: as we saw the previous years, the great phenomenon of modern cinema was
+the sensory-motor rupture, which meant that a cinema of action was no longer possible.
+
+There was no longer any sensory-motor linkage. As you can see, everything we've added this
+last term confirms our long-standing analysis. Sensory-motor rupture with all its effects. In
+other words, characters find themselves in a pure optical and sound situation. Pure optical and
+sound situations substitute sensory-motor situations. So, characters no longer react. What do
+they do? They become seers, or, as [Pierre] Vendryes put it, they enter into an aleatory
+relation with the external milieu.15 What is this aleatory relation with the external milieu? It
+takes the form of a stroll, a walk. They no longer act, they wander around at their own risk, in
+the most dangerous places, and so on. What we have here is no longer the sensory-motor
+schema. It's the pure optical and sound situation, the schema of the stroll. You'll find
+examples of this in Neorealism and in the Nouvelle Vague, I won't go into that again.
+
+As I said, this second aspect – if I were to link it up, if I were to try to link it up with what we
+did in previous years, when I was concerned with classifying signs, though now I’m no
+longer concerned with that, but it's just to put back some... – this second aspect is what I
+tentatively referred to as “opsigns” and “sonsigns”, “opsigns” and “sonsigns”, that is, pure
+optical and sound situations, as opposed to sensory-motor signs. So, that was my second
+point.
+
+Third aspect: in the old cinema, there were films concerning dreams. A dream could even
+take up an entire film. None of which avoids the fact that the imaginary and the real
+corresponded to two discernible regimes. I'm not going back to that, those are topics from last
+year, or even from two years ago… no, from last year, I think. In modern cinema, it's very
+odd, the imaginary and the real are always distinct, but they are strangely indiscernible.
+Indiscernibility of the imaginary and the real. But why then… why are they still distinct?
+Because they run after each other. They never stop running after each other. There's an
+imaginary-real circuit that ensures that the two distinct elements cease to be discernible. So,
+indiscernibility of the imaginary and the real.
+
+Last year, we saw how this resulted from a particular type of image: the crystal-image. The
+crystal-image – that we tried to identify in post-war cinema, and in the constitution of postwar cinema, in very, very different forms in the work of several great directors – attested to
+this indiscernibility of the real and the imaginary. I'd say... yes, for effect, I should have
+called these “crystosigns”, I should have thought of that. Or I should have found a more
+complicated term. Crystal... well, I would need a more learned word. I'll look for one over the
+vacation. So, you see, in terms of this second aspect, we had opsigns and sonsigns, and for
+aspect number three we have these pathetic “crystosigns”, or something of that order… no, it
+doesn't work. We need to find another word that would designate “crystosigns”… that would
+express what we see in a sign, I mean, what we see in a crystal.
+
+Student: [Inaudible]
+
+Deleuze: What?
+
+Student: [Inaudible]
+
+Deleuze: Prismosigns? That's no good either. No. We'll find it. So, that... okay... that was
+number three. Let’s move on!
+
+Four: the movement-image, namely the sensory-motor image – the movement-image was the
+development of the sensory-motor image, or it was the presupposition of the sensory-motor
+
+image – gave rise to an indirect image of time. On the other hand, when we have purely
+optical and sound situations, when situations are no longer sensory-motor, the movementimage is somehow dethroned. It continues to move, not always, but it continues to move, it
+becomes a stroll, it's no longer action. Well, the indirect image of time that depended on the
+movement-image is replaced by a direct image… by a direct time-image. In other words,
+“opsigns” and “sonsigns” are directly linked to “chronosigns”. Here we have the exact word,
+“chronosign”. It works well, “chronosign”… it's elegant. So, we can say that we no longer
+have the indirect image of time that depends on the movement-image, what we have is a
+direct presentation of time. Or it's a direct time-image that appears, and that links up with the
+“opsigns” and “sonsigns”. Okay, so “chronosigns” would be number four.
+
+Five: a direct presentation of time is only conceivable if we are able to attain temporal
+structures beyond the mere appearance of time, that is, beyond simple succession. We saw
+last year how, in terms of their structure, direct images of time no longer bring into play the
+couple: real-imaginary, but rather the couple: true-false… and that the paradoxes of time
+sometimes presented themselves in the form of the unsummonable nature of the true, that is,
+time makes the true unsummonable, and we found a model of this in the work of Orson
+Welles. And sometimes in terms of an inexplicability, or inextricability of the true and the
+false, and for this inextricability or inexplicability we found a very precise model in another
+structure that could be represented by the films of [Alain] Robbe-Grillet. Or other times it
+was in the form of an undecidability of the true and the false, for which we found a model in
+the films of Resnais. These corresponded to three temporal structures that we found
+interesting, three structures of time that seemed interesting to us and where time was not
+defined by succession but, on the contrary, was conceived in terms of the coexistence of its
+own relations.
+
+Six: as a consequence of all this, we have the undecidability of the true and the false, the
+inextricability of the true and the false, and the powers of the false at all costs. The powers of
+the false at all costs. Which can be translated, and it's exactly the same sequence as last
+year… so we're entering this year at number six: it's the whole world that has begun making
+[bad] cinema. Everything has been subsumed by the powers of the false. The world itself is
+making bad movies, if need be, through new means, through TV, through whatever. It's the
+world that makes this cinema. What do we need cinema for, if it's the world itself that makes
+cinema? That was our sixth point.
+
+And our answer was this. Cinema, post-war cinema, would have a fundamental new function:
+to restore our belief in the world. Restore our belief in the world… in what sense? No longer
+by giving us a belief in another world but by giving us belief in this world. To restore our
+belief in this world. How can we believe in this world? From the point of view of cinema, it
+seemed to us that [Roberto] Rossellini, in all his interviews, said some very fine things to
+justify his conversion of art to what he calls an “ethic”, where cinema would have only one
+function: to restore our belief in this world. But we've also seen how, bibliographically
+speaking, this problem – belief instead of knowledge, and how to believe in this world,
+asking us for reasons to believe in this world – was already an active problem at the heart of
+philosophy, notably from Kant onwards, from his formula of substituting belief for
+knowledge. Seven! Would you like to have a break? No? Not yet?
+
+Our seventh point concerned the change in the regime of thought. In other words, it was
+about noosigns. n-o-o signs… that's a nice word, noosign… You see? We need a word like
+that in the case of “crystosign”, because “crystosign” doesn't work… No, I can’t think of
+
+anything for the moment… Noosigns, okay... I'm going very quickly because, as you'll recall,
+we found that in the image of prewar cinema “noosigns” were composed of the two axes and
+their intersection. Namely: the integration-differentiation axis and the linkage of associated
+images axis. The two axes intersect, they react upon one another. This image of thought has
+been overturned. But in favor of what? In favor of a thought of the Outside, but one which,
+we must immediately add… a thought of the Outside with a capital O, but one which places
+thought in an immediate relation with an unthought, with an internal unthought.
+
+What does it mean when the force of the Outside puts the unthought into thought, when the
+powers of the Outside put the unthought into thought? We found our criterion. An Outside
+more distant than any external world. That's what’s at stake, an Outside more distant than any
+external world. And that's why it is this Outside that is capable of restoring our belief in the
+external world. If it were simply the outside of the external world, it wouldn't be able to
+restore our belief in the external world. And it is because it is an Outside that is more distant
+than any external world that, perhaps, when its wind blows on thought, it can restore belief in
+the external world… and at the same time put thought in touch with an unthought, a nonthought, with an unthinkable, an unthinkable that is more profound than any internal world.
+We return to the idea of a topological contact between Outside and Inside, but an Outside that
+is more distant than any external world, and an Inside that is deeper than any internal world.
+
+We looked for this image of thought, which we tried to define a little, in some very different
+authors. And now we have to connect things up, we have to go back to this question since it's
+a fundamental one for us. And in terms of bibliography, we were working in the following
+directions: Antonin Artaud… Artaud and his lived experience of thought; Martin Heidegger
+and his very fine book What is Called Thinking? And Blanchot, Maurice Blanchot… who is
+strangely at the crossroads between Artaud and Heidegger, but with his own particular
+genius. You can look at all of Blanchot’s writings, but especially The Infinite Conversation.
+And last but not least Michel Foucault, again all his work, but especially the second part of
+The Order of Things.
+
+In terms of cinema, what was this Outside that was more distant than any external world, and
+this Inside that was deeper than any internal world? This Outside more distant than any
+external world is for example what occurs in the films of [Carl] Dreyer when the image is cut
+off from the external world. When the image is cut off from the external world, far from
+closing in on itself, it becomes animated by a prodigious Outside. And what is this Outside?
+Perhaps Bresson gave us an answer to this, which lay in his fragmented images, his
+fragmented images, cut off from the external world, with not a single image in which see an
+entire room… never, never do we see a kitchen, or even a chair in its entirety. There’s a
+multiplicity of cuts. What Outside would be capable of blowing on this? The subtitle of one
+of Bresson's films is The Wind Bloweth Where it Listeth.16 The Wind Bloweth Where it
+Listeth, that's Bresson's Outside. An Outside that is more distant than any external world is,
+perhaps, capable of restoring our belief in the external world.
+
+And at the same time, an Inside deeper than any internal world, meaning that the thought
+animated by the Outside is brought into the presence of an unthought. And what is this
+unthought? Let me remind you: it could be Welles's unsummonable, it could be RobbeGrillet's inexplicable, it could be Resnais's undecidable, or it could be Godard's
+incommensurable. The topology of Outside and Inside corresponded to the black or white
+screen and their applications, as the first noosign, the first great noosign… or maybe it’s not
+noosign, after all... Yes? No?... Yes? Are we okay with “noosign”? Fine.
+
+Eight… everything okay? Eight! Oh yes, I'm fine… I've only got ten to cover. So, eight! And
+we’re speeding up now because the most recent things are fresher in our memory. In contrast
+to pre-war cinema, this force of the Outside manifests itself in what we called cut-points,
+irrational cuts in contrast to the rational cuts and the commensurable quantities of the old
+cinema.
+
+In terms of bibliography, regarding classical cinema, commensurable quantities etc., you can
+look at Eisenstein's great passages in the chapter “Organic Unity and Pathos”.17 You can also
+see, for those who would like to – because I'm far from having exhausted the subject – you
+can see in terms of mathematics how these rational and irrational cuts occur… in any
+mathematics textbook, or any history of mathematics, which would include a chapter on
+[Richard] Dedekind. For cinema in particular, the fundamental irrational cut will be that
+between speaking and seeing. In other words, the disappearance of the off-screen of classical
+cinema in favor of the interstice in post-war cinema: the interstice between speaking and
+seeing. Regarding the bibliography, it will come as no surprise that here I cite Blanchot’s
+text, “Speaking is Not Seeing”…18 And of course Foucault.
+
+At the same time, from the point of view of cinema, a whole field of study opens up to us,
+namely the off-screen is replaced by the interstice between, or, if you prefer, the out-of-frame
+is replaced by the interstice between two framings: the visual framing and sound framing.
+Here for the bibliography, you should look at Dominique Villain’s book, L'œil à la camera.19
+And here we have to confront the whole question of what this interstice implies, this
+interstice that sometimes goes as far as... that enlarges, that reaches a point of producing a
+radical estrangement between the framed sound and the framed image, as in a famous short
+film by [Jean] Eustache20, and often in the work of the Straubs. So, we have a whole... and it's
+in this play in which the interstice between the two framings, sound and visual, has replaced
+the off-screen or out-of-frame. It's in this space of play that all sorts of things will appear, this
+time no longer... [Recording interrupted; 1:31:52]
+
+... the image became legible, which was already a notion… I don't know who was the first
+person to say that, I think it must have been Noël Burch, speaking about [Yasujiro] Ozu,
+when he said that in Ozu the image, the visual image becomes legible. What does that mean?
+What does this imply? Here we will have a whole field of “lectosigns” to study.21
+
+Nine: a return – sometimes we are obliged to return to certain things – to the idea of
+something unthought in thought. And the possibility of an answer, as we've seen, to this
+question of the unthought in thought is the body. Give me a body! We saw that the first pole
+of experimental cinema emerged from this, the cinema of the body, with its twofold aspect of
+the everyday and the ceremonial, and the passage from one to the other. As we've seen, this
+cinema was to develop in the direction of a cinema of attitudes: body attitudes, a cinema of
+postures. But in what way were postures able to appeal to thought? Well, I would say that
+they solicit thought because, independently of any sensory-motor relation – obviously, we
+mustn't reintroduce a sensory-motor relation – independently of a sensory-motor relation,
+attitudes enter into a relation of the gest type. I remind you that the gest is the connection of
+one attitude to another, independently of any sensory-motor relation. In this respect, we will
+have gestural signs, gesture being defined here in this way: the linking of attitudes to one
+another, independently of any sensory-motor relationship.
+
+Regarding this, in terms of the bibliography there is a short text by [Bertold] Brecht, in his
+writings on theatre, a text entitled “On Gestic Music”22 as well as a commentary by Roland
+
+Barthes on this text in The Responsibility of Forms.23 And finally, if you're so inclined, you’ll
+find everything you need on the art of postures in the texts of [Samuel] Beckett.
+
+So, what about number ten? It's the cinema of the brain with the last topic we've just looked
+at, namely the parcelling out by re-inkage in contemporary cinema, or – which amounts to the
+same thing – the relinking of independent images as opposed to the linking of associated
+images that we found in classical cinema. In terms of bibliography on the question of the
+brain, see the chapter I quoted from [Gilbert] Simondon's book on individuation,24 Steven
+Rose's book, The Conscious Brain,25 [Jean– Pierre] Changeux's book, L'homme neuronal26
+and, of course, the great seminal novel by Andrei Bely.
+
+To conclude, it's at the end of this second part that we'll be able to answer our fundamental
+question: in the passage from one automatism to another… what is exactly the difference
+between the automatism of pre-war cinema and the automatism of today's cinema? On that
+note, you can finally have a short break, and if you're good students, you won't leave because
+now I have to give you your homework… I mean, I still have to tell you what I expect of you.
+And then what we can do, perhaps, I'd really like to… after having a short break, I don’t want
+you telling me that we should have spoken about something else… I’ve no interest in that,
+but what I would like you to tell me is if, for you, such and such a point doesn't work, or if we
+should dwell on such and such a point, or if we should add this or that point. Yes, I'd be
+delighted if you could add some of your own points. So, think about it for a moment and on
+this question, I have something personal to share with you. [Tape interrupted; 1:38:07]
+
+In the second term, we'll be going back to some of the things we've sketched out and at the
+same time we’ll be taking up others that our program hasn't explicitly mentioned, but that
+we’re going to need. That's why I think that if you want to attend the next term, you’ll need to
+have the whole program in mind. So that sometimes we can fill in an empty box, sometimes
+we can develop a box that has already been filled. I'll let you know as we go along, which I
+didn't do the other times, what our next session will involve. And you can decide whether you
+want to come or not.
+
+Well, okay. As usual, I will need your help. And indeed, some of you often come up with
+some very important things. But, yes, yes... I've noticed, and everyone knows this, that the
+presentation format is something that isn’t working at all, because first of all we have
+problems hearing the person speaking, and then there's a general lack of conviction... I mean
+that the person speaking isn’t really convinced by what they’re saying and neither is the
+person listening.
+
+Student: Nobody listens!
+
+Deleuze: Those who don’t listen, it’s because they’re not convinced by it… and in the end, it
+poisons everybody, starting with the person who is speaking.
+
+So, suddenly... I've been looking for a solution to this for exactly thirty years. And now I
+think I’ve found a solution, which is a very childish one. After all, I've come to know quite a
+few of you. So, what I would suggest – and of course, you have to agree – when I need
+something… I'll take the following example. Say I need something and I know that one of
+you has expertise in the field and has ideas about it. Of course, I have to ask their permission.
+If they say okay, they won’t do a presentation, we'll do a sort of interview. It’s quite a clever
+idea, don’t you think? It took me thirty years… In other words, I would be the interviewer.
+
+And their task will be to get their head around a subject they already know pretty well, and I
+will pose questions. And we'll see, we'll see what happens. After all, it's the Godard method,
+and we might as well try it. So, I will ask questions, so obviously they can tell me that it's not
+like that, they can tell me.... So, I’ll give you some examples, hoping that the people
+concerned won’t recognize themselves, since I don't have their agreement yet.
+
+Imagine that someone, for example, has expertise in the history and practice of experimental
+cinema. I'd like to ask them if they would agree to let me, someone who has no expertise,
+interview them and ask them questions about the looping procedure, for example, and tell us
+how it works, not just technically – I'm not employing them only as a technician, I'm also
+taking them on as a historian, or as a filmmaker – and what effects this can produce, what
+aesthetic effects for example, what an aesthetic of the loop would consist in, and so on.
+
+And then I realize that I would also need someone with musical expertise, who wasn't
+necessarily the same person. So now I do another interview, this time with a musician. It's not
+about bringing in people from outside. Bringing in people from outside seems to me, in fact,
+quite deplorable, because they wouldn’t be aware of the work we are doing. For this reason, it
+has to be... in any case, they never respond to... so, it has to be someone who’s taking part in
+the work we’re doing. So, for the loop I’ll also need a musician. Or, to take another example,
+in September we'll be looking at something that interests me a lot, which is what Eisenstein
+referred to as the harmonics of the image. It goes without saying that this refers to a musical
+notion, therefore I'll need someone with musical expertise to explore the question of
+harmonics. That's the way we're going to proceed. There are a thousand other examples I
+could mention… so, in the case of Bely, if anyone is familiar with Russian literature, I'd like
+to know how, for example, this book, this wonderful book by Bely, can be contextualized in
+its historical period, and perhaps we could look for... So, you see? Above all, I'd like to use
+your skills, and this would be in the form of an interview.
+
+A student: Can I suggest another way?
+
+Deleuze: Yes, yes, yes..., of course.
+
+Student: [Indistinct words] of this work. Someone who talks about it, who gives us some
+content and their general understanding of what you've said… and since you're talking
+yourself, the person interviewed, I mean, after your questions… because, it seems to me, if
+you start with two hours of questions, in all sincerity, I think that the person will, in one way
+or another, either be embarrassed and improvise something on the spot just to answer, which
+would be, how shall I put it… a bit unsatisfactory, or else, they will miss something out. So...
+
+Deleuze: Yes, yes...
+
+Student: Actually, I'm not talking about the fact that...
+
+Deleuze: Yes, you doubt that... yes, yes... I understand.
+
+Student: [Indistinct words] ... someone should just speak naturally, saying what they know
+about the thing, and then you can speak and pose your questions.
+
+Deleuze: That's possible as well... that’s possible... Moreover, we could vary things according
+to the wishes of the person who accepts the task. Of course, this wouldn't prevent us using the
+
+other method, which is to say that whoever wishes to intervene can do so. That's what I
+wanted to tell you.
+
+So, now I'm making a heartfelt appeal to you. Once again, we have a program with some
+boxes half-filled and others that are empty. Do you have any reactions specifically regarding
+this first term, any suggestions for adding this or that point? Or for taking something out? I'm
+ready to take out whatever you want. Do you have any remarks to make on our program? Or,
+to put it in a simpler way, are there any things you're still unclear about? Because I don't think
+you'll be able to follow at all if... it doesn't have to be crystal clear, but neither can it be
+obscure... are there any points you’d like me to go back over? For example, as I said, I'm very
+attached to the question of topology, to the question of relinkage, to the irrational cut and so
+on… Those things are very important to me. So, if that isn't clear to you, it means there's a
+misunderstanding between us. Anyway, I’m done for now, it's your turn to speak!
+
+Student: I'd like to intervene. I'd like you to… [indistinct words] perhaps if you speak only
+about the philosophical side or about thought, without linking cinema and philosophy
+because, in all modesty, expecting us do a job like that would be a bit too complicated for me,
+at least for the moment. So… first of all, I'd like to speak, just speak… [indistinct words]
+automatically if you like... without even really taking up the points you've made, but seeking
+them out as I speak. And I think I have my reasons for speaking in this way, and since some
+weeks ago… [indistinct word] you invited us to think about the four figures you identified,
+namely: first, the substitution of belief for knowledge; secondly, Give me a body; thirdly, the
+thought from Outside; and fourthly, the fragility of… [indistinct word]
+
+Deleuze: Which we saw again today, yes?
+
+Student: As we saw today… today, I hope.... so, before coming out… [indistinct words] you
+repeated the four things I just mentioned…
+
+Deleuze: Sorry?
+
+Student: You repeated the four paths, returning to the Ego, provisional internalization. And
+then last year's paths also came back… namely last year too you drew out four figures…
+First, the finished crystal… so, something more or less non-existent, though you didn't put it
+precisely like that, or I believe… [indistinct word] so the lack, it's like the belief that's
+absent…
+
+Secondly, the crystal… [indistinct words] the detached crystal that seems to me to
+correspond, in one way or another, to this absence or to this problem of the body, with all its
+possibilities and all its vulnerabilities. So, first there's the pure crystal and an absent belief.
+And then the crystal… [indistinct words] classically separated by philosophical thought, at
+least in Descartes. So, a body condemned by its vulnerabilities, or else a body that discovers
+its possibilities, here we're talking about something concrete... something concrete,
+containing both possibilities and vulnerabilities.
+
+Thirdly, the crystal is shown decomposing. And I asked myself, what does that mean? And
+without looking it up, I think I've come up with a pretty good answer, to me at least… while I
+was strolling around Paris. So, I said to myself, this crystal that is decomposing, it's the
+moment of crisis, the moment of collapse, the moment of – I don't know how to put it – the
+moment of an individual seized by something that is perhaps much stronger than his physical
+
+reality. So, concentrating on this thought from Outside, I said to myself: this is also a moment
+of crisis, without really being able to precisely define it.
+
+But I was moving on to a course... precisely the course we were doing in the fourth category,
+namely: the crystal in the process of forming. So, the crystal in the process of forming would
+be like the fragility of the… [indistinct words] and why is that, I'm not quite clear at this
+point. Because, it seems to me that… [indistinct words] in the moments that precede, namely,
+the moment of crisis, the moment of the decomposing crystal, and the concept of the Outside,
+the individual who finds himself in the moment of crisis must at all costs rebuild himself, and
+find not only his identity but, let's say, also his activity and his reality.
+
+Well, in short, while I was thinking along these lines, it seemed to me that there were…
+despite everything, I mean, despite all the richness that... I don't know how to put it... of what
+you're talking about and giving us… it seemed to me that there were, despite everything, a
+few things that weren’t quite clear, or things that weren’t quite present… firstly, regarding the
+notion of time. We talked about, or you spoke about, you spoke about the discovery, if I may
+say so, the discovery of a body – Give me a body, then! – you spoke first about substitution,
+you spoke about the thought from Outside, and now you speak about the mind and the brain
+and so on, whereas the notion of time is one that’s important to me, as well as being a subject
+that we don't really understand, though it circulates and is discussed above all in the writings
+you quote… Heidegger, Blanchot, Foucault, even your own...
+
+Deleuze: I can quickly... but it wouldn’t change anything. I'm just cutting you off because my
+answer is very simple on this point – the whole of what you said is more complex – at this
+point, my answer is very simple: it's that I devoted the whole of last year to the time-image.
+
+Student: Ah, well…
+
+Deleuze: Do you understand? It's as if you were saying that I need to explain it. So, I was
+surprised to hear you saying that. Because we did the time-image last year, this year I'm not
+doing it again.
+
+Student: Okay...
+
+Deleuze: So, your point... this point is irrelevant. But that doesn't stop me from retaining two
+things from what you've said. Do you have anything else to say?
+
+Student: Yes, very quickly...
+
+Deleuze: Okay...
+
+Student: First of all, the problem of the substitution of belief for knowledge seems to me to
+mean that the problem of belief is not a problem of speculation, of meditation. It's first and
+foremost a gap, if I dare say so... a fault line between me and the world. And I interpret this in
+saying to myself that I no longer have a place in this world.
+
+Deleuze: Yes, you could say that. Yes, yes...
+
+Student: So… for me, the substitution of belief for knowledge means more precisely: how
+does the individual – the individual as an individual, both as a person and as a collective
+
+individual – how do you explain that this individual is excluded from the world, that they no
+longer find a place in the world? Because, if we go back to the problem of belief and its
+replacement, even with the best of intentions, we still run the risk of remaining at the level…
+again, at the notion of belief, at all levels and in all religious senses... But for me… it seems
+that I can find a place, first of all out of self-interest, and then… [indistinct words]
+
+Deleuze: Wait! I have to cut you off again. What you're basically telling me is that we’re
+missing a box… [Recording interrupted; 1:57:14]
+
+Part 3
+
+... I would say yes, yes, yes. And listening to you, I would translate it like this: what's missing
+in our program is a political box. And with regard to cinema, we posed the question: is there
+a change of regime from the images of pre-war to those of post-war cinema? It's obvious that
+have to consider what has changed in the field of political cinema from the Soviets to the
+cinema of today. And the change is clearly considerable. I'd say quite simply, Before, the
+Soviets… in what Eisenstein spiritually referred to as Bolshevization, the Soviets believed in
+the existence of a people.
+
+What happened then? Why is it that political cinema, the only real political cinema we have
+today, has moved to the Third World? The first answer is that the great mutation of political
+cinema took place in the form of the realization that the people were missing, that there were
+no people. So, we have a shift in the regime of the political image just as important as the
+question of belief with which it overlaps. When you say that substituting belief for
+knowledge means that we're cut off from the world, and you ask how belief can re-establish a
+link with the world… on another level, you're absolutely right. There's a collective level,
+which is: How is it still possible for a people to form today? In other words, Why has political
+cinema become a cinema of minorities? It's quite obvious that between the political cinema of
+[Vsevolod] Poudovkine or Eisenstein, and the political cinema of the Turkish director
+[Yilmaz] Güney or others… and I take Güney as an example here, there's a gap, there is a
+huge gap.
+
+So, I would say very definitely yes, for our program it's obvious that at some point – and here
+you are ahead of us on that point – we will see that we have to take into account the following
+question: What is a people? What is a people in cinema? In what sense are the people
+missing? What does it mean that the people are missing? And so on and so forth. On this
+point you're absolutely right, you've just given an example of the need we have to add
+something to the program.
+
+Regarding the other two points, I'd say yes and no. If I've followed you correctly, there's one
+point that doesn't work for me, but I don't see any problem if it works for you… it’s up to
+you. You wanted – and I'll say this in a nutshell, to be as quick as possible – you wanted to
+give me four categories. I'm very attached to my four categories. You take four categories I
+spoke of, and then you fold them back onto four other categories. You take four categories
+from this year, and then you say that you’re interested in applying them to the four categories
+of the crystal. That’s where I get irritated, and I get irritated because my answer would be:
+Ah, well, no, please don't reduce my categories. The more categories we have, the happier I
+am.
+
+So, if you fold them back and make four categories out of eight, you'll understand, especially
+regarding the state of the crystal and the four mutations of thought… well, you have to force
+the issue to see the connections. Of course, there are connections. But how did you manage to
+establish this relation between the two categories of thought and crystal? It was by
+introducing – and don't take this in a pejorative sense – it was by introducing a problem that
+you're obviously interested in, and I must confess, I confess… without at all saying that I'm
+right… that I'm not interested in at all, namely a certain question of the Ego in relation to the
+state of things and in relation to thought. Because you’ve formed an analogy between all the
+questions about the various states of the crystal and possible states of the Ego. So, in fact,
+through this intermediary, it seems to me that you could make the categories of thought
+overlap with the categories of the crystal in terms of a kind of development or journey of the
+Ego, and that would be more interesting.
+
+In my view, this would prevent it from becoming reduced, since it's not part of the same
+journey. But what interested me in the question of the crystal was the constitution of a certain
+type of image. Whether the crystal was decomposing or germinating, for example, the
+consequences of that as far as the Ego was concerned were of no interest to me. But then I'm
+one of those people – it's not a superiority complex, it's more an inferiority – who can't think
+about the question of the Ego. But I'm very struck by the fact that you can indeed make your
+reduction by posing a certain problem of the destiny of the Ego. It's completely legitimate,
+completely legitimate. I can just say: it's not my problem, but I can sense that it's a question
+for you. So, you're right.
+
+Student: [Indistinct words] ... But the inner language…
+
+Deleuze: Yes, yes, yes.
+
+Student: So, it's a never-ending case, in fact.
+
+Deleuze: Ah, well, no...
+
+Student: I mean, in relation to me.
+
+Deleuze: By its very nature, it's interminable. Yes, yes, yes... No, no… it's very good what
+you said there is very rich, for the moment… Does anyone...
+
+Student: [Indistinct words]
+
+Deleuze: Try to speak louder, please… sorry.
+
+Student: [Indistinct words about the classification of signs]
+
+Deleuze: Yes.
+
+Student: [Indistinct words]
+
+Deleuze: Here again, I'll give you an answer that is going to be very disappointing for you.
+You see, we spent two years working on a classification of signs. So much so that when I
+took up the names of signs, it was an attempt to bring together… a nod to those who were
+there. So, if you tell me that it wouldn't be a bad idea to do another session, very, very
+
+briefly… on what constitutes a sign, what I call a sign, we could think of doing that. But if I
+reintroduced this without any explanation, it was for the same reasons I said earlier on,
+regarding the question of time, it is because for us, at least for a number of us, we’re done
+with that.
+
+Student: [Indistinct words]
+
+Deleuze: Yes… oh well, on one hand, as I’ve since written about it, I wasn't going to take it
+up again. But we can still do a session on the signs I haven't mentioned yet, okay.
+
+Student: [Inaudible comments]
+
+Deleuze: An evolution? For me? Regarding this? Regarding this question of signs? It
+depends… because you are kind enough to allude to things I've written. But it depends when
+it was. The problem of signs has always haunted me and interested me, so it’s something I've
+been speaking about for a long time. If you refer to the last time I spoke about it, which was
+last year regarding cinema, last year on cinema… I would say no, I haven't changed. But
+regarding texts that I wrote long before that, yes, my ideas have changed a lot. So, we can do
+a session on the question of signs, maybe I'll even change idea again. And it would be better,
+yes, yes... I think we'll have to talk about the signs we haven't yet spoken of in depth, like
+noosigns, lectosigns. Yes, yes, yes.
+
+So, it's not just… and this is the last invitation I want to make, to those whose expertise in
+such and such a field I’m already aware of, obviously nothing could be more delightful to me
+than if one of you said, Well, I know a bit about such and such a field, and I can help you
+with that, I can help you. For example, since he's no longer here, I can refer to him… There
+was a guy last year who came to me and said he knew a bit about crystals, as he was doing
+something on crystals… and that served us well, at least it was useful to me, and that was
+very good.27 So, I strongly invite you... it's enough if what you say fits into our program at
+some point, okay? So, if need be, I'll ask you to think about that. Yes, okay. Yes?
+
+Georges Comtesse: [Indistinct words]
+
+Deleuze: Can you speak louder? Can you try to speak louder?
+
+Comtesse: On the question of the linkage of postures, in other words, in relation to the
+cinema of the body...
+
+Deleuze: Yes?
+
+Comtesse: In reference to Rivette and Godard. Particularly in Rivette, what's important in his
+cinema is not simply… If we take a precise example… [indistinct words] what's important in
+his cinema is not so much the gest of the linkage of postures, but the origin of this linkage in
+relation precisely to a certain body, which is a body that is hidden, or a body in flight. Let me
+explain. For example, in Rivette's cinema, the theatrical scene, even in his latest film which is
+currently in theaters, L'amour par terre [Love On The Ground, 1984] [indistinct words]… the
+theatrical scene, the scene of the theatrical gest, is for Rivette what he calls the scene of the
+suspension of violence, which always refers to… this theatrical scene, to a group, a private
+group, or a secret society that is literally hatching a conspiracy. But the conspiracy that the
+group, or the society, is hatching is itself a conspiracy hatched by a delirium. And the
+
+question, the question is… in other words, theater refers back to the question of delirium, and
+it's from this delirium that the linkage of postures arises, it’s only there that the question of
+the body is posed… in Rivette's cinema.
+
+By this I mean that the fundamental question that arises, and the question of cinematic
+thought at that point, is: What is the body of delirium? The body of delirium… in other
+words, what is the fleeing body of delirium that imposes delirium, the conspiracy and the
+theatrical scene? In other words, the fleeing body of delirium would more or less be the same
+problem that a certain type of cinema would ask of the body of delirium or the body of
+madness, it's almost the same thing… and this question of the body of delirium is the same
+question that recurs, in a completely different form, in Prénom Carmen for example. In
+Prénom Carmen, at the beginning of Prénom Carmen, there's the seer, the seer… in other
+words the uncle figure played by Godard, Uncle Jean. The seer is in his bed, and he says
+“être, être” [to be]. In other words, he calls out the word of the call, the word of what doesn't
+exist, of what can't exist, namely the word of the absence of the real: to be. And then he adds,
+Today's youth forget everything, but they forget everything because they live with an excess
+of memory. And he adds, they're all in the black hole.
+
+The fundamental question is: What lies between the words “to be” and this question of the
+black hole? And between that, there are all the linkages in the film, all the aggressive shocks
+of love, all the precipitous movements for which Orpheus would be grateful. In other words,
+everything that calls upon a cinema of the body. But the cinema of the body is not the image
+of the body… an image of the cinema of the body does not itself form part of the linkage of
+postures. It's what the linkage of postures refers to, that is, what is between “to be” and the
+black hole, or what might be deduced from delirium. It's in… it's in what could be deduced
+from delirium, or what's in between, that the question of the body could perhaps arise.
+
+It's not... I'll take another example. If you take Rivette's latest film, L'amour par terre… he
+posed the question of automatism in a new way. For example, there's a moment when he
+films Jane Birkin's face in close-up, and her eye, Jane Birkin's eye, becomes like a bulging
+eye, or an eye traversed by… by terror. And at that moment, at that moment, there is what he
+calls an automatic transmission, meaning something transmitted automatically, but
+transmitted nonetheless. There's something in a body that automatically transmits itself to
+another body. And immediately afterwards, in a scene where she's injured by a woman in red,
+the man bears witness to the relation between the woman in red and the injured woman. This
+automatic transmission, I think, is a new kind of image in cinema that is not simply a timeimage, a pure time-image, but one that could be called an image of desire, an image of
+delirium.
+
+Deleuze: Fair enough, that’s fine… that's all I want. For me, this intervention already fills
+part of our program. You tell me that we have to be careful, that the gest is insufficiently
+defined by the linkage of postures, because the gest must somehow also take into account – I
+don't remember what words you used – the origin from which the linkage derives. And you
+propose an answer: the origin from which the linkage flows would be the body of desire or
+the body of delirium. Well, okay, that's fine. If you like, you have given us your own
+development and response to the question of what we can call gest… That's fine for me.
+
+Comtesse: And even, for example, at that level...
+
+Deleuze: That's perfect. I’m not saying I agree… but it's perfect.
+
+Comtesse: [Indistinct words]
+
+Deleuze: Ah, yes, you can refer the unthought back to madness. Yes, yes.
+
+Comtesse: There is no philosophy… no philosophy… philosophy doesn't exist because it
+hasn't yet constituted a logic of this body, so it can't claim it. There may be discourse in the
+direction of philosophy, towards philosophy, but no truly philosophical discourse yet. That's a
+point I'd like to make…
+
+Deleuze: But that’s not how it is for me! You know, Comtesse, there’s just one little reproach
+that I find myself having to make to you over and over again: when you intervene, you tend
+to present what you say not only as something that has to be said – I'd agree with that – but as
+the only thing that can be said… and which, by its very nature, nullifies everything else. This
+confuses me a lot because you never cease to use me as a springboard. But you reject the
+springboard itself with such vigor and strength... and in any case, even in my moments of
+greatest certainty, I would never think of formulating sentences the way you do in the form:
+Regarding such and such a point, one can only say this. You should have more confidence in
+other people's inventiveness, and not just believe that what you say is the only possible thing
+to be said about a certain concept. Because, I’m sure you will agree with me, the concept of
+gest is in homage to Brecht.
+
+Secondly, and this is not to diminish him, it also comes from Barthes. Now, I like the
+necessary homage he makes, which gives this notion a very interesting rigor… but in my
+opinion, he doesn't renew it. If I may be so bold – and regarding Barthes' text, it's not his aim
+to renew it – but even if this may sound presumptuous, I would say I take this idea from
+Brecht, but I think in a different sense from the way he does, so I think... [Recording
+interrupted; 2:17:51]
+
+... what you do to people, or rather what you would like to do to people every time you speak,
+it's as if you're hurling a judgment from the heavens, the purpose of which is solely to
+pulverize whatever anyone else might want to say. So, I listen to you with great interest, and I
+say to myself: Well, yes, that's a possible path, although I can see everything that you keep
+going back to: lack, desire, delirium and madness, all of which will lead us back to saying
+that the unthinkable in thought must be madness, which in my view would be a big step
+backwards from where we are now. So, there it is... But if I have one reproach to make to
+you, it’s this one alone. Try to understand that when you speak, you say very interesting
+things, but these things shouldn’t cancel out other discourses.
+
+Comtesse: Precisely, they don't cancel out other discourses. But when I said that philosophy
+doesn't exist...
+
+Deleuze: And you said that this can be demonstrated…
+
+Comtesse: And I'm not the only one saying that! [Laughter, Deleuze included] Oddly enough,
+oddly enough it's an author to whom you were referring, meaning the author who took away
+thought, and the model of knowledge, and who recognized… I’m speaking of Kant, who
+recognized that the thought of the unknown, or the thought of faith, is not a philosophy at all.
+And, as Kant said in a text we commented on last year, philosophy doesn't exist. It doesn't
+exist. And it's like a kind of unattainable mistress.
+
+Deleuze: [He laughs while speaking] Listen, as always… you never bring us your texts. It's
+all very well for me to ask you to bring me a text. If you bring me a text… that's a promise,
+right? Do you promise to bring me a text by Kant saying that philosophy doesn't exist?
+
+Comtesse: Of course!
+
+Deleuze: Of course. [Laughter] Hey, you've got some nerve, because I'm still waiting for the
+texts. Last time, you promised me a text by Élie Faure, didn't you?28
+
+Comtesse: [Indistinct words] [Laughter] ... How do you expect philosophy to exist when
+people aren't capable of thinking madness? [Laughter]
+
+Deleuze: Listen, you're making me, you're making me... I have the impression that you're
+making me take a fantastic step backwards. It's odd. It's odd. Now we're going to find
+ourselves… well, yes of course, we're going to find ourselves with lack, with madness, and
+all that. It's your path, I respect it… but don't drag me into it. As for the more precise
+question, you're not going to tell me that it's Kant who wrote that philosophy cannot exist
+until madness can be thought. All I care about is that you’ve promised to bring me a text
+where Kant says that philosophy doesn't exist. Okay?
+
+Comtesse: Of course! Last year, Jacques Derrida in his seminar commented on this, making
+very precise references. I'm referring to his comments...
+
+Deleuze: So… is it Derrida or Kant?
+
+Countess: I don't just refer to you, the way you accuse me, when I say this or that. I also refer
+to others…
+
+Deleuze: Do you refer to others, Comtesse?
+
+Comtesse: I hear a lot and see a lot before I speak.
+
+Deleuze: I'm sure you do, but you only refer to others in order to make your lapidary claims.
+So, they can come from Derrida… but I hope, I'm sure that Derrida has much more nuance
+than you do. And I insist on the fact that you cannot come here and say: This is the truth.
+Maybe you can say it at a Derrida seminar, I don't know… but not here, not here. Otherwise,
+everything you're saying is perfectly okay, if we could only get rid of that aspect. Is there
+anything else? No? Well, happy holidays!
+
+Student: I would like to propose a word for the crystal… [indistinct word] zoe, because like
+zoe, the crystal... [indistinct words]
+
+Deleuze: Yes, but there's a problem, because zoe… zoe alludes to something living, and the
+face of the crystal distinguishes it from the living. That would be nice too but... Keep looking,
+okay? I’m sure you'll find something better. [End of the session; 2:23:14]
+
+Notes
+
+1
+  See Sergei Eisenstein, Non-Indifferent Nature, trans. Herbert Marshall (1945-47; Cambridge: Cambridge
+University Press, 1988).
+  On these three aspects, see The Time-Image, pp. 212-215.
+  On Andrei Bely, see Sessions 19 and 22 of the Cinema 3 seminar, May 19 and June 12 1984.
+  On the connection between Bely and Resnais, see The Time-Image, p. 125 and p. 302 note 42, and pp. 212213.
+  See Toute la mémoire du monde (1956).
+  On Kandinsky and Klee, see Sessions 1 and 2 of the seminar on Leibniz and the Baroque, October 28 and
+November 4, 1986. See also The Time-Image, op. cit. pp. 214.
+  Deleuze makes the same reference in The Time-Image, op. cit. p. 200.
+  On flickering cinema, see Session 8 of the Cinema 1 seminar, January 26 1982. See also The Time-Image, op.
+cit. p.215.
+  See in particular Sessions 1 and 2, October 30 and November 6, 1984.
+   See Bresson's Notes on the Cinematographer, London: Quartet, 1986. On Bresson and the automaton, see also
+The Time-Image, pp. 178-79 and pp. 312-313, note 42.
+   See Catalepsy, Memory and Suggestion in Psychological Automatism, London: Routledge, 2021.
+   See in particular Sessions 1 and 2, October 30 and November 6, 1984.
+   Editions Gallimard, Cahiers du cinema.
+   London: Verso, 1989.
+   See the previous lesson.
+   This is the subtitle of the film A Man Escaped (1956).
+   This is a section of Volume 1 of Eisenstein's Non-indifferent Nature. See also The Time-Image, p. 317, note
+37.
+   See Blanchot, The Infinite Conversation, Minneapolis: Minnesota UP, 1993
+   Paris: Cahiers du cinema / Editions de l'Étoile, 1984.
+   The film Deleuze refers to here is Les Photos d'Alix (1980), see The Time-Image, p. 249.
+   On Ozu, see Burch's To the Distant Observer, Berkeley: University of California Press, 1979, and also The
+Time-Image, op. cit. pp. 16-18.
+   Brecht on Theatre, New York: Hill & Wang, 1964.
+   New York: Hill & Wang, 1985. See the chapter Diderot, Brecht, Eisenstein, pp. 89-97.
+   See Simondon, L'individu et sa genèse physico–biologique, Paris: PUF, 1964 / Grenoble: Millon, 1994.
+   New York: Knopf, 1973.
+   Paris: Fayard, 1983.
+   This is Jouanny, who spoke during Sessions 19 and 20 of the Cinema 3 Seminar, May 22 and 29, 1984.
+   This refers to a discussion that took place during Session 3, November 13, 1984.

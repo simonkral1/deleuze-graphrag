@@ -1,0 +1,1353 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Principes et la Liberté
+
+Séance 10, le 24 février 1987: Les Principes et la Liberté (5) -- La Taverne : Les motifs,
+l’âme, la damnation : vers le progrès
+
+Transcription initiale, WebDeleuze ; transcription augmentée, Charles J. Stivale
+
+[L’enregistrement de la BNF commence avec la voix de Richard Pinhas en train de faire une
+présentation (pendant 8 minutes) à Deleuze et aux autres participants, où il s’agit des questions
+de musique – les accords, la modulation, et l’harmonie préétablie – qui correspondent aux
+thèmes leibniziens soulevés par Deleuze dans les séances en janvier. Pinhas aura l’occasion de
+revenir à ce même sujet lors des discussions sur l’harmonie qui constituent la visée principale de
+la dernière séance de l’année scolaire le 2 juin 1987. Nous ne présentons que l’introduction faite
+par Pinhas, et pendant cette brève présentation, Deleuze intervient par moments avec des
+questions et quelques commentaires.]
+
+Partie 1
+
+Richard Pinhas : … de l’harmonie infinie, et de l’harmonie finie. Alors l’idée, c’était de mettre
+en portées musicales les symboles dont on [on tousse, mots perdus] … Alors je fais les portées,
+j’explique les signes, j’explique les signes logiques, les signes musicaux, j’attribue un accord qui
+correspond soit à la finitude, soit à l’infinité, et on voit que les symboles qui sont suggérés par
+Gilles correspondent exactement à ce qu’on pourrait faire pour une portée musicale. Alors, je ne
+l’ai pas développé, j’ai juste montré le schéma de manière à essayer de le formaliser
+analogiquement. Alors je fais les portées [Il se déplace au tableau et commence à noter à la
+craie, les portées, propos peu compréhensibles lorsque qu’il dessine pendant quelques minutes ;
+Pinhas indique en dessinant qu’il développe la modulation de l’harmonie infinie (ce que Deleuze
+appelle "variation") en mesures successives et aussi la modulation finie, avec des symboles qui y
+correspondent tirés de la musique. Il distingue aussi l’harmonie pré-établie à l’harmonie établie
+a posteriori, avec symboles musicaux correspondants ] [1 :00-5 :00]
+
+[5 :17] … l’accord représentant, d’un côté, la variation infinie, l’harmonie préétablie, et la
+possibilité d’un a priori chromatique complet qui serait donc une espèce de variation sur
+l’infinité, représentée graphiquement et chromatiquement par cet accord musical, par la formule
+de … [saut dans l’enregistrement], par la répétition simple … [saut dans l’enregistrement] avec
+une barre de musique non finie, parce que s’il y a une barre de musique finie, on a le symbole de
+la répétition simple, donc d’une répétition finie, le symbole du sujet ou de la monade, et un
+accord fini. Voilà. [6 :00] La prochaine fois, [saut dans l’enregistrement, propos perdus]
+
+Deleuze : Et le rapport de l’un et de l’autre ?
+
+Pinhas : Alors, le rapport est par rapport, je dirais, c’ est par rapport à formalisation et exclusion
+dans le sens où si tu as… si tu développes le côté … Moi, je suis parti de ça, c’est-à-dire que si tu
+développes une formule de l’infinité et une formule de la finitude, tu t’aperçois qu’en musique, il
+
+                                                                                                     2
+
+y a une formule qu’on peut incarner par ce type d’accord – alors je ne l’ai pas développé mais on
+le fera peut-être une autre fois quand on parlera de l’harmonie préétablie -- qui fait qu’on a dans
+la formation de certains types d’accord, de certains types de montées chromatique, par exemple,
+ou de certaines variétés qui sont à la limite de l’harmonie, on a quelque chose qui correspond
+complètement à l’infinité ou à l’infinité chez Leibniz. Alors que dans le cas opposé, on a
+exactement, je ne dirais pas l’inverse, on a la même chose [7 :00], mais dans le cas de la finitude,
+et ça se retrouve dans le développement par la coda et par la possibilité de répétition à l’infini,
+par opposition à une répétition simple qui se fait dans la répétition finie et qui nous bloquerait
+dans le cadre de la finitude. [Pause] Alors, bon, le plus important, ça sera de développer cette
+partie-là en rapport avec celle-là, et c’est ce qu’on fera, je pense, dans deux ou trois sens, dans le
+cas de l’harmonie préétablie.
+
+Deleuze : Il faudrait une troisième portée.
+
+Pinhas : Oui, celle de la fractale infinie, alors…
+
+Deleuze : Non, de la matière, la portée… [Deleuze et Pinhas parlent simultanément, propos
+confus alors]
+
+Pinhas : Elle va être incluse dans le développement de ça, disons…
+
+Deleuze : Mais, c’est une loi propre, c’est une loi d’harmonie propre…
+
+Pinhas : Oui, mais je crois que c’est du détail. Tout ce qui va être harmonie, harmonie partielle,
+tout ce qui… [8 :00], tout ce qui va concerner l’harmonie en musique fait partie de [mot pas
+clair] de ces formules-là, et c’est ce qu’on avait pensé à développer. Voilà.
+
+Deleuze : Enfin, moi ! Oui, oui, oui, ça, il faut le garder … [le projet que propose Pinhas]
+
+Pinhas : Le programme, on peut le garder en forme musical.
+
+Deleuze : Ouais, ouais, ouais. Il faut le garder alors. L’idéal serait que ça puisse se jouer aussi….
+[Pause]
+
+Pinhas : Je garderai ça pour demain…
+
+Deleuze : Alors tu en ferais une orchestration avec ça. [Pause] Oui, bon, ça, il faut la garder.
+C’est bien faire ça bientôt. [Pause] Bon. Vous y êtes ? [Pause]
+
+[Ici commence la transcription de WebDeleuze] [9 :00] Alors vous vous rappelez peut-être qu'on
+avait commencé à examiner ce que Leibniz avait à nous dire sur la Liberté, à savoir plus
+précisément sur notre liberté à nous. Je ne sais plus bien, j'avais commencé il y a bien longtemps,
+donc je reprends très alors le problème tel qu'il se pose. Il me semble que c’est extrêmement
+concret ce qu'il nous dit. J'espère qu'entre temps aussi vous avez, suivant ma demande, lu ou relu
+Bergson, et je voudrais qu'on arrive à une conception la plus concrète [possible]. Vous vous
+rappelez peut-être comment [10 :00] le problème se pose. C'est que, au niveau des propositions
+
+                                                                                                    3
+
+d'existence, comme il le dit tout le temps, le contraire n'implique pas contradiction, le contraire
+n'est pas contradictoire. Ce qui veut dire : au niveau des propositions dites d'essence, il est
+contradictoire que 2 et 2 ne soient pas 4, comme il dit. Mais au niveau des propositions
+d'existence il n'est pas du tout contradictoire que Adam ne soit pas pécheur. Il n'est pas
+contradictoire que Adam ne pèche pas. Un "Adam non-pécheur", on l'a vu, ça a été un thème
+qu'on a suivi longtemps, un "Adam non-pécheur",[11 :00] un César ne franchissant pas le
+Rubicon, ne sont pas impossibles, ils sont simplement incompossibles avec le monde que Dieu a
+choisi. Bon. Dès lors on dira : il n'est pas nécessaire que César franchisse le Rubicon, il n'est pas
+nécessaire que Adam pèche, et pourtant il est certain que Adam péchera ou que Adam pèche, il
+est certain que César franchira le Rubicon ou franchit le Rubicon. C'est certain, pourquoi? En
+fonction du monde choisi, puisque "franchir le Rubicon" est un prédicat ou événement, comme
+dit Leibniz, [12 :00] prédicat ou événement, est un prédicat ou un événement inclus dans la
+monade César. Donc il est certain que César franchira le Rubicon, mais enfin ça ne veut pas dire
+que ce soit nécessaire puisque un autre César était possible. Oui, mais il était possible dans un
+autre monde, et cet autre monde est incompossible avec le nôtre. Bon. [Petit saut dans
+l’enregistrement]
+
+Je vous disais que c'est très bien ça, mais ça concerne la liberté de qui ? De quoi ? Je peux dire, à
+la rigueur, cette histoire, cette distinction du certain et du nécessaire, ça concerne la liberté de
+Dieu ; ça revient à dire, en effet, que Dieu choisit entre des mondes et qu'il y a une liberté de
+Dieu [13 :00] dans la création. Mais ma liberté à moi, dans ce monde, la liberté de César dans ce
+monde, c'est quand même une faible consolation de se dire : ha oui, j'aurais pu faire autrement
+que ce que j'ai fait, mais dans un autre monde, et cet autre monde est incompossible avec celuilà, et finalement ça aurait été un autre moi. Et Leibniz le dit lui-même : un César qui ne franchit
+pas le Rubicon, c'est un autre moi.
+
+Donc nous, on arrivait avec notre question, ce que nous voulons, et on ne lâchera pas les textes
+de Leibniz tant qu’on n’aura pas une réponse à : et notre liberté à nous, dans ce monde et sans
+référence à d'autres mondes incompossibles ? [14 :00] Et en effet, Leibniz distingue très bien les
+problèmes, et je vous disais que, à ma connaissance, il n'y a que, il n’y a guère -- on ne peut pas
+s'engager avec Leibniz --, c'est très curieux comme la plupart des textes de Leibniz qui pose la
+question de la liberté bifurque sur [la question de] la liberté de Dieu, et se contente de nous dire :
+eh bien oui, vous voyez, que nous fassions ceci, sans doute, c'est certain, mais ce n'est pas
+nécessaire. Encore une fois le thème "certain mais pas nécessaire" ne sauve évidemment pas ou
+ne constitue évidemment pas ma liberté dans le monde, mais fonde et constitue la liberté de
+Dieu, eu égard à la pluralité de mondes possibles. Je vous disais : heureusement il y a deux textes
+qui ne bifurquent pas sur la liberté de Dieu, un court et un long, [15 :00] un petit texte tiré de la
+correspondance avec [Samuel] Clarke, [Deleuze l’épèle] Clarke étant un disciple de Newton, et
+d'autre part, un long texte admirable dans les Nouveaux essais sur l'entendement [humain], Livre
+2,chapitres 20 et 21, où là il s'agit pleinement de notre liberté à vous, à moi, à César, à Adam,
+etc.
+
+Et, je vous disais que si on essaie de bien dégager, on voit bien que c'est, il me semble, ce que je
+disais la dernière fois, c'est la première grande phénoménologie des motifs. C'est sur une
+phénoménologie des motifs que Leibniz va asseoir, va fonder [16 :00] sa conception de la liberté,
+sous quelle forme ? De notre liberté ! Eh bien, en dénonçant vraiment une double illusion, une
+
+                                                                                                        4
+
+double illusion concernant les motifs. Leibniz nous dit, premier chose : vous comprenez, on ne
+peut rien comprendre à la liberté, on ne peut rien saisir de la liberté humaine si on conçoit les
+motifs comme des poids sur une balance. Ce qui revient à dire quoi ? Eh ben, n'objectivez pas les
+motifs, ne faites pas des motifs quelque chose qui serait hors de l'esprit ou bien même dans
+l'esprit comme des représentations objectives, les motifs ne sont ni des objets ni des
+représentations d'objets ; [17 :00] ce ne sont pas des poids sur une balance dont vous pourriez
+chercher lequel l'emporte sur l'autre toutes conditions étant égales dans votre esprit. Donc
+premier danger : objectiver les motifs, les traiter comme des poids sur une balance. En d'autres
+termes, c'est l'esprit qui fait les motifs, ce ne sont pas les motifs qui vous font faire quelque
+chose, c'est d'abord l'esprit, votre esprit qui fait les motifs. Les motifs sont des profils de l'esprit,
+ce ne sont pas des poids sur une balance. [Pause] Si vous préférez, ce sont des profils de l'esprit,
+ce sont des dispositions de l'âme comme il dit dans la correspondance avec Clarke. [Pause]
+[18 :00]
+
+Deuxième illusion : ce serait de dédoubler les motifs : non plus l'illusion d'objectivation, mais
+l'illusion de dédoublement, et cette seconde illusion s'enchaîne avec la première. Si vous avez
+fait des motifs comme des poids sur une balance, c'est-à-dire si vous les avez objectivés, vous
+êtes forcé d'invoquer de nouveaux motifs subjectifs qui expliqueront pourquoi vous choisissez
+tels motifs plutôt que tels autres. En d'autres termes, si vous objectivez les motifs, vous êtes forcé
+de les dédoubler puisqu'il vous faudra un autre rang de motifs subjectifs [19 :00] pour expliquer
+votre choix des motifs objectifs. En d'autres termes, vous tomberez dans l'idée stupide qu’il faut
+vouloir vouloir. Il vous faudra dédoubler les dispositions, il vous faudra dédoubler les
+dispositions de l'âme ; il vous faudra des dispositions subjectives pour choisir l'une ou l'autre des
+dispositions objectives.
+
+Qu'est-ce que ça veut dire, dès lors ? On ne peut pas vouloir vouloir, c'est-à-dire que les motifs
+ne sont pas dédoublables. Ils ne sont pas dédoublables parce que les motifs ne sont pas objectifs
+ou objectivables. Bien. [20 :00] Et en effet, ils sont le tissu même de l'âme. [CD 1 #1] Qu'est-ce
+que ça veut dire, le tissu de l'âme ? Ce qui compose le tissu de l'âme, nous explique Leibniz, il ne
+faut pas croire comme ça que là aussi, l'âme soit une espèce de balance qui attend les poids sur
+elle. Le tissu de l'âme, c’est quoi ? C’est un fourmillement, un fourmillement de petites
+inclinations --- retenez bien le mot "inclination" parce qu’on aura un autre mot tout à l’heure qui
+lui ressemble mais qui ne sera pas le même -- un fourmillement de petites inclinations qui -- pour
+reprendre notre thème, ce n'est pas une métaphore --, [21 :00] qui ploie, qui plie l'âme dans tous
+les sens. Un fourmillement de petites inclinations là. Plus tard, on le verra quand on aura
+consacré au moins une séance là-dessus, à ça qui est un thème fondamental de Leibniz, c'est ce
+que Leibniz appellera les petites perceptions et les petites inclinations.
+
+Vous constaterez que… vous vous rappelez le fond de la monade qui est un tapis, qui est tapissé,
+mais en même temps cette tapisserie forme des plis. Vous retrouvez le même thème, un tissu de
+l'âme, fourmillant, c'est-à-dire avec des plis qui se font et se défont à chaque instant. Une
+multiplicité. [22 :00] Une multiplicité de petites tendances, de petites perceptions. Bien. C'est ce
+tissu de l'âme et cette multiplicité qui lui appartient que, vous vous rappelez que les Nouveaux
+essais reprennent un livre de Locke intitulé Essais sur l'Entendement humain, et c'est ce tissu de
+l'âme que Leibniz, pour son compte, va désigner en se servant d'un mot que Locke avait
+introduit, à savoir le mot inquiétude. Il dira que ce que Locke appelle inquiétude c'est
+
+                                                                                                       5
+
+précisément ce fourmillement qui ne cesse à aucun instant, comme si, chapitre 20 du livre 2,
+comme si mille petits ressorts. Vous vous rappelez [23 :00] au tout début ? Et si vous vous
+rappelez au tout début le thème du ressort constant chez Leibniz en fonction de la force élastique.
+Si la force est élastique, alors les choses sont comme mues par de petits ressorts. Là on retrouve
+mille petits ressorts. En d'autres termes, vous ne cessez de fourmiller. Et c'est comme si cette
+espèce de tissu vivant de l'âme ne cessait pas de se plier pas dans un sens ou dans l’autre là, j’ai
+trop dit, dans tous les sens. C'est une espèce de prurit. L'inquiétude est un prurit. L'âme est
+perpétuellement dans cet état de prurit. Et Leibniz, dans un très beau texte, [24 :00] nous dit :
+c'est le balancier, et le balancier, en allemand, dit-il, s'appelle précisément : inquiétude !
+[Unruhe] C'est dire que ce n'est plus un balancier objectif. Qu'est-ce que ça veut dire ?
+
+Je reprenais un exemple, alors, je le reprenais, quitte à essayer de le développer un peu, d'en tirer
+le maximum, dans le chapitre 21 du livre 2 des Nouveaux essais, l'exemple même qu'il donne : la
+taverne. Et j'essayais de le compléter pour que ce soit très clair. [Leibniz] nous dit, vous
+comprenez -- j'avais mal dit, je crois parce que j'avais dit "aller au café", ce qui est tout à fait
+déplacé quant au dix-septième siècle, c'était une erreur que vous avez corrigée [25 :00] puisqu’on
+allait à la taverne. – [CD 1, #2] Donc je vais à la taverne ou plutôt vais-je aller à la taverne ?
+Exemple typique de la liberté humaine ! Vais-je rester travailler, vais-je rester faire cours, ou
+bien vais-je aller à la taverne ? Il faut voir. Il faut comprendre. Il y a des gens qui vous disent :
+bon, vous allez assimiler la taverne, poids A, et travailler, poids B, et vous allez voir si, toutes
+choses égales, mais justement jamais rien n'est égal dans mon âme. [26 :00] Ça supposerait que
+mon âme ne soit pas précisément en état d'inquiétude. Les contre-sens, dès lors, se multiplient.
+C'est en même temps que l'on prête aux motifs une existence objective, comme si c'était des
+poids sur une balance, et que l'on lave l'âme de toute son inquiétude, comme si elle était une
+balance neutre prête à enregistrer le poids du poids. Ce n'est pas raisonnable. En fait le tissu de
+mon âme, en ce moment précis, en ce moment A, est fait de quoi ? Je dis : mille petites
+perceptions, mille petites inclinations qui vont de quoi à quoi ? Au loin j'entends. J'entends quoi?
+Au loin j’entends …est-ce de l'imagination, est-ce… ? [27 :00] Ce n’est pas important ; on fait
+avec ce qu’on a. De toutes manières, c'est un ensemble de petites perceptions et de petites
+inclinations.
+
+Qu'est-ce que j'entends au loin ? J'entends le choc des verres, j'entends la conversation des amis,
+et sinon je les imagine. Il n'y a pas lieu de penser que au niveau des petites perceptions, il y a
+sûrement des domaines où imaginer et percevoi, c'est très important de les distinguer ; au niveau
+des petites perceptions c'est moins sûr ; en tous cas ce n'est pas notre problème. Vous voyez déjà
+pourquoi les motifs ce n'est jamais des poids sur une balance. Il nous dit : mais vous comprenez
+un alcoolique, il comprend mille fois mieux que n'importe qui ; pourtant il avait une vie sobre et
+exemplaire, [28 :00] Leibniz, mais il comprend très bien. Un alcoolique, ce n'est pas du tout
+quelqu'un qui vit dans l'abstrait, ce n'est pas du tout quelqu'un dont l'âme est tournée sur de
+l'alcool, de l'alcool, comme si l'alcool était le seul poids capable d'agir sur cette balance. Mais
+l'alcool est strictement inséparable de tout un contexte fourmillant, auditif – gustatif, ça va de soi
+-- mais auditif et visuel ; la compagnie des compagnons de débauches, les conversations joyeuses
+et spirituelles qui me sortent de ma solitude, tout ça. Si vous mettez un ensemble alcool, il faut y
+mettre non seulement l'alcool, [29 :00] mais toutes sortes de qualités visuelles, auditives,
+olfactives, l'odeur de la taverne, tout ça. Mais de l'autre côté, le travail, là aussi il faut le prendre
+comme ensemble perceptif inclinatoire, petites perceptions-inclinations : le bruit du papier, c'est
+
+                                                                                                        6
+
+aussi de l'auditif, la qualité du silence, les pages que je tourne, le bruit de la plume, tout ça. Ce
+n'est pas neutre, tout ça. Je veux dire : de même que [30 :00] ce n'était pas l’alcool comme
+abstraction, ce n'est pas le travail comme abstraction. C'est tout un ensemble perspectivoinclinatoire. [Pause]
+
+[CD 1, #3] Qu'est-ce que c'est la question de la délibération ? Il est entendu que le tissu de mon
+âme presque va de l’un à l'autre, à tel moment. – Vous pouvez avoir d’autres ; je pense à cet
+exemple-là, mais je pourrais en prendre d’autres -- Il va donc de ce pôle perceptif effectué dans
+la taverne au pôle perceptif effectué dans le cabinet de travail. Et mon âme est parcourue de
+petites perceptions et de petites inclinations qui la plie, qui la ploient [31 :00] dans tous les sens.
+Délibéré, c'est de quel coté est-ce que je vais plier mon âme ? De quel coté ? C’est-à-dire, de
+quel côté est-ce que je vais intégrer, pour prendre un mot pseudo-mathématique, de quel côté estce que je vais intégrer les petites perceptions et les petites inclinations ? Ou si vous préférez, de
+quel côté plier mon âme, ça veut dire de quel côté [est-ce que] je vais produire, avec toutes les
+petites inclinations correspondantes, une inclination, non, plutôt [32 :00] une inclinaison, une
+inclinaison remarquable ? De quel côté est-ce que je vais produire avec toutes les petites
+perceptions possibles, une perception distinguée ? Produire avec un maximum de petites
+perceptions une perception distinguée, avec un maximum d’inclinations, de petites inclinations,
+une inclinaison remarquable, c'est-à-dire avec tous les petits plis qui tordent mon âme à chaque
+instant et qui constituent mon inquiétude, avec quoi est-ce que je vais faire et de quel côté est-ce
+que je vais faire un pli décisif, un pli décisoire ? [Pause] [33 :00] En d'autres termes, [Pause]
+quelle est l'action qui, au moment considéré, remplira mon âme suivant son amplitude ? D'où le
+terme perpétuel du balancier : le balancier comme amplitude de l'âme à tel ou tel moment.
+[Pause]
+
+Si bien que je vous disais, ce qui est essentiel, dans le chapitre 20, vous allez trouver une formule
+splendide : entre temps [34 :00] la balance a changé. On ne peut pas dire mieux, la balance a
+changé. La balance a changé, c'est le petit dessin que je vous proposais la dernière fois. [Deleuze
+va au tableau ; il ne trouve pas d’abord de la place pour écrire] Je vais le faire à côté… Là je
+vais faire là le mauvais dessin. Vous vous rappelez ? Le mauvais dessin, c'est de croire que j'ai
+une âme tout droite qui se trouve devant une bifurcation. [35 :00] Motif A, aller à la taverne,
+motif B, rester travailler. Ce schéma est stupide et a tous les défauts : les motifs sont objectivés,
+mon âme est supposée droite et indifférente, et pour choisir, il lui faut des motifs de motifs.
+
+Donc, ce schéma de la délibération, cette phénoménologie de la délibération n'est pas raisonnable
+et n'est pas sérieuse. Et pourquoi ? Parce que quand je délibère, est-ce que je vais [36 :00] à la
+taverne… non, c'est plus raisonnable de rester travailler… je retravaille un peu et je me dis : j'ai
+quand même envie d'aller à la taverne. [Rires] Je reviens à A. Qu'est-ce qu'il y a d'idiot dans le
+schéma? Ce qu'il y a d'idiot dans le schéma, c'est que lorsque je reviens à A, je fais comme si
+c’était le même que la première fois. Ce n'est évidemment pas le même. Entre temps, le motif a
+changé. Premier temps : ah, je vais aller à la taverne. Deuxième temps : ah non, il vaut mieux
+travailler. Troisième temps : si, j'y allais quand même. Mais le deuxième A n'est pas le premier
+pour la simple raison que B est passé entre les deux. [37 :00] L'absurdité qu'il y a à assimiler les
+motifs à des poids sur la balance, c'est que, à ce moment-là, les motifs restent constants dans la
+délibération.
+
+                                                                                                        7
+
+Dès lors, on ne voit vraiment pas comment on pourrait arriver à une décision quelconque car si
+l’on arrive à une décision par délibération, c'est bien dans la mesure où, dans le courant de la
+délibération, les motifs ne restent pas du tout constants. Ils ont changé, pourquoi ? Simplement
+parce que du temps a passé. C'est la durée qui fait changer les motifs, ou plutôt, ça ne fait pas
+changer les motifs, ça fait changer à mesure qu'il dure [38 :00] la nature du motif considéré. D'où
+je vous disais, la vraie figure, c'est ça… [Il dessine, pause] Voilà ! [Pause] Vous comprenez,
+c'est ça le seul schéma possible de la délibération. A… Alors on a fait toujours les mêmes
+valeurs. A, [39 :00] c'est la taverne ; B, c'est le travail. C'est un schéma d'inflexion. Une fois de
+plus, on retrouve notre histoire. Il n'y a que des inflexions dans l'âme. Qu'est-ce que ce sera
+l'inflexion dans l'âme, elle reçoit son nom : inclinaison ! Qu'est-ce que ça veut dire être libre pour
+nous ? Ça veut dire être incliné sans être nécessité. Les motifs m'inclinent sans me nécessiter.
+L'inclinaison de l'âme, c'est l'inflexion dans l'âme, l'inflexion telle qu'elle est incluse. C'est tout le
+premier trimestre qui est [40 :00] derrière ça.
+
+Alors je continue. A, taverne ; B, travail. Et là maintenant, et qui sait, nous tous qui savons que
+les motifs changent, il n'y a pas de A et de B. Il y a A', B', [Deleuze dessine] A second, B second,
+[Pause] C tierce… Ah, non, [Rires] A tierce, B tierce, [Pause] [41 :00] A quatre fois, B quatuor,
+etc… ça va ?
+
+Vous voyez que lorsque je délibère, je ne reviens pas du tout à A, par exemple. Ce n'est pas le
+même A. Alors, là-dessus pourquoi s'arrêter à un moment, et pourquoi même avoir délibéré,
+pourquoi ? [CD 1, #4] L'acte libre, [Deleuze parle très lentement] ce sera celui qui effectue
+l'amplitude de mon âme à tel ou tel moment, au moment où je le fais. [42 :00] Vous me direz,
+mais que c'est toujours le cas. Non ! Pourquoi ? Vous vous rappelez : il s'agit d'intégrer les
+petites perceptions et les petites inclinations pour obtenir une inclinaison remarquable,
+l'inclinaison de l'âme. Ce qui est capable de remplir ou non l’amplitude de l'âme à un moment
+donné, c'est une inclinaison, une inclinaison remarquable. Intégrer les petites inclinations,
+intégrer les petites perceptions, ça demande du temps, et dans toute la philosophie de Leibniz --
+et je crois qu'on ne peut comprendre le problème du temps chez Leibniz que lorsqu’il nous
+arrivera plus tard -- je crois que perpétuellement intervient chez Leibniz ce thème, cette espèce
+de leitmotiv : [43 :00] c'est quelque chose qui demande du temps. Est symbolique et exemplaire,
+on va y arriver peut-être aujourd'hui si on a le temps, atteindre le problème du régime de la
+lumière. La rupture ou une des ruptures fondamentales, c'est -- comme le disent tous les manuels
+--, Descartes croyait à l'instantanéité de la transmission de la lumière, à l'instantanéité de la
+lumière, et pour Leibniz, tout prend du temps, même la transmission de la lumière. L'intégration,
+fondamentalement, prend du temps. Et si c'est l'intégration mathématique, ce sera un temps
+mathématique, et si c'est l'intégration psychique, ce sera un temps psychique.
+
+Donc, mettons… suivons, eh ? Je suis parti de A', c’est-à-dire j'ai une vague envie d'aller [44 :00]
+à la taverne. B, pourquoi est-ce que je n'y vais pas. Simplement parce que ça reste à l'état de
+petite inclination, petite perception ; ça fourmille, oui j'ai envie, j’ai envie, mais je suis au travail.
+La question, c'est : je ne la sais pas, l'amplitude de mon âme, à ce moment-là ; il me faut du
+temps. Est-ce que je peux attendre ? Souvent je ne peux pas attendre, alors je me précipite à la
+taverne. [Rires] Est-ce que j'aurais pu attendre ? J'aurais pu attendre, mais ça n'aurait pas été le
+même moi. [45 :00] Puis très souvent, je fais un acte qui ne répond pas du tout à l'amplitude de
+mon âme ; je passe même mon temps à ça. Chaque fois que je fais un acte machinal, ça ne
+
+                                                                                                       8
+
+répond pas du tout à l'amplitude de mon âme : quand je me rase tous les matins, ça ne répond pas
+à l'amplitude de mon âme ; il ne faut pas exagérer ! [Rires] Il n'y a aucune raison, comme pour
+certains philosophes, de soumettre toutes les actions que nous faisons au critère : est-ce libre ou
+pas ? Mais la liberté, c'est pour certains actes. Il y a toutes sortes d'actes qui n'ont pas à être
+confrontés au problème de la liberté. [Pause] [46 :00] Ils se font selon, je dirais, uniquement là
+pour calmer l'inquiétude, tous les actes machinaux, tous les actes habituels, tout ça. On ne parlera
+de liberté que là où se pose la question d'un acte capable ou non de remplir l'amplitude de l'âme à
+tel moment. Et je dirais : est libre l'acte qui remplit effectivement l'amplitude de l'âme à tel
+moment.
+
+Voyez ? C’est pour ça que je n’ai pas fait du tout mes … [Deleuze ne termine pas la phrase]
+Supposons au moment A, petit a, le maximum d'amplitude est du côté de A', qui est plus ample
+que B, c'est-à-dire aller à la taverne, car aller à la taverne, ça implique une amplitude de [47 :00]
+l'âme. Ce n'est pas de la pure étroitesse ; ça s'ouvre sur tout ce que j'ai dit : retrouver les amis, les
+joyeuses conversations, les plaisanteries les plus spirituelles comme on entend rarement, etc…
+[Rires] Bon. Mais est-ce que je peux attendre ? Et vous verrez, les chapitre 20 et 21 sont pleins
+de la question : peut-on attendre ? On peut tout concevoir. Si Adam avait pu attendre… Eh oui, si
+Adam avait pu attendre… [Interruption de l’enregistrement BNF et YouTube, lacune 1] [47 :46]
+est-ce qu'il aurait péché ? … [Fin de la lacune 1, BNF et YouTube ]
+
+Partie 2
+
+… Et je me dis, attendons, attendons, attendons un peu, et je me retiens. Et l'instant d'après, pas
+tout à fait après parce que c’est un problème très concret ça, [48 :00] la question des attentes,
+arriver à attendre, et d'une certaine manière le monde a changé, le problème ne se pose plus de la
+même façon. Il y a des cas où on ne peut pas attendre ; il y a des cas où il ne faut pas attendre ; il
+y a des cas où attendre change tout. Alors là, vous voyez que là [Deleuze tape sur le tableau avec
+la craie] mon âme a gagné en amplitude et c'est du côté de travailler, et puis là mon âme a encore
+gagné en amplitude mais c'est du côté taverne. C'est à quel point que ce n'est jamais le même
+motif ; quand je reviens au même motif, ce n'est pas le même motif. Pourquoi ? Du temps a
+passé. Entre A seconde et A tierce, du temps a passé, du temps a passé qu'on appellera de la
+durée. Alors si vous me dites : [49 :00] oui, pourquoi ne pas s’arrêter à A seconde ? Je dirais
+tantôt tantôt. Tantôt je m'arrête à A seconde, tantôt je ne m'y arrête pas. Suivant quoi ? Eh ben,
+tantôt parce que A seconde à tel moment effectue l'amplitude de mon âme, tantôt parce que A
+seconde a beau ne pas effectuer l'amplitude supposée de mon âme, je [agis]… [saut très bref de
+l’enregistrement] comme si l'acte machinal l'emportait, etc. Bien plus, vous pouvez inverser le
+schéma pour avoir un processus non plus progressif comme je l'ai fait là, mais un processus
+régressif où ma pseudo-spirale, au contraire, [50 :00] s'amenuisera, l'amplitude diminuera. Vous
+avez des séries où l'amplitude de l'âme diminue. Vous comprenez ?
+
+Bon, [Deleuze revient à sa place] ça va peut-être s'arranger en tout cas. Il faudrait que ce soit très
+concret. Ce qui revient à dire, oui, [que] l'acte libre, c'est celui qui exprime toute l'âme à tel
+moment de la durée ; l’acte libre, c'est celui qui remplit toute l'amplitude de l'âme à tel moment
+de la durée, c'est celui qui exprime toute l'âme à tel moment de la durée ; en d'autres termes, c'est
+celui qui exprime le moi. [Pause] [51 :00] [CD 1, #5] C'est l'acte parfait ou achevé quel qu'il soit.
+Il est parfait ou achevé en tant qu'il exprime le moi. Ah bon, il exprime le moi, il est parfait ou
+
+                                                                                                     9
+
+achevé. Eh ben, là, on tombe sur quelque chose qui va être très important, philosophiquement, et
+puis vitalement, tout quoi. Je veux dire, c'est l'acte parfait ou achevé. L'acte parfait ou achevé
+c'est une notion bien connue de la philosophie, elle a un nom grec donc, mais un nom grec qui
+sonne étrange, c'est l'entéléchie, [52 :00] entelechia [Deleuze l’épèle en grec] -- enfin, c’est -chie
+en transcription française -- l'entéléchie dont nous parlait beaucoup Aristote. Là, en gros – là, je
+n'ai pas le temps de vous expliquer ce que c’est chez Aristote -- mais en effet, c'est en effet l'acte
+qui a sa fin en lui-même, c'est-à-dire l'acte parfait ou achevé, [Pause] et dans la philosophie
+d'Aristote, c'est l'acte permanent, c'est un acte doué de permanence par opposition à l'acte
+successif. [Pause] En d'autres termes, [53 :00] l'acte parfait ou achevé, déjà chez Aristote, ce
+n'est pas l'acte une fois fait, ce n'est pas l'acte au passé. Et pourtant c'est très compliqué cette
+histoire puisque l'entéléchie se manifeste sous forme d'un temps grec très spécial qui est
+l'Aoriste, et qui est un temps qui a quelque chose à faire avec le passé, mais qui est, si vous
+voulez, ce qu'on appelle le parfait. Le parfait. Mais pressentons que réduire le parfait au passé
+serait déjà, même pour Aristote, tout à fait insuffisant, et serait même un contresens.
+
+Oublions Aristote. On revient à Leibniz. Pour Leibniz, [54 :00] c’est évident, c'est encore plus
+évident. L'acte parfait, c'est l'acte qui exprime l'âme suivant toute son amplitude, suivant toute
+l'amplitude de l'âme. C'est l'acte qui exprime le moi ; cet acte est un acte au présent. Et là je
+reviens, et je voudrais revenir sans me lasser et sans trop vous lasser toujours là-dessus, parce
+que ça me paraît complètement oublié ou négligé par les commentateurs, l'importance du présent
+dans toute la philosophie de Leibniz, l'action au présent, l'acte au présent.
+
+Vous vous rappelez que lorsqu'il s'agit de montrer en quoi consiste l'inclusion, Leibniz part
+[55 :00] toujours d'acte en train de se faire, non pas d'acte fait. "J'écris" dans la Monadologie,
+c'est-à-dire que je suis en train d'écrire. Dans les Lettres à Arnauld, "je voyage", je suis en train
+de voyager. [Pause] C'est très important parce que, à première vue, il semblerait que l'inclusion
+dans la monade soit le propre des actes passés. Eh ben non, pas du tout. Les actes passés ne sont
+inclus dans la monade que parce que l'acte présent doit l'être. Vous vous rappelez ? C'est parce
+que l'acte présent "j'écris" est inclus dans la monade que, dès lors, les causes pour lesquelles
+[56 :00] j'écris, c'est-à-dire les données passées, sont incluses aussi. L'inclusion, c'est la
+fermeture : la monade enferme ses propres prédicats, elle renferme ses prédicats. Bon. Ce qui est
+essentiel, c'est que la clôture ou fermeture, c'est-à-dire l'inclusion, est le correspondant de l'acte
+présent en train de se faire et non pas des actes passés. L'inclusion, c'est la condition du présent
+vivant et ce n'est pas la condition du passé mort.
+
+Ah bon, ça, on l’a vu. Mais qu'on le retrouve là maintenant, pour moi [57 :00] c'est très important
+parce que c'est tout Leibniz qui change, vous comprenez. Du coup, vous devez sentir que
+l'inclusion est pleinement en train de se concilier avec la liberté. C'est parce qu'on fait des
+contresens sur l'inclusion ; on se dit, ah l'inclusion ça veut dire qu'on inclut tout sur le mode du
+déjà fait. C'est comme si avant de l'avoir franchi, César avait déjà franchi le Rubicon. A ce
+moment-là, on a fait déjà le contresens ; dès qu'on dit ça on a fait le contre-sens. L'inclusion, c'est
+le correspondant de l'acte en train de se faire, c'est la condition de l'acte en train de se faire, et
+non pas du tout le résultat de l'acte une fois fait. Ce ne sont pas les actes passés qui tombent dans
+la monade ; c'est l'acte en train de se faire qui ne pourrait pas être fait si, en même temps qu'il est
+fait, il ne s'inscrivait dans la monade, [58 :00] il ne s'incluait dans la monade pour se faire en se
+faisant.
+
+                                                                                                         10
+
+Mais enfin, alors quoi ? Eh bien, pourquoi ? Pourquoi ? [CD 1, #6] Parce que, écoutez bien : c'est
+que l'acte présent ne peut être parfait qu’à quelle condition ? A condition que son propre
+mouvement ait une unité. Ce qui définit la perfection de l'acte, ce n'est pas qu'il soit fait, c'est que
+[59 :00] le mouvement par lequel il se fait ait une unité. [Pause] Il faut une unité du mouvement
+en train de se faire. [Pause]
+
+Eh bien voilà, qu'est-ce qui donne à un mouvement de l'unité ? Le mouvement par lui-même ?
+Non, c'est un pur relatif. Relativité du mouvement. Ce qui donne une unité au mouvement, c'est
+l'âme, c'est l'âme du mouvement. Seule l'âme est l'unité du mouvement. [60 :00] Sinon, si vous
+en restez au corps, vous pouvez bien attribuer un mouvement aussi bien au corps A que au corps
+B. Il y a une relativité absolue du mouvement. Seule l'âme est capable de donner une unité au
+mouvement. Bien.
+
+Qu'est-ce que c'est que l'acte parfait ? Vous allez comprendre peut-être : l'acte parfait, c'est l'acte
+qui reçoit de l'âme qui l’inclut l'unité d'un mouvement en train de se faire. C'est vous dire à quel
+point l'acte parfait n'est pas l'acte une fois fait ; c'est le contraire. C'est l'acte présent, c'est l'acte
+qui se fait, mais qui reçoit de l'âme [61 :00] l'unité d'un mouvement en train de se faire, qui reçoit
+de l'âme l'unité nécessaire. A quelle condition reçoit-il cette unité ? A condition d'être inclus dans
+l'âme, d'être inclus au présent. D’où nouvelle définition -- je termine pour être sûr que… avant de
+vous demander si vous comprenez bien – d’où nouvelle définition de l'acte libre, je disais tout à
+l'heure et soyez sensible à ceci que c'est vraiment la même chose, on passe d'une définition à
+l'autre de manière continue. Je disais d'abord : l'acte libre, c'est l'acte qui exprime le moi, c'est-àdire qui exprime l'âme dans toute son amplitude à un moment de la durée, et je dis maintenant
+que l'acte libre c'est celui [62 :00] qui reçoit de l'âme qui l'inclut, c'est l'acte présent, qui l'inclut
+présentement, c'est l'acte présent qui reçoit de l'âme qui l'inclut l'unité d'un mouvement en train
+de se faire. [Pause]
+
+Et voyez, je peux recommencer : bien sûr, dans la journée, c'est très rare que je fasse des actes
+libres. La question de la liberté, ça se pose au niveau de l'importance ; c'est quand j'ai quelque
+chose à faire qui m'importe. Oui, là la question de ma liberté me concerne. Sinon, je passe mon
+temps à faire des actes… Bon. [63 :00] Ça n’a aucune importance que mon mouvement ait de
+l’unité ou pas. C'est très rare les actes où il est important qu'ils reçoivent de l'âme l'unité d'un
+mouvement en train de se faire. Sinon, il y a toutes sortes de mouvements qui se font tout seuls :
+marcher, aller dans la rue, tout ça, et puis tout d'un coup, il y a un moment où il me faut de l'âme.
+Il ne m'en faut pas tout le temps ; d'abord c'est épuisant, ces histoires d'amplitude de l'âme. Je ne
+sais pas si vous sentez : ayez une âme ample ! Pourquoi avoir une âme ample, après tout je ne l'ai
+pas encore dit. Pourquoi pas se contenter d'avoir une toute petite amplitude ? C'est qu'il y a plein
+de gens qui se contentent d'une toute petite amplitude, mais ils font des actes libres du moment
+que les actions [64 :00] au présent qu'ils font reçoivent l'unité d'un mouvement en train de se
+faire, c'est-à-dire du moment que leurs actions expriment l'amplitude de leur âme quelle qu'elle
+soit.
+
+Alors, au point où on en est, il faudrait s'arrêter en disant : Ayez une âme même de toute petite
+amplitude, simplement trouvez les actions qui correspondent à cette amplitude, et vous serez
+libre, et vous serez des hommes libres. En d'autres termes, ce qui est menacé chez Leibniz ce
+n'est pas la liberté, c'est la morale, car dire aux gens "ayez une âme aussi étroite que vous voulez,
+
+                                                                                                   11
+
+vous serez libre du moment que vous ferez au présent des actes qui exprimeront cette amplitude,
+[65 :00] donc allez vous saouler à la taverne autant que vous voulez, [Rires] si c'est ça qui
+correspond à l'amplitude de votre âme", vous comprenez que on n’attend pas ça d'un philosophe
+qui s'est réclamé de la moralité des mœurs, ce que Leibniz n'a pas cessé de faire.
+
+Ce qui est essentiel, c'est ce que je viens de dire, je crois, c'est cette histoire du présent chez
+Leibniz. Je crois que vous savez une des théories les plus difficiles de Leibniz, c'est la théorie du
+temps, et que donc là on pose des jalons pour l'avenir quand on en arrivera à ce problème du
+temps [chez Leibniz]. Et que l'acte libre soit au présent, que l'acte soit fondamentalement au
+présent, ça me paraît très, très important. Que l'amplitude de l'âme soit variable [66 :00] dans
+l'ordre du temps, tout ça, c'est une réalité du temps comme durée qui est très, très importante.
+
+Alors l'acte est au présent, bon, est-ce que c'est compris ou pas, ça? Je veux dire, comprenez, ce
+que je voudrais que vous compreniez c'est ceci, c’est deux thèmes : L'acte parfait ou achevé n'est
+pas un acte terminé, n'est pas un acte une fois fait. Mais l'acte parfait ou achevé, c'est l'acte qui
+reçoit de l'âme qui l’inclut l'unité d’un mouvement en train de se faire. Troisième point, qui est la
+conclusion : ne croyez pas que l'inclusion assimile les actes à des actes toujours passés et déjà
+passés ; l'inclusion est au contraire la condition de production de l'acte présent en tant que
+présent. [67 :00] Ouais !
+
+Un étudiant : [Question du fond de la salle, inaudible, sur la durée]
+
+Deleuze : La durée peut se faire même, elle peut appliquer un rétrécissement, absolument ça.
+[Pause] Or vous allez peut-être tout comprendre si vous tenez compte d'une extraordinaire
+théorie de Leibniz, une des plus belles théories, et l’on ne doit pas dire théorie à ce niveau, mais
+[c'est] une véritable pratique qui concerne un problème qui nous soucie tous, à savoir celui de la
+damnation. [CD 1 #9] Les damnés. Qu'est-ce qu'un damné ? Ou si vous préférez : les damnés
+sont-ils libres ?
+
+Et je fais un grand appel à vous pour que vous respectiez [68 :00] une discipline aujourd'hui
+disparue, à savoir la théologie. La théologie, elle survit comme ça, mais enfin, elle est devenue
+comme une science physique aujourd’hui. Mais dans le vieux temps, au dix-septième siècle
+encore, je ne parle pas d'avant, la théologie, comprenez ce que c'était. Pourquoi est-ce qu’il y
+avait une telle alliance philosophie théologie ? Ce n'est pas simplement à cause de Dieu, ce n'est
+pas les histoires de Dieu qui soudent l'alliance théologie-philosophie, c'est bien plus beau que ça
+quand même. C'est que la théologie est une extraordinaire logique, une extraordinaire logique ;
+bien plus, je pense qu'il n'y a pas de logique possible sans théologie. Pourquoi ?
+
+Parce que… [69 :00] Ça me paraît évident parce que on nous dit, là, aujourd'hui, que nous
+savons qu'il n'y a pas de logique sans paradoxe, pas de logique sans paradoxe ; c'est même
+certains paradoxes célèbres qui, chez Bertrand Russel, ont été à la base, et chez les autres, pas
+seulement Russel, ont été à la base de la construction de la logique moderne. Mais ce n'est pas
+d'hier cette situation d'un rapport, d’un nœud fondamental entre la logique et le paradoxe,
+simplement avant, c'est la théologie qui fournit à la logique la matière [70 :00] paradoxale qui lui
+est absolument nécessaire. Sous quelle forme ? La Trinité, trois personnes en une ; la
+transsubstantiation, le corps du Christ et le pain ; tout ce que vous voulez, la résurrection, la
+
+                                                                                                   12
+
+résurrection des corps. Mais comprenez, c'est le matériau paradoxal inséparable d'une logique
+pure. Ils n'ont pas besoin de la trouver dans une théorie des ensembles au dix-septième siècle,
+parce qu'ils ne la connaissent pas, mais ce n'est pas pour ça. La théologie est plus féconde en
+paradoxes que les mathématiques. [Pause] [71 :00]
+
+Et si la théologie a une vie tellement intense c'est parce qu'elle tient ce rôle. Il est vrai que ces
+paradoxes ne sont pas sans danger puisque pour un rien on se fait condamner et même pire,
+brûler. Il faut se rappeler que ce n'est pas vieux au moment où Leibniz écrit, ce n’est pas vieux
+encore, un des derniers grands brûlés qui était Bruno qui a eu beaucoup d’importance pour
+Leibniz. Mais enfin c'était des paradoxes un peu dangereux, plus dangereux que les paradoxes
+actuels, quoique se faire injurier par Wittgenstein n'est pas gai, [Rires] il vaut mieux ça que être
+brûlé vif. J'entends que Wittgenstein ne me paraît pas être une source de paradoxes mais être une
+espèce de grand inquisiteur, lui. [72 :00] C'est terrible tout ça, vous savez.
+
+Mais le lien… Je voudrais que… oh, non, on n’a pas le temps. Mais retenez juste cette possibilité
+d’un lien fondamental entre la logique et la théologie. Bien. Je crois que la théologie est la
+matière naturelle de la logique jusqu'à un certain temps, c’est-à-dire, jusqu'au dix-huitième
+siècle. Et c'est là l'alliance fondamentale théologie-philosophie, qu’on ne doit pas ou que ce n’est
+pas du tout suffisant d'invoquer le bon Dieu et l'idée de Dieu pour nous dire : ha , à ce momentlà. Rien du tout à ce moment-là ! Si vous voulez la théologie, c'est exactement pour la
+philosophie ce qu’est la crucifixion pour un peintre. Exactement. Alors ça n’empêche pas…
+[73 :00] Je ne veux pas dire qu'ils ne croyaient pas en Dieu, je ne veux pas du tout dire ça, mais
+je voulais dire qu'ils ne croient pas seulement en Dieu, et s’ils croient en Dieu, c'est pour des
+raisons en effet qui sont très liées à la logique du paradoxe. Bien.
+
+D’où je dis, ne croyons pas que ce soit un vieux problème que revenir à cette question, mais
+qu'est-ce qu'un damné après tout? Et Leibniz fait une extraordinaire théorie de la damnation là où
+je n'ose pas tout lui prêter. Il faudrait être très, très savant, il faudrait demander à un père [de
+l'église] spécialiste de venir, qui serait très savant, qui aurait lu les théologiens de l'époque,
+[74 :00] Leibniz ne se cache pas d'emprunter beaucoup aux théologiens de l'époque, car non
+seulement il y a paradoxes, mais il y a cas, il y a casuistique. Les deux appartenances de la
+théologie à la philosophie, c’est ce double aspect, ou à la logique, c'est ce double aspect :
+paradoxe et casuistique, le cas. Par exemple, un cas : si c'est un saint qui fait une prière, [CD 1
+#10] peut-il obtenir la levée d'une damnation ? Délicat. Si c'est un saint qui demande la levée de
+la sanction d'un damné, est-ce que ça peut se concevoir, un damné qui cesse de l'être ? Ou est-ce
+que c'est éternellement, la damnation [75 :00] est-elle éternelle ? Vous me direz, ah bon ? Ouf.
+Mais, c'est très important !
+
+Alors je dis là aussi dans deux sortes de textes, Leibniz aborde cette question de la damnation.
+D'abord dans la Théodicée où il va jusqu'à annoncer que les damnés sont libres, aussi libres que
+les bienheureux, mais le texte n'est pas clair. Et dans un autre texte où il va développer toute une
+théorie admirable de la damnation, sentez que -- c’est toujours notre souci -- que ce n'est pas
+étranger, à l’époque, ce n’est pas étranger au baroque, toute une théorie de la damnation, et ce
+texte s'appelle en latin Confessio philosofi, [76 :00] c'est-à-dire en français: Profession de foi du
+philosophe, et a été traduit par Belaval, une très belle traduction d’ailleurs, chez Vrin. C'est un
+petit texte d'une quarantaine de page, très, très beau où on sait tout sur la damnation. Et pourquoi
+
+                                                                                                        13
+
+est-ce que je reviens sur tout ça ? Parce que voilà, on pourrait croire, la damnation, ça survient
+dans notre problème au point où il faut, car on pourrait croire que le damné paie pour un acte
+abominable qu'il a fait. Eh bien non. [77 :00] La grande idée de Leibniz c'est que le damné ne
+paie pas pour un acte abominable qu'il a fait ; la damnation est au présent, et il n'y a de
+damnation qu'au présent. Donc, pour nous, ça va devenir… peu importe qu'il s'agisse d'un
+problème théologique, peu importe tout ça, ça va être quelque chose de fondam[ental]… et c'est
+en ce sens même que les damnés sont libres ; la damnation doit se comprendre au présent. Bien.
+
+Mais, on va essayer de comprendre mais autant tourner autour de cette idée parce qu'elle est
+belle. Mais du coup est-ce qu'on n’est pas en train de déterminer – alors on fait une courte
+parenthèse, [78 :00] ne serait-ce que pour reprendre des forces -- est-ce qu'on n'est pas en train de
+retrouver une constante de ce qu'on peut bien appeler le Baroque ? [Pause] Ce que je viens de
+dire, l'unité du mouvement en train de se faire, l'âme comme unité du mouvement en train de se
+faire, c'est ça, le Baroque. Qui s'est proposé avant le Baroque de saisir le mouvement du point de
+vue d'une unité qui le définit comme [79 :00] en train de se faire ? Le thème d’un mouvement en
+train de se faire et saisi sur le vif, en tant qu'il se fait et en tant qu'il reçoit son unité de l'âme, ça
+ne va pas de soi du tout, et ça c'est vraiment une vision baroque. On a souvent remarqué que la
+peinture baroque ne cesse de saisir précisément le mouvement en train de faire, fût-ce la mort.
+C'est avec le Baroque que les peintres se mettent à peindre les saints en tant qu'ils éprouvent, en
+tant qu'ils subissent [80 :00] directement leur martyr, l'unité de la mort comme mouvement en
+train de se faire ou la mort en mouvement.
+
+C'est Jean Rousset dans son livre sur la littérature baroque en France qui intitule un chapitre "La
+mort en mouvement" pour définir le Baroque, c'est-à-dire la mort comme mouvement en train de
+se faire [La littérature de l’âge baroque en France: Circé et le paon (Paris : Corti), 1953.] Et il
+cite un très beau texte d'un auteur que tout le monde considère comme un des grands baroques,
+Quevedo, très beau texte sur la mort: [81 :00] [Deleuze cherche dans le texte] "vous ne
+connaissez pas la mort, vous autres" - c'est la mort qui parle et qui dit : "vous savez, vous me
+représentez comme un squelette, vous n'êtes pas raisonnables, je ne suis pas un squelette," ditelle ! Pourquoi ? Vous voyez l'importance de ce texte de Quevedo pour nous, du point de vue où
+nous nous plaçons. Je ne suis pas un squelette, moi la mort, c'est-à-dire que le squelette, c'est ce
+que je laisse derrière moi, c'est le une fois fait, c'est la mort toute faite, c'est la mort… alors,
+essayons de dire un mot qui nous servira plus tard, peut-être que c'est la mort symbolique, mais
+chacun sait que le Baroque, ou chacun sait depuis Walter Benjamin que le Baroque [82 :00] ne se
+définit jamais par le symbole mais par l'allégorie. Le squelette, c'est peut-être un symbole de la
+mort ; ce n'est pas une allégorie de la mort. C'est curieux d'ailleurs, je crois, et je ne parle plus au
+nom de Benjamin, je pense que l'allégorie est toujours au présent. Le squelette, c'est la mort une
+fois faite, mais la mort, c'est la mort comme mouvement en train de se faire. Vous ne connaissez
+pas la mort, vous autres, c’est vous-mêmes -- c'est un beau texte -- c'est vous-mêmes qui êtes
+votre mort, qui êtes, c'est vous-mêmes qui êtes votre mort. Vous êtes tous les morts de vousmêmes ! Vous comprenez, c'est avec votre chair, ce n'est pas avec votre [83 :00] misérable
+squelette qui n'apparaîtra que une fois que tout est fini, c'est vous dans votre présent. La mort, ça
+n'est ni du passé ni du futur. L'âge classique depuis Epicure nous a dit la mort, c'est soit du passé
+soit du futur, alors qu'est-ce que vous avez à vous plaindre ? Si vous êtes mort, eh bien, ça y est,
+et si vous l’attendez et elle n’est pas là encore, de quoi vous… Arrêtez de vous lamenter. Mais,
+
+                                                                                                     14
+
+non, le Baroque dira, vous ne comprenez rien parce que vous considérez des mouvements déjà
+faits. [CD 1 #11]
+
+Partie 3
+
+[Début du renversement d’un segment de 12 minutes dans la transcription de WebDeleuze avec
+le segment qui suit ici, renversement corrigé dans la suite] Si vous considérez le mouvement en
+train de se faire, et que la mort comme toutes choses [84 :00] est un mouvement en train de se
+faire. Vous êtes tous les morts de vous-mêmes. Votre crâne est la mort, mais comprenez bien,
+pas votre crâne -- la peau ôtée, le cuir chevelu ôté -- votre crâne là que vous touchez, que vous
+tapez, c'est ça la mort. Et votre visage, votre visage est la mort. "Ce que vous appelez mourir,
+c'est achevé de vivre, et ce que vous appelez naître, c'est commencer à mourir, comme aussi ce
+que vous appelez vivre, c'est mourir en vivant. Et les os, c'est ce que la mort laisse de vous-autres
+et ce qui reste dans la sépulture"-- c'est le une fois fait -- [85 :00] "si vous compreniez bien cela,
+chacun de vous aurait, tous les jours, un miroir de la mort en soi-même, et vous verriez aussi en
+même temps que toutes vos maisons sont pleines de morts, qu’il y a autant de morts que de
+personnes, et que vous n'attendez pas la mort, mais vous l'accompagnez perpétuellement"
+[Source de la citation non-indiquée mais vraisemblablement de Quevedo cité par Jean Rousset].
+On ne peut pas mieux dire, le mouvement en train de se faire ! Vous n'attendez pas la mort, mais
+vous l'accompagnez perpétuellement, la mort comme mouvement en train de se faire. Or encore
+une fois, le mouvement en train de se faire exige une unité ; cette unité, il ne peut la recevoir que
+de l'âme. Voyez ? On retrouve ça, bien.
+
+Mais l'heure est venue, la damnation, [86 :00] la mort est au présent, même la mort est au
+présent, même la damnation est au présent. Et pourquoi ? Eh bien, vous savez, c'est que le
+damné, il ne paie pas, encore une fois, pour un acte qu'il a fait ; le damné, il paie pour son propre
+présent. Ce qui revient à dire : il n'hérite pas de la damnation, il l'accompagne. Pourquoi ? Il nous
+dit une chose très curieuse, Leibniz. Il dit : Qu'est-ce que j'appelle un damné? Alors, c'est là que
+ma compétence fait défaut, parce qu’évidemment, [87 :00] à mon avis, il se réfère, il ne l'invente
+pas, à mon avis, ça, il ne l’invente pas ; c'est si beau, je vous lis le texte : qu’est-ce qu’il appelle
+un damné ? Il dit, "Judas", il cite même un damné… -- Je pense que je l’ai perdu, le texte ; je
+crois que je l’ai perdu… Ah, Voilà. -- "Judas. En quoi consiste la damnation de Judas ?"
+Réponse, à première vue, c'est d'avoir vendu le Christ. Non pas du tout. "On peut concevoir
+même quelqu'un qui aurait fait pire" -- là je m'avance – "et qui n'est pas damné". Je veux dire, à
+mon avis Adam n'est pas damné." [88 :00] Je me dis, enfin, que ça doit pouvoir se discuter,
+même… alors ou bien il y a une opinion universelle…Vous ne savez pas, Kirsten?
+
+Kirsten : [Propos inaudibles]
+
+Deleuze : Il est damné ? [Réponse inaudible] Vous êtes sûre ? Bien. Vous êtes sûre sûre ?
+
+Alors corrigeons. On peut concevoir et sûrement certains théologiens, qui furent brûlés pour ça,
+ont conçus que Adam n'était pas damné, car, ou alors il faut identifier damnation et péché capital,
+enfin peu importe. Je m'étais avancé un peu trop vite. Je recule. Supposons que Adam soit
+damné, et encore ça m'étonne, [89 :00] ça m'étonne bien, ça, est-ce qu'il est damné ? Enfin, bon.
+Judas lui il l'est, il est damné. Je vais vous dire pourquoi il [Adam] n'est pas damné, c'est une
+
+                                                                                                     15
+
+erreur. C'est des théologiens excessifs qui ont dit que Adam était damné, il ne peut pas être
+damné. Ça dépend comment on définit la damnation. Mais voilà comment Leibniz la définit, à la
+suite d'un certain nombre de théologiens : si Judas est damné, c'est à cause de la disposition dans
+laquelle il est mort. Sous entendez aussi, sans doute, la disposition qui était déjà celle qu'il avait
+quand il a vendu le Christ. C'est à cause de "la disposition dans laquelle il est mort, [90 :00] à
+savoir la haine contre Dieu dont il a brûlé en mourant". [Pause] "Le damné, c'est celui dont" -- je
+traduis -- "le damné c'est celui dont l'âme est remplie, effectuée, dont l'amplitude de l'âme est
+effectuée par la haine de Dieu. Cette haine [91 :00] est au présent". [Citations sans doute de
+Leibniz, la Profession de foi du philosophe]
+
+Vous me direz, oui, quand même, en quel sens? Je précise d'abord, parce que tout ça va être très
+important ; est-ce que je ne suis pas en train – alors là, on fait un gain considérable dans le
+problème qui nous reste -- parce que est-ce que je ne suis pas en train de découvrir qu'il y a un
+minimum absolu d'amplitude de l'âme ? Quel est la plus petite amplitude d'âme concevable ?
+C'est l'âme du damné. Ça aura des conséquences, vous verrez, des conséquence immenses. C'est
+l'âme du damné, le minimum d'amplitude. [92 :00] Pourquoi est-ce que l'âme du damné présente
+le minimum d'amplitude ? Cette âme est remplie par la haine de Dieu au présent… La haine de
+Dieu au présent, rien que dire ça, je ne sais pas, vous devez sentir, eh ben, moi, je sens une
+espèce de frisson : la haine de Dieu au présent. On va voir ce que ça entraîne.
+
+Et je dis que c'est la plus petite amplitude de l'âme. Pourquoi ? Parce que Dieu, c’est par
+définition l'être suprême, l'être infini. L'âme pénétrée par la haine de Dieu vomit tout, à la lettre,
+vomit toute chose, toute chose [93 :00] sauf cette haine : moi, je hais Dieu. Et le seul prédicat de
+l'âme damné : je hais Dieu. C'est le seul prédicat. Comment est-ce possible, ça ? Une âme
+damnée, c'est une monade, oui c'est une monade, toute monade exprime le monde, oui toute
+monade exprime le monde. Seulement vous vous rappelez peut-être, je reviens toujours à cette
+règle leibnizienne sans laquelle tout s'écroule : toute monade exprime le monde, oui, le monde
+infini, mais elle n'exprime clairement qu'une petite région du monde, son quartier propre, ou
+comme dit Leibniz [94 :00] -- je ne crois pas avoir cité ce texte encore, donc je le cite -- son
+département. Chaque monade est expression du monde entier, mais chacune a un petit
+département qui la distingue des autres, à savoir la région de monde, le quartier de monde qu'elle
+exprime clairement. Vous comprenez ?
+
+Alors, alors l'âme damnée ? D'accord, c'est une monade, elle continue à exprimer le monde
+entier, mais son département s'est réduit presque à zéro, la seule chose ; c'est une âme à un
+prédicat, si j'appelle "prédicat" les attributs ou les événements de la région, du département,
+[95 :00] de la région propre à la monade. Sa région propre, sa région claire, elle n'a pas d'autre
+clarté que cette horrible clarté du : je hais Dieu ! Je peux dire que c'est l'amplitude minimum.
+
+Mais pourquoi est-ce que cette haine est perpétuellement au présent ? Mais c'est parce que,
+précisément, elle remplit l'amplitude de l'âme, [Fin du premier segment renversé dans la
+transcription de WebDeleuze, début du second] ce sont des âmes tellement étroites, les âmes
+abominables, tellement étroites, étroites, elles n'incluent que ça : je hais Dieu, Dieu je te hais !
+Voilà, c'est ça Judas. Bon. Mais pourquoi est-ce que cette haine se renouvelle toujours au présent
+? [96 :00] Mais c'est parce que, en tant qu'elle traduit l'amplitude de l'âme, elle ne cesse de se
+refaire à chaque instant. Minimum d'amplitude, c'est-à-dire que c'est un cas de constance, c'est
+
+                                                                                                     16
+
+une amplitude constante, invariable, il n'y en a pas de plus petite. Et en tant qu'elle remplit
+l'amplitude de l'âme, elle donne beaucoup de joie au damné. Il faut concevoir les damnés
+heureux, sauf quelque chose qui va tourner à leur confusion. Mais c'est une histoire à épisodes.
+Le plaisir du damné. [CD 2 #2]
+
+Le damné, c'est une espèce d'infamie, il est infect, le damné, parce qu'il se plaint. Vous allez
+reconnaître [97 :00] tout de suite qui a retrouvé cette tradition. Il se plaint, il n'arrête pas de se
+plaindre : hou là là, mes douleurs, le feu, l’horreur du feu… etc., ah, non, pas ça, je n'ai pas
+mérité ça [Rires] …et en douce il rigole ! Il éprouve des plaisirs dont vous n'avez aucune idée.
+Pourquoi ? Bien sûr, le feu ça existe, c'est des petits inconvénients, [Rires] tout ça c'est mot à
+mot dans la Profession de foi. Mais, vous comprenez, l'acte qui remplit adéquatement l'amplitude
+de son âme, cette haine de Dieu, elle définit un plaisir fantastique, c'est la joie de l'acte libre : Je
+hais Dieu. [98 :00] Et le damné sait très bien que ses plaintes sont de fausses plaintes. [Pause]
+
+La formule de Leibniz est splendide, alors apprenez-la par cœur, parce qu’elle me donne raison
+en plus sur l'importance du présent. Leibniz dit : "Le damné n'est pas éternellement damné," il
+n'est pas éternellement damné, "mais il est toujours damnable," mais il est toujours damnable, "et
+se damne à chaque instant." [99 :00] "Le damné n'est pas éternellement damné, mais il est
+toujours damnable, et se damne à chaque instant." Ça, il faut l'apprendre par cœur, [Rires], au
+moins que vous en sortez avec une phrase de Leibniz qui ne soit pas "le meilleur des mondes
+possibles", [Rires] dans ce cas-là, vous n'aurez pas perdu votre année ; et que en plus cette phrase
+soit plus inquiétante que "le meilleur des mondes possibles, car comment est-ce que ces damnés
+vont faire partie du meilleur des mondes possibles, ça, ça va être une vraie joie de le découvrir.
+Mais en tous cas, vous voyez, perpétuellement, il se redamne au présent. Forcément.
+
+Mais pour cesser d'être damné, qu'est-ce qu'il faudrait qu'il fasse? Voilà, d’où ma question,
+Kirsten. Vous voyez ? Ma question, [100 :00] ce qui me trouble beaucoup, c’est que je ne
+reconnais aucun livre sacré ou pas sacré qui dise qu’Adam a fait quoi que ce soit par haine de
+Dieu.
+
+Kirsten : [Réponse inaudible]
+
+Deleuze : Il est quoi ?... Ah, vous croyez que c’est le baptême qui ferait la frontière là.
+[Réactions, voix diverses] Ah, c’est possible… Non, mais elle a peut-être bien raison,
+théologiquement… [Voix et discussions diverses ; réponse de Kirsten] Il [Dieu ?] a donné cette
+possibilité à qui ?
+
+Une étudiante : A tous ceux qui sont venus [Propos pas clairs]
+
+Deleuze : Ah, bon, à tout le monde, y compris Adam.
+
+L’étudiante : Sauf les méchants.
+
+Deleuze : Sauf les méchants… [101 :00]
+
+Une autre étudiante : [Propos pas clairs]
+
+                                                                                                 17
+
+Deleuze : Dans la déité théologique catholique, il n’est pas damné… [Réponses] Ouais ?
+
+Un étudiant : [Une autre question, du fond, inaudible]
+
+Deleuze : Quoi ? Je n’entends pas. [Voix diverses] Je sens que jamais un problème n’ait autant
+[crée cette réponse]… [Rires] C’est curieux… Ah, il faut vous taire, je n’entends pas ce qu’il
+dit…
+
+Un étudiant : [Une question, peu audible, sur la damnation]
+
+Deleuze : Ah, vous voulez que je… ah, ça, écoutez, ce n’est pas à moi qu’il faudrait le demander.
+[Rires] Oh, moi, je serais assez pour tout le monde damné, ça va… [Rires] [102 :00] Ah,
+seulement ça ne marche pas, eh ? Plus rien ne marche, notamment cette…
+
+Une étudiante : [Commentaire sur le suicide de Judas]
+
+Deleuze : Pourquoi il se tue ? Pourquoi Judas se tue ?
+
+Un étudiant [tout près de Deleuze] : Il se désespère du pardon (de Dieu).
+
+Deleuze : Eh, bien, non, il se tue aussi mais tout par la haine de Dieu. Sa dernière pensée – là, le
+texte est formel – il faudrait dire – alors c’est un terme un peu technique – par retournement
+contre soi. Sa haine de Dieu se retourne contre lui-même, dans la version leibnizienne, mais c’est
+fondamental, que le damné meure sur la haine de Dieu comme dernière pensée au point que
+quelqu’un qui ne meurt pas dans cette dernière pensée, sur la haine de Dieu, ne sera pas damné
+quoi qu’il ait fait. [103 :00]
+
+Un étudiant : [Commentaire peu audible, sur Adam]
+
+Deleuze : D’accord, c’est ce qu’on dit, nous, tu comprends ? Mais alors, mon trouble un peu
+c’est que là…
+
+L’étudiant : [Il interrompt, en continuant] …
+
+Deleuze : Ah, oui, oui, oui, mais tout ce que tu dis, ce n’est pas faux, mais notre problème, il est
+théologique, et notamment… sur la théologie [104 :00] catholique ou puis la théologie
+protestante, réformée, qu’est-ce qu’elle disait ? Alors là, j’ai une spécialiste qui me dit que Adam
+était évidemment damné
+
+Kirsten : Non, je n’ai pas dit…
+
+Deleuze : Mais alors, il y a un autre spécialiste qui dit non… [Rires] Vous savez, la théologie, ce
+n’est pas comme la philosophie. En philosophie, tout le monde est d’accord, [Rires] mais en
+théologie, ce n’est pas comme ça. Ils se battaient… [Pause, voix diverses]
+
+                                                                                                    18
+
+Une étudiante : [Propos inaudibles]
+
+Deleuze : Ah, il y a d’autres problèmes là. [Rires] Ecoutez, permettez-moi de rire en cachette
+parce que [Rires] parfois je m’épuise… [105 :00]
+
+Un étudiant : [Commentaire inaudible]
+
+Deleuze : Ah, tout le monde est damné ? Tu vas voir que ce n’est pas possible.
+
+Un étudiant : [Commentaire audible]
+
+Deleuze : Oh, chez les Orthodoxes ? Chez les orthodoxes russes, tout le monde est damné ?
+Qu’est-ce que tu racontes là ?
+
+Un étudiant : Chez les petits Russiens.
+
+Deleuze : Oh, il faut voir les petits Russiens eux-mêmes si…
+
+Un étudiant : [Commentaire sur les morts en Russie]
+
+Deleuze : Oh écoute, oh écoute, ne mets pas les petits Russiens là-dedans parce que…
+
+Un étudiant : [Commentaire inaudible du fond]
+
+Deleuze : Quoi ?
+
+L’étudiant : [Commentaire sur Adam et la haine de/contre Dieu]
+
+Deleuze : Voilà, eh bien, à mon avis… Il n’est pas défini "haine" chez Adam, il n’est pas défini
+haine, eh ? C’est le bon titre, oui…
+
+Richard Pinhas : [Propos pas clairs]
+
+Deleuze : Non, la damnation est infinie… [106 :00] La mort infinie ? Non, tu vas voir, il a tout
+prévu, Leibniz. [Rires]
+
+Mais, enfin, je suis partagé entre un fou rire naissant et une indignation radicale. Car il faut dire
+que nous n’avons jamais eu de séance aussi animée [Rires] qu’à propos de ces puérilités, alors
+qu’on vous fait de splendides séances sur les mathématiques, et là-dessus, on vous parle de
+Belzébuth, de Judas, eh vous faites aaaahhhh, [Rires] et tout le monde a quelque chose à dire.
+C’est quelque chose, eh ?... Honte sur vous ! Honte ! Honte sur vous ! D’ailleurs, [107 :00]
+d’ailleurs, vous avez peut-être des raisons d’aimer tant la damnation.
+
+Alors écoutez-moi : évidemment c'est la joie. Bien sûr, il souffre, il souffre abominablement.
+Mais c'est la joie. C'est la joie dans la mesure où il a une amplitude d'âme telle que, cette
+amplitude est complètement remplie par l'affect la haine de Dieu. Si bien qu’il est toujours
+
+                                                                                                       19
+
+damnable, mais ça signifie que, à chaque instant, il pourrait se dédamner. D'où Leibniz ne
+considère pas du tout comme invraisemblable, ou comme impossible, qu'un damné en sorte de la
+damnation. Qu'est-ce qui suffirait ? Il suffirait que son âme, uniquement, c'est tout simple, il
+suffirait qu'il cesse de vomir le monde. [108 :00] On a vu ce que voulait dire vomir le monde.
+Vomir le monde, c'est ne garder, dans son département, dans sa région claire, que ce prédicat
+minimum : la haine de Dieu ! [Pause] Alors il suffirait que [Pause] son amplitude d'âme
+augmente un peu, si peu que ce soit, et il serait du coup dédamné. Mais pourquoi, pourquoi il y a
+très peu de chance, même à la limite, il ne le fera jamais? Parce qu'il tient trop à cet état
+d'amplitude qui est, en effet, adéquatement [109 :00] rempli par le seul prédicat : Dieu je te hais !
+Si bien qu'il ne cesse de se re-damner. Toujours damnable, il ne cesse de renouveler la haine de
+Dieu parce que c'est ça qui lui donne le plus de plaisir par rapport à son amplitude d'âme.
+Pourquoi changerait-il d'amplitude ?
+
+Si bien que retentit l'infâme chanson de Belzébuth ! Comme je vous vois en forme, [Rires] il faut
+pour vous plaire vous chanter la chanson de Belzébuth, qui est très bien traduite par Belaval,
+mais en latin, elle est encore plus belle la chanson de Belzébuth. Je peux vous la chanter en latin
+ou en français. [CD 2 #3] Voilà la chanson de Belzébuth [Commentaire dirigé à Pinhas] C'est ça
+qu'il faudrait que tu mettes dans… [Rires]… Le venin -- c'est d’ailleurs très beau – [110 :00] "le
+venin s'insinue dans les membres et aussitôt la rage se déchaîne par tout le corps. Il faut que le
+crime s'ajoute au crime" -- ça je suis sur que ça va vous plaire – "Il faut que le crime s'ajoute au
+crime. Ainsi sommes-nous satisfaits. Il n'y a qu'une victime pour le furibond, l'ennemi immolé.
+Plaisir d'en disperser la chaire au vent et tailler dans le vif, arracher en mille lambeaux,
+transformer en autant de témoignages de mon tourment, de la soustraire cette chair à la trompette
+elle-même qui appelle à la résurrection."
+
+Voilà ce qu'il dit, Belzébuth. [111 :00] Or il est comme Judas, c'est celui dont l'amplitude
+d'âme… Et alors Leibniz raconte l'histoire, l'histoire affolante de l'ermite qui avait obtenu de
+Dieu la grâce de Belzébuth lui-même. Et Dieu lui avait dit : oui, vas-y, dis-lui juste que la seule
+condition est qu'il abjure, rien de ce qu'il a fait, rien du tout, qu'il abjure la haine qu'il a pour moi.
+En d’autres termes, qu’il ouvre un peu son âme. Et l'ermite dit, merci mon Dieu, c'est gagné, il
+est sauvé! Il va voir Belzébuth qui dit il y a sûrement une condition, il est malin, Belzébuth, il y a
+sûrement une condition. Non, non, dit l'ermite, c’est un petit rien, ce n'est rien du tout : abjure la
+haine que tu as pour Dieu. [112 :00] Et Belzébuth écume, il lui dit : hors de ma vue pauvre idiot,
+pauvre imbécile, tu ne vois pas que c'est mon plaisir et que c'est ma raison de vivre. Bon.
+
+[CD 2 #4] En d'autres termes, le damné, c'est qui ? Vous l'avez reconnu ! Un certain temps après,
+Nietzsche en fera le portrait : le damné, c'est l'homme du ressentiment, c'est l'homme de la
+vengeance, la vengeance contre Dieu. Peu importe que ce soit contre Dieu, ou autre chose, ce qui
+compte c'est que c'est l'homme de la haine, c'est l'homme de la vengeance. Dès lors, on
+comprend beaucoup mieux. Si vous prenez par exemple tout le thème de l'homme du
+ressentiment chez Nietzsche, on fait un contresens quand on pense que c'est un homme lié au
+passé. Ce n'est pas du tout un homme lié au passé, l'homme du ressentiment ; c'est l'homme de la
+vengeance. Il est lié [113 :00] à la trace présente. Il ne cesse de gratter, exactement comme le
+damné, il ne cesse de gratter cette trace, cette trace au présent que le passé a laissé en lui. En
+d'autres termes, l'homme du ressentiment ou de la vengeance, c'est l'homme au présent, tout
+comme Leibniz nous dira : la damnation, elle est au présent, c'est le minimum d'amplitude.
+
+                                                                                                   20
+
+Alors en effet, il pourrait à chaque instant, qu'est-ce que ça signifie : les damnés sont libres ? Le
+damné pourrait à chaque instant sortir de la damnation. [114 :00] Reprenez mon schéma, j'ai
+enfin un minimum absolu de l'amplitude de l'âme. Donc ça ne va pas à l'infini. [Deleuze va au
+tableau] Ça va à l'infini, il y a quand même une infinité de degrés, mais je peux dire que le
+minimum d'amplitude c'est lorsque le département d'une âme -- là j'emploie un vocabulaire
+leibnizien très rigoureux, c'est à dire la région claire, la région éclairée, le quartier réservé, la
+portion de monde exprimée clairement -- eh bien, c'est lorsque le département de l'âme se réduit
+uniquement à la haine présente contre Dieu, à la haine présente envers Dieu. Dès lors, je me
+rends damnable ; le damnable, c'est celui qui hait Dieu et je me damne à chaque instant [115 :00]
+précisément dans la mesure où je ne cesse d'effectuer cette amplitude. Mais encore une fois, par
+un faux mouvement même, [si] Belzébuth donnerait un peu d'amplitude supérieure à son âme, il
+serait immédiatement dé-damné. Voilà ce que nous apprend la grande Profession de foi du
+philosophe.
+
+Ça va ? Pas de difficultés ? [Pause] Je ne sais pas si c'est à cause de ma remarque de tout à
+l'heure, mais vous ne dites plus rien, mais je vous trouve plus sournois que jamais. [Rires]
+
+Un étudiant : [Commentaire inaudible] [116 :00]
+
+Deleuze : C’est l’un ou l’autre, mais parfois quand l’âme est ample, c’est les deux, c’est tout.
+
+Alors, voilà, ce que je voudrais dire, là maintenant, [CD 2 #5] quand même, est-ce que vous
+n’êtes pas frappés -- pour ceux qui connaissent un peu, tandis que je crois avoir vraiment
+respecté tout à fait les textes de Leibniz – [est-ce que vous n'êtes pas frappés] par leur
+ressemblance hallucinante ave la conception bergsonienne de la liberté ? Bien après, Bergson
+consacrera le troisième chapitre de l'Essai sur les données immédiates à la liberté.
+
+Qu'est-ce qu'il nous dira? D'abord il distinguera deux problèmes. On va voir que Leibniz aussi
+distingue deux problèmes. [117 :00] Et le premier problème concerne l'acte au présent. Qu'est-ce
+qu'un acte libre au présent ? [Pause] Et je vois que tout repose sur le thème suivant: [Pause] ceux
+qui nient la liberté se font des motifs une conception grotesque. Et pourquoi ? Donc tout à fait
+[une] critique semblable à celle de Leibniz, mais je ne crois pas du tout là que… [118 :00] mais
+renourrie, reformée à partir des thèmes proprement bergsoniens, à savoir, tout le thème de
+Bergson est ceci : dans une délibération, lorsque je reviens au motif, c'est évident que ce motif a
+changé puisqu'il y a la durée. Il dit, prenons un cas simple, j'hésite entre deux sentiments
+contraires : est-ce que je l'aime ou est-ce que je le hais : "Le moi et les sentiments [119 :00] qui
+l'agitent se trouvent assimilés par les adversaires de la liberté, se trouvent assimilés à des choses
+bien définies" -- à des choses bien définies – "qui demeurent identiques à elles-mêmes pendant
+tout le cours de l’opération. Mais si c'est toujours le même moi qui délibère et si les deux
+sentiments contraires qui l’émeuvent ne changent pas d'avantage, comment en vertu de ce
+principe de causalité que le déterminisme invoque, comment le moi se décidera-t-il jamais ? La
+vérité est que le moi" – là, lisez le texte en vous reportant à ce schéma -- " la vérité est que le
+moi, par cela seul qu'il ait éprouvé le premier sentiment [120 :00] a déjà quelque peu changé
+quand le second survient. A tous les moments de la délibération le moi se modifie, et modifie
+aussi par conséquent les deux sentiments qui l'agitent. Ainsi se forme une série dynamique d'états
+
+                                                                                                       21
+
+qui se pénètrent, se renforcent les uns les autres, et aboutiront à un acte libre par une évolution
+naturelle." [Bergson, ch. 3]
+
+On ne peut pas mieux dire, là c'est presque signé Leibniz : une série dynamique d'états, on a vu
+que c'était ça l'inclusion, l'inclusion d'une série dynamique d'états dans le moi. [La suite de ce
+paragraphe est omise du CD Gallimard] Vous me suivez. En effet la série dynamique c'est A',
+B', A seconde, B seconde, A tierce, [121 :00] B tierce, etc… Et qu'est-ce que dira constamment
+Bergson ? Il dira : c'est précisément l'acte libre, c'est exactement l'acte qui exprime le moi à tel
+moment de la durée. Bien plus, il y joindra pour son compte un schéma qui conjure ou qui réunit
+et ce qu'il faut critiquer et ce qu'il faut rétablir. Ce schéma, je le montre, c'est un schéma
+d'inflexion. Il réunit les deux schémas, le mauvais et le bon. Et en effet, si il les réunit, c'est parce
+qu'il montre que la vie psychique est une inflexion et que les adversaires [122 :00] de la liberté
+l'oublient tout d'un coup et que, à l'instant O, ils font une espèce de bifurcation qui ne correspond
+plus au mouvement en train de se faire, et qui néglige toutes les lois du mouvement en train de se
+faire. Si bien que la grande idée de Bergson, c'est : qu'est-ce que c'est un acte qui exprime le moi
+? C'est très simple, il le définit tout le temps -- et c'est tellement bergsonien cette définition --, un
+acte qui exprime le moi c'est un acte qui reçoit de l'âme qui le fait, l'unité du mouvement en train
+de se faire, l'unité d'un mouvement en train de se faire. Unité d'un mouvement en train de se faire
+qu'il ne faut surtout pas confondre avec la trace d'un mouvement déjà fait. Vous retrouvez tous
+les thèmes de… [123 :00] [Un peu de repos ?]
+
+Partie 4
+
+Bon, alors, je vous signalais ce premier schéma d'inflexion chez Bergson, et puis je dis : si vous
+lisez l'ensemble du troisième chapitre des Données immédiates, vous verrez que Bergson … --
+Personne n'a un petit bonbon ? … Des bonbons ?... C’est bon pour la gorge ? Ouais… des
+cachous… Ouais [Rires] Ha ! Il faut vivre dangereusement. Voilà, c'est la santé ça. [Pause]
+[124 :00] Bon, alors, c'est encore pire. [Rires] -- Il nous dit Bergson : [Deleuze s’étrangle un peu,
+parle avec de la difficulté ; rires] il y a un autre problème. Il le distingue très nettement. Il dit, les
+adversaires de la liberté, en gros, les déterministes, ils ne peuvent rien quand on leur montre ce
+que c'est qu'un acte au présent. Aussi malin comme ils sont, ils se regroupent sur, toujours, le
+passé. [125 :00] Et c'est un autre problème, disent-ils. Et cet autre problème, c'est ceci : à
+supposer que quelqu'un connaisse tous les antécédents d'un acte, et rien que les antécédents,
+c'est-à-dire tout ce qui s'est passé avant, est-ce qu'il sera capable de prédire l'acte ? Vous voyez
+que c'est un autre problème puisque l'élément n'est plus l'acte au présent mais les antécédents
+passés. Est-ce que les antécédents passés suffisent à déterminer l'acte ? Et Bergson avec
+insistance, vous verrez, dit que c'est un autre problème. [126 :00] Mais il faut tout reprendre au
+niveau de cet autre problème.
+
+Et chez Leibniz, vous avez exactement la même chose. Vous avez surgissement de l’autre
+problème qui nous fait rejoindre quoi ? Qui nous fait rejoindre évidemment Dieu. Car qu'est-ce
+que c'est que l'intelligence capable de connaître tous les antécédents de l'acte ? L'intelligence
+capable de connaître tous les antécédents dans une monade, c'est Dieu. Bergson dit une
+"intelligence supérieure". Eh bien, à supposer qu'une intelligence supérieure, c'est-à-dire Dieu,
+connaisse tous les antécédents passés, est-ce qu'elle est capable de prédire [127 :00] le
+mouvement ou l'acte avant qu'il ne se fasse ? Vous comprenez ? Voilà le nouveau problème. Par
+
+                                                                                                      22
+
+exemple, Monadologie, où Dieu est dit "lire tous les antécédents passés, lire dans la monade," –
+vous vous rappelez ? On a attaché de l’importance à ce mot "lire" -- Dieu lit dans la monade tous
+les antécédents passés. Est-ce qu'il peut prévoir l'acte de la monade, c'est-à-dire, je voyage,
+j'écris, je vais à la taverne, à supposer qu'il connaisse tous les antécédents. [128 :00]
+
+Voilà ce que dit Bergson : qu'est-ce que ça veut dire "savoir tout", "connaître tous les
+antécédents" ? Dieu sait tout d'avance. Oui, mais qu'est-ce que ça veut dire savoir tout d'avance ?
+De deux choses, l'une : ou bien ça veut dire savoir tous les antécédents et l'acte qui s'ensuit, ou
+bien ça veut dire ne savoir que les antécédents. Et là-dessus, on se demande si, ne sachant que
+tous les antécédents, est-ce que Dieu est capable de prévoir ? [129 :00] Cette seconde hypothèse,
+elle nous renvoie au problème. Bon, d’accord, ça reste un problème. Dieu est supposé savoir tous
+les antécédents d'un acte qu'opère une monade, est-ce qu'il est capable de prévoir cet acte ? On
+n'avance pas ! [Lacune dans l’enregistrement BNF et YouTube]
+
+C'est en tant qu'il est partout et toujours que [Dieu] sait à la fois et les antécédents et l'acte qui va
+en sortir. Mais qu'est-ce que ça veut dire être partout et toujours ? Comprenez ? [Fin de la lacune
+de l’enregistrement] [CD 2 #6] Être partout et toujours, c'est très simple, ça veut dire qu'il passe
+lui-même par [130 :00] tous les états par lesquels passe chaque monade. Et en effet, Leibniz nous
+semble dire, dans un texte du Discours de métaphysique, où il dit : "les monades, chaque monade
+est le produit ou le résultat d'une vue de Dieu". Je dirais qu'il y a un passage de Dieu dans
+chaque monade. Dieu passe par toutes les monades. J'emploie cette expression pas simplement
+parce que "passer" est bergsonien, mais parce que je pense à un texte de Whitehead -- alors nous
+approchons de la confrontation que je souhaite entre ces deux grands philosophes, Whitehead et
+Leibniz --, où Whitehead nous dit : [131 :00] ce qui se passe dans une pièce pendant une heure,
+par exemple ce qui se passe dans cette pièce pendant une heure, c'est un passage de la nature
+dans cette pièce. Et il montre ce très beau concept, on le verra, de passage de la Nature. Ah, c'est
+la nature qui passe, elle passe par cette pièce et dans cette pièce, de la même manière, je crois, et
+en un sens très proche, il faut dire que Dieu passe par chaque monade et dans chaque monade. Je
+dirais presque que chaque monade inclut ce passage de Dieu, Dieu passant par tous les états de la
+monade.
+
+[CD 2 #7] Simplement Dieu est éternel, ça signifie quoi? Ça signifie que, dans son éternité,
+[132 :00] il passe à la fois par tous les états de toutes les monades. Donc dire qu'il passe par tous
+les états d'une monade, ça revient à dire quoi ? Qu'il coïncide avec cette monade. Quand il
+connaît tous les antécédents passés de la monade, il coïncide avec le présent de la monade. En
+d'autres termes, il fait l’acte de la monade en même temps que la monade le fait. Vous me direz :
+pas du tout, il devance. Mais non, Leibniz est le premier à avoir insisté dans toutes sortes de
+textes [133 :00] sur ceci : il va de soi que l'éternité ne consiste ni à devancer ni à retarder. Bien
+plus, devancer n'a strictement aucun sens. Et là, à mon avis, il me semble que Leibniz va presque
+plus loin que Bergson, à cet égard. Devancer n'a strictement aucun sens.
+
+Supposez le monde et définissez-le par une succession d'états, a, b, c, d, succession d'états. Et
+dites : je peux concevoir que le monde ait commencé dix ans plus tôt, ou un millier d'années plus
+tôt. Si vous ne changez rien aux états, s'il s'agit des mêmes états, la proposition est strictement
+dénuée de sens. [134 :00] Réfléchissez un instant, ça devrait vous apparaître évident. Car si le
+temps doit être défini comme l'ordre des états, ou comme la forme de succession des états, vous
+
+                                                                                                        23
+
+pouvez dire : qu'est-ce qui se passe si le monde commençait un millier d'années avant, à
+condition que vous changiez, que vous supposiez que ce ne soit pas les mêmes états ? Si ce sont
+les mêmes états, vous n'avez aucun moyen [135 :00] de distinguer la chronologie effective et la
+chronologie qu'il y aurait si le monde commençait dix ans ou cent ans plus tôt. En d'autres
+termes, vous aurez beau le faire commencer plus tôt, il ne commence pas plus tôt, tout est
+strictement identique.
+
+Si bien que dire le monde aurait pu commencer plus tôt, dans la mesure où vous gardez et vous
+définissez le monde par la même succession d'états, c’est une proposition dénuée de sens car
+vous n'aurez aucun moyen de distinguer les deux chronologies. C'est évident. En d'autres termes,
+ça revient à dire d’une autre manière que l'éternité n'a jamais consisté à devancer. Ce qu'il faut
+dire c'est que Dieu, [136 :00] dans son éternité, passe par tous les états de toutes les monades,
+tandis que les monades, suivant l'ordre du temps, passent successivement par des états euxmêmes successifs. Mais ça n'empêche pas que, dans son éternité, Dieu ne fait que coïncider avec
+chaque monade au moment où elle fait l'acte au présent.
+
+Donc je reviens à Bergson qui dit exactement la même chose, il dit : vous distinguez Pierre qui
+fait l'acte, et Paul, l'intelligence supérieure qui connaît tous les antécédents et qui est censé
+prédire l'acte. D'accord, Paul est sensé connaître tous les antécédents. Au moment où Pierre fait
+l'acte, [137 :00] vous vous apercevrez que nécessairement Paul coïncide avec Pierre. C'est-à-dire
+qu’il ne prédit pas du tout l'acte, il coïncide avec Pierre, et il fait l'acte en même temps que
+Pierre. C'est par après que vous vous dites : alors il pouvait prévoir. Mais en fait Pierre et Paul
+n'auront fait qu'une seule et même personne au moment de l'acte présent. Et Bergson va nous
+inspirer alors, je vous renvoie à la lecture, un autre schéma d'inflexion. Ce qui m'intéresse
+évidemment c'est qu'il y ait deux schémas d'inflexions, en gros, vous regarderez dans le texte,
+pour montrer que Pierre et Paul, c'est à dire la monade et Dieu, coïncident nécessairement au
+niveau de [138 :00] l'acte à prévoir.
+
+Donc à tous ces égards, ce que j'en retiens, c'est cette conception de la liberté extrêmement,
+extrêmement, il me semble, très très rigoureuse chez Leibniz et qui ne peut se comprendre que
+par le thème, si vous voulez, que par le thème bergsonien, mais qui encore une fois me paraît
+absolument très présent chez Leibniz, à savoir l’unité d’un mouvement en train de se faire, à
+savoir l'acte présent auquel on est toujours ramené. Et ça n'empêche pas que ce que je dis se pose
+très gravement, et c'est là-dessus que je voudrais finir, c'est : s'il est vrai que la liberté est sauvée,
+on ne voit pas très bien comment la morale va l'être. [CD 2 #8] Et pourtant Leibniz est avant tout
+un philosophe moral, et bien plus, il est sans doute le premier des philosophes -- et par là il
+appartient déjà au dix-huitième siècle -- à avoir conçu la moralité comme progrès, non plus
+comme conformité avec [139 :00] la nature, mais comme progrès de la raison. C'est par là qu'il
+est pleinement dix-huitième siècle et qu'il est pré-kantien, il est déjà d'un côté que Kant va
+réaliser. La morale n'est plus du tout en conformité avec la nature comme celle du sage antique,
+elle est la progressivité de la raison, la progression de la raison.
+
+Mais tout mon problème, c'est : avec une telle conception de la liberté, qu’est-ce que ca veut
+dire? Comment est-ce qu'on peut définir une tendance au meilleur ? Je peux toujours dire : une
+tendance à gagner de l'amplitude, mais d'où elle vient, pourquoi ? En effet, le progrès de la
+raison, ce serait si je peux montrer qu'il y aurait une tendance de l'âme à augmenter son
+
+                                                                                                      24
+
+amplitude, alors là je pourrais définir le progrès. [140 :00] Et encore, [même si] je pourrais le
+définir, comprenez qu'il [Leibniz] se trouve devant un drôle de problème qui a été remarqué
+d’ailleurs par tous les commentateurs de Leibniz : c'est que Dieu ayant choisi le meilleur des
+mondes possibles, il y a une quantité de progrès déterminée. Le meilleur des mondes possibles,
+c'est la suite, comme dit Leibniz dans une lettre, la suite la plus parfaite possible, bien que aucun
+état de cette suite ne soit lui-même parfait. La suite la plus parfaite possible. Mais la suite la plus
+parfaite possible, ça définit un maximum. Ça définit une quantité de progrès. [141 :00] Dès lors,
+comment une âme, par exemple la mienne, pourrait-elle progresser, sauf une horrible condition :
+que d'autres âmes régressent ? [Rires] Et il est courant, en effet, chez certains commentateurs de
+Leibniz, ils remarquent que selon eux Leibniz se retrouve dans une espèce d'impasse puisque le
+progrès possible d'une âme est toujours payé par la régression d'autres âmes, en vertu de la
+nécessité d'une quantité de progrès déterminé pour le monde choisi par Dieu.
+
+Donc, c’est avec ce dernier point, on tient au moins une définition du progrès. Je progresse si
+mon âme augmente son amplitude, [142 :00] mais ça ne suffit pas de dire ça parce que comment
+mon âme peut-elle augmenter puisqu'elle exprime le monde entier ? D'accord ! Alors on revient
+toujours, je reviens éternellement à ça qui m'apparaît également essentiel : mon âme exprime le
+monde entier, mais elle n'exprime clairement qu'une petite partie du monde, et c'est mon
+département. Mon département est limité, ma région, mon quartier, tout ce que vous voulez. Dès
+lors, qu'est-ce que veut dire progresser? Augmenter l'amplitude de mon âme, ça ne peut pas être
+exprimé plus que le monde, je ne peux pas. En revanche, je peux augmenter mon département, je
+peux augmenter mon quartier qui, lui, [143 :00] est limité. Donc j'ai une idée plus précise de ce
+que signifie progresser ; "progresser", c'est augmenter l'amplitude de son âme, c'est-à-dire
+augmenter le département ou la région éclairée qui nous revient, qui revient à chacun de nous et
+qui se distingue de celle qui revient à l'autre. Bien.
+
+Mais qu'est-ce que ça veut dire "augmenter la région éclairée" ? Est-ce qu'il faut l'entendre en
+extension ? Oui et non. Je dis, là il faut être très concret. Je dis oui et non parce que l'idée que
+une monade, vous ou moi, disposions d'un département, c'est-à-dire d'une région éclairée que
+nous exprimons [144 :00] plus parfaitement donc que le reste, c'est juste, cette idée, mais elle est
+statistique, cette région éclairée. Je veux dire que ce n'est pas la même que nous avons quand
+même enfant, adulte, et vieillard ; ce n'est pas la même que nous avons en bonne santé et
+malade ; [ce n’est pas la même] fatigué et en forme. Par exemple je suis arrivé avec une vaste
+région éclairée, et là ma région éclairée elle tend à devenir minuscule. Il y a donc des variations
+constantes de la région éclairée. Donc amplifier la région éclairée, on voit que ça peut être la
+porter au maximum possible, dans chaque cas. Et puis, ensuite, ce n'est pas un gain en extension,
+[145 :00] il faut ajouter, c'est un gain en approfondissement. Il s'agit moins d'étendre la région
+éclairée que de l'approfondir, c'est-à-dire, je dirais en développer la puissance, ce qui revient à
+dire en termes de philosophie du dix-septième siècle, la porter à la distinction. Elle était
+seulement claire, elle n'était pas distincte. Il faut la porter à la distinction, et ça ne peut se faire
+que par la connaissance.
+
+Donc tout ça donne un sens à augmenter l'amplitude de mon âme, c'est-à-dire progresser. Voilà,
+alors, j'ai même des critères, maintenant je peux revenir. Je donne un sens à tendance au
+meilleur. Il y a bien une tendance au meilleur. [146 :00] Qu'est-ce qui me fait dire qu’il vaut
+mieux travailler qu’aller à la taverne ? C'est qu’aller à la taverne est un acte qui correspond à une
+
+                                                                                                  25
+
+amplitude d'âme très inférieure à travailler. Eh oui, eh oui, c'est comme ça! Vous voyez à quel
+point ça me sert d'avoir un minimum absolu d'amplitude d'âme. Le damné, encore une fois, c'est
+une pauvre âme qui a réduit son département, encore une fois, à un seul prédicat : je hais Dieu,
+haïr Dieu. Alors tout ça, ça donne une idée du progrès. Je peux progresser. [147 :00] Et la
+tendance au meilleur, vous voyez il y a même une véritable révolution philosophique parce que
+l'idée de bien, qui jusque-là était le garant de la conformité avec la nature, était le garant de la
+moralité conçue comme conformité avec la nature, est remplacée chez Leibniz par le meilleur. Et
+le meilleur n'est pas le garant de la moralité comme conformité à la nature, mais le garant de la
+nouvelle moralité comme progression de l'âme. C'est essentiel ça.
+
+Alors d'accord, chacun de nous peut progresser pour son compte, mais en progressant, à première
+vue, on retombe toujours là-dessus, c'est comme si il donnait un coup de pied aux autres. Il
+faudra bien que mon progrès… [148 :00] puisque j'effectue une certaine quantité de progrès et
+que la quantité de progrès est fixe pour le meilleur des mondes possibles, il faudra bien que si je
+fais un progrès, moi, ce soit payé. A première vue, il me semble qu'il faut qu'une autre âme fasse
+une régression. Vous vous rendez compte ? C'est une espèce de lutte pour l'existence morale.
+Ouais.
+
+Comment s'en sortir ? Je crois qu'il s'en sort Leibniz, seulement c'est extrêmement beau, donc
+très difficile. Parce que, voilà, contrairement à l'éternité de Dieu, qui passe par toutes les
+monades, éternellement, [149 :00] donc hors du temps, les monades ne se développent pas hors
+du temps. [CD 2 #9] Les monades sont soumises à l'ordre du temps. En quel sens est-ce qu'elles
+sont soumises à l'ordre du temps ? Voilà ma naissance civile, il faut revenir là à des choses qu'on
+avait commencé à voir. Je les commence, je les esquisse, mais il faudrait les voir seulement une
+prochaine fois, c'es toute une mise en scène très théâtrale, là aussi très propre au baroque, qu'il
+faudra voir de très près. J’examine des cas. Mon acte de naissance civile, c'est quoi ? C'est la date
+à laquelle je nais [150 :00] comme créature supposée raisonnable, eh ? [Pause] Mais mon âme,
+elle ne naît pas. Mon âme, vous vous rappelez, elle était là de tout temps, depuis le début du
+monde. Et mon corps aussi. Mon corps était infiniment replié, était infiniment plié sur soi,
+infiniment petit, il est infiniment plié dans la semence d'Adam, et mon âme, inséparable
+[151 :00] de ce corps, n'existait que comme âme sensitive ou animale, voilà ce que nous dit
+Leibniz.
+
+Mais alors qu'est-ce qui me distinguait, moi, appelé à devenir à un moment quelconque créature
+raisonnable, qu'est-ce qui me distinguait des animaux, qui eux aussi existaient dès le début du
+monde, pliés dans la semence du grand ancêtre, avec des âmes sensitives et animales ? Le texte
+le plus précis de Leibniz, ça c'est dans un petit traité très beau, La Cause de Dieu : défendu par
+la conciliation de sa justice avec ses autres perfections. Vous voyez que le titre abrégé La Cause
+de Dieu [152 :00] ne signifie pas ce qui fait que Dieu est, mais signifie la cause au sens juridique,
+défendre la cause de Dieu, la cause de Dieu, défendue par la conciliation de sa justice, etc… Eh
+bien, dans le texte, La Cause de Dieu, paragraphe 82, [Deleuze dit d’abord "132", puis se
+corrige] Leibniz nous dit : il est manifeste par là que nous n'affirmons pas la préexistence de la
+raison. C'est essentiel ça ! Il ne dit pas que la raison d'un être raisonnable est là dès le début,
+[153 :00] qu'elle coexiste dans la semence d'Adam. Ce ne serait pas bien raisonnable. Il ne dit
+pas ça du tout. Il dit : si j'existe depuis le début du monde, c'est sous forme de corps infiniment
+plié sur soi dans la semence d'Adam, et avec une âme purement sensitive et animale. Donc nous
+
+                                                                                                      26
+
+n'affirmons pas la préexistence de la raison, "cependant on peut croire que, dans les germes
+préexistants, a été préétabli et préparé par Dieu tout ce qui devait un jour en sortir. Non pas
+simplement l'organisme humain mais la raison elle-même, sous la forme" -- sous quelle forme? –
+"sous la forme d'une sorte d'acte scellé" [154 :00] -- un acte scellé – "portant effet
+ultérieurement". Ça me fait rêver, ce texte de Leibniz.
+
+Vous voyez : je préexiste à moi-même depuis le début du monde. En effet, j'existe dans la
+semence d'Adam, mais comme âme sensitive ou animale. Mais qu'est-ce qui distingue les âmes
+sensitives ou animales, qui sont appelées à devenir des âmes raisonnables plus tard, de celles qui
+sont destinées à rester des âmes animales et sensitives comme toutes les âmes de chats, de
+chiens, et d’autres bêtes exécrables, [155 :00] etc.? Qu'est-ce qui distingue ? Le texte nous le dit :
+"un acte scellé" dans la monade, dans la monade animale ou sensitive. Un acte scellé qui dit
+quoi? Portant effet ultérieurement. Un acte scellé qui est simplement un tampon ou une marque,
+avec sans doute une date, et qui dit qu'à la date correspondante, cette âme sensitive et raisonnable
+sera élevée. C'est l'élévation. Vous vous rappelez, on était parti de là. Un certain nombre d'âmes,
+celles qui sont destinées à être raisonnables, seront élevées à l'étage supérieur le moment venu.
+[156 :00] Donc dès le début, Dieu a mis dans ses âmes destinées à l'élévation à l'étage supérieur,
+il a mis un acte scellé.
+
+Il n'y pas besoin de chercher longtemps, ça, ça va nous avancer, rappelez vous pour la prochaine
+fois parce que j'en aurai très, très besoin de cet acte scellé. Car c'est quoi, cet acte scellé ? C'est
+évidemment une lumière. C’est une lumière. Qu'est-ce que la raison sinon une lumière ? C’est
+une lumière. Sinon la monade est toute noire, on l'a vu elle est tapissée de noir. Vous sentez ce
+que j'ai dans l'esprit et ce à quoi je tiens à nouveau, on le verra la prochaine fois : la peinture
+baroque [157 :00] ou l'architecture baroque. Les parois de la monade sont noires. Les monades
+destinées à devenir raisonnables, Dieu y scelle un acte juridique, un acte scellé portant effet
+ultérieurement, c'est-à-dire qu'il y met une lumière destinée à s'allumer plus tard. C'est une
+merveille ça, c’est très belle.
+
+Alors quand vient ma date de naissance, c'est l'heure de mon élévation à l'étage supérieur, mon
+âme devient raisonnable. Ça signifie que la lumière s'allume dans la monade noire. [Pause]
+[158 :00] Elle s'allume dans la monade, la monade monte à l'étage supérieur, c'est pareil tout ça.
+Bon. Vous voyez, il y a un quand je n'étais pas né, un avant ma naissance. On vient de voir : je
+dormais dans la semence d'Adam, ou dans la semence de mes ancêtres, je dormais tout replié sur
+moi-même, avec ma petite lumière éteinte, mais scellée, scellée dans ma noire monade. Ça c'est
+avant ma naissance. Je nais. Je suis élevé à l'autre étage, à l'étage supérieur, vous vous rappelez
+toutes nos analyses du début sur les deux étages comme définition du baroque, [159 :00] et je
+monte à l'étage supérieur, à ce moment-là, mon corps se déplie, mon âme devient raisonnable, la
+lumière s'allume.
+
+Mais quand je meurs, qu'est-ce qui passe ? Il faut continuer la série pour comprendre. Quand je
+meurs, mais écoutez ce n'est pas une bonne nouvelle que je vous annonce, fini, fini de rire, vous
+involuez à nouveau. Vous ne perdrez pas votre corps ni votre âme. Ce serait très gênant si vous
+perdiez votre corps, comment Dieu vous retrouverait ? Vous seriez tout dispersé. Leibniz est très
+embêté par ça. Il dit : la résurrection, c'est très joli, mais il ne faut pas qu’on soit dispersé alors.
+[160 :00] Là aussi c'est un beau problème théologique. Quand je meurs, j'involue, c’est-à-dire, je
+
+                                                                                                     27
+
+redescends à l'étage d'en-dessous, je redescends à l'étage du bas. En d'autres termes, les parties de
+mon corps se replient, et mon âme cesse d'être raisonnable, elle redevient âme sensitive et
+raisonnable.
+
+Mais, ha ha, mais, mais, mais… elle emporte un nouvel acte scellé. Là je suis au regret de dire
+que Leibniz ne le dit pas formellement, (Rires) mais de toute évidence, il le dit implicitement.
+C'est-à-dire, c’est tellement évident qu'il n'éprouve pas le besoin de le dire. [161 :00] Mais nous
+il faut bien que nous éprouvions le besoin de le dire. Mais enfin si, il le dit. Il le dit d'ailleurs.
+Elle emporte un nouvel acte scellé, évidemment ! Et vous pouvez me le dire, qu'est-ce que c'est
+ce nouvel acte scellé ? Le nouvel acte scellé, c'est un acte juridique, c'est au sens juridique tout
+ça. Un acte scellé, c'est un acte juridique. L'acte scellé de ma naissance, c'est l'acte de naissance.
+Je dis : elle emporte nécessairement en mourant un autre acte scellé, mon âme raisonnable, c'est
+son acte de décès. Qu'est-ce que l'acte de décès de l'âme raisonnable, quand elle meurt ?
+[Interruption de quelqu’un qui entre] Que cherchez-vous? [162 :00] … Ah, ce n’est pas ici.
+[Rires] … Ah, mais c’est à deux heures alors. [Pause] On aurait dû dire, oui ! [Rires] Bon, mais
+enfin, il m’a tout coupé, ma…
+
+Un étudiant : L’acte de décès.
+
+Deleuze : Ah, oui, l’acte de décès. Qu'est-ce que c'est mon acte de décès ? Ha ha, écoutez : c'est
+ma dernière pensée raisonnable. C’est ma dernière pensée raisonnable en mourant. C'est pour ça
+que la dernière pensée est tellement importante. L’acte de décès du damné, c'est : je hais Dieu !
+Je hais Dieu. C'est par là qu'il se damne, il se damne par sa dernière pensée. [163 :00] Alors le
+damné emporte dans son âme, redevenue sensitive ou animale, cet acte de décès. Et il se rendort,
+comme toutes les autres âmes. Mon corps se replie, mon âme redevient ce qu'elle était avant sa
+naissance d'être raisonnable, c'est-à-dire qu'elle redevient sensitive ou animale. J'ai toujours un
+corps et j'ai toujours une âme. Mais mon corps a cessé d'être déplié, mon âme a cessé d'être
+raisonnable. La lumière s'est éteinte. [Pause]
+
+[CD 2 #10] Alors, bon, dernier point : la résurrection. [164 :00] Vient l'heure de la résurrection.
+A ce moment-là, et seulement à ce moment-là, toutes les âmes raisonnables, toutes les âmes
+plutôt qui ont été raisonnables et qui sont réassoupies dans les cendres, etc., elles sont ré-élevées,
+c'est-à-dire repassent à l'état de dessus, [Pause] leurs corps se redéplient en un corps subtil, en un
+corps glorieux ou infâme, et les âmes sont jugées. Et les damnés, c'est ceux qui se réveillent
+comme ils sont morts, c'est-à-dire qu'ils se réveillent [165 :00] en haïssant Dieu. Les heureux et
+les damnés, il n'y a que ça ! Chacun se réveille suivant sa dernière amplitude. La lumière se
+rallume. De la lumière des damnés, puisque même la formule, même la proposition : je hais
+Dieu, en tant que proposition de la raison, garde un minimum de lumière, elle occupe la région
+claire de la monade correspondante. Toutes les lumières se rallument, il faut concevoir la
+résurrection comme quelque chose de très gai ; il y a toutes les petites lumières qui se rallument,
+toutes les âmes qui redeviennent raisonnables, et chacun aura son dû suivant l'ordre du temps,
+c'est à dire suivant la vie qu'il a menée quand il était raisonnable. [166 :00] Vous comprenez ?
+
+Alors moi, après, ce que j’ai envie presque de dire : et voilà ! on a presque la … [Deleuze semble
+perdre un peu le fil] Je reprendrai ce point la prochaine fois, la… la… Je reprendrai ce point la
+prochaine fois parce que ce n’est pas clair. Mais je vous donne tout de suite la réponse.
+
+                                                                                                    28
+
+Comment, vous voyez. Il n'y a plus lieu de dire : si je fais un progrès, moi, c'est au détriment des
+autres. Ce serait terrible, ça ; ce serait terrible. Les commentateurs ont tort de dire que Leibniz ne
+se tire pas de ce problème car, heureusement, il y a les damnés. Dire : mon progrès se fait
+nécessairement au détriment des autres, ça ne vaut que pour les damnés, [167 :00] il me semble.
+C'est même pour ça que tous les autres, sauf les damnés, tous les autres peuvent progresser. Car
+qu'est-ce que ont fait les damnés? Et c'est là qu'ils vont être pris à leur propre piège,
+heureusement, ils vont cesser de ricaner comme des bécasses. Qu'est-ce qu'ils font, les damnés ?
+Ils réduisent l'amplitude de leur âme au maximum, ils réduisent leur département à rien, sauf "je
+hais dieu". Vous voyez cette énorme réduction d'amplitude.
+
+Dès lors, ce n'est pas du tout qu'ils nous donnent un exemple négatif, c'est qu'ils renoncent
+[168 :00] à l'amplitude qu'ils auraient normalement pu avoir comme êtres raisonnables, ils
+renoncent à leur propre amplitude. Ils y renoncent volontairement en vertu de leur diablerie. Dès
+lors, ils rendent possible des quantités de progrès infinies utilisables par d'autres, et sans doute
+c'est leur vraie punition. Leur vraie punition, ce ne sont pas les flammes de l'enfer ; leur vraie
+punition, c'est de servir à l'amélioration des autres. Non pas, encore une fois, parce qu'ils
+donneraient un exemple négatif que tout le monde redouterait, mais parce que ils fonctionnent un
+peu comme -- on dirait --, comme une entropie négative, c'est-à-dire [169 :00] ils déchargent
+dans le monde des quantités de progrès possibles. Qu'est-ce que c'est que les quantités de progrès
+possibles ? Ce sont les quantités de clarté auxquelles ils ont eux-mêmes renoncé et qui leur
+revenait de droit, en tant qu'êtres raisonnables.
+
+Si bien que, il me semble, à ce niveau, que le progrès devient possible. Il ne se fait pas au
+détriment ; toutes les âmes peuvent progresser sans épuiser la quantité de progrès, pourquoi ?
+Parce qu'il y a des damnés qui se sont retirés volontairement, qui se sont retirés librement de la
+progression générale et qui, dès lors, ont rendu possible pour les autres [170 :00] la progression.
+Si bien que les damnés jouent un véritable rôle physique, un peu comme en physique on parle
+des démons, les démons de Maxwell. Il y a une espèce de rôle physique des damnés qui est
+précisément de rendre le progrès possible. Alors vous comprenez, pour un démon, pour
+Belzébuth, rendre le progrès possible est vraiment la chose la plus triste du monde.
+
+Je voudrais que vous réfléchissiez à ça. Alors, on reviendra un peu sur cette question du progrès
+et puis on verra ; vous sentez que là-dessous le moment est venu pour nous de voir de plus prêt
+quelle conception de la lumière il y a là-dessous. [Fin de l’enregistrement] [2 :50 :49]
+
+[En ce qui concerne la transcription, à cause du désordre considérable dans la séquence des
+paragraphes aussi bien que des redondances dans le texte de cette séance disponible à
+WebDeleuze, la nouvelle transcription s’accomplit, d’abord, grâce à l’accès à l’enregistrement
+édité par Gallimard (112 minutes) qui constitue le double CD intitulé "Leibniz : âme et
+damnation" (2003), et ensuite, avec l’enregistrement disponible à la BNF et à YouTube (151
+minutes)]

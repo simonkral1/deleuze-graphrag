@@ -1,0 +1,250 @@
+1
+
+Gilles Deleuze
+
+Deleuze and Boulez at IRCAM, On Musical Time
+
+Conference, 23 February 1978
+
+Translation and transcription, Charles J. Stivale [cf. WebDeleuze for alternative transcript
+and translation by Timothy Murphy]
+
+https://www.youtube.com/watch?v=lYfhwRmyw9Y
+
+[The text presented here for scholarly purposes corresponds to the recording of the public
+session of the IRCAM event, and not to the text published, and deliberately revised by Deleuze
+(we believe), in Two Regimes of Madness, ed. David Lapoujade, trans. Ames Hodges and Mike
+Taormina (Paris: Minuit 2003; MIT/Semiotext(e), 2006), pp. 156-160, under the title "Making
+Inaudible Forces Audible". We should also note that at this moment, Deleuze in the process of
+developing the themes presented here for his collaboration with Guattari, A Thousand Plateaus,
+notably pp. 262, 267, 298, 545 note 87, and especially, in the plateau on refrains, pp. 316-319]
+
+[The IRCAM event was a five-day colloquium, the first four evenings in closed sessions and the
+fifth as a public event, with the participation of Roland Barthes, Gerald Bennett, Lucian Berio,
+Pierre Boulez (organizer), Michel Decoust, Gilles Deleuze, Michel Foucault, Jean-Claude
+Risset, and several members of the IRCAM team. The recording opens with several panels
+explaining the purpose of the seminar, concluding: One of the questions raised by Boulez at the
+end of his analyses seems to be the following: is it possible to speak no longer about music but to
+speak starting from music? … Is it possible to grasp music not as an object but as a force
+(capable of generating its own movement)? Or, which might be entirely the same thing, what is
+Deleuze as non-musician doing here at a conference on music?]
+
+Deleuze: Yes, the question is, why are we non-musicians here?
+
+About this question, I’d like to make an opening comment about the method used, which is that
+Pierre Boulez selected five works, five musical works: the relations between these works clearly
+have no relation of filiation or dependence. Moreover, there is no progression or evolution from
+one work to the next one. It’s rather as if the five works, let’s say – selected partially in
+haphazard fashion, but only partially – created a cycle, and that in this cycle, they entered into
+reactions in relation to each other. In other words, in this cycle an aggregate of virtual relations is
+constructed between these works, and in these conditions, a special profile of musical time could
+emerge, a special profile of musical time valid only for these five works. We might well imagine
+that Pierre Boulez would choose four or five other works -- I’m saying that at random, in my
+language – by Bartok, a work by Bartok, one by Stravinsky, one by Varèse, one by Berio. We
+would then have another cycle, reactions from one work to another, virtual relations. From this
+
+                                                                                                       2
+
+cycle, another profile of musical time, equally special, could be discerned, or a special profile of
+another variable that that of time.
+
+So, I am saying that what seems quite interesting to me and for us in this method is that it’s not at
+all a method of generalization. It does not concern starting with works selected as examples and
+raising them toward an abstract concept of time about which we might say, “there, that’s musical
+time”. It concerns starting with limited cycles, determined in certain conditions, and extracting
+special profiles of time, allowing on this basis for superimposing these profiles and creating a
+veritable cartography of variables.
+
+And perhaps this method addresses music and a thousand other things. In the precise case of the
+cycle chosen by Boulez, it seemed that the special profile of time did not at all attempt to cover
+entirely the question of musical time in general; the special profile that we discerned was a rather
+strange thing: based on a pulsed time, how a kind of non-pulsed time emerged, with this nonpulsed time quite able to return into a new form of pulsation. In fact, work number 1 (Ligeti)
+[Concerto de chambre by György Ligeti] showed how a non-pulsed time arose through a certain
+pulsation. Works II, III, and IV Les oeuvres II, III et IV [Dialogue du vent et de la mer by
+Claude Debussy, Modes de valeur et d’intensité by Olivier Messiaen, Éclat by Pierre Boulez]
+developed or showed different aspects of this supposed non-pulsed time. The final work V (by
+Carter) [A Mirror on which to dwell, Elliott Carter] showed how, starting from a non-pulsed
+time, we could rediscover a new form of pulsation, original, special, innovative.
+
+So, the question would be to know, if we had sufficient time, what does this non-pulsed time
+exactly consists of, this kind of floating time, which corresponds more or less to what Proust
+called "a little time in the pure state"? The most obvious, the most immediate character is that a
+so-called non-pulsed time is a duration, that is, it is a time freed from measure, whether the
+measure is regular or irregular, whether simple or complex. So, it seems to me that a non-pulsed
+time puts us first and foremost in the presence of a multiplicity of heterochronous, qualitative,
+non-coincident, non-communicating durations. Henceforth, we clearly see the musical problem,
+or something other than musical, namely, how will these heterochronous, heterogeneous,
+multiple, non-coinciding durations be articulated? Since, as it would seem, we have deprived
+ourselves of recourse to the most general, classic solution, which would consist in entrusting to
+the Spirit the task of imposing a common measure or a metric cadence common to all these vital
+times, since, from the start of the problem, musical or otherwise, this solution is blocked off, then
+in which direction is one to go?
+
+So, I don't know, even if it means going into another domain altogether, I think that, currently,
+when biologists talk about vital rhythms, they encounter similar questions. They too reached the
+conclusion that heterogeneous rhythms could be articulated by entering under the domination of
+a kind of unifying form. And the articulations between vital rhythms, if necessary of the same
+periods, for example, a 24-hour rhythm, they do not seek them at all on the side of a higher form
+which would unify them, nor even on the side of a regular or irregular sequence of elementary
+processes. They looked for them elsewhere. They look for them at a sub-vital, infra-vital level, in
+what they call -- they have a very pretty name for that, let it be the first technical word, but
+precisely it is not musical -- they call it a population of molecular oscillators that will somehow
+go through, that will be able to go through very heterogeneous systems and very heterochronous
+
+                                                                                                       3
+
+rhythms like oscillating molecules, put into coupling, which then would go through systems and
+completely heterogeneous durations. Notice that the setting into articulation here does not
+depend on a unifying or unifying form, neither metric, nor cadence, nor any regular or irregular
+measure, but on the action of certain couples, certain molecular couples, or even of a molecular
+population released through different layers, different rhythmicities.
+
+Let's assume that. It is not by metaphor that one can say, I believe, that one of the great
+discoveries of relatively recent music was precisely the discovery, rather than of pure notes and
+tones, that they substituted the notion of sound molecules, and of sound molecules in coupling,
+capable of crossing layers of rhythmicity, layers of quite heterogeneous duration. Here then, it
+seems to me, would be or what could be the first determination of a non-pulsed time.
+
+[A voice comes from the audience, someone wanting to ask a question; the moderator, Pierre
+Boulez says, “Not yet. I think it's better for Mr. Deleuze to make his presentation before..." The
+person seems to insist on asking something quickly, and Boulez has to answer firmly, "Listen,
+please, don't interrupt him, so let Mr. Deleuze finish his talk first”.]
+
+The intervener: Why are you using such a complicate language which grasps nothing at all
+about… [the words are lost in the noise of the other audience members asking him to be quiet]
+
+Deleuze: I’m going to tell you… [Pause, applause from some audience members regarding the
+attempt to silence the questioner, who continues speaking]
+
+Boulez: So, go ahead and leave if you’ve not understood anything!
+
+The intervener: [Inaudible comments]
+
+Boulez: Listen, sir, I believe that we’ve now heard quite enough. That’s quite enough.
+
+The intervener: [Inaudible comments]
+
+Boulez: If it’s in order to state these kinds of banalities, really there’s no point in insisting on
+continuing. [Applause, diverse reactions; pause]
+
+A woman questioner: [Protesting the use of the term “banalities"; different additional
+comments]
+
+Deleuze: So, I believe... I am going to show that I have understood, completely understood what
+he has just said because my second point is very, very, very, very simple, very simple. [Pause] I
+believe it to be so, but I sense that I'm going to be interrupted [Deleuze points to several
+audience members] because it's going to be too simple. [Laughter] I am saying, as a second
+possible character of non-pulsed time, I think it would have a very close relationship with the
+phenomena of individuation because phenomena of individuation themselves have very variable
+relations with time. We all know one type of individuation, it's the most common, it's even the
+one... it’s the regime of the one under which we live, which occurs at the same time by forms, by
+specification of a form and assignment of a subject, namely me, another, someone; there is a
+
+                                                                                                   4
+
+form, and this form is assigned under conditions which produce individuations, which create
+individuations. We also know that there are much more paradoxical individuations, I mean, of
+another type, which do not correspond to the form-subject aggregate, which are much more the
+types of individuations of a place, a landscape, a day, an hour of the day; if I say, “what an awful
+7:05 p.m.” – here I am speaking concretely [Deleuze looks at his watch on the table] – “what an
+awful 7:05 p.m.” A landscape, an hour, etc. There is a certain type of individuation here which
+will not even be the combined play of a form and a subject. It is an individuation of the
+landscape type, or of an event or a time, or almost a temperature.
+
+I have the feeling that the problem of individuation in music, which is certainly very, very
+complicated, is more of the type of these second paradoxical individuations than of the type of
+the first. For example, what is called the individuation of a phrase, of a short phrase in music?
+And in what sense does musical individuation in its linkage with time relate more to this second,
+much more bizarre type than to the first type operating by form and subject? I would almost like,
+starting from the lowest level, the most rudimentary or the easiest level in appearance, it happens
+that music can remind us of a landscape; it happens that music can evoke a landscape. The
+famous case is of Swann in In Search of Lost Time, hearing Vinteuil's little phrase, and it evokes
+for him the Bois de Boulogne. It also happens that sounds evoke colors, either by association or
+by phenomena known as synesthesia. It even happens that motifs in operas are linked to
+characters, for example, a Wagnerian motif which is supposed to refer to a character. I don't
+think we can say that this mode of listening to music, one might say that it is insufficient, but to
+say that it is null or without interest, that would be unfair. Maybe even at a certain level, at a
+certain level of relaxation, you have to go through that.
+
+But why go through it? It’s because, at a more relaxed level, it is not the sound which refers to a
+landscape, but it is the music itself which envelops a landscape distinctly of sound which is
+interior to it. I think, for example, even with the ambiguity of levels, that in Liszt there is this
+aspect, how sound can refer to an exterior landscape and, at the same time, how a soundscape
+becomes interior to Liszt's music. The same could be said for the notion of color. We could
+consider the sound-color relationship sometimes as a simple association, but also we can
+consider that the durations, the rhythms, the timbres a fortiori, are in themselves colors, properly
+sound colors which come to be superimposed on the visible colors and which do not have the
+same speeds, nor the same passages as the visible colors.
+
+One would say the same, it seems to me, of a third notion, the notion of character. One can
+consider in opera certain motifs in association with a character, for example, as in a first hearing
+of a Wagner opera. But Boulez has shown very well how the motifs in Wagner are not only
+associated with an external character but are transformed into an autonomous life in a non-pulsed
+floating time in which they themselves become, by themselves, characters interior to the music.
+These three very different notions of soundscape, audible color, rhythmic character seem to me
+precisely the products by which a non-pulsed time produces its individuations of a very, very
+particular type.
+
+So, I want to end with an even more general and very quick remark. It is that we are urged from
+all sides no longer to think in terms of matter-form to the very extent that for the hierarchy which
+would go from simple to complex, matter-life-spirit, we have ceased to believe in it in all
+
+                                                                                                       5
+
+domains. One can even think that life would instead be a simplification of matter. We might
+think that the vital rhythms, as I alluded to earlier, do not find their unity or their unification in a
+spiritual form, but on the contrary, in molecular couplings. So, all this matter-form hierarchy –
+more or less rudimentary matter and more or less scholarly sound form – isn’t that what we have
+finally stopped hearing and what composers stopped producing?
+
+And what has taken its place? Perhaps instead, what happened was the idea of very elaborate
+sound material. It is no longer a question of a rudimentary matter which would receive a form;
+that is no longer the couple. The coupling is between a very elaborate sound material, and on the
+other hand, forces which by themselves are not sound, not forms, but forces which by themselves
+are not sound, and which become sound or audible through the material that makes them
+appreciable. Here, I could indeed, to continue with something that was said earlier, I could think
+for example of the section from Debussy which is titled “Dialogue du vent et de la mer”, in
+which a highly elaborated sound material is seized as if by two forces. In example three, I
+believe, which was the work from Messiaen in the cycle proposed by Boulez, the sound material
+was also there to make audible a force which is not audible in itself, namely time, duration, and
+even intensity which in itself is a sound phenomenon. Similarly, in Boulez's work, “Éclat”, all
+the highly elaborated sound material with the extinction of sounds occurred to make perceptible
+and audible two times, themselves non-sound, one defined as the time of the production in
+general and the other as the time of meditation in general.
+
+So, if you will, for the couple of relatively simple matter and sound form which would inform
+this matter, it seems to me that more and more we have emphasized, we have substituted another
+coupling between a material that is highly elaborated as a material and imperceptible forces
+which become perceptible only through this material and which become appreciable only
+through this material. And it is then in the sense that, at the limit, one could say the music is not
+only, it is not only the concern of musicians insofar as music does not have sound as its exclusive
+or fundamental element. Its element is the aggregate of non-sound forces that the sound material
+elaborated by the composer will make perceptible in such a way that we can even perceive the
+differences between these forces, all the differential play of these forces.
+
+So, here, I tell myself, at the limit, what results is the real innovation in music, but it was already
+true: all this work of very, very elaborate material in the service of non-sound forces, it
+penetrated all of traditional music. There is no need to make a dividing line. It would rather be
+appropriate to say that there was an immense upsurge at the end of the 19th century and the
+beginning of the 20th century which did not necessarily pass through atonal music, nor through
+serial music, which passes rather through all these creative endeavors to liberate chromatism, to
+liberate oneself from temperament, and which yielded inventions in all directions both of the
+molecular type, inventions also in making forces perceptible which by themselves are not
+sonorous, within the elaboration of a complex sound material.
+
+And I ask myself, finally, in a way, are we not all faced with somewhat similar tasks? I could
+also say of philosophy, for example, that in a certain way, one could ask, what is classical
+philosophy? It's... we give ourselves a kind of rudimentary matter of thought, like a flow of
+thought, and then doing philosophy would be to inform this matter, that is, to establish thoughtforms, forms of thought, which philosophers call concepts or categories. But, from time
+
+                                                                                                    6
+
+immemorial, philosophers have also proceeded differently. That is, they sought to elaborate a
+thought material, not a simple material, a very complex thought material in order to make
+thinkable forces which are not thinkable by themselves. So, it's a bit like saying in music, there is
+no absolute ear. The problem is to have an impossible ear, to make forces audible through a
+complex material, forces which would not be audible in themselves. In philosophy, it is not a
+question of an impossible ear, but of an impossible thought, that is, to make forces thinkable by a
+very complex thought material, forces which would not be so otherwise. In that sense, I think we
+have, we have so much to learn from music because it's very, very much ahead of us. [End of
+recording]

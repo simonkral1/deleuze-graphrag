@@ -1,0 +1,1286 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Leibniz comme philosophe baroque
+
+Séance 4, le 16 décembre 1986: Récapitulation : de l’inflexion à l’inclusion, et la monade et
+l’individu
+
+Transcription augmentée : Charles J. Stivale
+
+[Sur l’enregistrement et la transcription de cette séance, voir la note qui suit la séance en bas]
+[Texte du début, transcription de WebDeleuze]
+Il s'est passé tant de choses qu'on se reconnaît à peine. Je ne sais pas très bien ce que vous vous
+rappelez dans ce qu'on fait. Une fois dit qu'il ne faut pas que le mouvement étudiant perde sa
+force, parmi les activités secondaires, il est suggéré que vous devriez faire une pétition, adressée
+au président de l'université pour soulever l'hypothèse: les barreaux qu'on vous a mis sont-ils
+compatibles avec la sécurité? Au cas où ça flamberait, ici, comment s'échappera-t-on? [Ici
+commence l’enregistrement de WebDeleuze] D'autre part que l'histoire des clefs, des portes
+fermées, ouvertes, pas fermées, pas ouvertes, tout ça, vous nuit gravement dans vos efforts
+intellectuels. Donc il faudrait faire [Les voix s’entendent], il faudrait faire une pétition, très poli.
+C’est les barreaux, quand même, les barreaux, [Pause] oui, enfin réfléchissez! Bon. [1 :00]
+[Longue pause]
+Dans les séances précédentes où vous étiez très peu nombreux, on a parlé de ce qui s'est passé, je
+ne pense pas qu'il soit nécessaire de revenir sur ce point, à moins que quelqu'un ici ait une
+déclaration à faire? [Il est donc possible que quelques tentatives de réunions aient eu lieu entre le
+18 novembre et le 16 décembre, mais il n’en existe pas d’enregistrements, et comme le dit
+Deleuze, les étudiants à ces séances étaient peu nombreux, d’où son recours à la récapitulation
+qui suit ici.] Je redis, mais c'est évident pour tout le monde, ce qui importe réellement, c'est que
+ce mouvement étudiant se prolonge, se continue, je veux dire, qu'il ne se relâche pas. C'est pour
+ça que je crois très, très important toutes les tentatives des étudiants, au niveau de chaque
+université pour faire même des éléments de contre-projet de l'organisation de l'université.
+[Phrase absente de l’enregistrement mais inscrite à WebDeleuze : Les profs aussi peuvent un
+peu se démener.] Bon.
+
+Nous reprenons, [2 :00] étonnés d'en être déjà à la quatrième séance. Voilà, et je voudrais
+aujourd’hui… Ah, la semaine prochaine commence les vacances, les vacances vont du 20 au 6.
+On me dit que, comme d'habitude, le 6 est un mardi, chaque fois qu'on rentre, c'est un mardi,
+voilà; nous nous retrouverons le 6. Aujourd'hui je voudrais faire tous les efforts pour finir la
+première partie, quitte à abréger des choses, mais ce n'est pas grave, et je voudrais procéder par
+remarques numérotées. Et bon, vous verrez vous-mêmes, j’essaie de faire de courtes
+récapitulations et de dire des choses que je n’ai pas encore dites pour vous remettre [3 :00] dans
+notre souci de travail.
+
+Ma première remarque, vous vous rappelez, c'est en quoi consiste cette partie introductive, et je
+vous disais : c'est très simple, c'est que la philosophie baroque de Leibniz se présente sur deux
+étages. Ce que je n'ai pas dit, c'est que, déjà là, dans l'idée d'un monde à deux étages, il y a
+
+                                                                                                       2
+
+quelque chose qui doit nous frapper parce que ça engage la réflexion philosophique en général. A
+savoir est-ce que ce monde baroque à deux étages, sur lequel je ne reviens pas, ça engage la
+réflexion philosophique tout entière ? Parce que, peut-être est ce que c'est un moment très
+important dans un problème qui agite, [4 :00] à ce moment là, depuis très longtemps la
+métaphysique, à savoir le fameux problème des deux mondes, le monde intelligible et le monde
+sensible. Est-ce que la philosophie baroque, ou plus précisément, est-ce que Leibniz, en nous
+présentant un monde à deux étages, ne s'inscrit pas dans cette tradition tout en la remaniant très
+profondément, et comment vont se distribuer les deux étages? Ils ont déjà subi dans l’histoire de
+la philosophie avant Leibniz, beaucoup de remaniements.
+
+Donc ça nous intéressera de savoir en quoi la disjonction, la distinction des deux étages chez
+Leibniz opère un remaniement très profond de la distinction des deux mondes. D'autant plus que
+ces deux étages, on a vu en quoi ils consistaient, [5 :00] et je vous disais que le monde baroque,
+c'est le monde du pli qui va à l'infini, et qui d'abord se différencie, se dédouble en deux sortes de
+plis. A un étage nous avons les replis de la matière et à l'autre étage les plis dans l'âme. Replis de
+la matière et plis dans l'âme. Et l'étage des replis de la matière, c'est comme le monde du
+composé, du composé à l'infini, la matière n'en finit pas de se replier et de se déplier, et l'autre
+étage, c'est l'étage des simples. Les âmes sont simples. D'où l'expression: les plis dans l'âme,
+dans l'âme. [6 :00] Donc on avait vu un vague programme de l'étude des replis de la matière, et
+puis on s'était lancé dans l'analyse de qu'est-ce que veut dire les plis dans l'âme.
+
+Deuxième remarque. Pour répondre à cette question "qu'est-ce que c'est ces plis dans l'âme ?",
+nous étions partis d'une recherche -- il faut bien que les deux étages communiquent --, une
+recherche concernant un élément génétique idéal, élément génétique idéal des replis de la
+matière. Voyez, dans une première séance, on avait étudié les replis de la matière, pourquoi la
+matière est une puissance qui ne cesse de se replier, et puis on était passé [7 :00] à l'hypothèse
+d'un élément génétique idéal des replis de la matière. Et sans doute, s'il y a un tel élément, il fait
+déjà partie de l'autre étage. Or notre réponse avait été que l'élément génétique des replis de la
+matière, c'est quoi? C'est la courbure variable ou l'inflexion, figure 1 [Figure 1, voir Le Pli, p.
+21]. Chez Leibniz le monde est fondamentalement affecté d'une courbure. Et on a vu
+l'importance que ça a, du point de vue de la physique de la matière, mais, bien au-delà de la
+physique de la matière, dans les mathématiques et dans les idéalités mathématiques. [8 :00] C'est
+que l'idéalité mathématique est courbe: une courbure de l'univers. C'est un thème leibnizien très
+profond. Ça ne nous étonnait pas, vous vous rappelez, de nous apercevoir que l'inflexion, ou la
+courbure variable, va à l'infini. [Pause] Et on l'avait vu, je vous le rappelle très brièvement, par
+les propriétés mêmes du nombre irrationnel, ou du nombre "sourd" comme on dit au dixseptième siècle. Le nombre irrationnel ou sourd est, à la fois, inséparable [9 :00] d'une courbure
+sur la droite et aussi bien engendre – toujours élément génétique -- une série infinie. Donc la
+courbure variable, ou l'inflexion, va à l'infini. L'idée d'une série infinie allait définir un des
+chapitres les plus importants des mathématiques de Leibniz.
+
+Troisième remarque: de l'inflexion -- c'est-à-dire courbure variable -- de l'inflexion au point de
+vue. Et sans doute, le concept d'inflexion avait déjà une très grande originalité caractéristique de
+la philosophie de Leibniz ; [10 :00] accordez-lui également que l'introduction du point de vue
+comme concept philosophique devait avoir pour la philosophie une extrême importance. De
+l'inflexion au point de vue, pourquoi? Parce que la courbure variable renvoie à des centres.
+
+                                                                                                        3
+
+Centres de courbure, du coté de la concavité de la courbe, figure 2 (Peut-être p. 27 dans Le Pli).
+Donc la courbure variable est inséparable de vecteurs de concavité. Et le centre, compris comme
+centre de courbure variable, qu'est-ce qu'il est? Il est sommet, [11 :00] il est : point de vue. Qu'est
+ce que ça veut dire, il est sommet? Ça veut dire qu'il est le lieu des points où se rencontrent les
+tangentes à chaque point de la courbe variable. Vous vous rappelez? [Deleuze écrit au tableau]
+Je dirais qu'un tel centre de courbure est un point de vue sur la portion de courbe définie par
+[12 :00] un vecteur de concavité. Or c'est ça qui était essentiel. Je voudrais que vous compreniez,
+comment très… indépendamment de toute chose très scientifique ou très philosophique,
+comment précisément on passe, comme naturellement -- c'est une espèce de déduction que je
+voudrais vous proposer -- comment on passe de l'idée d'inflexion ou de courbure variable à celle
+de point de vue.
+
+J'avais essayé de montrer en quel sens c'était très important, et ça Michel Serres, dans son livre
+sur Leibniz, l'a montré d'une manière parfaite, en quel sens c'était très, très important que,
+finalement, chez Leibniz, se faisait la substitution du centre conçu comme centre de
+configuration d'une figure régulière, [13 :00] à cette notion de centre se substituait celle de point
+de vue. Au centre du cercle se substitue le sommet du cône ; le sommet du cône est : point de
+vue. Donc c'est comme par un enchaînement nécessaire qu'on passe de l'idée de courbure
+variable à celle de point de vue ou sommet. A la géométrie du centre se substitue une géométrie
+des sommets, une géométrie des points de vue. Ça va, ça? C'est clair? [14 :00]
+
+Quatrième remarque, mais encore une fois, ça vaut pour toutes les remarques d'aujourd'hui, ce
+sont les étapes d'une déduction. [Deleuze reste à vrai dire dans la discussion de la troisième
+remarque] Et retenez bien que là, en vertu de la remarque de tout à l’heure, nous sommes comme
+passés de l'idée d'inflexion à celle de point de vue. C'est ça qui me semble fondamental.
+Comprenez, si on avait commencé par se donner la notion de point de vue chez Leibniz, on
+aurait pu dire, bien sûr, des choses extrêmement intéressantes, mais on n'aurait pas compris ce
+qui l'amenait à ça. Quand un philosophe découvre de nouveaux concepts, ce n'est pas comme ça,
+tout d'un coup, dans sa tête. Il y est amené par toutes sortes de problèmes. Il fallait d'abord que
+l'univers soit affecté d'une courbure, et [15 :00] bien plus, d'une courbure variable, c'est le monde
+élastique, c'est la physique de l'élasticité chez Leibniz ; il fallait que l'univers fût affecté d'une
+courbure variable pour que la notion de point de vue soit vraiment fondée concrètement. Sentez
+comment on passe de l'inflexion au point de vue. Le centre de courbure variable n'est plus un
+centre, au sens de centre d'un cercle, c'est-à-dire centre d'une configuration régulière, c'est un
+site, c'est un sommet. C'est un sommet en fonction duquel je vois, c'est-à-dire que c'est quelque
+chose qui se donne à voir.
+
+Quatrième remarque: mais alors qu'est-ce que c'est un point de vue? [16 :00] Premier caractère, il
+me semble, un point de vue est toujours en rapport avec une variation ou une série. [Pause] Bien
+plus, il est lui-même puissance de mettre en série, puissance d'ordonner, puissance d'ordonner les
+cas. On l'a vu, dans des exemples mathématiques simples, le sommet du cône [17 :00] est un
+point de vue parce qu'il a la puissance d'ordonner les courbes du second degré : cercle, ellipse,
+parabole, hyperbole. Le sommet du triangle arithmétique de Pascal, vous vous rappelez ce si joli
+triangle? Enfin j'espère, peu importe... Le sommet du triangle arithmétique de Pascal est
+puissance d'ordonner les puissances de deux. [Pause] Tel est le premier caractère du point de
+vue.
+
+                                                                                                        4
+
+Second caractère du point de vue: [18 :00] surtout il ne signifie pas que tout est relatif, ou du
+moins il signifie que tout est relatif à condition que le relatif devienne absolu. Qu'est-ce que je
+veux dire ? Je veux dire [que] le point de vue n'indique pas une relativité de ce qui est vu ; mais
+ça découle du précédent caractère: si le point de vue est vraiment puissance d'ordonner les cas,
+puissance de mettre en séries les phénomènes, le point de vue est, du coup, condition de
+surgissement ou de manifestation d'une vérité dans les choses. Vous ne trouverez aucune vérité si
+[19 :00] vous n'avez pas un point de vue déterminé. C'est la courbure des choses qui exige le
+point de vue. On ne peut pas dire autre chose ; cet univers courbe chez Leibniz, il faut partir de
+là. Sinon, il me semble [que] tout reste abstrait. En d'autres termes, il n'y a pas de vérité si vous
+n'avez pas trouvé un point de vue sous lequel elle est possible, c'est-à-dire sous lequel tel genre
+de vérité est possible.
+
+Si bien que la théorie du point de vue introduit en philosophie ce qu'il faut bien appeler un
+perspectivisme. Et lorsque Nietzsche se déclarera proche [20 :00] de Leibniz, c'est précisément
+au nom d'un tel perspectivisme, et chez Nietzsche comme chez Leibniz, le perspectivisme ne
+signifiera pas à chacun sa vérité, mais il signifiera le point de vue comme condition de la
+manifestation du vrai. Mais chez un autre grand perspectiviste, le romancier Henry James, le
+point de vue, et la technique des points de vue, n'a jamais signifié [que] la vérité est relative à
+chacun, mais qu'il y a un point de vue à partir duquel le chaos s'organise, [21 :00] où le secret se
+découvre.
+
+Troisième caractère du point de vue : dès lors, le point de vue n'est pas du tout une perspective
+frontale qui permettrait de saisir une forme dans les meilleures conditions ; le point de vue est
+fondamentalement perspective baroque, pourquoi? C'est que jamais le point de vue n'est une
+instance à partir de laquelle on saisit une forme, mais le point de vue est une instance à partir de
+laquelle on saisit une série de formes, dans leurs passages les unes dans les autres, soit [22 :00]
+comme métamorphose de formes -- passage d'une forme à une autre -- soit comme anamorphose
+-- passage du chaos à la forme. [Pause] C'est le propre de la perspective baroque.
+
+Dernier caractère du point de vue, le point de vue est affecté d'un pluralisme fondamental ; qui
+dit point de vue dit pluralité de points de vue. Le point de vue est inséparable d'un pluralisme,
+soit, mais en quel sens? Remarquez que là, nous allons avoir une petite difficulté: que le point de
+vue soit essentiellement multiple, [23 :00] que toute philosophie du point de vue soit pluraliste,
+nous savons en tous cas ce que ça ne veut pas dire ; ça ne veut sûrement pas dire encore une fois
+"à chacun sa vérité". Ce n'est pas ça, ce n'est pas ça qui fonde le pluralisme du point de vue.
+Encore une fois, au contraire, on a vu que c'est la puissance d'ordonner et de sérier, de sérier une
+multitude de formes. Le point de vue s'ouvre sur une série infinie.
+
+Bien oui, mais alors... Ça, c'est un peu gênant. Pourquoi ? Si le point de vue s'ouvre sur une série
+infinie, c'est-à-dire mettons, à la limite, si tout point de vue est sur la série des séries, c'est-à-dire
+si tout point de vue est sur le monde -- ce n'est pas étonnant puisque c'est le monde qui est affecté
+d'une courbure, dès lors le point de vue est sur le monde ; [24 :00] j'essaie de vous parler en
+termes très ordinaires de ce que Leibniz présente dans une élaboration de concepts beaucoup
+plus... -- si tout point de vue est sur le monde, pourquoi est-ce qu'il y a plusieurs points de vue?
+Si le point de vue est sur une série infinie, pourquoi il y a plusieurs points de vue? Peut-être
+qu'on va avoir des difficultés à rendre compte de… pourtant il faut bien maintenir : il y a une
+
+                                                                                                          5
+
+pluralité essentielle des points de vue. Peut-être que ma figure 2 l'indique assez: si le monde est
+en inflexion, et que le point de vue est défini du coté de la concavité, il y a évidemment une
+distribution des points de vue autour du point d'inflexion. Donc il y a nécessairement plusieurs
+points de vue. Ce que je ne sais pas encore… Je suis sûr de deux choses [25 :00] à l'issu de cette
+brève remarque ; je suis sûr que tout point de vue s'ouvre sur une série infinie, et à la limite, sur
+la série des séries, c'est-à-dire sur le monde; et je suis sûr aussi qu'il y a plusieurs points de vue.
+La petite difficulté c'est, encore une fois, en vertu du premier caractère, le point de vue s'ouvre
+sur la série infinie, c'est-à-dire sur le monde. Pourquoi est-ce qu'il n'y a pas un seul point de vue
+qu'il faudrait simplement découvrir et auquel il faudrait se hisser ? Bien non, il y a forcément
+plusieurs points de vue à cause de la courbure, de l'inflexion, de la courbure variable. Bon mais,
+il faudra arranger ça. On sent qu'il y a là quelque chose qu'il faudra arranger. Ça n'empêche pas
+qu'un essentiel pluralisme est [26 :00] le dernier caractère notable pour le moment du point de
+vue.
+
+C'était ma quatrième remarque. Tout ça, cette quatrième remarque permettrait des éléments pour
+définir ce qu'il faut entendre par perspective baroque. [Pause] A l'issue de ces quatre premières
+remarques, je dis que nous sommes passés de la courbure variable, ou de l’inflexion, au point de
+vue.
+
+Cinquième remarque. Nous allons passer du point de vue à l'inclusion ou [27 :00] à l'inhérence,
+mot constant chez Leibniz, in esse en latin. Qu'est-ce que c'est que in esse ? C’est être dans, être
+inclus, être inclus dans, être inhérent à. Il ne suffisait pas d'aller de la courbure variable ou de
+l'inflexion au point de vue ; il faut aller du point de vue à l'inclusion et à l'inhérence. C'est l'objet
+de la cinquième remarque. [28 :00] [Interruption] – Entrez… [Rires] et fermez bien la porte. –
+[Brève interruption de l’enregistrement et changement de l’orientation du magnétophone, d’où
+une baisse remarquable de la qualité sonore] [28 :24]
+
+Voilà, si bien que notre objet total, c'est finalement montrer comment on passe nécessairement
+de la courbure variable ou de l'inflexion à l'inclusion ou à l’inhérence. Pour le moment, ma
+cinquième remarque c'est: comment passe-t-on du point de vue à l'inclusion ? Je vous disais que
+[29 :00] Leibniz prend souvent le thème suivant: vous pouvez toujours construire un angle droit
+dans un cercle. [Deleuze écrit au tableau en parlant] Ceci n'est pas le centre du cercle, c'est le
+sommet; dans la technique leibnizienne de la traduction des centres en sommets, c'est le sommet
+d'un angle droit. Où commence l'angle droit? [Son de Deleuze qui marque le dessin] Comme dit
+Leibniz, [Propos pas clairs]… la définition. Plus vous rapprochez l'arc [du cercle] du sommet
+lui-même, plus vous pourrez constater [30 :00] que l'angle est déjà un angle droit. A la limite, le
+fait que cet angle soit un angle droit est inclus dans ‘S’, est inclus dans le sommet, est inclus dans
+le point de vue. Vous me direz que c'est quand même un peu pauvre ça, mais c'est ça que je
+cherche, des choses qui vraiment vont de soi. D'une certaine manière, l'angle est déjà droit dans
+le point S tel qu'il est défini. Bon.
+
+Ou bien je dirais: la courbure variable [31 :00] est dans le centre de courbure qui lui correspond
+(figure 2). Pourquoi? Eh bien, précisément, puisque ce centre est le lieu des points où se
+rencontrent les tangentes à chaque point de la courbure variable. C'est une idée bizarre; voilà que
+maintenant il faudrait dire: le visible -- ou si vous préférez, ce qui se manifeste, le phénomène,
+ou si vous préférez, la courbe -- la courbe visible est dans le point de vue sur la courbe. La
+
+                                                                                                     6
+
+courbe visible est comme dans le centre de courbure ; [32 :00] la courbe visible est dans le point
+de vue sur la courbe. Bon.
+
+Lire de la philosophie, c'est faire deux choses à la fois : c'est être très attentif à l'enchaînement
+des concepts, c'est la lecture philosophique, mais il n'y a pas de lecture philosophique qui ne se
+double d'une lecture non philosophique. Et la lecture non philosophique, sans laquelle la lecture
+philosophique reste morte, c'est toutes sortes d'intuitions sensibles que vous devez faire naître en
+vous, mais des intuitions sensibles extrêmement rudimentaires, et par la même, extrêmement
+vivante. [33 :00]
+
+Bon. Le visible est inclus dans le point de vue. Qu’est-ce que ça veut dire ? Si on essaie de
+reprendre, quelle intuition sensible il y a là-dessous ? Repartons de notre courbure variable.
+Notre courbure variable c'est le pli, ou c’est l'élément génétique du pli. On a vu la matière ne
+cesse de se replier sur elle-même ; plus généralement, le monde est plié. Permettez-moi de
+demander pourquoi quelque chose est plié? Pourquoi c'est plié? Ça tombe bien avec Leibniz ; il
+est célèbre que Leibniz demande une raison à toute chose ; [34 :00] c'est une philosophie que luimême présente comme la philosophie de la raison suffisante. Tout a une raison. Qu’est-ce qu'il
+entend par raison ? C’est… c’est… on le verra, mais là aussi on ne peut pas partir de ça, c'est
+trop abstrait. Ce n’est pas que c'est trop difficile, ainsi à ce moment-là, ça le ferait mourir,
+Leibniz. On aurait comme une espèce de Leibniz mort. Vous ne pouvez faire vivre un philosophe
+que par la lecture non philosophique que vous en faites. Si bien que le plus philosophe de tous
+les philosophes, c'est d'une certaine manière le moins philosophe des philosophes, et, dans
+l'histoire de la philosophie il y a le plus philosophe de tous les philosophes qui a été aussi le
+moins philosophe de tous les philosophes, c'est-à-dire accessible aux non philosophes, c'est
+Spinoza. On n'a pas de chance, on parle de Leibniz et c'est Spinoza [35 :00] qui nous revient.
+L'auteur qui est, si vous voulez, justiciable d'une lecture philosophique extrêmement complexe,
+et en même temps de la lecture non philosophique la plus violente, avant que ce soit Nietzsche,
+c'est Spinoza. Mais enfin, bon, mettons que ce soit aussi Leibniz.
+
+Pourquoi quelque chose serait-il plié? Au niveau de l'intuition sensible non philosophique, je dis
+une chose toute simple. Je disais la dernière fois, avant qu’on se quitte il y a longtemps, vous
+avez des choses qui sont pliées ; oublions, je ne sais pas si les choses sont pliées? [36 :00]
+Leibniz nous dit oui, l'univers est affecté d'une courbure, mais pourquoi? Ça sert à quoi être plié?
+Ça sert à quoi être replié ? Si les choses sont pliées, c'est pour être mises dedans. Voilà au moins
+une réponse. -- [Interruption ; Deleuze regarde une enveloppe apparemment]: Ahhh, c’est la
+pétition pour le président que je vous lirai tout à l’heure. – C’est pour être mises dedans. Je vous
+disais, ben oui, les choses, elles ne sont pliées que pour être enveloppées. Les choses, elles sont
+pliées pour être incluses, pour être mises dedans. Alors, c'est très curieux ça. [37 :00] C’est-àdire le pli – ça c’est du non-philosophique – le pli renvoie à l'enveloppe. Le pli, c'est ce que vous
+mettez dans une enveloppe. En d'autres termes, l'enveloppe est la raison du pli. Vous ne plieriez
+pas si ce n'était pas pour mettre dans une enveloppe. L'enveloppe est la cause finale du pli.
+
+Je traduis en concepts philosophiques. L'inclusion est la raison de l'inflexion. [38 :00] L'inflexion
+est la raison de la courbure. Il fallait bien plier les choses pour les mettre dedans. Ah, quand
+même, on n’a pas fini la rêverie. Ce qui est plié -- je vais très lentement parce que je voudrais
+que vous compreniez au fur et à mesure, en même temps --, ce qui est plié, ou si vous préférez ce
+
+                                                                                                         7
+
+qui est courbé, puisque l'inflexion nous a paru l'élément génétique du pli, ce qui est plié, ou
+infléchi, ou courbé d'une courbure variable, par là même est enveloppé dans quelque chose.
+[39 :00] Voilà la première chose que je voudrais que vous m’accordiez. Alors, si vous me dites
+pourquoi, mais arrêtez, arrêtez de demander pourquoi. "Est-ce que ça va ?" Il ne faut pas
+demander pourquoi, il faut demander, "est-ce que ça va"? C'est le monde de Leibniz.
+
+Alors, bon. Ce qui est plié est nécessairement enveloppé dans quelque chose sinon ce ne serait
+pas plié. Ce qui est plié n'est plié, ce qui est courbe n'est courbe que pour être enveloppé.
+Envelopper, en latin, c'est involvere, ou implicare. [40 :00] Impliquer, envelopper, c'est la même
+chose. Implicare, c'est quoi? C'est l'état du pli qui est enveloppé dans quelque chose, qui est
+impliqué dans quelque chose, ce qui est plié et par la même impliqué dans quelque chose. C'est
+d'une grande beauté tout ça ; c'est aussi beau qu'une œuvre d'art. Et avec une œuvre d'art, ça a un
+avantage, c'est que, en plus, c'est vrai. [Rires] C'est vrai ; les choses se passent comme ça, quoi.
+
+Alors continuons. [41 :00] Si vous m’avez compris jusque là, je commence … Ce qui est plié,
+plicare, plié, est par-là même implicare, ce qui est plié est mis dans quelque chose, est inclus
+dans quelque chose. Ce qui est plié n'est plié que pour être dans quelque chose. En d’autres
+termes, alors encore un petit pas de plus: ce qui est plié n'existe pas hors de ce qui l'inclut, de ce
+qui l'implique, de ce qui l'enveloppe. Ce qui est plié n'existe pas hors de ce qui l'enveloppe.
+
+Continuons nos petits pas. Ce qui est plié ne se laisse pas déplié sauf idéalement. [42 :00]
+Déplier ce qui est plié, c'est possible mais c'est une opération d'abstraction. Ce qui est plié
+n'existe que comme enveloppé dans quelque chose ; si vous développez ce quelque chose, c'est
+possible, mais c'est une abstraction. Vous faites abstraction, à ce moment là, de l'enveloppe. En
+d'autres termes, ce qui est plié n'existe que dans son enveloppant. Enfin, alors, quel gain on a
+fait ? C'est compliqué, c’est bien compliqué le gain qu'on a fait [43 :00] dans cette cinquième
+remarque.
+
+Je dirais dans cette cinquième remarque, on peut conclure: ce qui est plié ne renvoie pas
+seulement à un point de vue -- c'était l'objet des remarques précédentes, ce qui est plié renvoie à
+un point de vue – mais, cinquième remarque, ce qui est plié ne renvoie pas seulement à un point
+de vue, mais est nécessairement enveloppé dans quelque chose qui occupe le point de vue. Là on
+n’a pas fini alors de mesurer le progrès qu'on vient de faire. Ce qui est plié renvoie à un point de
+vue, mais en plus, [44 :00] est nécessairement impliqué, est nécessairement enveloppé, impliqué
+dans quelque chose qui occupe le point de vue.
+
+Je dis, on n’a pas fini de mesurer ces tout petits progrès car vous sentiez bien que lorsqu'on disait
+tout à l'heure -- le visible est inclus, enveloppé dans le point de vue -- c'était une approximation,
+que ça ne collait pas tout à fait, que c'est par approximation que je peux dire que l'angle droit est
+dans le sommet. Mais aussi, je ne dis plus ça, c'était une manière de parler, on n’en avait pas
+d'autres à ce moment-là. Maintenant on peut quand même le préciser un peu ; dire, ben oui, non,
+ce n’était pas tout à fait ça ; [45 :00] c'était presque ça, mais pas tout à fait ça. Car ce qui est plié,
+n’est pas enveloppé dans le point de vue ; ce qui est courbe ou plié est enveloppé dans un
+quelque chose qui occupe le point de vue, mais dès lors, il y a quelque chose qui occupe le point
+de vue, et ça, on n’en a pas parlé.
+
+                                                                                                        8
+
+Et ce quelque chose qui occupe le point de vue, dès lors, vous accorderez bien à Leibniz que
+Leibniz peut nous dire tantôt, par commodité et pour aller plus vite, il peut tantôt l'identifier au
+point de vue lui-même, et tantôt au contraire le [(45 :52) Interruption de l’enregistrement
+WebDeleuze ; texte de la transcription à WebDeleuze] distinguer du point de vue. Donc je
+conclus cette cinquième remarque en disant que nous nous trouvons maintenant devant deux
+propositions qui ont un rapport de progression l'une avec l'autre. Première proposition: ce qui est
+plié renvoie nécessairement à un point de vue puisque l'inflexion, ou la courbure variable,
+renvoie à un point de vue. Deuxième proposition, ce qui est plié est nécessairement enveloppé
+dans quelque chose qui occupe le point de vue.
+
+La sixième remarque aurait pour objet de préciser en quoi [Reprise de l’enregistrement de
+WebDeleuze, avec une amélioration nette de la qualité sonore] consiste la progression. [46 :00],
+[Longue pause, bruits divers près de Deleuze] Ça va jusque-là? Pas de problèmes? Je voudrais
+juste que vous en tiriez, si ça vous convient, une méthode pour vous, pour votre lecture. J'insiste
+là-dessus, sur cette nécessité. Ce que je suis en train de faire c'est presque une opération de
+déphilosophiser. Comprenez ? Je crois vraiment qu'il n'y a de lecture complètement
+philosophique que si vous la faites coexister avec une lecture non philosophique. C'est pour ça
+que la philosophie, ce n'est pas du tout une chose de…, c'est à la fois une chose de spécialiste, et
+c'est en même temps une chose absolument [47 :00] de non spécialiste. Il faut maintenir les deux
+à la fois. Une bonne philosophie est éminemment chose de spécialistes puisqu'elle consiste à
+créer des concepts, mais elle est fondamentalement chose de non spécialistes parce que les
+concepts sont véritablement des dessins, des dessins d'intuitions sensibles.
+
+Alors, je voudrais insister sur… Voilà une nouvelle instance. Qu’est-ce que c’est, ce qui
+occupe… Voyez, l'inflexion se dépassait vers l'idée de point de vue, et maintenant l'idée de point
+de vue se dépasse vers un quelque chose qui occupe le point de vue. Je dirais de ce quelque
+chose que c'est un enveloppant, [48 :00] un impliquant. Le pli est impliqué dans l'impliquant. Cet
+enveloppant nous savons d'avance que c'est, en gros, c’est le sujet, ou suivant les mots de
+Whitehead -- on aura à en venir, on aurait dû déjà le faire, mais les circonstances n'ont pas été...
+alors, il ya une espèce de parallélisme Leibniz-Whitehead -- comme disait Whitehead: un
+superjet. C'est le sujet qui enveloppe ou le superjet qui enveloppe, qui implique. Il enveloppe
+quoi? Il enveloppe ce qui est plié. [49 :00] Bon. Qu'est-ce que c'est ce qui est plié? On a vu qu'on
+avait des raisons de l'appeler non pas objet mais objectile, puisque l'objectile, c'était l'objet en
+tant qu'il décrivait des courbures variables ou une courbure variable.
+
+Donc, rendez-vous compte, mais déjà, philosophiquement, si on saute d'une lecture à l'autre, c'est
+bien la première fois qu'un philosophe définit le sujet de cette manière-là comme un point de
+vue, un sommet, un superjet.
+
+C'est très curieux ça: le sujet, c'est ce qui vient à un point de vue. [Pause, bruit de quelqu’un qui
+tousse assez violemment] Et je dis tantôt [50 :00] Leibniz fera comme si sujet et point de vue
+c'est la même chose, mais tantôt il sera très formel, très précis, et il nous dira [que] le point de
+vue, c'est la modalité du sujet. On ne peut pas mieux dire que le sujet devrait être défini
+indépendamment du point de vue ; il vient à un point de vue, le point de vue est son mode
+inséparable, mais ce n'est pas le point de vue qui définit le sujet. Là j'ai l'impression que parfois
+les commentateurs de Leibniz ne voient pas bien cette progression et se contentent de la notion
+
+                                                                                                      9
+
+de point de vue pour définir le sujet. Or ce n'est pas possible. Il faudra bien que le sujet...
+Pourquoi? Parce que le sujet, il n'est pas point de vue, il est enveloppant. Donc il a un point de
+vue, bien sûr qu’il a un point de vue, [51 :00] mais, pour parler savant, dans sa constitution, il
+n'est pas point de vue. Il résulte de sa constitution que le sujet vienne à un point de vue et soit
+inséparable d'un point de vue, mais le point de vue n'est pas sa constitution même. [Pause]
+
+En d'autres termes, quelle est notre progression? Je dis d'abord que le point de vue est un point de
+vue sur la série infinie, [Pause] c'est-à-dire [52 :00] que le point de vue est un point de vue sur la
+série constituée, la série infinie constituée par les états du monde. [Pause] Voilà ce qu'est le point
+de vue, il porte sur la série infinie des états du monde. [Pause] Je dirais qu’à la limite, si j’en
+reste à ce niveau… Vous voyez que dans mon étage, dans mon premier étage au-dessus de la
+matière, se dessinent comme peut-être des [53 :00] petits étages différents. Je dirais que si j'en
+reste au point de vue, j'en reste comme à une échelle de la perception; c'est le monde du percept.
+[Pause] Le point de vue donne sur la série infinie des états du monde. C'est comme la
+manifestation du visible, c'est le percept. Mais en plus, je dis: le monde, la série du monde, la
+série infinie du monde [54 :00] est enveloppée dans le quelque chose qui vient au point de vue,
+c'est-à-dire est enveloppée dans le sujet.
+
+A ce moment-là, remarquez que le statut du monde a changé ; ça n'est plus exactement comme
+tout à l'heure la série infinie des états du monde car ce qui est enveloppé dans le sujet, c'est quoi?
+C'est, par nature, ce qu'on appelle le prédicat, ou si vous préférez, l'attribut. [55 :00] La série
+infinie des états du monde est maintenant devenue la série infinie des prédicats du sujet, série
+infinie des prédicats d'un sujet qui les enveloppe. On est passé de la série infinie des états à la
+série infinie des prédicats ou attributs. En effet, si la série infinie des états du monde est dans le
+sujet, est enveloppée dans le sujet, les états du monde sont aussi les prédicats du sujet, les
+attributs du sujet.
+
+Tout ça, ça engage beaucoup de choses, mais on ne s'en occupe pas encore; notamment on ne
+s'occupe pas de la question redoutable et très belle : qu'est-ce que c'est qu'un attribut du sujet ? Je
+dis juste: bien oui, si les états du monde [56 :00] sont enveloppés dans le sujet, il faut bien que
+les états du monde soient les prédicats du sujet qui les enveloppe. Mais, vous voyez toujours le
+petit progrès, on n'est plus dans le domaine du visible, on est dans quel domaine ? On est passé
+du visible au lisible. On est passé du visible au lisible. D'un certain point de vue, je vois le
+monde, mais en moi, je le lis. D'où ce texte qui me paraît si charmant, chez Leibniz,
+Monadologie, paragraphe 36.... [57 :00] paragraphe 36, [Pause] non, ce n'est pas ça, c'est le
+paragraphe 61; Monadologie, paragraphe 61, je vous le lis:
+
+"Une âme" -- c’est-à-dire, un sujet -- "ne peut lire en elle-même que ce qui est représenté
+distinctement"-- peu importe ce que ça veut dire, le texte. On n'est pas encore en mesure de le
+commenter, mais on est en mesure de remarquer que Leibniz ne dit pas et ne dira jamais -- oh, ne
+dira jamais, il faut se méfier -- et quand il parle rigoureusement il ne dira jamais -- bien qu'il lui
+arrive de parler non rigoureusement pour aller plus vite [58 :00] -- il ne dira jamais que l'âme
+voit en elle-même, il dira que l'âme lit en elle-même, et en effet, ce qu'elle enveloppe, ce sont les
+états du monde en tant que prédicats du sujet. Or, l'âme lit ses propres prédicats en même temps
+que sous le point de vue où elle est, elle voit les états du monde.
+
+                                                                                                    10
+
+Ça se complique, mais ça valait la peine parce qu'on n'est plus en effet dans le domaine du
+percept au niveau de l'enveloppement. Au niveau du point de vue, on est dans le percept, mais au
+niveau de l'enveloppement sujet-prédicat, on est dans le concept. On est dans le concept. [59 :00]
+[Pause] A une remarque prés, qui évidemment est fondamentale, à condition de concevoir le
+concept comme individu. Le sujet est individuel. Pourquoi? Précisément parce qu'il n'existe pas
+sans venir à un point de vue. En d'autres termes, qu'est-ce qu'un sujet? C'est un concept, c'est une
+notion, et chaque fois que Leibniz dit "sujet", il faut que vous corrigiez en mettant "notion", c'est
+la notion du sujet chez Leibniz, toujours. Et qu'est-ce que c'est qu'une notion de sujet? C'est une
+notion individuelle, dit-il. En d'autres termes, le concept va jusqu'à l'individu. Bien plus,
+l'individu c'est le concept, [60 :00] c'est la notion. C'est bizarre ça ; là, on est absolument hors de
+mesure de comprendre encore. Mais c'est intéressant ; marquez ce qu'il y aura à comprendre pour
+l'avenir.
+
+Je peux dire que, vous savez, Leibniz est sans doute le philosophe ancien, relativement ancien,
+qui est le plus moderne du point de vue de la logique. Si on demande à Leibniz, "qu'est-ce que
+c'est qu'un sujet ?", il répondra que c'est ce qui est indiqué par un nom propre. Vous savez à quel
+point, dans la logique moderne depuis Russell, la théorie des noms propres a eu une importance,
+et ça, on le verra en détail plus tard. Leibniz est le premier à nous dire [que] [61 :00] le vrai nom
+de la substance individuelle, le vrai nom du sujet, c'est un nom propre. Et c'est sans doute avec
+Leibniz que commence une grande logique du nom propre.
+
+Qu'est-ce qu'un sujet? C'est César, Adam, vous, moi. Immédiatement, on se reprend, non, c'est la
+notion individuelle de chacun de nous car seule la notion enferme les prédicats. Qu'est-ce que les
+prédicats que nous enfermons? Tous les états du monde! En d'autres termes, qu'est-ce qui vient a
+un point de vue? Vous voyez, ce qui vient à un point de vue, c'est le sujet compris comme notion
+individuelle. [62 :00] Ce qui vient à un point de vue, c'est ce qui est indiqué par un nom propre.
+Je vois d'un point de vue, et je lis dans le sujet. Voir et lire. Percept et concept. [Pause]
+
+En d'autres termes, on est bien passé de, si je résume cette remarque – c’était mon souci dans
+toute cette introduction, dans toutes nos séances précédentes -- on est bien passé de l'inflexion à
+l'inhérence. Mais à quel prix? Au prix de découvrir que, [63 :00] non seulement l'inflexion
+renvoyait à un point de vue, mais que le point de vue renvoyait à quelque chose qui venait
+occuper ce point de vue; le quelque chose qui vient occuper ce point de vue, nommons-le : une
+âme, c'est ça une âme; une substance, c'est ça une substance; un superjet si l’on parle comme
+Whitehead et non pas comme Leibniz, puisque le mot est de Whitehead; une notion individuelle,
+un nom propre. [Pause]
+
+Grande difficulté qu'on a complètement laissé tomber, il ne faut pas vous étonner [64 :00] de ne
+pas comprendre ce qui actuellement est incompréhensible : qu'est-ce que c'est au juste qu'un
+prédicat ou attribut, de cette substance ou du sujet? On a juste vu que dans la mesure où il y avait
+enveloppement, les états du monde devenaient les prédicats du sujet individuel. Il n'y a de sujet
+qu'individuel, et voilà quelque chose de tout à fait étrange en philosophie. Parce qu’avant les
+autres, qu'est-ce qui s'était débattu dans la question de savoir en quel sens l'âme était
+individuelle, pas individuelle, qu'est-ce que ça entraînait, tout ça? Leibniz arrive tout tranquille et
+nous assène: tout sujet est individuel, et bien plus, le concept va jusqu'à l'individu et n'existe
+qu'en allant jusqu'à l'individu.
+
+                                                                                                     11
+
+Tout ça, ça ne va pas de soi [65 :00] mais c'est des difficultés pour nous pour plus tard. On n’est
+pas en mesure de les résoudre pour le moment. Alors on procède au fur et à mesure de ce qu'on
+est capable de résoudre, d'où ma septième remarque. Je fais une courte pause ; est-ce que la
+sixième est claire ? Il faut juste… Si vous voulez, ça ne peut pas être trop clair ! Il faut juste que
+vous sentiez la nécessité de passer du point de vue à l'inhérence, c'est-à-dire à l'inclusion, c'est-àdire à l'idée de quelque chose d'individuel qui vient occuper le point de vue et qui, dès lors,
+enferme, enveloppe la série infinie. Voilà. Je devine que vous avez très bien compris, comme
+vous ne manifestez rien, vous êtes des visages [66 :00] indéchiffrables. Alors Leibniz dirait que
+dans votre âme -- et on voit bien la différence entre le point de vue et l'âme -- dans votre âme,
+vous lisez parfaitement ; à première vue, vous ne voyez rien du tout, mais dans votre âme…
+Enfin, l’âme est l’essentiel. Bon.
+
+Septième remarque. D’où, au moins, il faut savoir ce qu'on est capable de comprendre. On a vu
+ce qu’on n’était pas encore capable de comprendre, mais dans la septième remarque, il y a toute
+une série de textes de Leibniz à peu près qu'on retrouve partout, et qui maintenant pour nous ne
+font plus tellement problème. Premièrement, et ça on l'avait vu [67 :00] dans notre séance
+précédente, le thème du miroir: chaque sujet est miroir du monde. Là c'est vraiment le langage du
+visible. Bien plus, Leibniz ajoute: chaque sujet est miroir du monde sous son point de vue. Vous
+voyez qu'il ne confond pas le sujet et le point de vue, c'est-à-dire le sujet "miroir du monde" sur
+le mode de son point de vue, du point de vue qu'il vient occuper. Nous précisions juste qu'il faut
+comprendre "miroir" comme un miroir concave. Tout ce qui précède le justifie, [68 :00]
+l’introduction ou l'adjonction de la concavité.
+
+Second point: ce n'est qu'une métaphore, et il faut la dépasser, il faut dépasser cette métaphore.
+Pourquoi dépasser cette métaphore? Parce qu'elle en reste au point de vue, c’est-à-dire elle reste
+au milieu du chemin. Il ne faut pas dire que chaque sujet est un miroir sur le monde, parce que ça
+aurait l'air de dire que le monde existe en soi. Or il n'existe, rappelez-vous, il n'existe que comme
+plié, c'est-à-dire il n'existe que enfermé dans chaque âme, il n'existe que enveloppé dans chaque
+âme ou sujet. [69 :00] Dès lors, il faudrait dire que, comme je suggérais la dernière fois, plutôt
+qu'un miroir sur le monde, le sujet est un écran sur lequel passe un film. Mais, comme on l’avait
+remarqué, c'était encore insuffisant puisque un film a été tourne et renvoie à une extériorité,
+même supposée. D'où nous invoquions plutôt une table opaque, une table opaque d'information
+où s'inscrivent des données, sans référence à une extériorité.
+
+Le monde est enveloppé dans chaque sujet, et n'existe qu'enveloppé dans chaque sujet. [70 :00]
+C'est en ce sens que la Monadologie nous dira : les sujets, les substances individuelles sont "sans
+porte ni fenêtre". Elles ne reçoivent rien du dehors. Vous voyez pourquoi elles ne reçoivent rien
+du dehors puisque tout ce qu'elles ont, tout ce qu'elles lisent ou tout ce qui leur arrivent, elles
+l'enveloppent, elles l'incluent. En d'autres termes, le monde n'existe pas hors des sujets qui
+l'incluent, le monde n'existe pas hors des sujets qui l'enveloppent. [71 :00] [Pause] Et presque
+comme symbole de Leibniz, la dernière fois, je vous proposais un tableau célèbre de
+Rauschenberg, où il y a tout ce qui nous convient, c’est-à-dire la surface du tableau comme
+surface d'information, comme table d'information qu'il faudrait imaginer légèrement concave, et
+s'y inscrit une courbe variable, une courbure variable chiffrée. [Il n’est pas clair de quel tableau
+précis il s’agit, mais voir Le Pli, p. 38, note 2, et la référence au livre de Leo Steinberg, Other
+Criteria, et en particulier, la partie du chapitre 3 consacrée en partie à Rauschenberg où
+
+                                                                                                     12
+
+plusieurs reproductions des toiles révèlent les traits indiqués par Deleuze] C'est en effet la
+représentation d'un monde leibnizien.
+
+Voyez que nous sommes passés et ça ne faisait que recommencer [72 :00] un autre niveau que
+nous venons de faire. Dans cette septième remarque nous sommes passés des textes de Leibniz
+où il nous dit que le sujet, la substance individuelle est miroir sur le monde, à l'autre sorte de
+texte plus profond: le sujet individuel enveloppe le monde, le monde n'existe pas hors des sujets
+qu'il enveloppe. [Pause] Hors des sujets qui l'enveloppent, ça nous relance.
+
+Huitième remarque. Car enfin l'heure est venue de résoudre une difficulté: pourquoi plusieurs
+points de vue, pourquoi plusieurs sujets? Pourquoi est-ce qu'il n'y aurait pas qu'un seul sujet qui
+viendrait à un point de vue, lequel point de vue serait et porterait sur la série infinie des états du
+monde, et envelopperait donc [73 :00] la totalité des prédicats; aurait pour prédicat, attribut un
+terme : la série infinie des états du monde, un seul sujet qui serait Dieu ? D'une certaine manière
+ce serait Spinoza, une seule substance, Dieu, qui comprend, qui contient, qui inclut toutes les
+modifications constitutives du monde, la série infinie des modifications constitutives du monde.
+C'est dire à quel point Leibniz tient à la pluralité des sujets et à la pluralité des points de vue. On
+va de l'un à l'autre, d'ailleurs, de la pluralité des points de vue à la pluralité des sujets.
+
+Mais encore une fois, s'il est vrai qu’un point de vue saisit la série infinie [74 :00] du monde, ou,
+ce qui revient au même, si il est vrai que le sujet inclut le monde, enveloppe le monde -- c'est
+bizarre! -- pourquoi plusieurs points de vue? Je vous rappelle qu'on a tenté, à la dernière séance,
+j'ai tenté de vous proposer une réponse, qui est: c'est que la série infinie est essentiellement
+susceptible d'une infinité de variations. [Pause] Les variations d'une série, on aura à revenir làdessus, les variations infinies; je vous disais [qu’] il faut les concevoir de toutes les façons:
+[75 :00] des variations rythmiques ; des variations mélodiques ; des mouvements contraires,
+lorsque l'ascendant devient descendant et le descendant ascendant ; des mouvements rétrogrades
+lorsque vous commencez par la fin et que vous obtenez une autre série. Donc il y a une infinité
+de variations de la série infinie.
+
+Alors est-ce qu'il faut dire que chaque sujet répond à une variation? Sans doute, notamment il n'y
+a pas deux sujets qui commencent la série infinie par le même terme, ni qui le finit par le même.
+C'est pour ça qu'il y a nécessairement une infinité de sujets. Mais alors, [76 :00] il y a aussi une
+raison : c'est que, d'accord, chaque sujet enveloppe la série infinie. Oui, chaque sujet enveloppe
+la série infinie, la série infinie du monde, mais chaque sujet se définit par une région de cette
+série, la région qu'il peut lire, qu’il peut lire clairement et distinctement. J'exprime le monde, ou
+si vous préférez je l'enveloppe, [77 :00] j'exprime le monde à la manière d'un miroir ; je
+l'enveloppe à la manière d'un sujet. Bon, et puis vous aussi -- il n'y a pas de raison – vous aussi,
+on exprime tous le monde. Très bien, seulement voilà, on n'exprime pas clairement la même
+portion. Chaque sujet a une capacité finie de lecture claire ; le reste, c'est quoi? Il faut dire que
+chaque sujet est, à la lettre, dyslexique, pour toute la série.
+
+Vous voyez qui c'est, le grand lecteur. Le grand lecteur du monde c'est Dieu. [78 :00] Mais nous,
+sujets individuels, vous me direz: mais Dieu, c'est un individu aussi. Bien sûr que [Dieu], c'est un
+individu, mais ça va nous poser des problèmes : en quel sens c'est un individu, et en quel sens
+nous aussi nous sommes des individus, mais enfin on n'en est pas là encore. Dieu, il enveloppe
+
+                                                                                                       13
+
+toute la série du monde clairement et distinctement, mais nous? Mais nous ? Vous comprenez,
+c'est déjà bien beau, on a une petite portion de lecture claire et distincte, le reste on bafouille. On
+enveloppe le monde entier, oui, mais confusément, obscurément, d’une manière illisible. Et on a
+notre petite portion, notre petite lueur [79 :00] claire et distincte, notre petite lueur sur le monde,
+notre petite région de monde: ma chambre à moi. C'est déjà pas mal si j'enveloppe ma chambre à
+moi! Il ne faut pas demander beaucoup plus. Mais j'exprime le monde entier, j'enveloppe le
+monde entier, mais je n'enveloppe clairement qu'une petite portion.
+
+Alors qu'est-ce qui me distingue de vous, et vous de moi? C'est qu'on n'exprime pas clairement la
+même petite portion. Vous me direz on a une sphère commune, oui, c'est par là qu'on appartient,
+par exemple, à un même temps, qu'on est co-vivants. Vous comprenez, chacun de nous a sa
+portion commune mais elle peut empiéter sur celle du voisin. [80 :00] Par exemple quand nous
+nous réunissons dans ce lieu à barreaux, [Rires] nous exprimons clairement une petite portion
+d'espace. Mais si nous nous dispersons, chacun retourne dans sa chambre à soi. Ça peut se réunir,
+se séparer, c'est du mode accordéon. [Rires] Mais de toute manière, notre portion
+d'enveloppement claire, d'enveloppement lisible est extrêmement restreinte.
+
+Donc il y a forcément plusieurs points de vue, ou si vous préférez, il y a nécessairement plusieurs
+substances individuelles. Là maintenant, j'ai ma réponse car même si il vrai que chaque
+substance individuelle enveloppe le monde entier, elle ne peut lire clairement que une portion du
+monde, [81 :00] qui se distingue nécessairement de la portion du monde lisible, l'autre. Et en
+même temps, ça ne suffit pas car là on va se trouver devant un problème impossible. Il faudra se
+débrouiller comme on peu. Que ce soit un grand problème pour Leibniz, c'est ça qui l’a toujours
+fasciné : l'individuation. C'est ça, son problème. On a gardé heureusement une petite dissertation
+de lui, qui s’appelait… dont le titre exact, qu’il a écrit en latin, puisque à ce moment-là, on
+écrivait en latin dans les universités, qui s’appelle Dissertation sur le principe d'individu, sur le
+principe d’individu ou le principe de l’individu. Il avait 18 an, ou 17, je ne sais plus ; 17 ou 18
+ans. C’est donc l’équivalent d’une … A ce moment-là ils étaient plus précoces. C’est un petit
+DEA, quoi, ou c'est un mémoire, [82 :00] un mémoire, et ce n'est pas par hasard que dès le début
+c'est ça son problème. Alors il s’en prend, et c'est une discussion très intéressante d’ailleurs avec
+certaines philosophies du Moyen-Âge, avec Aristote, mais surtout avec Saint Thomas et Duns
+Scot, et ça indique bien quelque chose qui restera son souci, dans toute sa philosophie jusqu' à sa
+vieillesse. Bon.
+
+Alors, je dis, on va se trouver dans une situation impossible parce que, vous voyez, on peut dire :
+qu'est-ce qui fait l'individuation chez Leibniz ? Première réponse qui nous saute à l'esprit: le
+point de vue. En effet, il a donné à la notion de point de vue une consistance suffisante pour que
+ce soit une réponse possible. C'est tout à fait nouveau, définir l'individuation par le point de vue.
+Il fallait en avoir les moyens, il fallait passer par toute cette théorie de l'inflexion, de la courbure.
+Réponse: [83 :00] ça peut se dire, mais comme ça, ce n'est pas le dernier mot ; pourquoi ? Parce
+que, en toute rigueur, le point de vue ne peut pas définir l'individuation. Le point de vue ne peut
+pas définir l'individu car le point de vue n'est que la modalité de l'individu. Ce n'est que le mode
+de l'individu.
+
+Alors deuxième réponse: supposons que chaque individu enveloppe le monde entier, reste qu’il
+n’enveloppe clairement et distinctement qu’une portion réduite du monde. Ce serait donc cette
+
+                                                                                                      14
+
+portion réduite qui expliquerait l’individu, à savoir [84 :00] deux individus n’ont pas la même
+portion claire et distincte. Ça ne va pas non plus. Vous sentez, c’est évidemment parce que
+l’individu est individu qu’il a une portion de monde. Je ne peux pas définir l’individu par la
+portion de monde qu’il exprime. Au contraire, c’est parce que c’est un individu qu’il n’a qu’une
+portion de monde restreinte. Ça ne va pas. Donc, qu'est-ce qui définit l'individualité de
+l'individu? Qu'est ce que c'est, l'individuation? Voyez, on a déjà deux réponses possibles, elles
+sont possibles mais pas satisfaisantes. Bon.
+
+Alors, reprenons: le monde entier est enveloppé dans chaque sujet ; le sujet, [85 :00] c'est
+l'individu, c'est la substance individuelle ou c'est la notion individuelle, c'est le concept allant
+jusqu'à l'individu. C'est la notion individuelle, c'est ce qui mérite un nom propre ; le sujet, c'est ce
+qui mérité un nom propre. Sentez, c'est quand même une drôle d'histoire, cette logique des noms
+propres. C'est une drôle d'histoire parce que, imaginez-vous, si peu que vous connaissiez, à quel
+point ça rompt avec toute la philosophie, à quel point ça apporte du nouveau. Vous imaginez
+Platon avoir... Non, si peu que vous connaissiez Platon, Platon c'est les Idées. Bon, il arrive à
+Platon de demander: est-ce qu'il y a des idées d'individus? Est-ce qu'il y a une idée de Socrate,
+une idée d'Alcibiade? Tout ça. Mais il va tomber dans des problèmes. [86 :00] Tandis que
+Leibniz arrive et nous dit que la notion est individuelle, le concept va jusqu'à l'individu. Pourquoi
+il peut dire ça; il faut le mettre de côté parce qu'il faut y répondre. Il faut y répondre d'urgence ; il
+faut y répondre aujourd'hui. Peut-être. J'espère, qu’on n’aura pas le temps, mais il faudrait y
+répondre aujourd'hui. Pourquoi?
+
+Là, c'est extraordinaire, nous dire… Pensez à Descartes. Tous les cartésiens ne cessent de
+réfléchir sur le "Je" chez Descartes, "Je pense". Qu'est-ce que c'est que ce "Je" ? Il y a une thèse
+très intéressante qui s'est faite sur la notion d'individu chez Descartes. Mais c'est un sujet
+extrêmement difficile parce qu'il faut chercher loin dans les textes. Le "Je" du "Je pense" est-il un
+sujet individuel? [87 :00] Non, c'est difficile, on ne peut pas dire qu'il soit indiqué par un nom
+propre; "Je pense", ce n'est pas moi, Descartes, je pense! Voilà que Leibniz nous dit : mais, vous
+savez, "sujet", ça ne peut avoir qu'un sens : ce qui a un nom propre, César, Auguste, vous, moi.
+Le sujet est individuel.
+
+Alors, bien, je recommence. Chaque monde est enveloppé dans un sujet, donc chaque sujet; on a
+vu comment les sujets étaient sensés se distinguer, par la petite portion. Remarquez qu'on a déjà
+quand même deux réponses: par la variation de la série ou, ce qui revient au même, par la petite
+portion parce que je dis que ça revient au même finalement [88 :00] car, que la petite portion
+claire et distincte enveloppée dans chaque sujet varie suivant le sujet, c'est une variation de la
+série infinie. Donc les deux réponses marchent bien, mais elles marchent bien y compris dans ce
+qui nous a semblé leur insuffisance. Donc, si je dis que le monde existe enveloppé dans chaque
+monade… eh, non [Deleuze se corrige] si je dis que le monde existe enveloppé dans chaque
+sujet, bon, très bien, il existe enveloppé dans chaque sujet. Mais vous sentez, tout comme je
+disais tout à l’heure, on va retrouver, il n'existe que comme enveloppé dans chaque sujet. Le
+monde n'existe pas hors des sujets qui l'enveloppent ; le monde n'existe pas hors des sujets qui
+l'impliquent, qui l'incluent. [Pause] [89 :00] Pourra-t-on dire, ah, c'est de l'idéalisme? Quitte à
+dire quelque chose... le monde n'existe pas hors des sujets qui l'impliquent. Non, ça sera très
+difficile de dire même que c'est de l'idéalisme, il faut se méfier, pourquoi? Puisqu’il y a
+heureusement une pluralité irréductible de sujets.
+
+                                                                                                    15
+
+Qu’est-ce que je veux dire ? Je veux dire, voyez la transformation des problèmes que Leibniz
+nous impose, je dirais, à deux niveaux: au rapport que je pourrais appeler rapport de perception,
+[les] rapports visible-point de vue, se substitue les rapports des points de vue entre eux, [90 :00]
+ou, ce qui revient au même, au rapport monde-sujet se substitue le rapport des sujets entre eux.
+Le monde n'existe pas indépendamment des sujets qui l'enveloppent ; le monde n'existe que
+comme enveloppé dans les sujets. Oui. Mais alors le problème fondamental devient: quel est le
+rapport des sujets entre eux puisque l'objectivité et la réalité du monde se confondent strictement
+avec le rapport des sujets entre eux ? [Pause] [91 :00]
+
+Ça va ? Je voudrais là presque qu’on fasse un petit arrêt si… Voyez, ce qui me reste, c’est une
+neuvième remarque que je voudrais que vous en réfléchissiez, que vous y réfléchissiez pendant
+un court repos. Ma neuvième remarque, enfin le moment est venu. Il faudrait l'appeler, comme
+dans les romans anglais quand il y a des titres de chapitres "comment il en découle que Leibniz
+va nous parler de la notion de monade". Comment la monade, notion typiquement leibnizienne,
+comment la monade découle de tout ça? Et c'est pour ça que monade c'est un terme que jusqu'à
+maintenant je ne pouvais pas prononcer. [92 :00] Écoutez, vous vous reposez, mais je vous en
+supplie, vous revenez ; on se fixe, eh, on se fixe … [Interruption de l’enregistrement] [1 :32 :08]
+
+… Que soit clair ce passage [Leger bruit électronique] de l'inflexion à l'inhérence. [Bruissement
+électronique de 20 secondes ; texte de WebDeleuze] Il n'y a pas de questions? Pas de problèmes?
+[Retour à l’enregistrement] … Il [Leibniz] dit, le monde n’existe qu’en tant qu’il est enveloppé
+dans les sujets. Ce n’est pas parce que… [Pause] eh ?
+
+Une étudiante : [Question au sujet de l’ignorance] [93 :00]
+
+Deleuze : Est-ce que ignorer n'impliquerait pas, si je comprends bien, quelque chose qui est hors
+du sujet, puisque le sujet ignore ? La réponse de Leibniz, que nous ne pouvons pas encore
+évaluer parce qu’on restera plusieurs séances là-dessus, c'est qu’il n'y a pas d'ignorance, il n'y a
+que des degrés de conscience. Il y a des degrés de conscience échelonnés à l'infini. Et, en effet,
+votre remarque est très bonne. Si pour Leibniz il y avait une ignorance, il faudrait dire qu'il y a
+dans le monde quelque chose qui échappe au sujet, qui n'est pas enveloppé dans le sujet. Mais
+pour lui, il n'y a pas d'ignorance, il n'y a que des degrés de conscience plus ou moins claire, plus
+ou moins obscure, plus ou moins confuse, etc. C'est-à-dire ou bien c'est clair et on sait, [94 :00]
+ou bien c'est du mode -- comme il dit tout le temps -- la rumeur. Quand vous dites "je ne sais
+pas", ça veut dire, c'est à l'état de rumeur, c'est à l'état de clapotement, une espèce de clapotement
+cosmique, quoi, qui est au fond de chacun de nous. Alors peut-être que tous les sujets
+communiquent par ce clapotement cosmique, mais lui-même n'est pas hors des sujets. Voyez ?
+Mais votre remarque est très juste. Si Leibniz ne pourrait pas s'en tirer, s’il n'élaborait une théorie
+qui n'est pas une théorie de la conscience, mais de l'infinité des degrés de conscience. … Oui ?
+
+Un étudiant : [Question sur les points de vue qui vont à l’infini ; du bruit électronique commence
+et continue pendant la réponse de Deleuze] [95 :00]
+
+[Texte de WebDeleuze, jusqu’à 1 :35 :08] Deleuze : Il s'agit bien d'une multiplicité infinie. Il n'y
+a aucune opposition entre multiplicité et infini. Chez Leibniz, l'infini est le statut nécessaire du
+multiple, le multiple va à l'infini. Pas de problème là. Bien plus pour Leibniz il n'y a pas de
+
+                                                                                                    16
+
+multiplicité finie. [Retour à l’enregistrement] Il n’y a que l’infini, chez Leibniz. Mais ça aussi, ça
+engage des choses qu’on n’a pas vu du tout, qu’on n’a pas faites, mais ça il faudra, on le verra
+plus tard.
+
+Un étudiant : Je ne comprends pas la différence qu'il y a entre une notion individuelle et le
+concept qui va jusqu’à l'individuel?
+
+Deleuze : Aucune ; c'est deux expressions équivalentes. Je me disais que j'accumule, je multiplie
+parfois les expressions parce que je me dis que certains d'entre vous peuvent comprendre l'une et
+pas l'autre, alors autant en ajouter pleines.
+
+Ben oui, je suis exactement… J'essaie de vous expliquer Leibniz. Je suis exactement dans la
+situation d'une tête aveugle qui essaie de taper dans la portion claire de chacun. Alors, mais la
+portion claire de chacun, elle est très différente suivant quoi? [96 :00] Là ça explique tout :
+suivant votre culture. Ceux qui ont déjà lu du Leibniz ont une portion claire -- ce n'est pas pour
+vexer les autres – [une portion claire] plus grande que ceux qui n'en ont pas lu du tout. Et
+pourtant, dans la mesure où tous les sujets sont dans chaque sujet, il faut bien que Leibniz, même
+lorsque vous l'ignorez, soit en vous, à l'état de rumeur. Vous avez entendu dire que Leibniz
+disait, "monade", "monade", il disait "monade". Alors vous pouvez être réduit à cette partie
+minuscule. Et puis il y en a qui ont lu Leibniz, alors ils ont une grande portion. Mais parfois je ne
+peux pas m’en tirer si… Ce que je voudrais, ce n’est pas du tout que… C’est que chacun… Et
+votre tâche à vous, c'est: captez du Leibniz [97 :00] dans votre portion claire au point que…
+Pourquoi y aura-t-il un progrès chez Leibniz? Pourquoi est-ce c’est un des premiers philosophes
+qui assure la notion de progrès? C'est parce que chaque substance individuelle a un certain
+pouvoir, hélas, assez restreint, d'agrandir sa région claire. C'est ça apprendre; c'est gagner dans
+l'échelle des degrés de conscience. Bon, alors on en vient à la neuvième remarque…
+
+Georges Comtesse [Propos entièrement abrégés dans l’enregistrement Web Deleuze ; le texte
+vient de la transcription de WebDeleuze] : Comment vois-tu la chose suivante concernant
+Leibniz: à la fois il affirme que le sujet comme substance individuelle, subsistance de l'unité
+individuelle, ne reçoit rien du dehors, et pourtant il définit le sujet individuel par le nom propre,
+qui implique justement de recevoir quelque chose du dehors? [Reprise de l’enregistrement]
+
+Deleuze : Voilà. Je dis qu'il faut distinguer – là, je n'invente pas parce que en même temps, les
+textes me viennent à l'esprit, c'est une fête --, il faut distinguer le nom propre nominal ; le nom
+propre nominal, [98 :00] c'est le nom de convention. Alors que César s'appelle César, et
+qu'Auguste s'appelle Auguste, et que chacun de vous s'appelle comme il s'appelle, ça c'est une
+opération conventionnelle qui, d'une certaine manière, peut être dite venir du dehors, mais qui
+n'affecte en rien le sujet, selon Leibniz. Bien plus, il a un texte dans les Nouveaux essais sur
+l'entendement humain, il a un texte, un petit chapitre consacré aux noms propre où il nous dit :
+les noms propres dérivent de noms communs, ce sont des noms d'espèce et de genre. Par
+exemple, vous vous appelez "laboureur", c'est un exemple, quelqu'un s'appelle "laboureur". Bon.
+Donc, c'est dire qu'il ne croit pas aux noms propres en ce sens. [99 :00]
+
+Quand je dis: le nom propre indique la substance individuelle, c'est quelque chose que le nom
+propre conventionnel symbolise, mais ne fait que symboliser. Le nom propre, cela signifie : ce
+
+                                                                                                     17
+
+qui est sujet dans un ensemble infini de propositions. Par exemple, je dis: x a franchi le Rubicon,
+a été assassiné par son beau fils, je ne sais plus quoi. Alors c’est un nom propre. Là le sujet
+individuel, je peux dire, est désigné par un nom propre qui est sa détermination interne. [100 :00]
+Alors si tu me dis: quel est le nom propre de César, je dis: c'est la détermination interne de César.
+On dira par convention que la détermination interne de César, ce par quoi c'est une enveloppante,
+cette détermination interne est conventionnellement désignée par le nom propre "César". C'est en
+fait un nom commun appliqué à une substance individuelle.
+
+Alors, neuvième remarque. On en aura fait aujourd'hui. D'où résulte la "monade", mot étrange ?
+Et la monade, en effet, on ne peut pas mieux, [101 :00] car si vous ouvrez la Monadologie, le
+premier mot de la Monadologie, après le titre, c'est (paragraphe 1): "La monade dont nous
+parlerons ici n'est autre chose qu'une substance simple". La monade ça sonne très bizarre, au
+point que, pour nous, nous savants, chaque fois qu'on entend le mot "monade," on ajoute
+"comme dit Leibniz".
+
+Or d'où ça vient? Il faut remarquer qu'il s'en sert assez tard ; il s’en sert assez tard. Les
+spécialistes, je crois, repèrent le premier emploi du mot "monade" [102 :00] en 1697. Donc
+[dans] toute une partie de l'œuvre de Leibniz, où il parle de substance individuelle, d'âme, de
+notion individuelle, il n'a pas encore le mot "monade". Ça a du rudement lui plaire, mais il ne l'a
+pas inventé, ce mot. Le mot "monade", il fait l'objet d'un emploi philosophique consistant,
+systématique, chez des auteurs très intéressants qui sont les néo-Platoniciens. Le mot grec est
+monas [Deleuze l’épèle]; ça donne monade parce que la déclinaison est en "d" (monado).
+[103 :00] Bon, la Monas. Si on cherchait bien -- je dis des choses dont je ne suis pas très sûr
+parce que c'est des recherches que je n'ai pas faites et je n'ai pas les dictionnaires qu'il faut -- le
+mot se trouve chez Platon. [Deleuze dit "Platon" d’abord, puis mais dans la phrase suivante,
+c’est clair qu’il change la désignation.] Le mot-là, j’aime mieux le verifier, se trouve chez
+Plotin.
+
+Mais pas du tout ce sens. En quel sens? Dans le sens d'unité, d’unité. Je dis, pas dans n'importe
+quel sens d'unité, mais en un sens variable d'unité. En tout cas, je peux dire -- je crois, je ne suis
+pas très sûr – je peux dire, il me semble, que ni Platon ni même Plotin, qui est le fondateur de ce
+qu’on appelle le néo-Platonisme, ni même Plotin n'en fait un usage systématique. En revanche,
+l'usage systématique vient chez les néo-platoniciens, [104 :00] c'est-à-dire les disciples de Plotin,
+dont le premier très grand s'appelle Proclus, Proclus.
+
+Monos, ça veut dire "un seul", l'un tout seul. On voit en lisant Proclus, notamment, un livre très
+court de Proclus, qui s’appelle Eléments de Théologie, on voit bien dans les Eléments de
+théologie que monas désigne quelque chose de très particulier parce que monas, c'est l'unité,
+mais il y a un autre terme. Monas, c'est l'unité. Mais L'Un (U majuscule), [105 :00] L'En en grec
+ne se dit pas monos, il se dit En, E et n, l'En. Et il y a en grec un substantif dérivé de En qui est
+Henas [Deleuze l’épèle], Henas, que l'on traduit par Hénade [Deleuze l’épèle] Comme c'est
+curieux, vous voyez: monade, hénade, monas, henas, qu'est-ce que c'est monas? Il faut bien…
+Ou bien [106 :00] ça ne veut rien dire tout ça, et c'est inutile, ou bien la monade indique un type
+très spécial d'unité, qui va être dégagé, et qui va recevoir un statut dans le néo-platonisme, qui va
+recevoir un statut de plus en plus rigoureux dans le néo-platonisme à partir de Proclus. Voilà, il
+me semble, ce qu'il faut savoir.
+
+                                                                                                     18
+
+Alors, il faut en savoir un tout petit peu plus, qu'est-ce que c'est que ce sens particulier de l'unité?
+Eh bien, Proclus nous parle beaucoup d'un certain stade de l'Un. Vous savez que le néoplatonisme, s'il fallait le définir, c'est une philosophie qui érige comme catégorie fondamentale
+l'Un et le multiple. C'est ça son affaire. A partir de Platon il ya deux grandes directions: [107 :00]
+l'aristotélisme qui tire de Platon le couple forme-matière, et le néo-platonisme à partir de Plotin
+qui tire le couple Un-multiple. La tradition aristotélicienne considérera des composés de forme et
+de matière, qui présenteront des figures solides. Le Plotinisme, ou néo-platonisme, considérera
+des composés d'Un et de multiple qui donnera lieu à des figures de lumière. S'il y a une figure,
+chez Plotin, c'est la lumière. [108 :00] C'est le grand philosophe de la lumière. Avant les choses,
+il y a la lumière, et la lumière émane de l'Un, de l’En. Par parenthèses, dans une tradition -- mais
+alors là je deviens trop savant -- dans une tradition pythagoricienne, Monas c'est le feu. Bon.
+
+Eh ben, eh ben, vous voyez, je dis ça pourquoi? Parce que chez Proclus, on voit bien que Monas
+ne désigne pas n'importe quel type d'unité. Monas est réservé – en gros, je ne dis pas des choses
+très précises – est réservé à deux caractères spéciaux. Il désigne un stade de l'Un [109 :00] qui est
+déjà gros d'une multiplicité virtuelle. Et en effet, le néo-platonisme va consister en une série
+d'étages où, au dernier étage, tout à fait en haut, il y a l'Un ou la Lumière, L'Un au-dessus de
+tout, l'Un dont on ne peut rien dire, l'Un plus qu'Etre, l'Un qui est tellement un, dont on ne peut
+même pas dire qu'il Est, parce que si on disait qu'il Est, il serait deux, il serait Un et Etre. Mais
+l'Un qui n'est pas, l'Un au-dessus de l'Etre, est au-dessus de tout.
+
+Et, à partir de cet Un, sous quelle forme -- là c'est la philosophie de Plotin, ce n'est pas notre
+objet cette année -- je ne dirais même pas en découle, [110 :00] mais en ruisselle comme la
+lumière, comme les rayons de la lumière, en ruisselle des rayons où l’on peut fixer des stades
+dégressifs de L'Un. Et un des stades de L'Un, c'est quand L'Un cesse d'être purement Un pour
+envelopper, pour impliquer, involvere disent les traductions latines, pour envelopper du multiple,
+et ce multiple enveloppé, c'est du multiple virtuel, pas encore passé à l'acte. Des unités grosses
+d'une multiplicité virtuelle, voilà ce qui sera nommé Monas, [111 :00] une unité grosse d'une
+multiplicité virtuelle. Et en dessous de la Monas, tout comme au-dessus de la Monas il y a l'Un,
+l'Un qui n'est qu'Un, l'Un sans multiplicité, l'Un purement Un, en dessous de la Monas, il y a l'un
+qui n'est plus qu'un élément arithmétique, un élément numérique dans une multiplicité qui est
+passé à l'acte, dans une multiplicité actuelle. Ça c'est l'unité numérique.
+
+Donc, voilà le premier caractère, très approximativement, parce que Proclus, il est autrement
+compliqué ; je dis en gros: monas désigne en premier chef l'unité, quand l'unité est grosse d'une
+multiplicité virtuelle. [112 :00] Deuxième chef: monas désigne l'unité quand elle est principe
+d'une série dégressive. [Pause] Exemple, dans le texte Eléments de théologie, je lis: "la monade,
+faisant fonction de principe, engendre la multiplicité qui lui est appropriée. C'est pourquoi
+chaque série" -- série, c'est les néo-platoniciens qui font les premiers une philosophie de la série -
+- [113 :00] "[c’est pourquoi chaque série] est une, et chaque ordre est Un" -- dans le texte grec
+c'est En, vous voyez – "la monade, faisant fonction de principe, engendre la multiplicité qui lui
+est appropriée; c'est pourquoi chaque série est une et chaque ordre est Un. Lui qui d'un bout à
+l'autre tient de sa monade sa descente vers la multiplicité, car il n'est pas d'ordre ni de série si la
+monade demeure en elle-même inféconde." En d'autres termes, la monas, c'est l'unité comme
+principe d'une série dégressive.
+
+                                                                                                    19
+
+Exemple: de l'âme pure découlent les âmes des Dieux; et même les âmes des Dieux, elles
+forment elles-mêmes toute une série. Là les néo-platoniciens se surpassent car il y a l'âme
+Jupitéique, [114 :00] l'âme Aréique, l'âme Titanique, les âmes, les âmes, les âmes, les âmes, la
+procession des âmes, c'est sublime, mais peu importe. Donc de l'âme pure découle les âmes des
+Dieux. Des âmes des Dieux découlent les âmes des hommes, des âmes des hommes -- qui sont
+des âmes raisonnables – découlent, sous certains chefs, des âmes d'animaux, etc. Vous avez une
+série dégressive. Le principe de cette série sera dit Monas.
+
+De même, si vous faites une série des "Enades", [une série] des Uns, des unités, vous mettrez en
+haut: l'Un plus qu'Etre, ensuite l'Un qui comprend, [115 :00] qui enveloppe une multiplicité
+potentielle, ensuite l'Un qui n'est plus qu'une unité dans une multiplicité actuelle, vous avez une
+série, et vous direz qu'il y a une Monas comme principe de la série des Enades. Vous voyez,
+c'est très joli tout ça. Je dis donc, à en rester à Proclus et au néo-platonisme, la Monas désigne
+l'unité, mais sous deux conditions: que l'unité soit pleine, grosse d'une multiplicité virtuelle
+qu'elle enveloppe. Deuxième condition: qu'elle soit principe d'une série dégressive qui en
+découle. Je n'ai pas besoin de revenir là sur ce qu'on a fait pour dire que ces deux caractères
+conviennent à merveille à Leibniz. [116 :00]
+
+Une étudiante : Quelle est le paragraphe dans Proclus ?
+
+Deleuze : Dans Proclus ? Eh, paragraphe 21. Mais en même temps, c’est constant, Monade est
+constamment là-dedans. Mais, d’autre part, Proclus est… Parmi les rares choses de Proclus qui
+nous restent, il y a un admirable commentaire de Parménide où sa pensée est beaucoup plus
+développée. Ça c'est un résumé de leçons manifestement. Mais dans le commentaire du
+Parménide de Platon, par Proclus, il y a toute une théorie de la monade, très belle, très… enfin
+bon.
+
+Vous voyez ce qui convenait à Leibniz. Donc, le mot, ça m'étonnerait qu'il l'ait connu très tard, il
+le connaissait de tous temps, mais ça a dû être sous une espèce d'inspiration, tout d’un coup, il
+s'est dit: Bon Dieu! Pourquoi je ne me suis pas servi de ce mot-là? C'est celui qu’il me faut. Et,
+en même temps, il va le transplanter complètement, [117 :00] car il va bien garder ses deux
+caractères: la monade, c'est une unité comme principe de série, et une unité comme pleine d'une
+multiplicité virtuelle. On l'a vu, pleine d'une multiplicité virtuelle puisque elle enveloppe tous les
+états du monde; et principe d'une série, puisque par son point de vue elle est ouverture sur une
+série infinie. Donc ça lui convient parfaitement.
+
+Ça n'empêche pas qu'il serait proprement grotesque de dire que Leibniz a subi l'influence néoplatonicienne, car c'est tout à fait vrai que Leibniz a subi l'influence néo-platonicienne, mais sur
+de tout autres points que celui-là, parce que en se servant du mot "monade", il lui donne une
+situation, [118 :00] une fonction, complètement originale, dont les néo-platoniciens n'avaient
+strictement aucune idée. Et si vous voulez, s'il s'agit de résumer, ce qui serait monstrueux et
+incompréhensible pour un néo-platonicien, Leibniz nous dit: la monade, c'est la notion
+individuelle, c'est l'individu même, c'est l'individu pris dans sa notion; ou, si vous préférez, c'est
+l'unité subjective, c'est la subjectivité. C'est le sujet. Ce qui revient à dire: l'unité comme monade,
+c'est l'individu.
+
+                                                                                                   20
+
+Et comment il arrive à ça? [119 :00] Je crois qu’il faut voir qu'il y a deux points strictement liés,
+chez Leibniz, et qui échappent au néo-platonisme. C'est l'infini et l'individu. [Pause] Pourquoi
+ces deux points sont-ils liés? Parce que, Leibniz nous dira : l'individu enveloppe l'infini. Ce texte,
+vous le trouvez dans les Nouveaux essais sur l'entendement humain. Hélas, je n’ai pas pris le
+numéro du paragraphe ; j’ai pris le numéro de la page. Il faudra que je vous donne le numéro du
+paragraphe pour que vous voyiez vous-même; mais c'est très rapide, il n'analyse pas ce qu'il veut
+dire, donc c’est peu important, [120 :00] mais le texte même est donc de Leibniz: "l'individu
+enveloppe l'infini". Qu'est ce que ça veut dire ça? Ça veut dire une chose très simple, mais qui à
+mon avis ne pouvait apparaître que dans une perspective évidemment du christianisme. Ça veut
+dire quoi ? Vous allez comprendre. L'individu enveloppe l'infini, ça veut dire quoi?
+
+Le rapport individu-infini, on le comprend facilement si l’on se donne la notion de "concept". Un
+concept se définit comment? Par ceci qu'il a une compréhension et une extension. La
+compréhension du concept, c'est: l'ensemble des prédicats qui lui sont attribuables, c'est ça que
+vous appelez la compréhension d'un concept. La compréhension d'un concept [121 :00] c'est ce
+qu'est la chose désignée par le concept, l'ensemble des attributs qui lui sont prédicables.
+Exemple: le lion est un animal courageux. Je dirais: "animal courageux" fait partie de la
+compréhension du concept "lion". Mettons, autre caractère de la compréhension du concept:
+"avoir une crinière", "rugir", "beaucoup dormir", etc., etc. ... Mais vous me direz: mais vous
+oubliez l'essentiel. C'est exprès: j'oublie les caractères par lesquels on définit le concept "lion".
+D'ailleurs je les ignore: donc, mammifère, je ne sais pas quoi, [122 :00] les caractères essentiels,
+je ne connais que ça.
+
+Donc la compréhension, c'est l'ensemble des prédicats qu’on peut attribuer [(2 :02 :08)
+Interruption de l’enregistrement WebDeleuze et omission d’à peu près 8 paragraphes; texte est
+de la transcription de WebDeleuze] à l'objet du concept. D'accord? L'extension du concept, c'est
+le nombre d'exemplaires, le nombre d'objets subsumés sous ce concept, mis sous ce concept.
+Combien y a-t-il de lions? "Combien y a-t-il de lions ?" répond à l'extension du concept. Bien.
+
+La logique du concept nous dit quoi? Elle nous dit que plus l'extension diminue, plus la
+compréhension augmente, et inversement. Plus l'extension diminue, qu'est-ce que ça veut dire?
+Plus l'extension diminue, c'est-à-dire tend vers un, plus la compréhension augmente. Ou plus la
+compréhension augmente, c'est-à-dire tend vers l'infini, plus l'extension diminue, c'est-à-dire
+tend vers un. C'est des choses qu'il faut savoir. Exemple: concept "lion". Je suppose
+qu'actuellement il existe dix mille lions. Je dis extension = 10,000 ; compréhension = ceci, cela,
+tels et tels et tels attributs prédicables de "lion". Je fais un pas de plus dans un mouvement qu'on
+appellera la spécification du concept: ça, il faut le savoir. Je prends les lions du Sahara. Ça fait
+partie de concept "lion". Les lions du Sahara ont tous les attributs attribuables à "lion". Ce sont
+des "lions". Mais ils en ont en plus, à savoir ils ont les caractères particuliers des lions du Sahara
+que n'ont pas les autres lions, que n'ont pas, par exemple, les lions, enfin les lions d'ailleurs, par
+exemple, avoir au bout de la queue une touffe de poils plus fournie que les autres. Je dirais: c'est
+un caractère de la compréhension des lions du Sahara que les autres lions ne présentent pas, donc
+que j'ajoute. Je dirais que les lions du Sahara ont une compréhension plus grande que les lions en
+général, mais par la même ils ont une extension moindre. Il y a moins de lions du Sahara qu'il n'y
+a de lions. Bon. Continuons.
+
+                                                                                                    21
+
+Les biologistes, ou plutôt les historiens naturels, les naturalistes peuvent être amenés à dire
+aaaah, mais dans tel oasis du Sahara, il y a un type de lion qu'on ne trouve pas dans les autres
+régions du Sahara. Ça fera de la compréhension en plus et de l'extension en moins. Voyez ce
+grand principe tout simple: un concept étant donné, son extension et sa compréhension sont en
+relation inverse, c'est-à-dire: plus la compréhension est grande, moins l'extension est grande.
+Vous me suivez, parce que ça ne va pas être facile. Qu'est-ce qui se passe? J'hésite, je vais faire
+ce que je ne veux jamais faire, une espèce de survol de philosophie, et là, c'est absolument
+nécessaire.
+
+Qu'est-ce qui se passait quant au concept, quant à cette loi, avant Leibniz? Je crois que tous les
+philosophes, à ma connaissance sans exception -- bien qu'il y ait des textes très compliqués --, en
+gros, sans exception, tous les philosophes nous disaient: oui, mais le concept s'arrête à un
+moment. Il y a un moment logique où le concept s'arrête, c'est-à-dire qu'il y a un moment logique
+où la compréhension du concept s'arrête. En dessous, ça n'est plus du concept. Il faudra bien vous
+arrêter à un moment. Exemple: je reviens à mon lion: lion de tel oasis, lion d'Afrique, lion du
+Sahara, lion de tel oasis dans le Sahara … [Interruption de la transcription de WebDeleuze, avec
+la notation "fin de bande"]
+
+… [Leibniz] dit: là, vous ne rejoindrez pas, vous pouvez aller à l'indéfini -- là je pèse mes mots --
+vous pouvez aller à l'indéfini, vous pourrez prolonger la compréhension du concept à l'indéfini,
+vous n'arriverez pas à l'individu. Pourquoi? Parce que l'individu dépend d'accidents de la matière
+et non pas de caractères dans le concept. Si bien que, si loin que vous alliez dans la
+compréhension ou la spécification d'un concept, il y aura toujours plusieurs individus sous le
+concept. Ne serait-ce qu'en droit, il y aura toujours plusieurs individus possibles. Même si j'en
+arrive à un état du monde où ne survive qu'un seul lion, le concept ne va pas jusqu'à son
+individualité. En effet, en vertu du concept, il y aura toujours une infinité de lions possibles. Le
+concept ne va pas jusqu'à l'infini. Vous pouvez continuer à l'indéfini, vous pouvez continuer
+indéfiniment à pousser la compréhension du concept, vous n'arriverez pas à l'extension = 1. Tout
+concept en tant que concept est justiciable d'une extension = x.
+
+Mais alors, qu'est-ce qui fait l'individu puisque ce n'est pas le concept? En d'autres termes, le
+concept est toujours général. Il a toujours une extension. Le lion du Sahara a un concept, le lion
+de tel oasis a un concept, aussi loin que vous voulez, mais l'individuation n'est pas la même
+chose que la spécification. Vous pourrez spécifier votre concept aussi longtemps que vous
+voudrez, vous n'atteindrez pas l'individu. Qu'est-ce qui fait l'individuation? Réponse de certains
+aristotéliciens: ce n'est pas la forme, qui est forme de concept ; c'est la matière, c'est l'accident.
+En d'autres termes, ils se retrouvent devant le problème suivant: l'individu n'est une forme ultime
+qui soit rapportable au concept. L'individu n'est pas une forme ultime ; en d'autres termes, le
+concept s'arrête avant l'individu. Vous pouvez le poursuivre indéfiniment, vous n'atteindrez pas à
+l'individu.
+
+D'où ce problème: qu'est ce qui fait l'individuation, puisque ce n'est pas une spécification
+compliquée ? Donc je vous dis, première réponse : il faut faire intervenir des accidents, des
+contingences, c'est-à-dire des attributs qui n'appartiennent pas au concept. Autre réponse,
+beaucoup plus complexe: l'individuation dépend bien de la forme, mais n'est pas elle-même une
+forme. C'est notamment une théorie très belle de l'individuation chez Duns Scot, où
+
+                                                                                                    22
+
+l'individuation est définie ; il nous dit: ce n'est pas une forme qui s'ajoute à la forme comme
+l'espèce s'ajoute au genre. En d'autres termes, il n'y a pas de formes de l'individu. Mais, pourtant,
+l'individuation n'est pas un accident de la matière. C'est, nous dit-il, l'acte ultime de la forme. Ce
+n'est pas simple: ce n'est pas une forme qui s'ajoute à la forme ; c'est l'acte ultime de la dernière
+forme. Qu'est-ce que c'est qu'un acte ultime de la forme? Enfin ce n'est pas mon objet, ce serait
+un autre cours. C'est pour vous dire, simplement, que tout le monde est d'accord sur ceci que
+finalement, la forme ou le concept, d'une manière ou d'une autre, s'arrête avant l'individu, ne
+rejoint pas l'individu, même si je peux pousser indéfiniment la compréhension du concept. Bien.
+
+Faisons parler Leibniz. On n’a jamais vu tant de tranquillité pour autant d'audace. Il expliquera
+qu'il n'y a pas d'indéfini. Il n'y a que de l'infini actuel. Il définira immédiatement l'individu
+comme le concept. L'individu, c'est le concept. L'individu, c'est le concept en tant que sa
+compréhension est infinie et son extension l'unité. Un concept dont la compréhension est
+actuellement infinie, vous voyez c'est l'infini actuel qui lui permet de dire ça. S’il disait:
+l'individu, c'est le concept dont la compréhension est indéfinie, ça n'aurait aucun sens. C'est parce
+que il y a de l'infini actuel partout selon Leibniz que cette définition est possible. Elle était donc
+impossible pour les néo-platoniciens qui n'avaient aucune idée de l'infini actuel.
+
+Ma faute, c'est de ne pas encore pouvoir vous raconter ce que c'est que l'infini actuel. Mais, peu
+importe, il suffit que vous ayez une espèce de petit sentiment affectif. Il nous dira : l'individu et
+le concept, non seulement je les réconcilie, mais ils sont identiques, [Fin de l’interruption de
+l’enregistrement WebDeleuze ; l’horodatage correspond à l’enregistrement de YouTube attribué
+à WebDeleuze] parce que l'individu, c'est le concept en tant qu'il a une compréhension
+actuellement infinie, et donc une extension égale à 1. Vous voyez, l'individu enveloppe l'infini.
+Qu'est-ce qui lui a permis de dire ça, l'individu enveloppe l'infini? D'où ça lui vient? On l'a vu, là
+au moins pour une fois on l'a vu. C'est toute la théorie précédente, où la monade, c'est-à-dire la
+substance individuelle, enveloppe l'infinité des prédicats que constituent les états du monde.
+[Pause] [123 :00] Donc le concept va jusqu'à l'infini, ou la notion est individuelle, vous voyez,
+c'est la même chose. La monade, c'est l'unité individuelle grosse d'une multiplicité infinie.
+
+En d'autres termes, si j'avais un symbole mathématique à proposer pour l'individu, je dirais --
+vous allez peut-être tout comprendre grâce à ça – [124 :00 ] [Pause, Deleuze va au tableau]
+Voilà, voilà, un sur infini. Vous me direz quel intérêt? Vous allez voir l'intérêt, il est formidable
+l'intérêt! Et après on n’en pourra plus, dès qu'on a compris l'intérêt, on va se coucher. [Rires]
+
+Tout ça, c'est curieux, cette individualité, cette notion d'individuation qui envahit la philosophie.
+Pourquoi je dis: ça suppose le christianisme? Parce que le christianisme, sous sa forme
+philosophique, [2 :04 :47] [Interruption de l’enregistrement WebDeleuze, texte de la
+transcription de Web Deleuze] il est bien connu qu'il affronte un problème très intéressant qui n'a
+rien perdu de son actualité, à savoir les preuves de l'existence de Dieu. Et les preuves de
+l'existence de Dieu, il est bien connu -- on n’en parlera pas beaucoup quoique ça intéresse
+beaucoup Leibniz --, la plus noble est dite preuve ontologique. Et la preuve ontologique, il est
+bien connu qu'elle s'énonce de la façon suivante: je définis Dieu (sans savoir s’il existe, sinon ce
+ne serait pas bien) comme et par l'infiniment parfait, l'infiniment parfait. J'en conclus que Dieu
+existe puisque s’il n'existait pas, il lui manquerait une perfection. Vous me suivez. C'est pour ça
+que nous pensons tous que Dieu existe. Là où nous avons des troubles, c'est lorsque quelqu'un
+
+                                                                                                       23
+
+comme Leibniz, qui pourtant est très partisan de la preuve ontologique, dit: il ne faut pas aller
+aussi vite, parce que "infiniment parfait", ça veut dire quoi, au juste? Pour que la preuve soit
+concluante, dit Leibniz, il faudrait au moins montrer que l'infiniment parfait n'enveloppe pas
+contradiction.
+
+Supposez que l'infiniment parfait soit une notion comme cercle carré. A ce moment-là, je ne
+pourrais pas en tirer l'idée que l'être correspondant existe. Je ne pourrais pas, ce ne serait pas
+raisonnable. La plus grande vitesse, dit Leibniz, c'est une notion contradictoire, pourquoi? Parce
+que, en vertu de la définition de la "vitesse", une vitesse étant donnée, il y a [Reprise de
+l’enregistrement WebDeleuze] toujours une vitesse possible plus grande. Donc la plus grande
+vitesse, c’est un non-sens. Qu'est-ce qui nous dit que l'Etre [125 :00] infiniment parfait n'est pas
+un non-sens? Donc il dit: la preuve ontologique ne peut conclure à l'existence de Dieu que si l’on
+montre d'abord que l’infiniment parfait est une notion cohérente, qui n'implique pas
+contradiction. Leibniz se charge de le montrer. Il va le montrer en montrant que l'infiniment
+parfait, c'est l'omnitudo, l'ensemble de toutes possibilités, et que l'ensemble de toutes possibilités
+est possible. -- J'ai l'air de m'éloigner, mais vous allez voir, ça va nous arriver sur la tête comme
+au moment où on ne s'y attend pas. -- L'ensemble de toutes possibilités est possible, voilà ce qu'il
+fallait montrer pour que la preuve ontologique puisse conclure de l'infiniment parfait à l'existence
+[126 :00] d'un Dieu correspondant.
+
+Bien, eh bien voilà! Mais si l'ensemble de toutes possibilités est possible, à ce moment là Dieu
+existe nécessairement, parce que l'argument ontologique marche, à savoir: Dieu est l'être
+infiniment parfait ; si il n'existait pas, il lui manquerait une perfection; donc je contredirais ma
+définition en lui refusant l'existence. Donc la preuve ontologique passe légitimement, selon
+Leibniz, à condition d'avoir montré que l'ensemble de toutes possibilités n'était pas un non-sens,
+sous cette condition -- entre parenthèses il reproche à Descartes de ne pas avoir fait la
+démonstration nécessaire --. Eh ben, il peut conclure de l'ensemble de toutes possibilités à l'idée
+[127 :00] d'un être existant nécessairement, être singulier, être individuel, singulier, unique,
+qu'on appelle Dieu. La preuve ontologique, selon Leibniz, va donc de l'ensemble infini de toutes
+possibilités, à l'existence singulière d'un être correspondant, à l'existence singulière d'une réalité
+correspondante qu'on appelle Dieu. Voyez ? [128 :00]
+
+En d'autres termes, quelle est la formule de Dieu? Je vais de l'ensemble infini de toutes
+possibilités à l'existence singulière de l'être correspondant, qui est doué de toutes les perfections
+et que j'appelle Dieu. Dont le nom propre est Dieu. Tout se passe entre noms propres encore.
+Quelle est la formule mathématique de la preuve ontologique? La preuve mathématique de la
+preuve ontologique c'est infini sur 1. Infini sur 1. Pourquoi? Reprenez le raisonnement.
+
+Infini = ensemble de toutes possibilités. J'en conclus, si l'ensemble [129 :00] de toutes
+possibilités est possible, qu'existe un être individuel qui correspond, un être individuel et
+singulier qui correspond à ce concept, je vais de l'infini à l'individu. Je dirais, dans le cas de
+Dieu, je dirais: l'infini enveloppe l'individualité. C'est ça la preuve ontologique. S’il fallait en
+donner une formule qui nous arrange, la preuve ontologique, la preuve de l'existence de Dieu
+c'est: l'infini enveloppe l'individualité, sous entendu l'individualité de Dieu, la singularité de
+Dieu, infini sur 1. Pour d'autres raisons, vous venez de voir pourquoi la monade avait pour
+
+                                                                                                     24
+
+symbole mathématique 1 sur infini (1/infini). En effet, cette fois-ci [130 :00] je pars de l'unité
+individuelle, et cette unité individuelle enferme l'infinité des prédicats, 1 sur infini.
+
+Bon, je dirais, de Dieu (infini sur1) à la monade, au sujet individuel (1 sur infini), qu'est-ce qu'il
+y a, quel est le rapport? Voilà. Ça me permet de dire que la monade, c'est l'inverse de Dieu.
+Inverse, inverse? Mais qu'est-ce que c'est que ça? Inverse, ça veut dire quelque chose de très
+précis, là aussi il faut savoir. Je veux dire, c'est en ce sens que la philosophie implique un savoir.
+Il faut savoir le sens des mots. Par exemple, pourquoi est-ce que je ne dis pas "l'opposé" ?
+Pourquoi est-ce que je ne dis pas que la monade est l'opposé de Dieu ? Ou le contraire? [131 :00]
+Non ,ce n'est pas pour rien. La logique nous présente un tableau très strict des opposés, et l’on
+sait que l'opposition de contrariété, ce n'est pas la même chose que l'opposition de contradiction.
+On sait qu'il y a toutes sortes de types d'oppositions. L'inversion est peut-être un type
+d'opposition, mais pas n'importe quel type. Et vous n'avez pas le droit là ; autant vous avez le
+droit de créer des concepts si vous pouvez, autant vous n'ave pas le droit de manquer de la
+science nécessaire à la philosophie, exactement comme si vous faisiez des mathématiques, vous
+n'auriez pas le droit d'ignorer la science nécessaire à faire des mathématiques.
+
+Or là, justement, puisqu'on parle des mathématiques, en mathématiques il y a la notion de
+"nombres inverses" d’un nombre. Un nombre entier étant donné, 2, quel est son inverse?
+[132 :00] L'inverse de 2? Le contraire de 2, c'est moins 2. L'inverse de 2, c'est un demi.
+Pourquoi? Pas difficile d’ailleurs… [Deleuze va au tableau] L’inverse de 2 est un demi parce
+qu'il n'y a pas de nombre entier que vous ne puissiez écrire sous la forme
+numérateur/dénominateur. Donc le nombre 2, c'est 2/1; l'inverse de 2/1, c'est 1 sur 2. Le
+dénominateur devient numérateur et le numérateur devient dénominateur. Donc 1/2 est l'inverse
+de 2.
+
+Je dis, à la lettre, la monade 1/infini est l'inverse de Dieu [133 :00] infini/1. Je veux dire, c'est
+vrai littéralement. Donc tout se passe à ce niveau. Tout se passe entre individus. Une fois dit qu'il
+y a de l'infini partout, simplement ce n'est pas le même infini. Vous comprenez que quand
+Leibniz nous dit: tout est infini, et tout est infini en acte, il n'y a pas d'indéfini, il n’y a que de
+l'infini. Ça n'empêche pas qu'il y a toutes sortes d'infinis. L'infini de Dieu n'est pas le même que
+l'infini du monde enveloppé par chaque individu, pas du tout. Mais je peux dire que l'individu
+c'est exactement l'inverse de Dieu, vous avez chaque fois l'infini et l'individualité. C'est par, si
+vous voulez, le couple infini-individu que Leibniz va secouer l'ensemble de la philosophie. Il fait
+[134 :00] que le concept aille jusqu'à l'individu. Bon, il fait que le concept aille jusqu'à l'individu.
+A la lettre, il est le premier à réconcilier le concept et l'individu puisque la compréhension du
+concept non seulement peut être poussée indéfiniment, mais va à l'infini.
+
+Or tout ça a l'air très arbitraire. Il a décidé ça, mais comprenez à quoi ça l'engage, et c’est à ça
+que je voudrais venir parce que… Quand les autres disaient, et ne voyaient pas le moyen de
+pousser le concept jusqu'à l'individu, quand ils pensaient qu'il fallait bien que le concept s'arrête
+avant l'individu, même si l’on pouvait indéfiniment en pousser la compréhension, c'est que ils
+avaient un drôle de manière [135 :00] de penser le problème de l'individuation.
+
+Et là je me permets presque de parler presque pour mon compte, mais dans l'espoir de vous faire
+comprendre quelque chose de Leibniz. Il me semble que toutes les théories de l'individuation,
+
+                                                                                                      25
+
+avant Leibniz, elles ont un présupposé catastrophique. Leur présupposé catastrophique, c'est que
+l'individuation vient après, elle vient après la spécification. La spécification, c'est la division du
+concept en genres, espèces, espèces de plus en plus petites. Et on se dit, et on a l’air, et on s'est
+mis dans la tête que c'était très normal de commencer par le plus général, et ça c'est la faute à
+Platon, à d'autres, enfin c'est la faute à personne, c'est la faute à tout le monde, quoi. [136 :00] Ils
+partent du plus universel, alors c'est forcé ; ils ne rejoignent pas l'individu. Comme
+l'individuation n'est pas une spécification, ce n'est pas en poussant indéfiniment la spécification
+qu'on trouvera l'individu.
+
+Alors comme ils se disent [que] l'individu ça vient après la dernière espèce, l'individu, ça vient
+après la plus petite espèce, ils sont perdus d'avance ; ils ne pourront jamais combler le fossé entre
+la plus petite espèce et les individus. Il fallait faire le contraire, seulement il fallait avoir les
+moyens de le faire. Il fallait prendre conscience que toute spécification, c'est-à-dire toute
+assignation d'espèce ou de genre, je ne dis pas, présuppose des objets individuels [137 :00] – ça,
+ça a été déjà fait, c'est ce qu'on appelle le nominalisme – non, il s'agit de dire autre chose, mais
+que toute spécification présuppose des champs d'individuation, que toute assignation d'espèces et
+de genres présuppose des processus d'individuation qui, dès lors, ne peuvent pas se faire sur ce
+type de la spécification. En d'autres termes, c'est l'individuation qui est première. [Pause]
+
+Si l'individuation est première, en effet tout se comprend. Le double rapport individu-infini, je
+dis double rapport, dans le cas de Dieu [138 :00] infini sur unité, dans le cas de la monade unité
+sur infini. En ce sens, là, on retient ce rapport littéralement inverse de la monade et de Dieu. Car
+vous voyez, notamment, ça nous permettra de poser toutes sortes de problèmes: s'il est vrai que
+toute substance individuelle est un point de vue, est-ce que Dieu est un point de vue? Est-ce que
+je peux parler de Dieu comme d'un point de vue simplement infini? Est-ce qu'il est autre chose
+qu'un point de vue? Très bizarrement, les textes de Leibniz oscillent là. Sans doute on peut dire
+les deux: Dieu est bien un point de vue [139 :00] qui passe par tous les points de vue, mais en
+même temps [dans] les textes les plus riches de Leibniz, c'est que il y a des vues de Dieu qui
+engendrent les points de vue, mais il n'y a pas de point de vue de Dieu. Vous comprenez en quel
+sens il n'y a pas de point de vue de Dieu? C'est que infini sur 1, ce n'est pas une formule du point
+de vue. La formule du point de vue c'est 1 sur infini. Ça n'empêche que Dieu peut pénétrer tous
+les points de vue, précisément parce que les points de vue sont l'inverse de la position de Dieu.
+La position du point de vue est l'inverse de la position de Dieu. Bien.
+
+Alors il me reste enfin…-- on n’en peut plus -- Il nous reste enfin à dire qu'on a rempli notre
+première partie. On a à peu près montré comment se développait l'étage au-dessus. [140 :00]
+Simplement tout ce qu'on peut conclure c'est que, en effet, c'est quand même un remaniement
+absolu de la tradition des deux mondes. Il y a bien deux étages, mais est-ce que c'est encore deux
+mondes? A l'étage au-dessus, il y a les substances individuelles qui enveloppent le monde. Elles
+enveloppent le monde puisqu'elles ont pour attributs tous les états du monde. En dessous, il y a la
+matière et ses mille replis. Entre les deux, il y a quoi? J'ai montré comment les deux étages
+communiquaient -- par parenthèses tout va bien --, je l'ai montré puisque j'ai montré que
+l'inflexion participait à la fois de l'étage au-dessus [141 :00] puisque c'est l'élément génétique
+idéal, et que c'est à partir de l'inflexion qu'on arrivait au point de vue et à l'inhérence. Il
+appartient à l'étage du dessus, et il renvoie aussi à l'étage du bas puisque c'est l'élément génétique
+des replis de la matière. Donc là, les deux étages communiquent. Ce qui est complètement
+
+                                                                                                     26
+
+nouveau, c'est de dire mais oui, que, à l'étage au-dessus il n'y a que des sujets comme notions
+individuelles. Et Dieu, il est vrai. Il y a une infinité de 1 sur infini, et un seul-comprenant tout, un
+seul infini sur 1.
+
+Bon, qu'est-ce que c'est alors ce monde baroque? Je vous disais la dernière fois la peinture du
+Tintoret. Il faut que vous occupiez les deux étages. [142 :00] [Étant donné que Deleuze n’a pas
+parlé de Tintoret lors de la séance du 18 novembre, il s’agit peut-être d’une des séances nonenregistrés et avec peu d’étudiants qui avaient lieu pendant les semaines de la grève] Il n'y a
+plus deux mondes, il faut réfléchir là-dessus, il n'y a plus deux mondes ; il y a deux étages: un
+étage où tout tombe, où les corps tombent, et un étage ou les âmes s'élancent. C'est ça le monde
+baroque. Un étage des replis de la matière qui ne cesse de déborder, où les corps perdent leur
+équilibre, sont pris dans des masses, tout ça. Et puis, à l'étage au-dessus il y a la danse des âmes,
+il y a mille communications entre les deux.
+
+Prenez un tableau typiquement baroque, bien célèbre, Le Greco, "l'Enterrement du compte
+d'Orgaz", ce célèbre tableau du Greco. C'est les deux étages représentés: en bas, l'enterrement
+[143 :00] et les participants à l'enterrement, et en haut, tout le haut de la toile, l'extraordinaire
+spontanéité des formes subjectives, les formes subjectives dites célestes, mais enfin qui ne le sont
+pas. Prenez Le Tintoret, perpetuellement à un étage ça tombe, à un autre étage c'est une espèce
+de danse incroyable. Ce n'est même pas le mouvement, c'est la plus vive spontanéité, pourtant ça
+ne se ressemble pas? Pourquoi ces deux peintres sont-ils considérés comme deux génies du
+baroque?
+
+Alors nous supprimons la séance qu'on aurait pu faire là-dessus parce qu'il faut bien gagner du
+temps, mais ce que nous pouvons pressentir, c'est que les deux étages, ce n'est pas une manière
+de rebaptiser les deux mondes. C'est une mise en question des deux mondes très, très forte.
+[144 :00] A l'étage du dessus, vous ne trouverez que les notions individuelles, les sujets
+individuels; à l'étage en dessous, vous ne trouverez que la matière dans ses replis. Ce n'est pas
+deux mondes ça, quels rapports y aura-t-il entre les deux? Commence à naître le dernier très
+grand concept original de Leibniz: leur rapport sera toujours nommé "harmonie". Harmonie.
+Pourquoi harmonie? Quand on en sera là, à parler de l'harmonie chez Leibniz, puisque c'est un de
+ses grands concepts, il ne faudra pas oublier ce qu'on vient de faire aujourd'hui.
+
+Il faudra, mon rêve, ce serait de trouver… parce que des choses aussi bêtes que ça, je m'aperçois
+avec étonnement que, je crois, elles n'ont pas été faites, donc raison de plus pour essayer de le
+faire nous, [145 :00] que on n’a pas essayé de faire la liste des sens du mot "harmonie". Une fois
+dit que chez Leibniz ils interviennent tous. Notamment si vous vous rappelez l'école communale
+(peut-être mieux que la communale) peut être qu’il vous dit quelque chose, qu'il y a une
+moyenne harmonique des nombres qui n'est pas la même chose que la moyenne arithmétique. La
+moyenne arithmétique, ce n'est pas difficile, mais la moyenne harmonique? Il faudra que nous
+retrouvions nos douleurs d'enfant, parce que ce n'est pas rien. Il faudra recomprendre ce que c'est
+qu'une moyenne harmonique. Et je termine là-dessus aujourd’hui, pourquoi ? Parce qu’une
+moyenne harmonique traite des nombres et de leurs inverses; et que la moyenne harmonique
+[146 :00] passe par le rapport du nombre et de son inverse, comme 2 et 1/2. Et c'est la
+considération des inverses qui définit la moyenne harmonique par différence avec la moyenne
+arithmétique. Bien, surtout ça, il faut y réfléchir.
+
+                                                                                                27
+
+Donc, dans le second trimestre, à la rentrée nous serons très vite amenés, j’espère quand même, à
+envisager les rapports Whitehead-Leibniz, et puis on sera très vite, je dis ça pour ceux qui…
+[Interruption de l’enregistrement WebDeleuze, bruit sonore, puis reprise] … pris dans ses
+aspects musicaux, arithmétiques, tout, voilà. [147 :00] Isabelle, Isabelle, tu m’attends, tu
+m’attends, si tu as le temps, pour qu’on se voie, si tu as le temps … [2 :27 :12]
+
+[Nota bene : L’enregistrement, qui n’est plus disponible à la Bibliothèque Nationale, se trouve à
+Web Deleuze et sur YouTube et offre la date erronée du 25 novembre à la séance qui a eu lieu le
+16 décembre, c’est-à-dire la semaine avant les vacances de Noël 1986. Il faut constater donc
+qu’à cause du mouvement de protestation qui a lieu à la fin novembre et au début décembre
+1986, le séminaire n’a pas eu lieu le 25 novembre, le 2 décembre, et le 9 décembre, ce qui est
+dommage étant donné les trois séances superbes qui précèdent celle-ci. Ayant voulu finir la
+première partie du cours sur Leibniz avant la fin de l’année, Deleuze choisit de présenter ici une
+longue récapitulation de ce qui a précédé pendant l’automne et puis de continuer cette première
+partie le 6 janvier.
+        Il faut noter aussi que malgré la fidélité habituelle des enregistrements disponibles à la
+BNF, une lacune absolue y existe, c’est-à-dire il y a un saut inexpliqué à la BNF entre le 18
+novembre et le 6 janvier. L’enregistrement auquel nous avons accès est celui de YouTube,
+attribué à WebDeleuze, qui se trouve lié à cette séance à WebDeleuze aussi. On trouve
+malheureusement que dans cet enregistrement, il y a deux segments, l’un à partir de la minute
+2 :02, le second à partir de la minute 2 :05, dans lesquels il y a des lacunes importantes.
+Heureusement et aussi curieusement, la transcription faite à partir apparemment d’un autre
+enregistrement (introuvable) de WebDeleuze contient la plupart de ces segments absents. Nous
+avons donc essayé de reconstituer cet enregistrement et la transcription qui en résulte de façon
+aussi fidèle que possible.]

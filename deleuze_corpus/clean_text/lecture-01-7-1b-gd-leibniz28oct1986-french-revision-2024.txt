@@ -1,0 +1,1128 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Leibniz comme philosophe baroque (1)
+
+Séance 01, le 28 octobre 1986: Introduction, Les plis et les replis
+
+Transcription : Charles J. Stivale
+
+[Nota bene : Deleuze envisage l’organisation de ce séminaire en deux segments : sous le
+titre "Leibniz et le Baroque," il présente les premiers concepts opératoires sur Leibniz, et
+à cause de divers événements de l’automne, ce segment consiste en les quatre séances
+d’automne (le 28 octobre, le 4 novembre, le 18 novembre, le 16 décembre) et dure
+jusqu’à la première séance de janvier 1987 (le 6 janvier), dont il nous reste qu’un long
+fragment (la deuxième moitié de la séance). Au deuxième segment, Deleuze donne le
+titre global, "Les Principes et la Liberté", et ce segment consiste en quinze séances qui
+dure jusqu’à la dernière, le 2 juin.
+      Parmi les commentaires d’introduction ci-dessous, Deleuze indique qu’il aurait voulu
+faire un séminaire sur le thème de "Qu’est-ce que la philosophie ?", mais qu’il "n’os[ait]
+pas l’affronter" puisque "c’est un sujet tellement sacré". Pourtant, il indique tout de suite
+que le séminaire qu’il envisage sur Leibniz et le baroque "est presque une introduction à
+‘Qu’est-ce que la philosophie ?’", et tout ce qui suit dans ce séminaire annuel aura cette
+double lecture, d’autant plus significative dans la mesure où, à l’insu de ceux qui écoutent
+Deleuze (et peut-être Deleuze lui-même), ce sera le dernier séminaire de sa carrière
+d’enseignant.
+      Cette transcription a pu se faire grâce à l’accès aux enregistrements disponibles à la
+Bibliothèque Nationale de France (BNF), fidèlement produit pendant une dizaine
+d’années par un participant aux séminaires de Deleuze, Hidenobu Suzuki. Selon François
+Dosse dans Gilles Deleuze, Félix Guattari : Biographie croisée (La Découverte, 2007),
+Suzuki "devient une institution à lui tout seul" et à qui Deleuze lui-même réfère ses
+collègues s’ils n’ont pas pu assister à une de ses séances.]
+
+Partie 1
+
+Bon, eh ben, c’est parti. [Pause, divers bruits] Cette année, je vous propose le sujet, enfin
+le thème suivant : Leibniz comme philosophe baroque. Alors vous verrez si vous
+continuerez à venir. Ceux qui continueront à venir, je leur demande dans l’année un
+travail, ce n’est même pas un travail. C’est une manière de suivre la lecture de n’importe
+quoi de Leibniz, tout ce que vous voulez, [1 :00] c’est bon. Si vous ne savez pas quoi, je
+vous propose l’un ou l’autre de deux opuscules très courts -- Leibniz écrivait beaucoup
+par petits opuscules – soit la Monadologie, tout petit, vous voyez? Mais j’ai une toute
+petite édition, n’importe quelle édition est bonne, petite édition. [Deleuze regarde une
+édition d’un étudiant] En un an, ça peut se lire. [Rires] La Monadologie, ou bien un peu
+plus gros, mais pas beaucoup, le Discours de métaphysique. Il y a une édition aux
+Presses… non, chez Vrin, je crois, mais peu importe, qui réunit les deux, pour ceux qui
+voudraient lire les deux, mais je précise surtout que si vous lisez d’autres choses. [2 :00]
+
+                                                                                              2
+
+Alors je parle toujours en fonction de ceux qui continueront à venir, s’il y en a parmi
+vous qui ont la moindre formation mathématique, lisez n’importe quoi des œuvres
+mathématiques de Leibniz. S’il y en a parmi vous qui ont une formation musicale, on
+verra à mesure qu’on avance en quoi les questions de musique sont très, très
+profondément inscrites dans le système de Leibniz. Bon, on verra tout ça.
+
+Ce cours est abstraitement ou idéalement divisé en deux parties, dont la première
+s’adresse aux [étudiants de] premier cycle et la seconde partie s’adresse aux [étudiants
+de] deuxième et de troisième cycles, mais la ligne de séparation est idéale, bien que tout à
+fait effective et administrative. [3 :00] Elle sera marquée tantôt par une recréation [Rires],
+tantôt par quoi… tantôt par un jeu de lumières. On y va.
+
+Mais je voudrais savoir qui est-ce qui est arrivé parmi les premiers ici. Soyez gentils. La
+salle était ouverte ou pas ? [Réponses diverses ; "on l’a ouverte"]
+
+Claire Parnet: On a demandé à l’ouvrir d’un type du ménage qui a refusé de l’ouvrir
+parce que, il a dit, que le cours commençait à 9 heures. [Deleuze: Aha, c’est ça, c’est ça]
+et visiblement il avait des consignes de ne pas l’ouvrir.
+
+Deleuze: Et comment vous l’avez persuadé? [Rires] Non, c’est bien, ça, c’est bien, parce
+que je vais vous raconter… Dans cette université, si on n’avait pas encore vu ça, [4 :00] il
+y a un schéma tout à fait étrange qui s’est imposé où je suis censé quand j’arrive aller voir
+un vigil; je donne au vigil un petit macaron, et il me donne la clé de la salle, et il garde
+mon macaron. Après, je dois refermer la salle et rapporter la clé, et il me rendra mon
+macaron. Alors, j’étais inquiété… c’est très grotesque, c’est très tordu comme solution.
+Eh bien, vous savez pourquoi? C’est parce qu’il faut empêcher les étudiants de prendre
+des chaises dans les autres salles. Alors, j’étais très étonné que la salle soit ouverte, mais
+je comprends. Il faut essayer de faire ça chaque fois. [Rires]
+
+[Un étudiant parle] : Et il faut la mettre en ordre, en plus, parce que quand on arrive,
+[5 :00] les places ne sont jamais comme ça. Les premiers qui arrivent – Michel et
+quelques autres – c’est comme ça … et depuis des années !
+
+Deleuze: Ah, depuis des années ! [Rires] Oui, ce n’est pas juste. Ça, il faudrait faire un
+tour… Bon, allez.
+
+Alors, pourquoi ce sujet ? Je voulais faire "Qu’est-ce que la philosophie?", et puis je ne
+suis pas prêt, je n’ai pas pu, je n’ai pas pu. C’est un sujet tellement sacré, "Qu’est-ce que
+la philosophie?", que je n’ose pas l’affronter. Mais, c’est presque une introduction à
+"Qu’est-ce que la philosophie?". Pourquoi ? La vie de Leibniz est tout simple : 16461716. Je vous dis ça parce que c’est tout ce que j’ai à dire sur sa vie. C’est juste pour que
+vous le situiez. [6 :00] Donc, il naît tout près de la seconde moitié du dix-septième siècle,
+et il meurt au dix-huitième siècle étant déjà bien entamé. Pour tout renseignement
+complémentaire concernant sa vie, qui est d’ailleurs très intéressant, vous vous
+rapporterez aux introductions d’usage.
+
+                                                                                               3
+
+Qu’est-ce qu’on peut dire sur l’avènement fracassant de Leibniz en philosophie? On peut
+dire très sommairement que c’est l’entrée de la philosophie allemande, que c’est
+la philosophie allemande qui arrive. C’est l’entrée de la philosophie allemande en
+Europe. [Pause] Mais comment [est-ce qu’] elle se marque, l’entrée de la philosophie
+allemande en Europe ? [7 :00] Elle se marque par l’avènement du système. C’est avec
+Leibniz que le mot "système" va désigner l’ensemble de la philosophie, ou l’ensemble
+d’une philosophie, celle de Leibniz. Avant, "système", on l’employait en astronomie, au
+sens du système du monde ; il est employé en biologie, en histoire naturelle au sens du
+système de la nature, mais il ne désigne pas la philosophie comme telle. Si bien que cela
+sera pour nous une question importante: savoir ce que Leibniz entend par "système" et
+qu’il peut identifier à la philosophie comme telle. La philosophie se fait allemande en
+devenant système. Bon. [8 :00]
+
+Est-ce que le système, ce serait la forme baroque de la philosophie? On nous dit qu’un tel
+mot ne peut être employé qu’avec beaucoup de précautions, et que le mot même de
+"Baroque" soulève plus de problème qu’il n’indique de solutions. On nous dit qu’il
+faudrait savoir si c’est une catégorie esthétique ou si c’est une période historique. On
+nous dit qu’il faudrait savoir quel rapport exacte "Baroque" a avec "Renaissance", avec
+"classicisme", avec "gothique", etc. On nous dit qu’il faudrait savoir quel lieu [9 :00],
+quel temps et quel lieu… un Baroque espagnol, un Baroque d’Europe centrale. Leibniz
+est né près de l’Europe centrale, à Leipzig ; il est très proche de l’Europe centrale. On
+nous dit mille choses qui… on nous dit même [sur] le terme "Baroque", si on l’emploie
+rigoureusement, à quoi est-ce qu’il convient ? Peut-être à l’architecture, à certains aspects
+de l’architecture, en tel lieu, à tel moment… Mais est-ce qu’on peut parler d’une
+littérature baroque, d’une musique baroque? On nous fait toutes sortes de difficultés
+d’avance.
+
+Je dis que ce ne sont pas des problèmes pour nous. Pour nous, je demanderais juste une
+petite chose : avoir une idée vague, ou une idée confuse, [10 :00] de ce qu’on pourrait
+appeler "Baroque", une idée très, très simple, qu’on prendrait comme une hypothèse, et
+puis on chercherait les conséquences de l’hypothèse, quoi ; on développerait l’hypothèse,
+et puis on verrait si ça marche. Il faudrait une hypothèse fonctionnelle ; je veux dire, non
+pas définir une essence du Baroque, mais définir quelque chose que le Baroque serait
+supposé faire, une opération. Je crois qu’on échapperait à tous ces problèmes qui nous
+fatiguent d’avance, c’est-à-dire, qu’est-ce que veut dire le mot "baroque" ? Est-ce que
+cela renvoie à ceci ou à cela? A quelle condition peut-on l’employer légitimement? Si on
+avait une hypothèse opératoire [11 :00], qu’est-ce que fait un homme baroque? Et mon
+hypothèse est très simple, à condition que cette opération ne coïncide ni avec une
+opération qu’on pourrait appeler "gothique", ni une opération qu’on pourrait appeler de la
+Renaissance, ni avec une opération qu’on pourrait appeler classique, ni avec une
+opération qu’on pourrait appeler romantique, etc. Au niveau opératoire, il faut chercher
+au niveau opératoire une certaine spécificité du Baroque.
+
+Si je formule ainsi l’hypothèse très générale, j’ai déjà la réponse. Je ne m’interroge pas
+sur l’endroit où le Baroque fait ceci -- est-ce en musique ? est-ce en architecture ? est-ce
+
+                                                                                                 4
+
+en littérature ? -- je dis une chose toute simple: le Baroque fait des plis, [12 :00] le
+Baroque fait des plis. Bon. C’est une hypothèse. Le pli, c’est donc le caractère essentiel
+du Baroque compris comme acte opératoire. Au moins, pour ceux qui étaient là l’année
+dernière, ça m’assure être la transition toute naturelle de notre travail de l’année
+dernière ; nous avions beaucoup parlé du pli, mais d’un autre point de vue. Car, cette
+année, nous nous trouvons devant la nécessité, peut-être, la nécessité, à confirmer,
+d’essayer de construire un concept de pli, lequel concept évidemment, si tout va bien,
+doit suivre toutes les sinuosités [13 :00] de la philosophie de Leibniz. Et en effet, si cette
+philosophie est sous le signe du pli, il est normal que je parle d’une philosophie sinueuse.
+
+Qu’est-ce que ça veut dire tout ça, le Baroque, c’est ce qui fait des plis? Je ne peux pas
+savoir. Je dis, il y a Baroque là où la matière ne cesse de se replier, de se replier sur ellemême et où l’âme ne cesse de se plier, les replis de la matière et les plis de l’âme.
+[Pause] [14 :00] Si je dis l’âme se plie en elle-même, la matière se replie sur elle-même,
+sentez au moins, je ne sais pas si c’est Baroque, mais je sais que ça n’est pas l’affaire
+d’un Classique, ce n’est pas l’affaire non plus d’un Romantique. On procède à l’intuition.
+Je ne sais pas ; je voudrais que ça vous dise déjà quelque chose, je veux dire là à votre
+coeur, les replis de la matière et les plis de l’âme, et vous dire, ben oui, quelqu’un qui dit
+cela ou qui fait cela, qui plie son âme et replie son corps, eh oui, ça c’est un Baroque. Je
+ne sais pas du tout pourquoi encore, ni comment. Ce n’est pas facile de plier son âme,
+[15 :00] si bien que aujourd’hui et peut-être la prochaine fois encore, nous procédons par
+une simple introduction, introduction à ce sujet "Leibniz comme philosophie baroque", à
+savoir on va procéder à un ensemble de repérages autour des thèmes "replis de la
+matière" et "plis de l’âme", si bien que dans cette séance d’aujourd’hui, nous pourrions la
+mettre sous le signe du paragraphe 61 de la Monadologie, où dans le paragraphe 61 de la
+Monadologie, ce paragraphe se termine d’une manière splendide: "Une âme, une âme ne
+saurait développer tout d’un coup tous ses replis car ils vont à l’infini." [16 :00] C’est
+tout ; ce n’est même pas expliqué, il n’y a pas à l’expliquer.
+
+Essayez d’abord de sentir, c’est une formule très étrange ; est-ce que vous l’imaginez,
+qu’il y a dans Descartes une pareille formule, pour si peu que vous connaissez
+Descartes ? Non, c’est inimaginable: les plis de l’âme. Elle est belle, cette formule. Il faut
+que vous l’appreniez par cœur. Elle est perdue, oui. "Elle [l’âme] ne saurait développer
+tout d’un coup tous ses replis car ils vont à l’infini". Mais, ça nous donne quelque chose,
+ça. Le pli, le pli baroque va à l’infini. [Pause] Le pli qui va à l’infini, c’est le repli, car
+c’est bien évident que c’est n’est pas le Baroque [17 :00] qui a inventé le pli. Par
+exemple, dans la sculpture, il y a toujours des plis, ne serait-ce par la présentation
+sculpturale du vêtement. Un vêtement fait des plis. Oui, d’accord, un vêtement fait des
+plis ; tout pli n’est pas baroque. Bien, tant mieux. Notre hypothèse est bonne puisque
+nous avons déjà le caractère différentiel du Baroque. Oui, tout pli n’est pas baroque, mais
+tout pli ne va pas à l’infini. Quand le pli va à l’infini, alors il y a baroque.
+
+Oh, mais, le pli qui va à l’infini, qu’est-ce que cela peut vouloir dire? Donc, tout pli est
+repli ; ça n’empêche pas par commodité – et c’est bien ce que dit Leibniz parce qu’à
+propos des plis de l’âme, il dit, puisqu’ils vont à l’infini, c’est des replis -- ça n’empêche
+pas, par commodité pour nous, nous parlerons spécialement des replis de la matière
+
+                                                                                               5
+
+[18 :00] et des plis de l’âme. Est-ce dire qu’il y a deux niveaux, et que le Baroque devrait
+être ainsi à deux niveaux, celui des replis de la matière et celui des plis de l’âme ? Ça
+serait déjà très important pour nous car se poserait immédiatement la question : dans quel
+rapport sont les replis de la matière avec les plis de l’âme, et inversement? Vous sentez
+bien qu’entre des ensembles de plis, est-ce qu’on peut établir un rapport de causalité? On
+peut établir sûrement des correspondances biunivoques. Ce sera un système – tiens, un
+système ! – un système de correspondances entre les replis de la matière et les plis de
+l’âme.
+
+Mais, enfin, tout ça, c’est très obscur, mais cette obscurité est tellement plus aisée, plus
+facile, que si on prenait la philosophie de Leibniz abstraitement, [19 :00] car ce n’est pas
+une philosophie abstraite comme toute philosophie. Si bien que – premier aspect – je
+voudrais faire un système de repérages à la fois dans ce qu’on appelle couramment le
+Baroque et dans la philosophie de Leibniz.
+
+Mon premier système de repérages concerne les replis de la matière. Je dirais que le
+Baroque est la présentation d’une matière qui ne cesse de faire des plis ou de se replier et
+se déplier. C’est que, sous ce premier aspect, le Baroque se définit en effet comme un
+traitement de la matière, qui est quoi, qui consiste en quoi? Je dirais que le traitement
+baroque de la matière est un traitement de masse. [20 :00] Le Baroque traite la matière
+par grandes masses, et la notion de masse va être fondamentale dans l’art baroque. Un
+des meilleurs commentateurs et un des premiers commentateurs du Baroque [est]
+[Heinrich] Wölfflin, dans un livre qui est sans doute, et qui reste, le meilleur livre, ou un
+des meilleurs livres sur le Baroque, Renaissance et Baroque [1888] (traduit en français
+aux éditions Montfort). Wölfflin [Deleuze l’épèle] met l’accent sur ce premier point, le
+traitement de la matière par masse comme caractéristique du Baroque. Et c’est par là que,
+nous dit Wölfflin, le Baroque opère dans [21 :00] le colossal ou le grand. Et son caractère
+fondamental, nous dit Wölfflin, c’est la gravitas, la gravité, la pesanteur. Et on reconnaît
+l’architecture baroque non pas au seul caractère, mais parmi ces caractères, au caractère
+suivant : l’accroissement des dimensions architecturales. Mais sous quelle forme ? On va
+repérer ; là, essayons de faire des points de repère.
+
+Le premier caractère selon Wölfflin : l’élargissement horizontal, une espèce
+d’élargissement qui se trouve, par exemple, [22 :00] dans l’élargissement horizontal des
+façades dans l’architecture baroque. Et cet élargissement est confirmé par l’abaissement
+du fronton – je dis des choses très, très élémentaires quant à l’architecture baroque --
+l’abaissement du fronton, ou bien les arcs surbaissés, dès lors elliptiques, comme une
+espèce de gravitas ; la plénitude du mur qui ne laisse plus voir ses articulations et qui
+opère là une espèce… qui est recouvert, dont les articulations sont recouvertes, ce qui
+implique un effet d’élargissement ; le pilier au lieu de la colonne, même effet ; les
+escalier [23 :00] à marches basses, par exemple, que vous trouvez déjà chez MichelAnge, non seulement les marches basses des escaliers, mais suivant les escaliers célèbres
+de Michel-Ange, [Pause, Deleuze se lève (bruit de sa chaise), il dessine au tableau], je
+dis là comme ça ; peut-être vous sentez la naissance du pli, et ce renflement, cette
+boursouflure alors, avec des marches basses, ce renflement, cette boursoufflure produit
+un mouvement en avant. [Deleuze reprend sa place] Bon. Les escaliers baroques sont les
+
+                                                                                              6
+
+plus agréables à monter, vous savez, [24 :00] les marches larges et basses. On n’a à peine
+l’impression de monter. Bien.
+
+Deuxième caractère qui s’enchaîne, c’est une espèce de traitement de la matière par, pas
+simplement par élargissement, mais -- du coup, vous sentez que ça s’enchaine ; je n’ai
+pas l’envie de faire la déduction logique ; vous sentez que ce sont des passages très
+naturels -- dès lors traitement de la matière par amollissement. Les masses, les masses
+sont molles ; traitement de la matière non seulement par masse, mais par masses molles.
+En d’autres termes, [25 :00] la mollesse de la forme dans l’escalier de Michel-Ange est
+évidente. A la limite, il faudrait parler d’une tendance de la matière au fluide, [Pause] une
+espèce de turbulence de la matière.
+
+Et cette position des masses molles implique quoi? Elle implique quelque chose qui va
+êrte essentiel, qui va être essentiel pour nous aujourd’hui et pour la prochaine fois, un
+arrondissement des formes anguleuses. Comme dit Wölfflin qui le répète à plusieurs
+reprises et qui semble être quelque chose de fondamental quant au Baroque, on évite
+l’angle droit. [26 :00] Par exemple, l’acanthe est une feuille célèbre, la feuille d’acanthe
+est une feuille célèbre dans l’architecture puisqu’elle sert de motif décoratif depuis les
+Grecs. Mais il y a deux acanthes, au moins, eh ? Il y a l’ancanthus, en latin, l’acanthus
+mollis, à feuilles arrondies, et l’acanthus spinosus, qui veut dire pointu, dentelé. Il y a la
+feuille arrondie, mollis, et la feuille dentelée. Or, le Baroque n’était pas le premier à le
+faire. Le Baroque [27 :00] reprend à son compte la substitution de l’acanthe mou, mollis,
+arrondi, à la feuille d’acanthe dentelée, qui règne avant le Baroque.
+
+Qu’est-ce que ça veut dire, cette tendance à la mollesse, cette tendance au fluide, encore
+une fois, représentée par l’arrondissement de l’angle, l’évitement de l’angle droit? A la
+limite, c’est comme une conciliation de la masse et de l’eau. Sur cette mollesse des
+formes, il y aurait beaucoup à dire. Par exemple, c’est Michel-Ange qui invente un
+curieux procédé, faire ses ébauches architecturales [28 :00], pas de sculptures, ses
+ébauches architecturales en argile. Et encore une fois, ceux qui liront le livre de Wölfflin,
+qui est tout à fait beau, vous verrez à quel point il insiste sur cette tendance du Baroque à
+éviter l’angle droit, à arrondir la forme, qui permet justement une ébauche argileuse.
+
+Or je dis, à la limite, c’est une conciliation de la masse et de l’eau. Et en effet, le Baroque
+n’est pas seulement une architecture, c’est un art des jardins, et l’art des jardins entraîne
+un traitement des eaux. Et Wölfflin lui-même insiste sur, à la fin de son livre, sur [29 :00]
+l’art des jardins baroques, avec les trois formes du traitement des eaux : la fontaine, la
+cascade, et la pièce d’eau, lac ou étang. Il montre que dans tous les cas, l’originalité du
+Baroque, l’originalité du jardin baroque, c’est que l’eau elle-même doit faire masse, par
+opposition à quoi ? Par opposition aux claires ruisseaux, claires ruisseaux qui, au
+contraire, règnent dans toutes sortes d’eaux de formation. Mais la formation baroque
+opère par masses d’eaux, même dans la fontaine: les jets multiples se rejoignent,
+constituent une masse. Finalement, [30 :00] le fluide est massif de même la masse est
+fluide. [Pause] Et à ce niveau, on voit dès lors que tout opère par masse, le solide qui est
+au fait un solide mou, le fluide qui est au fait un fluide de masse avec une turbulence, et
+entre là encore en consonance avec d’autres masses.
+
+                                                                                             7
+
+Est-ce que vous sentez naître un autre thème? C’est qu’entre les masses, il ne peut y avoir
+que des harmonies, l’harmonie de masses, [31 :00] l’harmonie comme résonance des
+masses. Entre des masses, il doit y avoir des harmonies. Qu’est-ce que ça veut dire, ça ?
+Eh bien, ça veut dire que la masse des feuillages et la masses des eaux se répondent,
+entrent en contrepoint. Pourquoi en contrepoint? Ils sont sonores tous deux. Il y a des
+masses sonores en correspondance avec des masses visuelles. Les masses sonores, c’est
+qu’on appellera des rumeurs. Et à la rumeur des feuillages doit répondre la rumeur des
+eaux.
+
+Et Wölfflin [32 :00] insiste beaucoup là-dessus, comment précisément dans l’art baroque,
+le feuillage est traité comme masse, d’où l’arrondissement des feuilles, et non pas traité
+une feuille par feuille, un art de masse, un art de masse qui est le Baroque. Simplement,
+vous comprenez, si c’est un art de masse, en effet, c’est un art du mou, un art du mou.
+Pourquoi est-ce que la masse est molle? Si c’est ça qui fait masse, c’est une manière de
+dire que la masse ne peut pas être engendrée à partir d’individus, d’individus ultimes.
+[33 :00] Il n’y a pas d’individus ultimes. Le traitement, c’est nécessairement que le
+traitement de masse opère par amollissement, c’est-à-dire par arrondissement des formes
+anguleuses. Comment dire ce qu’on pressent là, que la forme anguleuse, c’est le dur, que
+l’arrondissement de la forme anguleuse, c’est le mou?
+
+Bon. Essayons de repérer, alors… On vient de faire un peu des repérages au niveau du
+Baroque. Voyez ? On avance un tout petit peu. Qu’est-ce que c’est que faire des plis?
+[Bruit de chaise; Deleuze va au tableau] Je peux dire – on se donne là une recréation –
+vous voyez, faire des plis, c’est quoi? [34 :00] Eh ben, c’est arrondir les angles, faire des
+plis. On n’en est pas encore très loin, mais c’est ça ; c’est arrondir les angles, mais vous
+sentez qu’il faut charger cette expression de beaucoup de choses. Arrondir les angles,
+tiens, c’est tout ce que vous voulez, mais entre autres, il se peut que ce soit une opération
+mathématique. Il se peut que ça entraîne beaucoup de choses. Comment… [est-ce que]
+vous pouvez arrondir un angle en mathématiques? Peut-être ! peut-être que vous pouvez.
+Peut-être que Leibniz n’a pas cessé d’arrondir les angles. C’était un grand
+mathématicien ; il était peut-être capable de ça. Donc, on dit juste, voilà, le Baroque, vous
+voyez, comment est-ce qu’il fait des plis ? Eh ben, en instaurant un traitement de masse,
+et ce traitement de masse [35 :00], il l’instaure en arrondissant les angles, en constituant
+des matières molles.
+
+Il faut voir si la philosophie de Leibniz, avant même que vous la connaissiez – je cherche
+des repérages – est-ce que la philosophie de Leibniz consonne avec tout ça? Oh, oui. La
+matière est tellement traitée par masse chez Leibniz que jamais elle n’est séparable d’un
+terme que Leibniz emploie, l’agrégat. La matière va par agrégat, et l’agrégat est la loi de
+la matière. Non moins que l’âme aura aussi loi, et tout le problème de la philosophie de
+Leibniz sera quelle est la correspondance entre ces deux lois. [36 :00] Je dis tout de suite
+que la loi de l’âme, ce n’est pas l’agrégat ; c’est la série, mais la série, vous sentez peutêtre, que la série, c’est aussi quelque chose de très baroque. Et pourquoi ? Pour le
+moment, ça nous dépasse. La matière se divise en agrégats, et les agrégats sont divisés
+eux-mêmes en agrégats. Toute une rumeur de la matière… Au niveau de la matière, vous
+
+                                                                                             8
+
+ne trouverez que des agrégats infiniment divisibles et infiniment composables. Or, je dis
+juste que les agrégats ignorent les angles. Les agrégats sont courbes. Comme ils vont à
+l’infini, une courbe qui va à l’infini, c’est un pli. [37 :00] Les agrégats font des plis.
+
+Cherchons un peu mieux les repères avec Leibniz. [Pause ; Le bruit d’un livre que
+Deleuze feuillette] Dans toute sa physique – et Leibniz est aussi un grand physicien –
+dans toute sa physique, qu’est-ce que Leibniz va faire ? Une physique des corps qu’il
+appelle lui-même élastiques. Et l’élasticité pour Leibniz, cela il nous le dit en toutes
+lettres, c’est le degré de fluidité d’un corps, une physique du corps élastique ou du corps
+fluide, [38 :00] élasticité signifiant un degré de fluidité du corps. Il s’oppose à Descartes
+et à la physique de Descartes, non moins qu’à la physique des atomistes, que ce soit les
+atomistes de l’Antiquité ou les atomistes du dix-septième siècle qui, eux, conçoivent une
+physique avant tout du corps dur. Pour Leibniz, il n’y a pas de corps dur, et il ne cessera
+de critiquer Descartes parce que toute la physique cartésienne est une physique du corps
+dur au point que certains Cartésiens ont tiré la bonne conséquence de la physique
+cartésienne, à savoir [39 :00] ils sont revenus à l’atomisme, l’atome étant le plus petit
+corps dur. Mais pour Leibniz, il n’y a pas d’atome ; toute masse est composée de masse, à
+l’infini, pas plus qu’il n’y a de corps dur, tout corps étant élastique, son élasticité étant
+équivalente à son degré de fluidité. Une physique du fluide ou de la force élastique du
+corps – en latin, vis elastica, dit Leibniz.
+
+Et pourquoi ? Et je voudrais juste un peu que vous sachiez encore, ou peut-être certains
+d’entre vous savent déjà tout ça, mais un point essentiel de la physique de Leibniz, c’est
+quoi? Tout le monde le sait ; on apprend ça [40 :00] au lycée : c’est avoir substitué
+comme principe de la conservation mv2 à mv. Descartes avait dit mv ; Leibniz dit mv2 :
+c’est la fameuse élévation au carré de la vitesse. Et l’on demande, qu’est-ce que veut dire
+cette élévation au carré de la vitesse ? Elle veut dire beaucoup de choses qu’on verra,
+qu’on essayera de voir beaucoup plus précisément plus tard, mais ici je me contente de
+simples repères. V2 nous renvoie à l’accélération, et Leibniz en effet va centrer toute son
+étude, ou va centrer une partie de son étude sur l’accélération. Et qu’est-ce que
+l’accélération? [41 :00] C’est une différence ; c’est une différence entre le mouvement à
+tel moment et le mouvement à l’état précédent, au moment précédent ; ou entre le
+mouvement à tel moment et le mouvement à l’état suivant. C’est une différence, ou
+comme dira Leibniz plus précisément en mathématiques, une différentielle, une
+différence qui peut être, si vous voulez, aussi petit que vous voulez. Cette différentielle,
+Leibniz lui donne un nom ; c’est le conatus du mouvement. Tout ça, c’est très sommaire
+ce que je dis ; on le verra plus tard, on le verra beaucoup plus précisément.
+
+Comme entre deux moments il y a la possibilité d’analyse infinie, [42 :00] il y a une
+somme infinie de conatus [Pause] qui sont comme des degrés par lequel le corps passe
+[Pause] quand augmente la vitesse de son mouvement ou quand la vitesse de son
+mouvement diminue, ou quand du repos, il passe au mouvement. On dira que le
+mouvement est comme une intégrale, est comme une intégration de sollicitations
+élémentaires que Leibniz appelle des tendances, c’est-à-dire des conatus [43 :00], si bien
+que Leibniz prétend assigner un élément génétique du mouvement. L’élément génétique
+du mouvement, c’est l’élément d’une série de vitesses croissantes ou décroissantes,
+
+                                                                                             9
+
+l’élément d’une série de vitesses croissantes ou décroissantes, tandis que la physique
+cartésienne s’en tenait au modèle suivant : élément actuel d’une vitesse donnée, à la
+considération d’un élément actuel d’une vitesse donnée, tel qu’elle apparaît chez
+Descartes, se substitue chez Leibniz l’élément d’une série de vitesses croissantes ou
+décroissantes, une sommation de conatus, c’est-à-dire en gros il y a une infinité [44 :00]
+de degrés par lesquels passe le mobile, il y a une infinité de degrés par lesquels passe le
+mobile, quand sa vitesse augmente ou quand sa vitesse décroît. Qu’est-ce que c’est que
+ça ? Comprenez ? Je voulais juste dire ça : c’est la traduction en termes du mouvement de
+l’élasticité du corps. Ce régime de mouvement, c’est ça l’élasticité du corps. [Pause]
+
+Peut-être est-ce que vous n’êtes pas loin de comprendre comment, dans une physique du
+corps élastique, il ne peut pas y avoir de mouvement rectiligne. Bon. Il faudra toujours
+arrondir, et arrondir à l’infini. [45 :00] Le mouvement se fera suivant des courbes, à
+courbure variable. Mais là, enfin, on devance, on va trop vite, mais c’est des choses, là,
+juste on fait du repérage de thèmes. Alors, si vous ne comprenez pas tel point ou tel
+thème, il suffit que vous compreniez un ou deux puisque vous sentez déjà que tout
+s’harmonise d’un niveau à l’autre: le statut du mouvement, le statut du corps élastique.
+Tout ça se correspond ; c’est un système de correspondances, et c’est peut-être ça que
+veut dire le mot "système". [Pause]
+
+Or pourquoi… je voudrais juste insister, dès lors, pourquoi… On voit bien que le corps
+élastique, [46 :00] c’est la critique de l’atome qui, lui, est l’image même du corps dur.
+Mais quand je dis "le corps élastique", vous ne pouvez le penser que sur une courbe, à
+courbure variable. Ça veut dire quoi, ça ? Je vais juste dire… Bon, je vois comme tout ça
+s’enchaîne ; en effet, ça s’enchaîne très bien. Vous prenez un atome comme corps dur, un
+corps dur, insécable… [Interruption de l’enregistrement] [46 :38]
+
+Partie 2
+
+… Le mouvement n’est rien d’autre que la corrélation -- chez Épicure c’est comme ça –
+le mouvement n’est rien d’autre que la corrélation de l’atome et du vide. S’il y a du
+mouvement, c’est parce qu’il n’y a pas que des atomes ; il y a, comme le dit Lucrèce très
+bien, il y a des atomes et il y a le vide, la corrélation [47 :00] de l’atome et du vide, c’est
+le mouvement, comme mouvement rectiligne. L’atome tombe dans le vide. [Deleuze va
+au tableau et dessine] Des lignes droites, toutes droites… Bon, mais il y a des atomes, ils
+tombent dans le vide. Tout ça, c’est embêtant parce qu’ils ne se rencontrent pas. La
+solution d’Épicure, pour expliquer la rencontre, est célèbre, à savoir, [Deleuze l’écrit]
+incerto tempore… Là je parle latin exprès parce que je ne peux pas faire autrement
+puisque je ne sais pas ce que ça veut dire. [Rires; Deleuze continue à écrire au tableau]
+[48 :00] "A un moment", tempore, incerto, qu’est-ce que c’est? Bon. [L’expression en
+latin à laquelle Deleuze se réfère ici est paulum, incerto tempore, intervallo minimo, qu’il
+traduit comme "en un temps plus petit que le minimum de temps continu pensable" dans
+"Lucrèce et le simulacre” dans Logique du sens, p. 311.] Incerto tempore se produit une
+petite déviation, une petite déviation à laquelle Lucrèce donnera un nom célèbre, le
+clinamen, une déclinaison, c’est-à-dire il quitte la droite. On comprend que grâce au
+clinamen, l’atome rencontre l’atome et que se passent des combinaisons atomiques,
+
+                                                                                            10
+
+combinaisons de corps durs. Je dirais que les compositions [de corps durs] y prennent
+donc une oblique. [49 :00] Une oblique, c’est encore une ligne droite. Les compositions
+de corps durs [qui] se font sont rectilignes.
+
+Tout ça, je voudrais vous faire sentir… tout ça, c’est très gros, mais que chaque fois,
+j’essaie de faire une espèce de… d’indiquer les complémentarités logiques. Si vous vous
+donnez un élément dur, moi, je crois que paraît une évidence, quoi… Si vous vous
+donnez un élément supposé absolument dur, vous ne pouvez composer les mixtes, les
+combinaisons que par ligne droite. C’est-à-dire qu’il faudra que vous engendriez des
+courbes par combinaisons droites, ce qui est très possible, mais c’est un type de
+mathématiques très spécial.
+
+Donc, voilà, l’atome qui prend incerto tempore, est-ce que c’est ça ? [50 :00] À un
+moment donné, dès l’Antiquité, les gens, ils ont rigolé contre les Épicuriens; ils ont dit,
+eh bien, alors, oui, c’est facile à dire ! A un moment, il y a l’atome qui quitte la verticale
+et qui prend une déviation avec un petit angle par rapport à la verticale. Ce petit angle,
+l’angle de déclinaison, l’angle du clinamen -- cela faisait beaucoup rire à Cicéron ; il
+disait, ce n’est pas raisonnable, c’est enfantin, tout ça -- Mais incerto, ce n’est pas sûr que
+ça veut dire "à un moment quelconque", pas forcément, en tout cas. Et, en effet, [51 :00]
+vous savez… [Deleuze continue à écrire au tableau] Supposons que l’atome, ce soit le
+plus petit corps. Ce n’est pas tout à fait vrai puisque chez Épicure, ou chez Lucrèce,
+l’atome a de nombreuses parties ; ce n’est pas lui qui ait le minimum, mais cela
+n’empêche pas d’être insécable. Donc, je peux dire que d’une certaine manière, il n’a pas
+de parties sécables. C’est le plus petit corps insécable.
+
+Bon. Chez Lucrèce, et chez Épicure, l’idée du plus petit corps, c’est évidemment un corps
+éminent ce qui est le plus petit temps, c’est-à-dire l’atome de temps. L’atome de temps,
+c’est quoi ? C’est le plus petit temps pensable -- [52 :00] il faut bien que je pense un
+temps -- pendant lequel l’atome est en mouvement dans une direction donnée. Le plus
+petit temps… Voilà, [Deleuze indique son dessin et les notes au tableau] vous pensez à
+l’atome qui tombe. Ça y est, dans votre tête ? Vous pensez à l’atome qui tombe, à sa
+durée, sa chute. Bien. Vous faites l’expérience inverse. C’est une expérience de pensée.
+Vous essayez de penser le plus petit temps que vous puissiez, penser comme le temps
+pendant lequel l’atome tombe. Au-delà de ce temps, il restera [mot pas clair]. Vous me
+suivez, eh ? C’est tout simple. Il y a donc un atome de temps, le plus petit durant lequel
+[53 :00] l’atome est pensé comme tombant, bien, tombant en ligne droite. Eh bien, alors,
+vous comprenez tout !
+
+Incerto, ça veut dire quoi? Incerto, ça veut dire… Incerto tempore, ça veut dire en un
+temps plus petit que le minimum de temps pensable. S’il y a un minimum de temps
+pensable où je dois penser la chute de l’atome, je peux la penser au repos. Pour penser le
+mouvement de l’atome, il faut que je le pense dans le temps, comme tombant dans le
+temps, sa chute occupant un certain temps, et là, un minimum au-delà duquel l’atome
+sera pensé nécessairement comme étant au repos. [54 :00] Si je dis, considérons un temps
+plus petit que le minimum de temps pensable, vous me direz, je ne peux pas le penser.
+D’accord, je ne peux pas le penser. Je le pose, je ne le pense pas. Je pose un temps plus
+
+                                                                                             11
+
+petit que le minimum de temps pensable. [Pause] Je dis le clinamen, la déviation, c’est
+fait dans ce temps. La déviation ne vient pas sur la verticale à un moment quelconque ;
+elle est déjà présupposée par toute ligne rectiligne ; elle affecte toute verticale ; elle
+lançait une oblique, [55 :00] elle en fait une oblique puisque incerto tempore veut dire
+non pas dans un temps arbitraire quelconque, pas dans un temps arbitraire quelconque,
+mais en un temps plus petit que le minimum de temps pensable. Donc, il y a toujours
+ligne droite, mais elle est déjà de tout temps oblique, si bien que l’atome rencontre
+nécessairement l’atome. [Deleuze reprend sa place peut-être à ce moment]
+
+Ce qui revient à dire qu’une physique des corps durs implique quoi ? Elle implique une
+construction rectiligne des composés, et elle implique des lignes droites obliques [56 :00]
+qui se définissent par l’angle – ce sont des formations anguleuses – qui se définissent par
+l’angle par rapport à la verticale. En d’autres termes, les formations de corps durs sont
+rectilignes et anguleuses.
+
+Bien. Comprenez, ça marche pour nous, la physique de Leibniz, une physique des corps
+élastiques et dès lors, des courbures, et dès lors, des courbures. On ne comprend toujours
+pas ce que ça veut dire, mais l’élasticité arrondit les angles. La courbure, c’est
+l’arrondissement de l’angle. Les agrégats leibniziens sont des masses infiniment
+composées de masses. [57 :00] Dès lors, elles sont courbes. On n’en sort pas de là : vous
+vous répétez ça tant que vous l’auriez compris. Je ne peux pas faire mieux parce que si
+vous ne comprenez pas, c’est que vous ne l’avez pas assez répété dans votre tête. Les
+masses molles sont nécessairement courbes ; les masses élastiques sont nécessairement
+courbes. Le mobile, là, est sur une courbe infiniment variable. Qu’est-ce que c’est que le
+pli qui va à l’infini ? C’est la courbure de surface variable. C’est la ligne à courbure
+variable ou la surface à courbure variable. Voilà ce que toute la physique de Descartes et
+toutes les mathématiques de Descartes n’arrivent pas à détecter. Il fallait faire une
+physique des corps élastiques. Mais cela implique quoi ? Des outils mathématiques
+spéciaux. On verra en quoi ces outils mathématiques… c’est, comme par hasard, les
+séries infinies et le calcul différentiel. [58 :00] Bien. [Pause]
+
+Ca va ? Vous tenez toujours ? Alors on va tout à l’heure faire … Aujourd’hui c’est une
+séance courte. Dernier point pour ce traitement par masse. Considérons… Voyez, on a
+fait nos repères. Premièrement, le corps quelconque, le corps quelconque, bon, avec son
+élargissement et son abaissement. Et puis, deuxième repère, le corps élastique ou même
+fluide. Et tout ça, c’est une manière de dire : qu’est-ce que signifie faire des plis ? La
+matière fait des plis ; elle ne suit pas des angles. Comprenez ? Bon. C’est ça la
+philosophie de Leibniz. [59 :00] [Pause]
+
+Essayons de confirmer un troisième et dernier repère, le corps vivant, les plis de la chair.
+C’est un thème constant. Il y a un poème, il y a un poète baroque, anglais un très grand
+poète baroque qui est John Donne, D-O-deux N-E. Il y a un très beau poème de lui ; je
+n’ose pas vous le dire en anglais, parce que… Il parle d’un couple d’amoureux, et il dit,
+"à vous deux, vous êtes fluides", "à vous deux, vous êtes fluides." [Il s’agit du poème
+"The Ecstasy" de Donne : "You are both fluid"] D’une certaine manière, ça veut dire que
+vous ne faites qu’un, c’est-à-dire que vous faites masse. [60 :00] Mais c’est la conception
+
+                                                                                           12
+
+baroque de la masse. La masse est fondamentalement fluide, et vous n’avez plus
+d’angles. Et il ajoutera dans le même poème, "Votre visage coule…" [A vrai dire, il
+s’agit de l’âme plutôt que du visage : "That able soul, which hence doth flow", et "So
+soul into soul may flow".] Le poème sur l’amour est perpétuellement pénétré de
+métaphores de fluide. C’est comme on dit un poème baroque, un grand poème baroque.
+
+Bon, mais je dis, le corps vivant, en effet, c’est la moindre des choses de dire que le corps
+vivant, ou la chair, fait des plis – les plis et les replis de la chair. Bon, mais pourquoi il
+fait des plis ? Pour deux raisons, pour deux raisons, [61 :00] je crois, et là, il faudrait
+retrouver toutes sortes de doctrines biologiques anciennes auxquelles Leibniz a participé.
+Il faudrait vous remettre dans les premiers étonnements de la découverte du microscope,
+et il faudrait replacer toute cette philosophie de la vie sous deux formules, deux formules
+qui ne sont pas à la lettre dans Leibniz, mais l’esprit y est. La première formule, ce
+serait : "Toutes les mouches sont dans la première mouche", toutes les mouches sont dans
+la première mouche. Là, je ne peux pas dire [62 :00] que ce soit signée Leibniz, Leibniz
+le dit, Leibniz le redit, mais c’est un lieu commun de la philosophie de la vie de la fin du
+dix-septième siècle, et qui se croit très confirmé par la découverte du microscope. Qu’estce que ça veut dire, "toutes les mouches sont dans la première mouche" ? Ça veut dire
+que la première mouche que Dieu a créée contenait toutes les autres, c’est-à-dire
+contenait l’infini des mouches à venir. C’est une formule lyrique pour qualifier ce qu’on
+appelle la préformation des germes, ou le point de vue de la préformation. L’œuf primitif
+contient tous les œufs à venir, mais cela ne voudrait rien dire si l’on ne disait que [63 :00]
+l’œuf primitif contient l’organisme. En d’autres termes, l’œuf primitif enveloppe
+l’organisme, et aussi bien enveloppe tous les organismes à venir de la même espèce.
+C’est la thèse de la préformation.
+
+Il enveloppe : ça veut dire quoi ? Ça veut dire qu’il y a ce qu’on appelle en
+mathématiques une espèce de homothétie, une homothétie du petit au grand, plutôt du
+grand au petit, si petit soit-il. L’organisme enveloppe des organismes à l’infini. La
+première mouche contient toutes les mouches à venir ? Oui, mais à l’état minuscule,
+[64 :00] et chaque mouche contient, à son tour, une infinité de mouches, de plus en plus
+petites. C’est, si vous voulez, la vision simple, la vision comme on dit quand on ne fait
+pas de la science, c’est la vision de vulgarisation de la théorie de la préformation des
+germes, au niveau du vivant. L’organisme contient une infinité d’organismes, simplement
+de plus en plus petits, ce qui signifie quoi ? [Cela signifie] que toute la conception de la
+vie va être comprise à partir des mouvements – là, je retrouve des opérations – à partir
+des opérations de l’enveloppement et du développement.
+
+L’enveloppement, je dis cela parce que [65 :00] envelopper, c’est faire des plis ;
+développer, c’est déplier, et en latin, langue si souvent parlée à cette époque-là, c’est
+constant, les couples implicare-explicare, impliquer-expliquer ; involvere-devolvere,
+envelopper-développer ; involvere-evolv… [Deleuze se corrige] Evolvere… Les trois
+couples : involver-evolver, sont strictement synonymes. Impliquer-expliquer : ce qui se
+développe, s’explique. [66 :00] Ce qui s’enveloppe, s’implique, ou involue. Si bien que
+lorsque vous trouverez, dans un texte de cette époque, le mot "évolution", n’allez surtout
+pas croire – car je n’ai même pas besoin de vous le dire ; ce serait d’une stupidité sans
+
+                                                                                            13
+
+bornes – que vous avez découvert un ancêtre de l’évolutionnisme. Car dans tous ces
+textes, le mot "évolution" est employé strictement en un sens contraire de celui que
+l’évolutionnisme lui donnera, car dans l’évolutionnisme… Qu’est-ce que c’est la
+nouveauté de l’évolutionnisme à la fin du dix-neuvième [siècle] ? C’est nous dire,
+l’évolution se fait par production d’un quelque chose de nouveau, [67 :00] c’est-à-dire
+par épigenèse. L’évolution se fait par production d’un nouveau. C’est ça l’idée
+évolutionniste ; à partir de l’œuf, l’œuf est soumis à des opérations qui vont produire
+quelque chose de nouveau, c’est-à-dire quelque chose qui n’était pas compris dans l’œuf.
+
+Mais, précédemment, avant l’évolutionnisme, dans ce qu’on appelle l’étage de
+préformation, le mot "évolution" existe tout à fait. Le vivant évolue. Mais ça veut dire
+quoi, évoluer ? Ca veut dire, si vous préférez, augmenter, tout comme involver veut dire,
+diminuer, ou si vous préférez encore, évolver veut dire se déplier, [68 :00] exactement
+comme le papillon se déplie ; il se déplie, ou bien il se replie dans la chenille, mais le
+vivant passe par des alternances de plis et de déplis. Evoluer, c’est déplier ses parties ;
+l’organisme se déplie lorsqu’il déplie ses propres parties, et il se plie lorsqu’il replie ses
+propres parties. Repliant ses propres parties, il devient de plus en plus petit ; dépliant ses
+parties, les mettant les unes à l’extérieur des autres, il devient de plus en plus grand.
+L’évolution est affaire d’augmentation, avec conservation [69 :00] de la similitude, d’où
+homothétie, voyez, et l’involution, c’est la symétrie inverse de l’évolution ; c’est la
+diminution avec conservation de similitude, si bien que -- ça, je dis que c’est commun,
+par exemple, à Malebranche et à Leibniz, tout ça – si bien que… Mais Leibniz va en tirer
+des conséquences très étonnantes ; je vous le dis tout de suite pour que vous sentiez qu’à
+quel point, dans le corps vivant, la notion de pli trouve son importance.
+
+C’est donc des rythmes de plis et de déplis qui vont traverser le vivant. C’est ça qui en
+fait une chair, une chair irréductible à l’infini, au contraire, exprimable, [70 :00] dépliant
+ses propres parties. L’organisme plie et replie ses propres parties, déplie et replie ses
+propres parties. C’est une très belle vision du vivant, car surtout, Leibniz en tire l’idée
+que, il en tire, lui – alors, c’est là où il devient original – une source du vitalisme. Son
+vitalisme, c’est quoi ? Son vitalisme, ça consiste à dire : le vivant est une machine. Vous
+me direz, "le vivant est une machine", ce n’est pas une proposition vitaliste ; c’est une
+proposition mécaniste, c’est-à-dire juste le contraire. Eh bien, justement pas ! [71 :00]
+Car, dit Leibniz, et c’est là qu’il devient très génial – il l’est tout le temps, toujours
+génial, mais là particulièrement – il dit : Vous savez ce qui manque à la mécanique ? Ce
+qui manque à la mécanique et au mécanisme, c’est qu’ils ne comprennent rien à la
+machine. En fait, ce qui s’oppose à mécanique, c’est machinique. C’est une grande,
+grande idée. Pourquoi ? Parce qu’une mécanique, c’est bien une machine, dit-il,
+seulement c’est une machine qui renvoie à des pièces ultimes qui, elles, ne sont pas une
+machine. Par exemple, ça renvoie à un bout d’acier qui a pris telle forme, mais ce bout
+d’acier n’est pas en lui-même une machine. [72 :00] En d’autres termes, une mécanique
+est une machine finie ; c’est une machine dont les pièces ultimes ne sont pas des
+machines, tandis qu’une machine, c’est quoi ? C’est une machine qui va à l’infini. C’est
+une mécanique qui va à l’infini. C’est une machine dont toutes les pièces à l’infini sont
+encore des machines. C’est une machine machinée à l’infini. En d’autres termes,
+
+                                                                                             14
+
+vitalisme égale machinisme, la seule manière de montrer que le vivant n’est pas une
+mécanique, c’est dire que le vivant est une machine.
+
+Paragraphe 64 de la Monadologie. [Deleuze cherche dans son livre] [73 :00] Là, c’est
+vraiment aussi un beau texte. "Chaque corps organique d’un vivant est une espèce de
+machine divine, ou d’automate naturel." On se dit, ah bon ! C’est une proposition
+mécaniste. Mais, on attend la suite : "Parce qu’une machine faite par l’art de l’homme
+n’est pas machine dans chacune de ses parties" ; une machine faite par l’art de l’homme
+n’est pas machine dans chacune de ses parties, pas mécanisme ; c’est une mécanique ; ce
+n’est pas une machine. "Par exemple, le dent d’une roue de laiton a des parties ou
+fragments qui ne nous sont plus quelque chose d’artificiel, et n’ont plus rien qui marque
+de la machine par rapport [74 :00] à l’usage où la roue est destinée." … “Mais les
+machines de la nature,” c’est-à-dire les machines naturelles ou les vivants, “Mais les
+machines de la nature, c’est-à-dire les corps vivant, sont encore machines dans leurs
+moindres parties jusqu’à l’infini," une machine infiniment machinée. Dès lors, elles ne
+cessent pas à se plier, alors il y a homothétie de la partie et du tout. Et qu’est-ce que le
+tout sinon la partie dépliée ? Et qu’est-ce que la partie sinon le tout enveloppé et replié ?
+
+Au point que Leibniz peut dire – et vous savez, ce n’est pas compliqué, l’histoire qui
+affole les âmes pieuses – à savoir, qu’est-ce qui se passe avec la mort ? [75 :00] Mais,
+avec la mort, c’est tout simple, il nous dit. Je vais vous dire ce qui se passe avec la mort.
+En fait, il n’y a pas d’âme sans corps, donc l’idée qu’à la mort notre âme se sépare du
+corps, c’est une idée tout à fait bête pour simplifier. Ce n’est pas ça ; en fait, il n’y a pas
+d’âme sans corps. Simplement, à la mort, notre corps s’enveloppe à l’infini, si bien qu’il
+devient infinité vivable. Et on aura beau alors se faire brûler, se faire incinérer, on aura
+beau se faire incinérer, ça ne change rien, mais dans les cendres, il y aura [76 :00]
+toujours un corps, si petit qu’il soit, qui est mon corps tel qu’il est enveloppé à l’infini. Et
+le jugement de Dieu ? Donc, je garde toujours un corps ; à la mort, je garde un corps.
+Simplement ce corps est infiniment enveloppé, infiniment replié sur lui-même. C’est
+beau comme idée, et qu’est-ce que c’est que le jugement de Dieu ? Au jour du jugement
+de Dieu, voilà que tous ces corps infiniment repliés depuis leur mort vont, exactement
+comme le papillon qui se déplie, sortant de la chrysalide, c’est ça, sortant de la chrysalide
+le papillon se déplie – eh bien, nos corps, quand tonnera le jugement de Dieu, nos corps
+se redéplieront, et nous retrouverons en fait des corps qui ne nous auront jamais quitté,
+[77 :00] qui simplement étaient devenus comme autant de têtes d’épingle infiniment
+pliées. C’est beau. C’est la machine infiniment machinée que vous pouvez prendre à ces
+deux niveau : ou bien d’infinies contractions – le corps infiniment plié sur lui-même -- ou
+infinie extension – le corps déplié sur lui-même, le corps glorieux du jugement dernier.
+Eh ? Ça fait rêver, ça !
+
+Donc, ce qu’il faut reprocher encore une fois à la mécanique, c’ est de ne rien
+comprendre aux machines, et le vitalisme, c’est l’identité du vivant avec une machine
+infiniment machinée. Alors, ça c’est le premier aspect qui concerne, si vous voulez,
+l’organisme. Il y a une infinité d’organismes dans l’organisme, [78 :00] c’est-à-dire une
+infinité d’organismes sont pliés dans chaque organisme. Il y a des mouches de mouches
+de mouches à l’infini. Et voilà, l’autre aspect du vitalisme – il y a un autre aspect -- c’est
+
+                                                                                            15
+
+que dès lors… Mais les organismes eux-mêmes, d’où [est-ce qu’] ils viennent ? Ils
+viennent sans doute de vivants simples puisque c’est déjà agrégats d’organismes. Ils
+viennent de vivants simples, mais je ne sais pas encore ce que ça veut dire. Ça, on verra
+ça plus tard, le simple chez Leibniz, comme il y en aurait, puisque tout va à l’infini. Sans
+qu’il n’y ait pas de simples… Je dis comme ça, à tout hasard, les vivants simples qui
+existeraient à un autre niveau que celui où on est.
+
+S’il y a ça, qu’est-ce que ce sera, le second aspect du vitalisme ? C’est qu’un organisme
+est toujours fait d’une portion de matière en tant qu’animé par des éléments simples.
+Voyez ? Le premier aspect du vitalisme, c’est un organicisme ; le deuxième aspect [est]
+de quoi est fait l’organisme : d’éléments simples [79 :00] en tant qu’ils animent une
+portion de matière, aussi petite qu’elle soit. Cette fois-ci, ce n’est plus le point de vue de
+l’œuf ; c’est le point de vue de l’animalcule, et c’est bien connu dans toutes les histoires
+de la vie, de la notion de vie. Vous trouverez les disputes entre les écoles au dix-septième
+siècle, entre une école qui s’appelle l’ovisme, l’œuf, les Ovistes, et l’autre s’appellant les
+Animalculistes, les partisans des animalcules. Qu’est-ce qui compte, l’œuf [80 :00] ou
+finalement, le spermatozoïde ? C’est un problème qui traînera partout ensuite. C’est les
+deux points de vue du vitalisme.
+
+Leibniz les réunit très bien, tous les deux : de quoi est fait un organisme, c’est-à-dire, la
+matière organique ; elle est faite de quoi ? Eh bien, au second niveau, on répond, la
+matière organique, elle est faite d’éléments simples animant une portion, si restreinte
+qu’elle soit, de matière inorganique. Vous comprenez ? On est passé de l’œuf aux
+animalcules. Or, c’est le chemin du microscope. Les textes de Leibniz sur le microscope
+sont des textes fondamentaux pour toute sa philosophie. Et alors, [81 :00] d’où une
+nouvelle série de formules tout à fait géniales de Leibniz qui consiste à nous dire de ce
+second point de vue des animalcules, vous voyez, des éléments simples qui animent une
+portion de matière inorganique, si petite que soit cette portion, cela revient à dire quoi ?
+Cela revient à dire que tout n’est pas vivant. Bien sûr, tout n’est pas vivant ! Il y a de la
+matière inorganique, les masses matérielles ; ce n’est pas vivant. Tout n’est pas vivant,
+mais partout il y a du vivant, et je connais très peu de philosophies de la vie qui soient
+aussi belles, même parmi les modernes, que cette idée de la diffusion du vivant chez
+Leibniz. Voyez, c’est autre chose.
+
+Le premier aspect du vitalisme, c’était les augmentations et les diminutions, c’est-à-dire
+les enveloppements et les développements. Le deuxième aspect du vitalisme [82 :00],
+c’est la diffusion, la diffusion des animalcules dans toutes portions, quelle qu’elles soient,
+de matière inorganique. Et c’est comme s’il nous disait – mais il y a toutes sortes de
+textes de Leibniz qui suggèrent cette formule – c’est comme s’il nous disait, vous
+comprenez, dans un étang, ou dans un lac – traitement des eaux par le Baroque – dans un
+lac ou un étang, tout n’est pas poisson, mais il y a partout des poissons. Tout n’est pas
+poisson dans le monde, mais il y a partout des poissons. C’est le deuxième aspect du
+vitalisme. Cela reprend la formule, cette fois-ci, des éléments simples diffus dans toute
+portion de matière inorganique, si petite qu’elle soit. [83 :00]
+
+                                                                                             16
+
+Et Leibniz, dans la correspondance avec Arnauld, va poursuivre des comparaisons – là
+encore, des rapports d’harmonie, des consonances -- entre deux cas de matière, le lac
+plein de poissons, d’une part, et d’autre part, le chaos de marbre. Et ces textes sont
+sublimes, très, très beaux. Le chaos de marbre paraît être le corps le plus dur. Et Leibniz
+va montrer que [Deleuze parle très fort ici] le chaos de marbre ne diffère pas en nature
+de l’étang plein de poissons, et que dans le chaos de marbre aussi, il y a une infinité
+d’animalcules diffus. [Pause]
+
+Bon, alors… Bien. [84 :00] Tout n’est pas poisson, mais partout il y a des poissons. Le
+monde est un étang plein de poissons. Je dirais que ce vitalisme nous importe puisqu’il
+confirme… qu’est-ce qu’il confirme ? Le traitement par masse. Je résume là nos
+résultats : le traitement par masse comme définition possible du Baroque opère à tous les
+niveaux par plis et déplis. [Pause] Deuxième proposition de conclusion : les plis et les
+déplis vont [85 :00] à l’infini. C’est ça, c’est ça la différence du Baroque avec toutes les
+autres formations. Troisième conclusion : s’il en est ainsi, les corps ne sont pas des corps
+durs, mais des corps élastiques, et à la limite, des corps fluides, et leurs trajets ne sont pas
+des rectilignes, mais des courbes, [Pause] et leur opération [86 :00] consiste
+perpétuellement à arrondir les angles, à éviter l’angle, au besoin par une courbure, par
+une courbe à courbure variable.
+
+Voilà. Ça, c’est le premier aspect qui concernait : y a-t-il un traitement de la matière
+qu’on puisse appeler Baroque ? Vous allez vous reposer, pas longtemps, eh ? Et puis
+vous réfléchissez un peu, et vous me dites s’il y a des difficultés ou des questions. [Pause
+pour une recréation] [1 :26 :48]
+
+… Et je voudrais donc que vous compreniez bien que c’est une introduction qui n’a pas
+du tout entamé la philosophie de Leibniz. On fait des repères, des repères très généraux.
+[87 :00] Là, tout ce qu’on a fait pendant cette première partie, c’était le traitement de la
+matière selon Leibniz, et est-ce que c’est un traitement qu’on peut appeler Baroque, et en
+quel sens ? Pas de problèmes, pas de questions ? Bon, [Pause] alors on continue.
+
+Tout à l’heure, nous nous occupions du niveau matière, défini comme le niveau des
+agrégats, si vous voulez, le plus bas niveau. Maintenant, on va s’occuper du niveau plus
+haut, et en effet, on suit assez le chemin de [88 :00] Wölfflin qui parle de ce qu’il y a audessus de ce premier niveau des matières surbaissées, amollies, etc. Et ce second niveau
+qu’on va considérer, c’est maintenant évidemment celui de la forme, ou de la cause
+formelle, ou si vous préférez, l’élément génétique de la forme. Et de même que tout à
+l’heure il y avait un statut de la matière, maintenant nous devons nous attendre à un
+certain statut de l’âme. [89 :00] De même que la matière ne cesse de se plier et se déplier,
+eh bien, il y a des plis et des replis dans l’âme. On l’a vu, la Monadologie, paragraphe
+61 : il y a des plis et des replis dans l’âme. Tout nous suggère que peut-être, pour Leibniz,
+ces plis et ces replis dans l’âme sont comme les éléments idéaux de la forme. Mais il
+faudra là beaucoup de repères et d’explications pour comprendre ce que cela peut vouloir
+dire, des éléments idéaux de la forme, des éléments génétiques des formes. L’âme
+contiendrait les éléments génétiques des formes, [90 :00] mais elle contiendrait les
+éléments génétiques des formes en tant qu’elle fait des plis et des replis, ou du moins en
+
+                                                                                            17
+
+tant qu’il y a des plis et des replis en elle. Vous sentez que, là aussi, Leibniz est amené à
+trouver que la conception que Descartes se fait de l’âme est comme ridiculement
+sommaire. [Pause]
+
+Bon, qu’est-ce que c’est que ça, des éléments idéaux ? Les plis seraient des éléments
+idéaux et génétiques qui rendraient compte des formes. En d’autres termes, l’élément
+génétique du pli, c’est quoi ? Je dis que l’élément génétique du pli, c’est le point qui
+décrit [91 :00] une courbe, le point sur une courbe, point sur une courbe, à courbure
+variable, c’est le [mots pas clairs] [Deleuze se lève, va au tableau] Une courbe à courbure
+variable, j’en donne une espèce de dessin de formule très générale. [Il dessine au tableau]
+Voilà ; vous reconnaissez une courbe à courbure variable. Le cas le plus simple est une
+courbe à courbure invariable, je dirais. [Pause ; il revient à sa place] On pourrait arrêter
+parce que vous avez tout compris ; je veux dire que tout notre travail de cette année, c’est
+uniquement, ça nous prendra longtemps, c’est commenter cette figure. [Voir aussi la
+première figure dans les dessins qui se trouvent en haut de cette séance]
+
+Qu’est-ce que c’est que cette figure, la courbe à courbure variable, [92 :00] ou la courbe à
+courbure constante ? Je dirais que c’est une inflexion, c’est une inflexion. Qu’est-ce que
+c’est qu’une inflexion ? Une inflexion – j’emploie un langage en gros de mathématiques
+– l’inflexion d’une ligne, c’est une singularité, c’est-à-dire – oh, ce n’est pas compliqué –
+une singularité est quelque chose qui arrive à la ligne ; c’est un événement, quelque chose
+[qui] arrive à la ligne, la courbure. On l’appellera [un] point d’inflexion ; c’est un point
+singulier. Tout point singulier [93 :00] n’est pas d’inflexion, mais le point d’inflexion est
+un point singulier, le point singulier de cette inflexion. [On note un très bref lapsus dans
+l’enregistrement, apparemment sans rien perdre] Les singularités en général ne sont pas
+indépendantes d’un axe de coordonnées, mais l’inflexion, elle, est indépendante de tout
+axe de coordonnées. Elle ne suppose pas de coordonnées.
+
+Voilà ce que je veux poser : Peut-on dire qu’il y a une irréductibilité génétique de
+l’inflexion ? C’est-à-dire qu’il faut prendre l’inflexion comme élément d’une genèse
+idéale, comme élément génétique, c’est-à-dire comme élément génétique qui engendre les
+formes. Voilà. Il me semble… Je ne peux pas dire que… [94 :00] Il me semble qu’il en
+est bien ainsi chez Leibniz. L’élément qui engendre les formes, l’élément génétique des
+formes n’est pas la droite rectiligne ; c’est la courbe à variation constante, la courbe de
+courbure variable, ou l’inflexion. Irréductibilité de l’inflexion : vous sentez toujours là le
+thème obsessionnel de cette première séance, toujours s’arrondir les angles. [Pause]
+
+                                                                                            18
+
+Or, si c’est ça, je dirais, dès alors, du point de vue de la forme… [95 :00] Du point de vue
+de la matière, le Baroque, on proposait l’idée suivante : Le Baroque, c’est ce qui traite la
+matière par masse, c’est-à-dire par plis et replis allant à l’infini. Maintenant, je dirais que
+le Baroque, c’est ce qui traite la forme par l’élément génétique de l’inflexion. [Pause]
+Pour le moment, je ne peux pas en dire plus, sauf que déjà il faut réfléchir ; il faut
+s’arrêter à chaque fois, il faut s’arrêter, vous savez, et puis appeler à l’aide ; appeler à
+l’aide, quand on parle [96 :00] ou quand on écrit, c’est plusieurs choses. Quand on parle,
+vous appelez à l’aide, vous, mais jusqu’à maintenant, seul le silence m’a répondu ; je
+peux dire, aidez-moi, oui ! L’inflexion, ce serait, au conditionnel, ce serait l’élément
+génétique des formes.
+
+Bon, on vient de voir que c’est en effet très particulier, l’inflexion, mais qu’est-ce que ça
+veut dire ? Je vous appelle à l’aide ! Et tout d’un coup, en vous appelant à l’aide, il y a
+quelque chose qui me traverse la mémoire, des schémas, des schémas d’un peintre
+célèbre. Ça me traverse la mémoire, oui, c’est dans Paul Klee. Ah, je me dis, oui, mais
+Paul Klee, mais je vais tomber dans le reproche : vous appelez le Baroque n’importe
+quoi, tout ça ! Alors évidemment, mais non ! Ce n’est pas moi, heureusement ; c’est Paul
+Klee. [97 :00] Paul Klee s’intéressait énormément au Baroque ; il a écrit sur le Baroque.
+Alors, s’il a écrit sur le Baroque et s’il a trouvé ça très bien, le Baroque, peut-être ses
+propres schémas… Et dans un petit livre merveilleux de Paul Klee, Théorie de l’art
+moderne – enfin, qui a paru sous le titre Théorie de l’art moderne – il y a [Pause], il y a
+l’étude des formes en mouvement. Mais les formes en mouvement, ça suppose un
+engendrement des formes à partir d’un mouvement. Et qu’est-ce qu’il nous dit ? C’est-àdire [98 :00] une genèse des formes dont Klee nous parle sous le titre, "Esquisses
+pédagogiques", et ses esquisses pédagogiques commencent par l’affirmation que "le point
+n’a besoin de rien d’autre que sa propre spontanéité." Ca, il faut que vous le reteniez
+parce que quand on retrouvera Leibniz, vous verrez dans quel sens c’est
+mathématiquement, physiquement… tout ça, c’est une idée clé – eh, tiens, amusant !
+[Rires] – c’est une idée fondamentale de Leibniz. Le point n’a besoin que de sa
+spontanéité. La spontanéité du point : qu’est-ce que ça peut vouloir dire ? Eh bien, la
+spontanéité du point, c’est l’inflexion. Le point n’a besoin que de sa propre spontanéité
+pour suivre une courbe d’inflexion. [99 :00]
+
+Si j’insiste là-dessus quant à Klee, c’est que vous allez voir qu’il y a l’anti-Klee qui n’est
+pas moins un grand peintre, à savoir, Kandinsky, et que tout… et que ça marque leurs
+peintures – ce n’est pas des histoires théoriques du dehors -- c’est inscrit dans leurs
+peintures. Pour Kandinsky, au contraire, le point ne peut entrer en mouvement que sous
+une contrainte extérieure, si bien que toute la peinture de Kandinsky, il la concevra
+comme une affaire de tension, la tension qui s’exerce sur le point pour le mettre en
+mouvement. Et toute la conception de la peinture de Klee – s’il y a un peintre qu’on peut
+dire spontanéiste, à condition de voir que dire spontanéiste ne veut évidemment pas dire
+faire n’importe quoi – [100 :00] c’est que le point suit une courbe d’inflexion par sa
+propre spontanéité.
+
+                                                                                             19
+
+Le point est donc l’élément génétique par lui-même de ce que Klee appelle "la ligne
+active", et la ligne active, c’est ceci : le schéma du haut, c’est-à-dire une inflexion. [Les
+trois schémas tirés des "Esquisses pédagogiques" se trouve dans Le Pli, p. 21 ; The Fold,
+p. 15.] Voyez ? Ne vous vous occupez que du haut ! La ligne active. [Rires ; le livre
+circule parmi les étudiants] Qu’est-ce que vous voulez de mieux ?!
+
+La deuxième figure… On va suivre dès lors… Vous comprenez, c’est ça [101 :00] un
+système de relais. Alors, je m’embarrassais avec mon histoire : l’inflexion, est-ce qu’elle
+peut être l’élément génétique de la forme ? Est-ce que cela ne serait pas comme ça chez
+Leibniz ? Puisque vous ne pouvez pas m’adresser directement à Leibniz, puisqu’on n’a
+pas encore les moyens de… Puisque je suis en dehors de Leibniz, alors, je ne savais pas
+très bien comment faire. Là-dessus, c’est Klee qui nous donne la réponse. Parfait, très
+bien. Il n’y a plus que le suivre. [Voir l’image avec trois figures en haut de cette séance]
+
+Alors, deuxième figure [Deleuze continue à leur montrer les schémas dans le
+livre]… C’est un peu loin, je peux le faire au tableau, mais j’en ai assez. Vous voyez, la
+deuxième figure, c’est celle qui est en-dessous de la première, voyez, elle est entremêlée
+avec une autre ligne beaucoup plus capricieuse. Bon, c’est lorsque les plis… [102 :00] le
+pli d’inflexion se trouve recoupé comme par une ligne qui a l’air d’être une ligne au
+hasard, une ligne aléatoire. Mais il se peut justement que la ligne d’inflexion nous donne
+une sorte de loi de la ligne aléatoire.
+
+La troisième figure – c’est curieux, il ne commente pas très bien son index parce que
+c’est, c’est… ah non, si, il commente très bien, donc je retire ce que je dis – la troisième,
+vous voyez, c’est très intéressant, parce que qu’est-ce qu’il a fait ? Qu’est-ce qu’il a fait,
+Paul Klee ? Il ne le dit pas, mais c’est vraiment intéressant. [103 :00] [Pause] Ce qu’il a
+fait, c’est marquer les ombres du côté de la concavité de l’inflexion. Dès lors, autour du
+point d’inflexion, le hachurage change. Eh ? [104 :00] [Pause ; Deleuze dessine au
+tableau ; on entend le bruit de la craie] Alors, qu’est-ce que cela nous apporte de
+nouveau, ça ? [Il reprend sa place] C’est que, à chaque fois, du côté de la concavité, c’est
+nécessairement du côté de la concavité, on définit un centre de courbure… Centre de
+courbure, qui va varier suivant la portion d’inflexion que vous considérez d’un côté ou de
+l’autre [105 :00] du point d’inflexion. Et encore là, j’ai pris le cas de l’inflexion à
+courbure constante. Si je considère le cas d’inflexion à courbure variable, le centre de
+courbure variera, si bien que le centre de courbure sera d’un côté comme de l’autre du
+point d’inflexion, ce qu’on peut appeler une enveloppante, une région correspondant à la
+courbure, [Deleuze dessine au tableau] suivant les droites convergentes. Je sens que ça se
+complique, mais enfin … Voyez, le centre qui change de sens, le centre de courbure qui
+va changer de sens, là, c’est tout simple, et qui au besoin ne va pas être un point, mais va
+être défini par une enveloppante. Bien. [106 :00]
+
+Pour le moment, on reste là, avec ces schémas de Klee, et j’en complique pour dire
+Kandinsky, c’est quoi ? Kandinsky, c’est tout à fait différent. Pourquoi ? Puisque pour
+lui, le point est normalement au repos, il n’y a pas de spontanéité du point. Dès lors, le
+point ne se meut que lorsqu’une force s’exerce sur lui, le sort de son repos. Dès lors, la
+ligne parcourue par le point sous une sollicitation extérieure sera, évidemment, une
+
+                                                                                             20
+
+droite. Ce sera une droite. D’où, dans le texte de Kandinsky, Point-Ligne-Plan, il passe
+du point à la droite [107 :00] sous l’influence d’une force ou tension et nous dit : Il y a
+trois espèces de lignes droites, les autres droites n’étant que des variantes. La ligne droite
+la plus simple est la ligne horizontale ; à l’opposé de cette ligne se trouve à angle droit la
+ligne verticale. La troisième ligne est la diagonale, schématiquement vue dans un angle
+identique à l’une et l’autre des lignes précédentes, ayant de ce fait la même inclinaison
+des deux, c’est-à-dire une bissectrice.
+
+Bon. Qu’est-ce que je vais dire ? Si je dis maintenant – est-ce que ce serait clair ? -- si je
+dis Kandinsky, c’est une peinture du corps dur, [108 :00] et qu’est-ce qui est si génial
+chez Kandinsky ? Qu’est-ce que Kandinsky a su tracer comme jamais personne n’a su
+tracer, en y donnant une tension ? N’importe qui qui a vu trois tableaux de Kandinsky
+répond, ce sont les angles, ce sont les angles. C’est une peinture du corps dur où le
+mouvement est anguleux et où les corps sont composés par rectilignes. C’est la plus
+d’angles en composition que l’on ait pu faire en peinture. [109 :00]
+
+Si l’on essaie de poser schématiquement Klee, on dira [que] c’est une peinture du corps
+élastique. Ça, des corps élastiques chez Klee, bon, vous en trouverez de tellement
+admirables ; c’est une peinture du corps élastique où le point suit spontanément ; c’est
+une peinture de spontanéité, seulement ce n’est pas la spontanéité de Klee lui-même,
+c’est la spontanéité du point sur la toile, où la spontanéité du point se définit par
+l’inflexion que le point suit. Dès lors, c’est une peinture qui ne cesse d’émousser les
+angles, d’arrondir l’angle, d’infléchir l’angle. [110 :00] [Pause]
+
+Quelqu’un qui a travaillé ici, d’ailleurs, à un moment il y a plusieurs années, et qui
+s’appelle Bernard Cache, et qui s’intéresse beaucoup au Baroque, a fait récemment une
+étude, ou est en train de faire une étude très intéressante -- parce qu’il a une formation
+d’architecte -- une étude très intéressante précisément sur le problème des inflexions en
+architecture. Et son point de départ, c’est un peu comme Klee là, on le reprend : les
+variations de l’inflexion. Alors vous oubliez Klee; on s’en est servi pour confirmer cette
+espèce de soupçon qu’on a : est-ce que l’inflexion peut être traitée comme l’élément
+génétique des formes, et en quelles conditions, [111 :00] à savoir l’inflexion considérée
+comme la spontanéité du point ?
+
+Or, tout ça, c’est littéralement leibnizien, qu’il y ait une spontanéité du point, que le point
+n’ait besoin de rien d’autre pour se mettre en mouvement – tout ça, c’est des thèmes
+constants de la physique, des mathématiques, et de la métaphysique de Leibniz, si bien
+que c’est à la lettre que je peux dire, oui, il y a quelque chose de leibnizien chez Klee.
+Mais alors, ces variations – je parle d’une inflexion – je peux les soumettre à des
+opérations de symétrie, [Deleuze se remet au tableau] des opérations de symétrie où je
+n’aurais plus un point d’inflexion, mais un point de rebroussement, pour donner ça. [Il
+indique le dessin] Une autre symétrie peut me donner une ogive. [112 :00] Première
+figure, inflexion ; deuxième figure par rebroussement, troisième figure, peu importe, par
+une autre symétrie, l’ogive. Je peux… Ce sont des figures que vous pouvez retrouver ;
+vous les retrouverez déjà dans le Gothique. Si je multiplie la ligne d’ogive, j’aurais une
+figure de l’écoulement du fluide. [Pause ; Deleuze dessine toujours ; voir les dessins
+
+                                                                                               21
+
+dans Le Pli, p. 22] Non plus par symétrie, quatrième figure… (un-deux-trois, oui)… mais
+par prolongement de la courbure, par prolongement de la courbure [113 :00] [Pause] et
+vous avez ça ! Ça devient de plus en plus joli ! Alors par prolongement de la courbure…
+pourquoi [est-ce que] j’insiste là-dessus ? C’est ça, une figure vraiment baroque. Vous
+voyez ? Très souvent dans l’architecture baroque, dans les motifs décoratifs, par exemple,
+je mets des ogives… [Pause ; il dessine toujours] … les mêmes choses de ce côté-là…
+[Rires] Vous reconnaissez ? Grâce à des motifs décoratifs simples, vous dites, [114 :00]
+tiens, c’est une église baroque ! [Rires] L’élargissement, là, j’ai tout résumé la séance
+d’aujourd’hui : l’élargissement, le motif de l’inflexion qui vous ouvre à la genèse idéale.
+Bon. De l’autre côté, c’est pareil… Là, vous avez un très beau motif décoratif. [Il
+continue à dessiner] Vous pouvez aussi avoir une espèce d’étoile de mer là -- C’est
+possible – non plus par prolongement, mais par rotation autour du point d’inflexion.
+[Deleuze revient à sa place] Vous pouvez avoir par continuation à l’infini, quoi, une
+onde, une fluctuation. Eh ? [115 :00]
+
+Donc, on avance un tout petit peu dans l’idée de l’élément génétique des formes,
+génétique des formes. Mais pourquoi ? Je dirais, voyez comme l’inflexion ne cesse. Elle
+est elle-même un pli ; c’est ça qui est curieux, la spontanéité de la droite… [Il se corrige]
+La spontanéité du point (ce n’est pas la droite). La droite, c’est quoi ? C’est lorsque le
+point, c’est lorsque le point… exactement, la droite répond au cas où le point subit une
+causalité extérieure. Alors, oui, comme dit Leibniz, [116 :00] dans un texte très beau, si le
+point d’ailleurs qui subit la causalité extérieure, s’il est abstraitement considéré, si le
+point est considéré abstraitement, alors il suit quoi ? Il ne suit pas la courbe ; il suit la
+tangente à la courbe, c’est-à-dire une droite. Mais s’il est considéré dans sa spontanéité,
+alors il est supposé parcourir une inflexion, et par là, il engendre les formes ou la forme.
+Comme c’est une inflexion à courbure variable, il est probable qu’il [117 :00] engendre
+des formes.
+
+Mais qu’est-ce que ça veut dire, la spontanéité du point ? Je peux vous donner la réponse
+d’avance, parce que la réponse d’avance de Leibniz, c’est que la spontanéité du point,
+c’est quoi ? C’est le point comme point de vue. Mais, ça, on n’est pas encore en mesure
+de le comprendre. C’est lorsque le point est déterminé comme point de vue qu’apparaît la
+spontanéité du point, et la vue est alors une inflexion. C’est juste pour vous dire… Ce
+n’est pas pour que vous compreniez, mais pour que vous pressentiez.
+
+Voilà. Je voudrais en terminer aujourd’hui, parce que c’est suffisant, sur un dernier point
+difficile. On est passé d’un niveau de la matière et du traitement de la matière par masse à
+un autre niveau, [118 :00] le traitement ou la genèse des formes. Et pourquoi ? Pourquoi
+[est-ce qu’] il fallait [les] joindre ? Je dirais, quitte à justifier seulement la prochaine fois,
+qu’autant le premier est constitué d’agrégats à l’infini, autant le second niveau, le niveau
+des inflexions, est constitué par des séries à l’infini. Mais la question subsiste : pourquoi
+faut-il dépasser le premier niveau ? C’est-à-dire pourquoi [est-ce qu’] il ne suffit pas de
+parler des plis de la matière, des replis de la matière ? Pourquoi est-ce qu’il faut aller
+jusqu’à des plis de l’âme qui peuvent être considérés [119 :00] comme élément génétique
+des formes ?
+
+                                                                                              22
+
+Il y a un texte très important de Leibniz, et très difficile ; [Deleuze consulte son livre] je
+voudrais juste que… vous lire pour que vous le considériez. Je lis très lentement parce
+que notre objet la prochaine fois, ça sera sûrement de commenter très en détail ce texte.
+"Le mouvement…" C’est un texte de physique, dans une lettre qui est une réponse à
+[Pierre] Bayle, étant un auteur du dix-huitième qui est très anti-leibnizien et qui avait
+beaucoup critiqué Leibniz, et il y a une lettre de Leibniz à Bayle, où il est dit ceci :
+
+"Le mouvement de quelques points qu’on puisse prendre dans le monde," c’est-à-dire le
+mouvement d’un point quelconque, [120 :00] "se fait selon une ligne d’une nature
+déterminée que ce point a prise une fois pour toutes et que rien ne lui fera jamais quitter."
+C’est un peu mystérieux. On retient : "Un point quelconque", "un mouvement qui se fait
+selon une ligne d’une nature déterminée que ce point a prise une fois pour toutes," sousentendu que ce point pris une fois pour toutes tant qu’il n’y a pas quelque chose qui le fait
+changer. "Il est vrai que cette ligne serait droite . . . " – il y a beaucoup de gens qui disent,
+"eh ben, si vous n’avez qu’un point sur une ligne, c’est forcément une ligne droite qui
+parcourt le point" ; c’est même [121 :00] une formule de l’inertie. Leibniz nous dit tout à
+fait autre chose. "Il est vrai que cette ligne serait droite si ce point pouvait être seul dans
+le monde" ; si ce point pouvait être seul dans le monde, la ligne serait droite, c’est-à-dire,
+qu’est-ce que ça voudrait dire ? Elle serait droite, la droite étant définie comme une
+tangente à la courbe possible, à la courbe virtuelle, qui passe par le point. Vous sentez
+que Leibniz veut nous dire : en fait, le point suit une ligne courbe ; en fait, le point suit
+une ligne courbe. Or, il devrait suivre une ligne droite, s’il était seul au monde. [122 :00]
+Remarquez, seul au monde, ça ne veut certainement pas dire "spontané" ; ça veut dire
+"abstrait". Si le point est traité comme une abstraction, alors oui, il suit la droite, à savoir
+il suit une ligne qui est toujours une tangente, donc il suit une ligne droite.
+
+Mais il n’est pas seul au monde. Dès lors, il ne suit pas une ligne droite, et on peut dire
+qu’aucun point ne suit une ligne droite. Pourquoi ? Il nous le dit dans le texte : "Parce
+qu’il y a concours de tous les corps," parce qu’il y a concours de tous les corps, c’est-àdire qu’il y a intersection des corps. "Aussi est-ce par ce concours même que la ligne est
+préétablie", et la ligne préétablie par le concours des corps, [123 :00] c’est évidemment
+une courbe, et une courbe à courbure variable puisque, suivant les corps avoisinants, il
+change d’après le mouvement et le déplacement du point. [Pause] Donc, la ligne n’est
+pas droite en vertu des lois mécaniques puisque le mouvement est dû au mouvement de
+tous les corps. Aussi est-ce par ce concours même qui la ligne est préétablie et
+déterminée. Et il dit brusquement, brutalement – cela revient à dire, finalement, bon, en
+vertu du concours tous les corps les uns sur les autres, les uns avec les autres, [124 :00] le
+point suit une courbe ; il suit une courbe d’inflexion variable suivant le genre des
+voisinages.
+
+C’est le temps ; je vous sens déjà fatigués, mais c’est très important que vous
+compreniez. Enfin, c’est comme ça, voilà, et puis, bon… [Pause] La question, c’est
+pourquoi Leibniz ajoute-t-il -- il n’y a aucune coupure dans le texte – il vient de dire que
+c’est le concours de tous les corps qui déterminent, qui préétablissent le point comme
+ligne à courbure, comme ligne courbe. Ainsi, il continue brusquement, "j’avoue que la
+spontanéité n’est pas proprement dans la masse." En effet, la spontanéité n’est pas
+
+                                                                                             23
+
+proprement dans la masse, [125 :00] vous voyez ce que ça veut dire : la masse, c’est le
+composé du corps considéré avec les autres corps sous le régime du concours des corps.
+Là, on peut dire qu’il y a détermination d’un corps par d’autres, [mais] il n’y a pas
+spontanéité. La spontanéité ne peut pas être dans la masse puisque la masse est un
+agglomérat d’agglomérats, est un agrégat d’agrégats. Donc c’est un régime de
+détermination extérieure. Ainsi, "j’avoue que la spontanéité n’est pas proprement dans la
+masse", à moins de prendre l’univers entier, c’est-à-dire à moins de prendre l’agrégat de
+tous les agrégats. Car si ce point pouvait commencer à être seul, si on l’extrayait de la
+masse, [126 :00] il continuerait non point dans la ligne préétablie, dans la courbe, mais
+dans la droite tangente. Ça, c’est clair. Et là-dessus, il va devenir le plus mystérieux.
+
+Voilà, exactement, il me semble, ce que ce texte, qui est bien difficile, nous dit pour le
+moment : [première proposition] si le point était abstrait et tout seul, il suivrait une ligne
+droite. Mettons [que] Kandinsky se met dans l’hypothèse du point abstrait ; il suivrait une
+ligne droite ; il serait tangent à des courbes virtuelles. Deuxième proposition : en fait, le
+point concret suit une courbe à courbure variable, et c’est ça les mouvements concrets.
+Pourquoi ? Parce que la ligne qu’il suit est préétablie par [127 :00] le concours variable
+des autres corps. Troisième proposition : le concours des corps avec un corps définit une
+masse, et ce n’est pas encore la spontanéité. Le point concret doit avoir une spontanéité
+qui explique en dernière instance qu’il suive une courbe à courbure variable. Et cette
+spontanéité, ce n’est pas la masse qui peut en rendre compte. Bien plus, les corps ne
+concourraient pas entre eux ; il n’y aurait pas… – c’est, au contraire, la masse réclame,
+suppose cette spontanéité – les corps ne concourraient pas entre eux s’il n’y avait pas une
+spontanéité du point qui suit la courbe à courbure variable. Donc, bien loin que le
+concours des corps explique la spontanéité de l’inflexion, le concours des corps
+présuppose la spontanéité de l’inflexion. En d’autres termes, c’est tout ce que je veux
+essayer de nous faire sentir d’après ce texte : le traitement de la matière renvoie à une
+genèse des formes, et suppose une genèse des formes.
+
+Et comment [est-ce qu’] il va exprimer la spontanéité du point qui ne se trouve ni dans le
+point tout seul, [129 :00] ni dans la masse ? La spontanéité du point, voilà ce qu’il nous
+en dit : "C’est donc proprement dans la forme substantielle" -- la forme, eh ? -- "C’est
+donc proprement dans la forme substantielle" -- entre parenthèses -- "(dont ce point est le
+point de vue)" – dont ce point est le point de vue – "que la spontanéité se trouve". On a
+comme trois étages : le point tout seul qui suivrait une droite ; le concours des autres
+corps, c’est-à-dire la masse qui prédétermine une ligne courbe ; et la masse elle-même,
+[qui] resterait incompréhensible si elle ne renvoyait pas à une spontanéité supérieure.
+[130 :00] Cette spontanéité supérieure, c’est lorsque le point n’est ni tout seul ni pris dans
+une masse, mais lorsqu’il est devenu point de vue. Pour le moment, c’est inintelligible.
+
+Mais alors, faisons un pas de plus. Si la spontanéité du point c’est le point déterminé
+comme point de vue, qu’est-ce qui c’est que les centres de courbure, d’inflexion ? Ce
+sont [eux] qui tracent une enveloppante, par sa variation, et qui sautent d’un côté à
+l’autre, de part et d’autre d’un point d’inflexion, mais que le centre de courbure du côté
+de la concavité, c’est précisément un point de vue. C’est le point comme point de vue ;
+c’est le point comme point de vue, et c’est au niveau du point comme point de vue que
+
+                                                                                          24
+
+vont se rencontrer tout le faisceau [131 :00] des droites, des droites convergentes depuis
+la courbure jusqu’au centre de courbure.
+
+En d’autres termes, tout ce que je voudrais que vous sentiez, c’est que l’idée qu’il y avait
+une matière susceptible de plis et de replis n’était pas suffisante. C’était un niveau qui
+devait se dépasser nécessairement vers un autre niveau plus profond, ou plutôt plus haut.
+Ce n’était pas suffisant. En d’autres termes, la matière ne rend pas compte des plis et
+replis qui l’affectent. Voilà ; je redeviens très clair ; je redeviens limpide. La matière ne
+rend pas compte des [132 :00] plis et replis qui l’affectent, c’est-à-dire le concours des
+corps effectue la courbure ; le concours des corps effectue la courbure, mais n’en rend
+pas compte. Il faut que la courbure renvoie à une libre spontanéité. Cette libre spontanéité
+sera déterminée comme la spontanéité du point comme point de vue. Mais pour le
+moment, on ne comprend même pas ça ; on peut dire juste que cette spontanéité
+s’exprime directement dans l’inflexion et les séries qui en sortent. En d’autres termes,
+que ce sont les plis de l’âme [qui] citent l’inflexion comme libre spontanéité – je
+l’assimile [133 :00] précisément aux plis de l’âme ou à l’élément génétique du pli – je
+peux dire que ce sont les plis de l’âme qui seuls rendent compte de la genèse idéale des
+formes, et que les plis et replis de la matière présupposent cette seconde région de
+plissement de plis et de replis. Sentez qu’on tend vers une espèce de transformation
+absolue des notions d’objet et de sujet.
+
+Bon. C’est quand même confus, ça. Est-ce que vous avez compris un peu, ou pas du
+tout ? Parce qu’il faut que je me rende compte s’il faut que je recommence la prochaine
+fois. … Mais si vous ne me dites rien, je ne saurai pas si vous avez compris ou pas
+compris. … Ça m’est égal, moi, mais ce que je voudrais c’est de savoir si… Je veux dire,
+[134 :00] j’ai l’impression que ce n’est pas très compréhensible toute la fin, mais… [La
+voix d’un étudiant] C’est que je suis dans une mauvaise situation : je suis bien forcé de
+présupposer certaines choses de Leibniz, alors je n’en arrive pas. Je me suis pris… [Fin
+de l’enregistrement et la séance] [2 :14 :17]

@@ -1,0 +1,1313 @@
+1
+
+Gilles Deleuze
+
+Sur Foucault
+
+2ème partie : Pouvoir
+
+15ème séance, 11 mars 1986
+
+Transcription : Annabelle Dufourcq (avec le soutien du College of Liberal Arts, Purdue
+University) ; révisions supplémentaires et l’horodatage, Charles J. Stivale
+
+Partie 1
+
+[Bruits des étudiants et quelques mots vagues de Deleuze] … Je commence par, activité
+délicieuse, une autocritique. Parce que j’étais vraiment mécontent de la seconde partie de notre
+séance précédente. Alors qu’est-ce qui a fait tout d’un coup que ça n’allait plus ? Evidemment,
+ça [1 :00] n’était pas votre faute, c’était la mienne. Remarquez, c’est le charme des cours ; on
+croit tenir très bien quelque chose, et puis ça ne passe pas, ça se défait. Tous ceux qui font des
+cours ont dû avoir cette expérience. Parfois, heureusement, c’est l’inverse. On croit ne pas tenir
+quelque chose, et ça passe et ça se forme à mesure qu’on parle. C’est curieux, ça ; mais enfin,
+moi, j’étais plutôt..., dans notre seconde partie de la dernière fois, j’étais plutôt sur la versant
+inverse.
+
+Je croyais bien tenir et puis, rien du tout. Ça déraillait, ça déraillait. Alors je me suis dit :
+pourquoi ? Quand même, pourquoi ? Qu’est-ce qui s’est passé, dans cette seconde moitié ? La
+première moitié, pour moi, allait. Là aussi le charme des cours -- je vous le signale mais vous le
+savez tous -- c’est que [2 :00] celui qui fait un cours n’a pas tout à fait le même point de vue que
+celui qui l’écoute. Au point que, dans la mesure où je fais un cours, ce qui est moment fort pour
+moi, pour beaucoup d’entre vous, peut très bien être, au contraire, un moment faible et
+inversement, ce qui sera moment fort pour vous, pour moi ce sera... Je crois que c’est ça qui rend
+l’activité du cours intéressante et pas du tout du même type qu’un livre et lire un livre.
+
+Mais, enfin, bon, je me disais : qu’est-ce qui s’est passé pour que je déraille comme ça et que je
+ne tienne plus mon fil ? Et je me suis dit que j’avais peut-être tenté..., [3 :00] que c’était peut-être
+ça qui m’avait perdu, j’avais tenté de systématiser quelque chose que Foucault n’avait pas voulu
+systématiser, et que donc j’avais énormément durci les positions qui..., pour des raisons que je
+vais essayer de chercher, des positions qui étaient, chez Foucault, toutes en souplesse, toutes en
+évocation et que moi j’avais trop voulu en faire des concepts, des concepts très assignables, et
+que, à ce moment-là, ça avait été un durcissement qui avait fait que je ne pouvais plus couvrir
+l’ensemble des textes auxquels je pensais. C’est-à-dire que ce n’est pas d’avoir systématisé qui
+était mauvais, c’est d’avoir systématisé au moment où il ne fallait pas, sur les [4 :00] points où il
+ne fallait pas.
+
+                                                                                                   2
+
+D’où, cette fois-ci, un certain nombre de choses tenaient dans ce que j’ai dit, il me semble, la
+dernière fois, enfin pour moi, ce sera à vous, après, de dire votre avis... Un certain nombre de
+choses tenaient et d’autres ne tenaient pas. Donc, là, je suis forcé de reprendre parce qu’on ne
+peut pas rester sur une telle bouillie comme celle de la dernière fois. Je suis forcé de reprendre en
+essayant de, de mieux marquer là où on peut systématiser, là où, au contraire, il faut laisser des
+espèces de courants très fluides. [Pause] C’est si fluide, [5 :00] même -- à cet égard, pas
+toujours, mais sur le point où on en est -- la pensée de Foucault est parfois si fluide, que, dans
+mon commentaire, j’ai parfois l’air de contredire la lettre même de Foucault. Par exemple,
+Foucault parle de temps en temps de l’infini de la vie. Moi, j’insiste au contraire beaucoup sur
+ceci que, dans la pensée de Foucault, la vie est une force de finitude. Je ne crois pas que ce soit
+grave, par exemple, quand il parle de l’infini de la vie, c’est dans une phrase qui implique que, en
+vertu du contexte, on peut en un certain sens parler de l’infini de la vie, mais ça n’empêche pas
+que, dans sa force la plus fondamentale, la vie est finie, [6 :00] il y a une finitude de la vie.
+
+C’est donc tout ça qu’il faut, là où il y a simple expression souple, là où au contraire, quand
+l’expression devient très catégorique, c’est tout ça qu’il faut, il me semble, distinguer. Et, la
+dernière fois, je ne me suis pas donné les moyens d’opérer cette distinction. Donc, encore une
+fois, la nécessité de reprendre certains points et d’être, ouais... [Comme la séance qui précède,
+les propos dans cette séance correspondent assez exactement à l’annexe du livre de Deleuze,
+Foucault, chapitre en appendice qui s’intitule « Sur la mort de l’homme et le surhomme », divisé
+entre les segment suivants : « I – Formation historique ‘classique’ » pp. 131-134, « II – La
+formation historique du XIXe siècle » pp. 134-137, et « III – Vers une formation de l’avenir » pp.
+138-141. On peut ainsi suivre chaque partie de cette séance à partir de ces trois segments plus
+concis publiés dans le livre dont ce séminaire sera le résultat.]
+
+Or il y a une chose qui subsiste dans ce qu’on a fait la dernière fois. Ce qui subsiste c’est le
+problème général « rapport des forces aux formes ». Et ce rapport se présente de la manière
+suivante : [7 :00] les forces sont toujours un complexe, c’est-à-dire un ensemble de rapports de
+forces avec la force. Il y a toujours un rapport de forces au pluriel.
+
+D’où notre première question, c’est : une formation historique étant donnée, les forces dans
+l’homme – ça, je me suis expliqué là-dessus la dernière fois, ça vaut -- les forces dans l’homme
+entrent nécessairement en rapport avec des forces du dehors. Quelles forces ? Voyez : dans toute
+formation historique assignable, [8 :00] les forces dans l’homme entrent en rapport avec des
+forces venues du dehors. Mais, suivant la formation, elles n’entrent pas en rapport avec les
+mêmes forces. Donc les forces de l’homme entreront en rapport tantôt avec telles forces, tantôt
+avec telles autres forces venues du dehors. Si bien que, pour chaque formation historique, j’ai
+comme première question : avec quelles forces venues du dehors les forces « dans » l’homme --
+je dis bien « les forces dans l’homme » et pas les « forces de l’homme » -- les forces dans
+l’homme entrent- elles en rapport ?
+
+Deuxième question : une fois donné ce rapport de forces, quelle forme en découle ? [Pause]
+[9 :00] Quelle forme en découle ? Dans certains cas, ce peut être la forme homme. Je dirais, à ce
+moment-là, que la forme « homme » découle du rapport des forces dans l’homme avec d’autres
+forces venues du dehors, pas n’importes lesquelles. Ce qui implique que, dans d’autres cas, c’està-dire sur d’autres formations, les forces dans l’homme entrent en rapport avec d’autres forces
+
+                                                                                                      3
+
+venues du dehors, mais le composé [10 :00] est une forme qui n’est pas celle de l’homme, qui
+n’est pas l’homme.
+
+D’où, vous comprenez, d’après une telle méthode, il va de soi que la forme « homme » n’a pas
+toujours existé et n’existera pas toujours. La forme « homme », c’est le composé des forces dans
+l’homme avec des forces venues du dehors sur une certaine formation historique. Mais, sur
+d’autres formations historiques, la forme composée ne sera pas l’homme, ce sera autre chose. Et
+on en faisait l’expérience et, là, je résume, parce que ça tenait encore, on en faisait l’expérience
+déjà quand on se donnait la formation classique. [Pause] [11 :00] La formation classique, à l’âge
+classique, considère des forces dans l’homme, mais ces forces dans l’homme entrent en rapport
+avec quelles autres forces venues du dehors ? Je disais : elles entrent en rapport avec toutes les
+forces d’élévation à l’infini. Qu’est-ce que c’est que ça, une « force d’élévation à l’infini » ?
+
+Concrètement, ça veut dire quoi ? Peu importe où est cette force. Je dirais : peut-être c’est la
+force de la représentation. Et ce serait peut-être une définition possible de la représentation que
+de dire : représenter, c’est se donner la possibilité d’élever à l’infini. [Pause] [12 :00] Ce sera ça,
+la représentation. Au moins ce serait une définition ; c’est difficile de définir la représentation. Il
+faut voir si ce ne serait pas une définition possible, une définition valable : se représenter, c’est
+élever quelque chose à l’infini, ou saisir quelque chose que, dès lors, on se représente comme
+élevable à l’infini. Il n’y a pas une seule force d’élévation à l’infini, pourquoi ? Parce qu’il y a
+des ordres d’infini. On l’a vu la dernière fois, il y a un infini par soi-même, par exemple, qui ne
+peut pas être confondu avec quelque chose qui est seulement infini par sa cause. Il y a un
+infiniment grand, [13 :00] mais il y a aussi un infiniment petit, il y a des ordres d’infinitude. Ces
+ordres d’infinitude ne sont pas quelconques ; ils sont hiérarchisés.
+
+Pourquoi ? Puisqu’ils tendent vers l’infini le plus parfait, c’est-à-dire l’infini par soi-même. Et je
+disais : si vous essayez de définir la pensée du XVIIème siècle, il me semble que c’est ça.
+[Pause] La pensée du XVIIème siècle, c’est une pensée qui fondamentalement pense l’infini et
+les ordres d’infini. [14 :00] Et le problème de l’homme au XVIIème siècle, c’est : l’homme est
+perdu dans les ordres d’infini. Ça éclatera avec Pascal. Et je vous disais : là, et en effet, on va
+voir que dans la méthode de Foucault, c’est très important de rompre les fausses lignées. Quelle
+que soit la grandeur de Pascal pour nous aujourd’hui, il n’y a aucune raison de faire de Pascal à
+certains auteurs contemporains une lignée qui serait illégitime. L’angoisse pascalienne est une
+angoisse en rapport avec l’infini et les ordres d’infini. Où est l’homme dans tous ces ordres
+d’infini ? Où trouver une place pour l’homme si, [15 :00] chaque fois qu’on assigne une place,
+cette place se dérobe au profit d’un infini ? L’homme est décentré pour Pascal parce que,
+fondamentalement, il est pris dans des ordres d’infini, l’infiniment grand, l’infiniment petit.
+
+Quand je dis : lorsque les forces dans l’homme entrent en rapport avec des forces d’élévation à
+l’infini, qui sont très différentes les unes des autres, très diverses, mais qui convergent toutes vers
+Dieu, la forme composée par cet ensemble de forces -- forces dans l’homme et forces d’élévation
+à l’infini –, c’est quoi ? Ce n’est pas l’homme, [16 :00] c’est Dieu. La forme composée par cet
+ensemble de forces, c’est Dieu. D’où l’idée qu’à l’âge classique, la forme « homme » n’a
+strictement aucune place pour la simple raison que l’infini est toujours premier par rapport au
+fini. Elle a si peu de place que les forces dans l’homme ne se composent que pour composer
+autre chose que l’homme, puisqu’elles-mêmes entrent en rapport avec des forces qui l’élèvent à
+
+                                                                                                        4
+
+l’infini. Les forces dans l’homme, c’est l’entendement, la volonté, et voilà que les philosophes du
+XVIIème siècle vont [17 :00] nous dire : oui, mais l’entendement humain est fini ; si on l’élève à
+l’infini pour en dégager à l’infini, une fois dit que la perfection, c’est ce qui est élevable à
+l’infini, on a l’entendement divin qui, lui, est infini. Et l’entendement humain n’est qu’une
+limitation, l’entendement humain n’est qu’une limitation de l’entendement divin.
+
+D’où, à tous les niveaux de la pensée du XVIIème siècle, ce sera quoi ? Et c’est peut-être là ce
+que je n’ai pas su faire la dernière fois, dégager finalement ce qui était le concept essentiel ou ce
+qui allait se révéler comme le concept essentiel. Dire que les forces dans l’homme entrent en
+rapport avec des forces d’élévation à l’infini, c’est [18 :00] dire quoi ? C’est dire que tout ce qui
+se présente va se développer, va se développer, va se déployer, va se déployer à l’infini et de
+manière continue. Le savoir du XVIIème siècle va constituer des tableaux, tableaux dans
+lesquels vont prendre place..., tableaux continus, dans lesquels chaque chose, chaque être prendra
+sa place, dans une espèce de déploiement à l’infini. La pensée du XVIIème siècle serait
+fondamentalement une pensée du [19 :00] dépli, du déploiement, du développement.
+
+D’où : l’analyse des richesses va se développer en une espèce de tableau, le tableau des
+richesses. L’analyse du vivant va se développer en une espèce de tableau des caractères
+organiques qui vont former une série continue, la série continue suivant laquelle chaque vivant
+prend sa place. Et la continuité de la série [20 :00] est un caractère fondamental parce que c’est
+son ordre d’infini à elle, c’est son ordre d’infinitude à elle. Et j’insiste là-dessus que peut-être,
+alors, dans toute l’œuvre de Foucault, nous butons sur un mot que nous rencontrons
+constamment : l’idée ou l’hypothèse d’un dépli des choses et des êtres. Déplier, développer. Le
+dépli, c’est un mot qui revient constamment, constamment. [Voir surtout Foucault, pp. 133-134]
+
+Mais, là, au point où nous en sommes, vous voyez comment il s’inscrit dans la pensée du
+XVIIème siècle. [21 :00] La pensée classique déplie les choses et les êtres suivant des séries
+continues qui marquent l’ordre d’infinité propre aux créatures. Et on a souvent remarqué que, par
+exemple, l’histoire naturelle au XVIIème siècle ne se contente pas d’être systématique. Par
+« système », il faut entendre la répartition des identités et des différences dans le vivant. Qu’estce qui est identique ? Qu’est-ce qui est différent, etc. ? Mais le système lui-même [22 :00] se
+développe en série et la série, c’est quelque chose de différent qui consiste à ranger les vivants
+dans un ordre tel que, par petites différences, on passe de l’un à l’autre suivant un ordre de la
+continuité qui est un ordre de l’infinité de la créature, de l’infinitude de la créature. Donc le
+thème que, dès lors, l’analyse des richesses, l’histoire naturelle, l’analyse du discours ou
+grammaire générale, procèdera par de tels tableaux continus, prolongeables à l’infini. [23 :00]
+
+La pensée du XVIIème siècle est une pensée du déploiement et du dépli. On déplie les choses et
+les êtres et, par-là, en dépliant les choses et les êtres, on forme la série continue des choses et des
+êtres. Voilà, je ne voudrais pas en dire plus parce que tout ce que j’ai dit la dernière fois à cet
+égard me paraît valoir, et c’est cette notion de dépli qui me paraît fondamentale. Bien.
+Pourquoi ? On ne sait pas encore pourquoi elle doit être fondamentale. Je constate simplement
+que si l’idée du dépli apparaît lorsque Foucault analyse la pensée du XVIIème siècle, est-ce que
+c’est par hasard que le même mot apparaît dans de toutes autres occurrences et parcourt tout...,
+toute l’œuvre de Foucault ? [24 :00]
+
+                                                                                                        5
+
+Je passe alors à l’autre formation. Je dirais donc : les forces dans l’homme... La formule de l’âge
+classique selon Foucault, ce serait : les forces dans l’homme entrent en rapport avec des forces
+d’infinitude et, dès lors, toutes ensemble elles composent quoi ? Elles composent l’idée de Dieu
+et non pas la forme « homme ». Vous me direz, mais comment est-ce qu’on peut dire que Dieu
+est composé ? C’est comme ça que je corrige en disant « l’idée de Dieu ». Dieu sans doute est,
+comme le rappellent tous les auteurs du XVIIème siècle, Dieu est unité insondable. Mais
+justement, unité insondable, ça veut dire quoi ? Ça n’empêche pas que son idée soit composée.
+Qu’est-ce qui compose [25 :00] l’idée de Dieu pour un auteur du XVIIème siècle ? On sait la
+réponse : toutes les perfections élevables à l’infini. Tout ce qui est élevable à l’infini est
+rapportable à Dieu.
+
+En d’autres termes, Dieu est composé, ou plutôt l’idée de Dieu est composée par toutes les
+formes, comme ils disent -- c’est une expression de Leibniz lui-même -- par toutes les formes
+absolument prises, c’est-à-dire indépendamment de leurs limites. D’où problème pour le
+XVIIème siècle -- c’est intéressant de savoir pourquoi quelque chose était un problème à une
+époque et, peut-être, ne l’est plus aujourd’hui -- problème pour le XVIIème siècle : est-ce que
+l’étendue est une propriété, est un attribut de Dieu ? [Pause] Bon. [26 :00] La réponse, elle est
+simple. Ça dépend. Nécessairement ça dépend. Si vous pouvez extraire de l’étendue quelque
+chose d’infini, alors, oui, l’étendue est un attribut de Dieu. Si vous ne pouvez pas, c’est-à-dire si
+l’étendue est inséparable de sa limitation, si l’étendue ne jouit que d’ordres d’infinité inférieurs,
+par exemple l’indéfini, si elle ne jouit que d’ordres d’infinité inférieurs, elle ne peut pas être
+infinie par soi-même et, dès lors, elle n’est pas [27 :00] attribuable à Dieu.
+
+Si bien que ce serait stupide de dire : au XVIIème siècle certains auteurs attribuent l’étendue à
+Dieu et d’autres refusent d’attribuer l’étendue à Dieu. Ce qu’il faut dire, c’est que, au XVIIème
+siècle, tous les auteurs qui pensent qu’il y a dans l’étendue quelque chose d’infini à proprement
+parler l’attribuent à Dieu, tous ceux qui pensent que l’étendue est inséparable de sa propre
+limitation, refusent l’attribution à Dieu. Descartes refusera l’attribution à Dieu, mais
+Malebranche et Spinoza, de deux manières très différentes, qui découvrent dans l’étendue
+quelque chose d’infini par soi, c’est-à-dire un infini du premier ordre, l’attribuent nécessairement
+à Dieu. [28 :00] A ce moment-là, il s’agit d’une étendue indivisible, infinie, qui, dès lors, fait
+partie des attributs de Dieu. Voilà. Qu’est-ce qui se passe ? Vous m’interrompez, hein, s’il y a
+quelque chose qui ne va pas, parce que j’aimerais bien… une chose qui ne va pas ?
+
+Un étudiant : [Propos inaudibles]
+
+Deleuze : Quoi ?
+
+L’étudiant : [Quelques mots inaudibles] … on peut avoir aussi une forme qui est la forme de
+l’homme ?
+
+Deleuze : Pas dans ce cas-là, pas dans ce cas-là, dans une autre formation. Et avec d’autres
+forces.
+
+L’étudiant : quand on pense la force dans l’homme, on doit aussi penser une forme de l’homme
+parce qu’il puisse avoir…
+
+                                                                                                      6
+
+Deleuze : Non.
+
+L’étudiant : ... c’est ça que je ne comprends pas.
+
+Deleuze : Non, non. [29 :00] Sinon tout serait perdu. On a vu...
+
+L’étudiant : [Propos inaudibles]
+
+Deleuze : Eh non ! On ne présuppose pas ! Si, on présuppose, parce que tout est mélangé, bien
+sûr, on peut supposer... mais ce n’est pas ça ce qui compte. Ce qui compte, c’est la différence de
+nature entre le niveau des forces et le niveau des formes. Et ça, depuis le début, on l’a vu. Les
+forces, elles sont informelles. Alors quand je dis « les forces dans l’homme », ça a l’air de
+présupposer la forme « homme ». Non ! Je ne présuppose rien de la forme « homme » ; je
+considère juste des forces qui, en tant que telles, sont dites humaines. « Sont dites humaines »,
+vous me direz, ça suppose... Parce qu’elles ne sont pas dans les animaux. Elles sont, bon..., elles
+sont comme [30 :00] à tel endroit de l’espace des forces ; par exemple je dis : l’entendement, la
+volonté. Je ne présuppose rien d’une forme de l’homme, je prends l’entendement comme une
+force, je dis « c’est une force dans l’homme ». Le fait est que les animaux... bon, bon. Je prends,
+si vous voulez, je peux considérer l’homme comme..., à ce moment-là, si vous me dites « ça
+présuppose l’homme », non !
+
+Je définis l’homme comme un type de forces et uniquement un type de forces, et je demande :
+ces forces, par exemple entendement et volonté, que j’appelle forces dans l’homme ou forces
+humaines, parce qu’elles ne se présentent pas chez les animaux, parce qu’elles se distinguent,
+elles occupent dans le champ de forces, une certaine région, je dis : avec quelles autres forces
+est-ce qu’elles entrent en rapport ? [31 :00] Au XVIIème siècle, avec les forces d’élévation à
+l’infini, d’où : l’entendement ne sera qu’une limitation de l’entendement infini. Et, à ce momentlà, le composé, ce n’est pas l’homme, c’est Dieu. Vous voyez : forces dans l’homme + forces
+d’élévation à l’infini donnent comme composé la forme Dieu, la forme composée Dieu. Et si on
+me dit, là aussi, Dieu n’est pas composé. Je dis : oui, Dieu n’est pas composé, mais sa forme est
+composée, c’est-à-dire sa représentation est composée. Si je résumais tout, je dirais : le XVIIème
+siècle, c’est l’âge de la représentation… [Interruption de l’enregistrement] [31 :42]
+
+Partie 2
+
+… Passons à la formation, donc, suivante. XIXème siècle : qu’est-ce qui se passe ? Quelle
+mutations, puisqu’on a vu que tout rapport de forces [32 :00] impliquait une espèce de
+diagramme ? Le diagramme, c’est l’énoncé des rapports de forces, ça n’engage encore aucune
+forme. Il y a eu mutation du diagramme. Le diagramme de la pensée classique, c’est, encore une
+fois, force dans l’homme qui étreignent les forces d’élévation à l’infini. Dans la formation
+XIXème, qu’est-ce qui se passe ? Les forces dans l’homme vont se heurter et étreindre des forces
+de finitude. Qu’est-ce que c’est que ces forces de finitude ? Selon Foucault, elles sont triples : la
+vie, le langage, le travail. [33 :00]
+
+Vous me direz : mais la vie, le travail, le langage, ça existait au XVIIème siècle... Ce n’est pas ça
+la question. Ça existait, oui, mais le travail était dissous dans la série des richesses, dans le
+
+                                                                                                       7
+
+tableau des richesses. La vie était comme développée, dépliée, dans la série continue de l’histoire
+naturelle. C’est ça qui compte. Vous sentez tout de suite où je veux en venir. C’est que, là, on va
+se trouver devant quoi ? Le phénomène inverse, la catégorie inverse. Toute la pensée du [34 :00]
+XIXème va être une pensée du fini, du repli. Les forces dans l’homme se replient sur les forces
+de finitude. Elles se rabattent sur les forces de finitude. Il se produit une pliure, un plissement.
+Les forces dans l’homme se replient autour des forces de finitude. Elles se replient, elles se
+rabattent sur les forces de finitude. Si j’insiste là-dessus, c’est que, non moins fréquent que le
+mot « dépli » chez Foucault, vous trouvez, dans toute [35 :00] son œuvre, « pli », « pliure »,
+« pliage ». C’est un autre pôle.
+
+Mais, sans doute, comme c’est constant dans tous ses livres, c’est la base de toutes ses
+métaphores. Je crois : les métaphores de Foucault ont comme... ont vraiment comme matrices le
+dépli et le pli. Pourquoi est-ce que ça m’importe ? Pour des raisons qu’on ne peut pas
+comprendre encore maintenant. Car vous sentez bien que ce sera là un moment nécessaire d’une
+confrontation à venir quand on se demandera : quels sont les rapports au juste FoucaultHeidegger ? Car il y a longtemps que la pensée heideggérienne [36 :00] a été présentée comme
+une pensée du pli. Et qu’est-ce que l’être selon Heidegger ? Ben, l’être, c’est précisément le pli.
+C’est le pli de l’être et de l’étant. L’être est indissociable, inséparable du pli qu’il forme avec
+l’étant. Qu’est- ce que c’est que ça ? Chez Heidegger, c’est fondamentalement lié à la découverte
+d’une finitude constituante.
+
+Donc c’est ici qu’on a pour la première fois l’occasion de marquer l’importance chez Foucault de
+ces termes « pli » et « dépli » et, sans doute, de pressentir que leur enracinement chez Foucault,
+est très différent au point de départ de ce qui se passe chez Heidegger. [37 :00] Mais c’est là que,
+petit à petit, on sera amené à procéder à une confrontation. Mais ce n’est pas notre objet pour le
+moment. Vous voyez, je m’en tiens à ceci : la pensée du XIXème siècle serait caractérisée par
+ceci : c’est que, au lieu que les forces humaines, les forces dans l’homme, se déplient en tant
+qu’elles entrent en rapport avec des forces d’élévation à l’infini, là, au contraire, les forces dans
+l’homme se plient, se replient, se rabattent en tant qu’elles entrent en rapport avec des forces de
+finitude : vie, travail, langage. La triple racine de la finitude, la force de l’homme entoure comme
+une hélice, [38 :00] entoure cette triple racine de la finitude.
+
+Or, c’est..., c’est là que, la dernière fois, j’insistais, et, là, c’était encore bon. Je veux dire : ça
+allait encore. J’insistais dès lors sur l’importance de bien considérer que, pour Foucault, les
+forces de finitude, la vie, le travail, le langage, se présentent comme extérieures à l’homme. De
+même que la force d’élévation à l’infini n’était pas une force dans l’homme, mais était extérieure
+à l’homme, de même les forces de finitude, la vie, le langage, le travail, sont extérieures à
+l’homme. Il s’impose à l’homme du dehors sur telle formation. [39 :00] Le travail, c’est la peine
+et le temps ; c’est une force imposée à l’homme. Le langage, c’est une force involontaire, une
+force imposée à l’homme. Pour la vie, ça va de soi.
+
+Donc, je disais : c’est ça la nouveauté de Foucault, au niveau de cette formation du XIXème, car
+vous trouvez un peu partout -- et ça préexiste à Foucault -- l’idée que, en effet, la révolution du
+XIXème siècle, la révolution de pensée du XIXème siècle, c’est quoi ? Encore une fois : avoir
+substitué à l’infini l’idée d’une finitude [40 :00] constituante. Ce n’est pas l’infini qui est
+originaire, c’est la finitude qui est constituante. Je vous disais : c’est la révolution kantienne.
+
+                                                                                                         8
+
+L’entendement humain n’est pas une simple limitation d’un entendement divin qui serait
+originaire ; l’entendement humain, en tant que fini, est constituant. Donc je peux dire que,
+suivant un schéma classique, on définit la révolution du XIXème par la substitution à l’infini
+originaire, d’une finitude constituante.
+
+Pourquoi Foucault ne s’en tient-il pas à ce schéma et pourquoi est-ce qu’il le renouvelle ?
+[41 :00] Ben moi, j’ai l’impression que ce schéma classique, « substitution de la finitude
+constituante à l’infini originaire », il est très intéressant, mais il nous laisse dans le vague sur :
+qu’est-ce qui a entraîné à tel moment cette révolution ? Pourquoi est-ce que, tout d’un coup,
+l’homme prend conscience, non pas de sa finitude – ça, il en avait toujours conscience, même au
+XVIIème siècle, c’était même son angoisse et son malheur -- mais pourquoi est-ce que l’homme
+prend tout d’un coup conscience que sa finitude est constituante ? C’est-à-dire qu’elle n’est pas
+la limitation d’un entendement divin, mais qu’elle est, au contraire, le fondement du monde
+habité par l’homme et de la connaissance effectuée par l’homme. [42 :00] Je crois que la raison,
+elle est..., elle est très simple. C’est précisément celle que Foucault indique. Mais, si vous
+comprenez bien, c’est pour ça qu’il fallait à tout prix, c’est pour ça qu’il était nécessaire de bien
+montrer que les forces de finitude n’étaient pas dans l’homme, mais que l’homme les rencontrait
+comme des forces venues du dehors. C’est parce que l’homme se heurte, à la fin de l’âge
+classique, à des forces de finitude, c’est-à-dire découvre la vie, le travail, le langage, c’est parce
+qu’il se heurte à ces forces extérieures, [43 :00] qu’il va prend conscience de sa propre finitude à
+lui, homme.
+
+Donc ce que le schéma classique laissait sans explication, Foucault donne une explication par...,
+dans la mesure où il distingue deux moments. Les deux moments, c’est quoi, encore une fois ?
+Les deux moments c’est : premier moment, les forces dans l’homme se heurtent à la triple racine
+de la finitude, c’est-à-dire aux forces de finitude extérieures, vie, travail, langage ; deuxième
+moment : l’homme fait sienne cette finitude.
+
+Vous voyez qu’il était très important pour Foucault de distinguer deux moments dans l’analyse
+de la formation XIXème siècle, [44 :00] pour expliquer pourquoi, à ce moment-là, la finitude de
+l’homme devient constituante. Ce qui revient à dire, en effet : lorsque l’homme, lorsque les
+forces dans l’homme, lorsque les forces dans l’homme rencontrent comme forces extérieures,
+comme forces venues du dehors, des forces de finitude, et non plus d’élévation à l’infini, alors, et
+alors seulement, la forme composée c’est l’homme. Ce n’est plus Dieu, c’est l’homme. Les
+forces dans l’homme se heurtent aux forces de finitude : le composé qui correspond à cette
+nouvelle combinaison, à ce nouveau diagramme, c’est la forme « homme ». [45 :00] J’ai le
+sentiment que c’est difficile. Je ne sais pas si c’est difficile. C’est la dernière fois qu’on a à faire
+des choses abstraites. Après, c’est, c’est... Donc c’est pour vous convier à un dernier effort.
+
+Sur un exemple privilégié, je voudrais vérifier cette histoire du dépli et du pli. Naissance de la
+clinique, si j’avais à résumer..., je tiens surtout à ne pas vous épargner la lecture, hein ? [46 :00]
+Donc je résume juste. Qu’est-ce que ce serait le résumé du livre de Foucault Naissance de la
+clinique ? La distinction de deux formations : la clinique, qui correspond à l’âge classique, et
+l’anatomie pathologique, qui correspond au XIXème. Comment définir la clinique ? C’est la
+constitution, au niveau des maladies, qui sont traitées comme des espèces, la constitution d’un
+tableau, d’un tableau continu qui met en place la série des signes et des symptômes. [47 :00]
+
+                                                                                                        9
+
+Dépliement, déploiement d’un tableau des signes et des symptômes à la surface du corps. Et le
+thème de la surface du corps est fondamental dans toute la clinique. Il faut que les maladies, là,
+se déclarent à la surface du corps, prises dans un tableau qui va marquer la continuité des signes
+et des symptômes. La clinique est fondamentalement le dépli, le dépli des maladies. [Pause]
+
+Et voilà que, au XIXème siècle, qu’est-ce qui se passe ? Il y a découverte des tissus, la notion de
+tissu domine, va être la grande [48 :00] notion sur laquelle va se fonder l’anatomie pathologique
+qui va remplacer la clinique. Et l’anatomie pathologique donne ou redonne une profondeur au
+corps, grâce à quoi ? Grâce au plissement des tissus, le tissu, c’est ce qui se plie. A la limite,
+c’est presque la naissance d’un espace topologique en médecine. Les tissus se plient et les
+pliements, les pliages des tissus redonnent une profondeur au corps et, à la maladie, un volume.
+Et Foucault y voit deux moments très [49 :00] différents du regard médical. Le regard en surface
+de la clinique qui constitue ses tableaux, le regard en profondeur de l’anatomiste pathologiste,
+qui suit les pliements de tissus de telle manière qu’il fouille la profondeur du corps. Comme dit
+Foucault, qu’est-ce que vous voulez faire de l’autopsie empirique ? Ce n’est pas qu’on ne connaît
+pas l’autopsie, on la connaît, elle existe depuis tellement longtemps, l’autopsie, mais qu’elle soit
+dévalorisée, qu’elle soit secondarisée, ça va de soi, du point de vue de la clinique. Elle reprend
+toute sa force et va conquérir [50 :00] de nouveaux pouvoirs avec l’anatomie pathologique.
+Fouiller la profondeur du corps : encore fallait-il qu’il y ait des tissus capables de se plier et, dès
+lors, de se déplier bien sûr. Là, dans Naissance de la clinique, je remarque aussi que la grande
+majorité du livre est constituée sur des métaphores, non seulement des métaphores, mais sur des
+métaphores et des concepts de pli et de dépli. La pensée du dépli caractérisant la formation du
+XVIIème siècle et la pensée du pli caractérisant la formation XIXème. Bien.
+
+Alors, donc, il y a deux moments nécessaires dans la formation XIXème. [51 :00] La rencontre,
+mais terrible, la terrible rencontre de l’homme avec les forces de finitude : premier moment.
+Deuxième moment : la manière dont l’homme s’approprie ces forces de finitude et s’érige luimême en finitude constituante. J’insiste sur ceci alors que le schéma traditionnel nous disait
+seulement : la finitude constituante remplace l’infini. Foucault transforme en distinguant les deux
+moments et je crois que cette transformations est très importante, on va voir les conséquences.
+Bon, est-ce que ce second point va ? [52 :00] Ça va ? Bien.
+
+Alors on va voir un peu lorsque les forces dans l’homme s’enroulent autour des forces de
+finitude, lorsqu’elles se rabattent sur les forces de finitude vie, langage etc., qu’est-ce qui se
+passe ? Je veux dire : mettons en rapport quels troubles ça introduit dans la pensée du XVIIème.
+Pourquoi est-ce que la pensée du XVIIème, dans sa spécificité, ne peut pas survivre, ne peut pas
+survivre à cette épreuve ? On va voir, là, quitte même à ce que je laisse [53 :00] Foucault sur
+certains points, c’est-à-dire je me serve d’auteurs qu’il ne cite pas, bien que je sois très sûr que,
+et c’est évident, qu’il les connaisse très bien. Mais il ne dit pas tout ce qu’il sait.
+
+Donc j’essaierai de faire intervenir parfois des auteurs... tout ça, pour justement que ça ne vous
+empêche pas la lecture. Je ne prétends pas donner un résumé. Je dis juste ceci : on va voir sur
+trois points. Le XIXème siècle va être la naissance de la biologie, force finie de la vie,
+découverte de la force finie de la vie, de l’économie politique, découverte de la force finie du
+travail, et de la philologie, découverte de la force finie du langage. Le thème explicite de
+Foucault, c’est qu’au XVIIème siècle, il ne pouvait [54 :00] pas y avoir de biologie, il ne pouvait
+
+                                                                                                     10
+
+y avoir qu’une histoire naturelle ; il ne pouvait pas y avoir d’économie politique, il ne pouvait y
+avoir qu’une analyse des richesse ; et il ne pouvait pas y avoir de philologie, il n’y avait et il ne
+pouvait y avoir qu’une grammaire générale. Au point où on en est, ça, vous pouvez le
+comprendre. Si j’appelle biologie, en effet, la science qui se fonde sur la finitude de la vie, je
+crois que c’est une définition correcte ; si j’appelle économie politique la science qui se fonde sur
+la finitude du travail, tout ça ne pouvait pas [55 :00] apparaître au XVIIème siècle qui, lui, au
+contraire, développait, dépliait des tableaux à l’infini : tableau des richesses, tableau des
+caractères organiques, etc. Il y avait place pour l’histoire naturelle, il n’y avait pas place pour la
+biologie.
+
+Ben, essayons de repérer, dans la naissance de la biologie, les deux moments. C’est autour... Le
+premier moment, c’est autour de [Antoine de] Jussieu, célèbre spécialiste des plantes, et
+d’autres... Bon. Qu’est-ce qui se passe ? D’une certaine manière, ils pensent encore en termes du
+XVIIème, à savoir [56 :00] la série des plantes, la grande série continue des plantes ou même la
+grande série animale où l’on passera d’espèce à une autre espèce, de genre à un autre genre, de
+classe à une autre classe etc. par transition continue. Tableau des êtres vivants développable à
+l’infini. Question immédiate : qu’est-ce qui les empêche, au XVIIème siècle, d’être
+évolutionnistes, c’est-à-dire affirmer qu’il y a une histoire qui nous fait passer d’un terme de la
+série au terme suivant ? Comprenez qu’il faut même renverser la question : ça ne se pose même
+pas. [57 :00] C’est la série elle-même qui les empêche d’être évolutionnistes. Il n’y a pas
+d’histoire du vivant, il y a une histoire naturelle, il y a une histoire de la nature.
+
+L’histoire de la nature, elle consiste en quoi ? Ben, elle consiste dans le développement d’une
+série où chaque élément, chaque terme de la série a sa place et chaque place a un terme. L’idée
+même qu’un terme puisse passer dans un autre est une idée strictement dénuée de sens du point
+de vue de la série. Le développement des êtres vivants en série continue exclut toute histoire par
+laquelle un vivant évoluerait [58 :00] ou une espèce se changerait en une autre espèce. La série,
+c’est l’ordre des places de chaque espèce dans la continuité, dans la continuité de la nature ; il
+n’y a aucune place pour une histoire, c’est le point de vue sériel qui exclut l’histoire.
+
+Or, autour de Jussieu, qu’est-ce qui se passe ? On attache de plus en plus d’importance... Ce n’est
+pas que c’était pas connu avant, c’était déjà connu chez [Carl von] Linné, représentant de
+l’histoire naturelle classique, hein, mais on attache de plus en plus d’importance à deux faits :
+que les caractères organiques, dans une même espèce..., que les caractères organiques sont
+coordonnés les uns aux autres dans une espèce [59 :00] et qu’ils sont hiérarchisés, c’est-à-dire
+qu’il y a un caractère, par exemple, dans une espèce, plus important que les autres et qui, d’une
+certaine façon, détermine les autres. Par exemple... et on fait intervenir à ce moment-là le point
+de vue des fonctions. Ce qui est le plus important dans les plantes, c’est la fonction de
+reproduction. La fonction de reproduction s’exprimera dans le caractère organique cotylédon ou
+absence de cotylédon ou deux cotylédons. Bien.
+
+On peut mettre ça en série, mais [60 :00] ce caractère, étant plus important que les autres, va
+déterminer d’autres caractères qui lui sont corrélatifs. Il y aura à la fois corrélation de caractères,
+au niveau d’une espèce, et primat d’un caractère sur les autres. Corrélation et hiérarchie. Pour
+l’animal, certains pensent que ce qui est essentiel, le caractère dominant, c’est la fonction
+alimentaire. Si la fonction alimentaire est dominante, les dents vont être un caractère principal,
+
+                                                                                                   11
+
+mais n’importe quel caractère ne peut pas se lier à n’importe quel autre. Un type de dents
+entraînera un type de muscles, un type d’estomac, [61 :00] un type d’intestin. Il y a donc à la fois
+coordination et subordination des caractères, coordination et subordination des caractères au
+niveau des espèces.
+
+Comprenez : à mesure que ce point -- qui était déjà connu, encore une fois, dans la série du
+XVIIème -- mais à mesure que ce point passe au premier plan, la série est fracturée. La série est
+fracturée, c’est-à-dire tout se passe comme si les termes de la série étaient -- là je pèse mes mots
+-- étaient attirés par une profondeur, et la série se trouve vraiment, là, fracturée à chaque fois.
+Vous n’avez plus ou vous tendez à ne plus avoir une série de caractères en continuité les uns
+avec les autres et sans évolution, [62 :00] chaque être ayant une place et chaque place ayant un
+être bien fixe, pas d’histoire ; là, au contraire, les caractères, dans une espèce, se coordonnant et
+se hiérarchisant, forment une espèce de poids qui va fracturer la série et entraîner comme chaque
+vivant -- mais qu’est-ce que signifie « chaque vivant » ? -- dans une profondeur qui n’est plus
+sériale. Si je faisais un dessin, mais, vous voyez... ah, je ferais ma série, là, comme ça, et puis à
+chaque moment où vous faites valoir la coordination et la subordination des caractères, ça fait
+comme une espèce de remous, là, qui va comme fracturer la série, faire descendre en profondeur
+le vivant, c’est-à-dire qui va révéler [63 :00] ce qui va apparaître comme une nouvelle
+dimension.
+
+Si bien que, en un sens, l’idée d’une continuité développable en série est fondamentalement
+menacée dans ce premier moment. A la série de surface, s’oppose ou commence à s’opposer une
+tout autre approximation du vivant où le vivant quitte la surface et s’enfonce, s’enfonce, suivant
+quoi ? suivant son poids de caractères coordonnés et hiérarchisés, il va échapper à la série. La
+série est… C’est le mot qu’emploie Foucault : [64 :00] "Jussieu fracture la série". Avec un
+paradoxe qui est très important, il y aura tous les efforts pour sauver la série continue. Alors, en
+effet, à l’époque de Jussieu et Jussieu encore imagine des séries ramifiées. La série ramifiée,
+c’est... avec des discontinuités, avec des rameaux.
+
+Donc la série se complique infiniment. Ou bien, alors, une manière prodigieuse de tenter de
+sauver la série, ce sera quoi ? Y injecter de l’histoire. Vous voyez, c’est ça qui est très important
+dans l’analyse de Foucault parce que ça concerne sa méthode. Toute sa méthode d’analyse
+[65 :00] et notamment sa méthode concernant les énoncés, on le verra plus tard, on va le voir tout
+à l’heure. La série répugnait fondamentalement à l’histoire. Encore une fois, chaque être y avait
+sa place fixe, chaque place était pour un être déterminé et il n’y avait pas de passage de l’un à
+l’autre. Mais quand la série connaît ces fractures, bizarrement un moyen pour essayer de sauver
+la série ça va être d’y injecter de l’histoire, sous quelle forme ? En découvrant une force de vie
+qui se définirait comment ? Comme une tendance [66 :00] à une composition de plus en plus
+différenciée, tendance de la vie à composer des organismes de plus en plus différenciés, c’est-àdire des organismes dans lesquels les caractères présentent un maximum de corrélations et de
+subordinations.
+
+Force organisatrice de la vie qui va parcourir la série pour produire des organismes de plus en
+plus complexes, c’est-à-dire aux caractères coordonnés et subordonnés, et c’est quoi ça ? C’est
+[Jean-Baptiste] Lamarck. Je vais très vite, parce qu’il ne s’agit pas pour moi du tout de résumer
+la pensée de Lamarck, ce qui m’intéresse, c’est la manière dont Foucault situe Lamarck. [67 :00]
+
+                                                                                                    12
+
+Comprenez qu’il situe Lamarck, et la première apparition réelle, enfin la première apparition
+incontestable d’un évolutionnisme, il le situe comme : Lamarck pense encore le vivant sous les
+espèces du développement en série -- en ce sens c’est un homme qui appartient encore au
+XVIIème siècle, à l’âge classique -- et, devant les dangers, devant les menaces qui pèsent à son
+époque sur l’idée de série, il sauve la série en faisant de la vie une force historique, en définissant
+la vie comme une force organisatrice qui ne cesse de produire des organismes de plus en plus
+différenciés ramassant, [68 :00] chacun à sa place, un maximum de caractères coordonnés et
+subordonnés. Si bien que c’est très curieux oui, d’un certain côté -- et il faut dire ça de tous les
+penseurs -- d’un certain côté, ils appartiennent à un âge ; d’un autre côté, ils appartiennent à un
+autre âge. Lamarck appartient pleinement à l’histoire naturelle et, pourtant, il introduit dans
+l’histoire naturelle ce à quoi celle-ci répugnait le plus, à savoir un processus historique.
+
+Mais pourquoi introduit-il ce processus historique ? Pour sauver la série, si bien que Foucault, là,
+excelle, c’est constant chez lui, excelle dans le résultat suivant et ça fait partie [69 :00] de sa
+théorie des énoncés, vous sentez déjà : pas question d’établir une lignée de Lamarck à Darwin.
+Ils n’appartiennent pas à la même formation. Je dis que ça appartient à sa conception de
+l’énoncé, parce que des énoncés apparemment semblables appartiennent en fait à des familles
+complètement différentes. On va voir, en effet, que Darwin c’est..., c’est un autre sol, comme
+dirait Foucault, un autre sol archéologique. Le lamarckisme ne peut se comprendre que sur le sol
+de la série continue. Or ce sol de la série continue, il vient tout droit du XVIIème siècle et le
+lamarckisme, tout comme, d’une autre manière, Jussieu exprime simplement les troubles que
+cette série continue éprouve dans un [70 :00] premier moment. Donc, si je résume le premier
+moment au niveau de la biologie, je dirais : eh ben oui, la série tend à se fracturer au profit d’une
+profondeur sur laquelle le vivant va se replier, se rabattre. [Pause ; Deleuze se déplace]
+
+Si je fais un schéma tout simple : voilà ma série continue [Deleuze écrit au tableau] qui excluait
+l’histoire puisque chaque être de la série était fixe [71 :00], et puis, là, à mesure que prend de
+plus en plus d’importance la coordination et la subordination des caractères au niveau d’un
+terme, au niveau d’une espèce, la série va être fracturée, c’est-à-dire il va y avoir comme une
+réorganisation en profondeur, découverte d’une profondeur et la vie n’est plus cherchée dans le
+mouvement qui parcourt la série continue, elle est cherchée en profondeur dans le mouvement
+par lequel le vivant se replie, se rabat dans cette profondeur, sur cette profondeur. En d’autres
+termes, ce que le premier moment introduit, c’est quoi ? C’est le concept fondamental
+d’organisation, l’organisation [72 :00] étant la corrélation et la subordination des caractères. Ça,
+c’est le premier moment.
+
+Deuxième moment : le grand Cuvier. Le grand Cuvier. Le grand Cuvier, qu’est-ce qu’il fait, lui ?
+A première vue, ça n’a l’air de rien. Substituer à « organisation » « plan d’organisation ». Plan
+d’organisation. L’acte fondamental de Cuvier, c’est-à-dire l’énoncé de base dont, peut-être, tout
+le reste dans Cuvier dépend, c’est l’idée qu’il y a des plans [73 :00] d’organisation de la vie.
+Qu’est-ce que c’est un plan d’organisation ? C’est le second moment. On ne découvre plus des
+centres d’organisation qui menacent la série ; on découvre des plans d’organisation qui font qu’il
+n’y a plus de série, que toute série est impossible. Cuvier découvre ce qu’il appelle des
+embranchements, les grands embranchements de la vie. A première vue, on pourrait se dire : bon
+et ben il recule toujours vers une généralité croissante. C’est-à-dire, au-delà de l’espèce, il y a
+des genres, au-delà des genres il y a des classes, etc.
+
+                                                                                                     13
+
+Eh ben, lui, [74 :00] il va encore plus haut, il marque des embranchements. Pas du tout. Ce serait
+un contresens, car l’embranchement est un concept d’une tout autre nature, c’est un concept qui
+n’est pas du tout sur la même ligne que les autres, puisque, au contraire, il va rendre inutile les
+classifications, il va mettre en question la classification. Qu’est-ce que c’est l’idée de
+l’embranchement ? C’est l’idée que la vie est inséparable de plans d’organisation exclusifs les
+uns des autres. C’est important ça, pourquoi ? Ça consiste à dire que la vie n’est pas seulement
+une force organisatrice, comme Lamarck disait, [75 :00] une force d’organisation, c’est une force
+dispersive.
+
+La finitude de la vie, c’est sa force dispersive. La vie procède suivant un petit nombre de plans
+d’organisation irréductibles les uns aux autres et exclusifs les uns des autres. Cuvier en distingue
+quatre -- il variera beaucoup, mais quatre reste un chiffre sacré -- vertébrés, mollusques,
+articulés, zoophytes. Les critères des embranchements... Il variera aussi dans toute son œuvre.
+[76 :00] Vers la fin, il pense que le caractère fondamental qui définit les embranchements, c’est
+le système nerveux, mais que le système nerveux est susceptible justement de quatre
+organisations, de quatre plans, de quatre plans d’organisation. Dans le cas des vertébrés, c’est :
+cerveau et moelle enfermés dans une enveloppe osseuse ; autre plan : des masses nerveuses
+éparses, parmi les viscères, disséminées parmi les viscères et réunies les unes aux autres par des
+filets. Masses réunies par des filets. [77 :00] C’est une tout autre organisation que l’organisation
+vertébrée. Troisième plan : deux cordons ganglionnaires qui s’unissent à deux ganglions
+principaux au-dessus de l’œsophage.
+
+Quatrième : la masse nerveuse est très peu discernable du reste, tendance à l’indistinction. Bon.
+L’idée de Cuvier, c’est : on ne passe pas d’un plan à un autre. Comprenez, et là, ça m’importe
+beaucoup : le vivant va se définir [78 :00] par quoi ? La manière dont il se plie suivant tel ou tel
+plan, et c’est ça qui est étonnant chez Cuvier, je crois. Un artiste de la pliure. Vous allez voir ce
+que ça engage dans la biologie naissante. Le vivant se définit par la manière dont il se plie
+suivant tel ou tel plan d’organisation, c’est ça la finitude de la vie. Il n’y a pas de vie dépliée. En
+d’autres termes : finie la série ! Les embranchements ne s’ajoutent pas aux séries comme des
+concepts plus généraux, les embranchements rendent caduque toute mise en série continue…
+[Interruption de l’enregistrement] [1 :18 :55]
+
+Partie 3
+
+… vous, [79 :00] embryon de vertébré, ben vous ne vous êtes pas pliés, vous ne vous êtes pas
+orientés dans votre embryogénèse de la même manière qu’un embryon d’insecte. Et, entre ces
+différents plans, il y a un fossé irréductible, c’est-à-dire chaque vivant est enfoncé dans la
+profondeur de son propre plan et replié sur son plan. Vous voyez que la série, là, est
+complètement cassée, c’est le second moment. Alors va commencer une période de la biologie,
+tout à fait à la naissance de la biologie, d’une richesse extrême, et très gaie, très gaie, bien que
+considérée d’un très mauvais œil, c’était une biologie pleine de polémiques, ça n’a pas cessé
+maintenant, mais c’était des polémiques qui doivent nous toucher encore et dont on aurait tort de
+croire qu’elles sont dépassées.
+
+Car vous voyez tout de suite où je veux en venir [80 :00] si je vous raconte toutes ces histoires de
+pli, j’ai plusieurs arrière-pensées : fonder la comparaison de Foucault avec Heidegger, bien sûr,
+
+                                                                                                     14
+
+mais aussi, peut-être, que vous soyez moins étonnés si on arrive à la conclusion que, par
+exemple, quels sont les problèmes fondamentaux aujourd’hui concernant le code génétique et la
+microbiologie sinon la manière dont les chaînes du code génétique se plient et se déplient ? La
+figure du dépli et du pli me semble la figure constitutive de la vie, ce qui ne veut pas dire que,
+dans le cas du code génétique, ce soit au même niveau, ce sera sûrement une autre formation
+biologique, mais enfin, c’est pour dire que, là peut-être, on touche un problème qui vaut que
+nous... que on traîne un peu sur lui.
+
+Car, quand je dis : [81 :00] Cuvier avait un ennemi dont il était l’ennemi, c’était [Etienne]
+Geoffroy Saint-Hilaire, très grand biologiste. Et voilà que Geoffroy Saint-Hilaire arrive et dit : il
+y a unité de composition. Ça, c’est un énoncé signé Geoffroy Saint-Hilaire, il y a unité de
+composition, c’est-à-dire il y a unité de composition pour tous les vivants quels qu’ils soient.
+Donc Geoffroy Saint-Hilaire oppose l’unité de composition à la pluralité finie des plans
+d’organisation. Il y a un seul plan de composition, tandis que Cuvier affirmait la pluralité
+déterminée [82 :00] de quatre plans d’organisation. Alors vous me direz, je suppose quelqu’un
+qui se dise, à ce moment-là, ben oui, ça veut dire que Cuvier est fixiste -- ne croit pas à
+l’évolution -- et, là, c’est vrai, et ça veut dire que Geoffroy Saint-Hilaire croit à l’évolution.
+
+Non. Ni l’un ni l’autre ne croit à l’évolution. On va voir que l’évolution, ça va être encore autre
+chose. C’est ce point qu’il faut expliquer. Lorsque Geoffroy Saint-Hilaire arrive et dit « il y a
+unité du plan de composition », on a envie de dire : il revient à la série continue. Et, là encore,
+non, il ne revient pas à la série continue. Ce qui nous ferait dire, en style Foucault, Geoffroy
+Saint-Hilaire est pleinement du même âge que Cuvier, [83 :00] il est sur la même formation.
+Parce que, qu’est-ce qu’il veut dire ? Les textes de Geoffroy, ils sont très extraordinaires. Il dit :
+Cuvier distingue quatre plans d’organisation, mais, à force de plier, on pourra toujours passer
+d’un plan à un autre.
+
+Là, ça devient intéressant et il y a une page très belle et très comique de Geoffroy -- enfin « très
+comique »... j’espère que vous la trouverez drôle -- une page de Geoffroy où il dit : moi je vais
+vous montrer comment on passe du vertébré au céphalopode. -- Le céphalopode, ce n’est pas...,
+ce n’est pas un animal très... je ne vous dis même pas ce que c’est, le céphalopode, pour que vous
+gardiez le mystère [Rires] ; « céphalopode », vous chercherez dans votre Petit [84 :00] Larousse,
+hein, je ne veux vous éviter aucune lecture. Enfin, céphalopode, comprenez, ce n’est pas grandchose, quoi -- alors passer du vertébré au céphalopode, on se dit, Cuvier, il exagère. Et voilà sa
+recette. Sa recette [de Geoffroy], je ne vous cite que le début du texte. « Il suffit... » -- il a
+beaucoup d’humour, Geoffroy -- « il suffit de ramener la tête vers les pieds et le bassin vers la
+nuque… [il] suffit de ramener la tête vers les pieds et le bassin vers la nuque », il fait des pliages,
+il fait des pliages, c’est très étonnant, ça, les pliages de Cuvier. Il va chercher sous quelles
+conditions on peut plier un vivant pour obtenir les axes et les orientations de l’autre plan.
+[85 :00] [Deleuze donne la référence suivante à Geoffroy Saint-Hilaire : « Principes de
+philosophie zoologique (qui contient la polémique avec Cuvier sur le pliage) », Foucault, p. 136,
+note 8.]
+
+A ce moment-là, la polémique est partie entre Cuvier, et Cuvier est fou-furieux. Pourquoi est-ce
+qu’il est fou-furieux ? Comprenez que, là, on est dans quelque chose qui devrait être central pour
+nous, ou qui devrait être central pour Foucault, à savoir que c’est le même argument --
+
+                                                                                                    15
+
+l’existence des plissements -- qui permet à Cuvier de dire, « vous ne passerez pas d’un plan
+d’organisation à un autre, c’est-à-dire chaque type de vivants se plie sur son plan
+d’organisation », et qui permet à Geoffroy de dire « vous passerez d’un plan d’organisation à un
+autre si vous faites autant de plissements qu’il faut ». Au bout de « n » plissements, vous aurez
+changé les orientations, [86 :00] et vous serez passé du vertébré au céphalopode. C’est la même
+chose que vous pouvez interpréter dans les deux sens. Ce sont les pliures irréductibles qui
+m’imposent quatre plans d’organisation, ou bien c’est par pliure que je passerai d’un plan
+d’organisation à un autre. Evidemment ce n’est pas les mêmes pliures. Ça ne peut pas être les
+mêmes, sinon ce ne serait pas sérieux. Et, en effet, Geoffroy, c’est étonnant, il fait des pliures sur
+éléments anatomiques. C’est un anatomiste. Il fait des pliures sur éléments anatomiques, [Pause]
+et notamment éléments osseux. Il fait des pliures sur squelette.
+
+[Karl Ernst] Von Baer, lui, répond tout de suite [87 :00] : ça ne va pas tout cela ! Est-ce que ça ne
+va pas ? Je ne sais pas, moi. Pourquoi est-ce que ça ne va pas ? Là, vous pouvez inventer ce que
+Von Baer va répondre, au nom de son embryologie à lui. Il dit : on peut toujours plier dans
+n’importe quel sens des éléments solides, mais il n’y a pas un tissu qui supporterait ces pliures. Il
+n’y a pas un seul tissu qui supporterait ces pliures, donc la théorie de Geoffroy ne marche que si
+l’on réduit le vivant à son squelette. Si vous entourez le squelette, si vous y joignez ce qu’on
+appelle les ceintures -- c’est épatant comme langage -- si vous y joignez les ceintures, si vous
+tenez compte des muscles [88 :00] et des tissus, évidemment, là, vous ne pouvez pas, vous ne
+pouvez pas faire une pliure, vous casserez tout, vous déchir... non, vous ne casserez pas ! On ne
+casse pas du solide ! Bous déchirerez, vous déchirerez les ligaments.
+
+Donc, pour parler comme Foucault [Voir la conclusion de cet affrontement des chercheurs du
+19e siècle dans Foucault, pp. 136-137], Geoffroy et Cuvier appartiennent au même sol
+archéologique, à la même famille d’énoncés bien qu’ils disent le contraire l’un de l’autre. Vous
+voyez pourquoi : parce qu’ils ont en commun de rabattre et de ne pas cesser de rabattre le vivant
+sur... ou de le plier sur des plans d’organisation ou [89 :00] sur un plan de composition. De toute
+manière, le vivant est replié en profondeur au lieu de s’étaler en surface le long d’une série. C’est
+ça qui est en commun chez Cuvier et chez Geoffroy. Et pourtant, en plus ce qu’il y a de commun,
+c’est le refus de tout évolutionnisme. Parce que pour Geoffroy, on peut passer d’un mode de
+pliage à un tout autre mode de pliage, [Pause] [90 :00] mais ces modes successifs, ces modes
+différents de pliage marquent des degrés de développement. Ils marquent des degrés de
+développement. Or chaque type d’animal a un degré de développement qui lui est assigné. Il ne
+dépassera pas son degré de développement qui, donc, le condamne à tel plan d’organisation. Ce
+que Cuvier appelait « plan d’organisation », c’est, pour Geoffroy, les degrés de développement
+d’un seul et même plan de composition. Et à ce degré, là, chacun prend une partie de l’autre,
+c’est très beau.
+
+Donc l’un comme [91 :00] l’autre refuse toute évolution. Bien plus, de même que, du côté de
+Cuvier, on avait fondé, avec Von Baer, une science fantastique qui était l’embryologie, du côté
+de Geoffroy, Geoffroy lui-même fonde une science fantastique qui va pleinement faire partie de
+la biologie, à savoir : la tératologie ou science des monstres. Car, si chaque plan d’organisation
+n’est qu’un degré de développement pour un seul et même plan de composition, dans la
+perspective de Geoffroy, il peut toujours arriver qu’un vivant soit arrêté dans son développement
+par des circonstances extérieures, [92 :00] par un accident, par une maladie. Et qu’est-ce que
+
+                                                                                                       16
+
+c’est qu’un monstre ? Geoffroy va lancer sa grande définition du monstre : c’est ou bien un fixé
+ou bien un retardé de développement. Un fixé ou un retardé de développement, c’est-à-dire : il
+n’a pas atteint son développement, empêché par une cause extérieure, il est resté fixé.
+
+Par exemple, il y a une monstruosité très intéressante dont Geoffroy dit : ah ben oui, il en est
+resté au stade crustacé, il n’a pas dépassé le degré de développement du crustacé. Le crustacé
+c’est... Geoffroy, il est plein d’énoncés, de formules qui sont très, très spirituelles. [93 :00] Le
+crustacé, dit Geoffroy, en gros, c’est avoir la peau sur les os. Il y a une monstruosité où on a la
+peau sur les os, en effet il a un tégument très léger sur sa carapace. Avoir la peau sur les os. Et la
+chair est à l’intérieur. C’est ça un crustacé. Alors être resté, arrêté le développement au stade
+crustacé, j’ai que la peau sur les os... c’est... bon, c’est une maladie, c’est une monstruosité
+connue. Ou bien..., ou bien, en embryologie vous n’ignorez pas, peut-être, que les mains se
+développent avant les bras. Supposez qu’un embryon se développe et développe ses mains
+normales et puis un accident vient au moment... un [94 :00] virus arrive au moment où il est en
+train de fabriquer ses bras. Il aura des mains parfaitement normales et des bras atrophiés. C’est
+une monstruosité connue. Bien.
+
+C’est l’illustration même de la définition de Geoffroy, le monstre c’est un retardé de
+développement ou un fixé de développement. Dans le cas l’embryon a eu son développement
+fixé au stade « formation des mains ». Il n’a plus pu former un bras, un bras normal. Une fois dit
+que la formation du bras était postérieure à celle de la main. Bien. -- Alors je vous signale, là
+j’ouvre une parenthèse inutile, mais c’est pour faire de l’épistémologie -- que lorsqu’une
+discipline célèbre [95 :00] inventera ou dira qu’elle invente les notions de fixation et de
+régression, expliquera les névroses par des phénomènes de fixation et de régression, il faut
+rendre à chacun ce qui lui appartient, c’est-à-dire c’est, ce qui est déjà pleinement original, c’est
+l’application au domaine des névroses de concepts typiquement tératologiques qui datent de
+Geoffroy Saint-Hilaire, à savoir la régression, c’est-à-dire l’arrêt de développement, la fixation
+de développement sont, selon Geoffroy Saint-Hilaire, les deux, les deux principales formations
+de monstres. Or il est bien connu que les névrosés sont des monstres. [Rires]
+
+Alors, vous voyez, [96 :00] c’est autour de ce thème de la pliure que je peux dire : bien sûr ils
+comprennent les pliures, les plis, les replis de la finitude, c’est ça la finitude, c’est le pli, c’est ce
+qui se plie, c’est ce qui se replie, c’est ce qui me replie. Tandis que l’élévation à l’infini, c’est ce
+qui déplie, c’est ce qui déploie, ce n’est pas plus difficile que ça. La pensée du XVIIème siècle
+est une pensée du déploiement, pourquoi ? Parce qu’elle réagit contre la Renaissance et contre le
+Moyen Age. Alors est-ce qu’il faut dire que c’était une pensée du pli, la Renaissance et le Moyen
+Age... ? C’était encore autre chose.
+
+Mais le XVIIème siècle s’affirme et affirme le dépli, comme la loi de la pensée claire et
+distincte, comme la loi de l’ordre. Si vous voulez saisir l’ordre, dépliez les choses. C’est ça la
+méthode... il [97 :00] faudrait même, on pourrait aller dans tous les sens... Prenez la méthode
+cartésienne, prenez une méthode chère au XVIIème siècle, vous y verrez à chaque fois la
+formation des séries, la formation des chaînes, la recherche des contiguïtés, tout ça, une pensée
+du développement, du dépli. Avec le XIXème vient la pensée obscure du pli. Il faut plier les
+choses. A ce moment-là vous avez la découverte de la finitude. Plier le vivant sur le plan de
+
+                                                                                                      17
+
+composition ou plier sur le plan, sur un plan d’organisation, tout ça c’est pareil. Mais dernier
+point : Darwin. Darwin, qu’est-ce qu’il vient faire là-dedans ?
+
+Ben, vous savez, Darwin, justement, ce n’est pas la série. Lorsque Darwin va affirmer et va
+injecter l’histoire, c’est-à-dire l’évolution, dans la biologie, [98 :00] qu’est-ce qu’il fait au juste ?
+Qu’est-ce qu’il fait au juste ? Il apporte quelque chose de nouveau, c’est la trinité, à la fois contre
+Cuvier et contre Geoffroy. Mais en quoi Darwin, Cuvier et Geoffroy sont-ils une trinité, à
+l’horizon de notre biologie ? En quoi est-ce que... alors que Lamarck... vous voyez la très grande
+différence, alors que Lamarck introduisait l’histoire dans la série pour finalement sauver l’idée
+d’une série animale, c’est-à-dire il en était au premier moment de la biologie. L’autre, pas du
+tout. Darwin, ce n’est pas ça son problème. Ce n’est pas ça son problème. Je veux dire : Darwin,
+il accepte [99 :00] parfaitement les termes mêmes de Cuvier. Et qu’est-ce que c’était les termes
+de Cuvier ? La série procède par petites différences, mais il y a de grandes différences entre
+plans d’organisation. En d’autres termes, il y a des différences insurmontables qui rompent toute
+série possible.
+
+Vous comprenez ? Fatigués ? Mais je ne m’arrête pas là, parce que si je m’arrête, ça va être
+comme l’autre fois ; donc quand vous en avez assez, vous n’écoutez plus et puis voilà [Rires], ou
+bien... Quelle heure est-il ?
+
+Lucien Gouty : 11h, il va être 11h 10
+
+Deleuze : Alors je vais quand même m’arrêter un peu, mais... ah ! Non, non ! Je finis d’abord
+Darwin, parce que, sinon, on n’en [100 :00] sortira pas. Vous comprenez Darwin... mais, et
+pourtant, et pourtant, pour ceux qui ont lu un peu Darwin, ce que je dis va avoir l’air grotesque.
+Ce que je dis, c’est que, Darwin, ça lui est égal les petites différences, il n’a jamais pensé rétablir
+la série. La série qui procède par petites différences. Ça a l’air stupide, ce que je dis, puisqu’il est
+très connu que Darwin, au contraire, invoque perpétuellement les petites différences d’un enfant
+par rapport à ses parents. Oui, il en a besoin. Mais pourquoi ? Est-ce que c’est pour mettre en
+série qu’il invoque les petites différences ? Pas du tout. C’est pour pouvoir répondre à la
+question : pourquoi les grandes différences [101 :00] apparemment insurmontables l’emportentelles dans la vie ? Pourquoi la vie, qui ne cesse de produire de petites différences, procède
+pourtant à coup de grandes différences ? Or, ça, comprenez, c’est un problème qu’on ne pouvait
+pas poser avant Cuvier ou avant Von Baer.
+
+Et qu’est-ce que c’est la réponse de Darwin, alors, qui est une nouveauté ? C’est que, vous allez
+voir, elle engage tellement de choses, je vous raconte, on va voir. Elle est à deux étages, il me
+semble, la réponse de Darwin. Elle consiste à dire : si vous prenez, non pas un milieu, non pas un
+milieu général, par exemple l’eau, [102 :00] et si vous prenez un territoire déterminé, une région
+déterminée dans un milieu, à quelle condition un maximum de vivants peut-il survivre ? Ça c’est
+la question nouvelle de Darwin. C’est ça la question darwinienne : un territoire étant donné, à
+quelle condition un maximum de vivants peut-il survivre ? Là c’est une question qui n’a aucun
+équivalent ni chez Geoffroy, ni chez Cuvier. Mais, la réponse, elle va rejoindre Cuvier et
+Geoffroy. Ça consiste à dire : ils auront d’autant plus de chances de survivre qu’ils divergeront
+davantage, que leurs caractères divergeront davantage. [103 :00] Supposez, supposez une région
+déterminée et puis deux espèces très voisines qui vivent sur cette région ; « très voisines », ça
+
+                                                                                                      18
+
+veut dire que leur alimentation est identique ou semblable. Il y en a qu’un qui l’emportera sur
+l’autre et qui liquidera l’autre. Vous voyez tout le thème de la sélection naturelle qui se profile là.
+Ils ne pourront pas coexister. Supposez au contraire, que les deux espèces qui vivent sur ce
+territoire soient très différentes, là, ils ont des chances de coexister, de survivre. Ils ne s’adressent
+pas à la même nourriture. [104 :00]
+
+Bien, c’est à force de divergences qu’un maximum de vivants peut vivre sur un territoire
+déterminé. En d’autres termes, la vie va se définir comme tendance à produire de grandes
+différences par accumulation des petites différences. C’est la condition de survie : tendance à
+produire de grandes différences. C’est-à-dire la vie n’est plus considérée comme une force de
+dispersion, mais comme une force de divergence. [Pause]
+
+Dès lors, Darwin nous dira qu’il n’est pas étonnant que la vie soit traversée par ces espèces de
+failles entre plans d’organisation. [105 :00] Reste que -- second aspect de la thèse darwinienne -
+comment est-ce qu’il peut y avoir histoire, transformation ? Eh ben précisément, création des
+grandes divergences. Mais comment est-ce qu’elles peuvent être créées, ces divergences ?
+Puisque tout vivant semble déjà supposer des plans distincts, des plans d’organisation distincts.
+La réponse de Darwin ce sera : voilà, vous ne pouvez pas conclure de l’évolution de l’embryon à
+l’évolution des espèces. Vous ne pouvez pas appliquer les lois de l’embryologie, pourquoi ? Pour
+une raison très simple, parce que, dans l’embryologie les formes sont déjà données. Vous êtes
+toujours l’embryon d’une forme, là les formes, elles sont déjà fixées. Par exemple, un embryon
+[106 :00] de loup, c’est un embryon de loup, il donnera du loup. Même avec des petites
+différences, hein, c’est triste, mais... Tandis qu’au niveau de l’évolution des espèces, les formes
+ne sont pas fixées. Vous n’avez que des forces en rapport. Les formes ne sont pas fixées, elles
+sont elles-mêmes fluentes. Il n’y a pas une espèce qui serait le loup et puis une espèce etc. Vous
+voyez, il retourne tout. Si les espèces sont le produit d’une évolution opérant par divergence
+accentuée, vous ne pouvez pas vous donner des espèces déjà, c’est-à-dire des formes avant.
+
+D’où la vraie révolution de Darwin, c’est quoi ? Ce n’est pas du tout l’évolutionnisme, c’est
+d’avoir pensé la vie en termes de population et pas de forme. Population sur un territoire donné.
+Une population quelconque sur un territoire donné. Vous ne pouvez pas vous donner déjà des
+formes. [107 :00] Et l’évolution, c’est quoi ? C’est précisément que cette population ne va
+pouvoir survivre que dans la mesure où elle se scinde et produit des formes divergentes qui
+permettent à ses membres de survivre sur le territoire. En d’autres termes, l’évolutionnisme de
+Darwin n’a rien à voir avec l’évolutionnisme de Lamarck. Car l’évolutionnisme de Lamarck est
+typiquement un évolutionnisme sériel, un évolutionnisme qui injecte de l’histoire dans la série,
+tandis que l’évolutionnisme de Darwin est typiquement un évolutionnisme qui entérine
+l’écroulement des séries au profit du repli du vivant sur une force de vie qui va être force de
+[108 :00] divergence et d’accuser la divergence. Or tout ceci, à quelque niveau que ce soit, que
+ce soit Cuvier, que ce soit Darwin, que ce soit Geoffroy, ça se fait à quel prix ? Ce repli du vivant
+sur la finitude de la vie se fait toujours au profit de mettre la mort dans la vie. A l’ombre de la
+mort, la profondeur se crée de cette manière.
+
+Théorie des catastrophes chez Cuvier, théorie de la sélection chez Darwin, théorie des
+monstruosités et des arrêts de développement chez Geoffroy. La finitude de la vie va mettre la
+vie dans un rapport fondamental avec la mort que le XVIIème siècle ignorait. [109 :00] En
+
+                                                                                                        19
+
+d’autres termes, à la mort... Le XVIIème siècle, je crois, ne pouvait penser la mort que d’une
+manière sage. Qu’est-ce que signifie la sagesse ? C’est la vieille sagesse, ça, qui nous dit : de
+quoi tu te plains ? Tant que tu n’es pas mort, tu n’as pas à te plaindre et puis, une fois que tu es
+mort, tu ne peux plus te plaindre, donc la mort, c’est un instant. Mais, ce que je résume là comme
+sagesse ou comme moralisme -- c’est le moralisme d’Epicure : impossible de penser la mort qui
+est un événement instantané -- ça valait aussi pour toute la médecine de l’époque, ça avait sa
+version épistémologique, ça avait sa version scientifique : la mort instant décisif et insécable. Et,
+encore une fois, je crois vous l’avoir dit à propos d’autre chose : [110 :00] lorsque l’on trouve
+dans [André] Malraux, et repris par [Jean-Paul] Sartre, la formule célèbre « la mort, c’est ce qui
+transforme la vie en destin », loin que ce soit une formule moderne, ça n’ôte rien à sa beauté,
+mais c’est pleinement l’expression de la pensée classique, c’est la mort comme instant, instant
+qui, précisément, opère cette espèce de transvaluation de la vie, elle transforme la vie en destin.
+
+Mais la pensée du XIXème, et peut-être la nôtre encore, a une tout autre conception de la mort.
+De même que le vivant se replie sur la finitude de la vie, la vie d’une certaine manière se replie
+sur la mort. Qu’est-ce que ça veut dire, ça ? Le grand livre sur la mort, à mon avis, ça reste
+encore un livre que Foucault aimait et admirait immensément, c’est le livre de [Xavier] Bichat
+[111 :00], célèbre médecin, Recherches physiologiques sur la vie et la mort [1800]. Et Bichat a
+proposé de la vie une définition célèbre qui fait rire et qui n’a jamais fait rire que les imbéciles.
+C’est : la vie c’est l’ensemble des fonctions qui résistent à la mort. [Sur Bichat et ces propos,
+voir Foucault, pp. 138-139]
+
+Alors je dis : les imbéciles ils disent -- et ils étaient nombreux, maintenant il n’y en a plus,
+imbéciles nombreux du temps de Bichat -- ils disent : "grossier cercle vicieux". Définir, en effet,
+la vie comme l’ensemble des fonctions qui résistent à la mort, ça supposerait disent-ils que l’on
+puisse définir la mort indépendamment de la vie. Bon, l’objection est idiote, car l’objection ne
+vaudrait que si Bichat maintenait la conception classique de la mort. [112 :00] La mort suppose
+la vie, oui, donc on ne peut pas faire la définition de Bichat "si" la mort est conçue comme
+instant décisif qui termine la vie.
+
+Mais Bichat, lui, dans son livre, nous propose, je crois, la première grande conception moderne
+de la mort. Il la propose sur deux points. Premier point : la mort n’est pas un instant décisif qui
+marque la fin de la vie, la mort est coextensive à la vie. Deuxième point qui rend compte du
+premier, qui explicite le premier : le vivant est inséparable des morts [113 :00] partielles qui le
+traversent. Et ce qu’on appelle la mort, loin d’être un instant décisif est toujours l’effet global de
+plusieurs morts partielles. Il y a trois morts partielles : la mort du cerveau, la mort du poumon, la
+mort du cœur. Et la vie même ne cesse, le vivant, du moins l’animal, vit rarement, non seulement
+il y a le sommeil, mais il y a les sommeils partiels. Le vivant ne cesse de traverser des sommeils
+partiels qui sont de véritables morts. Le sommeil partiel chez Bichat vient faire écho à la mort
+partielle. A la fois la mort est coextensive à la vie et il y a pluralité de morts.
+
+Donc, [114 :00] en aucun de ces deux sens, la mort ne peut être considérée comme instant décisif
+et insécable. Or c’est comme l’achèvement, en effet, chez Cuvier, je vous dis... Biologiquement
+le vivant ne peut être rabattu sur la force de vie, sur la force finie de la vie que dans la mesure où
+la mort s’inscrit au plus profond du vivant même. Et, ça, c’est quelque chose qui troublera très,
+très fort Foucault, qui avait toujours avec la mort une espèce de rapport, euh... Et je crois que
+
+                                                                                                     20
+
+vous trouverez, dans Naissance de la clinique, une... 5 ou 6 pages sur Bichat et sur la théorie de
+la mort chez Bichat. Si vous les lisez, vous verrez vous-mêmes. Moi j’ai le sentiment que, bien
+sûr, c’est une analyse épistémologique de la pensée de Bichat extrêmement intéressante, mais
+qu’il y a quelque chose de plus, qu’il y a quelque chose de plus qui... où Foucault exprime son
+[115 :00] propre rapport, son propre rapport avec la mort et une espèce d’adhésion à ce que... à la
+manière dont Bichat présentait les choses.
+
+Donc vous voyez, là, je résume, j’ai fait, là qu’un des trois, ça ne va pas très vite, mais ça me
+paraissait nécessaire. Au niveau de la formation de la biologie, on a bien vu nos deux temps. Si
+j’essaie de résumer les deux temps, je dirais : premier temps... Les deux temps se groupent sous
+la formule « quand, quand les forces dans l’homme rencontrent les forces de la finitude ». Eh
+bien, premier temps : on rencontre la force organisatrice de la vie, on rencontre une force
+organisatrice de la vie qui est marquée de finitude et qui compromet les séries [116 :00] du
+XVIIème siècle. Deuxième temps : la force organisatrice se replie en profondeur, en même
+temps que les vivants se replient sur leur plan d’organisation etc. C’est les deux étapes. Or ce que
+Foucault va montrer dans Les Mots et les choses, à part cela pour la biologie, c’est : la même
+chose se produit au niveau de l’économie politique et de sa naissance au XIXème et au niveau de
+la philologie et de sa naissance au XIXème… [Interruption de l’enregistrement] [1 :56 :41]
+
+… L’hypothèse, l’hypothèse que... l’hypothèse de détail, pas très intéressante que je vous
+proposerai, c’est celle-ci... Encore une fois, quand on arrivera à une confrontation [117 :00] de
+Foucault avec Heidegger, et que j’essaierai d’expliquer un peu ce que Heidegger appelle le pli, et
+qu’on constatera que c’est un thème très profond chez Foucault, celui du pli et du dépli, je crois
+que l’on sera amené à conclure assez vite que l’origine de cette notion chez Foucault ne vient pas
+de Heidegger -- ce qui me paraît aller de soi, vu l’utilisation très différente qu’il en fait -- qu’il y
+a donc eu, à cet égard, rencontre de Foucault avec Heidegger, mais que chez Foucault, la notion
+de pli et de dépli a une tout autre origine. Et je crois que, l’origine principale, c’est cette histoire
+que nous sommes en train de voir : [118 :00] le dépli et le pli comme deux fonctions de la
+pensée, l’une qui consiste à développer à l’infini suivant le mode de pensée classique, l’autre qui
+consiste à rabattre sur la finitude conformément à une pensée qui s’élabore avec le XIXème
+siècle. Donc, ça, c’est un premier point qui me paraît important. Là-dessus il nous resterait à
+voir, mais, vous en avez peut-être assez, l’équivalent de ce qu’on vient de voir pour la biologie,
+dans la formation XIXème siècle, à propos de l’économie politique et de la philologie ou de la
+linguistique. Alors là, je vais très, très vite, pour vous donner juste des points de repères.
+
+Qu’est-ce qui se passe en économie politique ? Ben, au XVIIème siècle, [119 :00] encore une
+fois, ben, il n’y a pas d’économique politique, il y a une analyse des richesses, et il y a un tableau
+des richesses développable à l’infini en même temps que les besoins. Bien sûr, c’est un infini qui
+n’est qu’un indéfini, mais, encore une fois, on a vu que l’indéfini était un ordre d’infini pour le...
+c’était sans doute l’ordre le plus bas d’infini, mais c’était un infini, tellement le XVIIème siècle
+est incapable de penser en dehors des ordres d’infini. « Incapable », c’est un compliment, ce
+n’est pas une critique. Or, dans une analyse des richesses, bien sûr, le travail a de l’importance et
+la notion de travail existe déjà et sert déjà. [120 :00] Mais le travail, tel qu’il est employé au
+XVIIème siècle, lie indissolublement deux choses. Il lie ce qu’on pourrait appeler le travail
+production et le travail marchandise.
+
+                                                                                                     21
+
+Et les deux sont liés, les deux ne sont pas séparés, d’où une grande équivoque dans la notion de
+travail au XVIIème siècle. Le travail est une marchandise ; en effet, il est payé, le paiement du
+travail s’appelant salaire. Dans la mesure où le travail reçoit un salaire, il est une marchandise.
+[121 :00] Mais, en tant que production, il est autre chose, il est unité de mesure, il est unité de
+mesure du produit. Bien. Ce qui revient à dire, dans cet état de la notion de travail, que le travail
+est essentiellement qualifié. Ce sera un travail euh... manufacturier ou bien un travail
+commercial, ou bien un travail agricole. Le travail est ceci, ceci, ceci. Et, finalement, la fonction
+du travail, c’est d’être une unité de mesure relative, une unité de mesure relative qui ramène
+quoi ? Qui ramène l’échange au besoin. [122 :00] Je vais vite, hein, c’est juste des jalons, que...
+Bien.
+
+Qu’est-ce que c’est la fracture ? Dès lors, il y a un tableau des richesses, une série des richesses
+où le travail, tel qu’il est conçu, va assurer la circulation des richesses dans le tableau. La grande
+fracture, c’est Adam Smith. C’est le premier moment de la formation XIXème, là encore on va
+retrouver deux moments. Et qu’est-ce qu’il fait Adam Smith ? Peut-être qu’il fait quelque chose
+de très, très important, c’est-à-dire il dissocie les deux aspects du travail, l’aspect salarié et
+l’aspect unité de mesure. [Pause] Si bien que des textes peut-être les plus importants d’Adam
+[123 :00] Smith consistent à nous dire : que le travail soit bien payé ou mal payé, l’unité de
+travail reste identique. Ce qui implique quoi ? Ce qui implique ce que Marx appelle « le coup de
+génie d’Adam Smith », c’est-à-dire avoir dégagé le travail comme essence subjective de la
+richesse, ou d’avoir dégagé le travail abstrait comme n’étant plus qualifié comme tel ou tel.
+
+Dans des textes célèbres, Marx nous dit : l’économie politique commence avec Adam Smith,
+pourquoi ? Parce que Adam Smith dégage le travail abstrait et, donc, dégage la force de travail
+tout court, [124 :00] la force de travail tout court. Et, par là même, ajoute Engels, dans un texte
+très intéressant, Adam Smith est le Luther de l’économie politique. Pourquoi ? Parce que la force
+de travail tout court ou le... l’essence subjective de la richesse, c’est à peu près la même
+opération que celle que Luther a faite au niveau de la religion. Au niveau de la religion, Luther a
+substitué, enfin pour aller vite, Luther a substitué à la religion extérieure, la religiosité intérieure
+qui, d’une certaine manière, est la religiosité quelconque, l’essence subjective de la religion.
+[125 :00] De même la rupture de Adam Smith avec le XVIIème siècle, selon Marx, c’est : de la
+richesse objective, il a dégagé l’essence subjective de la richesse sous la forme du travail abstrait,
+du travail tout court, de la force de travail tout court. En d’autres termes, avec Adam Smith,
+grâce à la dissociation des deux aspects du travail, travail salarié et travail production, travail
+salaire, travail production, travail marchandise, travail producteur, le travail devient unité de
+mesure… [Interruption de l’enregistrement] [2 :05 :43]
+
+Partie 4
+
+… Là encore c’est une espèce d’opération de pliage. Il y a des pages de Marx où il explique très
+bien, il appelle ça une féérie, la féérie d’après laquelle le capital s’approprie le travail, [126 :00]
+la fantasmagorie. C’est cette espèce de repliement du travail sur le capital, et à ce moment-là,
+qu’est-ce que c’est la différence, la différence fondamentale Ricardo-Marx ? Là encore, tout
+comme Geoffroy Saint-Hilaire et Cuvier et tout comme Darwin et Cuvier appartiennent au même
+sol archéologique, Marx et Ricardo appartiennent au même sol archéologique.
+
+                                                                                                     22
+
+Car Marx fera l’opération inverse. Il va, lui, faire le pliage inverse, plier le capital sur le travail.
+Et comment ? En réinterprétant la distinction travail salarié-travail producteur, travail
+marchandise-travail production. Marx va dire : la distinction est tout autre ; Ricardo voyait bien
+une distinction, [127 :00] mais la vraie distinction est tout autre que celle que Ricardo croyait.
+C’est-à-dire la distinction entre les deux aspects du travail consiste en ceci : c’est que le
+travailleur ne reçoit un salaire que pour une partie de son travail abstrait. En effet, il reçoit un
+salaire égal à la subsistance nécessaire de lui-même et de sa famille. Mais il travaille toujours par
+définition plus que pour ce quoi il est payé. Vous voyez ? En d’autres termes, ce que Marx fait,
+c’est non plus une différence travail marchandise - travail producteur, mais une différence,
+[128 :00] et c’est ça la nouveauté de Marx, travail salarié sur travail non-payé, travail
+marchandise sur travail non-payé qui va, en effet, appartenir au capital. Donc, à la lettre, il fait le
+pliage inverse.
+
+Peu importe, hein... tant pis si c’est... J’ai honte, en même temps, parce que c’est tellement
+sommaire, mais je crois que ce n’est pas faux. Sur les deux pliages, en tout cas, c’est... Et, alors,
+vous comprenez que… [Pause] Je ne sais plus ce que je voulais dire déjà... Vous comprenez...
+oui... Oui. [129 :00]
+
+Vous comprenez comment, là aussi, l’économie politique apparaît lorsque les forces dans
+l’homme se replient sur la force de travail avec les deux opérations complémentaires ou bien « le
+travail plié sur le capital » ou bien « le capital plié sur le travail même ». A savoir : la part du
+capital qui se plie sur le capital même, c’est ce que Marx analysera comme étant la plus-value, et
+lorsqu’on lui objectera : mais comment vous pouvez distinguer dans le temps la part de travail
+salarié, la part de travail payé et la part de travail extorqué ? On lui dira : mais ce n’est jamais
+assignable, mais qu’est-ce que ça veut dire, cette histoire de la plus-value ? Il a beau jeu, quoi, il
+a beau jeu d’expliquer : mais le surtravail est une condition même du travail salarié. Donc,
+évidemment, on ne pourra jamais faire la part, on ne pourra jamais dire : ceci c’est du travail
+payé, et cela c’est du travail [130 :00] exploité, extorqué. Donc, il y a là toutes sortes... deux
+modes de pliage. Bon. … Mais tout ça c’est pour vous entraîner à lire les pages sur Smith et
+Ricardo dans Les Mots et les choses. [La discussion des « temps » successifs correspond à
+Foucault, pp. 135-136]
+
+Pour la philologie, finalement, je dirais : qu’est-ce qui se passe ? La pensée du XVIIème était
+vraiment une pensée, comment dire, de la science générale ou universelle, du savoir général ou
+universel. Analyse générale des richesses, grammaire générale, série générale des êtres vivants,
+le général indiquant ici un ordre d’infinité. Avec le XIXème siècle, le général est remplacé par le
+comparé. [131 :00] Les plans d’organisation comparés, soit qu’on les pose irréductibles, soit
+qu’on les pose comme réductibles. L’anatomie devient comparée. L’économie devient comparée.
+Les modes de production, la philologie devient comparée. Et, là aussi, ça se fait comment, alors,
+dans notre dernier point, la philologie ?
+
+Premier temps... Si on reprend nos deux temps. Qu’est-ce qui va briser la grammaire générale et
+son tableau ? Le tableau de la grammaire générale est fondé au [132 :00] XVIIème siècle sur la
+détermination des racines. Le XVIIème n’ignore pas les flexions. Mais les flexions sont
+subordonnées aux racines. C’est les racines qui constituent le tableau développable, le tableau
+dépliable des langues et qui va permettre de dégager la grammaire générale. Le renversement, le
+
+                                                                                                      23
+
+renversement de la fin du XVIIIème, c’est le primat des flexions sur les racines. [Pause] La
+future linguistique, là, trouve son premier acte d’origine : l’étude des flexions. [133 :00] Or ça a
+des conséquences immenses, et c’est l’étude des flexions qui va, là aussi, fracturer la grammaire
+générale, au profit de quoi ? Au profit, précisément, d’une philologie comparée.
+
+Car, deuxième temps, avec Bopp ou avec Schlegel, qu’est-ce qui apparaît ? C’est, là aussi,
+comme : repliement sur cette profondeur indiquée par les flexions. Qu’est-ce que c’est que ce pli
+sur la profondeur indiquée par les flexions ? C’est que les flexions sont des éléments formels qui
+ne peuvent se définir ni par ce qu’elles signifient, ni par ce qu’elles désignent. Alors que toute la
+grammaire générale était une grammaire des désignations, des [134 :00] significations. La
+flexion, élément formel grammatical pur, d’où, là aussi des plans de langue, par exemple -- et
+c’est par-là que la linguistique est déjà une linguistique comparée -- on distinguera deux plans
+fondamentaux où le langage peut se plier, les langues sans flexion, affixes, et les langues à
+flexions. Dans les langues affixes, vous avez combinaisons d’atomes linguistiques, combinaisons
+qui peuvent être très, très nombreuses.
+
+Mais c’est comme des combinaisons d’atomes. [135 :00] Dans les langues à flexions, c’est la
+flexion qui détermine les combinaisons. Mais, comme il n’y a pas d’atome et que chaque
+élément est déjà flexionnel ou flexionné, peut-être que vous avez encore plus de combinaisons.
+C’est un problème qu’on va aborder tout à l’heure. En tout cas, le premier aspect de cette
+philologie, c’est dégagement d’éléments formels qui ne sont ni signifiants ni désignatifs, du
+moins ni significatifs, ni désignatifs.
+
+Deuxième point qui en découle : s’il y a de tels éléments formels qui ne désignent ni ne
+signifient, ils ne valent que par leurs rapports les uns avec les autres. Par exemple, les flexions du
+verbe – n, s, t, comme indicateurs de première, deuxième, [136 :00] troisième personne --, ben,
+ils ne valent pas par ce qu’ils indiquent ; ils valent par leur position distinctive. Ils valent l’un par
+rapport à l’autre, l’un par rapport aux autres. Les éléments formels sont indissociables des
+relations dans lesquelles ils sont pris, c’est ça le peuplement de cette nouvelle profondeur. En
+d’autres termes, se fait une dissociation du langage et de la lettre. Le XVIIème siècle liait
+fondamentalement le langage, la grammaire générale, avec la lettre. Or la lettre est un atome
+autonome. Là, au contraire, il y a libération du son par rapport à la lettre. [137 :00] On est sur la
+voie du phonème, le phonème étant un ensemble de positions, d’oppositions distinctives, et ne se
+définissant ni par ce qu’il représente, ni par ce qu’il signifie, mais par les positions distinctives
+dans lesquelles il entre. N, s, t, là, comme flexions, sont des positions distinctives. Donc ça
+implique la libération du son par rapport à la lettre qui sera une des conditions pour la découverte
+de ce qu’on appellera plus tard le phonème.
+
+Troisième aspect : au XVIIème siècle, dans la grammaire générale, le langage se définit vraiment
+par ce qu’il désigne et par ce qu’il signifie. Maintenant le langage va être appréhendé d’une tout
+autre manière. Il va être appréhendé non pas comme désignation, ni [138 :00] comme
+signification, mais comme action et, plus profondément, comme vouloir. Et toute la philologie
+romantique va amener l’idée du vouloir d’un peuple qui s’exprime dans la langue. Vous
+retrouvez là, à la fois, la dispersion des langues suivant des plans de composition des éléments
+formels, le vouloir fini, bref c’est tout le langage qui se replie sur la force de finitude. Il se replie
+en profondeur sur la force de finitude. Au dépli de l’âge classique se substitue le pliage des
+
+                                                                                                       24
+
+langues suivant les plans d’organisation, [139 :00] de telle manière que tout converge en quoi ?
+Un vouloir fini qui s’exprime dans des langues différentes suivant tel ou tel peuple. Les vouloirs
+du peuple comme bases du langage. Chez [Friedrich] Schlegel, par exemple, c’est poussé très
+loin. Bon, alors là, je vous demande pardon d’être si rapide, mais je vous renvoie aux textes.
+
+Si bien qu’on a presque fini ce que j’espérais finir aujourd’hui. Ça revient à dire quoi, au point
+où nous en sommes ? Eh ben, je conclus ce point sur la formation XIXème siècle très vite, hein,
+à savoir : la formation XIXème siècle, je dirais, en résumant trop facile, c’est exactement la
+formation dans laquelle les forces dans l’homme rencontrent et étreignent [140 :00] les trois
+forces de finitude, et se rabattent sur elles en se les appropriant. Alors la combinaison des forces
+dans l’homme et des forces de finitude donne un composé qui est la forme « homme ». Mais
+pourquoi durerait-elle cette forme ? Elle n’existait pas comme forme. Bien sûr, encore une fois,
+les hommes existaient, mais, si vous avez compris depuis le début ce n’est pas la question. Les
+hommes existaient, ben oui, mais il n’y avait pas de forme « homme » au XVIIème siècle. Et
+pourquoi est-ce qu’elle durerait après ? [141 :00] Pas sûr, elle peut durer un certain temps.
+Pourquoi est-ce qu’il n’y aurait pas d’autres formes ?
+
+Nous pouvons dire : il y aura d’autres formes, s’il y a une autre formation. Il y aura une autre
+formation, si les forces dans l’homme entrent en rapport avec de nouvelles forces venues du
+dehors qui ne seraient plus ni celles de l’élévation à l’infini, comme au XVIIème, ni celles de la
+finitude, comme au XIXème. A ce moment-là, s’il y a bien encore d’autres forces venues du
+dehors définissant une troisième formation, je dirais le composé qu’elles forment, toutes ces
+forces, ne sera pas la forme « homme ». Alors commodité pour commodité, on peut toujours
+appeler ça « surhomme », puisque ça a l’autorité de Nietzsche. Mais ce que voulait dire
+Nietzsche c’était ça, c’est-à-dire, [142 :00] comme dirait Foucault, c’était à la fois beaucoup plus
+et beaucoup moins qu’on ne lui a fait dire, en tout cas c’était pas les bêtises qu’on lui a fait dire,
+ni les propositions fascistes qu’on lui a prêtées, euh, c’était une chose très, très... très simple, très
+nouvelle sûrement, mais très simple, qui consistait à dire : réellement, la forme « homme »
+implique et suppose un certain rapport de forces, si le rapport de forces change, il n’y a pas de
+raison que la forme « homme » subsiste. Et la preuve... Alors Foucault ajoute : bien plus, ... déjà
+à l’âge classique, il n’y en avait pas encore.
+
+Donc s’il n’y en avait pas encore à l’âge classique, pourquoi qu’il y en aurait... pourquoi que,
+maintenant, on ne pourrait pas dire qu’il n’y en a plus ? Mais, après tout, la forme « homme »,
+[143 :00] il ne faut pas exagérer, elle n’a pas été tellement fameuse, pas fameuse... Je ne dis pas
+l’homme existant, il ne s’agit pas... La mort de l’homme, ça veut dire : les hommes existants ne
+se reconnaissent plus dans la forme « homme ». C’est peut-être bon. Mais qu’est-ce que ça
+pourrait vouloir dire ? Même chez Nietzsche, qu’est- ce que ça peut vouloir dire ? C’est là que
+j’avais tort d’essayer de trop systématiser Foucault. C’est une série..., il faut prendre ça comme
+une série de... d’indications, d’évocations, du type : est-ce que ça vous dit quelque chose ou pas ?
+Voilà.
+
+C’est ça qui nous reste, juste. On aurait deux questions : quelles nouvelles forces interviennent ?
+Quelles nouvelles forces du dehors ? Et là, je dois dire ma perplexité, c’est-à-dire je vois une
+version textuelle Foucault et [144 :00] une version... moins textuelle mais qui me paraîtrait, moi,
+plus facile. Il y a quelque chose que je ne comprends pas. Car voilà l’indication principale que
+
+                                                                                                        25
+
+nous donne Foucault ; il nous dit : la philologie au XIXème siècle a dispersé le langage d’après
+des familles de langues. C’est la philologie comparée. Vous voyez. Mais, en même temps, et il
+dit : c’est un cas spécial, c’est le cas seulement de la philologie. Il nous dit ça... il faut que je
+vous donne la référence si vous voulez vous-mêmes vérifier... [Pause pendant que Deleuze
+cherche] voilà, il nous dit ça [145 :00] page 306 suivantes…
+
+Lucien Gouty : Des Mots et les choses ?
+
+Deleuze : des Mots et les choses, et il ajoute : dès lors, cette dispersion du langage va susciter
+comme une contrepartie. Si la philologie disperse le langage en familles irréductibles, la
+littérature prend une nouvelle fonction, et ce que nous appelons littérature au sens moderne du
+mot, c’est une opération qui consiste à rassembler le langage. « Rassembler » est le mot qu’il
+emploie. La littérature conçue comme contrepartie de la linguistique. Bien. [Pause] [La
+pagination que donne Deleuze ici est inexacte puisque, en parlant de « rassembler le langage »
+dans Foucault, il donne des références qui correspondent au chapitre IX des Mots et les choses,
+vers pp. 316-318 ; voir Foucault, p. 139, notes 16 et 17]
+
+Mon trouble, [146 :00] c’est : pourquoi dit-il ça du langage et seulement du langage ? Puisqu’à
+première vue, c’est vrai aussi pour la vie et c’est vrai aussi pour le travail. C’est vrai pour la vie,
+on l’a vu, la force dispersive des plans d’organisation, non moins que des familles de langues. Et
+c’est vrai pour l’économie, on l’on a vu, la dispersion des modes de production irréductibles les
+uns aux autres, les conditions de production. Bien. Il s’explique là-dessus, et il dit que, dans les
+deux autres cas, c’est sous l’influence de circonstances extérieures qu’il y a une telle dispersion,
+[147 :00] tandis que, dans le cas du langage, c’est pour des raisons internes. Ça ne me paraît
+pas... pardon de dire ça, ce n’est pas une objection que je fais, c’est, c’est... c’est pour ça que je
+voudrais vous proposer un schéma à la fois plus simple et... [Deleuze ne termine pas la phrase]
+
+Là, il y a quelque chose que je ne comprends pas. Si vous le comprenez, vous, tant mieux, à ce
+moment-là vous me direz. Je ne vois pas pourquoi il extrait, là, le langage et la littérature, car ça
+me paraît définir, au contraire, la formation XXème siècle ou XXIème. Qu’est-ce qui se passe ?
+C’est vrai que la formation XIXème ne reconnaissait les forces de finitude que en dispersant les
+produits. C’est par là qu’il faisait une science comparée : familles de langues, [148 :00] plans
+d’organisation, modes de production. Si je demande maintenant : avec quelles nouvelles forces
+venues du dehors les forces dans l’homme entrent-elles ? Ben, je dirais que ce n’est pas spécial
+au langage que se produit ou tend à se produire un rassemblement, en employant le mot même de
+Foucault, rassemblement de la vie, rassemblement du travail, rassemblement du langage, et que
+je ne vois pas pourquoi Foucault tient à extraire surtout que ça complique pour, ensuite,
+l’histoire, l’ombre du surhomme.
+
+La vie se rassemble, le langage..., je suppose comme hypothèse... Là, pardonnez-moi, je dis
+vraiment des petits trucs. [149 :00] La vie se rassemble sous quelle forme ? Sous la forme du
+code génétique. La vie se rassemble dans le code génétique. Le code génétique est le lieu de
+pliage ou de pliure fondamentale. Et c’est un nouveau mode du pli. C’est une tout autre manière
+de plier. Le travail se rassemble dans les machines dites de troisième espèce, machines
+cybernétiques, machines... machines d’ordination. [150 :00] Ou, conformément à ce que je vous
+disais l’autre fois, se rassemble dans le silicium. La vie c’est le carbone, il y a la revanche du
+
+                                                                                                   26
+
+silicium. Ça a été posé dès le début, hein. Dès le XIXème siècle, on se demande : pourquoi est-ce
+que c’est la formule eau-carbone qui a triomphé, c’est ça le problème de la vie. S’il y a un
+problème de la vie, c’est le succès étonnant de la formule eau-carbone, hydrogène-carbone.
+
+Ce n’est pas évident, pourquoi que ça ne s’est pas fait autrement ? Pour des raisons très proches
+des chaînes génétiques. Pour des raisons très proches du code génétique. Il fallait des chaînes
+carbonées pour avoir la stabilité, les rapports voulus avec la chaleur, etc., [151 :00] et pourquoi le
+carbone encore une fois et puis le rapport carbone hydrogène ? Tout ça était très favorable, mais
+ça n’exclut pas d’autres formes vitales. Et il y a très longtemps que les microbiologistes
+demandent, en chimie biologique, pourquoi pas le silicium ? Alors on donne des raisons, mais
+ces raisons, elles sont convaincantes statistiquement, jusqu’à un certain point. Oui, le carbone
+présentait plus de chance pour que le vivant… pour que le vivant se forme et se déploie. Et le
+silicium ? Avec une autre combinaison, parce que ce serait difficile, ou alors il faudrait des
+pressions fantastiques, mais on en a vu d’autres dans la formation du monde, pour qu’il y ait des
+combinaisons silicium-hydrogène. La chance du silicium, elle ne peut pas être... Quand on
+demande : est-ce qu’il y a d’autres formes de vie ? Ça ne veut pas dire : est-ce qu’il y a des
+martiens ? Ça veut dire : est-ce [152 :00] qu’il y a des formes vitales qui sont fondées sur autre
+chose que la combinaison hydrogène-carbone.
+
+Alors le silicium, bon. Aujourd’hui, qu’est-ce qu’il y a d’intéressant dans les histoires... euh...
+des nouvelles machines ? Les nouvelles machines, c’est la revanche du silicium, c’est épatant,
+ça. Le silicium nous revient. On avait préféré le carbone et puis pan ! [Rires] Par un biais, qui est
+le biais technologique, c’est la grande revanche du silicium. On ne fait pas des mémoires avec du
+carbone, hein. On fait des mémoires avec du silicium. Je crois que c’est quelque chose de
+fondamental. Je dirais : le travail se rassemble dans les machines de troisième espèce ou, si vous
+préférez, pour parler gros, le travail se rassemble dans le silicium. Le langage se rassemble dans
+ce qu’on appelle aujourd’hui la littérature. Ça, gardons l’idée [153 :00] de Foucault, mais en y
+joignant les deux autres.
+
+Qu’est-ce que c’est que cette force de rassemblement ? Cette force de rassemblement, je crois,
+c’est ce qu’on pourrait appeler le fini illimité. Faute d’un meilleur mot, hein, il faudrait trouver
+un autre mot. Mais ça n’est ni du fini, ni de l’infini. Et vous le voyez très bien même au niveau
+du code génétique, qu’est-ce que c’est que la formule du fini illimité ? C’est que les composants
+ne sont jamais du même niveau et de même nature que le composé. Si vous comprenez ça -- c’est
+la base du code génétique -- si vous comprenez ça, vous voyez comment un nombre fini de
+composants peut donner un nombre pratiquement illimité de composés. Parce que, en effet, si les
+composants sont d’une autre nature et à un autre niveau que le composé, vous pourrez analyser le
+composé à son niveau [154 :00] d’une infinité de façons, bien que ses composants à un autre
+niveau soient en nombre fini. C’est ce qu’on appellera une combinatoire. Le propre d’une
+combinatoire c’est opérer avec des éléments finis d’un niveau A pour produire des composés
+illimités de niveau B. C’est le propre du code génétique, c’est le propre du langage, c’est le
+propre de... Bien.
+
+Qu’est-ce que ça donnerait, ça ? Qu’est-ce que ça veut dire le rassemblement du code... la vie se
+rassemble dans le code génétique ? Ben, c’est que, là, il n’y a pas de problème, il y a bien unité
+de composition du code génétique. Il va se distinguer par ses pliures, par ses pliages, etc. Et
+
+                                                                                                   27
+
+qu’est-ce qui n’est pas exclu perpétuellement dans les recherches génétiques aujourd’hui ? C’est
+pas du tout qu’un homme [155 :00] devienne un lapin, mais c’est qu’un code génétique, par
+exemple de quelqu’un, d’un corps, capture un fragment de code d’un autre vivant. [Sur le code
+génétique dans ce contexte, voir Foucault, p. 140] Dans l’exemple toujours admirable de la
+guêpe et de l’orchidée, voilà que la guêpe..., non voilà que l’orchidée a capté, capturé un
+fragment de code génétique de la guêpe. Il y a comme des inter-captures de fragments de code.
+C’est ça qu’on peut dire un rassemblement de la vie dans le code génétique. Et ça fait partie... et
+c’est ça qui est en train de changer : toute la conception de l’évolution aujourd’hui. C’est ces...
+inter-captures de fragments de code. [156 :00]
+
+Je dis, alors : supposez les forces dans l’homme entrent en rapport avec ce nouveau type de
+forces que j’appelle par commodité « fini illimité », rassemblement de la vie dans le code
+génétique. Rassemblement du travail dans le silicium, rassemblement du langage dans la
+littérature... Et je dis : quel est le composé ? Ben, ça n’est plus ni Dieu ni l’homme. Après tout,
+bien plus, la forme « homme » ne se dessinait que dans la mesure où il y avait la mort en elle, on
+l’a vu aussi : elle ne se dessinait que par épousailles de forces de finitude.
+
+Bien, alors on peut toujours appeler ça conventionnellement le surhomme, mais c’est un mot
+tellement pourri, que maintenant ce n’est pas la faute de Nietzsche, [157 :00] qu’il vaudrait
+mieux trouver un autre... Mais comment on définirait le surhomme ? Moi, je crois que le
+surhomme, il faudrait dire trois choses. C’est celui qui s’unit au silicium, c’est-à-dire c’est celui
+qui s’est chargé des roches elles-mêmes. On peut en parler comme ça, parce que… sinon, celui...
+et c’est comme ça, je suppose... c’est, c’est... Foucault, il... ouais, il s’est chargé des roches.
+Pourquoi des roches ? Parce que vous savez le silicium domine dans le monde inorganique
+comme le carbone domine dans le monde vivant. Donc je dis : il s’est chargé des roches, des
+roches elles-mêmes.
+
+Tout ça c’est pour amener l’autre aspect : il s’est chargé des animaux mêmes. Qui a dit ça ? Qui
+a appelé à une espèce d’homme au-delà de l’homme qui se chargerait des animaux [158 :00]
+mêmes ? C’est [Arthur] Rimbaud. C’est Rimbaud. Se charger des animaux mêmes. Mais à la
+lettre, il me semble, là je ne fais pas de la science, parce que c’est au contraire la science que...
+que... je ramène à un peu de poésie, c’est la capture d’un fragment de code. Se charger des
+animaux, encore une fois, ça ne veut pas dire devenir lapin, ça veut dire capturer un fragment de
+code exactement comme la guêpe... non comme l’orchidée capture un fragment de code de la
+guêpe. [La discussion des roches et de Rimbaud correspond au dernier paragraphe de Foucault,
+pp. 140-141]
+
+Alors vous vous rendez compte, à ce moment-là, les voies de l’évolution, elles sont
+complètement changées, ça ne se fait pas par filiation. L’évolution, elle ne se ferait pas par
+filiation, comme disent les biologistes aujourd’hui, les généticiens aujourd’hui, elles se feraient
+par capture de code. Donc mes trois aspects sont très, très cohérents : chargé des rochers euxmêmes, chargé des animaux eux-mêmes, chargé de la [159 :00] littérature, qu’est-ce que c’est
+que ça ? Le surhomme, il serait chargé de ces trois choses, ce serait ça le surhomme, à condition
+de dire : qu’est-ce que c’est que la littérature aujourd’hui ? Foucault nous en donne une
+définition, donc, là, je m’arrête là.
+
+                                                                                                  28
+
+La prochaine fois, j’essaierai d’ajouter quelque chose. Essayer de regarder la manière dont il
+définit la littérature... vous le verrez dans Les Mots et les choses, pages 59, 394, 397. C’est, pour
+lui..., la littérature, c’est précisément l’opération par laquelle on se charge de l’être du langage,
+c’est-à-dire c’est le rassemblement du langage. Ben, c’est ce triple rassemblement qui permettrait
+de donner une vague ombre à cette notion floue de surhomme. [Fin de l’enregistrement]
+[2 :39 :49]

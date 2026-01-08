@@ -1,0 +1,1624 @@
+1
+
+Gilles Deleuze
+
+Seminar on Foucault, 1985-1986
+
+Part II: Power
+
+Lecture 13, 25 February 1986
+
+Transcribed by Annabelle Defourcq; time stamp and additional revisions, Charles J.
+Stivale
+
+Translated by Christopher Penfield; additional revisions, Charles J. Stivale
+
+Part 1
+
+…a long time ago.1 So that a recapitulation is necessary of Foucault’s account of powerknowledge relations – relations, you will recall, which are organized according to two axes: the
+knowledge axis and the power axis. Well, how might we sum up power-knowledge relations?
+We understand clearly that in experience, we always find ourselves confronted with mixtures of
+power-knowledge. But that does not in the least deny philosophical analysis the right to
+disentangle two heterogeneous axes, a knowledge axis and a power axis, despite the fact that
+concrete experience always presents us with mixtures. It is exactly as if I were to assign power to
+be the ordinate along the vertical axis [en ordonnée] and knowledge to be the abscissa along the
+horizontal axis [en abscisse].
+
+Well… and what we have seen in all that has transpired so far is how Foucault began by studying
+the forms of knowledge on their corresponding axis, which it is easy, in his list of books, to
+assign: up until Discipline and Punish. Not that power was ignored, only that it is posed
+implicitly, presupposed. We have seen that he already implicitly needed a certain conception of
+power centers [foyers], that starting from the theory of the statement, he could not form the
+corpora of statements without reference to power centers. We saw all of that, but it remains the
+case that the power axis, up until Discipline and Punish, was neither treated in its own right nor
+explicitly considered. It is Discipline and Punish that marks the first break in Foucault’s oeuvre,
+passing from the knowledge axis to the power axis.
+
+Thus, that being said, in our summation, which should conclude this study on the power axis…
+We began the first term by studying the knowledge axis, so we have followed the chronological
+path in Foucault’s oeuvre, and next we thus took up the power axis. In the necessary
+recapitulation, I believe we must first posit that there is a difference in kind between power and
+knowledge, between the two axes. There is a difference in kind. I am reminding you of the major
+points, how this difference in kind is organized.
+
+Well, the first aspect is that power mobilizes what are essentially points or affects. Points of
+domination or, if you prefer – it amounts to the same thing, affects being punctual –, affects that
+refer to the two aspects of power: the power to affect and the power to be affected. We have
+
+                                                                                                      2
+
+seen, in effect, that power consists in relations of forces, and that force is presented at once as the
+power to affect other forces and as the power to be affected by other forces.
+
+These affects are thus singular points. Power, therefore, is presented as a distribution, as a
+distribution of singular points that are points of domination. -- I am not going to go back over
+that here since this is a summation, so you must tell me later if it is necessary to return to certain
+aspects. -- Whereas knowledge mobilizes not points and distributions of points, but forms, and it
+organizes forms. Power is informal; knowledge is the organization of forms, is fundamentally
+formal and formalizing. There are forms of knowledge, whereas there are only points of power,
+which Foucault puts very well in The History of Sexuality, Volume 1: power runs from one point
+to another.
+
+The second aspect is that power consists in relations of forces (in the plural), and we have seen
+that force exists only in the plural, force is said in the plural. Why? Because force is inseparable
+from its relation to other forces. Force is the generic or abstract name for a multiplicity. Whereas
+– and you recall that, when I say “power is a relation of forces,” this means that the dominated
+force belongs no less to power than the dominant force, or, if you prefer, the power to be affected
+is no less constitutive of power than the power to affect – whereas knowledge is a relation of
+forms, and we will not conflate a relation of forces [rapport de forces] with a formal relation
+[relation de forme]. We have seen what these forms are, the great forms of knowledge, the two
+fundamental forms of knowledge: seeing and speaking, the visible and the statable. There is a
+form of the statable, and there is a form of the visible. The form of the statable is language, such
+as Foucault conceives it; the form of the visible is light, such as Foucault conceives it.
+
+The third aspect is that power – I remind you, as always, that when we distinguish between
+power and knowledge, it is a matter of abstraction since, once again, the concrete only ever
+presents me with mixtures –, from the point of view of abstraction, I am entitled to say thirdly
+that power concerns non-formed matters and non-formalized functions, whereas knowledge
+supports and involves formed matters and formalized, finalized functions. That, no doubt, is the
+most important point. This is how you can distinguish the difference between what I have
+proposed to call categories of power and categories of knowledge.
+
+I remind you: what, for Foucault, are categories of power? He tells us very clearly, for example,
+in societies of so-called sovereignty that the categories of power will be to levy any activity
+whatever – it’s the “whatever” [«quelconque»] that is essential – that the operation of the
+sovereign is to levy any activity whatever and to decide death. The Sovereign decides death in
+general. Whether it be death at war, or the death of convicted criminals, or any death whatever,
+any levy whatever. It is when you can raise a category to the coefficient of the whatever [du
+quelconque] that you grasp a category of power.
+
+In disciplinary societies, that is, in modern societies, I remind you, what is a category of power?
+Well, he tells us: to impose any task whatever on a limited multiplicity. To impose whatever any
+whatever, that is discipline. Discipline as power: there is discipline as power from the moment
+that you impose whatever task on a small multiplicity. There you have a first category of power
+in disciplinary societies. And finally, when power manages life, you see that disciplinary
+societies are distinguished from societies of sovereignty, since instead of levying whatever
+
+                                                                                                         3
+
+activity, you impose a task on a small multiplicity, and since instead of deciding death, you
+manage, power manages life in a large multiplicity. You don’t tell yourself, it is a category of
+power, precisely because you don’t have to say who or what this concerns, which activity, you
+don’t know; to impose a task on whatever small multiplicity, on whatever multiplicity on
+condition that it be small. To manage life in relation to whatever multiplicity on condition that it
+be large. These are the two aspects of disciplinary power. I thus say: power concerns and mixes
+together non-formed matters – whatever multiplicities – and non-formalized functions –
+imposing whatever task.
+
+By contrast, what will the categories of knowledge be? The categories of knowledge concern
+formed matters and formalized functions. It will be, for example: to educate, a knowledge of
+educating; to punish, a knowledge of punishing; to set to work, a knowledge of setting to work. It
+will be all the formalized ways of imposing precise tasks, tasks qualified by a determinate
+multiplicity. The ones to be punished will be the prisoners; the ones to be educated will be the
+children. And all that no doubt is subsumed by the category of power “to impose any task
+whatever on any limited multiplicity whatever,” but when it comes to categories of knowledge –
+to educate, to punish, to set to work, etc. –, these are obviously not the same thing.
+
+Thus, I can say that perhaps we better understand why the concrete, by definition, only presents
+mixtures of power and knowledge, for experience never reveals something as strange as “to
+impose any task whatever on any limited multiplicity whatever”. In experience all multiplicities
+are qualified: it’s this or that, it is schoolchildren, prisoners, workers, soldiers, etc. Which is to
+say, it is always a matter of the qualified and the task itself; the imposed task is always
+determined, namely, it is a question of educating, of punishing, of setting to work, etc.
+
+This is why Foucault tells us, for example, that the categories of power are of the type “to incite,
+to provoke…”, etc., which is to say, they do not say the quality of that to which they are applied,
+nor the form into which they enter, since as soon as they enter into a form, they constitute forms
+of knowledge. I believe that this point is the most important for evaluating the difference
+between power and knowledge. I will say yet another aspect, and all these aspects are linked
+together: power is constitutive of a microphysics, and knowledge is constitutive of a
+macrophysics. It is even for this reason that power has no form; that power, by definition, goes
+from one point to another. It is a set of infinitesimal relations, a set of fluid, evanescent relations.
+It is knowledge that gives them a stability. And finally, power is the object of a strategy, while
+knowledge is the object of a stratification. Knowledge is the object of a stratification, it being
+said that strategy is the use or the distribution of a non-stratified matter. Obviously, all this
+presupposes everything that we have done previously, but I am ready to return, if you deem it
+necessary, to this or that point.
+
+For this purpose, if I were to try to give a very general approximation, I would say: yes,
+knowledge is a matter of archives, the archive being audiovisual, that is, an archive of sight and
+an archive of the statement, an archive of the visible for each period and an archive of the
+statable for each period. Knowledge is an archival matter; power is not an archival matter. Power
+is a matter of cartography, of a moving cartography, a strategic map, always reworkable, always
+fluid. So that up to this point, Foucault’s two words could be: until Discipline and Punish, I am
+an archivist; with Discipline and Punish and The History of Sexuality, Volume 1, I am a
+
+                                                                                                   4
+
+cartographer. The strategic map is millimetric. The millimetric map of power is of a different
+nature than the archives of knowledge. And over the archives, over the archives of strata, over
+the archives of stratified formations, it is necessary to superimpose strategic maps, the
+millimetric maps that state the relations of forces or power relations of a given period, the
+relations of forces or of power that correspond to such and such stratified formation. There are
+relations of forces that correspond to each stratified formation, but the two differ in kind as
+power and knowledge differ in kind. This difference in kind does not prevent concrete
+experience from only ever giving me mixtures of one and the other.
+
+So, here you have the first aspect: there is a difference in kind between power and knowledge,
+and this point must be very, very clear. But the second aspect: that there is a difference in kind
+does not prevent there necessarily being reciprocal presupposition between the two. There is
+reciprocal presupposition, that is, the one presupposes the other and the other presupposes the
+one, but obviously in two different ways. The first way: knowledge is fundamentally formal, that
+is, it is an organization of forms, and of two forms, the form of seeing and the form of speaking,
+which are variable when it comes to each formation, that is, when it comes to each historical
+period. It remains the case that without power relations, without the relations of forces,
+knowledge would have nothing to actualize, and its forms would be empty forms. It is in this
+sense that it presupposes power. But inversely, without the forms of knowledge, power would
+remain punctual, fluid, evanescent, unstable, and could neither be conserved nor reproduced.
+
+The third and final aspect: not only is there a difference in kind between power and knowledge,
+not only is there reciprocal presupposition between the two, but there is a primacy of power over
+knowledge. In what sense is there primacy? It is, or rather, they are the relations of forces or of
+power – I would remind you that the “forces” in “relation of forces” must always be written in
+the plural, and “power relation” in the singular – the power relation is the relation of forces. And
+well, it’s the relations of forces or of power that are causal. Causal how? I would say: as
+immanent cause. What are they the immanent cause of? Of forms, of historical formations, the
+historical formations that constitute forms of knowledge [les savoirs]. So that I can say: power
+necessarily implies knowledge, but knowledge necessarily presupposes power.
+
+A student: Does power implicate [implique] or explicate [explique] knowledge?
+
+Deleuze: Both. Both, by which I mean that implicating and explicating are never opposed to one
+another. To implicate, literally, is to envelop; to explicate is to develop. It goes without saying
+that what envelops, develops. One can say, in effect, that knowledge envelops relation of forces
+or of power, and equally that it develops them. What I mean is: do not think that implicating and
+explicating are in a relation of conflict. It is a relation of complementarity. If I say that B
+implicates A, I also mean that B explicates A. The contrary of implicating and explicating…
+implicating and explicating form a whole, and the term that would be contrary to implicating and
+explicating would be to complicate. So, I can say in effect: the relation of forces complicates
+knowledge. Which is to say: it comprehends it. What is opposed to implicating and explicating is
+comprehending, that is, complicating.
+
+Hence, I can at least reply, as the outcome of this summation, I can reply to two questions that
+two of you asked me. The first was the following: in accepting that power is in a certain manner
+
+                                                                                                         5
+
+a cause of knowledge, or if you prefer, that the relations of forces or of power are the immanent
+cause of forms of knowledge, does this not restore a kind of unity? We have seen previously in
+what sense Foucault, in my view, made a theory of multiplicities, where unity disappeared in
+favor of a new status of the multiple. A status of multiplicities that could be thought without
+reference to something functioning like a unity. How to think the multiple in its pure state? From
+this point of view, then, if you have followed me in…, previously, it would be very important
+that the idea of an immanent cause not restore a kind of unity.
+
+As to the question whether there is a restoration of a unity, I believe we have the answer from the
+moment that what plays the role of immanent cause exists only in a state of radical dispersion,
+that is, in the form of relations of forces, force being irreducible to any unity since force exists
+only in the multiplicity that relates force to force in the form of a power to affect other forces or a
+power to be affected by other forces. Force presents an irreducible multiplicity and can only be
+conceived in the multiple; thus, there is no restoration of any unity whatever.
+
+The second question that was posed to me was the following: if there is a difference in kind
+between power and knowledge, won’t we have an infinite regress? The question meant the
+following. You will have to recall what we have learned in analyzing the domain of knowledge.
+We encountered the same fact of a difference in kind between the two forms of knowledge: sight
+and the statement, the visible and the statable. And we came across the following problem: how
+can there be agreement between the visible and statable when they are heterogeneous and differ
+in kind, to the point that we never see what we say and never say what we see? It is thus the
+difference in kind between the two forms of knowledge that compelled us to go beyond
+knowledge in order to find a reason or a cause on the basis of which, despite the difference in
+kind between the two forms of knowledge, these two forms would be co-adaptable. And we
+found it at the level of power relations. It is power relations that explain that the two forms of
+knowledge are co-adaptable. Why? Because power relations are informal and are not subject to
+the conditions of the two forms of knowledge. So, they are able to account for the coadaptation
+of one form to the other.
+
+But then the question was as follows: if there is a difference in kind between power and
+knowledge, are we not yet again referred to a third term, a new cause that would account for the
+coadaptation? No. We are not referred to a new cause, to a cause of the cause, on condition that
+we understand how the immanent cause acts, which is to say, in what sense power relations or
+relations of forces are indeed the immanent cause of forms of knowledge. And well, in what
+sense? If I try to take a very general formula, I would say that the forms of knowledge actualize
+relations of forces or of power. In other words, the effect actualizes its cause, and it is the effect
+itself that does the actualizing. In what sense? In effect, we have seen that relations of forces by
+themselves, according to Foucault’s analysis, would remain completely fluid, unstable,
+evanescent, if they were not actualized in their effects, their effects being a stable form.
+
+So, I would say: the effect actualizes the immanent cause, and in effect an immanent cause is a
+cause inseparable from its effect, that is, a cause that remains entirely virtual if one separates it
+from its effect; in the first place, but then what does the actualization consist in? I would remind
+you, these are things that we have seen more recently: according to Foucault, actualization isn’t
+simple, but looking closely at the texts, it seemed to me that the actualization of relations of
+
+                                                                                                          6
+
+forces or of power consists in two operations, two simultaneous operations. On the one hand, the
+effect actualizes insofar as it integrates. The actualization is an integration. I would say:
+knowledge integrates the relations of forces; forms integrate the relations of forces. [Pause] This
+is what Foucault tells us, it seems to me, in The History of Sexuality, Volume 1, pages 93-95.
+When he says that in the forms, the relations of forces then constitute a general line of force that
+traverses the local confrontations and connects them, proceeding based upon them… and in
+return, the forms will carry out redistributions, alignments, homogenizations, arrangements, and
+convergences. In other words, the forms align, homogenize, integrate the relations of forces or of
+power.
+
+I would remind you that, concretely, we have carried out a very precise analysis, we have tried to
+obtain a very precise analysis where we could invoke mathematics in order to say: well yes, it’s
+very simple, you see in mathematics – and even if there is no need to know the math… it is
+enough to have a basic understanding; understanding is not difficult – in mathematics, in the
+theory of functions, one distinguishes two elements as differing in kind. One distinguishes the
+distribution [Deleuze goes to the board] of singularities, of singular points… whichever you like:
+points of inversion, points of tangency, nodes, foci…. You distinguish a distribution of
+singularities, that is one thing, and you distinguish from it the speed of the curve that is precisely
+called an “integral curve”, integral curve, curve of integration, the integral curve that passes
+through the neighborhood of the singularities.
+
+Now, the distribution of singularities in a vector field is what we will call – no longer in
+mathematics, in Foucault – it’s what we will call the emission of singularities corresponding to
+the relations of forces, the distribution of singularities in a vector field: but what is completely
+different, or rather of another mathematical nature, is the speed of the integral curve that passes
+through the neighborhood of the singular points and that performs an integration. Here, then, we
+see quite well what at this level in what way the effect integrates the immanent cause, the
+relations of forces: it’s a distribution of singularities, [Deleuze returns to his seat] but the effect
+integrates, that is, the forms of knowledge will trace the curves that pass through the
+neighborhood of the singularities of power. This is very clear.
+
+The second aspect in Foucault’s other text: integration. You see, we will be able to define
+integration in many ways. I would say: to integrate is to align, to homogenize, etc. I would
+equally say: to integrate is to trace the curve that passes through the neighborhood of
+singularities. The singularities being the points of power. The curve that passes through the
+neighborhood constituting the forms of knowledge. I will also say, with Foucault, that to
+integrate is to institutionalize. Institutions are inseparable from forms of knowledge; it is to
+institutionalize, to finalize. Remember, in fact, that as we have just recalled, the relations of
+forces or of power concern only non-formalized and non-finalized functions; when you assign a
+finality, you are already in the domain of knowledge. To impose whatever task on whatever
+multiplicity is a category of power, but to educate is a formalized and finalized function. So, too,
+to set to work and to punish. Thus, to integrate is to institutionalize, to finalize, to technologize,
+Foucault says, and to rationalize. In effect, these are the four great species, it seems to me, under
+which functions receive a form and a finality.
+
+                                                                                                        7
+
+At the same time, it seems to me necessary to make this summation, and also it seems to me very
+abstract, but ultimately, you will have to remember a bit of what we did before, we will see…
+There you have it, that is the integration aspect. I would say: the effect integrates the cause, that
+is, the great forms of knowledge integrate the relations of forces and of power, the informal
+relations of forces or of power, giving them a form. Yet, yet, yet, yet… for me, that is not
+sufficient. It must be the case, also and again, that actualizing not only be integrating.
+Actualizing must also be differentiating. The effect does not integrate the immanent cause – that
+is, the fluctuating relations, the relations of fluctuating forces – in order to stabilize it, the effect
+does not integrate the relations of fluctuating forces that constitute the immanent cause, without,
+at the same time, introducing a differentiation. To be actualized is always to be actualized
+following divergent pathways, as if the whole of the cause was not able to be actualized in one
+go, but must be actualized in at least two divergent directions. And I told you: the very idea that
+to be actualized is to be differentiated, for example, is an idea that was fundamentally and … so
+well-developed by Bergson, that actualization inevitably implies a process of differentiation – I
+am not going back over that. … But you must hold in mind concrete examples.
+
+And in fact, in Foucault, you see the actualization of relations of forces always implying large
+differentiations: it is at the level of the actualization of relations of forces, that is, the way in
+which the relations of forces are embodied in the large forms, in the large, stratified formations,
+it is at this level that the large differentiations of sexes appear… – You recall Foucault’s theme
+… at the level of punctual relations, sexuality is without sex. The difference between the sexes,
+the differentiation of sexes, appears at the level of the integration of sexuality. … Sexual
+differentiation, political differentiation, social differentiation of classes, etc. All that appears at
+the level of the stratified formations. It’s that the relations of forces cannot be actualized without
+following divergent pathways of actualization. To be actualized is to create the differentiation of
+pathways according to which the actualization takes place.
+
+Now, for us, this is essential because it is the only thing that enables us to reply, once again, to
+the question over which we had lingered at the level of knowledge. Once again, you have a form
+of the visible and a form of the statable, and there is a chasm between the two. I do not say what
+I see, and I do not see what I say. All of Foucault’s analysis arrived at this result. There is no
+agreement between seeing and speaking; there is a battle between the two, and the whole theme
+of a battle between what I see and what I say was developed by Foucault in a masterful manner.
+Good, but then… we were here when we were studying knowledge: how can we even speak, can
+he speak of battle? Since “battle” between seeing and speaking implies at least that there be a
+minimum of relation, but to the point where we have steered his analysis, there is no relation. On
+the one hand, I see, and on the other, I say. But I do not see what I say, and I do not say what I
+see. Okay.
+
+It would seem, then, that we find ourselves confronted with, as [Maurice] Blanchot put it, a nonrelation between seeing and speaking, and we had ended our analysis of knowledge by saying:
+okay, how to explain that there is a coadaptation between seeing and speaking? Since the whole
+analysis of knowledge pronounces a non-relation between the two? And it is now that we are in a
+position to respond… [Interruption of the recording, with text overlap] [42:00]
+
+Part 2
+
+                                                                                                        8
+
+… pronounces a non-relation between the two? And it is now that we are in a position to
+respond. Seeing and speaking constitute two fundamental lines of differentiation. It is in this
+sense that they are in non-relation. Seeing and speaking diverge. Why, at the heart of their nonrelation, are they nevertheless in relation? How to explain that a relation emerges from the nonrelation, to such an extent that a battle between the two is possible? You see, the answer is that
+the differentiation, the divergence between the two forms, is in fact the actualization of the same
+informal element, the relations of forces or of power. It is precisely because the relations of
+forces or of power are informal that they are able to be actualized in two divergent forms, which,
+on their own account and by themselves, are in non-relation, but which enter necessarily into an
+indirect relation with each other by virtue of what they actualize. So that means the last question
+is: but why is the fundamental seeing-speaking differentiation well-suited to the actualization of
+relations of forces?
+
+The answer will be the following: it’s that force is always in relation with other forces. In other
+words, force is multiple, but each force as element of a multiplicity already has two aspects: it
+has a power to be affected by other forces, and it has a power to affect other forces. The power of
+a force to affect other forces is what we will call the spontaneity of force; these aren’t Foucault’s
+words, but it doesn’t matter since their purpose is to make things clearer… The power of force to
+be… [Interruption of the recording] [45:19]
+
+… the variation of the relation of a force with other forces. Sometimes it is affected by the
+others, sometimes it affects the others. But, if you recall what we learned in the first term when
+we were analyzing knowledge, the visible appeared to us to be the form of receptivity. In this
+case the form, eh, no longer power. The visible was the form of receptivity under the condition
+of light. [Pause] The statement was the form of spontaneity under the condition of language.
+Therefore, we understand that the two powers of force, the power of spontaneity and the power
+of receptivity, are actualized in two differentiated forms, one of which must be a form of
+receptivity and the other, a form of spontaneity. It is thus not by chance that power relations are
+actualized in sight and in speech. Not that power, which consists of informal relations, itself sees
+and itself speaks, but as Foucault says so well, power makes see and makes speak.
+
+What is power itself? Itself, the conception that Foucault makes of power is quite analogous to a
+kind of Kafkian conception of the burrow. Power is a burrow, a tunnel, a tunnel that runs from
+one point to another. Power is the mole. The tunnel, the burrow, the mole, then, from one point
+to another. Ultimately, power is blind and mute. But it makes see, and it makes speak. As
+Foucault puts it in very moving passages in “The Lives of Infamous Men,” it draws us into the
+light briefly and compels us to speak for a moment. A complaint is lodged against me. It is very
+Kafkian; think of The Trial. And then, in my obscure existence, literally in my infamous
+existence, which is to say, without reputation, I am drawn to the light, as they say: I am brought
+into the spotlight. I take my turn, and then I’m off. That’s what power is, it draws us, it flings us
+into the spotlight, and then, okay, go on, you had your time. That’s what relations of forces are,
+eh. It forces me to speak. [Pause] It forces me to speak. “You will speak Tuesday at 9:00, at
+10:00…”, and then, afterward, I am returned to my mute existence. Someone who is thirsty for
+power is someone who would like to be always in the spotlight, always compelled to speak.
+
+                                                                                                   9
+
+So, we have foreseen this: in colloquia … or else in the night life, neon signs, you are drawn to
+this, good… Okay, then. Power makes speak, it makes see, it shows, it does not itself see, it
+shows, it does not itself speak, it compels to speak. Thus, what interests me is that… What is the
+question that I am asking you? … Namely: have we answered our question well if I gather
+together everything that we have done since the beginning? Have we provided a response to the
+problem that we have, namely: what are the relations between seeing and speaking if, by
+themselves, they are in a non-relation? It was necessary to go beyond the knowledge axis, to
+situate ourselves on the power axis, to discover the content of the power axis in order to
+understand how power relations, by being actualized in stratified formations, necessarily create
+two divergent forms, sight and speech, and how these forms therefore were in an indirect
+relation, even though directly there is no relation.
+
+As a result, I would say: when I spoke of a kind of Kantianism of Foucault, yes, yes, if I remind
+you that in Kant there was not at all the same problem, but an analogous problem. Kant
+determined a form of receptivity: space, it doesn’t matter, it doesn’t matter that in Foucault it is
+light and not space. And he determined a form of spontaneity: the concept, the spontaneity of
+force. It doesn’t matter that in Foucault, it is the statement and not the concept. What matters to
+me is that in Kant, the form of spontaneity, “concept,” and the form of receptivity, “space-time,”
+differed in kind. And Kant encountered the question: since space-time, on the one hand, and the
+concept, on the other, differ in kind, how can we explain that concepts apply to space and time?
+How can we explain that despite the difference in kind, there is coadaptation between the form of
+spontaneity, the concept, and the form of receptivity, space-time? And Kant said: it’s a great
+mystery. That concepts can be applied to space-time when there is a difference in kind between
+concepts and space-time is truly mysterious. He said: this is only possible because there is a third
+instance.
+
+But you understand it right away, this third instance cannot be a form. And he said: this third
+instance, he called it the schema of the imagination. The schema of the imagination, about which
+he said: it is in our soul, the most mysterious faculty, for the schema of the imagination is on the
+one hand homogeneous with space and time and, on the other, homogeneous with the concept.
+Which yielded: space-time and the concept are heterogeneous, but there is an instance, these are
+two heterogeneous forms, but there is a non-formal instance that is homogeneous with each of
+the two. You see, it was very curious.
+
+In fact, the schema is very curious. What is it that we call a schema? It’s not the same thing as an
+image, it’s a spatiotemporal determination, a spatiotemporal dynamism conforming to a concept.
+You can experiment with it, to have schemas of the imagination, it’s quite fun. There was a
+school of psychology not too long ago that called themselves Husserlian, and all the time they
+did what they called thought experiments, like this, this is roughly what it consisted in, and they
+often used the same term of schema: one was given a concept, and then you tried to have not an
+image corresponding to a concept, but a schema of the concept. It’s funny; try this at home, eh?
+For example: the concept of lion. The concept of lion is the definition, for example, of the lion in
+a classification of natural history. Mammal with a mane and long teeth, etc., you see? That is a
+concept. A lion image, you see as well what that is. But a lion schema, what is that? What
+spatiotemporal dynamism do you put under the word “lion”? It can vary according to... I don’t
+know, incidentally, to what extent it can vary, it’s really quite amusing, in any case.
+
+                                                                                                   10
+
+Ahh. And in order for you to better understand, it would be necessary to do a differential
+schematism, for the schematism – [Someone leaves the room] Another guy that I’ve discouraged
+[Laughter] -- For the schematism is differential; compare the schema of the louse and the schema
+of the lion. The louse itself has a concept, for there is no object, however small it may be in
+nature and however noxious it may be, that doesn’t have its concept. But the schema, what is the
+spatiotemporal dynamism of the louse? [Laughter] What is its manner of being in space and
+time? This is not part of its concept. In vain will you turn over in all directions the concept of
+lion, you will not find its manner of being in space and time, namely… and already I’ve said too
+much about it, what I am going to say is too much image. You begin by telling yourself: the lion
+sleeps all day, eh; good. Then he wakes up when evening comes, five o’clock in the evening, the
+lion opens his eye, he sniffs the air, and he sees if there are any antelope, and it’s the lioness who
+hunts. Okay, all that. Good.
+
+Try to repress what remains of images there – inside, hold on only to pure dynamisms,
+spatiotemporal dynamisms. [Pause] Okay, the schema. You have almost reached the schema,
+pure directions, pure directions in space-time. That’s what it is: you are not calling to mind a
+particular lion, but nor are you calling to mind conceptual characters; you call to mind pure
+orientations or directions, dynamisms. There is a dynamism of the lion that is the most beautiful
+portrait of the lion. Or else you call to mind the octopus and the eagle. The octopus and the eagle.
+You see, you can think them as concepts, you can give yourself an image. An octopus that is
+familiar to you, for example, [Laughter] and that you particularly like. [Laughter] And then an
+eagle. The schema is neither image nor concept. The schema, the spatiotemporal dynamism, will
+be at once the way the eagle flies, which is not the same thing as the way a buzzard flies or a
+hawk flies. The way the eagle swoops down, for what counts for birds of prey is always the
+descent and never the rise, obviously. Or the way they soar, or the way they build nests
+[fondent].
+
+There you have a schema. You imagine an eagle, you retain the pure spatiotemporal dynamism.
+That is what a schema is. Whereas the octopus is not at all like that. You cannot confuse an eagle
+dynamism and an octopus dynamism. The octopus isn’t rapacious movement. If you think a
+rapacious movement in its pure state, without knowing what it’s doing, there you will have a bird
+of prey schema. A rapacious movement that comes from above. I would say: that is the schema
+of the bird of prey. That’s the trick. If you think of a movement with multiple limbs, but “limbs”
+is already too much of an image… with multiple paths, with stuff that sticks, with a “something
+that sticks,” you remove images as much as possible in order to extract the pure schema, that is, a
+way of being in space-time, and that gives you a schema. You understand?
+
+And who did this for the octopus and the eagle? Who always defined animals by dynamic
+schemas? Lautréamont. Lautréamont never describes an animal, he states the dynamic
+movement. It’s never pleasant since it always results in catastrophes, but that is a schema. Now, I
+am not saying that… When Kant… Not all of this is Kant, it’s not Kant that I am telling you
+about. It is to help you understand what Kant means by schema when he tells us that a schema of
+the imagination is neither an image nor a concept, neither an image nor a concept, but something
+else, a set of spatiotemporal determinations that correspond to the concept.
+
+                                                                                                    11
+
+I would say that the schema is homogeneous with space and time since it itself consists in
+spatiotemporal dynamisms, but on the other hand, it is homogeneous with the concept since it
+corresponds to the concept itself. So that I can say: the concept, on the one hand, and space-time,
+on the other, differ in kind, are heterogeneous with one another, and yet the schema of the
+imagination is homogeneous with space-time, on the one hand, and with the concept, on the
+other. That is the admirable theory of the schematism in Kant. Now, I am just saying that in
+Foucault, you have something similar. The visible and the statable are heterogeneous. They are
+in a non-relation. These are two forms in non-relation. But there is an informal element that will
+act as the cause of their setting-into-relation. Only in Foucault, it will not be the schema of the
+imagination, but the relations of forces or of power, and the relation of forces will be at once
+homogeneous with the form of sight and homogeneous with the form of the statement, even
+though the two forms are not uniform, which is to say, are not homogeneous, are heterogeneous.
+
+It is in this sense that the problem which we encountered at the end of our study of knowledge in
+Foucault finds its solution here: namely, it is power relations that explain the coadaptation of the
+two forms of knowledge. There you have the summation that… that I wanted to make… And
+here I will make a solemn appeal to you, quite solemn: is this clear? Is there anything to go back
+over? Because, practically speaking, we have finished – practically, I say, for in fact more will
+remain for us for a little while, you will understand why – we have practically finished our
+analysis of power in Foucault. Thus: are there any points that are still obscure? Is there still
+anything that…. It is necessary for our summation, just now, to have been crystal clear, which I
+am not sure about. It is up to you to say, eh, if there is anything to go back over, or if I can go on.
+It’s essential because we will not go back over all this. It’s now or never.
+
+Another student: [Inaudible remarks]
+
+Deleuze: …of immanence? [Pause] In the general sense of the word, which is to say… I mean…
+in the sense in which every person using the term “immanent cause” should be in agreement on
+this point, about which there is no debate. A cause is immanent when it does not need to go
+outside of itself in order to produce its effect, and when the effect remains within it. You see, one
+distinguishes… yes, so then, this leads me to some… We are making rough distinctions; there is
+an infinite list of causes that belongs to what is beautiful in philosophy. But in general, we retain
+three major types of cause. In fact, many more are retained, but we will stick to three of them.
+Efficient cause, emanative cause, immanent cause. For philosophy is like mathematics, you
+won’t do it if you don’t learn it, and if you haven’t learned it… I mean: we cannot just say
+whatever we like, thus it’s very… it is just as precise as mathematical definitions, and we must
+distinguish in philosophy between what is open to debate – in what sense of debate – and what is
+indisputable. This topic is part of the domain…, this is not debated, that’s how it is.
+
+The efficient cause is defined thusly: it is a cause that needs to go outside of itself in order to
+produce its effect. It goes outside of itself to produce its effect, and its effect is external to it,
+which is to say, is really distinct from it. For example: God is the cause of the world. God goes
+outside of himself to produce the world, and the world is external to God. I would say: God is the
+efficient cause of the world. You see?
+
+                                                                                                       12
+
+Emanative cause: it is a cause the effect of which is external, but which does not need to go
+outside of itself in order to produce it. It is a cause that remains in itself to produce its effect, but
+the effect is external to the cause. It will be said that the effect emanates from the cause…
+Transitive, that’s efficient. Yes: efficient or transitive cause. Immanent cause, you see: it’s a
+scale, it’s a scale of progression.
+
+Immanent cause: the cause remains in itself to produce, and the effect that it produces is internal
+to it, remaining in the cause. Among these three types of causes, you have all the transitions
+possible, which is what makes it possible to infinitely multiply the types of causes. For example,
+God and the world. God and the world, to your liking: is God an efficient cause? Is he… Take,
+for example, the case of an emanative cause. I would say, it’s not certain incidentally, but at first
+glance I would say: no longer God and the world, which, from the point of view of Christianity,
+is an efficient or transitive cause. God creates the world. The case of an emanative cause: the
+spider and the silk, but as the great philosopher [David] Hume said, what proves to me that God
+is not a spider? It is an important question, if God were a spider… Because if God were a spider,
+then from that moment the world would not be the object of an efficient cause, but the object of
+an emanative cause. The silk emanates from the spider. In fact, the spider remains in itself to
+produce.... It remains in itself to produce the silk, but as for the silk, it does not remain in the
+spider, it forms the web. I would say: the spider is the emanative cause of the web.
+
+The immanent cause, you see, it’s not only that the cause remains in itself to produce, but that
+the effect remains in the cause. Spinoza is the greatest philosopher who developed the idea that
+between God and the world, there was a relation of immanence, that is, God remains in himself
+to produce the world, and the world remains in God. Plotinus, the philosopher of so-called
+“emanation,” would say, to simplify things greatly, that God is an emanative cause, that is, that
+the world emanates from God, meaning that the world does not remain in the cause. By contrast,
+Christianity tells us that God is an efficient cause, that is, that God does not remain in himself to
+produce the world and that the world does not remain in God. That is what will be called a
+creationist point of view. All this to say what in general is called an “immanent cause”. And each
+time that I use the term “immanent cause,” verify that it conforms well to this definition, for if
+not, the word “immanent” is not suitable.
+
+In Foucault’s sense, but at the same time I retract that, since Foucault does not use the word
+“immanence,” telling us just that power and knowledge are each in the other. To translate this in
+terms of immanence does not seem to me to be exaggerated. Power and knowledge are each in
+the other, I would say, good… and I gave the reasons for why I thought that we can say that
+relations of forces or of power were the immanent cause of forms of knowledge. And in effect,
+this means that relations of forces, which is to say, the cause… it means a little bit more than my
+general definition; it follows the characteristics of the general definition, but I would add that, in
+this precise instance, it must be understood that the cause would remain virtual without its effect,
+which is to say, the immanent cause will be a cause which the effect actualizes, that is, integrates
+and differentiates at the same time.
+
+So, I would say that we must now account for the general quality, the general characteristic that
+the immanent cause comes to determine, and further, we must add to it a more original
+
+                                                                                                     13
+
+characteristic, which is this idea of a cause undergoing actualization in its effect. [Pause] Does
+that answer your question?
+
+The student: Yes, thank you, but I believe that the question that I asked remains, it’s the same
+question, but I do not agree if you are saying that power implies knowledge. If you say this, you
+are saying [some indistinct words] … you cannot do that… [some indistinct words] or knowledge
+would have autonomy, it would also be the cause of structures, because either there is
+immanence in relation to explications or implications, or there is a dialectic with the autonomy of
+knowledge, that is, a great [an indistinct word] …
+
+Deleuze: That is, what?
+
+The student: [Some indistinct words]
+
+Deleuze: Sorry, I do not understand, will you start over? Where do you see a difficulty? You are
+telling me: I do not agree. With what do you not agree? Yes?
+
+The student: If there is a relation of implication between power and knowledge because if you
+are saying that… [some indistinct words]
+
+Deleuze [restating the question]: If I say that power and knowledge both presuppose one
+another…. Yes, if I say that?
+
+The student: No, it’s not that. If you are saying that there is a relation of implication between… if
+you are saying that power implicates knowledge, you are saying that power implicates and
+explicates knowledge. If you are doing that, then it’s that which I do not understand; you seem to
+be proposing a double causality… [Deleuze begins to groan] of the relative autonomy of
+knowledge… [some indistinct words]
+
+Deleuze: Listen, you are taking, you are taking one word from me, you are changing it by
+yourself, you’re old enough, this only verbal. I said “implicates” for convenience, I didn’t take
+“implicate” in a rigorous sense; that has no importance.
+
+The student: I’m trying to understand. This is not in order to argue over the word “implicate”.
+
+Deleuze: Fine, so what then?
+
+The student: It is in order to understand if there is a causal relation of the kind “power explicates
+knowledge,” or if there is a double causality of the kind, a kind of thinking that would have a
+great autonomy… that’s why; it’s to reach a question that I’m asking the question. If I am asking
+this question, it’s not in order to argue…
+
+Deleuze: I will say to you: okay, but the two… for me, at the same time, there is an autonomy of
+the two axes, knowledge power, there is an autonomy for the simple reason that these are two
+axes and that, moreover, they differ in kind. And at the same time, I can do nothing, things are
+complicated, it depends on what point of view we…. If someone says to me: is there a difference
+
+                                                                                                    14
+
+in kind? I would say: yes, there is a difference in kind between power and knowledge. Therefore,
+there is autonomy. If someone says to me: what relation do they have with one another? I would
+say: they are in a relation of cause and effect, quite simply, and there is a whole sphere of the
+autonomy of the effect, and yet it is immanent. So then, what does this mean? There is indeed
+heterogeneity between the two axes, there is a difference in kind and thus an autonomy of each
+axis. But at the same time the power axis would remain virtual if it did not become incarnated, if
+it did not become actualized in the forms of knowledge. Which does not prevent… the forms of
+knowledge are effects that actualize the cause – which does not prevent these effects from being
+autonomous, since they integrate their own cause and differentiate their own cause. So, I would
+say that it is both at once; it’s complicated, it all depends, there is a level where there is a strict
+autonomy, there is another level where there is reciprocal presupposition, there is another level
+where there is causality. As a result, I believe none of these points of view does away with the
+others, it seems to me.
+
+There was a sentence that struck me as fairly representative in The History of Sexuality, Volume
+1, on page 98. Here you are, this strikes me as representative: “Between techniques of knowledge
+and strategies of power, there is no exteriority” -- here this would be…. When I say “no
+exteriority,” it means there is immanence -- “…even if they have specific roles,” -- “even if they
+have specific roles,” this is difference in kind -- “…and are linked together” -- “And are linked
+together,” this is reciprocal presupposition -- “…on the basis of their difference.” Everything is
+contained here… There is immanence, yet autonomy, the specific function of each one... the
+linking together but notice a linking together on the basis of their difference in kind. There I
+believe, yes, to respond to your question that I now understand, we will thus start from what
+could be called the centers of power-knowledge. [Pause] Yeah, I… is this something of a
+response?
+
+The student: [Inaudible comments]
+
+Deleuze: It’s contradictory for you, okay. I do not want…, yes, but we’ve reached a point… You
+completely have the right to think that this doesn’t work; as for me, I think it works. So, if you
+think it doesn’t work, there are two things: either it’s me who is not doing well with what I am
+saying about Foucault, or else it is Foucault who doesn’t work. I would prefer, in fact, that you
+think… hmm, what would I prefer? [Laughter] I don’t know! As for me, I believe you have the
+right, but that at this point, we could speak for a long time, and I believe that we would not
+convince one another, eh? Me, I do not see clearly why you see a contradiction, and then, even if
+there is a slight contradiction, it is more a matter for me of knowing if it thus accounts for
+everything he tells us about the concrete mixtures. If it contradicts itself, well… contradictions
+are never all that serious, eh! Me, I don’t see it. I don’t see it.
+
+Me, I believe that if you see a contradiction, it is because, in your mind, even if it’s not yet clear,
+you would like for the power-knowledge relations to be posed differently, and because in fact
+you have in mind another position on the problem, given that it goes without saying that
+Foucault does not exhaust all the ways of posing power-knowledge relations. It’s because you
+have in mind another way of posing the problem, but at this moment, this gets away from our… I
+believe, because personally, I see no contradiction.
+
+                                                                                                  15
+
+So then, what you say, a contradiction, would equally apply to Spinoza, it would apply to all
+thought of immanence because immanence has never claimed that the effect has no specificity.
+For Spinoza, for example, the world remains in God. God produces the world, but it is a
+production of immanence, thus the world remains in God who produces it. And this does not
+prevent there being between the world and God a difference in kind; only, Spinoza tells us, it is
+not a real distinction. The world is not distinct… the world… is not to be mistaken for God, but
+it is not really distinct from God. Spinoza will say, in his own terminology, that there is a modal
+distinction between the world and God, but there is no real distinction. So then, I don’t know,
+have you read Spinoza? A little? Do you see contradictions in Spinoza?
+
+The student: No, not at all…
+
+Deleuze: Not at all? So then?
+
+The student: For the question of immanence in Spinoza, there is not implication; God does not
+implicate the world.
+
+Deleuze: “God does not implicate the world”. But yes, he does!
+
+The student: He explicates the world
+
+Deleuze: And it’s the same thing…
+
+The student: [Some indistinct comment]
+
+Deleuze: But no, it’s not at all the world! What do you mean? It is the world that implicates God
+and that explicates God. Once again, I will reuse my term because it is I who am inventing it:
+God complicates the world, and the world implicates and explicates God.
+
+The student: You are answering on Spinoza, that’s not the question.
+
+Deleuze [laughing]: what a feeble argument you are suddenly directing toward me. [Laughter]
+
+The student: I agree with your book on Spinoza. I’m trying to understand the relation between
+explication and implication. [Pause]
+
+Deleuze: How strange, what you are telling me! To complicate, by definition, is to hold together.
+Only God can complicate the world. No?
+
+The student: Yes.
+
+Deleuze: So God, and this was a formula of certain authors in the Middle Ages, Deus
+complicans, it’s beautiful: God complicates everything! [Laughter] But each of us, or indeed the
+world, implicates God and explicates God; or we will say that God is explicated through the
+world. So then, God does not explicate: he is explicated. Alright, is that okay?
+
+                                                                                                    16
+
+The student: [Indistinct remarks]
+
+Deleuze: God is explicated, but he does not explicate. He is explicated by way of the world, and
+what explicates God is the world. I say that because, in effect, for those who are not following,
+you have, especially around the Renaissance, but between neo-Platonism, you have there a trinity
+of extremely interesting notions, which are implicare, explicare, complicare. To complicate, to
+implicate, to explicate. And, from the Middle Ages to the Renaissance, there is an entire tradition
+where they develop a whole theory of complication, explication, and implication, which is very
+important for a logic of the Middle Ages and the Renaissance, and it’s very beautiful. Good,
+anyway… Are there any other points?
+
+Another student: I would like to know … [Indistinct remarks] why there is a primacy of the
+stateable… [indistinct remarks]
+
+Deleuze: Yes, in fact, there you have it, inevitably when I speak of Foucault, I am necessarily
+compelled to go a bit further. I cannot say, I cannot get a text out for you where Foucault says
+that there is primacy. What makes me say that everything transpires as though there were in
+Foucault a primacy of the statement over the visible? Several things. The principal one is the
+following: that there is a book, The Archaeology of Knowledge. And in The Archaeology of
+Knowledge, Foucault does not speak, as he did in his previous books, he does not speak of the
+visible and the statable. However, he comes up with the purest and most complete theory of the
+statement in this work, and the visible disappeared, and instead of a duality between statingseeing or statable-visibility, in place of such a duality, there is a duality between discursive
+milieu or discursive formation (to which the statement corresponds) and the milieu …
+[Interruption of the recording] [1:28:45]
+
+Part 3
+
+… He does not speak of the visible and the statable. However, he comes up with the purest and
+most complete theory of the statement in this work, and the visible disappeared. And instead of a
+duality between stating-seeing or statable-visibility, in place of such a duality, there is a duality
+between discursive milieu or discursive formation (to which the statement corresponds) and nondiscursive milieu or formation. Thus, I can say that in The Archaeology of Knowledge, visibility
+as positive form is placed in parentheses, and that what is not the statement is simply designated
+in a negative manner: non-discursive milieu.
+
+I say to myself: how can we explain this, that The Archaeology of Knowledge short-circuits the
+visible and holds onto a theory of the statement, if it is true that knowledge has two poles? It is
+there that I go a bit further, saying: in my view, it is because, the whole time, the statement had
+primacy. If the statement has primacy, we can conceive how, in a book that treats of the
+statement, the other pole is no longer designated except negatively, since it is not the essential
+pole of knowledge. That forces me to say – at least, once I have made this hypothesis that
+accounts for a real problem in Foucault – it forces me to say: if it is true that the statement has
+primacy, why would it have primacy? Why would the statement in language have primacy over
+the visible in light? Thus, I am again forced to go a little further and to say that yes, there would
+be one way of answering: ultimately, the visible is dependent on the statement, one sees only
+
+                                                                                                      17
+
+what one says, this would be a first hypothesis to verify. That is, the visible is a simple product
+of language. Okay.
+
+I say to myself… so perhaps some of you could say: well yes, this hypothesis is sufficient, it’s
+good, it suits me. As for me, it doesn’t suit me. Why? Because then it would be necessary to
+dispense with the texts, the infinite number of passages in Foucault that have always posited an
+irreducibility of the visible to the statable. These are two irreducible forms, and I do not see
+how…. He never went back on these texts. Certain ones, like the text on [René] Magritte, This Is
+Not a Pipe, are late texts… Thus, it is impossible to construe the visible as dependent on the
+statable. However, when I say, “the statement has primacy over the visible,” when I say that, I
+am not at all saying that the visible is reduced. Having primacy over does not mean letting
+oneself be reduced. So, all that I am committed to is trying to say how… [Interruption of the
+recording] [1:32:55]
+
+… insofar as, on the other hand, the function of language is the production of statements, a
+matter of producing statements, I can say: the statable is the form of spontaneity of language.
+Hence the importance of the difference that Foucault made – this was the object of our analyses
+at the beginning – the statement differs in kind, is not the same thing as a phrase or a proposition,
+for by discerning the statement in its difference with the phrase or proposition, I believe that
+Foucault wants to reveal the form in which language exercises a spontaneity. So then, if you
+grant me this, though it is a lot to ask, I am aware, if you grant me this, there are no longer so
+many difficulties.
+
+For I can say: if the statement has primacy, it is because the statement is a form of spontaneity,
+whereas the visible is only a form of receptivity, and it is up to the form of spontaneity to
+determine the form of receptivity. The form of spontaneity, what is spontaneity? It is the act of
+determination. Whereas: what is receptivity? It is the form of the determinable; the receptive is
+that which is determinable. Therefore, to say “the statement has primacy” is to say: the statement
+is determinant, the visible is only the determinable. Does that clarify things? Is that clarifying?
+
+The same student: Yes. At the same time, I do not understand, in terms of relations of power, I
+do not understand why the power to affect would have primacy over the power to be affected as
+if power … [some indistinct words] would have the primacy over the power of light. That seems
+a very serious problem.
+
+Deleuze: Yes, that is a new difficulty, but I would say: at the level of relations of forces, there
+can no longer be any primacy; the primacy is of one form over another form, and relations of
+forces do not pass through forms. Thus, there is no primacy, or at least, we will see that there is a
+primacy, but in the relations of forces, it is a third element, which is neither the power to affect
+nor the power to be affected, but which will be something else. Is that okay? Is all that clear? …
+[Interruption of the recording] [1:36:17]
+
+… But I think it may be the impression of many of you that this year, what we have done from
+the beginning seems sometimes extremely abstract. So that bothers me a lot because, obviously,
+that’s most unfortunate, and it shouldn’t be like that. So, I would like to add a formula for those
+who find that what we are doing remains abstract. This is strange for me, this doesn’t create the
+
+                                                                                                    18
+
+same effect for me, but I cannot discuss impression. I believe that to make all this concrete, we
+must take our bearings.
+
+The first step, the first reference point regarding knowledge, is that things must tell you
+something. This must speak to you. If this tells you nothing… I am speaking… when I say, “This
+must speak to you,” I mean by that: it is not all about the understanding, the understanding is
+abstract. But if something speaks to you, then we are in the concrete. What should speak to you
+when it comes to the analysis of knowledge is: in what situation do we see clearly, do we realize
+that seeing and speaking are not the same thing? In that case, it is concrete. That is a concrete
+point. Speaking is not tied to seeing, but between seeing and speaking there is a battle, there is a
+difference in kind to such an extent that, once again, I see what I do not speak about, and I speak
+about what I do not see. That is very concrete, it accounts for the status of the audiovisual. And I
+was telling you: the whole effort of contemporary cinema, in one of its aspects, is to widen these
+differences, these divergences between seeing and speaking.
+
+So, I hold onto that. I would say: if there were a concrete source of all the analyses that I have
+proposed to you regarding knowledge, that is, regarding the interrelation of seeing and speaking,
+that would be it. What takes place between seeing and speaking?
+
+For what we have done regarding power, then… If this does not speak at all to you, it’s that
+either I have failed or else it’s you who do not respond to a theme, which can happen, it’s a
+theme that literally says nothing to you. In that case, then, I am impotent, I can only do
+something insofar as there is a complicity, that is, insofar as this speaks to you. When it comes to
+power, I would say the same thing. What is very concrete, the concrete source of all the analyses
+of power, what would it be? It would be this idea that, in all our experiences, even when we do
+not realize it, we encounter power; that is, power is always an ensemble of micro-power, and it is
+these micro-powers that Foucault purports to analyze.
+
+But the idea that we constantly encounter power… this is something simple enough, yes, the idea
+that I cannot cross the street or that I cannot stop my car without there possibly being a cop…
+with a ticket…, but something this simple is enough to make everything concrete for me. We
+ceaselessly encounter power. Okay, then, if our life is circumscribed by micro-powers that we
+exercise and that are exercised upon us, the power to affect and the power to be affected, what do
+these relations of power consist in, etc.?
+
+And finally, the third concrete point: is it true that these relations of power are like a fabric that
+accounts, for us [chez nous], for the relations between seeing, when we see, and speaking, when
+we speak? It seems to me that that is what’s concrete. I have the impression, then, that if these
+themes, these three very concrete, very simple themes… That’s not philosophy, it’s like points of
+reference in our lived experience. I would say: in lived experience… there you are, the lived
+experience that Foucault… if one has no complicity with this lived experience, then you might
+indeed understand everything that I say, but it will remain abstract. These three points of lived
+complicity, if I feel … affinity for Foucault, it is because I have participated in these three points
+– not in the same manner, surely, but in a different manner. If I had not participated in these three
+points in the name of a kind of lived experience, it’s obvious that I would do something other
+than a course on Foucault.
+
+                                                                                                     19
+
+So then, if I try to restate… In your lived experience, you must have a certain problem, even if it
+is spontaneous or involuntary, a certain problem: what happens between seeing and speaking? I
+understand very well: you can be extremely intelligent, extremely creative, all that you like, and
+your problems might be elsewhere. I would say: what is certain is that Foucault was not the only
+one, even in art, since, once again, all of contemporary cinema plays on this chasm between
+seeing and speaking, this “between”, “what is there between seeing and speaking?”.
+
+I would say, for example, if you take another important philosopher: in [Maurice] MerleauPonty, you will never find a problem of this type, since for him speaking is linked to seeing. It is
+a very specific realization of certain situations of vision and certain situations of speech. If you
+say to me on this point: why does Foucault valorize these situations of vision and speech that
+announce a hiatus between seeing and speaking? I will tell you: ah, well no, that amounts to
+saying “why does Foucault say what he says?” It’s because he is Foucault, I don’t know why, it’s
+what he needed to say and wanted to say, so… That should be the first complicity. The second
+complicity is that micro-powers form a fabric which we ceaselessly encounter in our lives. That
+is the experience that Foucault calls the experience of the infamous man. The infamous man is
+the one who, like a fly or a butterfly, collides ceaselessly…, it is fairly close to the Kafkian
+experience of the offices in The Castle, always an office next to the office, okay… A whole
+system of micro-powers.
+
+So then, good, for me, I try to… I try to translate it through my experience. It’s not a personal
+experience. “Lived experience” does not mean “a personal experience,” it means “what we
+notice in life”. For me, I am struck by… so here I am no longer doing Foucault, I am struck…, so
+I told you this, in the most everyday experience of life, how one jumps from one micro-power to
+another. I was telling you about the distribution of micro-powers in a household, eh. When a man
+comes home in the evening or when a woman comes home in the evening: “what a face you’re
+making,” says one to the other. “Ah, what a face you’re making.” It’s funny: “what a face you’re
+making,” good, which is to say, the summons to speak, or the summons to show, explain
+yourself. I was telling you this last year because I live this, and it is necessary that you also live
+this or else it will be abstract. I was telling you: for me, what strikes me in life is not at all that
+people do not manage to express themselves, but that they are forced to express themselves when
+they have nothing to say. And that is power. What is the power of television? What is the power
+of the newspapers which have gotten out ahead of television. Okay, he calls up some poor guy
+and says to him: “express yourself, talk a little about your opinion.” It’s an alarming thing that in
+disciplinary societies, we are invited morning, noon, and night to give our opinion, but about
+stuff… in fact, we have not reason to have any ideas, or not often in any case, not in the form of
+that question there, it’s… Good, that is a micro-power. When I say to you: power makes see and
+makes speak, you will be forced to speak, I would say, at that moment, it is not only the
+television.
+
+And in fact, in households… and it’s compulsory, I am not saying that it is bad. How can we do
+otherwise? To keep quiet isn’t good, it ends up being oppressive. There is no escape from all
+that, but it’s the slop of lived experience. If I come home tired, I claim the right not to speak. It is
+delicious to not speak. But it’s fantastic: to have no opinion! Ah, but it’s a joy! So then, what are
+people in power? They are those who do not know that it is a joy to have no opinion. To have no
+opinion, it’s not at all to be like the guy in the public opinion polls who responds, “I have no
+
+                                                                                                 20
+
+opinion,” eh? That one there has an opinion. It’s indeed something else. Nor is it to maintain an
+interiority. To not have an opinion is to empty yourself [faire le vide]. It is to empty yourself.
+And emptying yourself is precisely – we are getting to what I still have to say – it is a
+manifestation of resistance. When not having an opinion is simply not having an opinion; these
+requests for information are obnoxious. But when not having an opinion consists in saying “on
+that point I go blank because it doesn’t concern me or doesn’t interest me,” alas, that can also be
+bad, that can be to completely deliver oneself over to power, it can also be that; everything
+depends on… which means that all that is… I am making an appeal to experiences…
+
+So, if there are some among you who do not have or are not in touch with this type of lived
+experience, which seems to me to be at the root of Foucault’s philosophy, then in effect this
+course runs the risk of not offering you very much. And that can happen, the years change, we
+change subjects every year, it may very well be that one year, what I have to say speaks to you
+and, another year, it doesn’t speak to you. But what I am trying to explain is that there are always
+two operations, two simultaneous operations when you have the … patience to listen to
+someone; you must indeed understand according to concepts, but you must also have a sphere of
+lived experience that intersects with what it is that the concepts are about.
+
+A student: Was there a relation between Foucault and Artaud?
+
+Deleuze: I don’t know… There is no specific relation, but Foucault belongs to the many who
+have an admiration… It goes without saying that Foucault was led to intersect with Artaud on
+many levels, because he had necessarily encountered him already regarding History of Madness
+and all throughout the period when Foucault was trying to ask himself at best what madness
+meant. Yes, yes, that’s right. There is a relation, generally to… What interests Foucault? Who
+are the great authors that Foucault admired between the end of the nineteenth century and the…
+Well, there is the whole group of Raymond Roussel, [Jean-Pierre] Brisset, there are the madmen
+of language, there is Artaud, there is [Stéphane] Mallarmé, these are Foucault’s great authors.
+There is Heidegger, we will see why. Yes, he knew Artaud admirably well. Did Artaud exert an
+influence on him? I do not think so. But there was love and admiration for Artaud, that seems
+clear to me.
+
+A student: [Inaudible comments]
+
+Deleuze: Yeah, but then, you understand, you bring me to concepts that are already too
+complicated, namely, what Artaud will call the void, whereas for me, I wanted to say something
+quite simple about lived experience, without justifying the words, namely, I only wanted to say:
+if you want to understand by means of concepts, you must always combine some lived
+complicities together with them. If you have no lived complicities, it’s not your fault, it’s
+because your experience is structured differently, and now, in effect, everything that I am telling
+you will appear to be extremely abstract. I believe. I believe. That is why I am telling you that we
+must always let ourselves go along with someone when we listen to them. It’s complicated: a
+double attention is necessary, an attention according to concepts, because if you content
+yourselves with the lived… you must perpetually refer to some life experience, otherwise it
+won’t work. Notions should always be very, very difficult. The correlative life experience should
+
+                                                                                                  21
+
+be as simple as a child. That is why examples are fun, they are always about stuff that is
+absolutely puerile, totally simple.
+
+Georges Comtesse: [Some indistinct words] … it is possible, it is possible for there to be a
+resistance, a possible reversal. That is, if power can speak such that… [some indistinct words] …
+that might be turned around, that is, it is possible that the more a man of power is deaf, blind, and
+mute, the more it is possible also to make him speak. This is quite interesting… [some indistinct
+words]
+
+Deleuze: Yes, but Comtesse, you know, that’s normal…. What you say is very true, it’s because
+the man of power is not taken, is not exhausted by the relations of power. Moreover, power
+relations do not pass between men: as soon as there is man, there is form. Which is to say: the
+man of power is necessarily led to himself speak and to himself show or to himself see; he is
+necessarily led because he participates in the effect, participates entirely in knowledge. It is
+insofar as he presents himself as knowing that the man of power speaks and sees.
+
+And in fact, concretely there are only mixtures of power-knowledge. The political man invokes a
+form of knowledge. He does not invoke the fact of having power, he always invokes a form of
+knowledge, and it’s insofar as he invokes a form of knowledge…. This is what I was telling you:
+power and knowledge are strictly inseparable in the concrete. It’s for that reason, and it’s insofar
+as he unfailingly participates in knowledge, that the political man, as you say, is necessarily also
+the one who speaks and the one who sees. “I see you,” eh? You look at the posters there. He
+watches us, he watches us in the name of a radiant future, he sees and, I don’t need to tell you, he
+speaks. But, if they see and they speak, it’s insofar as they are terms or elements taken up in
+relations of power, and it’s insofar as they are also forms – they take care of their form, as one
+says – forms taken up in relations of knowledge.
+
+A student: How does that come about?
+
+Deleuze: How does this come about? Well, listen, I am done for, you have struck a fatal blow
+against me [Laughter], since I thought I’d been ceaselessly explaining why power and
+knowledge were strictly inseparable. This comes about because power and knowledge are strictly
+inseparable.
+
+The student: Concretely?
+
+Deleuze: Not only concretely, but in the abstract, but in two different ways. In the concrete,
+because experience presents us only with mixtures of power-knowledge. In the abstract, because
+if power relations are causes, they are immanent causes, and their effect, that is, the forms of
+knowledge, are internal to the power relations themselves; there is no exteriority. And yet we are
+going to see the contrary in just a bit, but that doesn’t matter. He says “there is no exteriority”
+because there is nothing but exteriority, thus we cannot say that there is exteriority. At any rate,
+we are going to see this in just a bit to finish you off.
+
+A student: [Inaudible comments]
+
+                                                                                                   22
+
+Deleuze: The what?
+
+The student: The power about which we are speaking is never mine, it is never mine because it is
+always exterior.
+
+Deleuze: Everything depends on what you understand by “mine”. If that means “that of a person
+who is me,” then no, power is never mine. If you mean “of a singularity that is in me,” then in
+that case, power is yours. Which is to say, we have not yet broached this because here, too, it
+must be concrete: the person – or the individual, it’s already not the same thing, but let us
+identify them – the person or the individual, on the one hand, and the singular points or
+singularities, on the other, are two completely different instances.
+
+For example: we are not leaving behind our story, thus, for example, I take my chalk. Those who
+would respond to one of these names, see me in just a bit. There you are… The names there, eh.
+There you have a form. It’s a gentleman, eh. There you are, that’s a form. Let us say that this is
+an individual. He says, “me”. Good, it’s a form, it’s a form. This form, I would suppose, it’s a
+supposition that this is an envelope of singularities. These singularities do not exist outside of
+him, they belong to him. But it is another domain. It is another domain.
+
+What are these singularities? For example, you see someone, you see someone, and you say to
+yourself: oh, that’s weird, that guy there, everything is organized, for example, around his neck,
+he stands like that; and there you have the singularities of perception. You will do it with the
+neck in this case, though it’s not necessarily true for everyone; there are some who have a neutral
+neck, there are some who have a very pronounced neck, as if their entire face was organized
+around their neck. You will say: good! It is a singularity of that guy, of that man, you remember
+a kind of neck, and then you see it at the same time – and you do not understand – enter into a
+rage. With all the characteristics, let us say, of a paranoid rage. A bizarre guy. I will deliberately
+take an example, another trait that is not physical, a psychological trait. You will put “other
+singularity,” note them down. You make the table of singularities of someone, it’s an innocent
+game, disinterested and innocent. “Neck,” “explosive anger”. And then, after his anger, he says
+to you “goodbye,” and you say to yourself, “what a funny way to wave your hand”.
+
+You see, it’s bizarre. This time it is a gesture, as one says, a gesture belonging only to him. Why
+we love or hate people is never because of their form, eh, but because of the singularities that we
+have noticed in them. I once knew someone whose way of saying goodbye seemed so mysterious
+to me that I was never able to decipher it. For… it’s important. For, when he said goodbye, he
+made a whole series of movements, so it was a very surprising spatiotemporal dynamism. His
+arm was down along his leg. First moment of dynamism: he raised his arm; his arm remained
+stiff, but he brought it there. And his arm still remained stiff. And he opened his hand and invited
+you to slide yours next to his, [Laughter] but he touched the tip of your fingers. [Laughter] Okay,
+when one stumble across this, one doesn’t forget. Third singularity.
+
+I would say: we have a form, which we can call at once… we have a form… qua individual, we
+have a corporal form, which I would say is the organic form. We have a physical form. We have
+a moral form. Finally, the best among us have a metaphysical form. Many forms, eh. It is as a
+
+                                                                                                    23
+
+function of these forms that I say: my body, my soul, me, etc. I would say: that is the domain of
+forms.
+
+But there is something else. Ultimately, the forms are packets or envelopes of singularities; we
+envelop singular points that exist only in us, and that nevertheless are not us. So then, there is
+such singularity: ah! It comes from my grandfather. It planted itself there, it planted itself in me.
+Ultimately, we are a packet… I would like for you to understand. Here too: either this speaks to
+you, but you must experience it like that and not force it. If you don’t experience it like that, you
+experience it differently, and that will be great too. But do you experience things like that?
+Packets of singularities, a packet of foreign bodies. As for me, I experience myself much like
+that: I am a packet of foreign bodies. I look like a self [moi], then, I have all the appearances of a
+polished self, but it is absolutely an envelope of foreign bodies; there is only that, there are only
+foreign bodies. So, we envelope a certain number – we don’t have infinitely many of them – of
+foreign bodies.
+
+For example, think of the way that Proust describes Baron de Charlus; it is a marvel when he
+writes, in an unforgettable passage, “Charlus’s voice enveloped a brood of young girls”.
+Charlus’s voice, when Charlus suddenly begins to speak piercingly, Charlus’s voice enveloped a
+brood of young girls. These are the singularities of Charlus. Twelve, twenty, forty young girls
+haunt Charlus’s voice. There are animals in us, but not animals as forms. There are animals as
+singularities in us, which is not the same thing as a form; no one is ever a cow among men, but
+there are men who have bovine singularities.
+
+So, I am talking about the set of singularities that I shelter in my bosom, and it’s indeed of a
+different nature than my forms, my body, my soul, etc. And we will find here the domain of
+forms and the domain of relations of forces. The relations of forces and the relations from one
+singular point to another. What relation is there between such a singularity – the neck – and such
+an explosion of anger? There is a relation of forces there. That would be an example of power.
+
+I would say: literally speaking, what are you? It all depends on what you call “yourself,” what
+you call “me”. Yes, we can still say “me,” mustn’t get indignant, mustn’t say that you’ll no
+longer say “me,” we must speak like everyone else. We readily say “the sun rises” even though
+the sun does not rise, eh, it’s the earth that turns, but we continue to say “the sun rises”; there is
+no reason to change, no reason to say it less, it is of no importance. A certain number of people
+know that there is no self, but we will continue to talk about the self, because the self is precisely
+a habit; so, we stick to our habits. It’s not that we have the habit of telling “me” [moi], it’s the
+self [le moi] that is a habit. I am habituated to myself, so the self is that of habit. Well, but what
+am I? One can live like that, but what am I? I am a fabric of singularities. A fabric of
+singularities, and then my physical or psychical forms, which are curves that unite these
+singularities.
+
+If you experience yourself like that, first, life will become much more pleasant to you. If you
+experience yourself as an integral curve, who traipses about and encircles singularities of another
+nature, yes, you can decide that… in any case, you don’t need to force yourself. [Laughter]
+Either what I am saying speaks to you or it doesn’t, and you say to yourself: he’s crazy.
+[Laughter] It’s a good criterion because if you say to yourself he’s being silly or he’s crazy, if
+
+                                                                                                     24
+
+you tell yourself that, it’s because you don’t have… and this is not at all a reproach, you don’t
+have this lived complicity when it comes to this year.
+
+Next year, it may be that I am speaking about something else with which you have a lived
+complicity. If what I am saying to you sounds very confusing, since here I am speaking only
+about this structure of lived experience, if this speak to you, then yes, now everything that I have
+been recounting since the beginning makes sense, that is, you can no longer consider it to be
+abstract, it’s not abstract. We must simply be sensitive to this, I believe… From the point of view
+of concepts, it becomes quite an affair: to give a status to singularities, to give a status to the
+integrals that pass through the neighborhood of the singularities…. Ultimately, the integral curve
+will have as its product: me. And the curve encircles something quite different than me. The
+curve surrounds the constitutive singularities. You see, then, there may be one there that comes
+from a grandfather… that is, belongs to a genetic line. There is another one there that comes to
+me, for example, from a relationship with a friend…. This would be an acquired singularity.
+There is another one… that was created by me, but which me? In any case, we are constituted by
+singularities.
+
+What is called a character, then, is an average of someone’s singularities. One always takes an
+average of singularities. So one says: ah, well yes, he usually gets angry. That’s not the
+singularity; the singularity is the precise circumstance of a single rage, which in a certain way
+contains all the others. That is the singularity. If you take an average where you conclude “ah,
+well yes, I am irascible,” then you are in the domain of forms, no longer in the domain of
+singularities, of punctual singularities. But once again, if this does not speak to you, that’s fine. If
+this does speak to you, that’s great, you live like that. If this does not speak to you, that’s very
+good too, you live differently.
+
+A student: [Inaudible comments]
+
+Deleuze: Ah yes, I will reply to you right away… because I was assuming… your remark is very
+fair, I am assuming that the other aspect goes a bit without saying since, for everyone, power
+consists in affecting others. What is more original is Foucault’s idea that being affected by others
+is just as much a part of power. Precisely, and this corresponds, to reply to someone who spoke
+to me a bit earlier, this corresponds precisely to Nietzsche’s idea, namely, that being dominated
+is just as much the will to power as being dominant. That is absolutely… it’s the transcription by
+Foucault of the Nietzschean idea.
+
+The student: [Inaudible comments]
+
+Deleuze: Oh completely! We consider the two sides, once it has been said that the two sides only
+approximately form a sort of dual distinction; for what matters far more are the thousand ways of
+being dominated and the thousand ways of being dominant, which is to say, it’s the multiplicity
+that counts much more than the dualism.
+
+The student: [Inaudible comments]
+
+                                                                                                     25
+
+Deleuze: I understand, yes, I understand. I would say… I would distinguish… I would not say
+“open self” and “closed self,” for at the level of the open [l’ouvert], there is no longer a self; at
+the level of the open, there are castings and distributions of singularities, there is no longer
+anything that resembles a self. …And here, too, you understand, I have always been… I do not
+understand, there is something that I do not understand. It’s when one does national philosophy,
+when one construes philosophy in terms of nationality. There was only Nietzsche who was
+deeply able to say, oh well yes, the Germans, their philosophy is bizarre, they think like this, here
+are the great traits… otherwise all the others, every time they tried something like that, it was
+without value. Only Nietzsche knows how to speak of English thought, German thought, French
+thought without succumbing to the grotesque. He doubtless had a method…. And one of the
+things that seems important to me is that, in these national characteristics of philosophies, the
+French always floundered… no, I’m wrong to say “floundered through” [patauger] because that
+sounds pejorative, and it’s not at all that… they have always evolved through the self [évolué
+dans le moi]. They made the self into a philosophical category. To such an extent that we ask,
+what is philosophy for us? We are always told that it begins with Descartes, “me, I think,” and of
+course it’s not the ordinary self, as we know and are taught, it’s not the ordinary self. And
+bizarrely, it is expressed in the form: “me, I think”.
+
+The Germans, they… so the Germans do not remain at “me, I think,” which they did not find
+clear; they require a pure form. A pure form: the I. And the difference between the self [le moi]
+and the I is that the self is strictly constituted, but the I is the pure constituent. The Germans raise
+themselves up to the foundation, they can only breathe at the level of the foundation. …The
+English, it’s very curious. You know how one can recognize an English thinker? And I ask
+myself how. In the case of the French and the Germans, there would be means of responding.
+But the English are a real mystery because they are philosophers who are immediately
+recognizable in that, for them, the “I” means nothing. And is it by accident that they are the same
+ones who take as their philosophical method such and such lived experience when I say such and
+such word?... This was the founding act of English philosophy: I say a word – hence the
+attachment to language from the beginning of their philosophy – I say a word: what lived
+experience can I exhibit, can I show as corresponding to this word? So they’re told
+“I”… [Interruption of the recording] [2:15:06]
+
+Part 4
+
+… lived experience. This was the founding act of English philosophy: I say a word – hence the
+attachment to language from the beginning of their philosophy – what lived experience can I
+exhibit, can I show as corresponding to this word? So one says to them, “I”… – “What do you
+mean? Explain to me, show me!”. So, obviously, Kant himself would say, what corresponds to
+“I” cannot be shown. The English say: okay, that does not interest us anymore; it’s cut short.
+You notice that there is no discussion. For the self [le moi], they are even more cunning; it’s not
+that they say that it’s a word emptied of meaning; they say: ah yes, “me,” one can say “me,” only
+there you are, “me” is a habit. It is a habit, a custom. You realize, then, as an operation, how
+contrarian they are! What is for the English, and in another way for Germans was the most
+sacred foundation… Here, the English say, “Yes, the self, it is a manner of speaking, yes, the self
+is a collection of states that are associated with one another according to certain rules. Oh well
+yes, one can still say ‘me,’ but only if one sees there nothing other than a habit.”
+
+                                                                                                     26
+
+So, all that is very curious. It is a way of saying that French philosophy has never digested.
+Never ever. It has never been able to do it… Hence the most cheerful thing in colloquia is the
+encounter between a French philosopher and an English philosopher. The English philosophers,
+then, are masters in the art of saying: “what is it that you have just said? That does not mean
+anything, it is nonsense!” [Laughter] Whereas to say “that is nonsense” is not a German or
+French argument. The Germans have other arguments. “You contradict yourself,” [Laughter]
+that is a French argument. For the Germans, it’s not that, they would have other arguments, eh,
+what would they have? I don’t know well. “You contradict yourself” is a great French argument.
+Whereas to say, “what you say is nonsense”, that’s something else. There are national
+characteristics of philosophers… It’s odd.
+
+So why was I saying that? [A student helps Deleuze return to the topic; brief general student
+discussion] Ah yes, so as for me, I believe that there is no self at the level of the open, the open
+implies the dissolution of the self. So, what one might call the open self is the self that, opening
+itself, releases its singularities and then dies. It is absolutely like a flower… like a seed, eh, when
+it releases its spores… And there you are, yes, that is what I wanted to say: we are seeds, eh, we
+are seeds, full of spores. So then, in good moments… that’s what the open is.
+
+A student: For me, I think of it differently,
+
+Deleuze: Fine, he thinks about this differently…
+
+The student: I understand it as [Inaudible comment] open like a door onto the world [Inaudible
+comments]
+
+Deleuze: If you like, if you like, but we can add something else to make it vary a little.
+[Laughter] Good: we’re cracking up; in fact, what, then, would it mean “to crack up” [« s’éclater
+»]? The self who cracks up? Surely, then, it cracks up in very bad ways because there is only one
+way of cracking up, which is philosophy… [Interruption of the recording] [2:19:41]
+
+… Certain singularities of Foucault are going past us in what I am telling you… It’s… and even
+if it mingles with other singularities, it doesn’t matter. Yes. But at any rate, let us move on. That
+is all that I wanted to say about the conditions for finding a little bit of what we did in what I said
+because it may not work out afterwards… What?
+
+A student: [Inaudible comments]
+
+Deleuze [laughing]: We do not know! So then, perhaps that means there will be no more
+difficulty with what I believe is an important point, which is the necessity, when it comes to
+terminology, of distinguishing between two terms that you find fairly frequently in Foucault.
+These two terms are the outside, on the one hand, and the exterior or exteriority, on the other.
+What I mean is that on this topic, Foucault never gives a rigorous definition; it is thus up to us as
+readers to see how these two terms are distributed, for I have the feeling – and this will be
+decisive with regard to everything that remains for us to do – I have the strong feeling that these
+two terms do not mean the same thing, and that Foucault does not use them in an identical sense.
+
+                                                                                                     27
+
+When he speaks of the exterior, what is it a question of? I believe that the words “exterior” or
+“exteriority” in Foucault always refer to forms. There are at once forms of exteriority and an
+exteriority of forms, an exteriority between forms. Forms are external to one another, and at the
+same time, each form is a form of exteriority. For example, in The Archaeology of Knowledge,
+pp. 120-123, Foucault explains in what sense history is a systematic form of exteriority. Form of
+exteriority. What does this mean, “form of exteriority”? For Foucault, and this is one of the
+original points of his thought, every form is of exteriority, but what does that mean, “every form
+is of exteriority”? It means that it is not like in Kant, who distinguishes a form of exteriority –
+space – and a form of interiority – time; in Foucault, there is no form of interiority, every form is
+of exteriority. But why?
+
+What are forms? As we saw, it is light as form of the visible, language as form of the statement.
+Good. In what sense are these forms of exteriority? It is because no form contains that of which
+it is the form. [Pause] In this sense, these are not forms of interiority. The role of the form is the
+following: that which it informs, that to which it refers, is dispersed or disseminated – I am
+forced to say “in it”. In fact, it is necessary to speak properly, it becomes so complicated. If
+forms are indeed always exterior, it is because that to which they refer exists only as dispersed,
+disseminated, through [sous] this form. The form is exterior because it is fundamentally
+dispersion or dissemination. For example: language as form contains phrases and propositions
+and words… That is true. But it does not contain statements. Foucault never says “language
+contains statements,” he always says: statements are disseminated, dispersed in language.
+
+In other words, language is the form of interiority of words, phrases, and propositions, but it is
+not the form of interiority of statements; it is a form of exteriority in relation to statements, for it
+is in language or through language that statements are dispersed or disseminated, and it belongs
+to the essence of the statement to be dispersed or disseminated. Likewise, light can be said to
+contain things, quality, states of affairs [états de choses], but it does not contain visibilities. We
+have seen the differences between things and states of affairs, etc., it does not contain visibilities.
+Visibilities are, as Foucault tells us, a second light, made of shimmerings, reflections, etc. that
+exist only as dispersed through the first light; this is the Goethean conception in the pure state. In
+other words, light is a form of dispersion, of dissemination, and thereby a form of exteriority.
+
+Thus, for Foucault, every form will be a form through [sous] which what it conditions is
+dispersed or disseminated. You see: hence this use of the word “exteriority” tied to form. I would
+add that forms are not only forms of exteriority, but: there is exteriority between forms. Forms
+are not internal to one another, and the form of the visible is external to the form of the statable.
+Speaking and seeing differ in kind, there is a chasm between the two, there is a hiatus between
+the two; in short, the two forms are exterior. There you are, this allows us to fix the use of the
+word “exteriority”. It should be said that I see externally [à l’extérieur], I speak externally, and
+between seeing and speaking, there is exteriority. Foucault summarizes that every form is
+exterior by saying: history – history being fundamentally the history of forms – history is the
+systematic form of exteriority. So much for exteriority.
+
+You encounter another word, another word in Foucault, which is “the outside”. This word is
+borrowed from Blanchot. It is not without relation to what Heidegger, following [Rainer Maria]
+Rilke, called the Open, with a capital O. It is good to remark that a French philosopher from the
+
+                                                                                                   28
+
+same period as Heidegger fundamentally developed a theme of the open, and that is Bergson.
+And if there were a possible comparison to be made between Heidegger and Bergson, I believe
+that it would be at this level, the conception of the open in both. In any case, in Foucault, he
+retains the theme of the outside, not that of the open, but once again, these are two closely
+neighboring themes. And what concerns me is the difference between the outside and the
+exterior in Foucault.
+
+For example, he will entitle an article paying homage to Blanchot “The Thought of the Outside,”
+and you feel right away the theme of “the thought of the outside” – there is no need to read the
+article at this point, no need yet – you sense right away that this will be a text trying to explain
+that thought is not at all defined by an interiority, but that thought only exists in a relation with
+the Outside, capital O, the thought of the Outside. Good.
+
+Now, what is the outside? Should we consider it to be a simple synonym for exteriority? Not at
+all, and this will be decisive for everything that will follow. I would say in the first place that it
+seems to me, according to all the uses of the word “outside” in Foucault, that the outside no
+longer concerns form – exteriority concerns forms – the outside no longer concerns form, but it
+concerns forces. In what way? Forces come from the outside. That is the element of force. A
+force comes always from the outside. One force always affects another, or is affected by it, from
+the outside. Forces have no other element than the outside. Forces have only the outside. There is
+no interiority to force. Perhaps there is an interiorization of force – though afterwards, following
+a very complex process – but there is no interiority of force. And to designate this non-interiority
+of force, Foucault will make use of the word “outside”. So, what is this outside that is not to be
+conflated with the exteriority of forms? Here is where it gets complicated.
+
+For I can say: the outside… For I can say as a first approximation: the outside qualifies the
+relation of forces, the relation of a force with another force. Which amounts to saying once
+again: a force affects other forces from the outside, it is affected by other forces from the outside.
+It is not false, though we will see that it is insufficient. If I remained at this level, I could say
+something: power comes from the outside and returns to the outside. I will not conflate the
+outside with the external world – that is a solemn declaration since, from session to session,
+starting now, we will be led to dig into this idea, that the outside is not to be reduced to, or
+conflated with, any exteriority. If it is necessary to find a formula in order to remember, even if it
+is only to remember, I would say that the outside is more distant than any external world. The
+form of exteriority designates dissemination or dispersion in Foucault, but the outside expresses
+pure distance. Pure distance, the distance more distant than any external world: this will be called
+the outside. If you ask me: but what is it? For the moment, we know absolutely nothing about it.
+What will Foucault do with it? How will he make use of this notion “the outside”? I am just
+trying to situate it, to situate it in a map. The outside is more distant than any external world, so
+that I could not say of any external world or of any form of exteriority, I could not say “that is
+the outside”. The outside is beyond all exteriority. Further away than exteriority, there is the
+outside.
+
+It becomes mysterious. The outside was already mysterious in Blanchot. If we do not start from
+there, then in any case we will not be able to understand. But I would say indeed that saying this
+does not suffice for understanding. I am just saying that the exigency of the outside is to be more
+
+                                                                                                     29
+
+distant than any external world, than all exteriority. Good, but then… The relation of forces,
+where the forces come always from the outside and affect each other from the outside – we have
+seen what this was, that it is expressed in a diagram. You remember: the diagram is the
+exposition of a relation of forces corresponding to a stratified formation. I would already say that
+if the forms, if the stratified forms are forms of exteriority, then for its part, the diagram plunges
+into the outside, the relation of forces. I would say that the relation of forces is, how to put it, the
+outside of a stratified formation. It is the outside of a historical formation.
+
+What I mean is that a historical formation has nothing outside it, nor is there anything beneath it
+– here we must take a great deal of precaution, it has nothing beneath it, nothing outside it. Why?
+It is itself a form of exteriority; how would a form of exteriority have something external to it? It
+has nothing outside it, but it has an outside. The outside of the formation is the set of relations of
+forces that govern [régissent] it, that determine [régissent] this formation, which is to say, that
+are incarnated in it. The set of relations of forces that are incarnated, that are actualized in a
+historical formation – for example, the disciplinary diagram that is actualized in modern
+societies, in the modern formations – is such that this diagram is the outside of the formation. It
+is not outside the formation – you see that I save my immanence, for it is first and foremost not
+outside the formation –, but it itself constitutes the outside of the formation. [Pause]
+
+Thus, the diagram plunges into the outside. Let’s take a closer look. This will perhaps lead us
+further into the layers of the outside. A diagram, that is, an exposition of relations of forces – for
+example, the diagram of our modern formations, the disciplinary diagram, as we have seen. I
+warned that there are as many diagrams as one would like, that we must not let ourselves be
+taken in by the text of Foucault, which speaks of the diagram as reserved for disciplinary
+societies. There are as many diagrams as you want. I remind you that in our analyses that I would
+have liked to be concrete, we saw numerous diagrams; we even invented, at our own risk and
+peril, a diagram of primitive societies, the relations of forces such as they are presented in
+networks of alliance. Good, the alliances of primitive societies, the networks of alliance of
+primitive societies, this would be a diagram.
+
+Next, I announced that Foucault, in his last books, discovered a Greek diagram. The Greek
+diagram, the relations of forces upon which the forms of the Greek city-state will depend, and
+from which they will result, are strangely, according to Foucault, agonistic relations, which is to
+say, relations of competition between free agents; that is a diagram of power, and in a certain
+manner the forms of the Greek city-state depend upon it. There is a feudal diagram, there is a
+diagram of sovereignty, the one which we have analyzed. There is a diagram of discipline; as we
+have seen, it is the one that is defined as imposing whatever task on small multiplicities and
+managing life in extensive multiplicities. It is a diagram of forces. From this, there results our
+modern societies, so-called disciplinary societies, by contrast to societies of sovereignty. I would
+say: the disciplinary societies in Europe, in Europe, the disciplinary societies followed societies
+of sovereignty, the hinge point being established around Napoleon. And the passage from
+societies of sovereignty to societies of discipline, that is, the diagrammatic mutation, the
+changing of diagrams taking place around Napoleon. Good.
+
+If you understand that, I will say that the diagram, which is to say, the exposition of relations of
+forces, can only be grasped in a double relation with something else. On the one hand, a diagram
+
+                                                                                                      30
+
+of forces is in relation with the stratified formation that results from it, or if you prefer, of which
+it is the immanent cause; this is not such a problem. The disciplinary relations of forces are
+incarnated in formal institutions, in formalized institutions that we have previously seen (prison,
+factory, school, etc.). Thus, a diagram of forces is always in relation with the stratified formation
+that results from it; or if you prefer, the map, the strategic map is always in relation with the
+archives that result from it. Good. But at the same time, a diagram is related to the preceding
+diagram, in relation to which it marks a mutation. Which is to say, there is nothing beneath [endessous] the strata; but on the underside of [par-dessous] the strata, a diagram communicates
+with the preceding diagram. Why? Because, as we have seen, every diagram is a distribution of
+singularities. A distribution of singularities that is incarnated in the formation.
+
+So, there is no first diagram, no more than there is a last diagram. Every diagram is always the
+mutation of a preceding diagram. Which is to say, a second roll of the dice. Every diagram is by
+definition a second roll of the dice, or a third, or a fourth. There is no first roll of the dice. There
+is no first diagram. So that every diagram is in relation with what follows from it, but also in
+relation with the preceding diagram of which it is the mutation… or in relation to which it
+performs a new distribution of singular points. The relations of forces corresponding to societies
+of sovereignty are not the same as the relations of forces corresponding to disciplinary societies;
+diagrams must be equated to two dice rolls that give solutions, that give different combinations.
+
+So perhaps you understand better: every diagram comes from the outside. Every diagram comes
+from the outside: which is to say, one diagram does not follow from the preceding one, but is in
+relation with the preceding one… I would say to you: it’s not a chain of diagrams, they are
+separated from each other by the formations that each one determines. There is no chain of
+diagrams, but there is perpetually the second… the third diagram links back up with the second
+from the very fact that it performs a new distribution of singularities. The fourth links back up
+with the third. It is a series of re-linkages where the givens are as though reset, a new roll of the
+dice. They are partial re-linkages. The outside is the element of the castings of dice throws, dice
+throws coming from the outside.
+
+Thus, it is no longer enough to say, as I said at the beginning…. Here are the three fundamental
+propositions regarding the outside, in order to understand this quite strange notion. Firstly, the
+outside is something other than the external world and every form of exteriority. The outside is
+more distant; the outside is distance in its pure state, that is, a distance that can never be
+approached. It is not a relative distance, but an absolute distance. Thus, the outside is more
+distant than any external world. Second proposition: the outside is the element of forces and their
+relations. Force comes from the outside, forces are affected from the outside, and thereby it is the
+element of the diagram; the diagram is the outside of historical formations. It is not outside the
+historical formation, it is the outside of the historical formation that corresponds to it or that
+follows from it.
+
+Third proposition: the diagram itself comes from the outside. For the diagram is multiple, and
+each diagram corresponds to a drawing [tirage]; thus, each diagram is a reshuffling [retirage]
+since there is no first diagram, and the diagrams are ceaselessly shuffled [brassé] from the
+outside. Oh really?! For the moment this story is very abstract, but remember, I would add, let us
+always return to this example: casting of singularities, integral curve that passes through the
+
+                                                                                                       31
+
+neighborhood of the singularities, of the singular points. You recall that this was our famous
+thing about azert, as an example of a statement. The statement azert. Which is to say, the
+statement of the series of letters, singularities, in the order they take on a French typewriter. A Z
+E R T, Foucault told us: A Z E R T do not form a statement, but azert is a statement when I state
+the order of the letters on a French typewriter.
+
+And we have seen that this amounted precisely to saying: the casting of singularities, a casting of
+singularities is not a statement, but on the other hand the curve that passes through their
+neighborhood is a statement; and Foucault told us therefore that the statement is always in
+relation with something else or with an outside. The outside of the statement: that is the
+singularities by which the statement passes. Thus, all the diagrams are shuffled by the outside.
+The outside is the mixing of diagrams, which makes it so that, a diagram being given, there will
+always be another diagram emerging in a kind of mutationism that is evident in Foucault. The
+diagram is agitated by mutations; the mutations come from the outside. So that, you see, I can no
+longer maintain – and this is the object of my third remark – I can no longer maintain the identity
+of levels between the outside and the relation of forces.
+
+My three remarks are: first, there is an identity of levels between exteriority and form; second,
+there is an identity of levels between the outside and the relation of forces or the diagram;
+third…, it must be added that no, in certain regards, there is not an identity of levels, for the
+diagrams are drawn from the outside. The outside is, how to put it, even more distant than the
+diagram. The diagrams issue from the outside. What is that, then? It’s not a form, you recall,
+forms are exterior; the outside is not a form, but that from which the singularities emanate. Oh
+really? But then, if the singularities… it must be said, therefore, that the singularities exceed
+even the relations of forces, which will lead us very far, it’s complicated… Until now, we have
+identified singularities and points, relations of forces: we can no longer say that. We will say: the
+singularities are taken up in relations of forces – and this will be much more beautiful, even more
+beautiful – the singularities are taken up in relations of forces at the level of the diagrams. But as
+pure emissions, where do they come from? They come from the outside… You will tell me: this
+does not get us any further. It is by repeating this word that we will perhaps get something from
+it.
+
+Let us accept this: we must go so slowly. They come from the outside. Here, there is a kind of
+romanticism of the outside in Foucault that is very important, very essential. We will not be
+surprised that if seeing and speaking find their status at the level of forms of exteriority, thinking
+does not find its status at the level of forms of exteriority; thinking finds its status at the level of,
+and in relation to, the outside. Thinking is the relation with the outside. Alright, but what does
+that mean? Before knowing… I always proceed with the same method. Before knowing what it
+means, we have every interest in drawing a consequence. If all of this means something, then we
+have a rude consequence, which is that the singularities exceed the relations of forces; the
+singularities enter into relations of forces, yes, but only to the extent that they are taken up in a
+diagram. Insofar as they come from the outside, they are not yet taken up in a relation of forces.
+
+You see: there would thus be three stages. Emissions of pure singularities. Second stage: these
+singularities are taken up in relations of forces. Third stage: they are incarnated, actualized in
+forms, in forms of exteriority. Ah yes, that’s very clear! Oh, how clear it is! Eh? Very, very clear,
+
+                                                                                                       32
+
+it’s rare that I am so clear as this! Ah yes! Good. Do you want me to repeat it? You will regret it,
+[Laughter] you will regret this brief moment of clarity. And well… what is the essential
+consequence? That, in the diagram, there will be strange singularities. There will be singularities
+taken up in relations of forces, yes, that will happen: power to be affected – power to affect. The
+power to be affected and the power to affect are taken up in relations of forces.
+
+But there will be some singularities, how to put it, that are a little floating, singularities that attest
+to a potential exceeding the diagram. Insofar as the diagram comes from the outside, it captures
+singularities that it does not manage to take up in its relations of forces. So that, in fact, the
+forces have not two aspects, but three. We could not say this before. First aspect: power to affect.
+Second aspect: power to be affected. Third aspect: power to resist. To resist is the potential of
+force, if you will, insofar as it does not allow itself to be exhausted by the diagram; or, in what
+amounts to the same thing, it is the potential of the singularity insofar as it does not allow itself
+to be exhausted by a relation of forces given in the diagram. There are resistances.
+
+There are resistances, and it’s Foucault’s great passage in The History of Sexuality, Volume 1, pp.
+95-96. I will read it to you: “Power relationships” – so, much more -- “The existence of power
+relationships depends on a multiplicity of points of resistance” -- Points of resistance: there are
+thus singularities of power, whether it be the power to be affected or the power to affect, but
+there are also singularities of resistance, which explain that in effect there is something that
+exceeds the diagram -- “Their existence depends on a multiplicity of points of resistance: these
+play the role of adversary, target, support, or handle in power relations. These points of
+resistance are present everywhere in the power network. Hence there is no single locus of great
+Refusal, no soul of revolt,” etc. “Instead there is a plurality of resistances [that is, of
+singularities], each of them a special case,” and he will give us the list. Resistances “are the odd
+[autre] term in relations of power,” that is, are the outside of relations of power. The relations of
+power are the outside of the stratified formations, yet there is still an outside of relations of
+power. Resistances are the odd term in relations of power. Above all, there would be a
+misunderstanding that you will be wary of and avoid, which would be to say: ah well yes, the
+odd term, that is the power to be affected, it’s the other term in relation to the power to affect.
+That is not it at all. The power to be affected is not a resistance. The power to be affected and the
+power to affect are the two aspects of every power relation, but there is something other than
+power relations, which is the resistance to power.
+
+Where does the resistance to power come from? It would be unintelligible if there were no
+singularities of resistance, and the singularities of resistance can be understood only if the
+diagram does not enclose the outside, but is itself stirred [brassé] by the outside, so that there can
+be points of resistance that are irreducible to the diagram. Do you understand a little? And it will
+be on this point that Foucault, in a text that is not part of a book, will suggest something that we
+will have to explore in more depth, namely, that resistance is even in a sense primary in relation
+to what it resists.
+
+The primacy of resistance in relation to what it resists: a theme that seems very important to me,
+and that we will have to…. As a result, the power relation is what combats a prior resistance,
+what strives to overcome a prior resistance. Resistance is not second, it is first. This idea, which
+can appear very strange, is explained at least abstractly for us if you understand that the diagrams
+
+                                                                                                     33
+
+or relations of power are not the final word. The diagrams were, once again, distributions of
+singularities insofar as these singularities entered into relations of forces, but in this sense, every
+diagram emanates from an outside. The outside attests to its irreducibility, which is to say, to its
+irreducibility to the diagram itself, by inspiring irreducible points of resistance in each diagram.
+You understand?
+
+And perpetually the diagrams are changing. Why? What is the force that compels the diagrams to
+transform [muer]? To undergo mutation. It goes without saying that if the diagram were not
+strewn with points of resistance, there would be no mutations. It is the points of resistance that
+force and bring about a mutation of the diagram, which is to say, a second drawing that comes
+from the outside, no less than the preceding one, which will also have its points of resistance, and
+a third drawing, etc., which will thus determine… not determine, which will trigger…
+[Interruption of the recording, with text overlap] [3:01:54]
+
+Part 5
+
+…to undergo mutation. It goes without saying that if the diagram were not strewn with points of
+resistance, there would be no mutations. It is the points of resistance that force and bring about a
+mutation of the diagram, which is to say, a second drawing that comes from the outside, no less
+than the preceding one, which will also have its points of resistance, and a third drawing, etc.,
+which will thus determine… not determine, which will trigger the mutations. It is the moment
+when the points of resistance are globalized that there will be a toppling of the diagram in favor
+of a new diagram.
+
+As a result… Ultimately, I could say: we’re done now. Because what is this resistance, where
+does it come from, all that? We must try to see, but roughly speaking, we have finished with the
+axis of power. Because we have already gone beyond power: we saw that, in a certain manner,
+there was what must now be called a line of the outside, a line of the outside, ah the terrible,
+terrible line of the outside! Who is it that has spoken of the line of the outside? Why do I use this
+express word? The line with two free ends [aux deux extrémités libres], which surrounds the
+whole skiff, that is, the whole stratified formation, which surrounds the whole lifeboat, and
+which, when it takes off [file] – it, the line of the outside – always runs the risk of carrying away
+a sailor; hence terrible, the line of the outside. This is [Herman] Melville’s whale line in Moby
+Dick. Needless to say, that Moby Dick is the absolute outside. The whale line is the line of the
+outside. Two free ends, but it surrounds the whole lifeboat so well that, under the weight, under
+the pressure of the fleeing whale, the line is strained to its limit and, in its tension, risks cutting
+off the head or the arm of a sailor, or carrying him off, plunging him into the water… The line of
+the outside, the line of the outside that takes off…
+
+And in Foucault’s work, imagine that there is a line of the outside; what is this inspiration? Here
+I am posing the question seriously: does he owe something to Melville? Does he owe
+something… who else has spoken of the line of the outside or something equivalent? [Henri]
+Michaux, and yet very independently of Melville, Michaux has splendid pages on the line that
+twists like the lash of a raging charioteer. The line that twists like the lash of a raging
+charioteer… good, that is the equivalent of the line of Melville. So then, must we call Michaux’s
+line, the line of Melville?2
+
+                                                                                                    34
+
+A student: The line of Proust as well…
+
+Deleuze: Ah, listen, I do not think it’s the same thing, I don’t know, you will have to tell me
+what you mean. Must it be said that…? For the moment, we are at this point: that beyond
+diagrams, there is still something else, which is this line of the outside from which the diagrams
+emerge, from which the diagrams are derived; it is the line that throws the dice. If I dare say that
+it’s the line that throws the dice, then in this sense, it will be the line of Nietzsche; we could mark
+as nodes on this line: Melville, Michaux, Nietzsche, you can add what you like, Proust if you
+like, all that… and good, okay, perhaps we have gone too fast, because we have indeed seen…
+
+Let us stick with the capacity to transform the diagram. This capacity to transform can only be
+explained by the line of the outside. We agree on this, but in order to not go too fast and to try to
+unravel such a mystery as the line of the outside, we must go back and ask: what exactly is a
+diagrammatic mutation, a change in the relation of forces? And we are going to run up against a
+theme that is so well-known in Foucault – and we will have to look at it clearly because so many
+stupid things are said about it –, which is the famous theme from The Order of Things, the death
+of man. What does it mean, “man is dead”? It may be said that this theme aroused sometimes
+indignation, sometimes approbation, but regardless, what is it? What does it mean? And on this
+point, what relation is there between Foucault and Nietzsche? In a certain manner, you sense that
+it signifies that we are in the midst of a mutation of the diagram… [Interruption of the recording]
+[3:07:06]
+
+… it’s exactly there that, for the next time – which is still part of the analysis of power, but the
+conclusions – what the theme “the death of man” signifies in The Order of Things; so, if you will
+be able to have re-read the last chapter, or passages in the last chapter of The Order of Things for
+next time, that will help you. There we are, thank you. [End of the recording] [3:07:39]
+
+Notes
+
+    This is a reference to the previous session a month before, January 28, 1986.
+    The text to which Deleuze refers is Michaux’s Misérable miracle (1967).

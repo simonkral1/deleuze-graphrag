@@ -1,0 +1,3479 @@
+A POLITICS OF THINGS
+     DELEUZE’S COURSE ON ROUSSEAU
+
+              Course by G. Deleuze – Sorbonne 1959-1960
+
+Manuscript from the library of the Ecole Normale Supérieure de St.-Cloud.
+
+                          Serie C1, No. 12167
+
+             Translated and edited by Arjen Kleinherenbrink
+
+             Center for Contemporary European Philosophy
+
+                     Radboud University Nijmegen
+
+CONTENTS
+
+Translator’s introduction                                           3
+
+Translation                                                         10
+
+Edited Translation                                                  37
+
+1 - Three conceptions of the state of nature                        37
+2 - The New Heloise: virtue, objectivity, hierarchical stages       37
+         2.1 - First stage: the original goodness of the soul       43
+         2.2 - Second stage: natural goodness or love of virtue     43
+         2.3 - Third stage: virtue itself                           45
+         2.4 - Fourth stage: wisdom                                 45
+3 - The Social Contract and Emile are parallels                     46
+4 - The state of nature                                             47
+5 - The meaning of ‘nature’ in Rousseau                             50
+6 - Is the state of nature a reality or a fiction?                  53
+7 - The unity of Rousseau’s works (I)                               53
+8 - How does one leave the state of nature?                         55
+         8.1 - From state of nature to savage state                 55
+         8.2 - The advent of morality and freedom                   56
+         8.3 - Mystification, wickedness, and alienation            58
+         8.4 - How to leave?                                        61
+9 - The unity of Rousseau’s works (II)                              62
+10 - The social contract                                            63
+         10.1 - The sovereign is irreducible                        65
+         10.2 - How is the sovereign indivisible?                   65
+         10.3 - What is the positive character of the Contract?     66
+         10.4 - Obligation, totality, instantaneity                 67
+         10.5 - Why does the sovereign constitute a general will?   69
+         10.6 - What does the general will want?                    70
+         10.7 - The idea of the civil law in Rousseau               73
+
+                                                                         2
+
+TRANSLATOR’S INTRODUCTION
+
+In 1959-1960, Deleuze dedicated a year of coursework to Jean Jacques Rousseau, a thinker
+
+we are not used to rank among Deleuze’s famous ‘minor’ philosophical heroes. Indeed, it
+
+would be easy to dismiss Rousseau as too romantic, too aristocratic, and too much of a State
+
+thinker in order to have any profound connection with Deleuze. However, the course’s typed
+
+summary of twenty-seven pages, never published but available at several places online 1,
+
+suggests otherwise. The document is a surprising encounter between Deleuze and Rousseau,
+
+one in which Deleuze explicitly transforms Rousseau into a thinker of genesis, virtuality, and
+
+actuality, each a key concept in Deleuze’s own thought. This connection or transformation
+
+disappears (or is rendered implicit) in the single essay Deleuze published on Rousseau in
+
+1962 2, as does much of the internal structure Deleuze discerns in Rousseau, which makes the
+
+course summary a unique source to turn to. We will shortly return to how this Deleuze-
+
+Rousseau encounter might be relevant for those interested in Deleuze as well as those reading
+
+Rousseau, but first we turn to the question of what Rousseau becomes in Deleuze’s hands.
+
+           Deleuze tells us that all of Rousseau’s work concerns a single problem, which is not
+
+that of freedom, but rather that of reconciling virtue with the interest of society (p.3), which is
+
+the same as resolving the tension between the human individual and the species (p.18).
+
+Rousseau’s entire oeuvre is read as a single effort to solve this problem, which exists at
+
+different levels. Regarding The New Heloise, the problem involves four different stages. First,
+
+original goodness of the soul. It is a state of reliance of things, of each being whole onto
+
+oneself and one with the sentiment of existence. It is a state in which no wickedness is
+
+possible, but, as we will learn later, this state must be thought as a virtual point of departure of
+
+a genesis of actual states. Second, the natural goodness of the soul. This is the point at which
+
+    Most notably at http://www.webdeleuze.com/php/sommaire.html.
+    Desert Islands, pp. 52-55.
+
+                                                                                                  3
+
+relations between people give rise to wickedness. The original goodness subsists and there
+
+emerges a love of virtue, a desire to retain goodness despite the situation. This results, thirdly,
+
+in an attempt to make virtue the interest in being wicked. Deleuze here mentions the
+
+‘materialism of the wise man’, consisting in a use of things and situations to allow human
+
+beings to change. The fourth and final stage is that of wisdom, of a restoration in which one
+
+discovers the ease of existence, and is liberation from the reliance of things in favor of an
+
+emptiness. This ‘reverie’, even though it is the final stage, is heavily implied to still remain
+
+insufficient, a point confirmed at a later moment 3.
+
+           Deleuze next asserts that these four stages are also found in the Emile and the Social
+
+Contract, which he insists must be read as a diptych: ‘there is a relation of essential
+
+succession between the Contract and the Emile. The contract presupposes the educated,
+
+formed, private man’ (p.8). We start with a pre-social state of nature, characterized by
+
+dispersion and a complete absence of society. Hence, individuals are identical to the species
+
+as a whole, because nobody is trying to distinguish him- or herself as an individual with
+
+regards to others. Since wickedness only arises at the societal level, this state is not beyond,
+
+but before good and evil. In addition, Deleuze-Rousseau tells us that this state is never actual:
+
+‘the state of nature must be understood as a genetic element, heavy with potential, with
+
+virtualities’ (p.10). The state of nature is never a fact of observation, but more of a
+
+transcendental condition for actual society.
+
+           The second stage is that of ‘natural man’ or ‘private man’, whose development is
+
+governed by ‘natural law’ (which is precisely the process of virtualities becoming actual,
+
+Deleuze tells us). This second stage refers to Emile’s domestic education of nature and of
+
+things, engendering consciousness, reason, society, and sociability. As with The New Heloise,
+
+    ‘the actual situations that incarnate this reverie are always ambiguous. They turn out badly: either we behave
+
+poorly, or we end up the odd man out, or both’. Desert Islands, p. 53.
+
+                                                                                                                4
+
+we also find a genesis of vice. This leads to the third stage, simultaneously the advent of the
+
+corrupting social state and that of moral man. Property and inequality lead to a deceiving
+
+agreement with which the rich subjugate the poor, but nevertheless there also emerges a
+
+certain morality and sense of justice, again as a result of the virtual aspect of an earlier stage:
+
+‘the law of nature permits formation in a corrupted society’ (p.12).
+
+          The fourth and final stage is that of the Social Contract. This contract presupposes the
+
+formed, private man of Emile, because it is through a return to the second stage that we can
+
+get from the third to the fourth stage. Privately, an act of moral will must restore the
+
+subjective unity between individual and moral species, after which a political act must follow
+
+to realize the objective unity. The Contract actualizes freedom, which is already present in the
+
+state of nature, without us being conscious of it. When the people, as a whole, engender their
+
+total alienation into the Sovereign to become subject, everything is instantaneously restored to
+
+them: being simultaneously individual subjects and members of the sovereign, everybody
+
+rules themselves through the general will.
+
+          There is a surprising end to Deleuze’s treatment of Rousseau. He reminds us that the
+
+Sovereign only has the law itself as its object, in a purely formal sense. In other words, after
+
+the completion of the fourth stage, we know how to legislate, but we do not know what to do.
+
+One more thing must be added, and this is precisely the relation with things or with concrete
+
+situations which confront the people: ‘to determine a law, the general will does not suffice.
+
+The formal determination of the will must be joined to the content of objective circumstances
+
+of a given society’ (p.26). Deleuze sees the figure of the legislator as referring to this
+
+‘injection’ of material circumstances: ‘without the legislator, the general will formally know
+
+what it wants. But it needs him to be determined materially. A good law must not consider
+
+particular persons – formal aspect – and adapt itself to concrete situations – material aspect –‘
+
+(p.27).
+
+                                                                                                 5
+
+           What are the remarkable aspects of this manuscript? First, of course, how Rousseau is
+
+staged. There has always been a debate on the nature of Rousseau’s thought: is it a single
+
+system?; is it riddled with paradoxes or merely acknowledging tensions? 4; is it a positive
+
+program or a meditation on an ideal and its failure?; and so on. Deleuze remains unequivocal:
+
+Rousseau is a thinker of genesis, of the actualization of virtual potential, and as such, all his
+
+work can neatly be arranged on a single genetic line. Rousseau’s considerations of (civil)
+
+religion are casually ignored, and the well-known problems surrounding the legislator and
+
+educator (where does he come from?; who is his teacher?; how did he remain unaffected by
+
+our miseries?) are dissolved. Though it remains highly doubtful that Rousseau based all his
+
+writing on a single, rigid structure of four stages and their dynamic interactions, it is
+
+nonetheless fascinating to see how very plausible Deleuze manages to make this idea.
+
+           Regarding Deleuze himself, I would argue that even though Rousseau is barely present
+
+in later works 5, this manuscript still shows us a surprising way in which Deleuze himself
+
+could be read. In general, Deleuze’s political philosophy is interpreted as one with an almost
+
+exclusive focus on resistance, escape, locality, and minoritarian gestures. It is always the war
+
+machine versus the state, the nomads versus the royals, and the moleculars versus the molars.
+
+If there is such a thing as a ‘Deleuzian political theory’, it is predominantly presumed to be a
+
+    Recall the well-known critique of Edmund Burke: ‘[Rousseau has] a tendency to paradox, which is always the
+
+bane of solid learning […] has prevented a great deal of the good effects which might be expected from such a
+
+genius [as Rousseau]’ (1963: 89).
+    Rousseau re-appears in the Postulates of Linguistics in A Thousand Plateaus, once in relation to the order-word
+
+(p.81), once in relation to voice and music (p.96). Yet more interesting is the sudden statement in Anti-Oedipus
+
+that ‘the unconscious is Rousseauistic, being man-nature’ (p.112).
+
+                                                                                                                 6
+
+manual of how to escape ‘the system’ for as long as possible 6. Yet the Rousseau manuscript
+
+spells out an alternative. Here, genesis, virtuality, and actuality are placed in the service of the
+
+construction of a just and good society. From the actual situation of inequality, one returns to
+
+the virtual conditions which have engendered it. A discovery is made, namely that ‘natural
+
+goodness’, the ‘before good and evil’, has always subsisted, which provides the opportunity
+
+for a new actualization (a counter-actualization, a reterritorialization). Only this time, the
+
+result is formal. Not an actual distribution of power and prestige in a hierarchy, but an empty
+
+method which allows us to focus on things. In other words, the people henceforth decide to
+
+focus on that which truly unites them, which can only be those situations in which they find
+
+themselves (not abstract ideas determined in advance). Such a society would not cling to the
+
+past, but instead open up the present to the future. Justice would be synonymous with
+
+jurisprudence. It would forego all teleology (a projection of the past into the future) in favor
+
+of pragmatism and constructivism. It would, as much as possible, abandon all transcendent
+
+overcoding in order to become capable of acting according to immanent criteria concerning
+
+the things (machines, assemblages) that present themselves in a situation. It is obvious that
+
+much of this is highly compatible with both the letter and spirit of Deleuze’s thought.
+
+Moreover, Eugene Holland, in his guide to Anti-Oedipus (1999), has already suggested that
+
+the entire book alludes to a possible fourth society (after the savages, the despots, and the
+
+capitalists) which can be created. Recently, Joe Hughes (2012) has convincingly argued that a
+
+return to Deleuze’s Hume reveals a positive political program centering on a specific way of
+
+constructing institutions. Thirdly, Ronald Bogue’s writings on the notion of ‘a people to
+
+come’ also insist that even though this concept finds its origin in art, it ultimately designates
+
+    One notable exception is the work of Paul Patton (f.i. 2000), who has always seen Deleuze as a thinker relevant
+
+to positive, large-scale politics concerning the construction of societal infrastructure itself, rather than merely a
+
+philosopher who tells us to find the interstices in this infrastructure.
+
+                                                                                                                   7
+
+the real possibility of concrete realization at a societal level 7. So this is perhaps where the
+
+greatest value of this manuscript lies: the possibility of mobilizing all the well-known
+
+Deleuzian concepts in order to think the construction a society at its largest scales, rather than
+
+to merely evade it at the local level. We could then perhaps conclude that even though
+
+Deleuze has ‘strictly no political program to propose’ 8, this would only amount to a refusal of
+
+determining a prior content and hierarchy. Yet what, one wonders, would a society look like
+
+when based on Deleuzian principles with regards to its formal method? In this regard, it is
+
+particularly interesting to consider the possibility of a Deleuzian variant of the ‘redeeming’
+
+movement in his interpretation of Rousseau: from a corrupted collectivity (molar, royal,
+
+State), one returns to a private, individual level (deterritorialization, line of flight), a
+
+movement which must be completed by a return to a societal level after the collectivity has
+
+learnt something about its own nature, allowing it to construct a better world
+
+(reterritorialization, counter-actualization, people to come). At the very least, it would clearly
+
+be a society that strives to abandon, as much as possible, all idealisms, all a prioris, all
+
+burdens inherited from the past, precisely in order to engage all the better with the real,
+
+material circumstances in which we find ourselves. No longer a politics of abstract ideas, but
+
+instead a true politics of things.
+
+Two translations
+
+The French document has been converted to two English versions. The first is a literal
+
+transcription of the French text into English, including, to a significant degree, the physical
+
+positions of words on the pages. However, at several points the manuscript is little more than
+
+    ‘The goal […] is to break the continuities of received stories and deterministic histories, and at the same time to
+
+fashion images that are free of the entangling associations of conventional narratives and open to unspecified
+
+elaboration in the construction of a new mode of collective agency’ (2006: 221, emphasis added).
+    Anti-Oedipus, p. 379.
+
+                                                                                                                     8
+
+quick notes or single words. Possible rhizomatic advantages notwithstanding, this led to the
+
+decision to also create an edited version of the text which would read as a single, unbroken
+
+article (this has obvious risks and possible disadvantages, and the reader should primarily
+
+refer to the literal transcript).
+
+A note on terminology
+
+Amour de soi has been translated as ‘self-love’; Amour propre as ‘pride’; and convention as
+
+agreement. ‘Power’ translates pouvoir, unless mentioned otherwise in parentheses.
+
+Sources
+
+Burke, E. (1963) [1759]. Review of Rousseau’s Letter to d’Alembert. In: Edmund Burke:
+
+Selected Writings and Speeches. Ed. P.J. Stanlis. Garden City
+
+Deleuze, G. & Guattari, F. (1983) [1972]. Anti-Oedipus. Trans. By R. Hurley, M. Seem &
+H.R. Lane. University of Minnesota Press.
+
+Deleuze, G. & Guattari, F. (1987) [1980]. A Thousand Plateaus. Trans. By B. Massumi.
+University of Minnesota Press.
+
+Deleuze, G. (2004) [2002]. Desert Islands and Other Texts 1953-1974. Trans. by M.
+Taormina. Semiotext(e).
+
+Holland, E. (1999). Deleuze and Guattari’s Anti-Oedipus: Introduction to Schizoanalysis.
+Routledge.
+
+Hughes, J. (2012). Philosophy after Deleuze. Continuum.
+
+Patton, P. (2000). Deleuze & the Political. Routledge.
+
+                                                                                           9
+
+                                                                                                 1
+
+TRANSLATION
+
+COURSE OF MR. DELEUZE – Sorbonne 1959-1960
+
+                                             ROUSSEAU
+
+2 possible conceptions of the State of nature.
+
+1)   Ancient conception = status naturae. This continues into the Middle Ages (Plato,
+     Aristotle, Stoic, Cicero, St. Thomas). Related to natural right. Always defined in an
+     order of perfections. Finalized motion. Natural right = conformity with Nature. Its
+     sociability and society are naturally part of and defined in the order of perfections. A
+     state of nature is never evoked as a pre-civil or pre-political state (cf. Aristotle.
+     Cicero’s De Finibus).
+     The social problem is not that of the establishment of a society with a contract or
+     another thing. Ideally, people search for the best government, which is that of the wise.
+     In fact, the wise no longer have the desire to govern men, and men do not want the wise.
+     What is needed is a government that replaces the wise. Whence the problem of the best
+     regime. (Plato = the laws. The nomos is necessary as a real substitute for wisdom).
+     This conception continues into modern political philosophy, not with the philosophers, but
+     with the theologians and the lawyers.
+
+2)   New meaning with Hobbes
+     -   The state of nature is defined as a mechanism of forces. That which is natural is no
+         longer the order of perfections, but right understood as a system of power: right
+         becomes absolute. Reaction against the Aristotelian tradition: man is not a sociable
+         animal. The state of nature lets everyone judge: abolition of the privilege of the
+         wise.
+     -   Society is therefore justifiable from an origin which both affirms itself in nature
+         and marks the extreme limit of that which is natural.
+         The conflicts between individuals automatically (mécaniquement) lead to internal
+         conflicts in the individual (between ambition and the fear of a violent death).
+         Society appears as the only means to overcome these contradictions through a specific
+         act = the contract.
+
+     -   How does Rousseau accept and transform these terms? With Hobbes, he recognizes that
+         sociability is not natural. However, he opposes the notion of contradictions which
+         force man to exit the state of nature.
+         In what consists the contract?
+         Legal definition of contract as a relation between two parties
+                 - It endows each party with rights and duties, relative to each other, for a
+                 determined time.
+                 - It is voluntary.
+                 - It is not binding for third parties.
+
+The notion of the social contract recasts this definition: indeterminate time, applying to
+third parties…
+
+  DELEUZE – ROUSSEAU                                                                            2
+
+But the authors who have used this term insist on its voluntary aspect = political philosophy
+as philosophy of the will.
+
+Who are the parties to the contract? Subjects and sovereigns? That is the point of view of the
+lawyers. If so, who will judge whether the contract is observed well? The source of power will
+be double: a third party is needed to judge. Yet this third party will be the sovereign
+(objection by Hobbes, which we again find in Rousseau).
+HOBBES: the contractual relation is only established between those who will become subjects.
+We need to conceive of a series of contracts of everyone with everyone, by which everyone
+establishes himself as subject of a third party which does not enter into the contract.
+(modern type: contract with stipulation for others. Example: life insurance).
+
+ROUSSEAU takes up Hobbes’ critique against the first explication, but rejects Hobbes’
+solution.
+
+What is the obligation that results from the contract?
+The problem of a finality of the contract,
+                       finality which must be recognized in the product of the contract.
+Commonplace in political philosophy of the 18th century. Discovery of a man-citizen duality
+which did not exist in the ancient world. Man was capable of “virtue”. The modern fact is the
+duality: man has become private man and citizen.
+In fact, private man is incapable of being a citizen, and “virtue” as determination of the
+citizen is impossible. It only resides in private virtue.
+MONTESQUIEU: “We have gained in humanity, but we have lost in virtue”. (Carnets).
+
+The reasons:   - ideological = religion – Christianity
+               - economical = development of property income
+
+ROUSSEAU: Discourse on the Arts and Sciences: “Ancient politics spoke only of honor and
+virtue; ours speaks only of commerce and money.
+Difference in nature between the most virtuous citizens of Geneva and the least ones among the
+Romans.
+
+HEGEL participates in this pessimism of political philosophy: we are not capable of democracy,
+which is nevertheless the best regime.
+Cf. beginning of Emile: 2 types of education: formation of the citizen and formation of
+private man: a choice must be made.
+The citizen is posed in the city as a free citizen, and requests freedom from society. Man,
+insofar as he is private, requests security from the city, which is the same as the guarantee
+of his properties.
+How does the contract respond here?
+
+I exchange my natural freedom (entirely or in part) and I receive security from the sovereign.
+With Hobbes, the only freedom of the contract is a certain security. However, certain rights
+remain inalienable: the right to resist whoever wants to kill me.
+
+SPINOZA even retains freedom in the civil state: I do not content myself
+
+     DELEUZE – ROUSSEAU                                                                           3
+
+with simple necessity. Preserved in the modern world this new freedom will be the freedom of
+thought.
+
+ROUSSEAU connects freedom to inalienable rights: the right to make laws. HEGEL reproaches
+Rousseau for having forgotten that we are no longer citizens. This is perhaps true for the
+Social Contract, but it is false for Rousseau’s oeuvre as a whole.
+
+3)   Third type of conception that surfaces in the middle of the 18th century: utilitarian and
+     positivist. Against Thomist theology, ancient metaphysics: the notion of contract is
+     metaphysical (HUME, BENTHAM).
+     Two arguments with HUME:
+
+     -   Complete negation of a state of nature, which is not a state of right, but of needs,
+         one that cannot be defined but negatively.
+     -   Society does not have as its origin a contract which is always an act of limitation of
+         natural rights.
+         Now, the constitutive act of society is essentially positive.
+         For HUME it revolves around agreement (for example: the harmony of rowers).
+         The destination of this agreement for BENTHAM: security.
+         For the proponents of the contract, Spinoza, Rousseau, and Kant demand freedom.
+
+                                         THE NEW HELOISE
+
+Rousseau’s project, even though he was concerned with political institutions: writing a book
+of which the theme obsesses him and for which he has the title “Sensitive Morality, or The
+Wise Man’s Materialism”. The ideas of this unfinished book are retrieved in “The New Heloise”.
+Hypothesis of BURGELIN: in the heroes of “The New Heloise”, illustration of the myth of the
+Phaedrus.       Saint Preux: the black horse.
+                Julie: the heart.
+                Wolmar: the noûs.
+
+For Rousseau, Julie and Saint Preux are made for each other, because they both love virtue.
+There is conflict, because the objective situation precludes this would-be virtuous love.
+Julie lives the conflict: she loses virtue, but the love of virtue remains in her. She writes
+to Saint-Preux:
+“I keep my love for you; the love of virtue is for Wolmar and I obey my parents”. Yet, a
+revelation on the day of the marriage: “Our diverse situations change and they determine,
+despite ourselves, the affections of our hearts”. Note letter 20 part 3.
+Now, in certain objective situations, we cannot but be wicked. How to reconcile virtue and the
+interest of society? “We shall be vicious and wicked as long as we shall have an interest in
+being so”. Wanting to change oneself strikes Rousseau as ridiculous.
+Our soul is defined in its relations with objects.
+The will can change the situation by intervening as objective element of the situation itself.
+Julie decides that if Wolmar dies,
+
+  DELEUZE – ROUSSEAU                                                                            4
+
+she will not marry Saint-Preux.
+Private transposition of a famous idea in political philosophy: establishing situations such
+that people can no longer be wicked: HUME: problem of political philosophy: finding objective
+situations which reconcile justice and interest.
+Making the strong will intervene in private life as an objective element of the situation.
+Conception of Wolmar: subjection of the physical being to things:
+therapeutic for Julie and Saint-Preux.
+
+       In part IV, Saint-Preux returns when Julie is married and has two children. It is
+Wolmar who asks Saint-Preux to come: his idea: observing people, experimenting on them. He
+wants to heal Julie, who has acquired virtue, but has not forgotten her sin. Letter 12: the
+therapy of the Grove: (place where Saint-Preux had embraced Julie and where she has never been
+able to return).
+“Julie, fear this refuge no longer, it has been profaned”, that is to say, dissocialized.
+Letter 18: Wolmar leaves Julie and Saint-Preux at the place where Saint-Preux had once been
+exiled during their love.
+
+Wolmar’s plan. They love each other in the past. Julie is no longer the same, because she has
+become virtuous. But Saint-Preux does not know this. “Take away the memory, and he will no
+longer have the love” … The error that abuses him and the problem is a confusion of times”.
+Saint-Preux is fixated.
+(It is the psychoanalytic fixation).
+
+   -   To make him conscious of the fixation; that the Julie he loves is no longer the
+       present Julie. It is a treatment by means of becoming conscious. But Wolmar thinks
+       that it is too dangerous, the becoming conscious does not heal. Because he would be
+       capable of loving the current Julie.
+
+   -   It is better to make him lose the memory of the times which he must forget “by deftly
+       substituting other ideas for those which are dear to him”. Execution of substitution.
+       “I cover the past of the present”. It involves substituting for the love for Julie as
+       a young girl, a friendship for the woman, and this in a continuous manner. It is the
+       transfer of psychoanalysts.
+
+               It involves changing the situation in order to become virtuous. The wise man is
+       he who puts determinism in the service of virtue. The situation can be changed by the
+       will: it is Julie’s method. Wolmar prefers to operate within the situation itself, to
+       execute a transfer (it is the materialism of the wise man).
+
+       Rousseau has a conception of the hierarchy of stages of the “beautiful soul”.
+       Four stages which can be different:
+
+       1.   The original goodness of the soul
+       2.   The natural goodness or love of virtue
+       3.   Virtue itself
+       4.   Wisdom
+
+  DELEUZE – ROUSSEAU                                                                            5
+
+   1.   The original goodness.
+
+   It is the goodness of the soul in the state of nature. Affirmation of this goodness which
+is never separated from a deterministic affirmation. These are the situations which determine
+our affections. The soul is first of all a faculty of feeling, not of reason. That which
+appears at first is a “reliance on things” which is natural. This affirmation entails that of
+original goodness, because in the state of nature, all affections are good, that is to say
+appropriate to the object (put differently, it is the naturalist transcription of the
+conception: reality = perfection).
+In this goodness, everyone is a whole onto oneself. Each is one with the sentiment of
+existence. However, there is a natural diversity of souls due to the difference of fundamental
+faculties.
+
+        The soul of Julie:    energy, lazy with regards to a change of state, interior
+                              sensibility.
+        Saint-Preux:          interior sensibility. Feeble soul.
+        Wolmar:               little sensibility, cold soul, taste for reason.
+        Claire:               impulsive. “The crazy one”.
+
+Each soul nonetheless has an original goodness. There is no possible wickedness at this level,
+because the intuitions do not permit it. In function of its type, each soul has its place in
+the order of nature.
+
+   2.   Natural goodness
+   Problem of the genesis of wickedness. With society comes a radical change of situation
+which renders vice possible. With society, new relations which prevent us from being good and
+which develop an interest in being wicked in us.
+These new relations: it is the relation of master-slave.
+In the state of nature, relation of each for himself with things. Society installs a relation
+of reliance of one on the other, everyone being taken as a part and no longer as a whole. A
+relation which starts from infancy. The badly raised child does what he wants to others. “In
+creating a right to be obeyed, children leave the state of nature almost from birth”. New
+Heloise 3 part 5.
+
+The goal of Emile: to recover an education that will entail a reliance on things and not on
+wills. Children must feel their impotence with regard to things.
+With society, everyone is always slave and master of someone.
+It is this artificial relation which engenders vice, because we thereby have an interest in
+being wicked.
+Our original goodness subsists. Natural goodness is original goodness insofar as it subsists
+under these new relations.
+   -    There are degrees: for certain souls, original goodness is effaced by the multitude of
+        social relations (in this sense, loving solitude is a criterion of goodness).
+   -    There are intermediaries. The good soul selects its social relations, it distrusts
+        them. But it can be caught short by the situation and react against its own goodness,
+        driven by determinism (that’s the case for me, says Rousseau).
+
+  DELEUZE – ROUSSEAU                                                                             6
+
+The love of virtue is to want to retain its goodness despite the situation. This natural
+goodness is not virtue, but the love of virtue.
+It is the problem of the New Heloise. Julie is very good, her father as well. Yet by virtue of
+their objective social situations, she cannot love Saint-Preux without being at fault. Nor can
+Saint-Preux love her. What remains them is the love of virtue.
+The moral problem: how to leave this state: loving virtue and doing the contrary, driven by
+the situation?
+
+   3.   Virtue
+   It is the effort to make the love of virtue outweigh the interest in being wicked.
+Virtue is a means to realize the love of virtue. Cf. letter to Sophie “goodness is lost by the
+exertion of a multitude of artificial relations. Until then I had been good … I become
+virtuous”.
+But Rousseau doubts the efficacy of virtue as struggle. He does not doubt the struggle between
+the love of virtue and the interest, but its outcome. Virtue is “always a state of war”.
+
+   -    The struggle can be a platonic flight (Julie) or a stoic one (Edouard), a delicate
+        struggle, because the enemy to conquer can be reason itself.
+
+   -    Julie has another method, after her marriage. No longer the direct struggle, but
+        transformation of the situation through the will. So, one must remove wickedness
+        indirectly. Even in this case, Rousseau remains skeptical. The will intervenes in the
+        situation, but what guarantees that the change is definitive? In a sense, Julie fails.
+        Error of stoicism and of Christianity: they exaggerate duties and virtue.
+        “Wisdom is to dismiss the difficulty of our duties … happy is the one who is not
+        placed in the necessity of being virtuous as one contents oneself with being a good
+        man”
+                 (Letter of January 1764 to Carondelet).
+
+Virtue is a struggle, in a context which a situation demands. Wisdom establishes situations in
+which virtue is needless. Wisdom leads only to the restoration, of which Rousseau dreamt, of
+the unity of virtue and interest within us.
+Wisdom is not separable from enjoyment (jouissance).
+Wisdom presents itself first of all under the aspect of Wolmar’s method.
+He no longer relies on the will to change the situation, but on a selection carried out in the
+situation itself. Selection of times and places.
+
+        of times: cover the past by the present;
+        of places: render familiar that which was sacred.
+
+“True happiness consists in saying that I am wholly where I am”.
+
+  DELEUZE – ROUSSEAU                                                                            7
+
+In the “Reveries”, Rousseau insists on the sentiment of existence. Our misfortune is that we
+anticipate the future in recalling the past, that we are not living the present “which always
+endures without marking its duration in the least, without sentiment of succession”.
+Sentiment of existence: pure present which passes (assimilated to Eternity, to the divine
+state, because “one is sufficient onto oneself, like God”).
+
+Wolmar wants to select the elements of the present. Time must be lived as passage, it is at
+that moment that the substitution is made.
+Method of selection which results in the Reveries.
+At this level, it is no longer a selection of objects which populate time, but time which is
+stripped of all succession of objects.
+The ease of existing is thus discovered.
+At the beginning, he had to use our dependence with regard to things.
+At the end of his life, Rousseau affirms that one must liberate oneself from this reliance.
+And establish an emptiness.
+
+In the materialism of the wise man, it comes down to using the determinism of situations in
+order to disengage. Wolmar controls the objects. But is that good method? (cf. the end of The
+New Heloise).
+In the Rêveries, Rousseau hardly believes that it is sufficient to change situations in order
+to be happy. He there substitutes it for the reverie which permits a coincidence with the pure
+passage of time when objects no longer hold sway over us.
+Book 9. Confessions (Pleiad P. 400-401, 408-409) : Rousseau here takes up anew the themes from
+his book “Sensitive Morality”.
+
+The “Contract” is the parallel on the plane of the citizen, of the Emile on the private plane
+(the educator, the legislator are parallels. Mythical beings, because, says Rousseau, they are
+too full of virtues to be real).
+There is a relation of essential succession between the Contract and the Emile. The contract
+presupposes the educated, formed, private man.
+In the Emile, Rousseau specifies that there are three educations:
+                - An education of nature “internal development of our faculties and organs”;
+                - An education of men: “the use we are taught to make of this development” of
+                nature;
+                - An education of things.
+
+Over the course of the Emile, these educations are reduced to two:
+
+                - Domestic or natural education
+                - Public education concerning relations of men among each other, each man being
+                a part.
+
+The first considers man as a whole, so it is an education of natural man. It places him in
+relation with things and his semblances, each forming a whole for itself.
+The second considers man as citizen, part in relation with other parts.
+These two educations are contradictory. In actual society, we want both at the same time and
+arrive at nothing. “Neither man, nor
+
+  DELEUZE – ROUSSEAU                                                                            8
+
+citizen”. Their differences in kind must be realized. Rousseau says: there is no longer public
+education. We must therefore take the road of private education and stick with it. After that,
+it can be asked whether the restoration of a public education is possible. Whence: the
+Contract presupposes the Emile.
+
+                                     THE STATE OF NATURE
+
+       It is a pre-social, pre-political, pre-civil state.
+Not a new idea (Cf. HOBBES). Why does it appear as pre-social? It is a state of equality and
+of independence (Cf. Discourse on Inequality). Yet Rousseau does not locate its originality
+there: he defines it by dispersion. (Note 2 of the Discourse: Rousseau contests Locke’s
+position on the question of the marital relationship in the state of nature. For Locke, it is
+a natural relationship until children take care of their own business. For Rousseau, Locke
+presupposes that which is in question, which is to say co-habitation of man with woman in the
+state of nature. Now, the State of nature is that of fortuitous encounters. This isolation
+permits Rousseau to explain the State of nature as a state of equality and independence.
+Analytic consequence.
+
+In what sense is all this part of HOBBES?
+
+In an Aristotelian and Thomist perspective, the natural order is like the order of
+perfections. Sociability is part of the natural order. For HOBBES, it no longer concerns an
+order of perfections, but a mechanism of forces: needs and desires. Whence that natural right
+is realizing one’s desires insofar as it is within one’s power. Right, not duty, is primary
+and natural.
+This point of view excludes all dependence.
+Whence a reaction against the Aristotelian tradition: man is no longer a sociable animal.
+There is equality in the respective compensation of inequality of forces: the most strong
+always finding a stronger one than himself, and the least strong capable of being sufficiently
+strong to kill the strongest.
+
+Does this suffice to conclude that the state of nature does not imply social life? For HOBBES
+social life implies an authority, a reliance on respect for a power.
+The state of nature excludes society as the civil state, but does it exclude sociability which
+permits a natural society as an ensemble of relations between independent individuals
+(GROTIUS). Sociability would have derived from an identity in nature between men as reasonable
+beings. “The state of nature and a social life are not two opposed things”. Puffendorf. But
+this conception presupposes that one grants himself reason right away. Now, for HOBBES, there
+is a genesis of reason.
+Rousseau also demands, against Hobbes, a genesis of complex passions for which Hobbes appeals
+to the state of nature. According to Rousseau, Hobbesian Man “abuses” certain faculties which
+must be produced historically.
+
+  DELEUZE – ROUSSEAU                                                                            9
+
+In changing the plane on which the problem is posed, Rousseau escapes these difficulties of
+Hobbes. If we accept the thesis of dispersion, then no longer a problem of this type: each
+form of society is necessarily excluded from the state of nature.
+With HOBBES, need is what brings closer, with ROUSSEAU, it separates. In the “Essay on the
+origin of languages”, without doubt contemporaneous to the Discourse, the natural effect of
+needs will be to separate men. “The state of war reigned everywhere, but all the land was at
+peace”. Possible wars in fortuitous encounters, but those did not take place. “Not a Golden
+Age because men were united, but because they were separated”.
+In the Discourse: Nature does not bother with bringing men closer through mutual needs. She
+does not prepare men for social life.
+Stoic ground of Rousseau: needs separate. Need is defined as a self-sufficiency. Naturally, it
+is limited by physical necessity, it does not exceed the forces of that which experiences it.
+Our needs are proportionate to our forces and our forces to our needs: reciprocal regulation
+(cf. Emile II).
+The state of nature is thus a balance between power and desire. With HOBBES: jus in omnia.
+Perhaps, says Rousseau, but because everyone only desires that which is within reach:
+unlimited right of man to all that he can attempt and that he can reach. This right is in fact
+limited in the state of nature. Rousseau compares this state of nature with ataraxia.
+“Everyone is a whole onto oneself".
+
+Ground of natural right: self-love moderated by compassion: balance.
+
+Meaning of “nature” with ROUSSEAU.
+
+Natural: first of all primitive or original. “Man in the state of nature” or “primitive man”.
+       Not sociable.
+2nd sense: in the “Profession of faith”: “man is sociable by nature or at least made to
+       become so”.
+
+Love in the state of nature is a small thing, compared to the love Julie – Saint-Preux. “Our
+souls are made for each other, it is nature which wants it”III 11.
+“If love reigns, nature has already chosen … sacred law of nature” which cannot be violated
+with impunity.
+The familial sentiment has need of a habit, of a development which forms like a second nature.
+That which is natural is no longer the primitive, but it is a development made from the origin
+and following directions virtually contained in the origin.
+Problem of “natural law” with Rousseau. It often does not concern a law that would reign in
+the state of nature, but a law that governs the development of “natural man”, that is to say
+of man insofar as he is presupposed to be subjected to a law of development of virtualities
+inscribed in the original state.
+The “domestic or natural” education of Emile includes the education of nature (internal
+development of our faculties and our organs) and the education of things (the acquisition,
+engendered by experience, of objects which affect us).
+
+  DELEUZE – ROUSSEAU                                                                           10
+
+Natural man is thus man insofar as he forms himself and is educated. The Emile is conceived as
+leading from man in the state of nature to natural man.
+Consciousness, reason are often called “natural” with Rousseau, like society and sociability.
+Cf. Letter to Ch. De Beaumont: genealogy of vices and genesis of reason. Completely natural as
+it may be, reason demands a development starting in the state of nature. In the Geneva
+manuscript, there is a chapter on the state of nature which disappears in the Contract.
+Because this chapter risks mingling different problems: the Contra ct presupposes natural man.
+The problem of the Contract is that of the passage of man to citizen and not natural man as
+private man.
+Notion of perfectibility: the state of nature must be understood as a genetic element, heavy
+with potential, with virtualities. This genetic line is altered by the genesis of vice: is it
+accident or necessity?
+
+In order to find the characteristics of man in the state of nature, Rousseau employs an
+analytic and regressive method, starting from natural man. Necessity of finding a principle:
+what to define? The state of nature cannot be defined as an actual state of the faculties, but
+as a virtual and genetic state. Thus self-love and compassion are a state of passion as long
+as their virtualities are not developed. Cf. Emile IV: compassion is laden with a virtual
+sociability, and self-love with love for others. The analytic method cannot lead to defining
+the state of nature without a dynamic principle: regression of the actual to the virtual. The
+analytic method of Rousseau’s predecessors does not suffice.
+The New Heloise: “Nature is a book in which one must learn to read”. It is not enough to
+analyze if one does not know how to decipher. Everything which is actual and formed is
+exterior to the state of nature.
+Before Rousseau, there is talk of a savage and a civilized man.
+The genesis is precisely the actualization of virtualities of the state of nature. There is no
+spontaneous passage.
+In the Discourse:
+               - A faculty does not develop itself if it does not respond to a need or an
+               interest
+               - A need never appears if it is not determined by a situation
+
+The state of man must thus be defined:
+
+               - By objective circumstances
+               - By needs that these determine
+               - By subjective faculties necessary for the satisfaction of these needs.
+
+Example: speech presupposes the social contract.
+
+For Rousseau, his predecessors have disregarded the order of causes in positing, from the
+start, these formed faculties in order to deduce situations (for example, man speaks, so he
+lives in society).
+
+    DELEUZE – ROUSSEAU                                                                            11
+
+Now, for Rousseau, the faculties have a genesis, and if man had fully formed faculties he
+would not be in need of using them.
+
+He criticizes HOBBES, who makes the state of nature a state of war. Because man in the state
+of nature cannot be in a state of war. One must proceed as follows: being given a faculty of
+aggression, what interest does it presuppose, and what situation does this interest
+presuppose?
+
+    -   The legal or objective problem: war is not just any violence. It is defined by a
+        relation between states and a certain duration, by its goal, which is to obtain
+        reparations for supposed damage by means of force. War thus presupposes property. “It
+        is the relation of things and not of men which constitutes war”. The state of war thus
+        presupposes society.
+
+    -   The subjective problem of interest: pride as human interest which also presupposes the
+        social state. Cf. Anti-Dühring: ENGELS here praises Rousseau for having employed a
+        dialectic method in the Discourse. In fact, in relation to Dühring, ENGELS finds
+        himself in the same situation as Rousseau before HOBBES. What does Robinson use in
+        order to enslave Friday? In order to enslave, a social contract constituted on
+        productive forces and relations of production is needed: the masters of America
+        enslave their slaves in cotton.
+
+Is the state of nature a reality or a fiction ?
+
+•   It is perhaps doubtful whether this problem has the importance that some accord to it.
+    Kant’s role in distinguishing foundation and origin.
+•   For Rousseau’s predecessors, the state of nature is at the same time foundation and
+    origin. From HOBBES, the state of nature is considered as a pre-social life. In a sense
+    the state of nature is fictitious, because humanity is never found entirely there. Yet it
+    is real in certain situations. For Hobbes, civil war is one of those situations.
+
+•   For Rousseau: three texts in the “Discourse” “we start by excluding all the facts…” “That
+    which reflection teaches us, observation confirms”. “The presupposition of a state of
+    nature”. “A state which has perhaps never existed, which will probably never exist”.
+              - It is not a fact of observation: neither infancy, nor the savage state are the
+              state of nature.
+              - Context of citations: the “facts” are the facts as attested to by sacred texts:
+              man created with his faculties.
+              - The state of nature is never posed problematically. What happens between the
+              state of nature and the actual state, all the intermediaries, is posed as
+              hypothetical. But the two ends are given as real.
+
+        The state of nature is real as point of departure of a movement from which man takes
+        shape.
+        Since there is genesis starting from the state of nature, how does this genesis work?
+
+  DELEUZE – ROUSSEAU                                                                            12
+
+          The Discourse proposes one. The Essay on the origin of languages and the history of
+          mores, others. But the point of view is the same. Emile makes the genesis from the
+          point of view of the child.
+
+                                        THE UNITY OF ROUSSEAU’S OEUVRE
+
+Cassirer: Society of philosophy, February 1932.
+
+Kantian thesis proposing a unity around the concept of freedom.
+Kant: “Conjectures on the beginnings of human history”.
+The Contract does not want to be a possible reform of society.
+
+In the Discourse, there is an agreement which, in its principle, is mystifying, it generates
+the corrupting social state. This mystification is glaring (se fait criante): social
+amenities. A reorganization of society cannot suffice since it is tainted in its principle.
+(completely contrary to the Encyclopédistes).
+
+Is a reform of society possible? According to Rousseau, it is under certain conditions, up to
+a certain point. But today we are too deep into the agreement. We can no longer make a clean
+slate. It presupposes moreover a legislator who arrived from outside
+(Cretans, Lacedaemonians, Romans for example).
+In certain states, man is citizen before all else. That is no longer possible now. And the
+contract exists because the agreement can no longer be changed. It is an error to relate the
+contract to a state of nature from which it would have proceeded. It must be related to
+natural man, that is to say man formed according to the law of nature. This is the case for
+Emile after his completed education, owner and husband: private man, just, virtuous. The
+education has stopped being public, we cannot return to before the agreement.
+
+The correspondence of Rousseau with Tronchin leads him to see the difference between private
+man and the citizen. It is when Emile is formed in private that the political problem is posed
+to him.
+
+Such men, do they not establish a new social order?
+No genesis passes from an anterior stage to the social contract. But it is through a kind of
+transmutation that private men found another social order.
+
+Natural man must be related to his own genetic line. All that can be done is to prevent the
+child, through domestic education, from putting itself in corrupting situations.
+
+The genetic line which responds to history: from the state of nature to the corrupting social
+state.
+The second line is that of pedagogy: the law of nature permits formation in a corrupted
+society, a man of nature as private.
+The third line, non-genetic: natural man creates a corresponding social order with his will.
+
+  DELEUZE – ROUSSEAU                                                                           13
+
+How does one leave the state of nature ?
+
+   - For HOBBES for example, there is a fundamental disequilibrium in the state of nature –
+   unlivable – which renders leaving it necessary. This exit is made possible by the natural
+   law: this means presupposes a minimal development of reason: this will be better if
+   everyone abstains from everything that can turn to its disadvantage.
+
+   - With ROUSSEAU, the state of nature is full self-sufficiency, without contradiction. The
+   human species is considered as an animal species. The individual is nothing but one with
+   its species: identity between individual and the generic being, because the individual is
+   a whole for itself.
+   That which engenders the exit from the state of nature: a multiplicity of “strange”,
+   “fortuitous”, “mild” causes. So it is through a mechanism, but there is nevertheless a
+   “hidden plan of nature”, man goes to realize his final goal.
+   For this, an objective situation is needed, in each stage of humanity’s development. If it
+   changes, new interests and needs appear in man.
+
+In leaving the state of nature, one falls into the savage state.
+Situation: two new facts:       morphological causes
+                                climatic causes which act
+only in relation with demographic causes
+People multiply, they increasingly encounter one another and they seek out the most favorable
+regions.
+New interests and needs: one still stays, from the point of view of man considered as animal
+species, physical. He is always defined by his relation with things and his dependency with
+respect to them. Yet while man is mainly passive in the state of nature, his physical being
+now becomes active: generic activity of the uniquely physical individual: “How many inventions
+which die with their inventor”.
+
+- Two new interests: sometimes, in certain situations, an interest in cooperating, sometimes,
+in others, in rivaling.
+Example: the deer hunter (cooperation) who sees a hare pass by
+(solitary chase).
+The first provisional communities are those of hunters, because the first activity is the
+hunt.
+
+Appearance of new faculties: perception of certain relations. (reason presupposes this. Cf.
+Emile). “A kind of reflection or machinic prudence”. The “Profession of Faith” not only speaks
+of a passivity, but also of a “faculty of comparing sensations” which is not yet a true
+freedom and remains physical.
+It still concerns a judgment by inspection, which is not judgment by induction. It is a
+“sensitive and puerile reason” inseparable from a physical activity.
+At this level, comparison of man as a species with the other species. Man has a natural
+generic conformity with his semblances.
+Apparition of imitative, gestural, natural language.
+
+  DELEUZE – ROUSSEAU                                                                           14
+
+The new needs and interests change the situation by integrating themselves in it. There is
+also intervention of catastrophes. The problem of new interests poses that of the passage of
+the natural individual to the moral man.
+It is the discovery of a new activity, properly spiritual.
+Everything happens as if this passage entailed a regression of activity. Cf. Emile III and IV:
+The child still has feeble desires, but his powers have grown. There are unemployed capacities
+in him.
+It is studies which make him discover his intellectual and moral being.
+Likewise it is said in the Discourse that “the Pastors are less active and more peaceful”. It
+is the birth of leisure and idle passions. Therefore, “there are individual preferences and
+comparisons”. The individual distinguishes itself from the species.
+
+Under what conditions? To the extent that the species is no longer defined as physical
+species, but as moral species.
+
+New interests and needs: permanent housing appears (embryo of property). Associations take
+shape which are not merely founded on an interest such as that of hunters.
+
+State of the faculties: if there is less physical activity, a morality of magnanimity and of
+vengeance is discovered.
+The individual ceases being one with the species. He wants to be recognized by the others. It
+is the first step towards inequality and pride.
+Morality initially manifests through the sentiment of right: that which I am owed. The
+individual which feels offended, which exacts vengeance. “Each is judge and avenger of
+offenses that he undergoes”.
+There is no law as of yet. This implies that the separation between individual and humanity as
+moral species is not complete.
+It is the best era, says Rousseau.
+
+Discovery of a moral being which is proper to us: freedom. Cf. The Profession of faith, where
+a radical soul-body dualism is affirmed. The soul, active, produces a will independent of all
+physical determination. Freedom is already present in the state of nature, but there is no
+consciousness of it there, because it is nothing but at one with life. We become conscious to
+the extent that we discover that it constitutes our moral being. It is when, through
+perfectibility, we have passed into the moral state that we can conclude that freedom existed
+in the state of nature.
+
+Two dualities take shape: man as physical and moral species (soul and body), individual and
+species. When the first is discovered, the second is deepened. At the same time that love of
+virtue develops in the moral species, an interest in being wicked develops in the individual.
+
+It is in the civilized (policé) state that the dualities take on their full importance.
+Here, the new interests are related to the formation of the couple metallurgy-agriculture.
+Metallurgy takes shape first. Agriculture is born from the necessity
+
+  DELEUZE – ROUSSEAU                                                                           15
+
+of feeding those who work the iron; the division of labor is based on the exchange of iron and
+agricultural products. Then the first appearance of property: division of lands. There is no
+conventional relation between property and labor: the laborer possesses the land: there is a
+certain right to the tilled soil insofar as it has produced the fruits of labor.
+This possession, continuing from harvest to harvest, has a natural origin. Evolution of the
+moral being: towards a morality of justice, after just the idea of property, base of the
+development of the moral being.
+This justice consists in giving everyone what they are due.
+
+There is an “inequality of combination” in the relation smiths-laborers. Property has created
+a sentiment of justice, but its voice is still feeble. Despite this sentiment, the individual
+man is going to define himself as an owner, more or less greedy, in discovering interests of
+ownership in the inequality of properties due to the division of labor.
+There is thus a new inequality: of usurpation. A relation of forces is established between
+owners.
+The rich design what Rousseau calls a thoughtful project, which is a mystification, of
+“specious reasons”: they propose an end to the state of war and the reunion of all the wills
+in a single one to the non-owners: formation of a supreme power: mystifying “very general
+agreement”.
+
+Rousseau here takes up very classical theories, but he wants to show that conceived thusly the
+contract can only be understood as a mystification. In the “Social Contract”, he investigates
+the abstract conditions under which the contract could have taken place without mystification.
+
+Rousseau’s predecessors perceive the contract as an exchange of my freedom for security.
+Rousseau accepts locating the effect of the contract here to the extent that this contract is
+a mystification, and cannot be obtained through consent.
+
+          •   Logical argument: agreements are accepted so as to not fall into dependence on
+              others.
+          •   Psychological argument: there is no natural penchant to servitude.
+          •   Sociological argument: refutation of theses of paternal authority which assimilate
+              the social situation and the familial situation.
+          •   Moral argument: freedom is nothing but one with my moral being, as life is with my
+              physical being. Neither life nor freedom are alienable.
+
+Rousseau does not deny that we have lost our freedom. He even thinks it happened by means of
+contract, but that we have been deceived.
+Is there a contract which is defined as devoid of any mystification?
+It is the problem that the “Social Contract” examines.
+First an historical investigation: there are two themes in the idea of contract: subjection
+and association.
+
+DELEUZE – ROUSSEAU                                                                         16
+
+-   subjection: in the 16th and 17th centuries: it is admitted that there are two
+    contracting parties of which of which [sic] one is the subject, the other the
+    sovereign.
+    Objection by HOBBES: the sovereignty is double. A third power (puissance) is necessary
+    to judge the disputes.
+-   association: it is the reunion of all the wills in one; there is a multitude of
+    contractual acts between those who are to be subjects.
+    Criticism by Rousseau: HOBBES has well understood that association is first, but he
+    went wrong in reducing subjection to association. We constitute ourselves as subject
+    through the relation to a sovereign who does not enter into the contract.
+For Rousseau, an association is needed first, product of the reunion proposed to the poor
+by the rich: a public is formed.
+But the mystification is such that there is a defect at the origin: the poor can perceive
+that the will is not common. Thus a contract of governance is necessarily required.
+This is the second mystification. Because however honest magistrates may be, because of
+the original defect, it is the rich who will be magistrates.
+
+Our sentiment of justice, still feeble, was just sufficient to allow for the realization
+of this deception.
+
+It is then that the interest in being wicked appears.
+
+  DELEUZE – ROUSSEAU                                                                             17
+
+          Man discovers his interest in being wicked, because property simultaneously gives us
+   the sense of justice, a particular interest. Property develops by an internal movement,
+   inequality, say all the economists before Rousseau.
+   Rousseau has a more complex idea: it does not involve an internal movement, but a double
+   game: new needs and exploitation of the labor of others. It is the stage of usurpation. A
+   duality develops between man as moral species and the individual with his particular
+   interest.
+   The particular interest in being wicked is pressing, the voice of justice, which is
+   feeble, goes to serve this interest. Whence the misleading proposition of the rich, which
+   presupposes necessarily invoked justice in order to be accepted by the poor. Is this
+   justice the same which appears in the “Social Contract”? The contract is misleading
+   because it is made between two unequal parties, it invokes a justice which governs
+   relations between parties which it posits as equal. In the “Social Contract”, justice is
+   formed by something entirely different than a relation between distinct parties. What is
+   produced by the social Contract is inalienable.
+   The problem of the Social contract is: is there a form of justice which is by nature
+   impossible to avert, one that does not lend itself to any alienation, one that cannot be
+   used by our wicked interest?
+   In fact, Rousseau says several times that this justice alienates. The relation subject-
+   sovereign can pass into the service of wickedness: it suffices that partial associations
+   are established in the State, etc…
+   There is thus a possible alienation of justice, which is inalienable in itself. It can be
+   usurped by the partial association that passes itself off as common. But is it not the
+   same thing as a justice which immediately declares itself a relation between two equal
+   parties whereas in fact they are not.
+   Two ideas developed in the “Discourse on Inequality” are taken up again in the “Social
+   contract”, which are:
+
+   -      Society cannot be founded on a relation of mutual subjection, all submission in fact
+          presupposes association.
+
+   -      Insofar as association presents itself as relation between distinct parties, the
+          contract will be a mystification.
+
+Logical argumentation which prefigures the Social contract – which defines itself as contract
+of association and which cannot be established between two parties considered as distinct.
+
+Aggressive caricature of his predecessors by Rousseau. He grants them that the contract such
+as they conceive of it is the base of a real society (subjection before association etc…).
+But, he says, that is why real society is essentially mystifying, where freedom no longer
+exists.
+
+The social being of man: defect in its principle on account of mystification. Hence Rousseau
+accuses it of original sin. It is the moral being of man pressed into the service of wicked
+interest.
+
+  DELEUZE – ROUSSEAU                                                                           18
+
+How to leave?
+   1)   By a political act when it is not too late:
+        a revolution.
+           -    “Discourse on Inequality”, 2nd part.
+           -    Book Emile: Lycurgus who collectivizes property and as such effaces the defect,
+                whereas Solon contents himself with abolishing debts and changes nothing
+                profound.
+           -    “Social contract”, Chapter 8.
+   2)   Revolution is impossible: it is too late. What remains is domestic education.
+
+The sense of education is to efface the corruption, the malign interest.
+
+Two methods:    that of Julie: virtue;
+                That of Wolmar: wisdom.
+
+On the domestic level, reconciliation of individual – moral species. But this education
+remains subjective and negative.
+Reconciliation which does not in itself suffice, because social life continues even if I
+abscond. A positive and objective reconciliation of the individual and the moral species is
+needed. But this is only possible after private education. Is private man capable of restoring
+the citizen? The contract presupposes natural man, that is to say man formed by “Emile”.
+
+However, there remain allusions to the State of nature in the “Contract”
+Book I, chapter VI,
+Book I, chapter VIII.
+
+At the end of “Emile” the problem is posed: can Emile become citizen? : “Your civil relation
+with your fellow citizens". It’s when Rousseau advises Emile to reflect on the State of
+nature. Thus such a reflection must facilitate the passage from private man to citizen of the
+Social contract.
+There is thus the analogy:
+        Man in the state of nature – civilized man,
+        State of nature – social contract.
+
+The bulk of this reflection has to show us that man is free in the state of nature. Whence the
+possibility of the Contract in which justice is no longer alienable.
+
+The unity of Rousseau’s oeuvre.
+
+Freedom is certainly a permanent term, but in the sense that it is a constant problem. So it
+is not freedom which can be the unifying factor.
+That which unifies: problem of the relation individual – human species.
+(this is the interpretation of Kant).
+
+   •    physical species and physical individuality = beautiful harmony.
+
+  DELEUZE – ROUSSEAU                                                                           19
+
+   •   genetic point of view
+       from physical passivity to physical activity,
+       from physical activity to moral species.
+   •   Man as moral species, but rupture of the individual with the species.
+             -   Discourse on Inequality: deception of each other.
+             -   New Heloise: self-deception.
+   •   Act of moral will which restores a subjective unity between the individual and the
+       moral species: the Confessions and the second part of The New Heloise.
+   •   Determination of a political act which installs an objective unity of the individual
+       and of the moral species: the “Social contract”
+
+                                       THE SOCIAL CONTRACT
+
+       The lawyers of the 16th century make the Contract a relation between two parties of
+which one is subject, the other leader. The sovereign is thus split. A third instance is
+needed to judge disputes. Power and sovereignty are divided. Rousseau: this conception
+confounds society and government. For him, all government presupposes a prior association.
+Contract book I chapter V. The subjection of subjects to a leader already presupposes the
+constitution of man as subject, thus an association. But if the subjection is a contract, the
+contract is not primary. Over the course of “Contract”, it is said that the subjection is
+impossible without the association (book III chapter XVI).
+Sovereignty is inalienable. The lawyers say the contrary: (PUFFENDORF). For them sovereignty
+is alienated in the subjection. For Rousseau, the transfer of sovereignty can be made like a
+gift or like a sale. The gift can be forced or tacit (book I chapter I) or otherwise
+voluntary.
+Likewise, the sale can be forced, tacit, voluntary.
+A forced or tacit gift is not the source of any right. If it is voluntary, it is pure madness
+(people who will give away their freedom like that will be mad).
+In the sale, exchange of one’s freedom against security. Contrary to government, says
+Rousseau. Because the government is conceived as a delegation or an equivalent of the
+sovereign. Particular acts which presuppose a general law cannot be defined as acts of the
+government. Government can only be assimilated to a commission, the acts of the government are
+emanations of the Sovereign. Radical subordination of the government to the Sovereign. Whence
+that the latter cannot be alienated from an instance which is subordinate to it.
+The alienation of the sovereign can be conceived of as follows:
+Sovereignty would be represented by men to whom legislative power (puissance) would have been
+transferred.
+But there the sovereign can no more be alienated in a representation (book I chapter II). The
+sovereign cannot be represented except by himself. (Book III, chapter XV: Rousseau says that
+“sovereignty cannot be represented for the same reason that it cannot be alienated. It
+consists in the general will and the will is not represented”).
+
+  DELEUZE – ROUSSEAU                                                                           20
+
+In the same manner the government cannot appropriate sovereignty of which it is but the
+commission, as with the representatives, who are nothing but commissaries of the people.
+The governors are but commissionaires or commissaries, because they only exercise the function
+of judgment (determining the case that enters under the law) which is not the faculty of
+willing.
+Likewise the deputies have but a function of judging: they conceive of laws by which they
+clarify the general will. Hypothetical laws which they cannot render obligatory and effective.
+Only the Sovereign decides on the propositions made by the deputies.
+The deputies (the legislature) propose laws that only the sovereign people ratifies. Thus the
+English people is wrong in believing itself free, it is only so at the moment of election of
+deputies. The election having been made, it is slave to representatives.
+
+These are the arguments which serve Rousseau against absolute monarchy, which serve him in his
+critique of representative governments.
+
+The legislative state of the ancient City: the legislator proposes, the people decide. It is
+the valorous government, says Rousseau. The idea of representatives is a feudal idea to him.
+Representative assemblies have been the means of the feudalists to struggle against monarchy.
+The legislature as conceived in Ancient times presupposes small cities and leisure for
+citizens.
+However, in “Considerations on Poland”, Rousseau conceived for the large state a
+representation by deputies on the condition of controlling them with frequent elections and
+with a strict observance of the rule of re-eligibility, and finally by public accountability:
+all these means keep the deputies in the state of commissaries.
+
+There is thus a parallel alienation of the people when they give themselves a master, or
+representatives.
+
+The sovereign is irreducible to an individual or to a group of individuals
+
+       1st argument: polemic (letter to Nirabeau).
+
+       2nd argument: the act which constitutes the sovereign as such necessarily constitutes
+him as general will. It is not impossible that this will concords with a particular will. But
+that is by nature fortuitous (Contract Book I, chapter I).
+
+       3rd argument: the sovereign would be alienable if he were an individual. The sovereign
+is a moral person which only has abstract and collective existence. (cf. the Manuscript of
+Geneva).
+
+The sovereign is indivisible in his object.
+
+In HOBBES, the sovereign is indivisible in his principle. For him, the contract is an act by
+which all make themselves subject of a Third Party which does not enter into the contract and
+which is the sovereign.
+As the sovereign has not entered into the contract, it is ruled out that the subjects can
+disobey him. There is thus inalienability of the sovereign who
+
+  DELEUZE – ROUSSEAU                                                                           21
+
+can no longer represent itself.
+HOBBES reduces the sovereign to a person or to a group of persons.
+That he is to be indivisible does not prevent that it implies a number of distinct powers. In
+order for the sovereign to have absolute power, he must possess all the powers.
+So, indivisible in his principle, the sovereign is divisible in his object.
+Rousseau critiques this thesis in Book II of the Contract.
+For him, the sovereign is absolutely indivisible “Simple and one”.
+Book III.
+There is only one object of the sovereign: it is the law, decisions on peace or on war etc…
+(what HOBBES calls the powers of sovereignty) are nothing but acts of government which
+presuppose a prior legislation.
+
+From which it can be concluded:
+   -    The contract is thus not an act of subjection
+   -    It is not an act by which all make themselves subject of a Third Party.
+   -    It is an act by which all constitute themselves as sovereign, without possible
+        alienation in a government, without possible representation in deputies.
+   -    To be conceived as such, the contract can no longer be considered a relation between
+        parties (contrary to all predecessors except perhaps Spinoza).
+
+What is the positive character of the Contract.
+
+        If the Contract is posed as a relation, this signifies relation between publicparticular individual, or subject-sovereign. But the people, the public, do not pre-exist the
+contract. This expression with Rousseau is only provisionary and is not the most profound one.
+Cf. Book II chapter IV, 2nd paragraph, note where Rousseau insists on the difficulty of
+precisely defining the terms.
+
+               ( - the particular, the individual or the man (private)
+3 constant     ( - the subject
+terms          ( - the citizen
+
+3 terms which are reciprocal. Book I, chapter VII,           1st paragraph.
+The middle term is the individual considered under two relations: subject and as member of the
+sovereign.
+                                                             2nd paragraph
+This time it is the subject which is the middle term and envisaged under two relations.
+
+So it will be said that the contract constitutes the particular individual as subject under
+one relation and as citizen under another.
+Or else, the subject is taken as particular individual in relation to the sovereign, and as
+member of the sovereign in relation to the particular individual, in the individual.
+The contract thus makes 3 reciprocal terms intervene: the middle term must be taken under two
+relations.
+
+  DELEUZE – ROUSSEAU                                                                           22
+
+In the first hypothesis, the individual is the middle term.
+It constitutes itself as subject in relation to the sovereign.
+It constitutes itself as member of the sovereign in relation to particular individuals.
+Finally, only the subject has a double relation: first to the sovereign and furthermore, he is
+member of the sovereign. So he is the middle term.
+The basic act of the contract is the act by which the individual makes itself subject and at
+the same time member of the sovereign (otherwise he would be a slave).
+
+There are 3 formulas to the Social contract, more and more profound.
+
+                       ( - relation between two terms
+The Contract is        ( - discovery of three terms
+                       ( - it is the subject itself which is taken under two relations
+
+An obligation is born with the Contract. Who is obliged? (chapter VII, book I). It is not the
+individual, because legally the individual cannot oblige itself.
+Is it the sovereign? No, because the sovereign is not submitted to anything except his
+condition of existence: the laws which determine the conditions of his Being. In himself, he
+cannot be obliged to anything. “To violate the act by which the sovereign exists would be to
+annihilate itself” chapter VII.
+Only the subject is subjected to the obligation. Only it can be grasped under the two
+relations, which is the condition of the obligation.
+What is the source of the obligation? It is the “free agreement of he who obliges himself”.
+Letter 6 in From the Mountain.
+The term which is capable of obliging can only be the subject.
+All sources of obligations are up for discussions, except that one.
+
+Nature of this act of engagement: there are two characteristics: totality and instantaneity.
+Cf. Book I Chapter VI. This act is a total alienation.
+   -   Total, which is to say:
+           •   complete: it covers everything.
+           •   universal: each individual is completely alienated.
+
+Alienation which can be complete, because it is not for the benefit of an other. If it would
+be, it could not be total, since freedom is inalienable.
+Alienation consists in constituting a whole, not in making oneself dependent on others. Whence
+that each individual is subjected to the same condition.
+“Each gives himself completely, the condition is equal for all”
+Book I chapter VI.
+There will not be differences between individuals which alienate more or less, unless not
+everyone alienates himself totally, unless someone conserves something.
+On the level of total alienation, equality is already included.
+
+DELEUZE – ROUSSEAU                                                                           23
+
+-   instantaneity: Book I Chapter VI. “The association instantly produces a moral and
+    political body”.
+    From the very moment that I alienate myself, I at the same time constitute the
+    sovereign and I recuperate everything. It cannot be otherwise. The sovereign restores
+    everything to me and even more, under an other form. “Chapter 9, book 1. For example,
+    the sovereign assures the legitimate possession of property which the individual has
+    alienated from himself. He keeps only what is necessary for community. In this, there
+    is no moral obligation of the sovereign. It is a condition of his existence. If he
+    does not effectuate this restitution, he is destroyed.
+    “But it must be admitted that only the sovereign is judge of such importance”. Only
+    the sovereign can say that which is of common interest. That which is very variable
+    according the situation, the circumstances, the morphology of a society.
+    In exchange for this partial restitution to owners, there will be a tax levy.
+    The owner is but a repository of the public good. He only exists as owner by the
+    sovereign’s act of restitution.
+    The immediate restitution concerns private property and private opinion, that is to
+    say private religion, which does not interest the subject. (final chapter of the
+    Contract).
+
+    Why does the sovereign constitute a general will?
+
+    The contract necessarily forms a general will.
+    Common interest and general will must not be confused.
+    Common interest is that of the subject in relation to the sovereign.
+    That which immediately returns with the act by which I constitute myself as subject:
+    the contract. Everyone has a similar interest, since they are subjected to an equal
+    condition. Removing the equality destroys all common interest.
+    I can only constitute myself as subject in relation to a sovereign of which the
+    subject is member, with respect to individuals. From this point of view, everyone is a
+    legislator. This time, it is no longer equality which is inferred, but freedom, as
+    that which the sovereign wants with regard to individuals. The general will is the
+    will of everyone as member of the sovereign, as citizen.
+    “The common interest is what makes the will general”. What does Rousseau want to say?
+    The common interest is not constitutive of the general will, but is its condition of
+    possibility: the formation of the sovereign has for its condition the act of the
+    individual making itself subject.
+    Without this act, which defined the common interest, no sovereign can be had, and
+    therefore no general will.
+
+    In what sense can we speak of a “utilitarianism” of Rousseau?
+    The notion of utility appears in two senses
+                 -   A faculty only develops if it is useful. Need is incapable of creating
+                     this faculty. Utility only plays the part of realizer of the faculty.
+
+                 -   The common interest of the contract is the condition of possibility,
+                     not the principle, of the general will.
+
+  DELEUZE – ROUSSEAU                                                                           24
+
+What does the general will want?
+
+It finds its condition in the equality of the condition of all subjects. It cannot be
+determined by a preference. In this sense, not being determined by anything but itself, it is
+the will of freedom (Kant). It can only want the law.
+
+The law leaves the relation to individuals undetermined. It is only specified through the work
+of the legislator. In itself, it is only the form of the will of the subject as citizen.
+Letter 6 in From the Mountain.
+Cf also Letter to Le Mercier de la Rivière from 1767: a form of governance must be found which
+puts the law above man.
+Book III, Chapter I of the Contract: a distinction must be made between two things:
+   -   The question of knowing whether the will can want such action (moral possibility of
+       Kant). It is a legislative power;
+   -   Concerning that: can we, have we the possibility to accomplish it (physical
+       possibility of Kant). It is an executive power.
+
+Being determined by the law, the general will does not consider action in its physical
+possibility, but considers it as abstract.
+An obligation is related to the law. The word ‘law’ can only be employed rigorously in a
+prescriptive sense.
+If the source of the obligation is the act by which I make myself subject, then the law must
+be civil, it has its foundation in the contract.
+
+Is such a response sufficient?
+
+Such a response will have implied that Rousseau considerably critiques the idea in the mode of
+natural law.
+What happens in this sense: the Discourse on Inequality. Is inequality authorized by natural
+law? Rousseau does not respond to this question by saying that the concept of natural law is a
+concept full of nonsense.
+Nevertheless there are texts where Rousseau mentions the natural law and in which he says that
+it is superior to the contract itself.
+
+   -   Letter of October 1758: he admits three superior and independent authorities over the
+       sovereign: that of God, that of the natural law, that of honor. If there is a
+       conflict, it is up to the sovereign to yield. Hierarchy: natural law (love), honor,
+       God, as is found in The New Heloise. (Letter on honor is in part I: letter of Saint-
+       Preux).
+
+   -   Letter 6 in From the Mountain: it must be proven that the contract is not contrary to
+       natural laws.
+
+   -   Emile, book 2: “the eternal laws of nature and the existing order. They take the place
+       of positive laws to the wise man”. The wise man is the one who has extracted himself
+       from society.
+
+       How is the Contract a primary principle from which derive civil law and the
+       obligation, while it is also related to a higher instance, the natural law?
+
+  DELEUZE – ROUSSEAU                                                                           25
+
+Cf; beginning of the Discourse on Inequality.
+The critique of the natural law has two senses with Rousseau:
+
+       - First of all, it bears upon the Ancients (Plato, Aristotle, Stoics): for them the
+natural law is the recta ratio, it is the conformity of things to their proper ends.
+Rousseau: they use the word ‘law’ wrongly. By law they understood a law that nature imposes on
+itself and not a law that it prescribes. Now, the concept of law is not a condition of
+existence of nature, it is essentially a prescription (preface of Discourse on Inequality).
+The Moderns have understood this prescriptive character. For them the law is a prescriptive
+rule for an intelligent and free being.
+The natural law applies to this being capable of receiving prescriptions.
+
+With HOBBES, the state of nature is no longer the order of perfections, but a system of
+forces, of passions, of drives. For this passionate being, the law then becomes the obligation
+which opposes it.
+The state of nature is a system of forces, with corresponding natural rights. To this
+structure, a second is joined: that of the natural law. The driving force of this law is the
+fear of violent death, which is even the principle of reason. The law prescribes a rule
+without which I could not preserve my life. The natural law, however, can only prescribe
+hypothetically: it only gives the means to preserve my life, on the condition that the others
+will also want the law. Whence the problem: how to render the law obligatory? That happens
+because all individuals make contracts among themselves and above all delegate their powers to
+a sovereign who does not participate in the Contract. Because of this the natural law becomes
+civil. The mistake of the Moderns, according to Rousseau: they put the natural law in the
+state of nature, they presuppose a being already endowed with reason in this state. (because
+no law without reason).
+Rousseau accepts the prescriptive character of the law. But the Moderns have not seen in what
+it consisted, since it is only hypothetical.
+For Rousseau, the natural law is not in the state of nature, because it is a genetic
+development of virtualities starting from the state of nature.
+This natural law presupposes society in the sense that the virtualities only realize
+themselves under objective circumstances which are in society. For example, the sentiment of
+justice only realizes itself if it is useful, and it only is so if there is a society.
+However, society is not constitutive of the development of the natural law.
+
+The Contract must be related to the natural law. Because the contract, the absolute foundation
+of civil law, must be led back to the natural law, because it is at the same time total
+alienation, instantaneous restitution. If it contradicts the law, it destroys itself.
+
+  DELEUZE – ROUSSEAU                                                                             26
+
+                                 Idea of the civil law in Rousseau
+
+          The law is the very act of the sovereign, the direct expression of the general will.
+There is a difference in kind between decree and law.
+The law goes from all to all, it considers the subjects as body and situations as
+abstractions. It is an act of sovereignty.
+A decree appoints persons, considers subjects as particular individuals, actions as concrete.
+It is an act of governance.
+The law determines the form of government, the conditions to fulfill in order to accede to
+government for each subject in general.
+
+Sovereign relation – general will. Cf. Contract chapter IV, book III.
+The Sovereign is a “common me”, a “life provided with sensibility”.
+The general will: it is the movement corresponding to this life.
+As the formation of the Sovereign and the general will, the social Contract is the form under
+which the Sovereign conserves itself.
+The social Contract is already general will. It defines a formal will. The contract in itself,
+generalized, formalizes the will.
+The Sovereign is thus already a formal will (whereas the particular will always searches
+preferences and the general will, the true universal: pre-Kantian distinction).
+This generalization is not the addition of particular wills.
+
+What does the general will want? That which it wants must be determined generally, that is to
+say formally: equality and freedom.
+The sovereign is the general will insofar as it wants freedom and equality.
+That the law will be formal signifies that it abstracts from persons, from its relation with
+persons of which the decree will take care.
+(in this sense, government is a faculty of judgment: determination of cases that enter under
+the law).
+However the law, if it is formal in the sense that it determines generally, is not formal,
+because there is no law that will not be a determination of equality and freedom.
+Which are the best, the good laws, for example? They cannot abstract from the relation with
+things and objects.
+For Rousseau, that which saves us from the relation with persons is always the relation with
+things.
+The law is thus not quite determined unless we take into account the objective situation of a
+given society (resources, population, etc…).
+The law is formal by abstraction from the relation with persons, it is not formal because it
+does not abstract from the relation with things.
+
+Therefore, to determine a law, the general will does not suffice.
+The formal determination of the will must be joined to the content of objective circumstances
+of a given society.
+Thus the general will wants the good, but it does not know it (it is the contrary for private
+man). It is blind because it is formal.
+
+  DELEUZE – ROUSSEAU                                                                          27
+
+Thus the general will must appeal to a prodigious understanding (it is a transposition of a
+faculty psychology to the social plane): that of the legislator who illuminates the will from
+the outside. Without the legislator, the general will formally know what it wants. But it
+needs him to be determined materially. A good law must not consider particular persons –
+formal aspect – and adapt itself to concrete situations – material aspect –
+
+The law is thus the composition of a form which refers to the will;
+                                of a matter which refers to the legislator.
+
+This is why it cannot be a question of an a priori deduction of the law from its form.
+
+                                     -:-:-:-:-:-:-:-:-:-
+
+EDITED TRANSLATION
+
+[Text in brackets contains added notes by the translator, AK]
+
+Rousseau
+
+1 – Three conceptions of the state of nature
+
+There are three ways to think the state of nature. The first is the Ancient conception (status
+
+naturae), which extends well into the Middle Ages (see Plato, Aristotle, the Stoics, Cicero,
+
+Thomas Aquinas). The state of nature is then defined in an order of perfections. It is related to
+
+natural right, in this case meaning conformity with Nature. Its sociability and society are
+
+naturally part of and defined in the order of perfections. A state of nature is never evoked as a
+
+pre-civil or pre-political state (see Aristotle, as well as Cicero’s De Finibus).
+
+       For the Ancients, the social problem is not the establishment of a society through a
+
+contract or anything else of that order. According to them, people ideally search for the best
+
+government, which is that of the wise. The problem is that the wise no longer have the desire
+
+to govern men, and that men do not want to wise to rule them. So what is needed is a
+
+government that can take the place of the wise, which raises the problem of the best regime
+
+(see Plato’s Laws, in which the nomos is necessary as a real substitute for wisdom). This
+
+conception extends into modern political philosophy, not with philosophers, but with the
+
+theologians and the lawyers.
+
+       The second conception arrived with Hobbes. In Hobbes, the state of nature is defined
+
+as a mechanism of forces. Right, understood as a system of power, replaces the order of
+
+perfections as defining what is natural. Right thereby becomes absolute. Hobbes reacts against
+
+the earlier, largely Aristotelian tradition by holding that man is not a sociable animal. And
+
+                                                                                              37
+
+since in his conception of the state of nature, everyone is allowed to judge for himself, his
+
+philosophy abolishes the privilege of the wise.
+
+       Society is therefore justifiable from an origin which both affirms itself in nature and
+
+marks the extreme limit of that which is natural. Conflicts between individuals automatically
+
+lead to internal conflict in individuals, namely between a sense of ambition and a fear of a
+
+violent death. Hence society is established as the only way to overcome these contradictions,
+
+which happens through a specific act: the contract. How will Rousseau accept and transform
+
+these terms? He agrees with Hobbes that society is not natural. However, he opposes the idea
+
+that contradictions force man to exit the state of nature.
+
+       Now, what is the idea of a contract? In its legal definition it is a relation between two
+
+parties, one that bestows rights and duties on each party, relative to each other, for a
+
+determined time. The contract is voluntary and does not extend to third parties. However, the
+
+notion of the social contract changes this definition. In this case, the contract will last an
+
+indeterminate time and will apply to third parties. Nevertheless, what the authors who use the
+
+term ‘social contract’ stress most is its voluntary aspect. Their idea of political philosophy is
+
+always a philosophy of the will.
+
+       Who are the parties of the contract? From the perspective of the lawyers it is subjects
+
+and sovereigns. Yet if this is so, who will judge whether the contract is properly upheld? The
+
+source of power will be double, so a third party is needed to judge. Yet this third party will be
+
+the sovereign (so Hobbes objects that the contract cannot be between subject and sovereign,
+
+an objection found also in Rousseau).
+
+       According to Hobbes, the contractual relation is only established between those who
+
+will become subjects. We need to imagine a series of contracts of everyone with everyone, by
+
+which everyone establishes himself as subject of a third party which does not enter into the
+
+contract. A modern equivalent of such contracts with stipulations for others is life insurance.
+
+                                                                                              38
+
+Rousseau will take up Hobbes’ critique against the idea of subjects and sovereigns as
+
+contracting parties, but he rejects Hobbes’ solution.
+
+        What is the obligation that results from the contract? This is the problem of a finality
+
+to the contract, a finality which must be recognized in the product of the contract. A
+
+commonplace in political philosophy of the 18th century is the discovery of a man-citizen
+
+duality which did not exist in the Ancient world. The latter focused on man’s capacity for
+
+‘virtue’, but the modern fact is the duality: man has become a private individual and a citizen.
+
+Moreover, a private individual is incapable of being a citizen, and ‘virtue’ as a determination
+
+of the citizen is impossible. Virtue exists only as private virtue (see Montesqieu’s Carnets:
+
+‘we have gained in humanity, but we have lost in virtue). The reasons for this shift are both
+
+ideological (the rise of Christianity) and economical (the emergence of property income). It is
+
+as Rousseau writes in the Discourse on the Arts and Sciences: ‘ancient politics spoke only of
+
+honor and virtue; ours speaks only of commerce and money’. Hence we get a difference in
+
+nature between the most virtuous citizens of Geneva and the lowest among the Romans.
+
+        Hegel, too, takes part in this pessimism of political philosophy, in this idea that we are
+
+not capable of democracy, which is nevertheless the best regime. A choice must be made
+
+between two types of education: the formation of the citizen and the formation of private man
+
+(see the beginning of Emile). The citizen is posed in the city as a free citizen who requests
+
+freedom from society. Insofar as man is a private individual, he requests security from the
+
+city, which comes down to the guarantee of his properties. How does the contract respond
+
+here?
+
+        I exchange my natural freedom, entirely or in part, and I receive security from the
+
+Sovereign. In Hobbes, the only freedom of the contract is a certain security. However, certain
+
+rights always remain inalienable, most of all the right to resist whoever tries to kill me. In
+
+Spinoza, freedom is even retained in the civil state: I do not content myself with simple
+
+                                                                                               39
+
+necessity. In its modern guise this kind of freedom will be the freedom of thought. In the case
+
+of Rousseau, freedom is connected to inalienable rights. Hegel will reproach Rousseau for
+
+having forgotten that we are no longer citizens. This is perhaps true if we only look at the
+
+Social Contract, but it is false when considering Rousseau’s full body of work.
+
+           A third conception of the state of nature surfaces in the middle of the 18th century, a
+
+utilitarian and positivist one. It runs counter to Thomist theology and ancient metaphysics,
+
+making the very notion of contract metaphysical (see Hume and Bentham). In case of Hume,
+
+we find two arguments. First, a complete negation of a state of nature, which Hume says is
+
+not a state of right, but one of needs, a state that can only be defined negatively. Second,
+
+Hume holds that society does not have as its origin a contract, because a contract is an act of
+
+limitation of natural rights, while the constitutive act of society is essentially positive. For
+
+Hume, this revolves around agreement, such as we see in the harmony of rowers. In
+
+Bentham’s case, the purpose of this agreement is security.
+
+           All proponents of the contract (Spinoza, Rousseau, Kant, and others) call on freedom.
+
+2 – The New Heloise: virtue, objectivity, hierarchical stages
+
+Even though he was concerned with political institutions, Rousseau had a project to write a
+
+book of which the theme obsessed him, and for which he had the title Sensitive Morality, or
+
+The Wise Man’s Materialism. Though this book was never finished, its ideas are taken up in
+
+The New Heloise 1. For Rousseau, Julie and Saint-Preux are made for one another, because
+
+they both love virtue. However, there is a conflict, because the objective situation precludes
+
+their would-be virtuous love. It is Julie who lives the conflict: she loses virtue, but the love of
+
+virtue still remains within her. So she writes to Saint-Preux: ‘I keep my love for you; the love
+
+    According to Burgelin, the heroes of The New Heloise also illustrate the myth of Plato’s Phaedrus, with SaintPreux as the black horse, Julie as the heart, and Wolmar as the noûs. [See Burgelin, P. (1952). La philosophie de
+l’existence de Jean-Jacques Rousseau. PUF, AK]
+
+                                                                                                               40
+
+of virtue is for Wolmar and I obey my parents’. Yet, a revelation takes place on the day of the
+
+marriage: ‘Our various situations change and they determine, despite ourselves, the affections
+
+of our hearts’ 2.
+
+            Now, in certain objective situations we have no choice but to be wicked. So how to
+
+reconcile virtue and the interest of society? As Rousseau writes, ‘we shall be vicious and
+
+wicked as long as we shall have an interest in being so’. Wanting to change oneself strikes
+
+Rousseau as ridiculous. Instead, he states our soul is defined in its relations with objects. The
+
+will can change the situation by intervening as an objective element of the situation itself, as
+
+when Julie decides that if Wolmar dies, she will not marry Saint-Preux. This is a private
+
+transposition of a famous idea in political philosophy: to establish situations such that people
+
+can no longer be wicked. We find this also in Hume: the problem of political philosophy
+
+being to find objective situations which reconcile justice and interest. So we see the strong
+
+will intervening in private life as an objective element of the situation. Wolmar’s variant of
+
+this idea will be the subjection of the physical being to things (as a therapy for Julie and Saint-
+
+Preux).
+
+            In part IV of The New Heloise, Saint-Preux returns to find Julie married and with two
+
+children. It is Wolmar who has asked Saint-Preux to come, the former having the idea to
+
+observe people and to experiment on them. Wolmar wants to heal Julie, who has acquired
+
+duty, yet has not moved past her earlier sin. So in letter 12, we find the therapeutic visit to the
+
+Gove, the place where Saint-Preux has embraced Julie and to which she had never been able
+
+to return: ‘Julie, fear this refuge no longer, it has been profaned’. By that Rousseau means: the
+
+Grove has been dissocialized. Also see letter 18, where Wolmar leaves Julie and Saint-Preux
+
+at the place where the latter had once been exiled during their love.
+
+    Note to letter 20, part 3.
+
+                                                                                                41
+
+       What is Wolmar’s plan? He knows Julie and Saint-Preux love each other in the past.
+
+Julie is no longer the same woman, because she has become virtuous. However, Saint-Preux
+
+does not realize this. As we read: ‘take away the memory, and he will no longer have the
+
+love’. The error which misleads him, i.e. the trouble, is a confusion of times. Saint-Preux is
+
+fixated, in the psychoanalytic sense. So Wolmar needs to make Saint-Preux conscious of the
+
+fixation, conscious of the fact that the present Julie is no longer the Julie he loves. It is therapy
+
+by way of becoming conscious. However, Wolmar also thinks this is dangerous, since
+
+becoming conscious does not (necessarily) heal. Saint-Preux would still be able to love the
+
+present Julie.
+
+       So it is better to make Saint-Preux lose all memory of the times which he must forget,
+
+which will be done ‘by deftly substituting other ideas for those which are dear to him’. We get
+
+an operation of substation: ‘I cover the past of the present’. It involves the continuous
+
+substitution of a friendship for the woman for the love for Julie as a young girl. It is the
+
+transfer of psychoanalysts. The transfer involves chancing the situation in order to become
+
+virtuous. The wise man is he who puts determinism in the service of virtue. A situation can be
+
+changed through the will; this is Julie’s method. Yet Wolmar prefers to operate within the
+
+situation itself and to execute a transfer (which is the materialism of the wise man).
+
+       Rousseau has a conception of the hierarchy of stages of the ‘beautiful soul’. There are
+
+four stages, which can be different:
+
+1. The original goodness of the soul
+
+2. The natural goodness or love of virtue
+
+3. Virtue itself
+
+4. Wisdom
+
+                                                                                                  42
+
+2.1 – First stage: the original goodness of the soul
+
+The original goodness of the soul is the goodness of the soul in the state of nature. The
+
+affirmation of this goodness is never separated from a deterministic affirmation of the
+
+situations which determine our affections. The soul is first of all a faculty of feeling, not one
+
+of reason. That which first appears is a natural ‘reliance on things’. This affirmation entails
+
+that of original goodness, because all affections are good in the state of nature, that is to say:
+
+appropriate to the object. And put differently, this is the naturalist transcription of the
+
+conception of the state of nature: reality thought as perfection. In such goodness, everyone is a
+
+whole onto himself. Everyone is at one with the sentiment of existence. However, there is a
+
+natural diversity of souls due to the difference of fundamental faculties:
+
+-   Julie: energetic soul, lazy with regards to a change of state, and interior sensibility.
+
+-   Saint-Preux: interior sensibility, weak soul.
+
+-   Wolmar: little sensibility, cold soul, and a taste for reason.
+
+-   Claire: impulsive soul, ‘the crazy one’.
+
+Nevertheless, every type of soul has an original goodness. Wickedness cannot exist at this
+
+level, because the intuitions do not permit it. In function of its type, each soul has its place in
+
+the order of nature.
+
+2.2 – Second stage: natural goodness or love of virtue
+
+We now arrive at the problem of the genesis of wickedness. With society comes a radical
+
+change of situation which renders vice possible. With society, new relations are formed which
+
+prevent us from being good and which develop an interest in being wicked within us. These
+
+new relations are relations of the master-slave type.
+
+                                                                                                43
+
+           Now, in the state of nature, everyone has a relation with things, for himself. Society
+
+establishes a relation of reliance of people on other people, so that everyone is taken as a part
+
+and no longer as a whole. This relation emerges during infancy. For example, a badly raised
+
+child doing what he wants to others: ‘in creating a right to be obeyed, children leave the state
+
+of nature almost from birth’ 3.
+
+           Hence the goal of the Emile: to recover an education that will entail a reliance on
+
+things and not on wills. Children must be made to feel their impotence with regard to things.
+
+With society, everyone is always a slave and master of someone. This artificial relation
+
+engenders vice, because it gives us an interest in being wicked. Nevertheless, our original
+
+goodness subsists. Natural goodness is original goodness insofar as it subsists under these
+
+new relations. Concerning this point, there are first of all degrees. For certain souls, original
+
+goodness is effaced by the multitude of social relations (and in this sense, loving solitude is a
+
+criterion of goodness). Second, there are intermediaries. The good soul will be selective with
+
+its social relations, because it distrusts them. It can, however, be caught short by the situation
+
+and react against its own goodness, driven by determinism (this is the case for me, Rousseau
+
+says).
+
+           To love virtue is to want to retain the goodness of virtue despite the situation. This
+
+natural goodness is not virtue itself, but only the love of virtue. This is the problem of The
+
+New Heloise. Julie is very good, and so is her father. Yet because of their objective social
+
+situations, she cannot love Saint-Preux without being at fault, and neither can Saint-Preux
+
+love her. What remains for them is the love of virtue. The moral problem here is how to leave
+
+this state of loving virtue yet, driven by the situation, doing the contrary?
+
+    The New Heloise, 3, part 5.
+
+                                                                                               44
+
+2.3 – Third stage: virtue itself
+
+The point is to make the love of virtue outweigh the interest in being wicked. Virtue is a
+
+means to realize the love of virtue 4. However, Rousseau doubts the efficacy of virtue as
+
+struggle. He does not doubt the existence of the struggle between the love of virtue and the
+
+interest in being wicked, but its outcome. Virtue is ‘always a state of war’. The struggle
+
+between the love of virtue and the interest in being wicked can take the guise of a platonic
+
+flight (Julie) or of a stoic one (Edouard). It is a delicate struggle, because the enemy one has
+
+to vanquish can be reason itself.
+
+           After her marriage, Julie will have another method. It will no longer be the direct
+
+struggle, but a transformation of the situation through the will. In other words, one must
+
+remove wickedness indirectly. Yet even in this case Rousseau remains skeptical. The will
+
+intervenes in the situation, but what will guarantee that any effected change will be definitive?
+
+So in a sense, Julie still fails. It is the error of both stoicism and Christianity: they over-
+
+emphasize duties and virtue. See Rousseau when he writes that ‘wisdom is to dismiss the
+
+difficulty of our duties, […] happy is he who is not confronted with the necessity of being
+
+virtuous, and contents himself with being a good man’ 5.
+
+2.4 – Fourth stage: wisdom
+
+Virtue is a struggle in a context established by a situation. Wisdom establishes situations in
+
+which virtue is not needed. Wisdom leads only to the restoration of the unity of virtue and
+
+interest within us, something of which Rousseau dreamt. Wisdom is not separable from
+
+enjoyment (jouissance), and it presents itself first of all under the aspect of Wolmar’s method.
+
+He no longer relies on the will to change the situation, but on a selection carried out in the
+
+    The letter to Sophie: ‘goodness is lost by the exertion of a multitude of artificial relations. Until then I had been
+good … I become virtuous’.
+    Letter to the Abbey of Carondelet, January 1764.
+
+                                                                                                                      45
+
+situation itself: a selection of times (cover the past by the present) and of places (render that
+
+which was sacred familiar): ‘true happiness consists in saying that I am wholly where I am’.
+
+           In the Reveries, Rousseau insists on the sentiment of existence. Our misfortune is that
+
+we anticipate the future in recalling the past, that we are not living the present ‘which always
+
+endures without marking its duration in the least, without sentiment of succession’. The
+
+sentiment of existence concerns a pure present which passes. This is assimilated to Eternity or
+
+to the divine state, because ‘one is sufficient onto oneself, like God’.
+
+           Wolmar wants to select the elements of the present. Time must be lived as passage,
+
+and it is at that moment that the substitution is made. This method of selection results in the
+
+Reveries. At this level, it is no longer a selection of objects which populate time, but time
+
+itself which is stripped of all succession of objects. And by doing so, the ease of existence is
+
+discovered. In the initial stage, Rousseau had to use our dependence with regard to things, but
+
+at the end of his life, he affirms that one must liberate oneself from this reliance, and establish
+
+an emptiness.
+
+           The materialism of the wise man centers on using the determinism of situations in
+
+order to disengage oneself. Wolmar controls the objects, but is that a good method 6? IN the
+
+Reveries, Rousseau hardly believes that it is sufficient to change situations in order to be
+
+happy. He there substitutes it for the reverie which, when objects no longer hold sway over us,
+
+permits a coincidence with the pure passage of time 7.
+
+3 – The Social Contract and Emile are parallels
+
+On the plane of the citizen, the Social Contract is the parallel to the Emile on the private
+
+plane. The legislator and the educator are parallels. Both are mythical beings, because, says
+
+    See the end of The New Heloise.
+    Book 9 of the Confessions (Pleiad P. 400-401, 408-409). Rousseau here takes up anew themes from his book
+Sensitive Morality.
+
+                                                                                                         46
+
+Roussau, they are too full of virtues to be real. In addition, there is a relation of essential
+
+succession between the Contract and the Emile. The contract presupposes the educated,
+
+formed, private man.
+
+       In the Emile, Rousseau specifies that there exist three types of education. First, an
+
+education of nature, an “internal development of our faculties and organs”. Second, an
+
+education of men, “the use we are taught to make of this development” of nature. Third, an
+
+education of things. Yet over the course of the Emile, these educations are reduced to two
+
+types. First, domestic or natural education. Second, public education concerning relations of
+
+men among men, each man being a part of a larger whole.
+
+       The first type of education considers man as a whole, so it is an education of natural
+
+man. It places man in relation to things and to his own semblances, each forming a whole onto
+
+itself. The second type of education considers man as a citizen, as a part in relation with other
+
+parts. There two educations are contradictory. In actual society, we want them both at the
+
+same time, and thus we end up with nothing: ‘neither man, nor citizen’. We must become
+
+conscious of their differences in kind. Rousseau says that there is no longer public education.
+
+We must therefore take the path of private education and subsequently stay the course. Only
+
+after that does it make sense to ask whether the restoration of a public education is possible.
+
+Whence that the Contract presupposes the Emile.
+
+4 – The state of nature
+
+The state of nature is pre-social, pre-political, and pre-civil. This idea is not new (take
+
+Hobbes, for example). Nevertheless, why does it appear as pre-social? According to the
+
+Discourse on Inequality, it is a state of equality and of independence. Yet this is not where
+
+Rousseau locates its originality: he defines it by dispersion. And thus we find Rousseau
+
+                                                                                              47
+
+contesting Locke’s position on the question of the marital relation in the state of nature 8. For
+
+Locke, it is a natural relation until children start to take care of their own business. For
+
+Rousseau, Locke presupposes that which is in question, which is to say co-habitation of man
+
+with woman in the state of nature. Now, the state of nature is that of fortuitous encounters.
+
+This isolation is what permits Rousseau to posit the state of nature as a state of equality and
+
+independence: the latter are the analytic consequence of the former.
+
+           How does this relate to Hobbes? From an Aristotelian and Thomist perspective, the
+
+natural order is like the order of perfections. Sociability is a part of the natural order. Yet for
+
+Hobbes, the natural order no longer concerns an order of perfections, but a mechanism of
+
+forces, or more specifically: of needs and desires. Whence that natural right becomes defined
+
+as the realization of one’s desires insofar as it is within one’s power to do so. Right, not duty,
+
+is thus posited as primary and natural. This is a point of view which excludes every notion of
+
+dependence, which is why it is a reaction against the Aristotelian tradition: man is no longer
+
+defined as a sociable animal. In this perspective, there is equality in the respective
+
+compensation of the inequality of forces: the strongest always finding a stronger one than
+
+himself, and the least strong capable of being sufficiently strong to kill the strongest.
+
+           Does this suffice to conclude that the state of nature does not imply social life? For
+
+Hobbes, social life implies an authority, a reliance on respect for a power. The state of nature
+
+thus excludes society understood as civil state, but does it exclude sociability which allows for
+
+a natural society as an aggregate of relations between independent individuals 9? Such
+
+sociability would have derived from an identity in nature between men as reasonable beings:
+
+‘the state of nature and a social life are not two opposed things’ 10. However, this conception
+
+presupposes that one grants himself reason right away. Now, in the case of Hobbes, there is a
+
+    Note 2 of the Discourse on Inequality.
+    See Grotius [Hugo Grotius, 1583-1645, jurist in the Dutch Republic, AK]
+     Puffendorf [a 17th century German political philosopher and historian, AK].
+
+                                                                                                48
+
+genesis of reason. But Rousseau, against Hobbes, also demands a genesis of the complex
+
+passions for which Hobbes appeals to the state of nature. According to Rousseau, Hobbesian
+
+man ‘abuses’ certain faculties which must be produced historically.
+
+           Now, by changing the plane on which the problem is posed, Rousseau escapes these
+
+difficulties in Hobbes. If we accept the thesis of dispersion, then there is no longer a problem
+
+if this type, because each form of society is necessarily excluded from the state of nature. In
+
+Hobbes, need is what brings us closer to one another, but in Rousseau, it is what separates us.
+
+In the Essay on the Origin of Languages, without doubt contemporaneous to the Discourse,
+
+the natural effect of needs will be the separation of men: ‘the state of war reigned everywhere,
+
+but all the land was at peace’. Of course wars would be possible through fortuitous
+
+encounters, but they did not happen: ‘not a Golden Age because men were united, but because
+
+they were separated’. The Discourse affirms that Nature does not bother with bringing men
+
+closer through mutual needs. She does not prepare men for social life. And this is the Stoic
+
+element in Rousseau: the idea that needs separate us. Need is defined as self-sufficiency.
+
+Naturally, this is limited by physical necessity, since it does not exceed the forces of that
+
+which experiences it. Our needs are proportionate to our forces and our forces to our needs.
+
+There is reciprocal regulation 11. The state of nature is therefore a balance between power and
+
+desire. In the case of Hobbes, what we have is jus in omnia. Perhaps, says Rousseau, but if so,
+
+then because everyone only desires that which is within reach: an unlimited right of man to all
+
+that he can attempt and all that he can reach. This right is in fact limited in the state of nature,
+
+and Rousseau compares this state of nature with ataraxia: ‘everyone is a whole onto oneself’.
+
+Here, the ground of natural right is self-love moderated by compassion, resulting in balance.
+
+     Emile II.
+
+                                                                                                 49
+
+5 – The meaning of ‘nature’ in Rousseau
+
+“Natural” first of all means “primitive” or “original”, as in ‘man in the state of nature’ or in
+
+‘primitive man’. This sense of ‘nature’ does not include an aspect of sociability. In a second
+
+sense, found in the Profession of Faith, it is said that ‘man is sociable by nature or at least
+
+made to become so’.
+
+           Now, love in the state of nature is a small thing, especially when compared to the love
+
+between Julie and Saint-Preux (‘our souls are made for each other, it is nature which wants
+
+it’ 12; ‘if love reigns, nature has already chosen […] sacred law of nature’ which cannot be
+
+violated with impunity). Any familial sentiment has need of a habit, of a development which
+
+forms like a second nature. That which is natural is thus no longer the primitive, but it is a
+
+development made from the origin and following directions virtually contained in the origin.
+
+This connects to the problem of ‘natural law’ in Rousseau. It often does not concern any law
+
+that would reign in the state of nature, but instead a law that governs the development of
+
+‘natural man’, that is to say of man insofar as he is presupposed to be subjected to a law of
+
+development of virtualities inscribed in the original state.
+
+           The ‘domestic or natural’ education of Emile includes an education in nature (internal
+
+development of our faculties and our organs) and the education in things (the acquisition,
+
+engendered by experience, of objects which affect us). Natural man is thus man insofar as he
+
+forms himself and insofar as he is educated. The Emile is conceived as leading from man in
+
+the state of nature to natural man.
+
+           Consciousness and reason are often called ‘natural’ by Rousseau, much like society
+
+and sociability 13. However, fully natural as it may be, reason nevertheless demands a
+
+     The New Heloise, III, 11.
+     The letter to Christophe de Beaumont: the genealogy of vices and the genesis of reason. [The then-archbishop
+of Paris, AK].
+
+                                                                                                              50
+
+development which starts in the state of nature. In the Geneva manuscript, there is a chapter
+
+on the state of nature which disappears in the Social Contract. Why? Because this chapter
+
+risks mingling different problems. The Social Contract presupposes natural man, so that its
+
+problem concerns the passage of man to citizen and not natural man as private man.
+
+           There is in Rousseau a notion of perfectibility: the state of nature must be understood
+
+as a genetic element, heavy with potential, with virtualities. This genetic line is altered by the
+
+genesis of vice. Is this accidental or necessary?
+
+           Rousseau uses an analytic and regressive method to find the characteristics of man in
+
+the state of nature, starting from natural man. There is the necessity to find a principle: what
+
+to define? The state of nature cannot be defined as an actual state of the faculties, but it can be
+
+defined as a virtual and genetic state. Thus self-love and compassion are a state of passion as
+
+long as their virtualities are not developed 14. The analytic method cannot lead to a definition
+
+of the state of nature without a dynamic principle: a regression of the actual to the virtual. The
+
+analytic method of Rousseau’s predecessors does not suffice. As it says in The New Heloise:
+
+‘nature is a book in which one must learn to read’. It is not enough to analyze if one does not
+
+know how to decipher. Everything which is actual and formed is exterior to the state of
+
+nature.
+
+           Before Rousseau, there is talk of a savage and a civilized man. Yet the genesis is
+
+precisely the actualization of the virtualities of the state of nature. There is no spontaneous
+
+passage. Moreover, in the Discourse we read that a faculty does not develop itself as long as it
+
+does not respond to a need or an interest, and that a need never appears as long as it is not
+
+determined by a situation. The state of man must therefore be defined by objective
+
+circumstances, by needs that these circumstances determine, and by subjective faculties
+
+necessary for the satisfaction of these needs. For example: speech presupposes the social state.
+
+     Emile IV: compassion is laden with a virtual sociability, and self-love with love for others.
+
+                                                                                                     51
+
+           According to Rousseau, his predecessors have disregarded the order of causes by
+
+positing, from the start, already-formed faculties in order to deduce situations. For example:
+
+‘man speaks, so he lives in society’. But for Rousseau, faculties must have a genesis, and if
+
+man had fully formed faculties he would not be in need of using them. And so he criticizes
+
+Hobbes, who makes the state of nature a state of war. Because man in the state of nature
+
+cannot be in a state of war. One must proceed as follows: being given a faculty of aggression,
+
+what interest does it presuppose, and what situation does this interest presuppose? We then
+
+see two problems.
+
+           First, the legal or objective problem that war is not just any violence. It is defined by a
+
+relation between states, by a certain duration, and by its goal (which is to obtain, by means of
+
+force, reparations for supposedly inflicted damage). War thus presupposes property: ‘it is the
+
+relation of things and not of men which constitutes war’. The state of war thus presupposes
+
+society.
+
+           Second, the subjective problem of interest, or of pride as a human interest which also
+
+presupposes the state. Engels will praise Rousseau on this point, for having employed a
+
+dialectic method in the Discourse 15. In fact, Engels finds himself in the same relation to
+
+Dühring as Rousseau finds himself to Hobbes. What does Robinson use in order to enslave
+
+Friday16? In order to enslave someone, a social contract constituted on productive forces and
+
+relations of production is needed: the masters of America enslave their slaves through cotton.
+
+     Engels’ Anti-Dühring.
+     [According to Dühring, Robinson would have used a sword, an idea for which Engels ridiculed him: ‘But let
+us look a little more closely at this omnipotent “force” of Herr Dühring's. Crusoe enslaved Friday “sword in
+hand”. Where did he get the sword? Even on the imaginary islands of the Robinson Crusoe epic, swords have
+not, up to now, been known to grow on trees, and Herr Dühring provides no answer to this question. If Crusoe
+could procure a sword for himself, we are equally entitled to assume that one fine morning Friday might appear
+with a loaded revolver in his hand, and then the whole “force” relationship is inverted’ (Anti-Dühring part II,
+section III), AK].
+
+                                                                                                            52
+
+6 – Is the state of nature a reality or a fiction?
+
+It can be doubted whether this problem has the importance that some accord it. For
+
+Rousseau’s predecessors, the state of nature is simultaneously a foundation and an origin 17.
+
+Starting from Hobbes, the state of nature comes to be considered as a pre-social life. In a
+
+sense the state of nature is thus fictitious, because humanity never finds itself entirely in it.
+
+Yet is real in certain situations. For Hobbes, civil war is one of those situations.
+
+           For Rousseau, the state of nature is not a fact of observation 18. Neither infancy nor
+
+savagery are the state of nature. Now, the state of nature is never posed problematically.
+
+Instead, what happens between the state of nature and the actual state, all the intermediaries,
+
+is posed as hypothetical. Nevertheless, both ends are given as real. The state of nature is real
+
+insofar as it is a point of departure for a movement from which man takes shape. Since there
+
+is this genesis starting from the state of nature, how does it work? The Discourse proposes
+
+one way, the Essay on the origin of languages and the history of manners propose others. But
+
+the point of view is always the same. Emile makes the genesis from the point of view of the
+
+child.
+
+7 – The unity of Rousseau’s works (I)
+
+Ernst Cassirer has proposed the Kantian thesis that Rousseau’s works are unified by the
+
+concept of freedom 19. The Social Contract does not want to be a possible reform of society.
+
+     Kant on the distinction between foundation and origin.
+     Lines from the Discourse: ‘we start by excluding all the facts…’, and by ‘facts’ Rousseau means sacred texts
+insofar as they attest to the creation of man with fully formed faculties; ‘that which reflection teaches us,
+observation confirms’; ‘the presupposition of a state of nature’; ‘a state which has perhaps never existed, which
+will probably never exist’.
+     [On February 27th, 1932, Ernst Cassirer hosted a conference on the theme of unity in Rousseau’s work, in
+which he proposed this thesis, only to get blasted by the other attendants for downplaying both the aesthetic or
+
+                                                                                                              53
+
+In the Discourse, there is an agreement which is mystifying in its principle, and it generates
+
+the corrupting social state. This mystification is glaring (se fait criante): social amenities. A
+
+reorganization of society cannot suffice since it is tainted in its principle (Rousseau here
+
+completely opposes the Encyclopédistes).
+
+           But is a reform of society possible? According to Rousseau, it is possible under certain
+
+conditions and up to a certain point. However, today we are too deep into the agreement. We
+
+can no longer make a clean slate, which presupposes a legislator who arrives from the outside
+
+(Cretans, Lacedaemonians, or Romans, for example). In certain states, man is first of all a
+
+citizen, but that is no longer possible now. The contract exists because the agreement can no
+
+longer be changed. It is an error to relate the contract to a state of nature from which it would
+
+have proceeded. It must be related to natural man, which is to say to man formed according to
+
+the law of nature. This is the case for Emile after his education is done, when he is owner and
+
+husband: private man, just, virtuous. The education has stopped being public, we cannot
+
+return to before the agreement.
+
+           Rousseau’ correspondence with Tronchin 20 make him realize the difference between
+
+private man and the citizen. It is when Emile is formed in private that the political problem is
+
+posed to him. Do not such men establish a new social order? No genesis passes from an
+
+anterior stage to the social contract. Instead, it is through a kind of transmutation that private
+
+men establish another social order. Natural man must be related to his own genetic line, and
+
+all that can be done is preventing the child, by means of domestic education, from putting
+
+itself in corrupting situations.
+
+           One genetic line responds to a history which leads from the state of nature to the
+
+corrupting social state. A second line is that of pedagogy: the law of nature permits formation
+
+artistic side of his work, as well as the paradoxical aspect many considered its defining characteristic, AK]. Also
+see Kant’s Conjectures on the beginnings of human history.
+     [A physician who frequented the circles of Voltaire, Diderot, and Rousseau, AK].
+
+                                                                                                                54
+
+in a corrupted society, a man of nature as private. A third line, non-genetic this time, concerns
+
+natural man creating a corresponding social order with his will.
+
+8 – How does one leave the state of nature?
+
+8.1 – From state of nature to savage state
+
+In Hobbes, for example, there is a fundamental disequilibrium in the state of nature – it is
+
+unlivable – which makes it necessary to leave this state. This exit is made possible by the
+
+natural law, a means that presupposes a minimal development of reason. And all this will
+
+work the better if everyone abstains from anything that can turn out to be disadvantageous.
+
+       Yet in Rousseau, the state of nature is one of full self-sufficiency and hence without
+
+contradiction. The human species is considered as just another animal species. In the state of
+
+nature, an individual is nothing but at one with its species. There is an identity between
+
+individual being and generic being, because the individual is a whole onto itself. Instead, that
+
+which engenders the exit from the state of nature is a multiplicity of ‘strange’, ‘fortuitous’,
+
+and ‘mild’ causes. So it happens through a kind of mechanism, but there is nevertheless a
+
+‘hidden plan of nature’, so that man goes to realize his final goal. In order to do so, an
+
+objective situation is needed in each stage of humanity’s development. If the situation
+
+changes, new interests and needs appear in man.
+
+       By leaving the state of nature, we fall into the savage state. This situation is
+
+characterized by two new facts. First, morphological causes, and second, climatic causes
+
+which act only in relation to demographic causes. Put differently: people multiply, they
+
+increasingly encounter one another, and they start to seek out the most favorable regions. New
+
+interests and needs arise, but one still remains, from the point of view of man considered as an
+
+animal species, physical. Man is always defined by his relation with things and his reliance on
+
+them. Yet whereas man is predominantly passive in the state of nature, his physical being
+
+                                                                                              55
+
+becomes active in the savage state: a generic activity of the uniquely physical individual:
+
+‘how many inventions die with their inventor’.
+
+           Two new interests arise at this point. At certain times there will be an interest in
+
+cooperation, and at others, an interest in rivalry. For example, the deer hunter (cooperation)
+
+who sees a hare pass by (solitary chase). The first provisional communities are those of
+
+hunters, because the first activity is the hunt. At that point, new faculties appear through
+
+perceptions of certain relations 21 or ‘a kind of reflection or machinic prudence’. The
+
+Profession of Faith not only mentions a passivity, but also a ‘faculty of comparing sensations’
+
+which is not yet a true freedom and remains physical. These new faculties still concern
+
+judgment by inspection, which is not judgment by induction. It is a ‘sensitive and puerile
+
+reason’ inseparable from physical activity.
+
+           At this level, there is still a comparison of man as species with the other species. Man
+
+has a natural and generic conformity with his semblances. Qua language, there is at this level
+
+an appearance of imitative, gestural, natural language.
+
+           By integrating themselves into the situation, the new needs and interests change it.
+
+There is also the intervention by catastrophes. The problem of these new interests poses that
+
+of the passage of the natural individual to the moral man. This is the discovery of a new
+
+activity, properly spiritual.
+
+8.2 – The advent of morality and freedom
+
+With this passage, everything happens as if it entails a regression of activity. See the third and
+
+fourth part of Emile: the child still has feeble desires, but his powers have grown. There are
+
+unemployed capacities within him. It is his studies which make him discover his intellectual
+
+and moral being. Likewise, it is said in the Discourse that ‘the Pastors are less active and
+
+     Reason presupposes this, see Emile.
+
+                                                                                                56
+
+more peaceful’. All this concerns the birth of leisure and idle pensions, hence ‘there are
+
+individual preferences and comparisons’. The individual now distinguishes itself from the
+
+species. Under which conditions? To the extent that the species is no longer defined as
+
+physical species, but as moral species. More new interests and needs arise as permanent
+
+housing appears (the embryonic form of property). Associations take shape which are not
+
+merely founded on an interest such as that of the hunters. As for the state of the faculties, if
+
+there is less physical activity, a morality of magnanimity and of vengeance is discovered.
+
+       In any case, the individual ceases being one with the species. It wants to be recognized
+
+by others, which is the first step towards inequality and pride. Morality initially manifests in a
+
+sentiment of right, in a consideration of that which I am owed. It concerns the individual that
+
+feels offended, that exacts vengeance: ‘each is judge and avenger of offenses that he suffers’.
+
+There is no law here as of yet, which implies that the separation between individual and
+
+humanity as a moral species is not yet complete.
+
+       It is the best era, says Rousseau.
+
+We discover a moral being, proper to us: freedom. See for example the Profession of Faith, in
+
+which a radical soul-body dualism is affirmed. The active soul produces a will independent of
+
+all physical determination. Freedom is already present in the state of nature, but there is no
+
+consciousness of it there, since it is nothing but fully one with life. We become conscious to
+
+the extent that we discover that freedom constitutes our moral being. It is when, on account of
+
+our perfectibility, we have passed into the moral state that we can conclude freedom existed in
+
+the state of nature.
+
+       Two dualities are now taking shape. First, man as a physical being and man as moral
+
+species (body and soul). Second, man as individual and man as species. The second is
+
+                                                                                               57
+
+intensified by the discovery of the first. At the same time that love of virtue develops in the
+
+moral species, an interest in being wicked develops in the individual. It is in the civilized
+
+(policé) state that the dualities take on their full importance. Here, the new interests become
+
+related to the formation of the couple metallurgy-agriculture. Metallurgy is the first to appear.
+
+Agriculture is then born from the necessity to feed those who work the iron. The result is a
+
+division of labor based on the exchange of iron and agricultural products. The first appearance
+
+of property then follows in the guise of the division of lands. There is no conventional relation
+
+between property and labor. The laborer possesses the land, and there is a certain right to the
+
+tilled soil insofar as it has produced the fruits of labor. This possession, continuing as it does
+
+from harvest to harvest, has a natural origin. There follows an evolution of the moral being
+
+towards a morality of justice, after just the idea of property which is the base of the
+
+development of the moral being. This justice consists in giving everyone what they are due.
+
+8.3 – Mystification, wickedness, and alienation
+
+There is an ‘inequality of combination’ in the relation between smiths and laborers. Property
+
+has led to a sentiment of justice, but its voice is still feeble. Despite this sentiment, the
+
+individual man is going to define himself as a more or less greedy owner, because he
+
+discovers interests of ownership in the inequality of properties resulting from the division of
+
+labor. There is thus a new inequality, a usurpation, and a relation of forces is established
+
+between owners. Subsequently, the rich design what Rousseau calls a ‘thoughtful project’,
+
+one that is a mystification of ‘specious reasons’. The rich propose the non-owners an end to
+
+the state of war and a reunion of all the wills into a single one. They propose the formation of
+
+a supreme power through a mystifying ‘very general agreement’.
+
+       Rousseau here takes up very classical theories, but precisely because he wants to show
+
+that the contract as conceived by them can only be understood as a mystification. In the Social
+
+Contract, he investigates the abstract conditions under which the contract could have taken
+                                                                                               58
+
+place without mystification. His predecessors perceived the contract as an exchange of
+
+freedom for security. Rousseau agrees that this is the effect of the contract, but precisely to
+
+the extent that this contract is a mystification and cannot be obtained through consent. Why
+
+not?
+
+1. Logical argument: agreements are accepted so as not to become dependent on others.
+
+2. Psychological argument: there is no natural penchant to servitude.
+
+3. Sociological argument: refutation of theses of paternal authority which assimilate the
+
+   social situation and the familial situation.
+
+4. Moral argument: freedom is nothing but one with my moral being, as life is with my
+
+   physical being. Neither life nor freedom are inalienable.
+
+Rousseau does not deny that we have lost our freedom. He even thinks it happens by way of
+
+the contract, so that we have been deceived. Is there thus a contract which can be defined as
+
+devoid of any mystification? This is the problem the Social Contract investigates. First, there
+
+is an historical investigation, in which we find two themes belonging to the idea of contract:
+
+subjection and association. Concerning subjection, it is generally held in the 16th and 17th
+
+centuries that there are two parties to a contract, one of which is the subject, and the other the
+
+sovereign. Here, Hobbes will object that the sovereignty is double, and a third power
+
+(puissance) is necessary for the judging of disputes. As for association, this is to be
+
+understood as the reunion of all wills in one will, progressing from a multitude of contractual
+
+acts between those who are to become subjects. But here Rousseau will criticize Hobbes.
+
+Even though Hobbes has understood that association has to come first, he made an error in
+
+reducing subjection to association. For Hobbes, we constitute ourselves as subject through the
+
+relation to a sovereign who does not enter into the contract. For Rousseau, an association is
+
+                                                                                               59
+
+needed first, a product of the reunion proposed to the poor by the rich: the formation of a
+
+public.
+
+          Yet the mystification is such that there is already a defect at the origin: the poor can
+
+perceive that the will is not common, so that a contract of government is necessarily required.
+
+This is a second mystification, because however honest the magistrates of this government
+
+may be, on account of the defect it will always be the rich who become magistrates. Because
+
+it was still feeble, our sentiment of justice was just sufficient to allow for the realization of
+
+this deception, and it is then that the interest in being wicked appears.
+
+          Man discovers his interest in being wicked because property simultaneously gives us
+
+the sense of justice, a particular interest. Property develops through an internal movement of
+
+inequality, or so say all the economists before Rousseau. Yet Rousseau has a more complex
+
+idea, stating that property does not concern an internal movement, but a double game of new
+
+needs and exploitation of the labor of others. It is the stage of usurpation. A duality develops
+
+between man as moral species and the individual with his particular interest.
+
+          The particular interest in wicked is hard-pressing, and the voice of justice, which is
+
+still feeble, starts to serve this interest. Whence the misleading proposition of the rich, which
+
+presupposes necessarily invoked justice in order to be accepted by the poor. Is this justice the
+
+same which appears in the Social Contract? The contract is misleading because it is made
+
+between two unequal parties, because it invokes a justice which governs relations between
+
+parties which it posits as equal. In the Social Contract, justice is formed by something entirely
+
+different than a relation between distinct parties. What is produced by the social contract is
+
+inalienable.
+
+          The problem of the Social Contract is whether there is a form of justice which is by
+
+nature impossible to avert, one that does not lend itself to any alienation, one that cannot be
+
+used by our own wickedness. And in fact, Rousseau says several times that this justice can
+
+                                                                                               60
+
+alienate. The relation subject-sovereign can pass into the service of wickedness: it suffices
+
+that partial associations are established in the State, et cetera. There is thus a possible
+
+alienation of justice, which is nevertheless inalienable in itself. It can be usurped by a partial
+
+association which passes itself off as common. Yet this is not the same thing as a justice
+
+which immediately declares itself a relation between two equal parties whereas in fact they
+
+are not. Now, two ideas developed in the Discourse on Inequality are taken up anew in the
+
+Social Contract. First, the idea that society cannot be founded on a relation of mutual
+
+subjection, because all subjection presupposes association. Second, insofar as association
+
+presents itself as a relation between distinct parties, the contract will be a mystification. This
+
+is the logical argumentation which prefigures the social contract – a contract which defines
+
+itself as one of association, yet which cannot be established between two parties considered as
+
+distinct.
+
+           Rousseau will make an aggressive caricature of his predecessors. He grants them that
+
+the contract as they conceive of it is the base of real society (subjection before association, et
+
+cetera). But, he says, that this is so is precisely the reason that real society is essentially
+
+mystifying and that freedom no longer exists in it. There is, at this point, a defect in the
+
+principle of the social being of man, on account of mystification. Hence Rousseau accuses it
+
+of original sin, and of pressing the moral being of man into the service of wicked interest.
+
+8.4 - How to leave?
+
+When it is not yet too late, a revolution can constitute the political act by which one leaves 22.
+
+Yet revolution can also be impossible, it can be too late, and then the only thing remaining is
+
+domestic education. The point of such an education is to efface the corruption, i.e. the malign
+
+     Discourse on Inequality, second part; also Emile when Lycurgus collectivizes property and in doing so effaces
+the defect, whereas Solon contents himself with abolishing debts and changes nothing profound; and Social
+Contract chapter 8.
+
+                                                                                                               61
+
+interest. There are two methods to do so. First, virtue, or Julie’s method. Second, wisdom, or
+
+Wolmar’s method. On the domestic level, there can be a reconciliation of individual and
+
+moral species, but nevertheless this kind of education remains subjective and negative. The
+
+reconciliation does not suffice by itself, because social life continues even if I abstain from it.
+
+Hence, a positive and objective reconciliation of the individual and the moral species is
+
+required, but this is only possible after private education. Is private man capable of restoring
+
+the citizen? The contract presupposes natural man, that is to say man as formed by Emile.
+
+           Now, there remain some allusions to the state of nature in the Social Contract 23. And
+
+at the end of Emile a problem is posed: can Emile become citizen? The problem concerns
+
+‘your civil relation with your fellow citizens’. It is when Rousseau advises Emile to reflect on
+
+the state of nature. Thus such a reflection must facilitate the passage from private man to
+
+citizen of the social contract. There is thus an analogy of |man in the state of nature – civilized
+
+man| : |state of nature – social contract|. The bulk of this reflection has to show us that man is
+
+free in the state of nature. Whence the possibility of the social contract in which justice is no
+
+longer alienable.
+
+9 – The unity of Rousseau’s works (II)
+
+Freedom is certainly a permanent term in Rousseau’s oeuvre, but only in the sense that it is a
+
+constant problem. So freedom itself cannot be the unifying factor. That which unifies is the
+
+problem of the relation between the individual and the human species (this is the Kantian
+
+interpretation).
+
+           Everything starts with a beautiful harmony of physical species and physical
+
+individuality. This is put to work within a genetic perspective, so that there is a passage from
+
+physical passivity to physical activity, and from physical activity to moral species. Man is
+
+     Book I, chapter VI; chapter VIII.
+
+                                                                                                62
+
+posited as a moral species, but there is also a rupture of the individual with the species. In
+
+Discourse on Inequality, we see this in mutual deception; in The New Heloise, we see this in
+
+self-deception. An act of moral will can restore a subjective unity between the individual and
+
+the moral species 24. Finally, there is the determination of a political act which installs an
+
+objective unity of the individual and of the moral species: the social contract.
+
+10 – The social contract
+
+The lawyers of the 16th century understand the contract as a relation between two parties, one
+
+being subject, the other being leader. The sovereign is thus split, power and sovereignty are
+
+divided, and a third instance is needed to judge disputes. According to Rousseau, this
+
+conception of the contract confounds society and government. For him, all government
+
+presupposes prior association 25. The subjection of subjects to a leader already presupposes the
+
+constitution of man as a subject, and thus an association. But if the subjection is a contract,
+
+the contract is not primary. Over the course of Social Contract, it is said that subjection is
+
+impossible without association 26.
+
+           Rousseau will hold that sovereignty is inalienable, whereas the lawyers (Puffendorf,
+
+for example) will hold the contrary. For them, sovereignty is alienated in the subjection. For
+
+Rousseau, the transfer of sovereignty can only be made in the form of a gift or of a sale, each
+
+of which can in turn be forced, tacit, or voluntary 27. Now, a forced or tacit gift cannot be the
+
+source of any right. And if the gift is voluntary, it can only be pure madness, insofar as people
+
+who give away their freedom just like that must be mad. In the case of a sale, there is an
+
+exchange of one’s freedom against security. But this is contrary to the notion of government,
+
+     Confessions and the second part of The New Heloise.
+     Social Contract book I, chapter V.
+     Social Contract book III, chapter XVI.
+     Social Contract book I, chapter I.
+
+                                                                                              63
+
+says Rousseau, because government is conceived as a delegation or an equivalent of the
+
+sovereign. Particular acts which presuppose a general law cannot be defined as acts of the
+
+government. Government can only be assimilated to a commission, as the acts of the
+
+government are emanations of the Sovereign. There can only be radical subordination of the
+
+government to the Sovereign. Whence that the latter cannot be alienated from an instance
+
+which is subordinate to it. Now, the alienation of the sovereign can be conceived as follows: it
+
+would be represented by men to who legislative power (puissance) would have been
+
+transferred. However, neither can the sovereign be alienated in a representation in this case 28.
+
+The sovereign cannot be represented except by himself 29.
+
+           Likewise, the government cannot appropriate sovereignty of which it is but the
+
+commission, as with the representatives, who are nothing but commissaries of the people. The
+
+governors are but commissionaires or commissaries, because they only exercise the function
+
+of judgment (determining the case that enters under the law), which is not the faculty of
+
+willing. In similar manner, the deputies have but a function of judging: they conceive of laws
+
+by which they clarify the general will, hypothetical laws which they cannot render obligatory
+
+and effective. Only the Sovereign decides on the propositions made by the deputies. The
+
+deputies (the legislature) propose laws that only the sovereign people ratifies. Thus the
+
+English people is wrong in believing itself free, it is only so at the moment of election of
+
+deputies. After the election, it is a slave to representation. Such arguments serve Rousseau in
+
+his critiques of absolute monarchy and representative governments.
+
+           The legislative state of the ancient City is that the legislator proposes, and then the
+
+people decides. Rousseau calls this the valorous government. The idea of representatives is a
+
+feudal one to him. Representative assemblies were the means by which feudal lords struggled
+
+     Social Contract book I, chapter II.
+     Social Contract book III, chapter XV: ‘sovereignty cannot be represented for the same reason that it cannot be
+alienated. It consists in the general will and the will is not represented’.
+
+                                                                                                                64
+
+against monarchy. The problem is that the legislature as conceived in ancient times
+
+presupposes small cities and leisure for citizens. However, in Considerations on Poland,
+
+Rousseau designed a system of representation by deputies for a large state, which would turn
+
+on the condition of controlling the deputies through frequent elections, a strict observance of
+
+the rule of re-eligibility, and finally public accountability. These means were to keep the
+
+deputies functioning as commissaries of the people.
+
+           There is thus a parallel alienation of the people in when they give themselves a master,
+
+and when they give themselves representatives.
+
+10.1 – The sovereign is irreducible
+
+Three arguments lead to the conclusion that the Sovereign cannot be reduced to an individual
+
+or to a group of individuals. First, a polemic argument 30. Secondly, the act which constitutes
+
+the sovereign as such necessarily constitutes him as the general will. It is not impossible that
+
+this will concords with a particular will, but that is by nature fortuitous 31. The sovereign
+
+would be alienable if he were an individual. The sovereign is a moral perso which only has
+
+abstract and collective existence 32.
+
+10.2 – How is the sovereign indivisible?
+
+According to Hobbes the sovereign is indivisible in his principle. For him, the contract is an
+
+act by which all make themselves subject of a Third Party which does not enter into the
+
+contract and which is the sovereign. As the sovereign has not entered into the contract, it is
+
+ruled out that the subjects can disobey him. There is thus inalienability of the sovereign who
+
+     Letter to Nirabeau [Deleuze means the Marquis de Mirebeau, with whom Rousseau stayed for a while after his
+stay in England, AK].
+     Social Contract book I, chapter I.
+     See the Geneva manuscript.
+
+                                                                                                            65
+
+can no longer represent itself. Now, Hobbes reduces the sovereign to a person or to a group of
+
+persons. That he is to be indivisible does not preclude that it implies having a number of
+
+distinct powers. In order for the sovereign to have absolute power, he must possess all the
+
+powers. So, though indivisible in his principle, the sovereign is divisible in his object.
+
+Rousseau critiques this thesis in book II of the Social Contract. For him, the sovereign is
+
+absolutely indivisible: “Simple and one” 33. According to Rousseau, there is only one object of
+
+the sovereign: the law. Decisions on peace, on war, and so on (what Hobbes calls the powers
+
+of sovereignty) are nothing but acts of government which presuppose a prior legislation. From
+
+this we can conclude that:
+
+1. The contract is not an act of subjection
+
+2. It is not an act by which all make themselves subject of a Third Party.
+
+3. It is an act by which all constitute themselves as sovereign, without possible alienation in
+
+       a government, without possible representation in deputies.
+
+4. To be conceived as such, the contract can no longer be considered a relation between
+
+       parties (contrary to all predecessors except perhaps Spinoza).
+
+10.3 – What is the positive character of the Contract?
+
+To posit the contract as a relation signifies a relation between public and particular individual,
+
+or between subject and sovereign. But the people, the public, do not pre-exist the contract.
+
+This expression by Rousseau is only provisionary and is not the most profound one 34. Yet in
+
+any case, we are constantly dealing with three terms: the particular (the individual or private
+
+     Social Contract book III.
+     Social Contract book II, chapter IV, 2nd paragraph, note where Rousseau insists on the difficulty of precisely
+defining the terms.
+
+                                                                                                                66
+
+man), the subject, and the citizen. These terms are reciprocal 35. In one case, the middle term is
+
+the individual considered under two relations: as subject and as member of the sovereign. In
+
+another, it is the subject which is the middle term and envisaged under two relations. So it will
+
+be said that the contract constitutes the particular individual as subject under one relation and
+
+as citizen under another. Or else, the subject is taken as particular individual in relation to the
+
+sovereign, and as member of the sovereign in relation to the particular individual, in the
+
+individual. The contract thus makes three reciprocal terms intervene: the middle term must be
+
+taken under two relations. In the first hypothesis, the individual is the middle term. It
+
+constitutes itself as subject in relation to the sovereign, and as member of the sovereign in
+
+relation to particular individuals. So in the end, only the subject has a double relation: first to
+
+the sovereign and furthermore, as member of the sovereign. So the subject is the middle term.
+
+The basic act of the contract is the act by which the individual makes itself subject and at the
+
+same time member of the sovereign (otherwise he would be a slave). There are thus three
+
+formulas to the Social contract, each more profound than the other: a) a relation between two
+
+terms; b) a discovery of three terms; c) it is the subject itself which is taken under two
+
+relations.
+
+10.4 – Obligation, totality, instantaneity
+
+An obligation is born with the Contract. Who is obliged 36? It is not the individual, because
+
+legally the individual cannot oblige itself. Is it the sovereign? No, because the sovereign is not
+
+submitted to anything except his condition of existence, to the laws which determine the
+
+conditions of his Being. In himself, he cannot be obliged to anything: “to violate the act by
+
+which the sovereign exists would be to annihilate itself” 37. Only the subject is subjected to the
+
+     Social Contract book I, chapter VII.
+     Social Contract book I, chapter VII.
+     Social Contract book I, chapter VII.
+
+                                                                                                67
+
+obligation. Only it can be grasped under the two relations, which is the condition of the
+
+obligation. What is the source of the obligation? It is the ‘free agreement of he who obliges
+
+himself’ 38. The term which is capable of obliging can only be the subject. All sources of
+
+obligations are up for discussions, except that one.
+
+           This act of engagement has two characteristics, to with totality and instantaneity39.
+
+The act must be a total alienation, which is to say it is complete insofar as it covers
+
+everything, and universal insofar as each individual is completely alienated. This alienation
+
+can be complete, because it is not carried out for someone else to benefit from it. If that were
+
+to be the case, alienation would not be total, because freedom is inalienable. Alienation
+
+consists in constituting a whole, not in making oneself dependent on others. Whence that each
+
+individual is subjected to the same condition: ‘each gives himself completely, the condition is
+
+equal for all’ 40. There will be no differences due to more or less alienation among individuals
+
+(unless of course not everyone alienates himself totally, unless someone conserves
+
+something). On the level of total alienation, equality is already included.
+
+           The act is also instantaneous: ‘the association instantly produces a moral and political
+
+body’ 41. From the very moment I alienate myself, I at the same time constitute the sovereign
+
+and I recuperate everything. It cannot be otherwise. The sovereign restores everything to me
+
+and even more, just under another form 42. For example: the sovereign assures the legitimate
+
+possession of property which the individual has alienated from himself. He keeps only what is
+
+necessary for community. There is no moral obligation of the sovereign in this. It is a
+
+condition of his existence. If he does not effectuate this restitution, he is destroyed.
+
+Furthermore, only the sovereign can say that which is of common interest: ‘but it must be
+
+     Letter 6, Letters from the Mountain.
+     Social Contract book I, chapter VI.
+     Social Contract book I, chapter VI.
+     Social Contract book I, chapter VI.
+     Social Contract book I, chapter IX.
+
+                                                                                                68
+
+admitted that only the sovereign is judge of such importance’, of that which is very variable
+
+according the situation, the circumstances, the morphology of a society.
+
+           In exchange for this partial restitution to owners, there will be a tax levy. The owner is
+
+but a repository of the public good. He only exists as owner by the sovereign’s act of
+
+restitution. The immediate restitution concerns private property and private opinion, that is to
+
+say private religion, which does not interest the subject 43.
+
+10.5 – Why does the sovereign constitute a general will?
+
+The contract necessarily forms a general will, but common interest and general will must not
+
+be confused. Common interest is that of the subject in relation to the sovereign. That which
+
+immediately returns with the act by which I constitute myself as subject, is the contract.
+
+Everyone has a similar interest, since they are subjected to an equal condition. Removing the
+
+equality destroys all common interest. I can only constitute myself as subject in relation to a
+
+sovereign of which the subject is member, with respect to individuals. From this point of
+
+view, everyone is a legislator. This time, it is no longer equality which is inferred, but
+
+freedom, as that which the sovereign wants with regard to individuals. The general will is the
+
+will of everyone as member of the sovereign, as citizen.
+
+           ‘The common interest is what makes the will general’. What does Rousseau want to
+
+say by this? The common interest is not constitutive of the general will, but is its condition of
+
+possibility: the formation of the sovereign has for its condition the act of the individual
+
+making itself subject. Without this act, which defined the common interest, no sovereign can
+
+be had, and therefore no general will.
+
+     Social Contract, final chapter.
+
+                                                                                                  69
+
+In what sense can we speak of a “utilitarianism” of Rousseau?
+
+The notion of utility appears in two senses:
+
+-      A faculty only develops if it is useful. Need is incapable of creating this faculty. Utility
+
+       only plays the part of realizer of the faculty.
+
+-      The common interest of the contract is the condition of possibility, not the principle, of the
+
+       general will.
+
+10.6 – What does the general will want?
+
+The general will finds its condition in the equality of the condition of all subjects. It cannot be
+
+determined by a preference. In this sense, not being determined by anything but itself, it is the
+
+will of freedom (as in Kant). It can only want the law. The law leaves the relation to
+
+individuals undetermined. It is only specified through the work of the legislator. In itself, it is
+
+only the form of the will of the subject as citizen 44. A distinction must be made between two
+
+things 45:
+
+-       The question of knowing whether the will can want such action (moral possibility of
+
+        Kant). It is a legislative power;
+
+-       Concerning that: can we, have we the possibility to accomplish it (physical possibility of
+
+        Kant). It is an executive power.
+
+Being determined by the law, the general will does not consider action in its physical
+
+possibility, but considers it as abstract. An obligation is related to the law. The word ‘law’
+
+can only be employed rigorously in a prescriptive sense. If the source of the obligation is the
+
+     Letter 6, Letters from the Mountain; cf. letter to Le Mercier de la Rivière from 1767: ‘a form of governance
+must be found which puts the law above man’.
+     Social Contract book III, chapter I.
+
+                                                                                                              70
+
+act by which I make myself subject, then the law must be civil, it has its foundation in the
+
+contract. But is such a response sufficient?
+
+           Such a response will have implied that Rousseau considerably critiques the idea in the
+
+mode of natural law 46. Is inequality authorized by natural law? Rousseau does not respond to
+
+this question, and says that the concept of natural law is a concept full of nonsense.
+
+Nevertheless there are texts where Rousseau mentions the natural law and in which he says
+
+that it is superior to the contract itself:
+
+-      Letter of October 1758: he admits three superior and independent authorities over the
+
+       sovereign: that of God, that of the natural law, that of honor. If there is a conflict, it is up
+
+       to the sovereign to yield. Hierarchy: natural law (love), honor, God 47.
+
+-      Letter 6 in From the Mountain: it must be proven that the contract is not contrary to
+
+       natural laws.
+
+-      Emile, book 2: ‘…the eternal laws of nature and the existing order. They take the place of
+
+       positive laws to the wise man’. The wise man is the one who has extracted himself from
+
+       society.
+
+So how is the Contract a primary principle from which derive civil law and the obligation,
+
+while it is also related to a higher instance, the natural law 48? The critique of the natural law
+
+has two senses with Rousseau. First, it bears upon the Ancients (Plato, Aristotle, Stoics), for
+
+whom the natural law is the recta ratio, the conformity of things to their proper ends.
+
+Rousseau argues that they used the word ‘law’ wrongly. By law they understood a law that
+
+nature imposes on itself and not a law that it prescribes. For Rousseau, the concept of law is
+
+     This happens in the Discourse on Inequality.
+     As found in The New Heloise; the letter on honor is in part I: letter from Saint-Preux.
+     See the beginning of the Discourse on Inequality.
+
+                                                                                                    71
+
+not a condition of existence of nature, it is essentially a prescription 49. The Moderns have
+
+understood this prescriptive character. For them the law is a prescriptive rule for an intelligent
+
+and free being. The natural law applies to this being which is capable of receiving
+
+prescriptions.
+
+           In Hobbes, the state of nature is no longer the order of perfections, but a system of
+
+forces, of passions, and of drives. For a passionate being, the law then becomes the obligation
+
+which opposes it. The state of nature is a system of forces, with corresponding natural rights.
+
+To this structure, a second is joined: that of the natural law. The driving force of this law is
+
+the fear of violent death, which is even the principle of reason. The law prescribes a rule
+
+without which I could not preserve my life. The natural law, however, can only prescribe
+
+hypothetically: it only gives the means to preserve my life, on the condition that the others
+
+will also want the law. Whence the problem: how to render the law obligatory? That comes to
+
+pass because all individuals make contracts among themselves, and above all delegate their
+
+powers to a sovereign who does not participate in the Contract. Because of this the natural law
+
+becomes civil.
+
+           Now, the mistake of the Moderns, according to Rousseau, is that they put the natural
+
+law in the state of nature, that they presuppose a being already endowed with reason in this
+
+state (because no law without reason). Rousseau accepts the prescriptive character of the law,
+
+but the Moderns have not seen in what it consisted, since it is only hypothetical. For
+
+Rousseau, the natural law is not in the state of nature, because it is a genetic development of
+
+virtualities starting from the state of nature. This natural law presupposes society in the sense
+
+that the virtualities only realize themselves under objective circumstances which are in
+
+society. For example, the sentiment of justice only realizes itself if it is useful, and it only is
+
+     See the preface of the Discourse on Inequality.
+
+                                                                                                72
+
+so if there is a society. However, society is not constitutive of the development of the natural
+
+law.
+
+           The contract must be related to the natural law. The contract, the absolute foundation
+
+of civil law, must be led back to the natural law, because it is at the same time total alienation
+
+and instantaneous restitution. If it contradicts the law, it destroys itself.
+
+10.7 – The idea of the civil law in Rousseau
+
+The law is the very act of the sovereign, the direct expression of the general will. There is a
+
+difference in kind between decree and law. The law goes from all to all, it considers the
+
+subjects as body and situations as abstractions. It is an act of sovereignty. A decree appoints
+
+persons, considers subjects as particular individuals, actions as concrete. It is an act of
+
+governance. The law determines the form of government, the conditions to fulfill in order to
+
+accede to government for each subject in general.
+
+           The Sovereign is a “common me”, a “life provided with sensibility”. The general will:
+
+it is the movement corresponding to this life 50. As the formation of the Sovereign and the
+
+general will, the social contract is the form under which the Sovereign conserves itself. The
+
+social contract is already general will. It defines a formal will. The contract in itself,
+
+generalized, formalizes the will. The Sovereign is thus already a formal will (whereas the
+
+particular will always searches preferences and the general will, the true universal: a pre-
+
+Kantian distinction). This generalization is not the addition of particular wills.
+
+           What does the general will want? That which it wants must be determined generally,
+
+that is to say formally: equality and freedom. The sovereign is the general will insofar as it
+
+wants freedom and equality. That the law will be formal signifies that it abstracts from
+
+persons, from its relation with persons of which the decree will take care (and in this sense,
+
+     Sovereign relation – general will. Cf. Social Contract book III, chapter IV.
+
+                                                                                               73
+
+government is a faculty of judgment: determination of cases that enter under the law).
+
+However the law, if it is formal in the sense that it determines generally, is not formal,
+
+because there is no law that will not be a determination of equality and freedom. Which are
+
+the best, the good laws, for example? They cannot abstract from the relation with things and
+
+objects. For Rousseau, that which saves us from the relation with persons is always the
+
+relation with things. The law is thus not quite determined unless we take into account the
+
+objective situation of a given society (resources, population, etc…). The law is formal by
+
+abstraction from the relation with persons, it is not formal because it does not abstract from
+
+the relation with things.
+
+       So to determine a law, the general will does not suffice. The formal determination of
+
+the will must be joined to the content of objective circumstances of a given society. Thus the
+
+general will wants the good, but it does not know it (it is the contrary for private man). It is
+
+blind because it is formal. Thus the general will must appeal to a prodigious understanding (it
+
+is a transposition of a faculty psychology to the social plane): that of the legislator who
+
+illuminates the will from the outside. Without the legislator, the general will formally know
+
+what it wants. But it needs him to be determined materially. A good law must not consider
+
+particular persons (formal aspect) and adapt itself to concrete situations (material aspect).
+
+The law is thus the composition of a form which refers to the will, and of a matter which
+
+refers to the legislator. This is why it cannot be a question of an a priori deduction of the law
+
+from its form.
+
+                                                                                              74

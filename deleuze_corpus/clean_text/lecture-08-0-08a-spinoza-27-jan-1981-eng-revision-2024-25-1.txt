@@ -1,0 +1,1374 @@
+1
+
+Gilles Deleuze
+
+Seminar on Spinoza: The Velocities of Thought
+
+Lecture 08, 27 January 1981
+
+Transcription (for Paris 8): Part 1, Christina Roski, Part 2, Mohamed Salah; Part 3,
+Hamida Bename; Augmented Transcription by Charles J. Stivale
+
+Translation by Charles J. Stivale (duration: 2:26:15)
+
+Part 1
+
+At 11:30, someone alert me; I have to go to the main office. So, we’ll have a break at 11:30.
+Don’t forget to give me your forms if that applies to you. [Pause]
+
+Here’s what I would like to do today, and I would like you to understand that, today, we have a
+sort of dual object; we have a double goal. I mean to move forward into the problem where I was
+the last time, namely, once we’ve said that, according to Spinoza, we leave, we are born, we are
+as if thrown into, subjected to conditions of existence, meaning that everything indicates that, in
+the end, we cannot make our way through this. We are subjected to a kind of encounter with
+external bodies; so, there is very little chance that many of these will suit us. On the contrary,
+there is every chance that out of the number of external bodies acting on us constantly, fairly
+constantly, there will be encounters with bodies which do not suit us, that is, that decompose our
+relations.1
+
+So, how do we manage to pull through in the end, not only from the point of view of knowledge
+-- since we are in conditions of absolute blindness, bodily shocks, encounters with unpredictable
+bodies – therefore, not only from the point of view of knowledge, but from a point of view of life
+itself? And for Spinoza, it's the same. Knowledge is really a way of life. How to act so that, very
+quickly, an aggressive body, a poisoning body, does not decompose us, does not destroy us? This
+is the common problem of knowledge and life.
+
+You can already see: Spinoza has his own distinction among philosophers of the 17th century. It
+is that, like all, like all 17th-century philosophers, Spinoza will say very well that, of course, we
+have potential, we potentially have true ideas, adequate ideas, clear and distinct ideas. And no
+doubt, all the philosophers of the 17th century, when they said that we have true ideas, that it was
+in this way that we are reasonable beings, they knew very well that this was not given by itself,
+all ready to go. They knew very well that it took a very singular effort that they called a
+"method" to manage to conquer what we already had, namely so-called innate ideas. These true
+ideas, which were called innate ideas, were, in fact, ideas that had to be conquered according to a
+certain method and a certain wisdom. That does not prevent Spinoza, I believe, from putting a
+particularly strong emphasis on this: perhaps, although true ideas are innate ideas, from our birth
+onward, that does not prevent everything from separating us from them, everything separating us
+
+                                                                                                    2
+
+from them. As a result, the conquest of what is innate takes on for Spinoza an aspect that truly
+mobilizes all modes of living.
+
+So, it’s that point [that is first], but I said a double goal today because, at the same time, I would
+almost like, not at all to assert, but pose some questions on this: what are the possibilities from
+Spinoza, that Spinoza gives us, regarding a modern problem or one which has again become very
+current in certain modern philosophies? And we will see how the two are linked; that is, as a
+result, I would like at the same time for you yourself to feel what I have emphasized, making a
+relatively precise comment on Spinoza as to the first aspect of the question, but as to the second
+one, almost seeing instead how Spinoza can be useful to us regarding a problem which seems to
+us to be a modern problem.
+
+What is this modern problem based on which I’d also like to consider Spinoza’s text? This
+modern problem, it’s what we can call semiology, something that has returned so strongly today,
+and by semiology, we mean, overall, the theory of signs. And why then might we think in
+advance that Spinoza would have something to tell us about the project of a general semiology?
+From whom and from where did this modern semiology project come? It obviously came from a
+very important current which is so-called Anglo-Saxon philosophy, but particularly a very great
+English philosopher – who, alas, is translated very little in France -- and who is called [Charles
+Sanders] Peirce, [Deleuze spells it out] Peirce who is really a very bizarre, very deep
+philosopher. You can only find one book translated as fragments in French at Éditions du Seuil
+under the title Writings on the Sign. And indeed, at the same time as Saussure, Peirce made a
+theory which he himself called semiology.
+
+Why do I name Saussure in the same era? Because he is very important, if only for the basic
+difference, because Saussure had a very simple principle. I'm not saying he doesn't complicate it;
+he complicates it greatly. But Saussure's very simple principle is roughly: signs are, above all, a
+conventional entity; signs are a conventional entity. Signs are a conventional entity, this allowed
+him to distinguish -- I'm not saying at all that it was his thesis alone -- it is a kind of starting
+point which allows Saussure to situate his semiology. That means that the sign has a
+conventional relationship with what it signifies, an institutional relationship and not a natural
+relationship. That is, a natural relationship, what would it be? It would be a relationship of
+resemblance, a relationship of contiguity. But there, it is a purely conventional relation. I decide
+through convention that a particular word refers to a particular thing. You see, this is the famous
+principle of the arbitrariness of the sign. Once again, I'm not saying this is Saussure's theory; I
+am saying that it’s Saussure’s starting point for distinguishing between the domain of signs and
+other domains. So, the conventional nature of the sign.
+
+What interests me already is that when Peirce, at the same time, launched his great semiology --
+this is not at all meant against Saussure, by the way; [Peirce] has his own problems -- he is not
+content at all with this conventional character even as a way to delimit roughly the field of signs,
+the domain of signs. And in fact, there is a remark which struck many linguists afterwards, which
+seems to me very important in considering our problem. It’s this: when you have a word, for
+example, "bull", that the word "bull" designates the thing with horns and which ruminates and --
+what is it, what is the bull’s cry? -- which bellows, the bull bellows, that’s a pure conventional
+relation. Obviously, we could look here for an onomatopoeia at that time; it would be a natural
+
+                                                                                                        3
+
+relation. If we eliminate the onomatopoeia, it wouldn’t go with "cow": “cow” there is no
+onomatopoeia, it's even impossible to find one [an onomatopoeia].2 Cow designates this thing, a
+conventional relation. Is this true?
+
+Many linguists have nevertheless pointed this out: that if you take the word, it has a double
+relation. You will soon understand why I am going through this long detour. If you take a word,
+it has a double relation. A double relation with what? It has a relation with the designated thing,
+with something designated. The word cow designates the cow. This relation, maybe I can --
+maybe, let's say, at the point we’ve reached in these very simple premises -- I can say, it's a
+conventional relation. And indeed, in another language, cow is not said as "cow". So, fine.
+
+But a word is not only in a relation with something designated. A word, as we say, has one or
+several signifieds. What is that? Imagine a language -- because there are some like this -- that has
+two words to designate a live bull and a dead bull. It's not the same word, a live bull and a dead
+bull. What’s designated is the same, a live or a dead bull. But there are two signifieds, there are
+two words. In other words, you understand, it's very simple: even if we say that between a word
+and what it designates there is a conventional relation, that does not necessarily mean that there
+is a conventional relation between the word and its signified. Why? Because the divisions of the
+signified do not exist before the division of words. The signified is divided according to the same
+laws as the words themselves. We’ll say that there is isomorphism. In technical terms, we will
+speak of an isomorphy of the sign and the signified. This goes beyond the conventional relation.
+In other words, even for conventional signs, it is doubtful whether one can define their
+constitutive relations as conventional relations.
+
+So why am I saying that? Let’s accept that "conventional" is a pretty bad approximation of the
+nature of the sign. How then will we define the nature of the sign? This is where I am reflecting
+on Spinoza in this way, provided that this means understanding the consequences. I am
+maintaining at the moment that the problem is outside Spinoza. We’ll see that maybe it’s not.
+Let’s pretend that the problem is entirely outside of Spinoza. And we tell ourselves, nonetheless,
+there are texts by Spinoza, so let's try to extract them from their context. What would he say,
+Spinoza, about the status of the sign? Well, progressively, or randomly from the texts, it seems to
+me that he would say three things. First, it will get complicated; he would say three things, and
+you will see that the conventional characteristic is only a consequence of these things and not at
+all the main determination of the sign.
+
+So, I see a first kind of text from Spinoza where he insists on the variability of the sign. Perhaps
+the conventions result from it. But he tells us: signs are strange; each thing calls for its own.
+What sort of specific texts am I referring to? To the texts by Spinoza precisely where we realize
+suddenly that I’m not attributing a problem to him that would be forced, which would, in a
+certain way, be legitimate to question a 17th-century philosopher, even if he has something to
+tell us about it, that it’s not in order to reproach him for not having seen the problem, but rather,
+to recognize that he did see something. But this is even more than I’ve done since I am at least
+certain that as soon as I start saying variability of the sign, Spinoza had fully encountered the
+problem; by what means? By means of the problem of writing, that is, of the Holy Scriptures.
+The problem is the interpretation of Scripture, namely the interpretation of the Old Testament.
+And so, after all, if he devoted a whole book or at least the major part of a whole big book, one
+
+                                                                                                    4
+
+of the only ones he published during his lifetime, the Theological-Political Treatise, to this
+question of interpretation of the Old Testament, which is the problem that I‘m attributing to him,
+in fact, this is no longer a forced problem, because how would it be possible for him not to
+encounter fundamentally the problem of signs?
+
+And in fact, we can say that, in a certain way, the Theological-Political Treatise is a book of
+innovation -- even today, from the point of view of a biblical criticism -- it remains a book of
+astonishing innovation because I believe that it has a method that, in the end, nobody has taken
+up except perhaps, once again, -- hence the link I’m making -- except from among those who are
+called the English positivists today. But he also has genius, I think. And after all, I’m making
+historical shortcuts here. Peirce, about whom I was telling you we should take seriously, and
+where does he come from? When he develops his whole theory of signs, to what lineage does he
+lay claim? He lays claim to the Middle Ages. And the Middle Ages, in fact, developed
+extraordinary theories of signs in all directions. And were there to be a crossing point, because
+Spinoza is very familiar with the theories of signs from the Middle Ages, and thus if a crossing
+point were there between recent semiology and certain Spinozist problems, that should no longer
+surprise us.
+
+And I am thus saying the first characteristic that Spinoza established for the sign, it is the
+opposite of a fixed state, namely, the sign’s fundamental variability. I am saying: each thing calls
+for a sign, and the signs of one differ from the signs of the other. What is a sign for you is not a
+sign for me. It’s already in this way that the domain of the sign -- you see -- very roughly will be
+distinguished -- these are the very simple things from which we have to start -- will be
+distinguished from the world of the laws of nature. The laws of nature do not vary for each
+person; rather, the signs vary for each person, according to the temperament of each person.
+
+What does this mean? Who knows? I ask for a sign, and all of us are constantly asking for signs.
+But what is the critical situation? In everyday life, we keep asking for a sign: "tell me you love
+me", it means, "give me a sign." "Oh my! you don’t love me; what’s wrong? Why are you
+looking at me like that? What did I do to you?" This is the life of signs. "You look like you’re in
+a bad mood, you look like you’re in a bad mood"; "No, I’m not", the other says; "Yes, yes, you
+seem to be in a bad mood." "Shit, I don't look like I’m in a bad mood! No, I swear." "Yes, you
+do, you do look like you’re in a bad mood," etc. etc., and it starts there. We are in the realm of
+this fundamental variability of signs: "No, I didn't signal you” (te faire signe). "Yes, you did, you
+signaled me " "Ah, did I signal you?" "Stop it!" Fine, here we are. Who is it, who collects this
+kind of situation? So, this is a dimension of our daily experience. We live like that; that's why we
+have such bad lives. And it’s from all this that Spinoza is going to remove us, and it’s from this
+that by being Spinozists, you will be able to get yourselves out. But really, that won’t be
+happening any time soon.
+
+So, you understand, if this situation is widespread in our lives, we don't even notice that we are
+spending our time, that we are like children. It’s children who ask for signs all the time. As they
+are condemned to signs themselves, they make signs; when they are hungry, they start crying;
+it’s really a world of signs. It’s terrible. What does the baby mean? Is he happy, isn't he happy?
+Is this believable? We never escape from this life. We never get out. When you're in love, it's the
+same; when you're religious, it's the same. "God, God, God, send me a sign." Maybe this is one
+
+                                                                                                      5
+
+of the foundations of our belief. Maybe in our religious belief, when we have any, we collect, we
+gather all these scattered moments of signs that we call for left and right, and then, in one go, we
+ask for a great big sign that would make a huge sign for us: [Laughter] "God, send me a sign."
+
+And in fact, the man of the sign is the prophet. And that's how Spinoza defines the prophet. The
+Jewish prophet is the man of the sign. In what form is he the man of the sign? You see, we are all
+Jewish prophets in our lives. The Jewish prophet, he only elevates to a higher power what we all
+experience, namely our calling for the sign. He raised it to such a power that all alone, face to
+face with God, but turning his face away from God, he said: "Give me a sign." And the
+relationship of God and the prophet is transmitted through the sign.
+
+And in a splendid chapter in the Theological-Political Treatise, Spinoza said -- even if you only
+read that, read the chapter on prophetism; these [pages] are beautiful. -- For those interested in
+the question, the bibliography is not long because, of course, there are many very beautiful books
+on prophetism and especially on Jewish prophetism, but if you want to gather a very precise
+familiarity at the same time with the problems of Jewish prophetism and yet not devote your life
+to this question, there are two fundamental books to my knowledge: The Theological-Political
+Treatise by Spinoza -- there are two or three chapters on the prophetism which are a wonder –
+and, on the other hand, a book of a French Jewish thinker, very, very beautiful, a thinker called
+[André] Néher [Deleuze spells it out], and the book is called L’essence du prophétisme [The
+Prophetic Existence, (1955)].
+
+So then, I’m returning [to the point]: the prophet calls for a sign; the prophet has a relationship of
+signs with God. And each prophet calls for a special sign which is necessarily adapted to him.
+You see, that’s like the first characteristic of the sign; I'm not going far, but this allows me to
+gather at least some concrete situations. It is in this semiological path [that] we will avoid
+defining the sign through the conventional nature of the sign, because it is not a, how would we
+say, pertinent characteristic, conventional characteristic; when there is convention, that will
+result from other characteristics.
+
+The first characteristic that we will retain is the variability of the sign as opposed to the
+constancy of the natural law. It's not complicated; it’s even crystal clear. A second characteristic,
+if I search in Spinoza’s Treatise, so I located the main texts on the level of variability, that's what
+he says about prophetism.
+
+Second characteristic: this would be associativity, the associativity of the sign, that is, the sign --
+and here too, it is simple; this is what I would like you to feel, that to do philosophy and great
+philosophy as Spinoza does, it is sometimes necessary to say extraordinarily complicated things
+and sometimes to cast an absolutely new light on some really childish things -- to speak of signs,
+these are variable. It doesn't seem to take us very far, but if it allows you to gather together all
+kinds of things, already this takes us quite far.
+
+The second equally rudimentary characteristic is the associativity of the sign. What does this
+mean? It means that the sign is an element which is always caught within chains of association.
+So, you see that henceforth, this second characteristic is a little deeper than the previous one.
+Why is it a little deeper than the previous one? It is deeper than the previous one because, no
+
+                                                                                                       6
+
+doubt, the fact that the sign is always caught within or inseparable from associative chains will
+explain that it is fundamentally variable. Because, necessarily, if the sign is inseparable from the
+associative chains in which it enters, it will vary with the nature of the chain.
+
+And it is there, it is at this second level, that Spinoza situates language. It would even be very,
+very curious as a definition of language that we could extract from Spinoza. He would not define
+language as a system of conventional signs, once again, not even as a system of signs. He would
+define it more precisely: language is not the sign, but the associative chain into which the sign
+enters. What one must call language would be the set of associative chains into which signs
+enter. What does this mean? There, Spinoza again tells us childish things. There is an association
+between the word and the thing, for example, between the word apple and the fruit -- he himself
+chooses the example of the apple -- between the word and the fruit, there is an association. It
+does not matter whether this association is conventional or not, we’re no longer concerned with
+this. In this case, it's a conventional association, okay, but it's an association. But what matters is
+that we must not isolate it, precisely, this association, because what matters, if you isolate the
+association between the word and the thing designated, you do not see the fabric, the network of
+deeper associations between the thing designated by the word, on one hand, and on the other
+hand, by other things.
+
+And you cannot think of language, never can you think of language on the level of an isolated
+word. You can't think of language at the level of the relation. And here, that remark would go
+rather far. You cannot think of language at the level of an isolated word and the thing designated
+by that word. You can only think of language at the level of the relation between words insofar
+as they relate to relations between things. And at that point, there will be isomorphism between
+the relations between things -- there is perhaps, if you like, a conventional relation between
+words and things, but there is isomorophism between the relations between words and the
+relations between things -- yes, that's perfect as a formulation. I mean, in the end, it's clear. This
+is why "conventional" is not interesting as a way to define the sign. In any case, you have an
+isomorphism if you take the relations between words and the relations between things.
+
+And precisely, these associative chains that unite things as we unite words, what are they? We
+can see how they are variable. [Pause] They are variable, why? [There’s] an example by Spinoza
+in book II of Ethics, and it is a very beautiful text which seems very simple, but it is necessary to
+be wary about language. He says: a peasant hears the word horse. The word horse is already
+caught within an associative series with other words, and these word relationships are
+isomorphic, isomorphic to the relations of things, namely: the peasant who hears the word horse
+thinks, according to Spinoza, he thinks field, plowing. We are in an extremely simple,
+rudimentary domain, but again, it seems to me that already the thesis which is outlined through it
+is very interesting. When you give examples in philosophy, they always have to be childish,
+otherwise it doesn't work.
+
+So yes, but what if he is a soldier? He’s not thinking of a field, of plowing, when he hears the
+word horse; he thinks of inspection, war, putting on his breastplate, etc. So, ultimately, it is not
+the same word since it is caught up within one case, and in the other, it is caught within two
+completely different associative chains. So, the sign is what is inseparable from associativity.
+
+                                                                                                        7
+
+You see, if it is variable, it is precisely because it is inseparable from associativity. So, I would
+say the second characteristic of the sign is: associativity.
+
+You see, we have moved forward, I would say, more precisely now: conventional is only... an
+abstract and derived characteristic of the sign. The real characteristics, the real characteristics of
+the sign are: first, variability; second, associativity; and third, what is it? [Pause] The peasant:
+horse, associative series, plowing, field, horse, plowing, field. What can break the associative
+chain? What can do so? I don’t know what. Plowing, field, God willing; there is always a "God
+willing". There is always so much of "God willing" that it wasn’t by chance that, earlier, I was
+going from daily variability to prophetic variability. When I said: we live in such a way that we
+don't stop calling to one another for signs, we quickly learn that our very own signs are always to
+be started up again, so we would like a sign that reassures us. This sign is one that nobody in the
+world can give to us except the creator of the world. So, from these scattered signs, we passed on
+to a divine sign, the prophet, the situation of the prophet.
+
+Here, at the level of associativity, we almost find the same thing: horse, plowing, field, oh yes,
+God willing, that is, if it doesn’t rain tomorrow, I can plow. -- No? I don't know; can one plow
+when it rains? [Laughter] I don't know. -- That works for the harvest; "I can harvest if it doesn't
+rain tomorrow, God willing." And the warrior: "Ah, obviously I'm riding my horse to win the
+battle, but God willing." As an associative chain is wide open, it can always be interrupted, it
+does not have its own guarantee. So, I call for a remedy, I call for a sign of signs, just like the
+prophet called for ... [Interruption of the recording, 32:37; cassette change]
+
+Part 2 (duration 46:46)
+
+So there we have God as the great laborer or God as the great warrior, and in one case, his justice
+will be the justice of plowing and division of lands, and in the other case, it will be justice of the
+battle field, it will be the justice of the warrior; and in one case, I would say: "God has a sword",
+and in the other case, I would say: "God has his plow". And in one case, I would say: "I am the
+humble ear of wheat"; and in the other case, I would say: "I am the warrior of God". Okay, what
+does that mean, "God is the great warrior", "God is the great laborer"? I understand that this is
+not literal; I am not as stupid as that, I the peasant, I the warrior. What do I mean when I say,
+"the sword of God"? I understand that God does not have a sword. So, what do I mean, what am
+I raving about, since I know it's not true?
+
+From another perspective, I maintain that this is true. I mean, I maintain that God has an eminent
+sword. Eminent, what does that mean? And if I am a pastor who leads his flock to the mountain,
+I say that God himself is the highest mountain -- see the texts in the Old Testament --, that God is
+"the mountain of mountains". Okay, but I understand that it is "eminently mountain". What does
+that mean, "eminent"? As Spinoza says cleverly: "if the triangle could speak, it would say that
+God is eminently triangular". [Laughter] Eminently triangular, what does that mean? Here he has
+something in mind, Spinoza; he's not joking around. He's addressing people who, obviously at
+that time, understood very well what he meant. Well, this question is one that has always arisen,
+and from the point of view of a theory of the sign in the Middle Ages, this was one of the
+fundamental problems of semiology of the Middle Ages, namely: how can we speak of God?
+
+                                                                                                        8
+
+What can we say about God? It would seem that God is such that all language is canceled out at
+[God’s] approach. There is no "speaking of God"; [God] goes beyond anything one could say.
+
+So, to some extent, I can only say one thing about God: what [God] is not. I can say: it is not
+square, it is not this, it is not that, it is not, etc. "[God] is not": this is what will be called
+"negative theology". I can speak of God only in the mode of negation. Can I say God exists?
+Even at the extreme, I would say -- and how far the mystics have gone down this path -- at the
+extreme, I would say: "God does not exist". Why would I say, "God does not exist"? Because
+God goes beyond "existence" in as much as it goes beyond the triangular figure; and "existence"
+is such a predicate that it remains inferior, inadequate to [God]. So, literally, God does not exist.
+Or if I say God exists, I will say, "Yes, [God] exists, but eminently". Eminently, that means,
+literally, in a higher sense, in another sense, in a higher sense.
+
+But then, was it true what I said earlier about negative theology, namely that it speaks of God
+only by negation? It tells us what God is not, and it cannot say anything other than what God is
+not; I cannot even say: "it is good, God", [God] is so far beyond goodness. Okay, but this is only
+a first aspect of negative theology, because I say through negative theology what God is not.
+Okay, but what it is not is what it is: "it is what it is not". How does that work, “it is that what it
+is not”? Answer: yes, it is eminently what it is not, it is so "eminently", that is, what it is not in a
+sense, it is, "eminently ", that is, in a sense superior to the sense that it is not. God does not exist;
+that means God exists, but precisely it exists "eminently", that is, in another sense than all the
+existences that the world presents to me, in a "superior" sense. God is not good; that means it is
+good, but it is good in an eminent sense such that all the goodness of the earth gives us only a
+very vague idea since [God] is infinitely good, and we are familiar with good things only as good
+things according to their finiteness. You follow me?
+
+So, here we have negative theology inventing a whole language in which negation is affirmation
+because affirmation is eminent affirmation. Consequently, the sign, the words of this language,
+will basically have several meanings. [Pause] And here again, let's go back to the most everyday
+situation. You see, each of these dimensions of the sign has two aspects: daily life and the
+exceptional situation. If the negative theologian represents the exceptional situation from this
+point of view, well, in our daily life, we do not stop -- words have several meanings, words have
+several meanings, they have many meanings – so, I spend my time when I speak saying: ah, yes!
+okay, but in what sense are you saying that? Let's go back to negative theology, which,
+ultimately, is like the magnification of this situation. You see, I have three daily situations with
+three magnifications. I'm not saying that, in his works, Spinoza is so systematic, but I'm saying
+everything is there.
+
+In fact, let’s return to this third characteristic. In that case, I am saying, there is no limit within
+the language of negative theology. And that can inspire the most beautiful poems: God is a
+mountain, God is a scent, God is a sword, understanding the implication: it is not a scent, it is not
+a sword, it is not a mountain, understanding that what [God] is not, it’s what it is, but it is
+“eminently” so, that is, in another sense than the common sense, than common meanings. God is
+a mountain, but an eminent mountain, that is, that all the mountains of the world, even the
+Himalayas, give us only a confused and truncated idea; an infinite mountain, "it is an infinite
+mountain", "it is an infinite sword ", etc., etc. So, this language of negative theology plays on the
+
+                                                                                                      9
+
+common, everyday fact that words have several meanings, and simply pushes things to the
+extreme, and what is this extreme? It is the existence of an infinite meaning and a finite meaning
+in the case of theology, the things which are relatively good and God who is infinitely good,
+things which have a degree of perfection and God who is infinitely perfect, and we will use the
+same word because we still have to understand each other well, for these different meanings.
+
+And at that point, a language is woven that is basically going to be, depending on the accents that
+you put there, a language of "equivocity", namely, a sign having several irreducible meanings, or
+a language of analogy, a sign having meanings that are without that relation. Equivocity is
+exactly a sign with several meanings, unrelated to each other. "Good" is not said in the same
+sense of God and the creature -- you constantly find this in the theology of the Middle Ages; you
+see how this theology is bound to come up against this problem of signs -- Or else the language
+of analogy, but from a certain point of view, it amounts to the same thing, whatever the
+differences, namely a word has several senses; these senses are not unrelated to each other, that
+is, have analogical relationships – an analogy, of what type? What infinite goodness is to God,
+finite goodness is to man. You see, we will propose a kind of analogy of relation in order to have
+some kind of law. In other words, analogy introduces a certain rule within the relations of
+equivocity.
+
+So, according to tendencies within the Middle Ages, you have authors who insist on the
+equivocity of words when they are applied to God and to the creature. That would be, if you will,
+very roughly, it would be, for those who know a little about these currents, that would be the
+tendency of Pseudo-Denys [the Aeropagite], of a mysterious author called the Pseudo-Denys. Or
+else you have authors who emphasize analogy, that is, a certain rule within equivocity, an
+analogy of relation, and that is the tendency of Saint Thomas [Aquinas]. But in any case,
+theology is inseparable from this: the equivocity of words. And you see that this belongs
+fundamentally to [theology], and that is why Scripture has always been inseparable from a
+problem of the interpretation of Scripture. In what sense?
+
+And it is necessary that theology pose this problem of signs, of the equivocity of signs, since its
+fundamental problem is in what sense we can attribute, can we attribute the same predicate to
+God and to the creature, and on what condition: provided that it is taken in two directions
+unrelated to each other, provided that it is taken in two directions having a certain relation with
+each other. Or else what? Theology has never considered either of these two solutions. So, I
+would say that the third characteristic of the sign is equivocity, equivocity or analogy. [Pause]
+
+If I am only summing up what we’ve acquired here, I would say this -- ah, yes! I am developing
+a kind of summary although it is very simple, but it is precisely to insist on the simplicity of all
+this -- I would say: to some extent, in connection with Spinoza, we give up defining the sign by
+its nature, by a supposed conventional nature. That’s not what it is; that’s not what it is that
+allows us to define the sign. On the other hand, three characteristics allow us to define the sign,
+but these three characteristics have, in each one, two dimensions: a daily dimension, if you will,
+and an extreme dimension; that is, a daily dimension, a relation with things; an extreme
+dimension, a relation with God. As a result, you can eliminate one of the two dimensions, but the
+other remains, but so that’s functioning at every step.
+
+                                                                                                          10
+
+First characteristic: variability. The daily dimension, really what is happening... Our life, our life,
+as our life, does not cease being a matter of calling for signs to one another; we never cease
+calling for signs. On the other hand, the extreme position, the "prophet" -- not on the contrary –
+the extreme position, the "prophet", the relationship with God is precisely calling out for a sign
+of the signs. This is the aspect of variability.
+
+Second aspect: associativity. Here too, the ordinary field, daily existence, is each word that I use
+can only being defined by its associative chain. The extreme situation, henceforth, there is a sign
+of signs, namely God as guarantor of an associative chain: "God willing". This time, it would be
+the attitude, if you will, not of the prophet exactly, but of the "one who prays", of the prayer "ah,
+God willing".
+
+Third characteristic: signs have an equivocal meaning, that is, any sign has several meanings; the
+extreme situation, the "theologian". The same word is not said of God and creatures in the same
+sense: negative theology. [Pause]
+
+At least you know, if you compare [this] to what is being said today about the sign, if you grant
+Spinoza these three [characteristics]... What is being said today about the sign, if it you happen to
+read or some of you may know Peirce who goes very, very far in his analyses, the starting point
+in Peirce seems rather worse to me than these starting points in Spinoza. This triple definition of
+the sign seems very strong to me: variability, associability, and equivocity.
+
+So, what does Spinoza want? Suppose that, for reasons that are his own, he doesn't want all of
+that; that he is saying to himself that life is not worth living if that’s what life is. And this is not
+simply a problem of knowledge; it’s really a problem of lifestyle, living like that, living like that,
+without ever ceasing to call out for signs which, by nature, are ambiguous signs. Well then, no!
+It's not good if ..., If there is a truth, it’s not within this that we can find it. But this is a sad life,
+you know, a very sad life, if you think about our life because... [Deleuze does not finish]
+
+And in the end, what will Spinoza call the first kind of knowledge? This is life according to
+signs. I don't see any other means, like what he calls the first kind of knowledge, this is, in fact,
+very, very mixed, and seems... He invokes many very different examples; the only thing that
+makes unity of what he calls the first kind of knowledge and which is, in fact, a kind of
+ignorance, which is not, in fact, a kind of knowledge, which is, in fact, our sad situation, when
+we don't know, eh, well, it’s the sign, it's the sign that gives coherence to what Spinoza calls the
+first kind of knowledge. And I am saying: why isn't it worth living if it's living like that? There is
+so... I am saying that, insofar as I am making Spinoza speak because there are, on the contrary,
+people – imagine that! -- there may very well be people who say: but this is precisely… there
+would be no poetry without that, there would be no poetry without the variability of the sign,
+without the associativity of the sign, without the equivocity of the sign. And that's what makes
+the world a world of light and shadow, and that's the depth (fond) of things.
+
+And after all, theologians of negative theology, who were sometimes geniuses, lived in this
+atmosphere of a world of light and shadow. They even multiplied the words to fix a specific kind
+(espèce), or to approach what they called the "phenomenon of depth". Moreover, they multiplied
+the words -- in what sense? -- since "depth" already is an equivocal concept, and they had to
+
+                                                                                                    11
+
+indicate the equivocity of the concept "depth", of the word "depth". There was a God of the
+depth, there was a God of the shadows, and a God of light, and the God of the shadows was a
+God of wrath, wrath. And the God of light was a God of glory; but the God of wrath, of depth,
+was even more God, it was a more fundamental God than the God of light who was already
+"form" to it [God]. And all that will inspire some splendid texts at the edge of mysticism and
+philosophy, for example, the texts of Jacob Böhme. This will be found in Romantic philosophy,
+in the very great German Romantic philosophy of the 19th century, in the splendid texts of
+Schelling where language develops all the way to the end its power of equivocity, in which
+equivocity is no longer at all grasped from a Spinozist point of view as a defect in language, but
+on the contrary, as the soul of poetry in language, and the soul of mysticism in language.
+
+So, there, I’m not at all maintaining… I said, well no, Spinoza would not even understand what
+that means; he would not even understand in the sense... Well, if we told him that, he would say
+... There is no point in even saying that to him. Imagine, that doesn't concern him, that doesn't
+concern him, it's not his problem. He thinks, but why does he think that, that life would not be
+worth living there, in this kind of muddle, this nocturnal muddle. It’s very odd; here we have a
+philosopher of light.
+
+All, all the philosophers of the 17th century, we will have to ask ourselves -- but I believe that
+we will not get to this until next time -- try to define these philosophies of the 17th century, so
+that we feel closer to them, so that we don’t have the perpetual impression that Descartes,
+Malebranche, all that, is over. What did they achieve? What did they not achieve? What made
+the position of the 17th century no longer possible today, so strong nevertheless, that they offer
+us things and continue to be currently significant? What happened between the 17th and the 19th
+century? This is all ..., but what did they achieve? Otherwise, if we don't answer that question, I
+mean, these are philosophers who will always remain for you, even if you admire them, who will
+always remain a dead letter. They achieved something that became impossible afterwards, surely
+not at all because it was out of date, because philosophies are like that, that's how they last, that’s
+how they change. They don’t change like that because of a vague whim of a thesis, "I have a
+thesis", that’s… You have to be very young to wake up one morning and say to yourself, “I have
+an idea”. No, it never happens like that; you never have an idea, it doesn't happen like that. So,
+what was going on in the 17th century that allowed them to develop a certain language which
+afterwards was no longer ...? [Deleuze doesn't finish] Once again, it's not that they were out of
+fashion.
+
+It is that, in fact, why all these words which have become empty words for us, "clear and
+distinct", "the clear and distinct idea", "natural light" -- there too then, I am preparing for what
+we will do in the second semester, on painting -- is it by chance that it’s at the same time, in the
+17th century, that painters really discover -- I would say, to be very basic -- discover light?
+Before, was the light not known? Yes, of course it was known. But what we discover in the 17th
+century, in a very general way -- there, I am telling you things... -- it is indeed a certain
+independence of light as regards form, in relation to form. Everything happens as if light
+becomes independent of forms, so that a painting of pure light becomes possible. The famous
+example, or the extract of this painting of pure light, is known, it’s Rembrandt, and even the Late
+Rembrandt, not… Fine. But Spinoza, I suddenly think that, in a text that I have already pointed
+out to you, I believe there, the text by Claudel, by Paul Claudel, The Eye Listens, the very
+
+                                                                                                        12
+
+beautiful text on Dutch painting, itself makes the connection with Spinoza. Perhaps what these
+painters do achieve in painting, Spinoza does so in philosophy, that is, what was underlying
+throughout the 17th century, the enterprise of bringing thought to a kind of pure light.
+
+"Thinking within the light", what does that mean? It sounds so verbal, all that. You understand, if
+you are open to these somewhat emotional, somewhat sentimental echoes, you can no longer
+even read a text by Descartes on "the clear and distinct idea" while telling yourself, "clear and
+distinct," he says it like that in order to say "true". It’s not true that he says, "clear and distinct" to
+say “true”. He says "clear and distinct" because he brings along a conception of truth, one that he
+does not invent. But why, before, were they not speaking of "clear and distinct"? Why does it
+start with the 17th century? We used to talk about it, "clear and distinct"; you can perhaps find it
+in Saint Thomas’s works, in contrast to "obscure and confused". There is the Cartesian "cleardistinct" couple which is opposed to "obscure-confused". Fine, what does that mean? So, we
+were harangued so much [about] philosophy being so unfortunate to be caught by... -- and there,
+I'm only adding one more to everything else – it whined so much due to all the directions that it
+went through. You understand that "clear and distinct" has been swallowed like that; we tell
+ourselves: "Good, fine, a Cartesian notion", "clear and distinct", "natural light", fine! But for
+them, it wasn’t like that. For them, it was not a way of saying “true”; it was a way of radically
+transforming the concept of truth, namely the true, this was what was clear and distinct, that is,
+the true was what was luminous.
+
+So, it's the same story; notice that it's exactly the same story. I can say Aristotle, so he returns
+from very far back. Aristotle, how did he define the true? Basically, it doesn’t matter, he has a
+very complicated conception of truth, but Aristotle defined truth by "form". With Descartes, you
+will still find the word "form," but lo and behold, form has become entirely subordinate, literally,
+I would say, to intellectual luminosity. As a result, it seems to me, I really did not force things to
+say that this is the same story as in painting. I mean, the field that 17th century painting will
+discover, or will promote or invent, it’s the technical means to make light independent of forms.
+The philosophy of the 17th century, in its theory of truth, will define truth by a light, a
+luminosity, which obviously breaks with Aristotle's formal conception. Ultimately, it is the forms
+which depend on light; it is no longer light which follows the forms. [Pause] There is a guy who
+compared -- so here, I am making a parenthesis within a parenthesis... it doesn't matter…
+
+A student: It's 11:30.
+
+Deleuze: It is 11:30; I have to run an errand then. I’ll just finish this point: there is a guy who
+compared very, very well, a German critic who compared church interiors, 16th century and 17th
+century, understanding that the church interior is a common theme; it’s a contemporary theme in
+painting. There are a lot of painters who have created church interiors.3 So, he compares 16th
+and 17th versions; it’s very, very striking, the distribution of kinds of light inside a church. In the
+16th, we see -- here, I am saying very general things; we should look at each particular case --
+but quite generally, we could say something like this: in the 16th, the distribution of kinds of
+light and shadow can be very scholarly; it is at the service of forms, that is, even in the shadows,
+an object retains its shape.
+
+                                                                                                      13
+
+See what that means? Even in shadow, an object keeps its form; it is very striking in the 16th
+century. Shadow, in fact, they do not have chiaroscuro yet; the chiaroscuro techniques come in
+the 17th, it will be part of the 17th; it's not that they were incapable of it [in the 16th]: they are
+great painters. It's not a question of being able to or not; they have nothing to do with
+chiaroscuro. Their development is so greatly, it’s so greatly a problem of form -- which does not
+mean simply drawing -- color, light is subordinate, is a treatment of form, shadow as well, which
+means what? I would say, roughly speaking, which means that this is a space -- and it will be
+very important for us -- this is a space that must be called "optical-tactile". In fact, if the object in
+shadow keeps its form, it is obviously through a tactile connection. Do you follow me? And
+indeed, the entire painting is optical, obviously, since this is painting, but with tactile referents:
+contour. Hence the reign of the contour, in particular, is a tactile referent in an optical world. So,
+as is said, this is a tactile-optical space.
+
+What do they do in the 17th? They do one thing, so one might regret… -- you understand, it’s
+here that tastes take on meaning; we can always say: well, I'm sorry, yes, but provided that you
+know what the topic is; otherwise, tastes at the level of “me, I like, I don't like" do not matter.
+You have to say what you like and what you don't like -- And we can indeed regret [losing] this
+tactile-optical world, because the 17th is going to embark on something a little crazy. When we
+say they are reasonable, that this is the age of rationalism, yes, but rationalism is pure madness.
+They are going to embark on -- I am saying this about painters for the moment, while being quite
+ready to consider later if this is not the same for philosophers -- because for painters, they are
+going to move into ... Listen to me, this enterprise seems prodigious to me: the constitution of an
+exclusively optical world, that painting drives out its tactile references, that the painting does not
+pass any more through any tactile reference, this is a crazy idea!
+
+Why is this a crazy idea? At the same time, it’s a very reasonable idea, that is, painting is for the
+eye, so it has no need to flirt with the tactile. With the pure eye, painting will be pure visibility,
+but precisely what is it that pure visibility makes invisible? This is what makes tactile referents
+invisible, starting with contours. Painting of light, things will no longer be painted; light will be
+painted; ultimately, they continue to paint things, sure. But more important than the painted
+things, there is light. Fine, this can be Rembrandt, this can be Velasquez, this can be many, many
+[painters], but this great painting known as Classical, in fact, if we use "Classical" in the sense of
+something well digested, do you realize? Because, after all, no longer painting things in their
+tactile referents, but painting pure optical space, if I hadn't said all of the above, I might as well
+tell you, I believe, and maybe you would agree, I might as well tell you, that's what modern
+abstract painting wanted. Fine, in fact, modern abstract painting wanted to establish -- maybe
+that’s what is happening all the time -- modern abstract painting wanted to establish a purely and
+exclusively optical world, to eliminate all of the world’s tactile references.
+
+Okay, if that's it -- and after all, there are enough statements by Mondrian moving in that
+direction and others -- if that's it then, what does that mean? Yet they don’t paint exactly like
+Rembrandt; no, they don't paint like Rembrandt. No doubt they are undertaking this initiative on
+other bases. What has happened in the meantime that causes the initiative to "establish an optical
+world" to be undertaken on other bases? That doesn’t matter; that would take us a lot of time, so
+we'll see it later.
+
+                                                                                                         14
+
+But I'm just saying, now let's go back to philosophy. And I again am making my plea: when you
+find "clear and distinct" in Descartes, "natural light", etc., place yourself in the context of the
+readers of the time. Don’t tell yourself that these are ready-made formulas: “ah, yes! Descartes,
+he is still going to annoy us with ‘the clear and distinct idea’”, etc., “this is so well known". It’s
+well known because -- we’ve spent enough time on this; it's like going from comment to
+comment to comment to comment, everything gets lost. And again, I am saying, you have to be
+aware that we've added one more [comment] -- But I am telling you, let's take this literally, that
+is, in the same way as the painters of the 17th claimed to do, claimed to raise painting to the
+power of a pure optical space without tactile reference, 17th century philosophers claimed to
+constitute a pure mental space, a purely optical mental space.
+
+That’s why we’re always told: Descartes, he destroys Aristotle’s forms. It was Aristotle, we are
+told, with the "substantial forms". "Substantial forms", even if you consider the word, even if you
+don't know a word about what Aristotle means by "substantial forms", this is obviously linked to
+tactile referents. It is the relationship between form and matter, and all the examples of Aristotle
+are, at least many of Aristotle’s examples, are examples linked to work, namely the form of the
+bed -- the carpenter who gives form to the bed, taking wood and giving it the form of this or that,
+the form of the violin, the form of the bed, etc., -- [it’s] this activity of information that defines
+the substance by Aristotle.
+
+It is said that the Greeks were painters. It is said that the Greeks lived in the light. That’s wrong,
+that's wrong, that's wrong. Everything that is said about the Greeks, we can say in advance that
+it’s false, I don’t know. [Laughter] So they lived in the light? Not at all. The word "eidos" is
+invoked among them; the word "eïdos", everyone tells us, however, that it’s a complicated word,
+because it means at the same time "form", "essence" and "what is seen" (le vu) -- what is seen --,
+the appearance (apparition). It is true that the Greeks invent a certain light, but I insist on this, it
+is not at all a pure light. The Greeks’ artistic space is not at all an optical space; it is still typically
+a tactile-optical space.
+
+Do you know who will be the first artists to have invented a purely optical space by expelling all
+the tactile references, if, once again, you agree that the same initiative, apparently, the same one
+can be undertaken at very, very different levels? Well, it's the Byzantines; you'll have to wait for
+Byzantium. It’s mosaic painting in particular; it’s mosaic painting which gives off a pure light,
+but which does not emit it in some mystical way, for which all the technical processes ensure that
+light takes on an independence compared to form, that is, form becomes purely optical. An
+optical form is a form such that, precisely, light is independent of the presupposed form; [form]
+is born from light.
+
+And it seems to me, we must wait for the Byzantines to have the idea of a pure optical space. I
+am not at all saying on this matter that the 17th [century] copies the Byzantines, any more than I
+would say that abstract painting copies the 17th and the Byzantines. Although between
+Byzantium and abstract painting today, it seems to me that there are extremely disturbing
+relationships. But, but, but, but, but, what ... For example, in Kandinsky, it is obvious that
+between abstract painting and Byzantine art, there is a resumption of a kind of tradition very,
+very ... [Deleuze does not finish] And I am saying that they are the ones who invent this. Before
+
+                                                                                                       15
+
+them, I see no pure optical space. So, some strange things have to take place to have this very
+curious idea.
+
+And I am saying Aristotle..., take the Greeks, let it be Aristotle in philosophy. The form "eidos"
+is not at all pure optics; essence is not pure vision, it is tactile vision, it is a sight-touch mixture.
+And from an artistic point of view, if you take the Greek temple, the Greek temple, it is
+absolutely not pure light. Greek architecture is not at all... Byzantium yes, Byzantine architecture
+would be an architecture of light; Greek architecture is an optico-tactile, or tactile-optical
+architecture.
+
+So, fine, well, I am saying the same thing about the problem of truth, and in the end, that's all I
+want to say. In the 17th century, realize, it’s pretty great: what allowed them to do this? So there,
+I say, it’s up to you, on this you can say... “well no, simply, it disgusts me”; you can say that
+“this painting of light doesn’t interest me”. But know, at least, why it doesn’t interest you. It’s
+because, at that moment, you are beings who do not pose their problems in terms of light. That’s
+your right; at that moment, you will have other painters who suit you. And for philosophers of
+the 17th, it is the same effect, I tell you, it is the same effect. Here they are projecting thought,
+the activity of thought, within a mental-optical space. They invent for the mind a pure optical
+space, therefore, a mental space, of course, but a mental space conceived in an optical way. In
+this way, Descartes breaks with Aristotle. Because, once again, the "substantial form" in
+Aristotle is optical-tactile. Descartes's "clear and distinct idea" is, on the contrary, purely optical.
+Hence the question, what made this discovery of light and pure optical space possible in the 17th
+century? Hence the importance in the 17th of the problems of optics: Spinoza and his lens
+grinding for glasses, fine. But for Descartes, one of his scientific works is the Dioptrics
+[Dioptrique].
+
+Furthermore, and in terms of optics, I believe that something is created which is also like one of
+the secrets of the 17th century. One of the secrets of the 17th century and its philosophies is that
+science and metaphysics are not in conflict there. They found a balance of science and
+metaphysics, and there, we must not be in a hurry to say that equilibrium is not good, because
+something allowed this achievement, this amazing achievement, that science and metaphysics
+had found a kind of equilibrium and balanced relationship. We’re sometimes told, so much
+nonsense is repeated because, you understand, stupidity is not just when someone says
+something false; but this is much worse. It’s when someone gives a mediocre interpretation of
+something true. [Laughter] So, we acknowledge something true; what’s true is that philosophers
+of the 17th were both great scholars and great philosophers, and it is said, not without
+melancholy: "well, that moment is long gone". A reasons for this gets assigned, and obviously,
+the reason that gets assigned is ridiculous. Some maintain that science has become so difficult
+today that the same person cannot be knowledgeable (savoir) in both philosophy and science.
+This is grotesque; this is absolutely grotesque. This is stupid because you really have to develop
+a strange idea of 17th century science to believe it was simple. If you think about what they were
+doing at the time…
+
+But, how do we explain, in fact, that in all the important cases -- even the guys who were not
+very, very scholarly (savants), like Malebranche or Spinoza -- there were two among the great
+philosophers of the 17th, there are two of them that are extremely scholarly: Descartes who, in
+
+                                                                                                   16
+
+mathematics, is a great creator; in physics he is a great creator, fine. Leibniz, I’m not even
+talking about him. He’s one of the greatest mathematicians who ever existed; in physics, it's
+amazing what he does, well, these are still extraordinary cases. Fine, but even Malebranche and
+Spinoza who, I think, have a background -- how to explain this -- that allows them to correspond
+with, for Spinoza, with people like [Christiaan] Huygens, or be very informed about Huygens's
+work, and very familiar with the work of the English chemist [Robert] Boyle, have
+correspondence with Boyle? And you can read the great letter to Boyle; in his correspondence,
+he speaks of extremely technical problems, and he is indeed perfectly knowledgeable. Could we,
+in fact, have a correspondence with a contemporary chemist? I think ... I don't know, maybe
+some of you could; I wouldn't understand what he would be telling me, okay. Okay, could we
+have...?
+
+But the argument, "it's because science has become so complicated that it takes a lifetime of
+specialization," seems absolutely stupid to me, you know, so stupid that... Again, if you open a
+treatise by Huygens, it boggles the mind; you don’t get the impression, as they say, "a worthy
+man (honnête homme) is capable of understanding this". [Laughter] If you open Leibniz's
+mathematical writings, don't even go there! You are going to have exactly the same impression
+as if you are reading a modern math book. Okay, so obviously it’s not because science has gotten
+complicated that... I think it’s something else entirely. It is because the 17th century had found,
+under conditions which it made possible -- and still we would have to determine these conditions
+-- it is because the 17th century established conditions of a fundamental balance between science
+and metaphysics that the same individuals could be great scientists and great metaphysicians.
+
+And what was this balance? If I look for its immediate translation, I would say that this balance
+was located in the development of a "pure optical space" -- of course, I’m exaggerating, but I’m
+just indicating a direction -- a pure optical space, namely: the constitution of a geometrical optics
+which, in a certain way, was one of the rallying points of physics and mathematics, and a pure
+optical space which transformed the status of metaphysics and the whole theory of truth. Thus,
+pure physical, physical-mathematical optical space, and pure metaphysical optical space. As a
+result, "clear and distinct"... [Interruption of recording] [1:19:46]
+
+Part 3
+
+…the end of a 17th century, or the 17th century's own discovery, is, in fact, currently being
+questioned. The Age of Enlightenment, it seems to me ultimately, we must keep the expression;
+it isn’t bad... The Enlightenment, the Enlightenment is a kind of inflection of the balance of the
+17th century. And indeed, starting from the 18th century, there will be a sort of divorce which
+will continue to grow between science and metaphysics. That is, the master stroke of the 17th has
+been achieved forever, and at the same time, it cannot last. It cannot last. So, all I wanted to tell
+you…
+
+Georges Comtesse: One remark on this is that for everything that speaks of pure optical space,
+we must not forget either, for example, [for] Descartes, it is the optical space that allows him,
+this pure optical space, to homogenize the dream with this space. That is, for example, Descartes
+is creating a science, that he has three incredible dreams that resurface in him, and it’s inasmuch
+as he himself interprets these dreams, that is, makes them pass into this pure space, that the
+
+                                                                                                    17
+
+homogenization of the nocturnal world of dreams with space allows the balance between science
+and metaphysics. And so, [Deleuze: Quite right] ... [this] allows physical science to continue by
+repressing for three centuries the science of possible dreams.
+
+Deleuze: Very good, what happiness! very good, very good! Because I am telling myself, even in
+my concern to extend this philosophy-painting parallel, I am saying, in fact -- so just as I was
+considering earlier, referring to the interiors of the churches -- the theme of the dream in
+painting, you have to see how they treat it in the 17th century, the character who dreams, the
+theme of sleep, meditation etc., precisely, in relation to light; this constantly changes. The
+meditator of the 17th is not at all the same thing as the meditator of the 16th, nor of the 15th, etc.,
+etc. ... Yes, but your remark is very, very correct. Yes, that's why they didn't have
+psychoanalysis, see? [Laughter] Ah, well, what balance they had achieved, eh! How shameful
+for us! [Laughter] Fine.
+
+A student: I want to recall something very important in terms of discoveries in the 17th century.
+It is the following: it is the appearance of the world of the infinitely small which was drawn from
+the observations de Leeuwenhoek, and it is particularly an art to confront the 17th on the
+microscope where the implications for the study of nature had been the most developed. It is true
+that it remained marginal. Even in the last century, someone like Cuvier called the microscope
+"that useless flea-market mirror".
+
+Deleuze: No, but, I’m sorry, you are much more correct than you maintain because if Cuvier
+does that, on the other hand, the people of the 17th century were not fooled, they were not
+mistaken. Leibniz was fully into the topic of the microscope.
+
+The student: The entourage, let's say, of Spinoza’s followers, for example: the activity was
+simmering with regard to the observation of ...
+
+Deleuze: That’s right, that’s right.
+
+The student: ... the observation. For example, in Leeuwenhoek’s home, the visits of several
+personalities were observed, the King of England Charles II, George 1st, Queen Anne, Peter the
+Great of Russia, who visited him, and the serious technical problem [inaudible word] of
+Leeuwenhoek’s microscope was precisely a human problem rather than the problem of lenses,
+because he worked only with the microscope.
+
+Deleuze: Yes, yes, yes, yes. I am very happy because these two interventions were perfect,
+because they are really valuable, it seems to me, and indeed, you have just introduced a theme
+that will no doubt engage us next time, because we have not finished with this story of balance
+within the 17th, namely, the entire 17th, in fact, is dominated finally by "what is being thought"?
+It is dominated by a certain thought of infinity, which is absolutely not Greek, which in fact is
+truly the opposite of Greek thought.
+
+And I'm just saying that the thought of infinity, whatever it may be, I mean, I am saying: the 17th
+is dominated by a thought of infinity in two senses -- think of Pascal – the infinite in all its
+orders, namely, in the order of the infinitely large and in the order of the infinitely small. Now, if
+
+                                                                                                     18
+
+I ask the question: how is it possible to think of the infinite in the dual form, both the infinitely
+large and the infinitely small, that is, this whole Pascalian theme in which then, as well, in which
+Comtesse's remark would gather all its..., would reverberate within this, including the space of
+the dream, including all that you want, the answer seems simple to me. I don’t understand why
+yet -- but we will see next time -- the thought of the infinite under all its orders, which brings
+together all its orders of infinity, which elevates to infinity, under whatever order it might be, it is
+precisely the deployment of an optical space. That’s when the optical space finally frees itself
+from finite forms, -- I am giving the answer here -- that’s why for the Greeks, this wasn’t optical
+space. Greek light was not simply optical. Greek light ultimately was only experienced on
+bodies, like a kind of caress or aggression in relation to bodies. That is, what matters in Greek
+light is the contact of light with the body, with the temple, with whatever you want.
+
+But light for itself, necessarily, light for itself is precisely the independence in relation to the
+finite form. So, the deployment of a purely optical space is at the same time the necessary
+condition for a thought of infinity, a thought of infinity under all orders, since as he has just said
+quite correctly, this will be both the question of light at the level of the microscope and the
+discovery of what they called at that time an infinitely small or else the mental space of the
+infinitely large, that is, the theology of light. This is what will weave this "philosophy-science"
+of the 17th century.
+
+So, you understand at that level, to say as well: "Ah! They believed in infinity!" is just idiotic, I
+mean, truly idiotic; that even pains me. It’s true that they believed in infinity. But in what way?
+They did not believe in infinity because the Church told them to believe in infinity! And when
+one creates bad history, you understand, when bad history has been written, things get presented
+like this. For example, at first, it was said that there were conceptions -- I am thinking of very
+simple books which always express this point of view -- at first, they discovered infinitesimal
+analysis, but since they weren't, since they weren't as intelligent as we were, they thought it was
+about the domain of the infinite, and they interpreted it in terms of infinitely small. And then in a
+second step, [this is] what is called a pre-scientific conception of infinitesimal calculus. And then
+a second moment would arrive, coming rather late, in which they realized that so-called
+infinitesimal analysis made no reference to the infinitely small, that it had to be interpreted in
+strictly finite terms, in terms of sets. Fine, when things get presented like that, nothing is clear at
+all, I think!
+
+Well, at that point, it’s easy; we seem to be saying, well, we have gone beyond the prejudices of
+the 17th century. Take… If they link the analysis of the infinitesimal to the infinitely small, it is
+not because they are stupid or insufficiently learned or because they lack scientific data that
+would allow them to do otherwise. It is by virtue of all the presuppositions which make them
+discover infinitesimal calculus. These same presuppositions which make them discover
+infinitesimal calculus cause them to think of infinitesimal calculus in terms of infinitely small
+since it is inseparable from this optical space. As a result, it’s silly to make some..., it must be
+said rather, well yes, in each era, they had the secret of something, and the secrets do not stop
+being lost. The secrets of the paintings, the secrets of philosophy, thank God, they never stop
+getting lost, [but] it's not sad since we have others.
+
+                                                                                                   19
+
+So, starting from our very own secrets, we can find something of the secret of the secrets in the
+17th, exactly as in painting when we say: well, but what was that particular painter using as
+binder (liant)? What was he using? It’s not clear; what was it? Or what glaze? How did he make
+his glaze? What was that all about? These secrets must be stated about the 17th century
+philosophers. So, you must not tell yourself, ah! They believed that infinitesimal calculus was
+infinitely small! You have to tell yourself something much better. They had the secret of linking
+it to the infinitely small precisely by the development of a pure optical space. That this is not our
+problem, that’s quite possible, it’s quite possible, but that we are still dealing with this problem,
+and today, that this problem rests on other bases, that’s obvious. Fine, I have to go run my
+errand. Yes? [Comments inaudible]
+
+Speak louder, I can't hear! [Comments inaudible] Perspective, yes, yes, yes. But there, that’s so
+complicated, you know more than I do about perspective... I would say the same thing, that there
+are purely optical perspectives, and that the 17th century, the contribution of the 17th century to
+perspective, it is ultimately the discovery of a purely optical perspective because before, there are
+also perspectives. The Greek perspective, or the perspective known as the vanishing axis, that
+still seems to me to be a tactile-optical perspective, not a purely optical one. You know, you,
+maybe if you give some thought to this, and if you made a presentation the next time, that would
+be very good, on this: What is a purely optical perspective? Yes, eh? Think about it... Perspective
+by vanishing point, the vanishing point instead of the vanishing axis, what difference is there
+between [them]? But we would have to, that would lead us to define... But your remark is
+correct. I would translate it by saying that the problem of perspective in the 18th century… in the
+17th century, must be linked precisely to this development of pure optical space… Yes?
+
+Anne Querrien: [Comments inaudible] [Deleuze: I can't hear.] [Comments inaudible] [Deleuze:
+Completely, yeah, completely] It made me think of Nicholas of Cusa [Comments inaudible;
+these comments apparently address something about Nicholas of Cusa on the planet Mars]
+
+Deleuze: Absolutely. I wonder there, in fact, Nicholas of Cusa, I was no longer thinking about
+him, but wouldn’t that be a kind of hinge point? There are these hinge-guys, the Renaissance
+hinge, Classical age, very, very...
+
+Anne Querrien: [Comments inaudible]
+
+Deleuze: There, at this astronomical level, there, I don't know enough. But at the astronomical
+level, that would arise, the constitution of a pure astronomical space would emerge, of a pure
+optical space in astronomy.
+
+So, we would have to start over again, but all that would be too tiring, because we would already
+have to start again with Greek astronomy, trying to show how the models of Greek astronomy
+have tactile referents. I am sure it would be possible. It’s not an optical space, their astronomy.
+Oh, yes! We should do that! Don't you want to do this?... Yes. [Deleuze laughs] Okay, well, I'm
+going to run my errand. Wait for me! [Pause in the session; 94:15]
+
+Deleuze: Fine, we're not going to…, we're going to finish quickly, because I can feel your
+extreme fatigue and tension.
+
+                                                                                                       20
+
+Understand all that, don't you feel we’ve completed it? I mean, we will have to see, I think, next
+time, we will have to come back to this theme of infinity -- I haven’t gotten to it yet -- but
+precisely, because there, ontology, the problem of ontology, is directly linked to this question of
+infinity. And yet again, when we say that -- I don't know, that would really be my only goal, for
+you to consider all these people really as creators, well yes, if I get to that, yes -- understand that
+the question is not: is it true or is it false? If I tell myself, hey, I'm going to conceive of the
+activity of thought as if it occurred in a purely mental optical space, you will tell me, well, try it,
+we'll see what comes from that! I mean, that’s not the question: are they right or aren’t they
+right? The question is, as they say, it must be done! It must be done. (Il faut le faire) If they
+succeed, it will be what we can call a "great moment", in a non-Hegelian sense, that is,
+something that is neither outdated (dépassé), nor surpassable (dépassable); it will be a very great
+moment in the history of thought.
+
+And once again, today, if the attempt is again undertaken, if it happened to be undertaken again,
+it obviously could not be done on the same basis as in the 17th century. So, I would say that the
+true disciples of the 17th century today are those who undertake this again, but by quite other
+means. As a result, we do not even realize that they are, in some ways, Cartesian or Spinozist,
+etc. But, at the same time, those of you who might react with, “ah well! here I am”, what I dream
+about in order to answer the question, what I dream about is that we stop saying: “Oh, no! I'm
+not interested”, for the sake of another answer that would already be an answer, and not a
+question, which would consist in saying in advance the reasons why it may not interest someone.
+It’s obvious, for example, that the development of pure optical space is not the main problem for
+someone who has, for a thousand reasons, who has ties or a tactile sense, in such a way that his
+problem would be quite different.
+
+Someone pointed out to me earlier that, in fact, what I said about 17th century painting applied
+above all to Dutch painting, but obviously it did not apply to Italian painting. Italy, there too, like
+the Greeks, is not a people of light at all. Oddly, on this point, the Netherlands was the great
+people of light and optics. Strangely! Is it strange? No, not at all strange, I think. It's not that
+strange. If you think of the Dutch landscapes, it’s not strange at all that they’re the ones.
+
+In the end, the sun is not light, is it? It's the sun, it's a dirty thing, the sun, because it creates
+reflections. And, the great light painters have always hated reflections. Take a painter like
+Cézanne. So then, yes, he is not only a painter of light, but there is a strong light in him. He
+really learned the lessons of the 17th by other means. But Cézanne precisely, when he speaks of
+light, it is not at all the sun. Sometimes he talks about the sun, he likes it, but ... Other than that,
+for him, the secret of light is not in the sun, it is within the gray day. Cézanne’s famous texts on
+the gray day, which is very suitable for the Netherlands, that’s the receptacle of light. If it has a
+receptacle, it's gray day.4
+
+Claire Parnet: The sun creates forms?
+
+Deleuze: The sun creates forms, yes, or it creates something else which is no longer form but
+which is...
+
+Parnet: Is that why Italian painters have a pure architecture?
+
+                                                                                                      21
+
+Deleuze: What I am saying does not apply to Italian painting, but precisely Italian painting, it is
+not what makes…
+
+A student: [Inaudible] …were not interested in light.
+
+Deleuze: Ah yes, there are some who are not interested.
+
+The student: [Inaudible comment]
+
+Deleuze: Oh, no, there are a lot of them [who are interested]. [Pause] There are a lot of them.
+
+The student: [Inaudible comments]
+
+Deleuze: What?
+
+The student: [Inaudible comments] … It's not that it doesn’t interest them.
+
+Deleuze: It's delicate, it's complex, you see. Fine, so here we go, let’s go back to our starting
+point, but we can go back to the starting point now with more strength, namely I was saying:
+Spinoza wants to pull us from the world of signs to bring us to what? I was saying – this whole
+time simply, I was trying to give a more concrete meaning to this -- he wants to draw us from
+this world of signs which is fundamentally variable, an associated world, an equivocal world, in
+order to bring us, in fact, to a kind of world of light. In some ways, substance, Spinozist
+substance is light.
+
+But what does that mean? Is it a matter of making signs clear? No. The signs cannot be clarified
+since their entire nature, it is in their very nature that they are variable, associative, equivocal.
+So, it’s really a matter diverting oneself away from the world of signs. It's about conquering
+another world, which is going to be the world of light, that is, the optical world. Finally, at the
+extreme, it should be said that the signs, no, these are not, these are not the optical space. There
+may be optical signs. So, what is this, this world, were it only the definition of the sign giving us
+...? Imagine a language that would be made of expressions: first, constant expressions; [Pause]
+second, systematic expressions; third and foremost, univocal, univocal expressions, that is,
+expressions for which each -- I can no longer say each sign, since the sign is within its equivocal
+essence – thus, for which each term of the expressions, each term would have a sense, and would
+only have one sense. That would be the world of light. That would be the mental world of light.
+This would be a language of pure univocity, a language made up of unequivocal expressions
+while our language is made up of equivocal signs.
+
+A question on this point: even when such problems are given to us, that gives us a jolt! I’d
+almost like you to have foreseen this jolt, namely, what is this strange mania that grips [Spinoza]
+in making a geometric presentation? What does he expect from geometry? What does he expect
+from this process? It is not just something casual (plaqué), this process. But then what? What
+does he want to tell us? It is obvious that for him, even if we limit ourselves to this -- in fact, it is
+even more complicated than that -- but even if we limit ourselves to this, the language of
+geometry is an essentially univocal language as opposed to everyday language and contemporary
+
+                                                                                                   22
+
+language. The language of this science is a univocal language. Henceforth, he will succeed in
+making a metaphysics exposed geometrically. He is horrified by all equivocal expressions.
+
+And once again, does that mean that there is no poetry? On the contrary! He makes a poetry of
+pure univocity. What is this poetry of pure univocity? It is precisely -- understand, it isn’t
+difficult to understand that there is an amazing creation -- a univocal language is not a language
+in which there is a meaning fixed once and for all. Think about this: our language is naturally
+equivocal, that is, every word I use has many meanings. So, if you understand me, it's because at
+the same time as I speak, you manage to determine the meaning, the sense in which I am using
+each word. But then, if I dare say, that's our natural or conventional language, but no matter.
+These are the conditions under which we speak.
+
+As a result, what is it to call for an unequivocal language? Well, it’s committing oneself to build
+it. It doesn’t arrive fully created! It’s committing oneself to building it, and to create a univocal
+language, it is not at all to choose one meaning for a word by saying, that will be the only
+meaning! That would be too easy! What would allow me to set a meaning, by saying: "it must be
+the only one"? An original meaning, I could always invoke an original meaning and say [that]
+"the word will only have this original meaning". [There’s] not much interest, because it will be a
+completely arbitrary, conventional decision. It will not prevent the word from continuing to be of
+such a nature that it will have several possible meanings, even if I neglect the other meanings.
+
+In fact, understand that an extraordinary creation is necessary to invent terms, and to invent
+meanings such that these terms will only have one meaning, and this meaning will be the only
+possible meaning of the term, all of this is entirely to be invented. As a result, when Spinoza tells
+us, I take substance, the word substance, as one meaning, in one and only one meaning, we must
+not believe that he favors a preexisting meaning of the word substance. The word substance was
+stated in several senses. What does this mean? It is clear, [in] all the philosophies, it is clear,
+there were spiritual substances. For example, I take Aristotle; there were purely spiritual
+substances, and then there were material substances. Moreover, there were beautiful material
+substances in several different senses, namely: there were substances which had no other
+material than local. There were local materials and other types of materials.
+
+Or else, in all classical theology, God is substance, creatures also are substances; it cannot be in
+one and the same sense. As we will say, "God is substance 'eminently'", therefore the word
+substance is said of God and creatures, but it is said of God and creatures "by analogy", St.
+Thomas said, that is, in different senses, these meanings being simply analogous. When Spinoza
+says: "I take substance in one and the same sense” and concludes: "there is only one substance",
+again, do not think that he is satisfied with isolating one sense of the word substance in order to
+give preference to it. He undertakes to do something quite different, namely: to invent a meaning
+of the word substance such that this meaning might be unique, and therefore, that there would
+only be one thing, that there only be one term that verifies this meaning. So, a language of
+univocity is not a ready-made language, which excludes equivocity. This is a language to be
+created starting from our equivocal language and in such a way that it releases you from
+equivocity.
+
+                                                                                                       23
+
+I'm choosing a very specific text by Spinoza that has been the subject of much comment. At one
+point in the Ethics, Spinoza said -- I am not giving too many references because my dream is so
+much for you to discover the texts that I quote, through your own reading of the Ethics; in any
+case, [it’s] close to the beginning, in the first two books of the Ethics, this will make you read at
+least two of them, if you want to find the text -- in the first two books of Ethics, Spinoza says
+this, a very, very curious, very beautiful expression: "If God ... If God had an understanding and
+a will" -- if God had an understanding and a will -- "the word ‘understanding’ and the word
+‘will’ should be understood more or less like the word ‘dog’ which sometimes designates the
+barking animal, sometimes the celestial constellation."5 This is a beautiful text; you must feel
+that it is at the heart of our problem. "If God had an understanding and a will, the words
+‘understanding’ and ‘will’ should be understood more or less like the word ‘dog’ which
+designates both the barking animal and a celestial constellation", the constellation of the dog.
+
+What is he telling us? -- The text is very rich. -- He is obviously telling us -- a wink, for those
+who know, but you know that -- for Descartes, for the Cartesians, God has an understanding and
+a will. The difference between us and God is that in God’s case, it’s an infinite understanding,
+while for us, it’s a finite understanding. At the level of the will, it's more complicated because
+our will, according to Descartes, is infinite. So, I am leaving the question of will aside which
+would take us too far. But in the end, God has an infinite understanding; we only have a finite
+understanding. From finite to infinity, it's not the same form. I mean, everything changes.
+
+In other words, understanding is a word in Descartes exactly like substance. You find in
+Descartes, because the same author is not completely aligned on a single level -- I told you
+earlier [that] Descartes was one of these philosophers of light -- that does not prevent him from
+remaining a Thomist; he remains a disciple of St. Thomas on a very precise point, namely the
+analogy of being: substance is stated in several senses. And with Descartes, we can clearly see
+that substance is stated in three senses. It is stated of God, it is stated of the soul, and it is stated
+of bodies. So, there are three kinds of substances which are substances only by analogy. It is not
+in the same sense that God and creatures are substances, and it is not in the same sense that
+spiritual creatures and bodily creatures are substances. So here, on this point, [while] a Thomism
+emerges from Descartes, it is entirely located prior to the 17th century on this point. Again, an
+author is not entirely ... Good.
+
+So, Spinoza says -- there, he marks well ... He says, inevitably, at that time, they will not be able
+-- and Descartes still belongs to the Middle Ages -- the Spinoza’s idea, because Descartes was
+not able to create or did not know how to create the conditions for a univocal language. To the
+extent that he grants understanding and will to God, this is inevitable; on this, he remains with a
+simple analogy. He does not have the means to create univocal language. He does not have the
+means to reach a univocal expression. We can clearly see what Spinoza wants. For Spinoza,
+"understanding" can only have one sense, and whether it is the understanding of God or the
+understanding of man, whether infinite or finite, there Spinoza goes very far. By this, I mean:
+this is one of the most innovative points in his work. He could have said, an infinite
+understanding is contradictory, that cannot exist. And he doesn't say that. He says: why yes, an
+infinite understanding can exist, but if it exists, if there is an infinite understanding, it is exactly
+in the same sense in which there are finite understandings. In other words, he is going to propose
+his idea which is very linked to a point of view of immanence, namely, finite understandings are
+
+                                                                                                        24
+
+parts of infinite understanding. And there is an adequacy of the part and the whole. It is in one
+and the same sense that the word “understanding” is stated: there is only one meaning for the
+word “understanding”.
+
+Henceforth, what does that mean? If infinite understanding, like the finite understanding, if these
+have the same meaning, that means a very simple thing: understanding is not part of substance.
+Understanding is a mode; understanding is a mode of thinking. So, substance has no
+understanding. The idea of a substance endowed with understanding is contradictory since
+understanding will be a mode of thinking. A substance can be endowed with thought, it even is
+necessarily so, but thought and understanding... These are not at all the same. Thought is an
+attribute of substance, of understanding... You see, that forces him to a kind of terminology that
+renews many things. I would ask you, why, and with what interest? It is precisely, under such
+conditions, that he can manage to constitute a language in which, whatever the word used, it will
+have only one meaning. This is on condition of making a whole system of invention in which
+this new meaning, the one meaning, is strictly invented, [with] understanding obviously taking
+on another meaning.
+
+As a result, I can now summarize Spinoza's very project from the point of view of a possible
+language: to manage to extract our everyday language from its fundamental equivocity and to
+manage to form univocal expressions. And once again, this involves poetry, creation; this will be
+a poetry of light. This will be a creation of univocity.
+
+But then, we are still getting nowhere because we had to make this long detour. Well, how are
+we going to get out of this domain of signs, since I remind you that these signs have three
+characteristics: variable, associative, and equivocal? At the same time as I say – I’ve stated the
+characteristics of the sign according to Spinoza, I realize that there is something that I did not say
+-- the characteristics, these are the characteristics of every sign; every sign is a bit of all that. It is
+variable, it is associated, and it is equivocal.
+
+But what are the kinds of signs? Are there several kinds of signs? Yes, maybe there are several
+kinds of signs, that is, how to break with the sign? With the signs, we would have to see their
+genre, to see if we can break with them. It is not enough to group together their characteristics.
+And the kinds of signs -- I would just like to end there today, and not even, I just want to indicate
+them -- because the kinds of signs, it seems to me there as well, by grouping texts together, it's
+up to you to recreate it; if you come up with another result, that's fine. This is just the problem
+I’m asking myself here: is it possible to constitute a theory of the sign according to Spinoza? But
+it seems to me that indeed, apart from distinguishing, apart from having defined the
+characteristics of the sign, he distinguishes three kinds of signs. Each kind has the three
+preceding characteristics. These are not the same thing: the three kinds and the three
+characteristics. There we are.
+
+I would say, what does he call a sign? A first kind of sign is the following situation: I say, the
+sun is rising, or the sun is a hundred feet away. Here, according to my perception, I attribute a
+movement to the sun, a size to the sun, a distance to the sun, from me to the sun, etc. Well, I
+must operate according to the signs. What is a sign? My perception is therefore a sign. What
+does that mean, my perceptions are signs? My perceptions are signs, what does it mean? In fact,
+
+                                                                                                     25
+
+my perceptions, what are these? These are effects. How does Spinoza define ... It's imprints. He
+has an entire very simple theory of perception-imprint, namely: a perception, or -- as we saw the
+last time, I am not returning to this, I am just reminding you -- or an affection, an affectio, a
+perception or an affection, this is the same for him, it is the imprint of an external body on my
+body. That’s a sign. The imprint of an external body on my body is a sign, in other words, a
+stamp mark in wax. This is a sign. Well, the bodies, the external bodies act on my body in this
+way. For example: The sun -- external body -- acts on my body under such conditions, that is,
+according to its imprint, under such conditions that I see it at a particular distance, with a
+particular size, etc. ...
+
+So, I would say, the sign is the imprint of the external body on mine, that is, it is the effect of an
+external body, on my body. You notice that, how, what is the cause there? What makes the sun
+do this on my body? I do not know. I would have to know the sun for itself to know through
+what cause, and by virtue of what cause, it acts on me this way. But this knowledge, at the point
+we have reached, I absolutely do not have it. I simply get the visual image, the heat image, the
+thermal image, etc., of the sun. And I say oh! The sun is hot! And I say Ah! the sun is a round
+disk, etc., etc. All of this is the imprints of the sun on my body.
+
+In short, in my situation, I only know effects. I only know of effects, and the effects of the
+imprints on my body which are detached from their cause. I only know of effects separated from
+their cause. There you have my situation. This is the situation of perception. It’s through this,
+these effects which I perceive, I perceive the sun according to the effect of the sun on my body. I
+do not know the causes of this effect, that is, I do not know how this imprint is produced. I have
+the imprint, that's all. We will call this first kind of sign, these signs: imprint-signs.
+
+Let’s look for a complex word here, for if we were to make a sort of logical typology of signs,
+that would be linked with Peirce’s [typology], precisely which has nothing to do with it, but it
+would be all the more interesting to see to what extent Spinoza endures the comparison. I would
+say, these are indicative signs. And why would I say indicative? Fortunately, because Spinoza
+uses the word. You will find it in book 2 of the Ethics, "indicare". In fact, he tells us, but careful,
+this is very important, he tells us: "when the sun acts on my body, the imprint it leaves on my
+body indicates more", not only, but "indicates more the nature of my body affected by the sun
+than the nature of the sun". It’s in this way that the imprint is a sign, separate from its cause. The
+cause: it is the nature of the sun, but precisely the imprint does not tell me the nature of the cause
+of the sun; it tells me much more about the nature of the effect, that is, my body, notably, that it
+is reheatable by the sun.
+
+Take the famous example by Kant in a completely different [text], "The sun melts... hardens the
+clay, and melts the wax." An admirable example, since you know that it is not an example... I
+have long believed, I am saying, you know, but no, I had an illumination one day, because I
+learned in a, in a, as we say, in a dictionary, that a method for making steel, a very old method,
+used both clay and wax. As a result, I understood Kant’s example better -- I seem to be talking
+about something else but not at all -- Kant tells us, in an example he invokes for entirely other
+reasons, admire this, it's quite weird! "The sun hardens the clay and melts the wax." It’s the
+living commentary of Spinoza's idea, namely, the imprint informs us much more about the nature
+of the affected body than about the nature of the affecting body, since in this case, the affecting
+
+                                                                                                    26
+
+body is the sun , but it has two opposite effects depending on the nature of the affected bodies.
+The wax is constituted in such a way that it melts under the action of the sun while the clay dries
+and hardens. Fine, so the effect, Spinoza tells us, the imprint, the imprint-sign indicates more the
+nature of the affected body than the nature of the affecting body. I would say, this is the status of
+signs that we can call, that we should henceforth call "indicative" signs, indicative signs. Fine,
+here we have a first group of signs, imprint-signs.
+
+A second group of signs. Understand: already, I am a sad creature. When he spoke of the world
+of signs that leaves us in the dark, that we don't even know how to live, that we are perpetually
+panicked, well, that now becomes a bit clearer. We are already influenced by all these things that
+occur to us. It is as if we were deaf, blind, etc. ... We are influenced by indicative signs, that is,
+they tell us much more about the states of our body than the nature of things. This is awful! But
+furthermore, in this state, then, we have effects, and we are separated from any understanding of
+the causes.
+
+What is left for us to do, because we do not want to accept our misery. We always pretend to be
+clever, and we will say that we grasp everything anyway! We are going to say that the real
+reason for things is "the idea of the effect" and that it [the idea] is the one that contains all the
+secrets. Since we are so limited, since we have no idea of the causes, since we are reduced to the
+imprints of things on our body, we will brandish the idea of the imprint by saying that is what
+contains the secret of everything. That is, the sun is made to warm me, the sun is made to warm
+me, man's insane pride. [Interruption of recording] [2:06:11]
+
+… At that point, when you erected this myth of final causes -- I am going quickly here because I
+am going to give you Spinoza’s outline -- you have, you live in a world where you perpetually
+sense that not only things are created for you, but that someone commands them or they
+command you yourself as a function of a benefit (bien), that the sun says to me: warm yourself in
+my rays; that God tells me: warm yourself in the sun. In other words, the illusion of final causes
+introduces you directly into the imperative signs which are the second category of signs.
+
+See how we go from indicative signs to imperative signs. It happens all by itself! And these
+imperative signs, we have analyzed them during all our previous sessions, this is what type?
+Adam does not know, he does not understand anything, he ignores the interplay of causes. He is
+reduced to the effect of the apple on his organism. What is the imprint of the apple on his body?
+It’s because the apple is poisoning him. It breaks down his relations. He sees it as a final cause.
+He creates a final cause from the idea of effect, and he says: it is God's command, do not eat of
+the fruit! See, from the indicative sign, you pass to the imperative sign through the illusion of
+purpose (finalité). This is your way out, in this world of signs: Constructing purposes. But how
+are purposes dangerous? They distribute your commands and forms of obedience. In the world of
+purposes, you do not stop ordering, commanding or obeying, and both at the same time. And
+that’s the poison of the world, you don’t stop obeying, obeying, commanding, commanding, or
+both at the same time. [Pause]
+
+A third and final point: in such a world, once it’s said that these signs, each of them, the
+indicative signs and imperative signs, never cease entering into the regime of variability, into the
+regime of associativity, etc., this never stops precisely multiplying the meaning of words. So, the
+
+                                                                                                      27
+
+sun, in what sense? It is: is this the fruit? In what sense? Is this in the sense of Adam's fruit? Is it
+in the sense of fruit, on the contrary, of paradise, of the good fruit? The bad fruit? Are things
+going to be distinguished by good and bad, by good and evil? etc., etc. What does all that mean?
+We find ourselves in a world where things and words are constantly and necessarily interpreted.
+
+And interpretation becomes the fundamental activity of understanding precisely because
+understanding understands nothing about anything. It’s a situation, if you will, that is tragic: you
+interpret when you understand nothing. What a lesson! There has never been such a beautiful
+critique of interpretation! You interpret; what does it mean to interpret? It basically means that
+the signs are equivocal. So, you have to interpret well since the signs are equivocal. Well then,
+we interpret. If you say, if you say the sea (mer), well, no, it can't be the sea! Here, well, it must
+be the mother (mère)! See? If you say just anything at all, well, you are interpreting. Why?
+Because the basis... it’s the people of interpretation. It's very simple, you know. These are people
+who never experience things for their own sake. These are people who have memory, memory;
+they operate on memory. I mean, something always must remind them of something else.
+
+And there, if there is a miserable life, this is it. This miserable life is really the guys who spend
+their time... They can't see anything without it reminding them of something. [Laughter] This is
+terrible! Each of us knows [people] like that. I know some. Whatever you say to someone, it
+reminds them of something. We want to tell him, spare me from your stupid memory (ta
+mémoire de con)!
+
+It’s not that I’m not making a case for the theme: everything is new! It's not that! I’m not saying
+that everything is new, I’m saying: the first lesson of wisdom is to consider something in itself
+for what it is. It’s not whether it’s new or not new. It's ... this thing, there, where does it stop?
+Where does it start? etc. ... But this kind of viscous filament there, through which one thing
+recalls another thing... You know, I don't know if that has the same effect on you; it makes me
+think of a catastrophe. There are people who today – well, today, during all eras -- write only like
+that. Obviously, that makes for a ready-made literature, because it is "associative" literature, once
+one says that when one thing can always bring up something else, what’s left is to unwind the
+thing, and one quickly creates 500 pages! It's not complicated! At that point, it gets huge, but it’s
+hard, it’s hard. It's an odd sort of literature, this literature, yes, of... I don't know what; it is the
+literature of memory. Never, never has a writer of genius had the slightest memory. I say this
+even about those to whom we attribute it, I mean even Proust, and above all Proust has never
+worked on memory.
+
+So, it’s odd nonetheless, understand? It’s all one: the associative chain and interpretation. You
+say a particular word. Ah! What other word does that remind you of? Oh! But we would like ... I
+don't know what you would like. It’s not that, it’s not that one has to deny that it reminds us of
+that! Well, obviously, that reminds us, if we place ourselves, if we put ourselves in these
+conditions, if we put ourselves in these conditions of associativity. Well yes, we can always put
+ourselves in the most stupid conditions possible! One can even wallow, one can show off the
+feebleness. You can make a measuring device out of it; that always works. Why wouldn't it
+work? These associations, they exist! It's a matter simply of knowing what you want. Do we
+want to escape from it, or do we want to live and die there? We will have time to live and die
+there because... and then we will die as even more of cretin than when we were born. Well, it’s
+
+                                                                                                       28
+
+all, uh ... fine... Breaking associations, that’s always been like that, all the reasons for life, and all
+the reasons for art! And there, in this respect, art and life are strictly the same! If we do not break
+the associations, well, we grow senile in our corner, it's quite fine! You can grow senile like that
+for ten, twenty, forty years, as long as you hold on. It’s not difficult. You understand?
+
+So, at that point, it’s better to jump completely to the end, jump completely to the end, that is, to
+do Beckett’s stroke of genius. To say, okay, fine, but we're going to settle down at the end, that
+is, when the associations start when, they start to, [Deleuze bursts out laughing] they start to slog
+through one’s noggin, so, then er, er, er ... Fine, there, it's very good because that is the final truth
+of the association. If you take this path, you end up with that, and at that point, Beckett can then
+give us his great lesson of life and joy, telling us: all that’s quite funny! Obviously, but in the
+end, beware of all those things. I would say the third kind of sign is the "interpretative" signs.
+
+Comtesse: One can [go back] to Rousseau’s problem from the last meeting. If Rousseau had only
+a presentiment of the materialism of the sage, if he only had a presentiment of acquired selection
+and the composition in the acquired selection, that’s perhaps because, and the Confessions may
+bear witness to this, he was precisely within the effectiveness of the traces in which everything
+reminded him of something else! But [he wasn’t] in the selection. The object of present desire
+only reminds him of the trace object of an old desire, and that goes onward to infinity. The
+remarkable case is Mademoiselle de Lambercier, the virile instigator, where any woman reminds
+him of this trace. We can multiply the examples. There would be something between a
+disjunction between the effectiveness of the memory traces, and the active selection according to
+events.
+
+Deleuze: Quite right, yeah, yeah, I would say just to qualify this, just from my point of view, you
+choose the most beautiful text, Rousseau's Confessions. From my point of view, it is fascinating,
+the Rousseau case, because he got away with it while young, and as long as he was young, and as
+long as he did not crack, it’s a very, very impressive case, Rousseau. He escapes from it, because
+he plays, the associative chains, they play completely on him! But in a way, he dominates them
+precisely by an art of selection. He builds up situations, so that goes all the way to the buffoon,
+he is the buffoon. He is, he becomes a kind of buffoon character who is fantastic, who is almost
+Dostoevskian, all things considered, magnificent. And then that cracks, then that cracks, that
+cracks with the misfortunes that happen to him, that cracks, and I told you, what seems to me so
+moving in the Confessions, what makes it a great, great book, is the way in which something, I
+don't remember exactly, but let's admit the first five books, are a kind of hymn to joy, a kind of
+joy, a joy of living, a kind of enormous laugh in which Rousseau creates his character and shows
+us the secret of fabricating the Rousseau character in a kind of, not inauthentic, then in a kind of
+absolute authenticity.
+
+And then, little by little, so it’s then that a process of an entirely different kind begins. The
+associative channels no longer start playing at all, in an art specific to Rousseau who keeps the
+selection, but there is no longer any selection. And we are really witnessing the formation of a
+paranoid process which is triggered through all this. And it's like a change of color! From book
+to book, in the Confessions, it’s like the shadows come, it gets dark, and it ends in absolute
+darkness. Here, in this regard, it's a book of, if we were talking about "colors" in the Confessions,
+
+                                                                                                                  29
+
+it's fantastic how, from a certain moment, everything becomes black, everything becomes... Fine,
+the rest for the next time. [End of the session] [2:17: 51]
+
+Notes
+
+  In concert with the translation in Spinoza: Practical Philosophy by Robert Hurley, I have chosen to translate
+Deleuze’s “rapport” as relation, since Deleuze is gradually developing an argument, from one lecture to the next, of
+the importance of differential relations in both philosophical and mathematical terms.
+  The onomatopoeia to which Deleuze refers is the close resemblance between the word for “bull”, boeuf, and
+“bellow”, beugle. While a “cow”, vache, may also “bellow”, beugle, the onomatopoeia is gone.
+  Deleuze’s reference is certainly to Heinrich Wölfflin, Principles of Art History, to whom Deleuze refers in Francis
+Bacon. The Logic of Sensation, trans. Daniel W. Smith (London: Continuum, 2003), p. 190 note 7, and elsewhere.
+  On grayness in Cézanne, see the final Spinoza session which is also the introduction to the seminar on painting, 31
+March 1981.
+  See Spinoza: Practical Philosophy, p. 79; Spinoza: Philosophie pratique p. 89.

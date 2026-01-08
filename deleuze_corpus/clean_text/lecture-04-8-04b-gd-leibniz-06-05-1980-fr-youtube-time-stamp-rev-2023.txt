@@ -1,0 +1,897 @@
+1
+
+Gilles Deleuze
+
+Leibniz : La Philosophie et la Création des Concepts, 1980-4
+
+4ème séance, 06 mai 1980
+
+Transcription complétée avec référence au vidéo YouTube,[1] Charles J. Stivale
+
+Partie 1
+
+Alors, premier point : je crois que Georges Comtesse désirait parler d’un texte un peu bizarre,
+mais il y a beaucoup de textes bizarres de Leibniz, où Leibniz… mais je ne vais pas dire ce que
+c’est d’avance… Voilà.
+
+[Georges Comtesse, étudiant fidèle aux séminaires de Deleuze, lit des extraits d’un livre non pas
+de Leibniz, mais dans lequel Leibniz avait fourni quelques remarques, intitulé Traité sur
+quelques points sur la religion des Chinois par le révérend père Nicolas Longobardi (1701)] 0
+:25-9 :50]
+
+Deleuze : C’est très bien. Je voudrais dire qu’il a très, très bien rendu compte, il me semble. [10
+:00] Je voudrais dire seulement deux remarques relativement insignifiantes par rapport à ce que
+Comtesse a dit. La première est un thème assez courant à cette époque-là, la fin du dix-septième
+(siècle) : un type de confrontation entre la pensée chrétienne et le pensée chinoise. Par exemple,
+il y a un texte de Malebranche qui est assez curieux et qui est l’entretien… le titre, c’est à peu
+près, je ne sais plus, quelque chose comme « Entretien d’un philosophe chrétien et d’un
+philosophe chinois, » où il crée une espèce de dialogue, et où il y a des thèmes très comparables
+à ce que tu as développé à propos de Leibniz.
+
+Et je me dis, qu’est-ce qui le rend urgent ? Bien sûr, il y a toutes les données du monde à la fin
+du dix-septième siècle qui fait que déjà il y a une grande confrontation Orient-Occident. Alors, il
+faudrait comprendre historiquement et géographiquement pourquoi la fin du dix-septième siècle
+marque un point culminant [11 :00] dans cette confrontation.
+
+Mais, d’autre part, il y a une raison anecdotique, une raison proprement philosophique qui
+redonne un intérêt supplémentaire à cette confrontation pour les philosophes à la fin du dixseptième siècle. C’est finalement le grand absent de ce genre de texte, parce qu’à leur faveur
+d’une confrontation avec la pensée chinoise, soit pour la condamner, soit – comme tu l’as très
+bien montré dans le cas de Leibniz – pour s’en approprier quelque chose, le grand absent de làdedans, c’est celui qui n’est pas cité, mais celui qui est en jeu, c’est évidemment Spinoza. Ce
+qu’ils veulent montrer finalement, et à commencer par les Jésuites, ce qu’ils veulent montrer,
+c’est que Spinoza ne pense pas comme un Européen, comme un Occidental, mais pense comme
+un Chinois, et c’est une accusation très grave.
+
+                                                                                                      2
+
+Or tout ça sur le thème, la matière, l’athéisme, etc., c’est directement dirigé contre le philosophe
+chinois, [12 :00], c’est un masque derrière lequel ou sous lequel on dénonce le spinozisme, qui à
+ce moment-là a un très, très grande influence en Europe et qui est considéré comme la pensée la
+plus dangereuse. Alors, il y a tout un règlement de comptes avec Spinoza qui est assimilé à une
+pensée complètement exotérique, vous comprenez ? Mais ça ne nuit en rien ce que dit Comtesse
+; en effet, tout est centré sur les rapports vie-matière. Est-ce qu’il y a une vie-matière qui est
+suffisante, et l’athéisme, qu’est-ce que c’est que l’athéisme ?
+
+Eh ben, ce que j’ai à faire d’ailleurs aujourd’hui, ce que je voudrais faire va un peu dans ce sens.
+On va voir. Ce que je voudrais dire… La dernière fois, on avait terminé sur cette question très
+amusante, très importante, très amusante, très importante, [13 :00] très amusante, très importante,
+[Rires] la question : qu’est-ce que c’est que la compossibilité, et qu’est-ce que c’est que
+l’incompossibilité ? Qu’est-ce que c’est que ces deux relations, la relation de compossibilité, la
+relation d’incompossiblité ? Comment les définir? On a vu que ça nous posait toutes sortes de
+problèmes et que ça nous lançait précisément dans l’exercice, même sommaire, de l’analyse
+infinitésimale.
+
+Aujourd’hui, je voudrais faire une troisième grande rubrique qui consisterait à montrer à quel
+point Leibniz à la fois organise d’une manière nouvelle, et bien plus même, crée de véritables
+principes. Créer des principes, ce n’est pas une besogne tellement courante. Si bien que ce
+troisième grand chapitre d’une introduction à une lecture possible [14 :00] de Leibniz, je
+l’appellerai: « déduction des principes ». Justement, que les principes soient objets d’une
+déduction particulière, d’une déduction philosophique, ça aussi ça ne va pas de soi. Et j’essaie de
+les numéroter parce qu’il y a une telle richesse des principes chez Leibniz, il invoque tout le
+temps des principes en leur donnant, au besoin, des noms qui n’existaient pas avant lui. Pour s’y
+repérer dans ses principes, il faut retrouver le cheminement de la déduction leibnizienne.
+
+Et je dis, le premier principe, quitte à, de temps en temps, retrouver des choses qu’on a vues,
+donc j’irai très vite, donc premier principe que Leibniz se donne avec une justification rapide,
+c’est le principe d’identité. C’est le minimum, le minimum qu’il se donne, le principe d’identité.
+Donc, je voudrais faire presque [15 :00] des rubriques : Qu’est-ce que c’est que le principe
+d’identité? Je dirais, voilà, tout principe est une raison, et le principe d’identité, je peux dire, A
+est A. Une chose, c’est la chose. Une chose est ce qu’elle est. J’ai déjà un peu avancé. Une chose
+est ce qu’elle est ; je continue à ne rien dire, mais une chose est ce qu’elle est, c’est mieux que A
+est A. Pourquoi? Parce que ça montre qu’elle est la région gouvernée par le principe d’identité.
+Si le principe d’identité peut s’exprimer sous la forme « une chose est ce qu’elle est », c’est que
+l’identité consiste à manifester l’identité propre entre la chose et ce que la chose est.
+
+Vous me diriez, ça ne va pas, ça. Si ! Si ! Si ! Si ! Car si l’identité régit le rapport de la chose et
+de ce qu’est la chose, à savoir ce que la chose est identique à la chose, et la chose est identique
+[16 :00] à ce qu’elle est, je peux dire, qu’est-ce que c’est que la chose? Ce qu’est la chose, ce
+qu’est la chose, tout le monde l’a toujours appelée l’essence de la chose. Je dirais que le principe
+d’identité, là directement, c’est la règle des essences, la règle des essences, ou ce qui revient au
+même, du possible. En effet, l’impossible, c’est le contradictoire. Le possible, c’est l’identique.
+Si bien que, dans la mesure où le principe d’identité est une raison, une ratio, ratio en latin,
+[Deleuze l’épèle], dans la mesure où le principe d’identité est une ratio, quelle ratio ? C’est la
+
+                                                                                                         3
+
+ratio des essences ou, comme disaient les latins, ou la [17 :00] terminologie du Moyen Age bien
+longtemps avant: ratio essendi, la ratio essendi, [Deleuze l’épèle], à savoir, la raison comme
+raison d’être. Voilà. [Pause]
+
+Je prends ça comme exemple typique parce que je crois, encore une fois, j’ai essayé de le dire la
+dernière fois, que c’est très difficile de faire de la philosophie si vous n’avez pas une certaine
+certitude terminologique; simplement, ce que je dis, c’est que cette certitude terminologique,
+c’est comme pour les mathématiques bien que [quelques mots indistincts]. Mais cette certitude
+terminologique, ne vous dites jamais que vous pouvez vous en passer, mais ne vous dites jamais
+qu’elle est difficile à acquérir. C’est exactement l’équivalent -- c’est ça que je voudrais faire,
+c’est pour ça d’ailleurs que ceux qui n’aiment pas Leibniz [18 :00], ne l’aiment pas – c’est
+exactement l’équivalent des gammes au piano. C’est exactement l’équivalent de ce qu’on appelle
+au piano un exercice. Bon.
+
+Or ce n’est pas du tout difficile à acquérir. Mais si vous ne savez pas assez précisément la
+rigueur des concepts, c’est-à-dire le sens des grandes notions, c’est très difficile de… [Deleuze
+ne termine pas la phrase] Il faut prendre ça comme exercice. Bon, je crois que les pianistes, ils
+font ce qu’on appelle « les études », ils en font trois heures par jour. Les philosophes, c’est
+normal qu’ils aient leurs gammes à eux, et leurs gammes à eux, c’est leur piano mental. C’est
+vraiment un truc pour… Il faut chanter l’air des catégories, il faut chanter, il faut savoir ce que
+c’est les catégories, il faut savoir que c’est que les principes, etc. Sinon, ce n’est pas grave de ne
+pas le savoir, mais ça peut être gênant [19 :00], c’est gênant. A ce moment-là, sinon, vous
+tournez en rond beaucoup plus. Vous n’avez pas fait vos gammes. Alors l’erreur, c’est d’avoir
+foutu les examens sur les gammes. Mais ce n’est pas bien, ça. Mais, sinon, si vous preniez ça
+vraiment comme des exercices de piano, moi, je crois que … bon. L’histoire de la philosophie,
+vous comprenez, elle change à ce moment-là, il me semble, parce que l’histoire de la
+philosophie, c’est exactement comme… L’histoire de la philosophie, elle ne peut être faite que
+par des philosophes ; or, hélas, elle a été prise en main par les professeurs de philosophie, et ça
+ce n’est pas bien parce qu’ils en ont fait une matière d’examen et non pas une matière d’études,
+de gammes. Mais quand Debussy fait ses études de piano, il donne des exercices plus ou moins
+difficiles, en effet ; c’est ça, il faut prendre ça comme ça. [Pause] Vous comprenez ? [Une
+étudiante près de Deleuze répond, « Eh oui, d’accord »]
+
+Alors, bon, alors voilà, je dirais dès lors, [20 :00] supposons que même pour varier les exercices,
+je dis chaque fois que je parle d’un principe selon Leibniz, je vais lui donner deux formules,
+deux formulations, une formulation – j’aurais dû, si j’avais su, si j’avais pu, si j’avais su assez de
+latin, j’aurais dû faire tout ce cours en latin [quelques commentaires des étudiants] ; cela aurait
+été tout un autre exercice. Vous auriez tout compris d’ailleurs, vous savez ? Vous ne savez pas ce
+que vous savez ; seulement, justement, sans le savoir, vous ne savez plus rien [Rires] – Je dirai,
+pour chaque principe, je vais donner une formulatio vulgaris, communis, c’est-à-dire une
+formulation vulgaire et une formulation savante. Vous me suivez ? Et puis, on va voir, pourquoi
+j’ai envie de faire ça ? Parce que je me dis, ça serait un moyen très bon au niveau des principes
+de poser le rapport nécessaire entre la pré-philosophie, pré-philosophie, et la philosophie, ce
+rapport d’extériorité où la philosophie [21 :00] a besoin d’une pré-philosophie.
+
+                                                                                                     4
+
+Formulation vulgaire du principe d’identité, je dis, bon, on la tient. La formulation vulgaire, c’est
+« la chose est ce que la chose est », identité de la chose et de son essence ; le principe d’identité,
+le principe d’identité règle des essences. Vous voyez que déjà, dans la formulation vulgaire, il y
+a beaucoup de choses qui sont impliquées. Formulation savante ou technique du principe
+d’identité, on l’a vue, donc je la regroupe là, à ce moment-là, et je ne la développe plus du tout,
+c’est toute proposition analytique est vraie. C’est plus complexe, eh ? Toute proposition
+analytique est vraie. En effet, qu’est-ce qu’une proposition analytique? C’est une proposition où
+le prédicat et le sujet sont identiques. Une proposition analytique est vraie : A est A, c’est vrai.
+[22 :00]
+
+Vous vous rappelez que, en allant dans le détail des formules de Leibniz, on peut même
+compléter la formulation savante. Toute proposition analytique est vraie soit deux cas: soit par
+réciprocité, soit par inclusion. Exemple de proposition de réciprocité -- encore une fois, je ne
+reviens pas, je recycle uniquement pour que vous ayez, pour ceux que ça intéresse, votre table de
+principes complète -- exemple de proposition de réciprocité : le triangle a trois angles. Avoir
+trois angles, c’est cela que le triangle est. [Pause] Proposition deuxième cas, non plus réciprocité,
+mais inclusion – donc toute proposition analytique est vraie soit par réciprocité, [23 :00] soit par
+inclusion – c’est, cette fois-ci, le triangle a trois côtés. En effet, figure fermée ayant trois angles
+implique, enveloppe, inclut avoir trois côtés. On dira que les propositions analytiques de
+réciprocité sont objets d’intuition, et on dira que les propositions analytiques d’inclusion sont
+objets de démonstration. [Pause]
+
+Je regroupe le tout, je termine en disant sur ce premier point, en disant, bon, vous voyez, principe
+d’identité, règle des essences, ou du possible, ratio essendi, à quelle question répond-il? Vous
+vous rappelez, j’ai essayé de le dire : quel cri auquel [24 :00] répond le principe d’identité? Le
+cri pathétique qui constamment apparaît chez Leibniz et qui correspond au principe d’identité,
+c’est pourquoi quelque chose plutôt que rien? Qui est le cri de la ratio essendi, de la raison
+d’être. S’il n’y avait pas l’identité, une identité conçue comme identité de la chose et de ce qu’est
+la chose, à ce moment-là il n’y aurait rien. Voilà, vous voyez, c’est bien, on a déjà fait un
+principe. [Pause]
+
+Deuxième principe: principe de raison suffisante, [Pause] [25 :00] principe de raison suffisante.
+[Pause] Ça sera quoi, cette fois-ci ? On a vu assez de choses ; je peux encore aller vite. Ça nous
+renvoie à tout le domaine que précisément on a repéré comme étant le domaine des existences.
+La ratio correspondante au principe de raison suffisante, ce n’est plus la ratio essendi, la raison
+des essences ou la raison d’être, c’est la ratio existendi, la raison d’exister. Ce n’est plus la
+question: pourquoi quelque chose plutôt que rien puisque le principe d’identité nous a assuré
+qu’il y avait quelque chose, à savoir l’identique. [26 :00] Ce n’est plus: pourquoi quelque chose
+plutôt que rien, mais c’est pourquoi ceci plutôt que cela? Expliquez-moi pourquoi plutôt ceci que
+cela. [Pause]
+
+Ratio existendi, principe de raison suffisante, quelle en serait l’expression vulgaire? On l’a vu :
+toute chose a une raison. Il faut bien que toute chose ait une raison. [Pause] Quelle serait
+l’expression savante qui va nous faire comprendre : toute chose a une raison, pourquoi plutôt
+ceci que cela, c’est-à-dire toute chose a une raison d’exister ? Vous voyez qu’on est tout à fait en
+dehors du principe d’identité là, en apparence. Pourquoi? Parce que [27 :00] le principe
+
+                                                                                                        5
+
+d’identité dit et concerne l’identité de la chose et de ce qu’elle est, mais il ne dit pas si la chose
+existe. Le fait que la chose existe ou le fait qu’elle n’existe pas, c’est tout à fait différent de ce
+qu’elle est. Je peux toujours définir ce qu’est une chose indépendamment de la question de savoir
+si elle existe ou si elle n’existe pas. Par exemple, je sais qu’il n’y a pas de licornes, la licorne
+n’existe pas, je peux dire ce qu’est une licorne. Donc il faut bien un principe qui nous fasse
+penser l’existant.
+
+Or en quoi est-ce que un principe qui nous paraît aussi bizarre, aussi vague que « tout a une
+raison » nous fait penser l’existant? C’est précisément en raison de la formulation savante qui va
+nous l’expliquer. On trouve cette formulation savante chez Leibniz sous l’énoncé suivant: toute
+prédication [28 :00] – prédication, ça veut dire l’activité du jugement qui attribue quelque chose
+à un sujet ; lorsque je dis «le ciel est bleu», j’attribue bleu à ciel et j’opère une prédication
+puisque bleu est dit « prédicat » -- l’énoncé de Leibniz est toute prédication a un fondement dans
+la nature des choses, [Pause] toute prédication a un fondement dans la nature des choses. On se
+dit, pourquoi pas ? Bon, c’est la ratio existendi. Ce n’est plus du tout la ratio essendi ; c’est la
+ratio existendi. Mais, on se dit, bon, d’accord, mais qu’est-ce que ça peut vouloir bien dire ?
+C’est un peu gênant.
+
+Essayons de mieux commenter, toute prédication a un fondement dans la nature des choses. Ça
+veut dire: tout ce qui se dit d’une chose, [Pause] [29 :00] bon, on laisse entre parenthèses, tout ce
+qui se dit d’une chose, qu’est-ce que c’est ? C’est la prédication. L’ensemble de ce qui se dit
+d’une chose, c’est la prédication concernant cette chose, tout ce qui se dit d’une chose est
+compris, contenu, inclus dans la notion de la chose. Voilà le principe de raison suffisante. Vous
+voyez que la formule qui paraissait innocente tout à l’heure, toute prédication a un fondement
+dans la nature des choses, si on la prend à la lettre, elle devient beaucoup plus étrange: tout ce
+qui se dit d’une chose doit être compris, contenu, inclus dans la notion de la chose.
+
+Alors, tout ce qui se dit d’une chose, c’est quoi? Premièrement, je dirais, c’est l’essence. En
+effet, l’essence se dit [30 :00] de la chose. Seulement voilà, à ce niveau-là, il n’y aurait aucune
+différence entre raison suffisante et identité. Et c’est normal car la raison suffisante reprend tout
+l’acquis du principe d’identité, seulement il va y ajouter quelque chose. Qu’est-ce qu’il ajoute ?
+C’est que ce qui se dit d’une chose, ce n’est pas seulement l’essence de la chose, c’est
+l’ensemble des affections et des événements qui se rapportent à la chose, ou appartiennent à la
+chose. Donc, non seulement l’essence sera contenue dans la notion de la chose, ce qui
+correspond au principe d’identité, mais le moindre des événements ou la moindre des affections
+qui concernent la chose, c’est-à-dire qui s’attribuent avec vérité à la chose, [31 :00] va être
+contenus dans la notion de la chose.
+
+On l’a vu, on n’a pas le choix -- c’est le grand thème de Leibniz sur lequel je suis resté, donc je
+peux à nouveau faire un regroupement rapide -- on l’a vu, franchir le Rubicon doit, qu’on le
+veuille ou non, il faut bien que ce soit contenu dans la notion de César ; pécher, il faut bien …
+tout ça, c’est des événements, franchir le Rubicon, pécher, manger la pomme, etc., c’est des
+événements. Eh bien, il faut bien qu’ils soient contenus. Les affections du type aimer, haïr, il faut
+bien que ce soit contenu dans la notion du sujet qui éprouve ces affections. En d’autres termes,
+chaque notion individuelle – et l’existant, c’est précisément l’objet, le corrélât d’une notion
+individuelle – chaque notion individuelle [32 :00] exprime le monde. On a vu pourquoi, de
+
+                                                                                                      6
+
+proche en proche : c’est ça, le principe de raison suffisante. Donc, tout a une raison signifie que
+tout ce qui arrive à quelque chose doit être contenu de toute éternité dans la notion individuelle
+de la chose.
+
+Ce pourquoi, la formulation définitive du principe de raison suffisante est toute simple: encore
+une fois, toute proposition vraie est analytique, toute proposition vraie est analytique – voyez, en
+effet, c’est une des conséquences très formidables -- si c’est vrai, puisque, en effet, toute
+proposition vraie, par exemple, toute proposition qui consiste à attribuer à quelque chose un
+événement qui s’est effectivement produit et qui concerne le quelque chose –, eh bien si c’est
+vrai, il faut bien que [33 :00] l’événement soit compris dans la notion de la chose.
+
+Quel est ce domaine? On l’a vu -- et je ne fais là que du regroupement -- c’est le domaine de
+l’analyse infinie, [Pause] c’est le domaine de l’analyse infinie, alors que, au contraire, au niveau
+du principe d’identité, on ne se trouvait que devant des analyses finies. Il y aura un rapport
+analytique infini entre l’événement et la notion individuelle qui comprend l’événement. Bref, le
+principe de raison suffisante, je peux dire, c’est la réciproque du principe d’identité – seulement
+qu’est-ce qui s’est passé dans la réciproque? La réciproque a conquis un domaine radicalement
+nouveau, la réciproque a conquis le domaine des existences. [34 :00] Il suffisait de réciproquer,
+de retourner la formule de l’identité pour obtenir la formule de la raison suffisante; il suffisait de
+réciproquer la formule de l’identité qui concerne les essences pour disposer d’un nouveau
+principe, principe de raison suffisante concernant les existences.
+
+Vous me direz, bon, pourquoi… que ce n’était pas compliqué. C’était énormément compliqué,
+pourquoi? Parce que la réciproque n’était possible, cette réciprocation n’était possible que si l’on
+avait su porter l’analyse à l’infini. Or le concept, la notion d’analyse infinie est une notion
+absolument originale. Est-ce que ça consiste à dire que simplement, ça se passe dans
+l’entendement de Dieu, qui est infini ? Certes pas puisque ça implique toute une technique, qu’on
+a essayé, dans laquelle on n’a essayé à peine d’entrer, à savoir la technique [35 :00] de l’analyse
+différentielle ou du calcul infinitésimal.
+
+Est-ce que c’est vrai ? Là-dessus, je dis : troisième principe : est-ce que c’est vrai que la
+réciproque de la réciproque donnerait le premier? Pas sûr. Tout dépend, il y a tellement de points
+de vue. Pour arriver à mon troisième principe, selon Leibniz, je dis, essayons encore de varier –
+c’est une méthode de variation – j’essaie de varier les formulations du principe de raison
+suffisante. J’en étais, pour la raison suffisante, à tout ce qui arrive à une chose doit être compris,
+inclus dans la notion de la chose, ce qui implique l’analyse infinie. Autant dire, si vous me
+suivez, pour tout ce qui arrive [36 :00] ou pour toute chose, il y a un, pour toute chose, il y a un
+concept. J’avais en effet insisté là-dessus, que ce qui est important ce n’est pas du tout une
+manière, pour Leibniz, de reprendre un principe célèbre. Au contraire, il ne veut pas du tout ça –
+ce serait le principe de causalité.
+
+Lorsque Leibniz dit que tout a une raison, ça ne veut pas dire du tout que tout a une cause. Tout a
+une cause, ça signifie a renvoie à b, b renvoie à c, etc. Tout a une raison signifie qu’il faut rendre
+raison de la causalité elle-même, à savoir, tout a une raison signifie que le rapport que a
+entretient avec b doit être d’une manière ou d’une autre compris dans la notion de a. Tout comme
+le rapport que b entretient avec c doit être d’une manière ou d’une autre compris dans la notion
+
+                                                                                                       7
+
+[37 :00] de b. Donc c’est un dépassement du principe de causalité, le principe de raison
+suffisante. C’est en ce sens que le principe de causalité énonce seulement la cause nécessaire
+mais non pas la raison suffisante. Les causes sont seulement des nécessités qui renvoient ellesmêmes et qui supposent des raisons suffisantes.
+
+Donc je peux énoncer le principe de raison suffisante sous la forme suivante: pour toute chose il
+y a un concept, ce qui est très différent que pour toute chose il y une cause, pour toute chose il y
+a un concept qui rend compte et de la chose et de ses rapports avec les autres choses, y compris
+de ses causes et de ses effets. Pour toute chose il y a un concept, vous voyez ? C’est un beau
+principe, ça ne va pas du tout de soi, pour toute chose il y a un concept. Plein de gens qui diront,
+non, pas du tout ; il y en a même plein qui penseront que [38 :00] c’est le propre de l’existence
+de ne pas avoir de concept. [Pause]
+
+Alors, pour toute chose, il y a un concept, qu’est-ce que ce serait la réciproque? Si j’ai dit ça,
+comprenez que la réciproque n’a évidemment pas du tout le même sens. Là aussi, je ne voudrais
+pas vous accabler, mais chez Aristote, ça fait aussi partie des gammes en philosophie – il y a une
+année où je ne ferais que ça, mais ce n’est pas pendant … la dernière année avant ma retraite, je
+ne ferais que ça, je ne ferais plus que des gammes comme ça --. Chez Aristote, il y a un traité de
+logique, il me semble, de logique ancienne qui concerne uniquement le tableau des opposés,
+qu’est-ce que c’est que le contradictoire, qu’est-ce que c’est que le contraire, qu’est-ce que c’est
+que le subalterne, [39 :00] qu’est-ce que c’est que…, etc., etc., il y a tout un tableau. Là aussi,
+dans certains domaines, si vous ne savez pas, vous ne pouvez vivre à peine, mais pas bien, il faut
+savoir. Vous ne pouvez pas dire : le contradictoire quand c’est le contraire, non, vous ne pouvez
+pas dire le subalterne quand c’est… je ne sais pas quoi. Il y a tout un tableau, mais enfin, ça
+serait vraiment trop ; si on fait Leibniz, on ne fait pas les gammes d’Aristote, donc il ne faut pas
+tout faire à la fois. Vous voyez, ça existe. Moi, j’emploie le mot réciproque sans préciser, comme
+ça, sans préciser du tout. Lorsque je dis, si vous m’accordez, pour toute chose il y a un concept --
+encore une fois ce n’est pas sûr du tout --, pour toute chose il y a un concept, supposez que vous
+m’accordiez ça. Là, je ne peux pas échapper à la réciproque.
+
+Qu’est-ce que c’est la réciproque de « pour toute chose il y a un concept »? [40 :00] Il faut bien
+faire attention là. Pour toute chose, voyez, il faut la chantonner, quoi. C’est ça que je voulais dire
+aussi ; il faudrait distinguer en philosophie, et à propos des concepts, presque l’équivalent des
+cris et des chants. Et les cris, ça serait comme des espèces de trucs qui [mot indistinct] en
+philosophie, qui au besoin sont implicites, qui traversent, et qui sont quand même à la base d’un
+style d’un philosophe. Et les cris, ils se développent en chants, ou ils se donnent des chants, et
+puis les chants, ils reviennent aux cris.
+
+Quand est-ce qu’on place un cri dans un chant ? Pas de la même manière, sans doute, dans la
+musique dite classique et dans la musique moderne, le rôle des cris dans la musique moderne.
+Bon, sans doute, il y a des choses semblables en philosophie. En philosophie, je crois que les
+concepts, c’est en gros des espèces de chant qui… qui renvoient, qui renvoient à des cris [41 :00]
+sous-jacents. Bon, la base de tout, ça serait les animaux ; là encore, on est resté tellement làdessus, un certain temps, une année, il y a deux ans, je crois, que je rappelle ça pour mémoire. Il
+faudrait repartir, je crois… pour une théorie du concept, il faudrait repartir du chant des oiseaux.
+Mais là, je fais une parenthèse ; ce n’est pas Leibniz, mais c’est bien.
+
+                                                                                                          8
+
+Pour une théorie du concept, il faudrait repartir du chant des oiseaux. La grande différence entre
+les cris et les chants, très différents, les cris, par exemple, les cris d’alarme, les cris de faim, et
+puis les chants d’oiseaux, et on peut expliquer acoustiquement quelle est la différence entre les
+cris et les chants. De la même manière, je rêverais au niveau de la pensée, il y a des cris de
+pensée et des chants de pensée. Comment on pourrait distinguer ces cris et ces chants? Mais,
+enfin, ce n’est pas Leibniz, alors. Leibniz, il a ça aussi, alors. Je crois qu’on ne peut pas
+comprendre [42 :00] comment se développe une philosophie comme chant, ou un chant
+philosophique, si on ne la rapporte pas à des coordonnées qui sont des espèces de cris, des cris
+qui continuent. Alors, cherchons là, tout ça. C’est complexe, cris et chants.
+
+Par exemple, dans l’exemple qui me revient toujours à l’esprit, si je reviens à la musique,
+l’exemple, c’est les deux grands opéras de [Alban] Berg: il y a deux grands cris de mort, le cri de
+Marie dans « Wozzeck » et le cri de Lulu [dans « Lulu »].[2] Les deux fois, ce sont des cris de
+mort. Quand on meurt, on crie ; on ne chante pas, et pourtant il y a quelqu’un qui chante autour
+de la mort : la pleureuse. Qu’est-ce qu’elle fait, la pleureuse ? Il y a des pleureuses qui crient et
+des pleureuses qui chantent. Mais, enfin, celui qui perd l’être aimé, il chante, [43 :00] il chante,
+ou il crie, je ne sais pas. Mais enfin, il y a deux grands cris de mort, que ce soit Marie, assassinée
+par Wozzeck, ou que ce soit Lulu qui meurt assassinée par Jacques L’Eventreur, il y a deux cris
+qui viennent dans les opéras et qui sont des moments sublimes dans l’opéra ; ces cris sont des
+cris tellement beaux. Bon. Ils sont pris dans des contextes de chants.
+
+Alors, qu’est-ce que c’est que ça ? Qu’est-ce que c’est que la note répétée des cris ? Dans
+Wozzeck, c’est un si, c’est une sirène, absolument. Quand vous mettez des sirènes dans la
+musique, c’est le cri que vous y mettez. C’est curieux. Or les deux cris ne sont pas du même
+type, même acoustiquement: il y a un cri qui file en haut et il y a un cri qui rase la terre, le cri de
+Marie qui rase la terre, et le cri… Et puis il y a le chant, le cri de, comment, qui c’est ? C’est la
+Comtesse, [44 :00] la Comtesse, le chant de la grande amie de Lulu qui chante la mort. Il y a une
+transition au chant qui est fantastique. C’est signé Berg. Je dirais que la signature d’un
+philosophe, c’est pareil. Quand un philosophe est grand, il a beau écrire des pages très abstraites,
+elles ne sont abstraites que parce que vous n’avez pas su y repérer le moment où il crie. Il y a un
+cri là-dessous, non, non, c’est sous la forme d’un cri, quelque chose qui fait horreur. [Quelques
+propos de Deleuze prononcés à voix très basses ne sont pas clairs]
+
+Revenons alors à cette région plus calme qui est comme un chant de la raison suffisante, un petit
+chant. « Tout a une raison », il faudrait faire là les gammes ; il faudrait le chanter. Ah, ah, ah
+[Deleuze commence à chanter]. « Tout a une raison », on ferait une espèce de mélodie, on
+pourrait harmoniser, alors il y aurait une harmonie, une mélodie des concepts. Mais là dessous il
+y aurait [45 :00] les cris rythmiques, les cris rythmiques. Alors là on introduirait une espèce de
+batterie dans la philosophie: bam, bam, bam, des hurlements, non, non, non. Il y a toujours des «
+non, non, non ». [Interruption de l’enregistrement] [45 :17]…
+
+Partie 2
+
+[Texte suivant fourni par WebDeleuze, coupé de l’enregistrement BNF : Je reviens à ma
+formulation chantée du principe de raison suffisante. On peut chanter faux une philosophie.
+Retour à l’enregistrement BNF] Les gens qui chantent faux une philosophie, c’est ceux pour
+
+                                                                                                   9
+
+qui… ils la connaissent très bien, mais elle est complètement morne. Alors, on peut parler
+interminablement de « est-ce que Descartes a bien dit ça » ou pense ça, ou autre chose encore.
+Peut-être que c’est intéressant. Peut-être cela n’a aucun intérêt. [Pause]
+
+Raison suffisante, le chant de la raison suffisante: pour toute chose, il y a un concept. Ah oui,
+pour toute chose, il y a un concept. Alors déjà partie, vous pouvez chanter ça. Vous imaginez,
+partie… ? [46 :00] D’où je viens au concept. Qu’est-ce que c’est que la réciproque de toute
+chose, il y a un concept? Si je dis « pour toute chose… » … Suivez-moi : [Pause] Pour toute
+chose, il y a un concept. Il y a, ça, c’est exactement ce qu’on appelle… Comment on appelle ça
+en musique … [Pause, Deleuze cherche le mot] La réciprocation … Il y a une pièce célèbre toute
+de réciprocations en musique… Elle s’appelle d’un nom anglais, « Joke » [Commentaires des
+étudiants près de Deleuze] Non, c’est les séries, c’est, c’est … [Olivier] Messiaen en a tiré
+énormément partie … les séries rétrogrades, les séries rétrograde. Or, il y a une fantastique série
+rétrograde dans cette pièce… Alors, là, je perds tous les noms, c’est le « Petit Joke » [de Dmitri
+Kabalevsky], c’est une grande classique ; [47 :00] c’est une pièce pour piano où il y a toutes
+sortes de séries rétrogrades, très curieux, très drôle, très, très drôle, la musique, drôle, drôle,
+drôle. [Pause ; commentaires des étudiants près de Deleuze] Et les musiciens du 17e [siècle], du
+18e, vous le retrouverez… Vous aurez honte de ne pas avoir pensé à ça.
+
+Bon, alors, je cherche toujours ma réciproque : « pour toute chose, il y a un concept ». Je dirais :
+qu’est-ce que c’est la réciproque ? Cherchons. Il ne faut pas se tromper ; ce n’est pas facile de se
+réciproquer. Pour toute chose, il y a un concept, je dirais : la réciproque, c’est pour tout concept,
+une chose et une seule ; pour tout concept, une chose et une seule. [Pause] [48 :00] Ah, pour tout
+concept, une chose et une seule. Pourquoi c’est la réciproque de « pour toute chose, un concept »
+? C’est que, supposez qu’un concept ait deux choses qui lui correspondent, il y a une chose qui
+n’a pas de concept. Non, je ne peux pas ; à ce moment-là c’est la raison suffisante qui est foutue.
+Je ne peux pas dire « pour toute chose, un concept ». Dès que j’ai dit « pour toute chose, il y a un
+concept », j’ai dit forcément qu’un concept avait nécessairement une chose et une seule, car si un
+concept a deux choses, il y a quelque chose qui n’a pas de concept et donc je ne pouvais plus dire
+déjà « pour toute chose, un concept ». Vous avez compris ? Si vous avez compris, vous
+comprenez tout.
+
+Qu’est-ce que ça veut dire, « pour toute chose… », euh, « pour tout concept, une chose et une
+seule » ? Donc la vraie réciproque du principe de raison suffisante s’énoncera comme ceci, sous
+forme d’un troisième principe de Leibniz : pour toute chose, un concept… non, [49 :00] zut !
+[Rires] Pour tout concept, une chose et une seule. Bon, ça, c’est une réciproque ; remarquez,
+c’est une réciproque en un drôle de sens. C’est pour ça que, tout à l’heure, j’invoquais que dans
+d’autres conditions, il aurait fallu faire une étude et se priver du mot « réciproque » qui serait
+beaucoup trop large, beaucoup trop vague. Mais dans ce cas de réciprocation la raison suffisante
+et l’autre principe, à savoir « pour toute chose, un concept » et « pour tout concept, une chose et
+une seule », je ne peux pas dire l’un sans dire l’autre. La réciprocation est absolument nécessaire.
+Si je ne dis pas la seconde, si je ne reconnais pas la seconde, je détruis la première.
+
+Dans l’autre cas, lorsque je disais que la raison suffisante, c’était la réciproque du principe
+d’identité, ce n’était pas au même sens car si vous vous rappelez l’énoncé du principe d’identité,
+[50 :00] toute proposition analytique est vraie, je réciproque et j’obtiens la raison suffisante,
+
+                                                                                                     10
+
+toute proposition vraie est analytique, mais là, il n’y a aucune nécessité. Je peux dire que toute
+proposition analytique est vraie sans que par là même il n’y ait de proposition vraie
+qu’analytique. Je pourrais très bien dire que tout proposition analytique est vraie, mais attention,
+il y a des propositions vraies qui sont autres qu’analytiques. Donc lorsque Leibniz a fait sa
+réciprocation de l’identité, il a fait un coup de force. Il a fait un coup de force parce qu’il avait
+les moyens de faire le coup de force, c’est-à-dire qu’il a poussé un cri. Il avait les moyens de
+faire le coup de force parce qu’il avait lui-même créé toute une méthode de l’analyse infinie.
+Sinon, il n’aurait pas pu, ou alors sinon, cela aurait été nul, [51 :00] ce qu’il avait fait. Tandis que
+dans le cas passage de la raison suffisante au troisième principe que je n’ai pas encore baptisé, là
+la réciprocation est absolument nécessaire. Il fallait la découvrir. [Pause]
+
+Alors, le temps est venu, qu’est-ce que ça veut dire, « pour tout concept il y a une chose et il n’y
+en a qu’une » ? Là ça devient bizarre, il faut comprendre. On n’a pas le choix. Ça veut dire qu’il
+n’y a pas deux choses absolument identiques, ou [Pause] toute différence, ça revient au même,
+toute différence est conceptuelle en dernière instance. [52 :00] Si vous avez deux choses, il faut
+bien qu’il y ait deux concepts, sinon il n’y aurait pas deux choses. Bon, ça signifie quoi, il n’y a
+pas deux choses absolument identiques quant au concept? C’est très bizarre, cette formule. Ça
+veut dire qu’il n’y a pas deux gouttes d’eau identiques, il n’y a pas deux feuilles d’arbre
+identiques. Leibniz là est parfait, il délire avec ce principe-là. Il dit qu’évidemment vous, vous
+croyez que deux gouttes d’eau, c’est identique, mais c’est parce que vous n’allez pas assez loin
+dans l’analyse. Elles ne peuvent pas avoir le même concept. Là c’est très curieux parce que toute
+la logique classique, elle est plutôt du type à nous dire que le concept, par nature, comprend une
+pluralité infinie de choses. Le concept de goutte d’eau s’applique à toutes les gouttes d’eau. [53
+:00]
+
+Leibniz dit bien sûr, si vous avez bloqué le concept à un certain moment, si vous avez bloqué
+l’analyse du concept à un moment fini; mais si vous poussez l’analyse il y aura un moment où les
+concepts ne sont plus les mêmes. Ce pourquoi la brebis reconnaît son petit agneau. [Pause]
+Comment la brebis reconnaît-elle son petit agneau ? C’est-à-dire c’est un exemple de Leibniz ; il
+est déjà dans Lucrèce, cet exemple émouvant. Eux, ils pensent que c’est par concept. Un petit
+agneau n’a pas le même concept que le même concept individuel, c’est par là que le concept va
+jusqu’à l’individu, un autre petit agneau. Bien, qu’est-ce que c’est que ce drôle de principe: il n’y
+a que, il n’y a qu’une seule chose; il y a nécessairement une chose par concept et une seule ? [54
+:00] Leibniz le nomme « principe des indiscernables ». On peut donc l’énoncer: il y a une chose
+par concept et une seule, ou bien toute différence est conceptuelle en dernière instance.
+
+Il n’y a de différence que conceptuelle. En d’autres termes, si vous assignez une différence entre
+deux choses, il y a nécessairement une différence dans le concept. Eh bien, ce principe, Leibniz
+le nommera « principe des indiscernables ». Et si je lui fais correspondre une ratio, qu’est-ce que
+c’est? Vous sentez bien que ça consiste à dire qu’on ne connaît que par le concept. En d’autres
+termes, [55 :00] le principe des indiscernables me semble correspondre à la troisième ratio, la
+ratio comme ratio cognoscendi, la raison comme raison de connaître. [Pause]
+
+Or voyons les conséquences d’un tel principe. S’il est vrai, s’il était vrai, ce principe des
+indiscernables, à savoir toute différence est conceptuelle, il n’y a de différence que conceptuelle,
+c’est un principe quand même, là, là, Leibniz nous demande d’accepter quelque chose qui est
+
+                                                                                                     11
+
+énorme. Procédons par ordre. Quel autre type de différence que conceptuelle? – Je dis tout de
+suite, il va falloir se donner une recréation parce que je dois aller voir quelqu’un au secrétariat. –
+Je dis très vite pour que vous méditiez : On voit immédiatement, [56 :00] mêmes sans faire de
+théorie, il y a des différences numériques. Je dis, par exemple, une goutte d’eau, deux gouttes
+d’eau, je prends mon médicament, ma potion, une goutte, deux gouttes, trois gouttes, quatre
+gouttes. Je distingue les gouttes – je parle toujours latin -- solo numéro, par le nombre seulement.
+Je compte les éléments d’un ensemble, un deux trois quatre, je néglige leur individualité, je les
+distingue par le nombre. Voilà un premier type de distinction très classique, la distinction
+numérique. Deuxième type de distinction: je dis prenez cette chaise, prenez cette chaise,
+quelqu’un de gentil prend une chaise et je dis: non pas celle-ci, mais celle-là. Cette fois-ci c’est
+une distinction [57 :00] spatio-temporelle du type ici-maintenant. La chose qui est ici à tel
+moment, et cette autre chose qui est là à tel moment ; on sent qu’il y a des distinctions spatiotemporelles. Enfin il y a des distinctions de figure et de mouvement: figure, toit qui a trois
+angles, ou toit et je suis du doigt le mouvement, ou le reste, je dirais que ce sont des distinctions
+par l’extensio et le mouvement, l’extension et le mouvement.
+
+Comprenez à quoi s’engage Leibniz là. [58 :00] Ça l’engage dans un drôle de truc, rien qu’avec
+son principe des indiscernables. Il faut qu’il montre que tous ces types de distinctions non
+conceptuelles – et en effet ce sont des distinctions non conceptuelles puisque deux choses
+peuvent se distinguer par le nombre alors qu’elles ont le même concept. Vous fixez un concept
+de goutte d’eau et vous dites: première goutte d’eau, deuxième goutte d’eau. C’est le même
+concept. Il y en a une qui est la première et il y en a une qui est la seconde. Il y en a une qui est
+ici et l’autre qui est là-bas. Il y en a une qui est en forme de poire et il y en a une qui est en forme
+de rond. Il y en a une qui va vite et l’autre qui va lentement.
+
+On a presque fait l’ensemble des distinctions non conceptuelles. Leibniz arrive et tranquillement
+nous dit non, non, non ; ce sont de pures apparences, [59 :00] c’est-à-dire que ce sont des
+moyens provisoires d’exprimer une différence d’une autre nature, et cette différence est toujours
+conceptuelle. S’il y a deux gouttes d’eau, elles n’ont pas le même concept. Qu’est-ce que ça veut
+dire de très important? Comprenez ; je prends un exemple même. C’est très important dans les
+problèmes d’individuation. Il est célèbre que, par exemple, Descartes nous dit que les corps se
+distinguent entre eux par la figure et le mouvement. Même beaucoup, il n’y a pas besoin
+d’invoquer des cas, beaucoup de penseurs ont estimé que les corps se distinguaient entre eux par
+la figure et le mouvement. Remarquez que dans la formule cartésienne, ce qui se conserve dans
+le mouvement (mv) -- à savoir le produit de la masse par le mouvement – [60 :00] dépend
+étroitement d’une vision du monde où les corps se distinguent par la figure et le mouvement.
+
+A quoi s’engage Leibniz lorsqu’il nous dit non: il faudra bien qu’à toutes ces différences non
+conceptuelles correspondent des différences conceptuelles; elles ne font que le traduire
+imparfaitement ? Toutes les différences non conceptuelles ne font que traduire imparfaitement
+une différence conceptuelle de fond. Leibniz s’engage, par exemple, à une tâche de physique.
+C’est pour ça qu’on ne peut pas dire n’importe quoi ; on se dit, eh ben, je veux dire ça, mais
+après, vous subissez des tâches abominables. [Pause] En d’autres termes, il faut qu’il trouve une
+raison pour laquelle un corps est soit en tel nombre, soit ici et maintenant, soit ait telle figure et
+telle vitesse. [61 :00] Donc, il traduira ça très bien dans sa critique de Descartes lorsqu’il dira que
+
+                                                                                                     12
+
+la vitesse est un pur relatif. Descartes s’est trompé, il a pris quelque chose de purement relatif
+pour un principe.
+
+Il faut donc que figure et mouvement se dépassent vers quelque chose de plus profond. Vous
+vous rendez compte de ce que ça veut dire ? Ça veut dire quelque chose d’énorme pour la
+philosophie du XVIIe siècle, à savoir, qu’il n’y a pas de substance étendue ou que l’étendue ne
+peut pas être une substance ; que l’étendue, c’est du pur phénomène ; qu’elle renvoie à quelque
+chose de plus profond ; qu’il n’y a pas de concept de l’étendue ; que le concept est d’une autre
+nature. Il faut donc que la figure et le mouvement trouvent leur raison dans quelque chose de
+plus profond – dès lors, l’étendue n’a aucune suffisance. Vous voyez ? [62 :00] Je ne dis pas que
+c’est commun, mais ce n’est pas par hasard que c’est le même qui fait une nouvelle physique ; il
+n’invente pas la notion-là, mais il recrée complètement la physique des forces. Il oppose la force,
+d’une part, à la figure et à l’étendue, d’autre part, la figure et l’étendue n’étant que des
+manifestations de la force. Et c’est la force qui est le vrai concept. Il n’y a pas de concept
+d’étendue parce que le vrai concept, c’est la force. La force, c’est la raison de la figure et du
+mouvement dans l’étendue. D’où l’importance de cette opération qui paraissait purement
+technique lorsqu’il dit que ce qui se conserve dans le mouvement, ce n’est pas mv, mais mv2.
+L’élévation de la vitesse au carré, c’est la traduction du concept de force. C’est-à-dire tout
+change.
+
+Or c’est, si vous voulez, c’est la physique qui correspond au principe des indiscernables. [63 :00]
+Il n’y a pas deux forces semblables ou identiques, [Pause] et ce sont les forces qui sont les vrais
+concepts qui doivent rendre compte ou nous donner la raison de tout ce qui est figure ou
+mouvement dans l’étendue. La force n’est pas un mouvement, c’est la raison du mouvement.
+Donc renouvellement complet de la physique des forces, et aussi de la géométrie, de la
+cinématique. Tout y passe, rien que dans l’élévation de vitesse au carré. MV2, c’est une formule
+des forces, ce n’est pas une formule du mouvement. Donc, vous voyez que c’est essentiel. Prenez
+un court repos. [Interruption de la cassette] [1 :03 :56]
+
+Pour résumer l’ensemble, je pourrais dire aussi bien, il faut que la figure et le mouvement se
+dépassent vers la force. [L’enregistrement BNF s’interrompt ici] … Il fait chaud, eh ? Il fait
+chaud… Le nombre… [Pause] [64 :00] se dépasse vers le concept. [Pause] Il faut que… quoi
+encore ? [Deleuze semble chercher la voie] Il faut que l’espace et le temps [Pause] se dépassent
+vers – un troisième terme -- un concept aussi. Vous complétez de vous-mêmes ! Voilà.
+
+Un étudiant : [Commentaires inaudibles]
+
+Deleuze : Quand il est Leibnizien, il devient très, très connu parce que ça fait un concept qui va
+jusqu’à l’individu. On est tous des concepts ; chacun a ses concepts, vous comprenez ? C’est
+quand même un concept pour soi tout seul. Ça devient assez gai. Ce n’est pas le gros concept de
+la logique classique. [Pause]
+
+Mais voilà qu’avance [65 :00] à petits pas un quatrième principe. Et voilà que Leibniz le nomme
+« loi de continuité ». Ah ha ! Pourquoi a-t-il dit « loi »? Voilà un problème. Lorsque Leibniz
+parle de la continuité, qu’il considère comme un principe fondamental, essentiel, et comme une
+de ses grandes découvertes à lui, eh ben, il emploie le terme « loi » et plus le terme « principe ».
+
+                                                                                                     13
+
+Ça, on ne peut pas le mettre de côté parce qu’il faudra expliquer ça. C’est curieux, la « loi » de
+continuité ; ok, bon, pas comme un « principe ». Et si à nouveau, je cherche la formulation
+vulgaire de la loi [66 :00] de continuité, c’est tout simple, je dirais, et l’expression se trouve
+souvent chez Leibniz quand il veut aller vite, la nature ne fait pas de saut, s-a-u-t. [Bruit des
+commentaires de quelques étudiants sur ce terme] La nature ne fait pas de saut. [Pause] La
+nature ne fait pas de saut, ça veut dire, bon, il n’y a pas de discontinuité.
+
+Mais la formulation savante, il y en a deux, là aussi. Une, écoutez-moi bien, parce que là aussi,
+ça va poser toutes sortes de problèmes. Elle est compliquée ; c’est quelque chose comme ceci : si
+deux causes [67 :00] se rapprochent autant qu’on le veut, [Pause] au point de ne différer que par
+une différence décroissante à l’infini, [Pause] il faut bien que les effets soient de même. Je dis
+tout de suite à quoi il pense parce qu’il en veut tellement, il en veut tellement à Descartes. [C’est]
+très important : dans les lois du mouvement, qu’est-ce qu’on nous dit dans les lois de la
+communication du mouvement? Voilà deux cas: deux corps de même masse et de même vitesse
+se rencontrent, [68 :00] – [Deleuze commente sur un des magnétophones devant lui] Ici il y a
+quelqu’un dont son machin a des trucs rouges tout le temps, ça va sauter [Rires] – Donc, premier
+cas : deux corps de même masse, vous allez mettre deux petits point, et de même vitesse se
+rencontrent. Les masses de même vitesse, ils rebondissent. Un des deux corps a une masse plus
+grande ou une vitesse plus grande, il emporte l’autre, voyez ? Il emporte l’autre. Leibniz dit : rien
+du tout ; ça ne peut pas être ça. Pourquoi? Là, vous avez deux causes, deux états de la cause.
+Premier état de la cause: deux corps de même masse et de même vitesse. Deuxième état de la
+cause: deux corps de masses différentes. [69 :00] Leibniz dit que vous pouvez faire décroître la
+différence à l’infini, vous pouvez faire que ces deux états se rapprochent l’un de l’autre dans les
+causes.
+
+Or on nous dit que les deux effets sont complètement différents puisque dans un cas, il y a
+rebondissement des deux corps, dans l’autre cas le second corps est entraîné par le premier, dans
+la direction du premier. [Pause] Il y a une discontinuité dans l’effet alors que l’on peut concevoir
+une continuité dans les causes. C’est de manière continue que l’on peut passer de masses
+différentes à masses égales. Donc ce n’est pas possible qu’il y ait discontinuité dans les faits s’il
+y a continuité possible dans la cause puisqu’il l’entraîne encore à toute une étude physique du
+mouvement très, très importante qui sera centrée [70 :00] sur la substitution d’une physique des
+forces à la physique du mouvement. Je citais ça pour mémoire.
+
+Mais autre formulation savante du même principe, et vous allez comprendre que c’est la même
+chose que la précédente formulation. L’autre formulation savante, je pouvais dire un cas étant
+donné, un cas étant donné, par exemple, les corps de masse inégale, un cas étant donné, le
+concept du cas se termine dans le cas opposé. C’est l’énoncé pur, il me semble, de la continuité.
+Un cas étant donné, le concept du cas se termine dans le cas opposé. Exemple: un cas étant
+donné, c’est le mouvement, [71 :00] le concept du mouvement se termine dans le cas opposé,
+c’est-à-dire dans le repos. Le repos, [c’est] le mouvement infiniment petit. C’est ce qu’on a vu du
+principe infinitésimal de la continuité. [Pause] Ou bien, on l’a vu, mais ça découle de notre
+dernière séance, que vous vous rappelez si bien, je dirais que la dernière formulation possible et
+savante de la continuité, c’est: une singularité étant donnée se prolonge sur toute une série
+d’ordinaires jusqu’au voisinage de la singularité suivante, etc., à l’infini, qui est le même, se
+
+                                                                                                     14
+
+prolonge, etc. C’est cette fois-ci [72 :00] la loi de la composition du continu. [Pause] Ça, on l’a
+fait ; je n’ai pas besoin de revenir là-dessus. Bien.
+
+Mais alors, au moment où on croyait en avoir fini, voilà un problème très important. Ça c’est très
+important pour nous si nous savons tirer des conclusions pour la philosophie en général. Est-ce
+que vous êtes de mon avis ou de celui de Leibniz, à savoir quelque chose me pousse à me dire –
+et bien entendu, je ne suis pas le seul puisque vous aussi – quelque chose nous pousse à nous dire
+que, entre le principe trois et le principe quatre, il y a une contradiction, c’est-à-dire qu’entre le
+principe des indiscernables [73 :00] et le principe de continuité, il y a une contradiction ?
+Première question – vous voyez que les questions vont se mettre à abonder, mais je voudrais
+aller tellement vite que c’est, bon, comprenez ? [c’est] tragique, ça – contradiction entre le
+principe des indiscernables et le principe de continuité : en quoi y a-t-il contradiction?
+
+Deuxième question: le fait est que Leibniz n’y a jamais vu la moindre contradiction. Nous voilà
+dans la situation d’aimer et d’admirer profondément un philosophe, d’être gênés parce que des
+textes nous semblent contradictoires, et lui ne voit même pas ce qu’on peut vouloir lui dire. C’est
+tout le temps ça dans la manie des objections. Faites une objection à quelqu’un. Vous voyez une
+contradiction là où il n’en voit pas, lui. Il faudra déjà s’expliquer [74 :00] sur est-ce qu’il y a bien
+une contradiction, tout ça. Où serait la contradiction s’il y en avait une? Je reviens au principe
+des indiscernables, toute différence est conceptuelle ; il n’y a pas deux choses ayant le même
+concept. Je dirais à la limite qu’à toute chose correspond une différence déterminée, [Pause] non
+seulement déterminée mais assignable dans le concept. Il y a deux concepts donc la différence …
+-- non, oui, euh, je parlais mal – n’est pas seulement déterminée ou déterminable, elle est
+assignable dans le concept même. Il n’y a pas deux gouttes d’eau ayant le même concept, c’est-àdire la différence un-deux doit être comprise dans le concept. Elle doit être assignée dans le
+concept. Donc toute différence est une différence assignable dans le concept. Si je considère le
+principe de continuité, il nous [75 :00] dit quoi? Il nous dit que les choses procèdent par
+différences évanouissantes, par différences infiniment petites, c’est-à-dire par différences
+inassignables. [Pause]
+
+Vous vous rendez compte ? Ça devient alors terrible ; on ne peut pas dire les deux à la fois. Estce qu’on peut dire que toute chose procède par différence inassignable, et dire en même temps
+que toute différence est assignée et doit être assignée dans le concept? Ah! Est-ce que Leibniz se
+contredirait? Est-ce qu’il aurait fait une faute ? On peut juste avancer un peu en cherchant la
+ratio du principe de continuité puisque j’ai trouvé une ratio pour chacun des trois premiers
+principes. Vous vous rappelez ? L’identité, c’est [76 :00] la raison d’essence ou ratio essendi ; la
+raison suffisante, c’est la raison d’existence ou ratio existendi ; les indiscernables, c’est la raison
+de connaître ou ratio cognoscendi ; le principe de continuité, ce n’est pas du tout… il n’y a que
+prendre la liste des ratios, c’est la ratio – comme disaient les Latins – c’est la ratio fiendi, la
+ratio fiendi, c’est-à-dire la raison de devenir. Les choses deviennent par continuité. [Pause] Le
+mouvement devient repos, le repos devient mouvement, etc. Le polygone, en multipliant ses
+côtés, devient cercle, etc. C’est une raison de devenir ; c’est très différent d’une raison d’être ou
+d’une raison d’existence ; c’est très différent. Là, vous avez des catégories philosophiques : la
+ratio fiendi avait besoin d’un principe, [77 :00] c’est le principe de continuité.
+
+                                                                                                  15
+
+Bon, ça n’empêche pas, comment concilier ces ratios ? Comment concilier la continuité et les
+indiscernables? Voilà ce qu’il me semble : bien plus il faut montrer que – comprenez le pari
+presque qu’on est forcé de faire – il faut montrer que la manière dont on va les concilier doit
+rendre compte en même temps de ceci: que Leibniz ne voyez aucune et avait raison de ne voir
+aucune contradiction entre les deux. Eh ben, je dis que – voilà, là je sais… je ne sais pas… il me
+faudrait beaucoup de temps ; vous me pardonnez, il ne faut pas qu’on s’ennuie – je dis qu’on fait
+de l’expérience de pensée. Je reviens à la formule, à la proposition: chaque notion individuelle
+exprime le monde entier. Adam exprime le monde, César exprime le monde, [78 :00] chacun de
+vous exprime le monde. Cette formule, elle est très bizarre. Chez Leibniz, c’est très bien, les
+concepts, et les concepts, ce n’est pas des mots en philosophie. Un grand concept philosophique,
+ce n’est pas simplement un mot, c’est un complexe, c’est une proposition, c’est une fonction
+propositionnelle.
+
+Je veux dire, ça serait même un jeu, à nouveau, en plus des exercices de gammes, des exercices
+de piano philosophiques, il faudrait faire des exercices de grammaire philosophique. La
+grammaire philosophique consisterait en ceci au plus simple: un concept étant donné, trouvez le
+verbe. Si vous n’avez pas trouvé le verbe, vous n’avez pas dynamisé le concept. Il faut
+dynamiser le concept. Bon, alors, sinon, vous ne pouvez pas le comprendre. Vous ne pouvez pas
+le vivre. Vous pouvez le comprendre abstraitement, mais ce n’est pas de la bonne philosophie.
+Vous ne pouvez pas le vivre. Le concept [79 :00] est toujours sujet d’un mouvement, d’un
+mouvement de pensée. Une seule chose compte, le mouvement. Quand vous faites de la
+philosophie, vous ne regardez qu’au mouvement. C’est même par-là que la philosophie, le
+cinéma, la peinture, la danse, tout ça, c’est pareil. Vous ne regardez qu’au mouvement ;
+simplement c’est un type de mouvement particulier, c’est le mouvement de pensée. Donc, un
+concept étant donné, vous vous dites, quel est le verbe? Si vous n’avez pas trouvé le verbe, vous
+n’êtes pas philosophe. Parfois le philosophe le dit explicitement, parfois il ne le dit pas. [Pause]
+
+Leibniz, est-ce qu’il va le dire? Chaque notion individuelle exprime le monde ; bon, il y a déjà un
+verbe, c’est exprimer. D’accord, il y a un verbe. Mais qu’est-ce que ça veut dire ça? Ça veut dire
+deux choses à la fois, c’est comme si deux mouvements coexistaient. Leibniz nous dit à la fois,
+Dieu… -- et ça c’est très important [80 :00], c’est deux formules de, il me semble, c’est que
+finalement, on a produit le secret de Leibniz -- Dieu ne crée pas Adam non-pécheur … non,
+pardon, Dieu ne crée pas Adam pécheur ; il crée le monde où Adam a péché. Il dirait la même
+chose pour César : il ne crée pas César franchissant le Rubicon, il crée le monde où César
+franchit le Rubicon. Donc, ce que Dieu crée, c’est le monde, et pas les notions individuelles qui
+expriment le monde. Il ne crée pas Adam pécheur ; il crée le monde où Adam a péché. Donc il
+fait le monde et pas les notions individuelles qui l’expriment. Deuxième proposition de Leibniz:
+le monde n’existe que dans les notions individuelles qui l’expriment. Si vous privilégiez une
+proposition sur l’autre, c’est fou. [Pause]
+
+Dès lors, [81 :00] si vous acceptez ça, vous allez avoir comme deux lectures ou deux saisies
+complémentaires et simultanées ; deux saisies de quoi? Voyons. Vous pouvez considérer le
+monde, [Pause] mais encore une fois le monde n’existe pas en soi, il n’existe que dans les
+notions qui l’expriment. Mais vous pouvez faire cette abstraction, vous considérez le monde.
+Comment vous le considérez? Vous le considérez comme une courbe, une courbe complexe. Une
+courbe complexe a des points singuliers et des points ordinaires. Un point singulier se prolonge
+
+                                                                                                   16
+
+sur les points ordinaires qui en dépendent jusqu’au voisinage d’une autre singularité, etc., etc., et
+vous composez la courbe de manière continue comme ça, par prolongement des singularités sur
+les séries d’ordinaires. Je dirais, le monde pour Leibniz, c’est cela. [82 :00] Le monde continu,
+c’est la distribution des singularités et des régularités, ou des singularités et des ordinaires qui
+constituent précisément l’ensemble choisi par Dieu, c’est-à-dire celui qui réunit le maximum de
+continuité. D’accord ?
+
+Si vous en restez à cette vision, le monde est régi par la loi de continuité – on a vu pourquoi --
+puisque la continuité, c’est précisément cette composition des singuliers en tant qu’ils se
+prolongent sur les séries d’ordinaires qui en dépendent. Bon. Vous avez votre monde qui est, à la
+lettre, déployé sous forme d’une courbe où se répartissent singularités et régularités. [83 :00]
+C’est le premier point de vue ; ça, c’est entièrement soumis à la loi de continuité.
+
+Seulement voilà, ce monde n’existe pas en soi ; il n’existe que dans les notions individuelles qui
+expriment ce monde. Ça veut dire quoi ? Ça veut dire qu’une notion individuelle, ce que Leibniz
+appelle une monade, ça veut dire qu’une notion individuelle ou monade sont construites, que
+chacune embrasse un petit nombre déterminé de singularités. Elle enferme un petit nombre de
+singularités, et c’est le petit nombre de singularités… -- Voyez, on avance énormément – si on
+demande maintenant… Vous vous rappelez que les notions individuelles ou monades, ce sont
+des points de vue sur le monde. [84 :00] Ce n’est pas le sujet qui explique le point de vue, c’est
+le point de vue qui explique le sujet. D’où nécessité de se demander : qu’est-ce que c’est que ce
+point de vue? Un point de vue est défini par ceci: un petit nombre de singularités prélevé sur la
+courbe du monde. C’est ça qui est au fond d’une notion individuelle. Ce qui fait la différence
+entre vous et moi, c’est que vous êtes construits, sur cette espèce de courbe fictive, vous êtes
+construits autour de telles et telles et telles singularités, et moi autour de telles et telles
+singularités. Et ce que vous appelez l’individualité – voyez, il y a toutes sortes de notions bien
+distinguées chez Leibniz – une individualité, c’est un complexe de singularités en tant qu’elles
+forment un point de vue. Ça devient très beau. [Pause] Bien. [3]
+
+[Fin de la bande, pour l’enregistrement de WebDeleuze ; le séminaire continue encore treize
+minutes, avec l’addition fournie sur YouTube (voir note 1)]
+
+Je peux dire, le monde [85 :00] a comme deux états ; il y a deux états du monde. Il a un état
+développé, déroulé, et il a un état enveloppé, enroulé – état enroulé du monde, état enveloppé du
+monde, c’est le monde tel qu’il est dans chaque notion individuelle qui l’exprime. [Pause] Etat
+développé du monde – comme toutes les notions individuelles expriment le même monde, vous
+pouvez toujours développer le monde pour le considérer abstraitement en lui-même, comme
+cette courbe pourvue de pures singularités. A ce moment-là, vous parlerez du monde.
+
+Je dirais dès lors que le monde [86 :00] est l’ensemble des notions individuelles compossibles en
+tant que développés, [Pause] et la notion individuelle est le monde en tant qu’enveloppé dans les
+points de vue qui l’expriment. [Pause] Le monde développe les notions individuelles ; les
+notions individuelles enveloppent le monde. Envelopper, développer ; enrouler, dérouler. Une
+notion individuelle est le monde enroulé d’un certain point de vue. Le monde est l’ensemble des
+notions individuelles déroulées.
+
+                                                                                                   17
+
+Envelopper, développer. Voilà les verbes dynamiques que j’ai cherchés. Enrouler, [87 :00]
+dérouler. Lorsque la logique nous propose, encore une fois, le concept ou le doublet, les deux
+concepts, impliquer, expliquer… impliquer, expliquer, vous comprenez ? C’est des termes [mot
+pas clair] pour nous ; si on aime la logique, ce n’est pas les termes [mot pas clair]. Implicare,
+explicare, en latin, c’est exactement involvere, devolvere. Impliquer, c’est envelopper, c’est
+enrouler ; expliquer, c’est dérouler, développer. Le monde développe un ensemble de notions
+individuelles ; chaque notion individuelle enveloppe le monde de son point de vue.
+
+C’est le dynamisme et la coexistence de l’enveloppement et du développement qui vont fournir
+tous les mouvements sous-jacents, les mouvements comme géologiques, qui parcourent la
+philosophie de Leibniz. [88 :00] Alors, est-ce qu’il les a inventés ? Non, il y a toute une tradition,
+toute une tradition qui remonte aux néo-Platoniciens. C’est les néo-Platoniciens qui ont fait une
+sorte de mise en scène formidable des degrés d’enveloppement et de développement dans le
+monde ; en quel sens le germe enveloppe l’arbre, en quel sens l’arbre développe le germe.
+Simplement ça pose toutes sortes de problèmes qui ne sont pas seulement de logique.
+
+Et bien sûr comme Ariane a trop bien fait, il y a ajouté un troisième concept qui est assez joli. Il
+faut bien que, pour traduire la simultanéité des deux mouvements de l’enveloppement et du
+développement – le monde qui développe les notions, les notions qui enveloppent le monde – il
+faut bien un terme parce que… Qu’est-ce qu’il y a au-dessus du monde et des sujets, du monde
+qui développe les sujet et les sujets qui enveloppent le monde ? Il y a toujours Dieu ; il y a
+toujours cette histoire de Dieu puisque c’est une philosophie tellement liée à une certaine
+théologie. [89 :00] Mais Dieu n’est pas un point de vue ; ce n’est pas un sujet ; ce n’est pas le
+monde non plus. Dieu, il crée le monde, et on le sait, et en créant le monde, il crée les sujets, ou
+l’inverse. Mais voyez que sujet et monde sont complètement corrélatifs parce que l’un est à l’état
+développé ce que l’autre est à l’état enveloppé. C’est ça qui est formidable. Comprenez bien ?
+L’un est à l’état… Le sujet est à l’état enveloppé ce que le monde est à l’état développé. Que
+c’est beau !
+
+Or, or, or, vous avez dès lors en quoi la continuité et les indiscernables… il n’y a aucune
+contradiction. La loi de continuité, c’est la loi du développement, et les indiscernables, c’est le
+principe de l’enveloppement. Si un jour il vous arrive de lire tout ça, [90 :00] Si vous cherchez à
+quoi s’applique la formule, "Toute chose se distingue par le concept, toute différence est
+conceptuelle", c’est évidemment à l’état des choses enveloppées dans les sujets. Au contraire, les
+différences évanouissantes, c’est l’état du monde en tant que développé. [Pause] Si bien qu’il n’y
+a aucune contradiction. La différence, oui, est évanouissante et inassignable du point de vue du
+développement du sujet dans le monde ; elle est assignable et conceptuelle du point de vue de
+l’enveloppement du monde dans le sujet.
+
+Alors, Dieu, lui, qu’est-ce qu’il fait puisque… il n’est ni enveloppé, ni développé, Dieu. Qu’estce qu’il est ? Mot charmant, qu’avant Leibniz les philosophes avaient créé : Dieu est le grand «
+compliquance ». [91 :00] Il n’implique pas, et il n’explique pas ; il n’enveloppe pas, et il ne
+développe pas ; il complique. Formidable définition de Dieu : la complication universelle.
+Compliquer, c’est quoi ? C’est maintenir la simultanéité et l’immanence mutuelle de
+l’enveloppement et du développement. Si je dis, celui-là, c’est un compliqué, qu’est-ce que ça
+veut dire ? Complicare, c’est un très beau mot, complicare. Il complique… Compliquer, ce n’est
+
+                                                                                                    18
+
+pas forcément un défaut ; compliquer, c’est vraiment l’équivalent de comprendre, mais
+comprendre au sens fort du terme. En fait, je croyais que c’était un doublet, mais c’est un triplet :
+compliquer, expliquer, impliquer.
+
+Dieu, il complique les sujets dans le monde. Dans toute la philosophie de la Renaissance, [92
+:00] complication va connaître un développement ; ça sera un des plus beaux concepts de la
+philosophie de la Renaissance, chez notamment deux grands philosophes que Leibniz connaît
+admirablement, Nicolas de Cues, et le grand philosophe italien, Bruno, qui mourût brulé, qui
+mourût compliqué par le feu. [Rires] Ah, il fait ça, le feu. Le mouvement par lequel on mettait
+quelqu’un dans le feu, ça se rétrécit, puis… C’est la complicatio, donc ; Dieu c’est le feu. Voilà.
+Dieu complique.
+
+Alors, vous voyez, on a trouvé le dynamisme, et du coup, pourquoi est-ce que la continuité est
+dite une loi ? C’est très simple : la continuité est dite une loi parce que le monde développé, ça
+répond uniquement aux phénomènes, ce n’est qu’un phénomène. [93 :00] C’est l’apparition ; ce
+n’est pas la chose, c’est l’apparition. La chose, c’est le sujet, c’est le sujet qui enveloppe le
+monde. Si vous développez le monde, c’est comme si vous étiez allés au monde de pures
+apparitions, de purs phénomènes. Donc, la continuité sera le principe de toutes les lois de
+phénomènes, alors que les indiscernables seront le principe de toutes les raisons de la chose ou
+du sujet. [Pause]
+
+Enfin, cinquième principe : on vient de concilier le troisième et le quatrième. Le cinquième
+principe-là, je m’arrête pour le laisser pour la prochaine fois. Mais enfin, parce que le cinquième
+principe a tellement d’aspects qu’il [94 :00] vaut pour une infinité de principes, l’ensemble de ce
+que Leibniz présente comme les principes de finalité. Et les principes de finalité à quel ratio ça
+renvoie ? Au dernier ratio ; vous avez cinq ratios qui ont traversé la philosophie depuis qu’il y a
+de la philosophie : c’est la ratio agendi, agendi, c’est-à-dire la raison de faire. Vous voyez la liste
+des cinq raisons que vous devez apprendre par cœur : raison d’être, raison d’exister, raison de
+connaître, raison de devenir, et raison de faire.
+
+Bien, alors, on verra, c’est tout ce qui nous reste à faire, cette histoire, mais vous en avez assez ?
+Ah, bien oui ! Enfin, je termine là-dessus, parce que juste… ce que je vais faire au début de la
+prochaine fois.
+
+Comprenez le problème : ce que [95 :00] je voudrais, je voudrais que vous y pensiez d’ici la
+prochaine fois. C’est que, à partir de là, on se trouve devant un exemple privilégié pour notre
+compréhension de la philosophie. J’ai bien marqué qu’après tout, cela n’allait pas de soi, tous ces
+principes de Leibniz. Supposons un philosophe – et ce philosophe a existé assez vite après
+Leibniz – qui vraiment ne soit pas d’accord avec ces principes. Je prends l’exemple de Kant. Il
+n’est pas d’accord sur deux points fondamentaux. Je les explique : là il faut vraiment procéder
+d’une manière très, très technique. Kant est celui qui dit, premier, non, toute proposition n’est
+pas analytique. Il y a des propositions synthétiques, et c’est même par là qu’il y a une
+connaissance. L’un dit blanc, l’autre dit noir. Deuxième proposition [96 :00] kantienne : Non,
+toute différence n’est pas conceptuelle. Mais un certain nombre de déterminations, et notamment
+le nombre laisse passer le temps, sont irréductibles aux concepts. Donc double négation de Kant
+
+                                                                                                      19
+
+qui fait la grande rupture avec Leibniz après avoir été assez longtemps leibnizien. C’est sa
+grande rupture : il nie le principe de raison suffisante, et le nie le principe des indiscernables.
+
+On se trouvera donc la prochaine fois devant un cas privilégié, là auquel je tiens pour essayer de
+débrouiller cette notion stupide du statut de la philosophie, quand on nous dit : tantôt les
+philosophes passent leur temps à dire la même chose ; ça ne les empêche pas de se battre, parce
+que c’est une question de mots ; tantôt ça revient entièrement au même, on nous dit que les
+philosophes ne cessent pas de nous dire le contraire [97 :00] les uns aux autres ; ils se battent
+entre eux, l’un dit ceci, l’autre dit cela.
+
+La question que je voudrais poser la prochaine fois, c’est sur cet exemple privilégié Leibniz-Kant
+; qu’est-ce qui signifie l’opposition Leibniz-Kant ? Est-ce que c’est une opposition ? Qu’est-ce
+qui se passe ? Qu’est-ce que c’est que les conditions de ces propositions ? Vous voyez, je
+regroupe quatre propositions, deux pour Leibniz, deux pour Kant, et je voudrais commenter en
+fonction de ça parce que mon vrai projet, c’est qu’est-ce que c’est que les concepts en
+philosophie ? Prenez une proposition de Leibniz : toute proposition est analytique ; antiproposition de Kant : non, il n’y a connaissance qu’à partir de propositions synthétiques.
+Deuxième proposition de Leibniz : toute différence est, en dernière instance, conceptuelle.
+Deuxième anti-proposition de Kant : non, [98 :00] il y a des différences non-conceptuelles sans
+lesquelles il n’y aurait pas de connaissances, et ce sont les différences numériques, les
+différences spatio-temporelles, etc. Donc à partir de cet exemple privilégié, qu’est-ce que peut
+bien signifier la formule courante : deux philosophes ne sont pas d’accord.
+
+Voilà, pensez-y. Il est évident qu’ils ne sont pas d’accord ; on pourrait le démontrer logiquement
+; c’est une proposition vide de tout sens. Voilà, je vous bénis. [1 :38 :45]
+
+Notes
+
+[1] Cf. https://www.youtube.com/watch?v=vyd4sjEgU-c&t=718s [Verifié le 28 juin 2023]
+
+[2] Voir “N comme Neurologie” et “O comme Opéra” dans L’Abécédaire de Gilles Deleuze.
+
+[3] Fin de la bande pour l’enregistrement de WebDeleuze ; le séminaire continue encore treize
+minutes, avec l’addition fournie de l’enregistrement BNF et sur YouTube (voir note 1).

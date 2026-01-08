@@ -1,0 +1,1429 @@
+1
+
+Gilles Deleuze
+
+Sur le cinéma: une classification des signes et du temps
+
+5ème séance, 14 decembre 1982 (cours 26)
+
+Transcription : La voix de Deleuze, Hamida Benane (1ère partie); Pimentel Elen Brandao,
+Relecture-correction : Emmanuel Péhau (2ème partie); et Viara Coleva Georgieva et Clara
+Guislain (3ème partie); révisions supplémentaires à la transcription et l’horodatage,
+Charles J. Stivale
+
+Partie 1
+
+...si l’on entend même le cinéma, vous n’avez pas été sans lire récemment, les déclarations d’un
+grand auteur, d’un grand metteur en scène -- mais qui est un moins bon penseur que metteur en
+scène, et qui déclare -- alors, c’est la vieille rengaine qui recommence -- « le cinéma n’a plus
+rien…, il n’y a plus de récit, donc le cinéma ne peut que réciter sa propre histoire et prendre pour
+objet son histoire », hein ?
+
+Un étudiant : [Commentaire inaudible]
+
+Deleuze : [Il rigole] Tu veux dire qu'il était ivre ? Mais c’était vraiment la première fois que des
+propositions aussi éhontément hégéliennes étaient tenues jusqu’à maintenant, alors tout y était
+passé : la poésie ne peut plus être que sa propre histoire, et sa propre réflexion, la philosophie ne
+peut être que la réflexion de la philosophie et l’histoire de [1 :00] la philosophie, etc., etc. Mais
+bizarrement, on ne l’avait pas dit pour le cinéma, il a fallu qu’un Allemand le dise, c’est forcé.
+
+Mais c’est marrant, ce thème, d’abord c’est nul comme thème, l’idée, l’idée, et toutes ces
+théories sur le récit, qui n’a plus qu’à se réciter lui-même, cette réflexivité de l’œuvre sur soi,
+c’est d’un fatigant ! Ou ce thème de l’œuvre dans l’œuvre, mais je veux dire c’est, c’est
+impudique, c’est impudent, c’est impudent. Ressasser des trucs comme ça qui n’ont jamais
+étaient vrais, c’est très curieux. Ah, le monde n’est pas gai, hein ?
+
+Alors c’est la tranquille assurance des gens qui disent des trucs comme ça, en pensant même -- ça
+va tellement loin -- qu’ils arrivent à penser qu’ils disent quelque chose de nouveau, [2 :00] en
+disant qu’il n'y a rien de nouveau. Ça se complique, ils sont fatigants. Au lieu de faire leur
+boulot, je veux dire, vous comprenez, ce qu’il y a bien dans la philosophie, c’est qu’elle n’a pas,
+elle ne contient pas un gramme de plus de réflexion que les autres disciplines, c’est ça qui est
+bien dans la philosophie. Alors, au contraire, si on met de la philosophie partout, à ce moment-là,
+toutes les choses deviennent des processus d’autoréflexion, et voilà qu’on va nous dire que le
+peinture est réflexion sur la peinture, que la musique est réflexion sur la musique, que le cinéma
+est réflexion sur le cinéma. Mais on n’a jamais rien fait avec de la réflexion, surtout pas de la
+philosophie, jamais, jamais. Ouais, triste monde, ben oui, [3 :00] c’est forcé !
+
+Moi, ça m’a toujours paru -- j’espère que beaucoup d’entre vous aussi - mais tous les thèmes qui
+
+                                                                                                     2
+
+consistent à nous dire : écrire, c’est finalement se demander « qu’est-ce qu’écrire ? », ou
+« comment écrire ? », ou « est-il possible d’écrire ? », « écrire, c’est la confrontation avec la page
+blanche », tout ça, ça m’a toujours paru, je ne sais pas, vraiment des mauvaises plaisanteries. Je
+me dis, mais, qu’est-ce que... ça ne va pas la tête ? Ça ne va pas ? Curieux. C’est la vie. Il faut
+tout supporter. Il ne faut pas avoir l’air de dire que ce n’est pas vrai parce que là-dessus, on se
+trouverait dans des situations impossibles. Il faut dire : « Très bien, allez-y ». Ça ne risque pas
+d’aller loin [4 :00] de toute façon [Rires] Oui, en effet, c’était étonnant parce que le cinéma était
+épargné ; eh ben, depuis quelques mois, il ne l’est plus ! Au moins comme il a une courte
+histoire, lui ça ira plus vite ! Bon allez, on travaille.
+
+Georges Comtesse : À propos d’ailleurs de ce que tu dis là, sur le Tout et sur l’Ouvert, il me
+semble que tu avais essayé de dire que le seul point d’accord entre Bergson et Heidegger était
+justement [5 :00] sur la question du Tout et de l’Ouvert. Ça fait problème ça !
+
+Deleuze : Cette comparaison ?
+
+Comtesse : Oui, parce que l’essence de la vérité, lorsque Heidegger dit que l’important, c’est de
+laisser être l’étant, c’est-à-dire la possibilité de s’ouvrir à l’Ouvert, il ne veut pas dire l’Ouvert
+comme Tout. C’est simplement ce que la pensée métaphysique ou philosophique, dès sa
+différence originaire, entre l’être et l’étant, l’essence ou [6 :00] l’apparence, et l’apparence, cette
+différence n’est pas simplement la différence de l’oubli de l’Ouvert. C’est que l’ouverture à
+l’Ouvert n’est pas forcément -- et c’est ça qui est impensable pour un philosophe -- l’ouverture à
+l’Ouvert n’est pas, n’est pas immédiatement et forcément l’Apparaître de l’être, l’Apparaître
+dans cette différence avec à la fois l’apparence et l’apparition phénoménale, parce que ce que
+justement la pensée métaphysique ou philosophique avec sa différence originaire entre l’être et
+l’oubli, ne pense pas l’oubli de ce qu’on oublie, c’est que dans [7 :00] l’Ouvert lui-même,
+l’Ouvert lui-même peut se fermer. Autrement dit, qu’il y a un refus, un jeu, le jeu du temps. Si
+l’être est le temps, comme dirait Heidegger, l’impensé de toute la philosophie, que l’être soit le
+temps, et c’est ça qui forme justement le retournement, l’équerre ou le tournant et le
+surmontement même de la métaphysique au-delà de son achèvement, eh bien, c’est que dans
+l’être, dans la pensée même de l’être, il y a la pensée d’un « retrait » énigmatique dans sa
+dispensation même, c’est-à-dire, que la production justement de la présence lumineuse hors du
+latent, si c’est possible, cet avènement justement [8 :00] de la présence lumineuse, il y a dans
+l’avènement un étrange dérobement, c’est-à-dire qu’à la fois, Heidegger pense le jeu énigmatique
+de « l’être comme temps », mais aussi poétiquement l’énigme de ce jeu, c’est-à-dire ce latent
+dont précisément d’être hors de lui, susciterait l’avènement de l’être comme lumière. C’est
+pourquoi, il n’est pas peut-être soutenable ou possible d’identifier ou de faire, disons, un pont
+entre Heidegger et Bergson qui malheureusement en reste lui à la métaphysique, et peut être pire
+que la métaphysique, c’est-à-dire, « la mystique ».
+
+Deleuze : [Il rigole] Je te reconnais, [9 :00] tout ton développement est excellent, la conclusion
+exprime un goût que je... un goût tout philosophique. C’est-à-dire ça consiste à me dire «
+comment vas-tu oser reprocher Bergson que je n’aime pas, à Heidegger que j’admire ? ». Ça
+c’est ton affaire. Moi, je répondrais juste deux choses : toute ton analyse est très juste sur
+Heidegger, mais première règle, il ne faut pas transformer une grosse remarque en fine remarque.
+J’appelle « grosse remarque » ce que je disais et qui me paraît rester entièrement valable, à savoir
+
+                                                                                                     3
+
+si vous cherchez dans l’histoire de la philosophie quels auteurs ont liés profondément d’une
+manière originale -- mais pas la même, je disais, pas la même -- mais ont, au moins, en commun
+d’avoir lié les trois notions de Tout, temps et Ouvert, à ma connaissance je n’en vois que deux :
+Bergson et Heidegger, [10 :00] ce qui me paraît suffire à faire une comparaison à un niveau gros.
+
+Quant à tout ce que tu as dit sur Heidegger, c’est absolument juste, mais ne pas voir que chez
+Bergson, -- avec de tout autres concepts évidemment, et une tout autre terminologie, il y a
+fondamentalement dans la durée quelque chose qui, au moment même où elle est l’objet de
+l’intuition, est aussi son « retrait » et le mouvement par lequel elle se dérobe -- ne pas voir ça
+dans Bergson, c’est simplement dire que tu ne t’intéresses pas du tout à Bergson. Les textes de
+Bergson sont tellement formels, à savoir que notre durée psychologique, c’est-à-dire celle qui
+nous est révélée, n’est que, en même temps, le mouvement par lequel les autres durées [11 :00]
+qui, en fait, constituent vraiment la durée comme Tout, à savoir par lequel les autres durées se
+dérobent, au point que pour atteindre à l’essence de la durée, il faut dépasser ce qu’il appelle « la
+condition humaine ». Chez Bergson, il n’y a pas la durée qui est à donner ; elle ne cesse pas de se
+dérober en se donnant, la durée, ce qui ne m’autorise pourtant à faire aucun rapprochement
+Bergson-Heidegger au-delà de ce très gros rapprochement.
+
+Je disais, eh ben oui, c’est quand même curieux, ces deux auteurs très indépendants l’un de
+l’autre. Je ne sais pas si Heidegger a lu Bergson ; peut-être qu’il a lu Bergson, enfin, ça ne l’a pas
+beaucoup marqué, ce n’est pas sa propre tradition. C’est curieux, parce que Heidegger, il est
+arrivé à ce lien – il me semble – totalité, ouverture, temporalité, par une certaine tradition que tu
+dis, très bien, finalement, très poétique, [12 :00] poético-philosophique. Bergson, à mon avis, y
+est arrivé très bizarrement, par beaucoup plus par une réflexion sur le vivant : si le vivant
+ressemble à une totalité, si le vivant est un Tout, c’est précisément parce qu’il est « ouvert » au
+monde alors que les gens disaient au contraire avant, que si le vivant ressemble à un Tout, c’est
+parce qu’il est un microcosme qui reproduit le grand Tout fermé. C’est en inversant, c’est en
+tordant la métaphore traditionnelle, c’est par une réflexion sur le vitalisme, à mon avis, que
+Bergson arrive à sa conception du Tout fondamentalement ouvert. [Pause] Bon, on y va ? On
+continue.
+
+Alors vous voyez, j’en suis toujours, mon rêve, ça serait d’arriver, il faudrait que j’aille assez vite
+parce qu’il faudrait pour les vacances de Noël en avoir fini [13 :00] avec tous ces problèmes
+image et signe, et forcément on a traîné. Alors, voyez, après m’être déshonoré la semaine
+dernière, puisque j’ai passé deux heures à dire que Peirce était un admirable philosophe anglais,
+et que quelqu’un à la fin m’a signalé gentiment qu’il était américain, [Rires] je me suis senti
+évidemment, je me suis dit : jamais plus, ils ne me croiront rien de ce que je vais leur dire, après
+une erreur comme ça. Aussi je ne parlerais plus que de penseurs « anglo-saxons », [Rires] et tout
+ce que je disais sur les mérites particuliers de la philosophie anglaise devait évidemment
+s’entendre des mérites particuliers de la philosophie anglo-saxonne ou anglo-américaine. Bien,
+alors… mais ça m’a embêté alors quand même ; j’étais malheureux. Évidemment vous
+comprenez, il est né à Cambridge, moi j’ai mal lu, [14 :00] j'ai mal lu ; mais évidemment, il y a
+un Cambridge en Amérique, c’est grotesque tout ça. [Rires ; les étudiants lui parlent] Quoi ? Il y
+a un Moscou ? Il y a un Paris aussi, alors aussi je pourrais citer le fameux philosophe français s'il
+y a un Américain qui est né à Paris, bon. Peu importe, enfin peu importe, non, non, non, pas peu
+importe. Voilà.
+
+                                                                                                       4
+
+Alors, voyez, on a selon Peirce nos deux premiers types d’images : Priméité, Secondarité, ça, je
+suppose que c’est devenu très clair ; si je fais déjà un petit tableau, je dis Priméité, ça renvoie à
+ce que nous appelions dans nos analyses précédentes : images-affection, et ça enrichit beaucoup
+tout ce que nous pouvions dire sur l’image-affection. Là, il y a une coïncidence. [15 :00] Comme
+catégorie, la Priméité… Non, plutôt comme modalité, vous savez, si j’essaie de situer la modalité
+au sens des modalités de jugement, il y a trois modalités du jugement dans la philosophie
+classique : le possible, le réel, et le nécessaire. Du point de vue de la modalité, la Priméité, c’est
+le possible. Du point de vue de ce qu’on pourrait appeler la quantité, et non plus la modalité -- la
+Priméité, on a vu, là, on prenait un peu d’initiative, de distance par rapport à Peirce -- mais la
+Priméité, c’est la singularité, [Pause] et j’ajouterais, du point de vue des actes de l’esprit, la
+Priméité, c’est [16 :00] l’expression. [Pause] Les caractères de la Priméité c’est, nous l’avons vu,
+c’est : qualité, potentialité, conscience immédiate… [Interruption de l’enregistrement] [16 :28]
+
+... [La Secondéité], ça correspond tout à fait à notre image-action. [Pause] La modalité
+correspondante, c’est le réel ; la quantité correspondante, c’est l’individualité ; [Pause] [17 :00]
+l’acte correspondant de l’esprit, c’est la position ou l’opposition. [Pause] Les caractères de la
+Secondéité c’est : l’état de choses ; le fait ou le duel ; l’expérience, l’expérience comprise
+comme la part de l’événement qui s’actualise, ou comme le passage d’un état de choses à un
+autre état de choses.
+
+Un étudiant : [Inaudible] [18 :00]
+
+Deleuze : Non, ce n’est pas des catégories ça, c’est des points de vue sur les catégories. Les
+catégories, c’est Priméité, Secondéité et Tiercéité ; alors, les points de vue sur les catégories,
+c’est la modalité, qui nous donne possible, réel, et on verra pour Tiercéité ; la quantité :
+singularité et individualité ; et l’acte de l’esprit qui nous donne : expression, position ou
+opposition.
+
+Eh ben, il nous reste maintenant cette troisième catégorie de Peirce, ce troisième type d’image,
+selon lui, ce troisième type d’Apparaître, qu’il appelle la Tiercéité. [19 :00] Et là, bon, on est bien
+forcé de laisser dans le vide quelque chose immédiatement, parce que si vous vous reportez à
+notre classification des images, telle que je la proposais l’an passé à l’exposé de Peirce, pour le
+moment, on ne voit rien qui lui correspond. Vous allez le comprendre immédiatement vu la
+manière dont Peirce définit la Tiercéité.
+
+Je dirais que, pour lui, il n’y a pas de doute ; en tout cas, la Tiercéité a pour modalité le
+nécessaire. C’est encore les trois modalités du jugement : possible, réel et nécessaire. Elle a pour
+quantité, elle a pour quantité non plus le singulier ou l’individuel, mais le général, la généralité ;
+[20 :00] elle a -- on le comprendra, pourquoi au fur et à mesure -- pour acte de l’esprit,
+l’interprétation ou la compréhension ; c’est donc un ensemble très riche. Du coup, quels
+caractères vont définir la Tiercéité ? Qu’est-ce que c’est ? Ben, exactement comme je le disais, la
+Secondéité, c’est ce qui est deux par soi-même, la Tiercéité, c’est ce qui est trois par soi-même,
+c’est-à-dire, ce qui renvoie à autre chose. C’est un « un », qui renvoie à un « deux », et ça, ça
+serait la Secondéité ; il faut ajouter par l’intermédiaire d’un « trois », et ça, ça serait une
+Tiercéité. Ah bon, c’est ça une Tiercéité.
+
+                                                                                                     5
+
+Seulement, il faut déjà [21 :00] préciser : cette Tiercéité, en quoi c’est un type d’image ? La
+réponse de Peirce, ce qu’il appelle la Tiercéité, c’est tout ce qu’on peut désigner, tout ce qu’on
+peut entendre sous le nom de « le mental », le mental. [Pause] « Les pensées ne sont ni des
+qualités, ni des faits », dit Peirce ; « les pensées ne sont ni des qualités, ni des faits », vous vous
+rappelez ? c’est-à-dire, ne sont ni de la Priméité, ni de la Secondéité. Une pensée est toujours une
+Tiercéité. La Tiercéité, je peux dire, bon, que c’est une image-pensée [22 :00] par différence avec
+l’image-affection et l’image-action. Bon, on ne l’a pas encore bien trouvé dans nos catégories à
+nous ; c’est pour ça qu’il va y a voir besoin de confronter, de mélanger tout ça. C’est le mental.
+Mais quand est-ce qu’il y a vraiment mental ? Quand est-ce qu’il y a vraiment trois ? Et pourquoi
+dès qu’il y a trois, il y a le mental ? Compliqué ! Et pourquoi pas plus que trois ? Beaucoup de
+questions nous viennent : pourquoi est-ce qu’il s’arrête ? Puisqu’il s’arrête en effet -- il pense que
+la Tiercéité épuise -- pourquoi pas un quatre, un cinq, un six ? C’est important tout ça. [23 :00]
+
+Tiercéité, qu’est-ce que ça peut être au juste ? Je prends un morceau de papier, et puis un autre
+morceau de papier, et je les épingle, ou je mets un trombone. C’est un exemple qu’il prend. À
+première vue, c’est la constitution d’une Tiercéité ; j’ai un, deux et trois. C’est toujours de ça que
+partent les Anglo-saxons, par deux trucs comme ça. Ce n’est pas difficile. Je vois mes deux
+papiers avec une épingle ou un trombone. Est-ce que c’est de la Tiercéité ? Non, ça a l’air d’être
+une Tiercéité, Peirce dira, en empruntant le terme à la théorie des coniques en mathématiques,
+mais peu importe. Il dira : c’est un cas de [24 :00] Tiercéité dégénérée ; ce n’est pas de la
+Tiercéité ça. Pourquoi ça n’en est pas une Tiercéité ? Parce que vous pouvez très bien retirer la
+feuille B du trombone, et vous garderez le duo, la dyade feuille A et trombone, sans que rien n’ait
+changé dans la feuille A, ni dans le trombone. Vous auriez donc pu soustraire un des termes sans
+que les deux autres ne se soient affectés, vous me suivez ? C’est donc de la fausse Tiercéité.
+
+Dans une vraie Tiercéité, vous ne pouvez pas soustraire un terme sans changer tout, tandis que là,
+[25 :00] ce qui vous montre que c’est de la fausse tiercéité, c’est que, encore une fois, votre
+papier A et le trombone restent tout à fait identiques, bien que vous ayez soustrait et vous ayez
+ôté la feuille B. C’est donc une Tiercéité dégénérée, ce n’est pas de la vraie Tiercéité. Et qu’estce que c’est qu’une Tiercéité dégénérée ? En fait, c’est un couple de dyades, un couple de duel,
+c’est de la Secondéité. Simplement vous considérez deux duels à la fois : vous considérez un
+premier duel, la feuille A et le trombone, et un second duel, la feuille B et le trombone. Avec
+deux duels qui ont un terme commun, vous pouvez toujours fabriqué une Tiercéité, seulement
+c’est une fausse Tiercéité. Vous n’obtiendrez jamais une vraie Tiercéité en multipliant [26 :00]
+des dyades, c’est-à-dire en multipliant des couples. Les couples, c’est la Secondéité. Vous pouvez
+multiplier des couples, vous ne sortirez pas de la Secondéité. Bien plus, la Secondéité, elle est
+faite de la multiplication des couples.
+
+Autre exemple : [Pause] A jette l’objet B. C arrive et ramasse l’objet B. Pouvez-vous dire que A
+a donné, a donné B à C ? Non. Vous avez deux dyades, [27 :00] vous avez deux duels, vous avez
+deux Secondéités : première Secondéité, A jette la chose B ; seconde Secondéité, deuxième
+Secondéité, C ramasse B. Vous avez deux couples, vous avez deux dyades, vous n’avez pas une
+Tiercéité. Vous ne pourrez jamais obtenir une vraie Tiercéité -- c’est l’idée de Peirce -- à partir
+d’une combinaison de dyades.
+
+                                                                                                        6
+
+Ça va nous avancer d’ailleurs, parce que vous sentez que son un, deux, trois, on risque
+immédiatement de lui dire, ah, ben une fois de plus, vous êtes hégélien, quoi. L’idée de Peirce,
+c’est que Hegel a bien dit : un, deux, trois, parce qu’il a eu un pressentiment, mais qu’il n’a pas
+du tout compris ce que c’était que la Tiercéité, que finalement il n’a [28 :00] jamais su aligner
+que des couples de dyades. Et c’est aussi ce que Peirce reproche à la logique, elle en est restée à
+la Secondéité, la logique. Et lui qui se prétend alors le créateur -- et c’est vrai historiquement --
+d’une logique triadique, c’est-à-dire qui n’est plus bipolaire avec les deux seules valeurs du vrai
+et du faux, mais qui est tripolaire, il pense qu'il constitue, en effet, la logique propre du mental,
+donc il y attache énormément d’importance.
+
+Autre exemple pour que vous compreniez bien : j’ouvre ma fenêtre le matin, et je me laisse
+tomber, et je pousse un pot de fleurs qui tombe dans la rue, donc A et B : A, je jette le pot de fleur
+sans regarder ; B, le pot de fleurs tombe. L’individu C passe à ce moment-là et reçoit le pot de
+fleurs, bon. [29 :00] Tout comme je disais tout à l’heure : est-ce que je peux dire, j’ai donné
+l’objet, lorsque j’ai jeté un objet qu’un autre vient ramasser, et que je disais non, c’est deux
+Secondéités. Là, est-ce que je peux dire : j’ai tué quelqu’un ? Sans doute, je me reprocherai cet
+accident malheureux, mais je n’ai pas tué quelqu’un à proprement parler. Il y a eu deux dyades :
+moi et le pot de fleurs qui tombe, l’autre et le pot de fleurs qu’il reçoit, deux dyades ayant un
+terme commun ne constituent jamais une Tiercéité. Mais alors, qu’est-ce qui constitue une
+Tiercéité ? Et vous pouvez aller à l’infini là comme ça, des duels, vous pouvez multiplier les
+duels, vous n’arriverez jamais à trois. [30 :00] Bon.
+
+Alors, en revanche supposons des actes, voilà des actes que l’on peut considérer sous les
+expressions suivantes : je tue, Caïn tue Abel, je donne, j’échange, etc., etc. Alors on pourrait
+jouer à toutes sortes de jeux, d’exercices pratiques. Là, Peirce nous dit : ça c’est des Tiercéités.
+Pourquoi ? Pourquoi est-ce que, en effet, « je donne » -- voyez tout de suite la différence – ce
+n’est pas jeter un objet qu’un autre vient ramasser. Je donne. [31 :00] Ah, bon. « Je tue », ce n’est
+pas jeter un pot de fleurs que l’autre reçoit comme ça. C’est attendre qu’il passe et puis pan! Là,
+c’est une Tiercéité : j’ai attendu deux jours pour qu’il passe et quand il passait, [Rires], juste,
+juste, ouf, j’ai atteint la Tiercéité. Bon.
+
+Quel est le caractère ? Remarquez, je disais, dans tous mes exemples précédents, c’était des
+Tiercéités dégénérées. Si on reculait en arrière, mais il ne faut pas trop, il y a aussi des
+Secondéités dégénérées. Selon Peirce, et ça pose un problème, ça posera un problème lorsqu’on
+osera une discussion de confrontation avec lui, selon Peirce, il ne peut pas y avoir de Priméité
+dégénérée. On comprend pourquoi, parce que ce qui est un par soi-même n’a pas de
+dégénérescence. [32 :00] Mais exemple de Secondéité dégénérée, exemple de vraie Secondéité :
+je dîne chez Pierre, sous-entendu, moi Paul, moi n’importe quoi, je dîne chez Pierre. Mais
+suivant la page rose du dictionnaire Larousse : « Lucullus dîne chez Lucullus », voilà une
+Secondéité dégénérée. Remarquez que dans notre langage, il y a plein de Secondéités
+dégénérées, plein de trucs comme ça. Bon, mais peu importe.
+
+Je donne, j’échange, je tue, voilà des Tiercéités ; qu’est-ce qu’elles ont de commun ? C’est
+curieux. Premier caractère commun : je dirais, elles impliquent bien, vous sentez que tous ces
+actes impliquent bien du mental. [33 :00] Là, ils renvoient à une loi ; ils ont en commun de
+renvoyer à une loi, et ça va être le premier caractère de la Tiercéité, l’existence d’une loi. Cette
+
+                                                                                                        7
+
+loi, elle peut être physique ou morale. [Pause] Et de toute manière -- à mon avis, là Peirce est
+très intéressant -- de toute manière, que la loi soit physique ou morale, mais c’est
+particulièrement évident quand elle est morale, alors l’acte a une dimension et une détermination
+symbolique. Le symbole va être un des caractères profonds de la Tiercéité ; dès qu’il y a
+symbole, il y a Tiercéité. Dès qu’il y a loi, il y a Tiercéité. [Pause] [34 :00]
+
+Et en effet, le don s’accompagne toujours d’un symbole qui le détermine comme don, même
+lorsque ce symbole est très, très caché, même lorsque le geste du donateur -- les ethnologues font
+des études sur les comportements de dons à travers les civilisations -- à chaque fois, on voit la
+présence d’un symbole dans le comportement donateur. De même pour l’échange, de même pour
+tuer. Tuer, qu’est-ce que c’est sans référence à une loi ? Donc dans les Tiercéités, c’est à ça que
+vous les reconnaissez, il y a toujours référence à une loi, et c’est par-là qu’il y a trois. Il y a un
+objet, un autre objet, [35 :00] et une loi qui rapporte l’un à l’autre, qui rapporte l’un à l’autre
+suivant une règle, suivant sa propre règle. [Pause]
+
+Mais il y a tout de suite une objection qui nous vient, il ne faut pas exagérer, mais la Secondéité,
+elle impliquait déjà des lois. J’espère qu’elle vous est venue déjà, immédiatement ! Vous vous
+rappelez que la Secondéité, c’était, entre autres, les rapports action-réaction, [Pause] une action
+et une réaction, c’est-à-dire un duel. Or il y a une loi, c’était les rapports effort-résistance. Ben, il
+y a une loi, il y a des lois de la résistance, il y a des lois [36 :00] de l’effort, il y a des lois
+concernant le rapport d’une action et d’une réaction. Étant donné une chose, étant donnée une
+action, calculer la réaction d’une chose dont vous connaissez la nature, tout ça c’est le domaine
+des lois.
+
+Mais c’est à la fois très facile, et évidemment il n’est pas idiot, Peirce. Évidemment il y a des lois
+qui règlent les actions et réactions. Mais ce qu’il veut dire c’est tout à fait autre chose et c’est très
+simple : c’est que jamais une action ou une réaction n’a pour cause la loi qui la régit. [Pause]
+C’est une idée très simple, et c’est de la bonne philosophie, très… [37 :00] des choses auxquelles
+on ne pense pas d’habitude, mais qui sont absolument convaincantes : une action et une réaction,
+un effort et une résistance sont toujours conformes à des lois, mais elles n’en dérivent pas.
+[Pause] Ça revient au même que dire : une action et une réaction répondent bien à une loi, mais
+elles n’ont pas cette loi comme cause.
+
+En effet, prenons des cas simples : un mouvement animal répond à des lois, et même un
+mouvement humain ; ça vaut pour l’animal et l’humain, et pour l’homme autant que pour
+l’animal. Par exemple, si je veux lever le bras, eh ben, ça engage toutes sortes de rapports
+d’actions et de réactions entre [38 :00] les innervations, les muscles, les résistances organiques,
+les tensions organiques, etc. Tout ça, c’est régi par des lois, mais jamais personne n’a levé le
+bras, je dirais, en pensant à tout ça, car si je pensais à tout ça, je ne lèverais jamais le bras. Ce qui
+veut dire, à plus forte raison, un animal, quand un animal fait un mouvement, c’est conforme à
+toutes ces lois physico-physiologiques, mais ce ne sont jamais ces lois physico-physiologiques
+qui sont la cause d’une action, et pourquoi ?
+
+C’est tellement évident. C’est qu’une loi, elle est, comme on le dit, toujours hypothétique. Si tu
+fais cela, alors telle [39 :00] chose se produit. Une loi est toujours conditionnelle ; si tu portes de
+l’eau à cent degrés, alors elle bout. Mais la loi n’a jamais suffi à faire bouillir de l’eau. Ce n’est
+
+                                                                                                             8
+
+pas la loi qui fait bouillir l’eau ; la loi, c’est la règle à laquelle se conforme l’eau quand elle se
+met à bouillir si bien que Peirce peut nous dire avec la plus grande rigueur : bien sûr, le monde
+de la Secondéité est régi par des lois ; n’empêche que jamais les lois ne sont considérées dans la
+Secondéité comme telles. En revanche, si vous êtes forcé de considérer une loi pour elle-même,
+vous pouvez dire : je suis dans le domaine du mental, je suis dans la Tiercéité. [40 :00]
+
+Si bien que le premier caractère -- et vous voyez en quoi Peirce peut déjà nous dire que la
+modalité de la Tiercéité, c’est la généralité -- il y a Tiercéité dès que intervient explicitement,
+explicitement une loi physique ou morale, la présence explicite de la loi étant indiquée par ce
+qu’il appellera « un symbole ». [Pause] Il dirait aussi bien que la loi -- et il le dit désignant la
+Tiercéité – eh ben, c’est quoi ? Ce n’est ni l’affection, ni l’action, c’est le sens, [41 :00] ou la
+signification. Le premier caractère de la tiercéité était la loi ; le deuxième caractère de la
+Tiercéité est le sens ou la signification. Pourquoi ? Il découle tout droit : la signification – là je
+prends le sens de « signification », je n’essaie pas de distinguer le sens de la signification ; du
+point de vue où on en est, on pourrait multiplier les distinctions ; ce qui nous intéresse, c’est que
+de toute manière, ça fait partie de la Tiercéité. -- Pourquoi ? Parce que la signification, c’est
+toujours un modèle. Selon Peirce, c’est toujours un modèle qui, dans des conditions très
+différentes, qui sont soit des conditions physiques, soit des conditions morales, c’est-à-dire
+symboliques au sens étroit, vient informer [42 :00] des actions et des réactions, et là il y a une
+Tiercéité véritable. Car si vous retirez le modèle, les actions et les réactions ne sont plus les
+mêmes.
+
+Et on va peut-être comprendre ça mieux avec le point qui m’intéresse le plus : c’est que le
+troisième caractère par lequel il définit la Tiercéité, c’est la relation logique, il dit : « voilà, c’est
+ça, la Tiercéité, c’est la relation, c’est la relation logique ». Seulement qu’est que c’est que la
+relation logique ? Donc il lui donnerait, on trouverait trois caractères propre à la Tiercéité selon
+Peirce : la loi, le sens, et la relation logique. Si on comprend la relation logique, je crois qu’on
+comprend [43 :00] très bien les deux autres caractères, c’est là le vrai nœud de la Tiercéité, et en
+effet, pourquoi ?
+
+Et là, j’ouvre une parenthèse, je ne parle plus au nom de Peirce, je parle au nom de la philosophie
+tout court, c’est-à-dire qu’est-ce que ça a été ce problème de la relation, qui l’a torturée depuis le
+début, et qui a fait partie, qui a finalement fait partie d’une des raisons d’être de la philosophie ?
+Je dirais que ce qui fait partie d’une des raisons d’être de la philosophie depuis le début, c’est
+encore plus que les paradoxes sur le mouvement, c’est les paradoxes sur la relation. Comment
+une chose aussi étrange que la relation peut-elle être possible ? Et que dès le début, c’est, comme
+dirait Peirce, l’existence du mental qui était complètement engagé là-dedans. Pourquoi ? [44 :00]
+Eh ben, déjà la philosophie se trouvait devant un drôle de problème, et là j’irais très vite, je dirais
+des choses simples, donc très, très simples, pour grouper un certain problème. Donc ce n’est plus
+exactement Peirce, mais c’est pour y aboutir.
+
+Vous savez, la philosophie dès Platon, elle se confronte avec un problème qui est celui du
+jugement, et les Grecs, ils y vont à fond là ; ils disent que c’est quand même bizarre le jugement,
+même le jugement le plus simple. Le jugement le plus simple, c’est ce qu’on appelle le jugement
+d’attribution : le ciel est bleu, le ciel est bleu. Eh ben, c’est curieux ça, comment est-ce qu’on
+peut dire que le ciel est bleu, puisqu’à la lettre c’est dire A est B, A est B ? En d’autres termes,
+
+                                                                                                          9
+
+[45 :00] à moins de répéter tout le temps, l’être est l’être, le bleu est bleu, le ciel est le ciel, à
+moins de s’en tenir tout le temps au principe d’identité, il faut bien reconnaître que tout jugement
+d’attribution est une offense au principe d’identité. En effet, le jugement d’attribution peut
+s’écrire sous la forme : A est B. [Pause ; Deleuze écrit au tableau] Et Platon dit que c’est
+difficile, et qu’il va falloir expliquer ça, comment c’est possible que A soit B ?
+
+Mais voilà qu’il y a un autre type de jugement. Deuxième type de jugement. Alors, à peine on se
+disait, « oh quel problème allons-nous avoir sur le dos ? », [46 :00] qu'on apprend qu’il va y
+avoir un problème pire, et c’est comme ça, c’est toujours comme ça. Je dis A est plus petit que B.
+[Deleuze écrit au tableau] Alors c’est différent. On sent tout de suite, même sans avoir fait de
+philosophie, que, est-ce que ça peut se ramener à un jugement d’attribution ? A est B, je peux
+dire à la rigueur : le ciel est bleu, je peux dire à la rigueur, ça peut s’expliquer. Oui, alors il
+faudrait concevoir que A soit un être réel, ou le concept d’un être réel, [47 :00] et B est le concept
+d’une propriété. Le jugement d’attribution attribue une propriété à un sujet. Comment c’est
+possible ? C’est déjà une autre affaire. Mais enfin, on s’y retrouve un peu : j’attribue des
+propriétés à des sujets.
+
+Mais lorsque je me retrouve devant l’autre type de jugement : A est plus petit que B, est-ce que
+être plus petit que B, peut être assimilé à une propriété d’un sujet A ? C’est embêtant, parce que
+B, c'est aussi un sujet ; ce n’est pas une propriété, c’est aussi un sujet. Alors est-ce que je peux
+dire au moins que « plus petit que » est une propriété de A ? Hé oui, je peux dire que « plus petit
+[48 :00] que » est une propriété de A, mais je devrais aussi dire, à ce moment-là, que « plus
+grand que » est aussi une propriété de A, parce que «plus petit que B », il y a toujours un C, tel
+que A soit plus grand que C. Alors si je traite les relations comme des attributs, cette fois-ci, ce
+n’est pas simplement le principe d’identité auquel je manque ; c’est le principe de noncontradiction. J’attribue des contradictoires au même sujet, je lui attribue « plus petit » et « plus
+grand ». Vous me direz : « mais attention, il est plus petit que A, et plus grand que C ». Et alors,
+qu’est-ce que ça change ? Petit B et petit C sont des êtres réels. Je pourrais dire à la fois, je
+pourrais dire à la rigueur que le concept de A contient des propriétés, le concept d’un être réel
+contient des propriétés, mais [49 :00] est-ce que je peux dire que le concept d’un être réel
+contient d’autres êtres réels ? Pas possible de dire une chose comme ça ; à première vue, ce n’est
+pas possible, [Pause] impossible de s’en tirer. L’attribution déjà mettait en question le principe
+d’identité, la relation met en question le principe de non-contradiction.
+
+Et comment Platon va s’en tirer ? Il va dire : ben oui, ce n’est pas difficile ; vous ne vous en
+sortirez pas, et Socrate se met là-dessus, Socrate entre en scène, et il n’a pas fini, il dira : eh ben
+oui, vous ne pouvez pas échapper à la conclusion suivante, c’est que les relations ne dépendent
+pas de leurs termes, que les relations sont des Idées avec un grand « I », et qu’il y a une Idée du
+petit, [50 :00] qu’il y a une Idée du grand. Et les Idées sont découvertes par Platon, d’abord à
+propos du problème des relations. Il y a une Idée du grand, et une Idée du petit, et simplement,
+lorsque vous dites : A est plus petit que B, et plus grand que C, vous voulez dire : le terme A
+participe à l’Idée du grand par rapport au terme B, et participe à l’Idée du petit par rapport à
+l’autre terme. Platon aura été forcé de faire les relations des Idées pures qui dépassent le monde
+sensible.
+
+C’était bien parti, le problème, tellement elles sont irréductibles à des attributs de la chose, vous
+
+                                                                                                   10
+
+comprenez ? Non ? Vous ne pourrez pas [51 :00] réduire le jugement « Pierre est plus petit que
+Paul » au jugement « Pierre a les yeux bleus ». Bien plus, lorsque vous aurez lâché, et lorsque
+vous aurez découvert le monde des relations, vous vous demanderez, alors si tout jugement n’est
+pas en fait un jugement de relation, à savoir, si lorsque vous dites : « Pierre a les yeux bleu », ce
+n’est pas déjà un jugement de relation, à savoir qu’il n’y aurait même pas du tout de propriétés,
+mais qu’il n’y aurait que des relations, ce serait encore mieux. Mais enfin, pas la peine de
+compliquer, on en reste là.
+
+Un fou au sens philosophique, c’est-à-dire une espèce d’incroyable génie qui ne reculait devant
+rien, le philosophe sans doute le plus audacieux qui ait jamais existé, dit : non, non, il faut sauver
+tout ça. Il faudra montrer à n’importe quel prix que le jugement de relation peut se ramener à un
+jugement d’attribution, sinon, on est perdu. Seulement, ça va l’entraîner à de drôle de [52:00]
+choses. Il va être forcé de dire: eh ben, d’accord, il faut que chaque concept réel, que chaque
+concept qui désigne un être réel, [Pause : Deleuze écrit au tableau] ben il faut qu’il contienne --
+puisqu'on ne peut pas s’arrêter -- la totalité des autres concepts. C’est-à-dire il faudra que A
+contienne, il faudra que le concept de A contienne le concept de B, le concept de C, le concept de
+D, à l’infini. Alors à ce moment-là, les relations seront bien intérieures aux termes, aux concepts.
+[Pause] [53 :00] Si le concept de César comprend le concept, contient le concept de tous les
+autres termes, toutes les relations de César, non seulement avec ses contemporains, non
+seulement avec ce qui l’a précédé, mais avec nous qui lui sommes postérieurs, toutes les
+relations imaginables peuvent être ramenés à des attributions, c’est-à-dire à des attributs du
+concept. Ce qui revient à dire, il faut que le concept de chaque être réel exprime la totalité du
+monde. C’est une drôle d’idée ! Il faut le faire. C’est étonnant. Ce philosophe, c’était Leibniz.
+[Pause] [54 :00]
+
+Il va être bien embêté, il va être très, très embêté, parce ce qu’il vient de dire du concept A, ça ne
+vaut que si je peux dire aussi [Deleuze écrit au tableau] le concept A contient le concept B, le
+concept C, le concept D, à l’infini. Si bien que les relations de A avec C, plus petit que B, plus
+grand que C, tout ça, ce sont des attributs du concept, en appelant attributs, toutes les propriétés
+qu’il contient. Mais il doit dire la même chose du concept B, qui à son tour doit comprendre tout
+: C, D, E, y compris le concept de A. D’où le problème, c’est quoi ? Le problème, c’est que
+[55 :00] on est à nouveau perdu, car il a réduit la relation à un jugement d’attribution. Mais
+quelle va être la relation entre les deux jugements d’attribution suivants : A est plus grand que B,
+dans le concept de A, et B est plus petit que A dans le concept de B ? Il aura ramené la relation à
+une attribution, à condition de scinder la relation en deux relations, vous comprenez ? Bon, enfin,
+peu importe ; c'est pour que vous ayez une idée de la complication de tout ça. Alors c’est assez
+formidable, en effet, [56 :00] l’opération de Leibniz.
+
+Et alors comment mettre d’accord ? [Pause ; Deleuze écrit au tableau] Vous avez une formule :
+A (R1) B où A est le contenant, R1 c’est la relation, et vous avez une formule : B (R2) A,
+comment affirmer…, Alors vous avez réduit R1 à un attribut, R2 à un attribut, mais hélas, vous
+retombez sur : quelle est la relation entre R1 et R2 ? [57 :00] Alors comme c’est un créateur,
+chaque fois qu’il se trouve devant une difficulté, il crée un nouveau concept. Il va créer celui
+d’harmonie préétablie, qui est un concept pas du tout simplement verbal, mais il va montrer que
+dans l’entendement de Dieu -- il faut qu’il passe par là -- dans l’entendement de Dieu, il y a une
+correspondance et une harmonie entre [Pause] tout ce qui est dans le concept de A, tout ce qui
+
+                                                                                                      11
+
+est dans le concept de 2, et pour une bonne raison : c’est que c’est un seul et même monde qui se
+trouve exprimé pour des concepts d’êtres réels, et ça va énormément compliquer les choses.
+
+Voyez donc cette notion de relation, même au niveau d’une relation simple comme « plus petit »,
+« plus grand », c’est très, très difficile. Si bien que [58 :00] je crois que ce fut un grand jour dans
+la philosophie lorsque -- et là je crois qu’on peut trouver des prédécesseurs, mais, pour l’assigner
+nettement -- lorsqu’un nouveau ton, lorsqu’un philosophe anglo-saxon, dont je suis sûr qu’il était
+écossais [Rires] et qu'il s’appelait Hume, est arrivé et a dit comme une évidence : mais les
+relations et toutes les relations sont par nature extérieures à leurs termes. Elles sont extérieures à
+leurs termes. Et cette proposition pour moi, c’est absolument comme un coup de tonnerre dans la
+philosophie. Les propriétés sont intérieures aux termes dont ils sont les [59 :00] propriétés,
+auxquels ils s’attribuent, mais les relations, c’est des extériorités. Les relations sont extérieures à
+leurs termes. A est plus petit que B, eh ben, « plus petit que », c’est un tiers. En d’autres termes,
+les relations ne sont pas contenues dans le concept de la chose ou des choses ; les relations sont
+C.
+
+Là-dessus commence ce qu’on appellera le principe de l’extériorité des relations. Et la simplicité
+de Hume, elle consiste à dire -- seulement à quoi cela va l’engager -- mais essayez de prendre le
+monde comme il est -- au lieu de le penser, de lui faire des objections, tout ça, de dire que ça
+devrait être comme ceci ou comme cela -- prenez-le comme il est. Vous ne savez même pas voir -
+- c’est une des grandes idées de Hume -- vous ne savez pas voir. [60 :00] Prenez le monde
+comme il est, c’est-à-dire que vous vous trouvez dans un drôle de monde. Au lieu tout de suite
+invoquer des Idées avec un grand « I », ou bien faire des opérations aussi compliquées que celle
+de Leibniz, habituez-vous au monde où vous vivez, parce que c’est le vôtre, c'est votre monde.
+Eh ben oui, il y a des choses, et puis, il y a, par exemple A, et puis il y a B, et puis il y a des
+relations, et ces relations, c’est des entre-deux, ce n’est pas des choses, c’est des « entre les
+choses ».
+
+Alors évidemment, s’il ne disait que ça, seulement il se porte fort, lui, de nous fournir et de
+constituer les concepts qui vont répondre à ce monde, à ce monde extraordinaire. « Acceptez
+l’extériorité ». Jusqu’à maintenant, les philosophes [61 :00] n’avaient supporté que l’intériorité.
+Comprendre, c’était intérioriser quelque chose dans autre chose. On avait compris que si on avait
+mis à l’intérieur, à l’intérieur de la tête, à l’intérieur du concept, à l’intérieur du sujet, il fallait
+une intériorité quelconque. Hume arrive et dit, mais vous ne voyez pas que vous vivez dans un
+monde qui est un monde de l’extériorité ? Et l’extériorité, ce n’est pas, ça ne veut pas dire,
+comme on dit toujours… L’empirisme, là croyez-moi, ne s’est jamais définit par : la
+connaissance vient de l’expérience, ou bien : le monde sensible est premier. L’empirisme se
+définit par cette position : « les relations sont extérieures à leurs termes ». Et si les relations sont
+extérieures à leurs termes, comprenez que, à ce moment-là, l’empirisme se trouve devant une
+tache fantastique qui est [62 :00] inventer une nouvelle logique. Il faudra une nouvelle logique, à
+savoir, il faudra faire une logique des relations ; il faudra rompre avec la logique de l’attribution,
+qui avait régné jusque-là. Il faudra faire une logique des relations.
+
+Que Peirce suppose tout ça, car il n’est pas sûr qu’une logique des relations puisse être dyadique.
+La logique dyadique, la logique duelle, c’est celle qui reconnaît deux valeurs de la proposition, le
+vrai et le faux. Eh ben, peut-être que ça ne vaut que pour la logique de l’attribution. La logique
+
+                                                                                                    12
+
+des relations doit être une logique spécifique, qui commence avec, très bizarrement, qui
+commence avec Hume sous la forme de la théorie des probabilités, [Pause] [63 :00] et qui prend
+une forme comme définitive avec Russell… [Interruption de l’enregistrement] [1 :03 :07]
+
+... ou si vous préférez, elle est extérieure au concept de la chose et de l’autre chose. « Plus petit
+que » n’est pas compris dans le concept de A qui est pourtant plus petit que B ; « plus grand que
+» n’est pas compris dans le concept de B, qui est pourtant plus grand que A. C’est une extériorité
+radicale.
+
+Mais pensez que même au niveau -- ce n’est rien, tout ce que je suis en train de dire, mais c’est
+énorme, si vous comprenez ça, vous comprenez que c’est une tout autre, une tout autre théorie de
+la pensée -- la tâche de la pensée, c’est à la lettre de réfléchir l’extériorité. Ce n’est plus
+d’intérioriser, plus du tout ; c’est une conception du vrai et du faux complètement différente.
+C’est un appel à l’extériorité. Mais oui, le monde, il est [64 :00] fait d’extériorité radicale, c’està-dire, c’est un ensemble dont les parties sont irréductiblement extérieures les unes aux autres,
+c’est-à-dire dont les parties ne seront pas totalisables. C’est une monde de pièces et de morceaux.
+C’est, comme dira [William] James : un manteau d’Arlequin, c’est du bariolage. Eh ben, entre
+deux morceaux, il y a des relations, et puis, bon.
+
+Et peut-être que les choses, et peut-être qu’à la limite, il n’y a pas de terme, il n’y a que des
+paquets de relations. Ce que vous appelez un terme, c’est un paquet de relations, et puis voilà.
+Vous, chacun de vous est des paquets de relations, et c’est très bien, très bien comme ça. Ils sont
+en train de dissoudre la substance, les choses, etc. Ils admettent à la rigueur, à votre choix, à un
+niveau moyen, on dira : il y a des relations qui sont extérieures à leurs termes, et à un niveau
+beaucoup plus profond, on dira : est-ce qu’il y a même des termes, [65 :00] ou est-ce qu’il y a
+des paquets de relations variables ? Tout est possible ! [Pause ; Deleuze dit quelque chose à voix
+très basse à quelqu’un près de lui]
+
+Alors il y a quelque chose d’extraordinaire là dans la relation. On commence à tenir le paradoxe
+de la relation. Je dis, à la fois : une relation est extérieure à ses termes. Bon. En d’autres termes,
+une relation est toujours extérieure au concept de l’une et de l’autre chose qu’elle met en
+relation. Elle est extérieure au concept de l'une et l'autre chose qu'elle met en relation. Ce n’est
+pas difficile, ce n’est pas difficile à comprendre. A ressemble à B pour changer, et la
+ressemblance est une relation. A ressemble à B. Bon, ce n’est pas compris dans son concept, ce
+n’est pas non plus [66 :00] compris dans le concept de B ; la relation est extérieure à ses termes.
+Vous comprenez ça ?
+
+Seulement vous n’avez encore compris que la moitié si vous comprenez ça. C’est que, en même
+temps, la relation, elle peut changer -- et ça, j’insiste beaucoup là-dessus, parce que ça, ça va être
+mon seul petit apport -- je dis ça pour bien distinguer les choses et que vous ne mélangiez pas
+tout. Mais ils le savent dès le début, tous ces auteurs qui se mettent à réfléchir sur la relation et
+qu’on appelle des empiristes, ou des logiciens, au sens de logique des relations. Ce n’est pas
+étonnant ; j’ai essayé de vous faire comprendre pourquoi il n’y avait pas lieu de s’étonner que ce
+soit les empiristes qui aient inventé la logique la plus formelle du monde, à savoir la logique des
+relations. Il y a un lien très profond. [67 :00] À première vue, c’est bizarre, que ce soit les
+empiristes qui tiennent au monde sensible et qui inventent en même temps le formalisme de la
+
+                                                                                                        13
+
+logique, qu’on appellera la logique formelle. C’est forcé, puisque, ce que leur découvre le monde
+sensible, ce n’est pas du tout du sensible ; ils s’en tapent de ça, le sensible. Ce qui les intéresse,
+c’est l’extériorité des relations par rapport à leurs termes. Dès lors, vous ne rendrez pas compte
+des relations en les rapportant à leur termes ; dès lors, il vous faut une logique absolument
+nouvelle, et un formalisme complètement nouveau pour rendre compte des relations logiques,
+des relations logiques dont la liste est ouverte.
+
+Bon, mais je disais, d’accord, A ressemble à B, Pierre ressemble à Paul ; ça n’est compris ni dans
+le concept de Pierre ni dans le concept de Paul. La ressemblance est une relation, à moins d’être
+Leibnizien ; là encore une fois, si vous le sentez, à ce moment-là, [68 :00] vous vous en tirez
+comme vous pouvez, ça c’est votre affaire. Mais si vous acceptez d’être dans l’atmosphère où les
+relations sont extérieures à leurs termes, on n'essaye pas de discuter, on prend ça comme un fait,
+le fait de l’expérience. Eh ben, d’accord, d'accord, la ressemblance, elle n’est pas contenue dans
+le concept, n’empêche qu’elle ne peut pas changer, sans que le concept lui-même ne change. Elle
+ne peut pas changer sans que le concept lui-même ne change. Ça devient très bizarre ; elle n’est
+pas comprise dans les termes, et pourtant elle ne peut pas changer sans que les termes changent.
+
+Je veux dire : la relation de ressemblance -- et pour moi là c’est très, très important ; pour moi,
+donc pas forcément pour vous – je crois qu’on ne peut pas [69 :00] penser les relations
+indépendamment d’un devenir au moins virtuel, quelle qu’elle soit, la relation, et que ça, à mon
+avis, les théoriciens de la relation, pourtant si forts qu’ils soient, ils ne l’ont pas vu. Mais ils l'ont,
+enfin peu importe, ils l'ont, je ne sais pas, mais je voudrais insister beaucoup plus qu'eux sur ce
+point. À mon avis une relation, ça ne peut… non seulement c'est extérieur à ses termes, mais
+c’est essentiellement transitif au sens de transitoire. Les relations, n’abîmez pas les relations,
+c’est tellement fragile. Tapez sur les attributs, ça c’est du solide, mais les relations, ouh là là...
+Les relations sont inséparables d’un devenir, je dirais, et j’aurai besoin de cette idée tout à
+l’heure, [70 :00] d’un changement possible ou virtuel. Je ne ressemble pas à B, sans que dans
+cette ressemblance même, au sein de cette ressemblance, je ne sois hanté par la possibilité de
+l’accentuer ou de la perdre. [Pause] Il suffira que moi, en tant que terme, c’est-à-dire en tant que
+concept -- ça revient au même --, je change, par exemple, en vieillissant. Ou bien, je suis hanté
+par la possibilité, toujours, une relation n’existe pas indépendamment de la possibilité de
+l'acquérir... [Interruption de l’enregistrement] [1 :10 :52]
+
+Partie 2
+
+... c’est ce lien de la relation avec le devenir -- je prends la ressemblance parce que, mais ça vaut
+pour toutes les relations, parce que ça me frappe beaucoup -- On dit -- moi je n’ai jamais [71 :00]
+pu le remarquer, malgré tous mes efforts, mais on dit, on dit que c’est vrai – qu’un tout nouveauné ressemble, à sa naissance, à son père, mère ou quelqu’un, quoi, [Rires] et puis que ça
+s’atténue. Quitte à ce qu’ensuite, dans la vieillesse, se retrouvent, alors, des ressemblances
+étonnantes, que, qui, à la lettre, ont été mises entre parenthèses, oubliées pendant tant, tant
+d’années. On se dit tout d’un coup, oh, mais c’est sa mère tout craché. [Rires] Pendant... comme
+si la vieillesse restaurait des ressemblances qui n’avaient été que très, très atténuées. Moi, je crois
+que ce n’est pas possible de penser la relation sans la penser comme en devenir toujours possible.
+[72 :00] Bon. Mais on verra à quoi ça me sert, cette remarque.
+
+                                                                                                   14
+
+Je dis juste -- et je retiens ça -- et c’étaient les deux points fondamentaux de la théorie de Hume,
+des relations, les deux points, c’était, premier point : les relations sont extérieures à leur terme ;
+deuxième point, et pourtant, une relation ne peut pas changer sans que l’un des deux termes – ou
+les deux -- ne change. A ressemble à B : relation extérieure à ses termes. A cesse de ressembler à
+B : la relation a changé. Mais il a fallu que le concept de A change, que A change -- ou B, hein ?
+Or, c’est avec ces deux machins-là, avec ces deux propositions de base, que Hume était amené à
+essayer de se débrouiller. [73 :00] Bon.
+
+Alors, essayons, nous, là, je, je n'essaie plus de... je ne donne pas des comptes rendus de théories,
+parce qu’on n’en finirait pas ; je donne des, comme des prémisses, pour que vous ayez un
+ensemble sur ce problème des relations tellement difficiles. Donc je dis : changeons de point.
+Vous allez voir que tout ça… Un certain nombre d’auteurs très différents tournent autour d’une
+idée. C’est qu’il y a deux sortes de relations, ou qu’il y a deux sens du mot « relation ». [Pause]
+Je cite, et d’abord, Hume... tiens, c’est intéressant ça, la manière dont il définit. Au début de son
+grand livre Traité de la nature humaine, [Pause] [74 :00] au chapitre des relations, voilà ce qu’il
+nous dit : « le mot relation » -- elles sont toujours extérieures à leurs termes, hein, quelque
+qu’elles soient, ça c’est acquis -- mais il nous dit là-dessus : « le mot relation est communément
+employé en deux sens notablement différents. Tantôt il sert à marquer la qualité par où deux
+idées sont liées entre elles dans l’imagination et par où l’une introduit l’autre ».
+
+Qu’est-ce qu’il veut dire ? Ce sera bien connu sous le nom de « association des idées », à savoir :
+l’image de quelque chose qui m’est donné éveille en moi l’image de quelque chose qui n’est pas
+donné. [Pause] Voilà, c’est ça, le premier sens [75:00] de « relation ». La relation, c’est
+l’opération par laquelle l’esprit passe de l’image de quelque chose qui est donné à l’image de
+quelque chose qui n’est pas donné. Et, vous remarquerez, il y passe d’après une loi. En effet, il
+n’y passe pas n’importe comment. Je vois une photo, je dis : « c’est la photo de Pierre », et je
+pense à Pierre, qui actuellement est en Amérique, ou, euh, etc., bon. La photo m’est donnée; je
+passe de l’image qui m’est donnée à l’image de quelque chose qui ne m’est pas donné, à savoir
+l’image de Pierre en Amérique, d’après une relation qui est la relation de ressemblance : la photo
+ressemble à Pierre. [76 :00] Hein? Donc, voyez, le premier sens du mot « relation », c’est
+[Pause] le processus par lequel une image donnée évoque ou conduit à une autre image non
+donnée.
+
+Eh ben, ces relations, nous dit Hume, il les appelle « naturelles », ce sont des relations naturelles.
+Elles forment bien une activité, -- là retenez tout ce qu’il dit, parce que c’est important -- elles
+forment bien une activité, mais, en un sens, ça se fait tout seul. C’est une activité comme
+automatique. Je passe de la photo de Pierre à la pensée de Pierre, de la perception de la photo à la
+pensée de Pierre. [77 :00] Je me dis : tiens, qu’est-ce qu’il fait en ce moment ? Ça c’est tout
+simple. C’est des relations naturelles. Elles obéissent à des lois, qui en marquent quoi ?
+Notamment qui en marquent les limites. Je veux dire, ça s’épuise assez vite, hein ? Ça c’est très,
+très important, et Hume, il en parle beaucoup, là. Il dit : la nature humaine, ben, elle se fatigue
+vite, hein ? Il faut que les choses, il faut que les relations soient très étroites -- bien entendu
+extérieures -- très étroites entre les termes pour que l’idée de l’un introduise l’autre.
+
+Par exemple, si c’est une ressemblance très vague, ça ne marche pas, hein ? Par exemple, c’est,
+je vois une photo de quelqu’un et je [78 :00] me dis : oh tiens, ça me rappelle un tableau, un
+
+                                                                                                       15
+
+tableau que j’ai vu, il y a longtemps. Mais quel était ce tableau ? De qui il était ? Où je l’ai vu ?
+Ça ne marche plus du tout. Ça ne marche plus. Ça peut marcher, j’ai un coup, là. « Ah oui,
+c’était... je l’ai vu en telle année, à tel endroit ! Oh, qu’est-ce qu’ils se ressemblent ! » Je vois une
+femme dans la rue ; je me dis : tiens, mais je l’ai vue quelque part, mais dans un musée. Ha ! La
+Joconde, c’est La Joconde ! [Rires] C’est La Joconde qui passe... épatant. Mais le plus souvent,
+je me dis : « Oh là là, elle me fait penser à... celle-là, elle sort d’une peinture, mais qui ? Quoi ?
+Un flamand, un peintre flamand ? » Vous allez voir pourquoi j’ai besoin de tout cet exemple.
+« Un peintre flamand, oui, [79 :00] oui, oui, mais lequel ? Pas celui-là ? Non, non, non, non, ça
+ne doit pas être celui-là. Alors c’est qui ? » Puis ça peut venir, ça ne vient pas, mais là, ce n’est
+pas une relation naturelle. Pourquoi ? Parce que c’est une ressemblance distendue, lointaine.
+Vous passez facilement, suivant une relation naturelle, de la photo de Pierre à l’idée de Pierre,
+mais vous ne passez pas facilement lorsque les choses n’ont qu’une ressemblance lointaine. Je
+veux dire : les relations naturelles ont pour propre de s’épuiser vite, c’est-à-dire de former des
+séries, étant entendu des séries courtes. Ah bon, ben voilà.
+
+Les relations -- je résume -- les relations naturelles seraient des relations par lesquelles une idée
+ou une image en introduit naturellement une autre, suivant une règle ou une loi, [80 :00]
+constituant par là une série d’images qui s’épuise assez rapidement. Tous les termes sont
+importants. Voilà le domaine des relations naturelles. [Pause] Autre exemple, pour vous rassurer
+tout de suite, je ne dirais quand même pas, -- naturellement, je ne dirais pas, « L’Arc de
+Triomphe est plus grand qu’une puce ». Pas de relation naturelle, là-dedans. En revanche, de
+quelque chose qui est un peu plus grand qu’une puce, là, j’aurais tendance à dire : il y a une
+relation naturelle. [81 :00] Je dis, par exemple : ah tiens, qu’est-ce que c’est que ça qui est sur ma
+main ? C’est une puce, ça ? Non, c’est trop grand. Trop grand... hein ? Ce n’est pas une puce.
+[Rires] Alors, l’angoisse me prend ; je me dis : qu’est-ce que ça peut être ? Qu’est-ce que c’est,
+ce truc-là ? Hein ? Bon. Là, il y a relation naturelle. Ça n’empêche pas que je peux comparer
+l’Arc de Triomphe à une puce. Bon, d’accord. Donc il peut y avoir une relation entre l’Arc de
+Triomphe et une puce. Bon, d’accord. Ce ne sera pas une relation naturelle. Donc, vous voyez,
+une relation naturelle, c’est donc le processus par lequel une image en introduit une autre suivant
+une règle constitutive d’une série brève. On ne peut pas dire mieux.
+
+Hume continue : [82 :00] mais « relation » se dit en un tout autre sens. Voyez, tantôt il sert à
+marquer, le mot « relation » sert à marquer la qualité par laquelle une idée en introduit une autre -
+- voilà, c’était notre premier cas, les relations naturelles -- tantôt la circonstance, tantôt la relation
+signifie la circonstance par laquelle, même lorsque deux idées sont unies arbitrairement dans la
+fantaisie -- exactement l’Arc de Triomphe et la puce -- la circonstance par laquelle même lorsque
+deux idées sont unies arbitrairement dans la fantaisie. Je traduis : même lorsque deux idées n’ont
+pas de relation naturelle l’une avec l’autre, donc, c’est la circonstance par laquelle [83 :00] même
+lorsque deux idées ou deux images n’ont pas de relation naturelle, nous pouvons juger bon de les
+comparer. Il y a une raison pour laquelle je les compare.
+
+Je prends un exemple. Bon. Je suis là dans une pièce, et puis, j’ai besoin d’écrire, et je voudrais
+écrire sur une table. Mais il n’y a pas de table. Bon. Alors, il peut m’arriver une chose : je pense
+à une table que j’ai vue dans la pièce à côté. Je vais dans la pièce à côté, et je m’installe. Je dirais
+: relation naturelle. L’image de la table manquante a évoqué en moi [84 :00] l’image d’une autre
+table qui lui ressemble et qui est à côté. C’est une relation naturelle. Une image en a introduit une
+
+                                                                                                     16
+
+autre, dans une série relativement courte.
+
+Je n’ai pas de table, il n’y en a pas dans la pièce à côté, ou je veux rester dans cette pièce, je
+regarde partout. Il n’y a pas de relation naturelle, rien qui ressemble à une table. J’aperçois,
+verticale, une planche à repasser pliée. Je me dis, merde, voilà je... c’est ce qu’il me faut... je vais
+en faire une table. Bon, vous me direz, il y a moins de différence qu’entre « Arc de Triomphe » et
+« puce ». D’accord. Mais il y a quand même une grande différence entre une table et une planche
+à repasser. C’est rare, [85 :00] ce n’est pas d’après une relation naturelle que « table » me ferait
+penser à « planche à repasser », ou alors il faudrait un intermédiaire. Il faudrait un intermédiaire
+constitutif d’une série courte compacte. À savoir : je vois ma table, j’y ai surpris quelqu’un qui,
+au lieu d’être à ma table, aurait dû repasser. Alors j’ai une liaison table-planche à repasser, une
+relation naturelle. Mais là, je suis dans la pièce ; je cherche une table, il n’y a pas de table. Je
+vois la planche à repasser verticale, je me dis : ça y est.
+
+Bon, qu’est-ce que j’ai fait ? Je n’ai pas fait une relation, je n’ai pas suivi une relation naturelle.
+À prendre le texte de Hume à la lettre, j’ai été en proie à une circonstance particulière, où même
+lors de l’union -- à savoir [86 :00] mon besoin d’écrire, la circonstance particulière -- qui a fait
+que même lors de l’union arbitraire de deux idées dans la fantaisie, la table et la planche à
+repasser, la table horizontale, qui n’était pas là, et la planche à repasser pliée, verticale, nous
+pouvons juger bon de les comparer. La relation, c’est alors la raison de la comparaison entre
+deux idées, si étrangères soient-elles l’une à l’autre, c’est-à-dire : même si elles n’ont pas de
+relations naturelles. Et en un sens, je pourrais trouver les mêmes choses comme exemples de
+relations naturelles et de relations autres, pas naturelles.
+
+Ces relations pas naturelles, comment est-ce qu’on va les appeler ? Hume les appellera
+« relations philosophiques », relations philosophiques. Ce qui [87 :00] ne veut pas dire que c’est
+un usage que les philosophes en font, hein ? Ça ne veut pas dire qu’elles sont réservées aux
+philosophes, [Rires] non ; il veut dire qu’elles ne sont pas naturelles. Il veut dire peut-être
+qu’elles sont abstraites, et que les autres sont concrètes, mais gardons ça pour plus tard. Mais,
+voyez, concrètes ou abstraites, naturelles ou philosophiques, elles sont toujours extérieures à
+leurs termes. Ça, ça ne change pas. Mais il y a quand même deux types de relations. Je dirais que
+les relations philosophiques sont des relations, qui, elles, au lieu de former une série courte
+déterminée par une loi, qu’est-ce qu’elles font? Elles forment un ensemble, en droit illimité,
+renvoyant [88 :00] à un sens. [Pause] Bon. [Pause] Voilà. Distinction, donc, relations naturellesrelations philosophiques, qui va avoir la plus grande importance.
+
+Husserl distinguera bien plus tard, qui pourtant a pour Hume un rapport à la fois de fascination,
+mais c’est son ennemi. Or Husserl, sans rien dire -- et peut-être qu’il ne s’en est pas aperçu --,
+dans son premier livre qui s’appelle Philosophie de l’arithmétique, propose une différence entre
+ce qu’il appelle les « relations primaires » et les « liens psychiques ». [Pause] Il définit les
+relations primaires par des conjonctions continues, [Pause] et les liens psychiques [89 :00] par
+des actes de l’esprit qui constituent un ensemble indépendamment des conjonctions continues
+entre leurs parties, entre leurs éléments. Bon, là je n’ai pas le temps de développer, ce serait
+infini, mais c’est curieux. Voilà que l’anti-Hume retrouve une distinction qui appartient
+fondamentalement à Hume, ce qui, à mon avis -- je ne développe pas -- mais cette distinction de
+Husserl correspond [90 :00] mot à mot à la distinction de Hume. Bon.
+
+                                                                                                      17
+
+Et enfin -- dernier point --, je retrouve Bergson sur un nouveau point, dont je n’ai jusqu’à
+maintenant pas du tout parlé, et qui me paraît très extraordinaire. Donc, Bergson va distinguer,
+dans deux textes, l’un le chapitre -- non, surtout dans un texte -- sur « l’effort », un article intitulé
+« L’effort intellectuel » ou quelque chose comme ça, dans un recueil d’articles : L’énergie
+spirituelle [1919] Et il nous dit : il y a deux manières dont procède l’esprit. [Pause] Et ça, ça me
+paraît très, très important, et vous allez comprendre pourquoi. [91 :00] Bien.
+
+Voilà : l’esprit peut procéder de deux façons. Là, je... on oublie tout, hein? On oublie tout ce qui
+précède. On repart à zéro avec Bergson. J’aimerais vous persuader que, finalement, bien plus que
+les contradictions entre philosophes, il y a ces trucs prodigieux qui sont des rencontres. Ils ne se
+copient pas, ils ne se recopient pas, mais entre philosophes -- qui, pourtant, sont d’écoles, si vous
+voulez, au sens « réaliste », « idéaliste », « empiriste », tout ce que vous voulez, d’écoles
+absolument différentes, mais bien plus que leurs différences -- il y a ces prodigieux échos comme
+ces appels de l’un à l’autre.
+
+Écoutez ce que dit Bergson. Il nous dit : ben, vous savez, oui, il y a une manière, il y a une
+activité de l’esprit qui finalement, à la limite, se fait sans effort. Il dit, lui, « automatiquement ».
+[92 :00] Et finalement, c’est l’association des idées. Et il le définit comme ça, très rapidement, il
+le caractérise comme ça : l’esprit passe d’un objet à un autre sur le même plan horizontal.
+[Pause] On ne peut pas mieux dire, ça se fait tout seul suivant une série. L’esprit -- ça se fait tout
+seul, automatiquement -- l’esprit passe d’un objet à un autre, sous-entendu d’une image d’objet à
+une autre image d’objet, l’esprit passe d’un objet à un autre sur un même plan horizontal. Je
+retiens l’idée « diversité d’objets » ; il y a plusieurs objets. [93 :00] Deuxième point : sur le
+même plan, horizontal. Troisième point : constituant une série. Je dirais, c’est le statut des
+relations naturelles, que, pour mon compte, j’appelle -- ce n’est vraiment pas un changement
+important -- j’appelle plutôt « concrètes ». [Pause] Elles sont extérieures à leurs termes,
+d’accord, oui.
+
+Et puis, nous dit Bergson, il y a une toute autre activité de l’esprit, bien plus difficile, parce que
+la tendance de la psychologie, il nous dit, c’est toujours de ramener à ce schéma le plus facile.
+Vous voyez, ce schéma le plus facile, si j’en fais le dessin... [Deleuze écrit au tableau] c’est ça.
+C’est ça... un plan horizontal, [94 :00] ce n’est pas la même chose que mon ancien plan des
+images-mouvement, hein ? Là, c’est tout à fait autre chose. Sur ce plan horizontal, pluralité de
+termes, l’esprit passe d’un terme donné à un qui n’était pas donné, qui devient donné, qui, étant
+donné, va nous faire passer à un troisième, etc. Un, deux, trois, quatre... bon. C’est simple, ce
+schéma où tout est... [Deleuze ne termine pas la phrase] Bergson dit, voilà, on vit beaucoup
+comme ça. Alors la photo de Pierre -- premier terme qui m’est donné -- je pense à Pierre, je
+pense à l’Amérique où est Pierre. Là, c’était un rapport de ressemblance, là, [95 :00] c’est un
+rapport de continuité. Je pense à... à vrai dire, je ne sais pas. Je ne sais pas... N’importe quoi,
+quoi... Vous pouvez -- on peut compléter, quoi, c’est... -- voilà.
+
+Il y a un tout autre cas, dit Bergson. Qu’est-ce que c’est, ce cas ? Ben, c’est précisément lorsque
+l’esprit n’opère plus automatiquement. Ça se complique. J’entends quelqu’un parler. Voilà le
+premier cas. J’entends quelqu’un parler. En quoi que ce n’est pas une activité automatique ? Ben,
+c’est... je cherche. Ça peut être : passe-moi le sel. Alors, à ce moment-là, à la rigueur, j’ai mal
+
+                                                                                                      18
+
+entendu, je lui fais répéter, mais ce serait de ce type-là. Mais j’entends quelqu’un faire un
+discours. Je me dis, si j’écoute, [96 :00] je me dis : mais qu’est-ce qu’il raconte, mais qu’est-ce
+qu’il veut dire ? Je cherche ce qu’il veut dire. Je cherche ce qu’il veut dire. [Pause ; Deleuze
+écrit au tableau] Ou bien je vois quelqu’un, et -- je reprends mon exemple -- il me rappelle
+quelqu’un, quelque chose, mais quoi ? Où je l’ai vu, celui-là ? Oh... je suis sûr de l’avoir vu,
+mais où ? Je cherche cette fois-ci un souvenir. [Pause ; Deleuze écrit au tableau] Bon.
+
+Remarquez que, en effet, notre tentation, ce serait de ramener ce deuxième cas, dont nous ne
+savons pas encore la nature, au premier. Mais ça donnerait quoi ? [97 :00] On va voir tout de
+suite si ça marche. J’ai la perception de quelqu’un. Ce serait ça, mon terme 1. [Pause] Et elle
+éveillerait en moi un souvenir : terme 2. Simplement, il y aurait une espèce de blocage dans la
+relation naturelle, qui ferait que j’aurais de la peine à évoquer le souvenir. On peut toujours
+essayer de dire ça. Dans mon autre exemple, je me demande : qu’est-ce qu’il veut dire ? Ben, ma
+perception, ce serait la perception sonore des mots. Le 1, ce serait la perception sonore des mots,
+[98 :00] et elle éveillerait plus ou moins les idées auxquelles les mots sont censés correspondre.
+
+Voyez que dans cette interprétation, je ramène, je réduis mon second cas au premier. Eh ben,
+Bergson dit : il suffit de parler réduction pour sentir que ça ne marche pas, que l’effort de
+compréhension, ou l’effort d’interprétation, n’est pas de ce type-là. Ça ne peut pas marcher. Ce
+n’est pas ça. Je peux le dire. On peut toujours tout dire. On peut dire : mais si, c’est le même cas,
+il n’y a qu’un cas, il n’y a que les relations naturelles. Ben non, dit Bergson. Il dit : moi j’ai
+l’impression que ce n’est pas comme ça que ça marche. [99 :00] Et pour une raison simple, vous
+allez voir.
+
+Mettez-vous dans la situation de quelqu’un qui cherche, soit un souvenir, soit à comprendre ce
+que dit quelqu’un qu’il est en train d’écouter : mais qu’est-ce qu’il veut dire celui-là ? Ou bien,
+troisième possibilité, que je préfère, parce qu’elle est peut-être plus éclairante : [Deleuze écrit au
+tableau] j’écoute un discours dans une langue qui ne m’est pas totalement inconnue -- parce que
+là il n’y aurait pas de problème – et qui, en même temps, m’est mal connue, et j’essaye de
+comprendre. Voyez. Ça mélange un peu les deux exemples précédents parce qu’alors je fais
+appel à des souvenirs : qu’est-ce que veut dire tel mot que j’ai cru, etc. ?
+
+Mais qu’est-ce qui caractérise tous [100 :00] ces cas ? C’est, lorsque quelqu’un, lorsque j’écoute
+quelqu’un -- c’est ça le vrai critère de distinction entre mon premier cas et le second -- lorsque
+j’écoute quelqu’un parler et que je me dis : « qu’est-ce qu’il veut dire ? », j’essaye de saisir le
+sens, donc. J’essaye de saisir le sens. Mais il n’y a pas du tout deux termes. Je n’ai pas d’abord
+une perception complète des mots qu’il dit. Et puis le sens, quand je comprends le sens -- le sens,
+mettons, pour le moment, les idées qui correspondent aux mots --, eh ben, je n’ai pas d’un côté
+une perception des mots, valant pour elle-même, [101 :00] et qui éveillerait, par relation
+naturelle, les idées qui correspondent aux mots. Jamais personne n’a compris comme ça.
+
+Quand vous essayez de comprendre, ou quand vous comprenez ce que je dis, vous faites une
+opération complètement différente. Vous ne saisissez pas les mots pour eux-mêmes qui vous
+mèneraient aux idées pour elles-mêmes. Bien plus, bien plus, que vous compreniez ou que vous
+ne compreniez pas, vous saisissez -- là ça ne change rien -- vous saisissez un mot sur quatre.
+Comme dans la lecture, c’est bien connu, on ne lit pas tous les mots. Les mots, c’est comme des
+
+                                                                                                     19
+
+poteaux indicateurs, puis on complète. Ça dépend, d’après ce qu’on lit, là, le journal, on le lit
+vite, c’est-à-dire on prend quelques mots, [102 :00] comme poteaux indicateurs. Évidemment.
+Mais on a une perception incomplète. À partir de quoi, qu’est-ce qui va se passer ?
+
+De même, quand je me dis, en regardant quelqu’un, mais celui-là, à qui il ressemble ? Où est-ce
+que je l’ai vu ? Je n’ai pas une perception complète, par définition. Sous l’angle sous lequel le je
+le vois, au contraire, j’ai de lui une perception incomplète, puisque je me dis, « merde, où je l’ai
+vu celui-là ? » Je voulais uniquement montrer que, de toute évidence, le deuxième cas étant
+irréductible au premier, puisque dans le premier cas, au contraire, j’allais d’une image complète à
+une autre image complète, qui n’était pas la même. Donc, il semble impossible de réduire le
+deuxième cas au premier.
+
+Alors Bergson nous propose pour le deuxième cas un schéma pas facile, [103 :00] parce que
+c’est... Il l’emploie très souvent, avec des drôles de mots. Il dit : dans le second cas, ce que vous
+percevez, que ce soient les mots, [Deleuze écrit au tableau] les mots que vous percevez très
+incomplètement, puisque encore une fois vous ne pouvez pas dire « j’ai compris » parce que
+vous avez saisi chaque mot de, que je dis, ce n’est pas ça comprendre. Et pour comprendre, vous
+n’attendez pas que j’aie fini ma phrase. C’est même pour ça que... et puis à certains moments,
+vous lâchez, et à certains moments, vous reprenez pied, c’est comme ça qu’on comprend. Bon,
+alors, qu’est-ce qui va se passer ? De même, quand je cherche la ressemblance, j’ai une
+perception incomplète, qui me sert de quoi ? De signal, je disais, oui, à peu près, de signal. Voilà.
+[Deleuze écrit au tableau]
+
+À partir de ce qui [104 :00] m’est donné -- et qui est un donné incomplet, contrairement à mon
+premier cas, où je partais d’une donnée complète -- à partir des données incomplètes du second
+cas, Bergson emploie tout le temps : « j’opère un saut ». Voilà. C’est mon plan, là. Voyez-le, mon
+plan horizontal, il est là. Là, j’ai mon terme, mon terme incomplet : les mots que vous
+m’entendez dire, ou bien la perception incomplète que vous avez de quelqu’un dont vous vous
+dites : à qui diable peut-il ressembler ? « Je saute », dit Bergson. Il saute. Bon.
+
+Il saute dans quoi ? Dans l’exemple du souvenir, il nous dit… et l’expression sera très souvent
+reprise. [105 :00] C’est très curieux, parce que, Bergson, si vous le connaissez un peu, ce n’est
+pas un type qui saute, hein ? Je veux dire, ce n’est pas son genre. Non, je dis là des bêtises. C’est
+très curieux, le mot, c’est pour ça qu’il est important. On s’attendrait à Bergson dit tout sauf à ce
+qu’il saute. [Rires] Il glisse, il coule, il explose, c’est ses trucs, ça. L’élan vital qui explose, la
+durée qui coule, s’écoule... bon. Mais sauter, en revanche, quelqu’un comme Kierkegaard, il ne
+cesse pas de sauter. Lui, il saute, c’est son, c’est son activité mentale, c’est le philosophe du saut.
+Bon. [Rires] Voilà que Bergson, il se met à sauter. Et il le dira avec insistance, tant dans Matière
+et mémoire, chapitre II, que dans « L’évolution »… que dans cet article de L’énergie spirituelle.
+Alors, c’est très, très curieux.
+
+Et il saute où ? Pour le cas de la mémoire, il nous dit : Je [106 :00] m’installe dans une région du
+passé. Ce n’est pas le souvenir, hein, surtout, puisqu’il ne l’a pas, le souvenir. Il le cherche, le
+souvenir. Je m’installe dans une région du passé approximative, d’un bond. Alors, comprenez,
+parce qu’on aura tout ça à retrouver, quand on parlera du temps. Il y aurait des régions du passé
+qui précèdent les souvenirs. Je m’installe dans une région du passé, c’est-à-dire : une vague
+
+                                                                                                        20
+
+intuition. Ah, oui... est-ce que ce n’était pas ? Est-ce que ? point d’interrogation. Aussi, de toutes
+manières, il y a longtemps... ça, ce type-là, ce n’est pas récemment que je l’ai vu. Et non
+seulement ce n’est pas récemment, mais ce n’était pas à [107 :00] Paris. C’est ça, ce qu’il appelle
+« j’ai fait un saut » : je m’installe dans une région du passé, « j’ai sauté ». Il dit ça, il dit : « je me
+place d’emblée ». Quand il ne dit pas « je saute », il dit « je me place d’emblée dans une région
+du passé ». [Ces références correspondent à Matière et mémoire de Bergson]
+
+Mais alors, voilà que le passé a des régions. Évidemment, vous comprenez ce que ça veut dire et
+ce qu’il a derrière la tête : le passé ne détruit pas, le passé conserve, hein ? Le passé est un…
+finalement, c’est sa grande idée : le passé est un conservatoire. Ce à quoi il veut s’opposer
+absolument, c’est à l’idée d’une destruction par le temps. Le temps, ce n’est pas du tout
+l'opération ou le processus de la destruction. Le temps, c’est le processus de la conservation
+infinie. C’est son idée à lui ; il a des raisons de penser ça. Mais enfin, [108 :00] ce n’est pas du
+tout, … les choses ne disparaissent pas dans le temps. Au contraire. Au contraire. Bien. Eh ben,
+une région... il y en aurait d’autres, plus récentes, par exemple, plus proches du lieu où je suis.
+
+Mais je fais une espèce de pari, quoi. Je m’installe dans une région du passé – il y en a au-dessus,
+tout ça -- Et puis, j’attends ? Non : je fouille cette région. Et, ou bien ça rate, ou bien ça marche.
+Ça rate, en effet, il se peut que j’aie tapé dans une mauvaise région. Rien ne vient répondre à
+mon saut. J’ai sauté, là, dans une région du passé, rien ne vient. Alors, je peux essayer une autre
+région. Je me dis : « ben non, [109 :00] ce n’est pas ça. » Une autre région... C’est bien comme
+ça qu’on fait, c’est une splendide description, il me semble. Donc, supposons que là, je me dis :
+« ah ben oui, ben, là, sur ce plan, sur ce plan-là, il y a quelque chose qui répond. » Et, de cette
+région pure, de cette région du passé pur, qu’est-ce qui va descendre, alors ? Va descendre, pour
+s’incarner dans une image, un souvenir… [Interruption de l’enregistrement] [1 :49 :39]
+
+...elle descend s'incarner dans une image-souvenir. Et alors, je dirais : « ah oui, ce type que je
+viens de voir, je l’ai vu vers telle année [110 :00] à tel endroit », ou bien : « ah ben oui, c’était un
+copain de classe ». Si j’ai su m’installer, sauter, au bon niveau du passé, dans la bonne région du
+passé, c’est étonnant, cette... c’est ça, l’interprétation. Il faut que vous sautiez.
+
+Et si on revient à l’autre exemple, alors, la parole que vous essayez de comprendre de quelqu’un.
+Ben, là aussi, encore une fois, les mots que vous entendez, c’est comme des lambeaux
+incomplets ; c’est donné, mais c’est donné comme des lambeaux incomplets. Et vous, ce que
+vous faites quand vous essayez de comprendre, et vous le voyez tout de suite, dès que vous
+craquez. Dès que vous craquez, c’est-à-dire : dès que vous commencez à vous endormir, dès que
+vous lâchez. Vous retombez dans le premier, dans le premier schéma. [111 :00]
+
+Alors, je dis : Bergson, alors ça donne, comme deuxième terme. [Deleuze écrit au tableau] Oh
+merde, il en a déjà parlé ! [Rires] Ou bien vous lâchez complètement, vous faites des associations
+d’idées. Je dis, « relations », alors, vous, vous enchaînez : relations d’amour, relations d’affaires,
+relations, etc. Bon, à ce moment-là, vous avez renoncé à comprendre. Vous prenez un repos, une
+récréation. [Rires] Quand vous essayez vraiment de comprendre, vous partez de mes mots, que
+vous saisissez comme des réalités incomplètes, pour vous. Et vous vous installez, vous sautez.
+Vous faites le saut. Vous vous placez d’emblée dans une région qu’on n’appellera plus du passé,
+mais peut-être que ça revient au même, vous vous installez dans une [112 :00] région du sens.
+
+                                                                                                           21
+
+Et, en effet, quelqu’un entrerait maintenant, hein, dans la salle, supposez, quelqu’un entre. Il se
+dit, ça arrive : de quoi il parle, celui-là ? Alors, il écoute un peu. « Est-ce que c’est un cours, de
+droit commercial ? » [Rires] Oh oui, ça, il peut tomber sur un exemple de droit que je donnerais.
+Il se dit : « ah ben, c’est un cours de droit ». Voyez : il s’installe -- s’il veut écouter, s’il est... -- il
+s’installe immédiatement dans une région de sens : les relations juridiques. Quoi, les relations
+juridiques ? Je définirais cette relation de sens par les relations juridiques tout court, l’ensemble
+des relations juridiques en général, hein ? [113 :00] Et puis, il écoute un peu mieux, et il se dit,
+« oh ben, ça ne peut pas être ça quand même. Quelque chose ne va pas, c’est-à-dire je ne suis pas
+installé au bon niveau de sens, ça ne doit pas être du droit qu’il fait, ce type-là. Alors, il fait des
+schémas : est-ce que ça ne serait pas des mathématiques ? » Une autre région. Il se dit : « oh ben,
+non... » parce que rien ne descend de cette région de sens où il s’est installé. Il se dit, « qu’est-ce
+que ça peut être, ce truc-là ? Alors, quoi ? » Ben, il y a les bons jours, il trouve, les mauvais
+jours. Prenez mon cas douloureux. Je me mets à déconner, « Peirce, le fameux auteur anglais ».
+Qu’est-ce que j’ai fait, là, hein ? Quelle.... Évidemment, moi, mettons, j’ai confondu deux
+niveaux très peu…
+
+Une étudiante : Tu as mal sauté.
+
+Deleuze : J’ai mal sauté, ouais, j’ai mal sauté... [114 :00] Qu’est-ce que c’est, ne pas comprendre
+quelqu’un, quelque chose ? C’est mal sauter. C’est rater les sauts. [Rires] Vous vous installez
+dans une région... c’est comme oublier, pas comprendre. Pas du tout que l’un se ramène à l’autre,
+mais, de même que le passé avait des régions en soi qui précédaient le souvenir, et qui rendaient
+sans doute possible la descente des souvenirs, le sens a des régions en soi qui précèdent les idées,
+c’est-à-dire la compréhension, l’interprétation. Et si vous ne vous installez pas, si vous ne sautez
+pas dans la région du sens où votre problème a sa réponse, vous ne résoudrez jamais rien de ce
+qui vous intéresse le plus.
+
+Et qu’est-ce que les gens font, quand ils… Avoir un problème vécu, c’est même tout à fait pareil.
+Un problème, s’il est vécu ou pas [115 :00] – il y en a qui ont des solutions, il y en a qui n’en ont
+pas -- mais, d’où ça vient, l’absence de solution ? Qu’est-ce qu’on ne cesse pas de faire ? On
+s’installe dans des régions de sens qui ne correspondent pas à notre problème. Ce n’est pas là –
+ce n’est pas là que vous aviez les éléments de solution. Pas de veine, ça sera pour une autre fois !
+Hein ? C’est vrai, il n’y a jamais de problème sans solution. Moi, je suis… il faut être très
+optimiste ; il faut se dire : je n’ai pas su trouver la région de sens où est le problème, il aurait
+trouvé les éléments de sa solution. Alors, une discipline aussi admirable que la psychanalyse,
+qu’est-ce qu’elle fait ? [Rires] C’est très simple. Elle a trouvé le niveau de sens. Hein,
+finalement, il n’y en a qu’un, il n’y a qu’un niveau de sens pour tous les problèmes. Et elle nous
+invite à sauter à ce niveau de sens. Alors, il paraît que parfois ça résout [116 :00] le problème ;
+d’autres fois, il semble que ça ne le résolve pas. En tous cas, il est certain que c’est une région
+qui met très longtemps à être explorée, puisque les problèmes durent très, très longtemps !
+Alors... [Rires] C’est pareil, tout ça, c’est pareil...
+
+Alors, moi je crois plutôt qu’il y a… qu’il n’y a pas une grille, qu’il n’y a pas, finalement, une
+région de sens de toutes les régions. Ce n’est pas possible, et qu’il y a une multiplicité, mais
+alors ? Faisons maintenant le schéma qui se distingue. Bergson nous dira… Tout à l’heure,
+
+                                                                                                      22
+
+j’avais un plan horizontal, avec plusieurs objets différents, et j’allais d’un objet à un autre objet
+suivant une série courte. Quelle est la formule de l’autre, là, du saut ? Je dirais cette fois-ci :
+[117 :00] un ensemble, si vous préférez, un volume, un volume vertical, [Pause] ou un même
+objet, où il n’y a qu’un seul et même objet, qui passe par des niveaux ou des régions différentes.
+Ça s’oppose terme à terme, un volume vertical qui comporte une infinité de régions ou de
+niveaux par lesquels un seul et même objet passe.
+
+En effet, [118 :00] qu’est-ce qu’il veut dire ? Il va de soi que si je prends l’exemple, là, où on est
+: vous m’écoutez, vous comprenez, mais, comme on dit, il n’y en a pas un qui comprend de la
+même façon parce qu’il n’y en a pas deux qui s’installent exactement dans la même région du
+sens, dans la même région de sens. Évidemment. Évidemment. Alors, si vous avez compris ce
+second schéma bergsonien, qu’est-ce qu’on va retrouver, comme par magie ? La seconde figure,
+c’est : un volume vertical où un seul et même objet traverse des zones, des régions, des niveaux
+différents. Il suffit que... [Pause ; Deleuze dessine au tableau] [119 :00]
+
+Voilà. J’ai retrouvé mon cône. Voyez, dès lors, si vous voulez... hélas, ma figure, elle est de plus
+en plus confuse, alors je la refais. [Deleuze efface tout] On va retrouver exactement la grande
+figure, donc, à laquelle on était arrivé, mais on la retrouve, vraiment, à partir d’un tout autre
+problème. À savoir : vous vous rappelez, j’avais un plan de coupe vertical où se faisaient tous les
+mouvements, actions, réactions, etc., avec des centres d’indétermination, « S ». Et puis je disais,
+il y a quelque chose -- alors, on ne savait pas [120 :00] bien ce que c’était -- qui vient s’insérer en
+« S », un cône, qui serait le devenir. Et là, ce serait le devenir qui change, et là, ce serait le plan
+des images-mouvement, et le plan des images-mouvement viendrait toujours, le cône viendrait
+toujours s’insérer à sa pointe dans le plan des images-mouvements.
+
+Maintenant, qu’est-ce qui se passe ? Alors, mon premier cas, vous le situez au niveau de B. C’est
+la manière dont « S », à partir d’une chose, à partir d’une image, évoque une autre image, plan
+horizontal, constitution d’une série, par laquelle « S » passe de A à B, sur le même plan
+horizontal. Là, [121 :00] au contraire, [Deleuze dessine au tableau] j’essaye de comprendre, ou
+je cherche un souvenir que... Je saute dans le cône. Je saute dans le cône, mais quoi ? Eh oui,
+maintenant, on peut ajouter : le cône a nécessairement des niveaux, des régions, qui sont comme
+des coupes du cône. Et là, Bergson ne conçoit que des coupes parallèles à la base. Évidemment,
+nous, dans notre entrain bergsonien, on dira : non, il peut y avoir des positions telles qu’il y ait
+des coupes tout à fait différentes. C’est-à-dire, nous, on tiendrait beaucoup plus compte de la
+théorie des coniques, où le cône peut être coupé par des plans, [122 :00] par des coupes qui ne
+sont pas seulement parallèles. Donc, ça se compliquerait encore. Pour une théorie des images, ce
+serait très important. Et alors... [Deleuze ne termine pas la phrase]
+
+Donc, je cherche un souvenir, ou je cherche à comprendre, et je saute dans une région, ou dans
+une zone. À la lettre, c’est toute une philosophie des niveaux, c’est toute une philosophie, oui,
+des régions d’être, des... Je m’installe, et c’est là -- sans passer d’ailleurs par les autres niveaux --
+si j’ai choisi le bon niveau, je ne repasse pas par les autres niveaux, mais c’est là que soit l’idée,
+émanant de la région de sens, soit le souvenir, émanant de la région du passé, [123 :00] va venir
+s’incarner.
+
+Une étudiante : Vous ne trouvez pas que ça rend vraiment curieux notre plan des relations
+
+                                                                                                     23
+
+naturelles ? Ça lui fout un drôle de tremblement ? Surtout si on va des sections...
+
+Deleuze : Là ? Eh ben, ça va les foutre en l’air. Ben, évidemment ! Ça va... ou bien, oh, ça va, ça
+va. Alors, comprenez, en effet, il comprend très bien, je crois. Là c’était le domaine des relations
+naturelles. Mais dans l’autre cas, chaque région sera quoi ? Chaque zone de sens, ce sera, à la
+lettre, un paquet de relations abstraites, un paquet de relations abstraites, des ressemblances sans
+que je sache qui se ressemble. Ce sera une zone, l’ensemble des relations juridiques, [124 :00]
+indépendamment des termes entre lesquelles elles s’établissent, l’ensemble des comparaisons
+esthétiques, etc. Tout ça, ce seront des zones.
+
+Elles ne sont pas préfigurées, elles n’attendent pas mon saut, c’est plutôt… plutôt oui, elles
+attendent mon saut, c’est-à-dire : c’est en même temps que je saute que j’opère une coupe dans
+ce cône et que je m’installe alors dans tel domaine de relations. Je dirais : ce sont des relations
+abstraites. Et ces ensembles de relations abstraites définissent quoi ? Ce qu’on appelle le sens,
+c’est-à-dire telle zone du sens, ou ce qu’on appellera le passé, telle région du passé. Si bien que,
+comme tout à [125 :00] l’heure, j’aurai une distinction entre les relations dites naturelles ou
+concrètes, d’une part, et d’autre part, les relations abstraites. Alors ce que je veux dire, c’est...
+voilà, c’est tout ce que je veux dire.
+
+Je reviens à Peirce pour en tirer une conclusion. Moi, à mon avis, vous comprenez, ce qui
+empoisonne le problème des relations, c’est que on ne se rend pas assez compte, encore une fois,
+que les relations sont des variables. A savoir que toute relation est inséparable de son changement
+possible. Encore une fois, personne ne ressemble à quelqu’un sans risquer de cesser de lui
+ressembler. Et inversement, il n’y a pas d’absence de ressemblance sans le risque que les deux
+termes deviennent ressemblants. En d’autres termes, [126 :00] les relations abstraites sont
+inséparables d’un tout qui change et qui ne cesse pas de changer, tandis que les relations
+concrètes s’établissent entre des parties distinctes. … [Interruption de l’enregistrement]
+[2 :06 :21]
+
+Partie 3
+
+… Les relations naturelles sont les processus par lesquels je passe d’une partie distincte à une
+autre partie distincte. Les relations abstraites sont des ensembles ou des paquets de relations
+indépendamment de leur terme, [Pause] qui expriment, dont chaque zone, chaque région
+exprime ou est un [127 :00] aspect d’un Tout qui change. Bon. Et pour moi, c’est ça, le sens. Si
+bien que je peux dire alors, je reviens à Peirce, vous ne devez plus en pouvoir, mais j’aurais
+besoin que... oui et puis ça ne fait rien. Et ben oui, vous voyez Peirce, c’est très bien, il nous dit :
+la Tiercéité, c’est quoi ? La Tiercéité, c’est quoi ? C’est la loi. D’accord. C’est la relation.
+D’accord. C’est le sens. D’accord. Puisque, encore une fois, si je maintiens la distinction relation
+naturelle-relation philosophique, ou mieux, la distinction relation concrète-relation abstraite, les
+relations abstraites, c’est le sens. [128 :00]
+
+Donc, la Tiercéité se définira. Et en effet, elle n’est ni une expression comme la Priméité, ni une
+position-opposition comme la Secondéité, mais bien une interprétation. Et l’interprétation se fait,
+je dis juste, suivant deux voies : la constitution, l’interprétation est tantôt la constitution d’une
+série brève, ouverte, mais brève, suivant des relations naturelles, [Pause] tantôt la constitution
+
+                                                                                                   24
+
+d’une figure à niveaux, ou si vous préférez, d’un… -- je ne peux même pas dire d’un ensemble --
+mais d’un Tout, oui, d’un Tout [129 :00] à niveaux et à régions par lesquels passe un seul et
+même objet. On dirait là qu’il y a deux types d’interprétations. Et comme dit Bergson, très bien,
+les deux, ces deux figures, et je dirais la même chose des deux miennes, de mes deux types
+d’interprétation : elles ne cessent pas de se mélanger, on ne cesse pas de les mélanger l’un à
+l’autre. Concrètement, on ne cesse pas mélanger. Voilà donc. J’en ai plus pour longtemps car je
+vous proposerai juste des exercices rapides pour finir.
+
+J'ai donc, les trois types d’images de Peirce : Priméité, Secondéité, Tiercéité. Eh bien, je vais
+finir par deux remarques. Première remarque : on est loin d’avoir fini, puisque là-dessus, il va
+falloir passer à l’étude [130 :00] des signes. Ça c’est uniquement les types d’images. Mais nous
+savons et attendons de Peirce qu’il nous montre comment les images vont devenir des signes. A
+mon avis, on a tout pour le comprendre très facilement. Mais je le remets à la prochaine fois.
+
+En revanche, je vois tout de suite ce qui est pour nous un drame, une catastrophe. C’est que nous
+aussi, on avait trois types d’images, hein, nous aussi on avait obtenu trois types d’images. Même
+qu’on les avait appelées : image-perception, image-action, image-affection. Eh bien, la
+catastrophe, c’est que ça ne se correspond pas. Quel drame, parce que l’image-affection, elle
+répond exactement à la Priméité ; l’image-action : elle répond exactement à la Secondéité ; mais
+sa Tiercéité, moi je n’en ai rien à faire pour le moment. Et il n’y a rien chez lui [131 :00] qui
+réponde à ce que j’essayais de définir comme l’image-perception. Vous vous rendez compte du
+drame ? Car enfin la Tiercéité, ce n’est pas l’image-perception, c’est le mental, c’est la pensée.
+Ça, il est formel, et puis c’est évident ! Il n’a même pas besoin de le dire. Donc, on va avoir des
+problèmes d’ajustement. Et puis il ne faut pas ajuster ; il va falloir essayer de comprendre
+pourquoi cette différence cruelle. Mais, donc, ça c’est pour la prochaine fois. Et ça ne peut se
+faire qu’au moment où on aura compris ce que c’est que les signes pour lui et ce que c’est que les
+signes pour nous. C’est sûrement là qu’il va y avoir une... Bon, tant pis. Ce n’est pas grave, tout
+ça.
+
+Mais, je voudrais juste finir en rattachant à ce que je faisais l’année dernière sur le cinéma.
+Prenons des exercices juste pour confirmer quand même la richesse de ces trois notions, et vous
+voyez d’après ce que j’ai dit en quel sens il peut dire, [132 :00] mais Hegel, vous comprenez, il
+ne supporte pas Hegel, Peirce. Mais il ne le supporte pas, et il dit, mais la dialectique, ça n’a
+jamais été qu’une trahison, une manière de ne rien comprendre au 1, 2,3, à la Priméité, à la
+Secondéité, à la Tiercéité. En effet, la dialectique, c’est l’opération qui substitue à la Secondéité
+de la Secondéité dégénérée, et à la Tiercéité de la Tiercéité dégénérée. C’est très curieux, comme
+manière. Il ne supporte pas Hegel. Je ne suis pas sûr qu’il l’ait lu d’ailleurs. [Rires] Mais, ça ne
+fait rien, ça n’a pas d’importance. Il a lui-même quelque chose à dire, donc ce n’est pas grave
+non plus.
+
+Mais, mais, mais, revenons à nos histoires de cinéma de l’année dernière. Il y a un truc que je
+n’avais pas fait à ce moment-là parce que je n’y pensais pas. Voilà, je dis : si on prenait ces trois
+catégories de Peirce comme types d’images et on essayait de faire des exercices pratiques, alors,
+premier exercice pratique [133 :00] : le burlesque. Le burlesque, l’année dernière je m’étais lancé
+dans un truc que... J’avais essayé de dire, pour moi, la différence entre un sujet classique, qu’estce que c’était pour moi que la différence entre Chaplin et Buster Keaton ? [Voir la séance 18, le
+
+                                                                                                       25
+
+11 mai 1982] Mais je pense aux autres. Je n’avais pas parlé des autres. Et je prends un exercice
+simple. Qui est-ce qui est « un » ? Qu’est-ce c’est le burlesque de la Priméité ? On peut y aller,
+on fait comme ça des petits... si Peirce vivait encore, il serait, oh ben oui, il ne faisait que ça,
+après tout... Mais enfin, bon.
+
+Petit exercice. Le burlesque de la Priméité, je dirais, c’est... Je ne sais plus son nom, alors ça... le
+fameux burlesque, [Harry] Langdon ? C'est ça, Langdon. En effet, c’est l’affect à l’état pur,
+l’affect lunaire et puéril. [134 :00] Et je n’analyse pas. Mais il est fondamentalement « un », c’est
+la Priméité. Je ne tiens pas compte de Keaton ni de Chaplin, parce qu’ils ne rentrent pas, à mon
+avis, dans ces catégories-là.
+
+Deux, il suffise que je dise qui c’est, le burlesque du duel, c’est Laurel et Hardy, c’est Laurel et
+Hardy. Seulement, ce qui est très important, c’est ça que je voudrais… J’ai pris cet exemple
+uniquement pour vous faire comprendre ça : Laurel et Hardy, c’est le burlesque génial de
+l’image-action ou de la Secondéité. Et en effet, ils sont dans des rapports de duel avec tout le
+monde, duel avec le monde, duel avec les autres, duel l’un avec l’autre. Et comme c'est des
+burlesques, ils ont découvert le non-sens propre à la Secondéité. Le non-sens propre à la
+Secondéité, c’est développer dans le temps les simultanéités du duel. Le duel doit [135 :00] être
+simultané, d’accord. Laurel et Hardy en font la découverte sublime, d’un duel distribué et
+distendu dans le temps. C'est-à-dire je te donne un coup de poing dans l’œil alors que tu ne fais
+rien, et puis moi, à mon tour, j’attends et je reçois un grand coup de poing dans l’œil ou dans le
+nez, etc. C’est des, je ne dis pas que c'est la seule, c'est une des sources comiques de Laurel et
+Hardy et qui n’existent que chez eux, sauf chez ceux qui l’ont copié, etc., bon. Mais c’est eux qui
+ont inventé ça : temporaliser le duel alors que le duel implique une simultanéité quelconque. [Sur
+le burlesque, le duel et la Sécondéité en général, voir le chapitre 9 dans L’Image-Mouvement,
+sur cette analyse précise, voir pp. 268-269]
+
+Mais, ce qui m’importe plus, c’est un truc que Peirce a très bien vu : c’est que lorsque il y a un, il
+y a « un ». Mais lorsqu’il y a deux dans la Secondéité, [Deleuze revient au tableau et écrit] il y a
+nécessairement un des deux qui reprend à son compte le « un » de la [136 :00] Priméité. Tous les
+deux, hein, vous me suivez ? Tous les deux forment la Secondéité, c’est-à-dire le duel ou le duo.
+Mais l’un des deux va reprendre au sein de la Secondéité la Priméité, c’est-à-dire que l’un des
+deux va être la Priméité de la Secondéité -- vous ressentez à quel point les schémas de Peirce
+sont compliqués -- et l’autre va être la Secondéité de la Secondéité. Et, c’est évident que la
+Priméité de la Secondéité, c’est Laurel. Et c’est lui, c’est lui le représentant des affects. C’est lui
+le représentant de toutes les potentialités. Hardy, c’est l’homme d’action, [137 :00] qui veut agir
+et qui empêche Laurel d’agir, qui n’y tient pas. Lui, c’est la Secondéité de la Secondéité. Et va se
+passer l’aventure, alors là, la seconde source de burlesque chez Laurel et Hardy : c’est que
+l’homme d’action, qui est vraiment Hardy, ce n’est pas que ce soit un faux homme d’action, ne
+cesse pas de rater. Il ne cesse pas de rater parce qu’il est tellement homme d’action qu’il a laissé
+le domaine des qualités à Laurel qui, lui, est le représentant de la Priméité. Donc, le gros Hardy,
+il ne peut que se heurter à des états de choses dans leur matérialité brute. Dès lors, il n'a plus le
+moyen les surmonter. Et au contraire, Laurel qui a gardé les qualités sans les incarner dans des
+états de choses, à ce moment-là, c’est comme si les états de choses n’existaient pas pour lui. Si
+bien que lui, il passe sans même le voir dans un ruisseau, [138 :00] et Hardy le suit et,
+bizarrement, s’écroule. Il a beau avoir mis ses pieds dans le même endroit, il y a pour lui un gros
+
+                                                                                                    26
+
+trou.
+
+Mais, mais, ce qui m’intéresse là-dedans, c’est que, dans votre jeu de la Secondéité, il y a
+nécessairement une Priméité de la Secondéité, et une Secondéité de la Secondéité. Si bien que, si
+j’essaie de faire l’analyse, alors pour les [frères] Marx, qui sont la Tiercéité à l’état pur -- à mon
+avis, ils l’ont même introduit volontairement -- ça donne quoi ? Je ne suis pas sûr que Groucho, il
+n’ait pas lu Peirce, là. L’un est aussi rigolo que l’autre, quoi, c'est... Si je faisais une espèce de
+schéma, ça a été souvent fait, la répartition des trois, [Deleuze efface le tableau pour
+recommencer] mais là voilà, au moins on a des armes pour essayer de la [139 :00] faire ou de la
+refaire. Je n’ai pas besoin de dire que les trois, il faut les prendre ensemble. Il faut prendre le
+tissu de relations indépendamment même des termes. [Deleuze écrit au tableau] Je dirais, c’est la
+zone de sens des frères Marx, ça. Et puis, les trois termes : Harpo, Chico, Groucho. Bien.
+[Deleuze parle brièvement de cette perspective chez les Marx Brothers lors de la séance 21 du
+séminaire Cinéma 1, le 1 juin 1982]
+
+Pas de problèmes pour Harpo ; je dirais qu’il est la Priméité de la Tiercéité. C’est lui, en effet,
+qui est à la fois le représentant des affects célestes, la harpe, et des pulsions infernales [Rires]
+comme voracité, sexualité, destruction, etc., [140 :00] bon. Il est l’un dans l’autre. Mais entre les
+affects et les pulsions, on verra les différences, c’est vraiment le régime de la Priméité. Bon.
+
+Alors je trouve que Chico, on n'en parle pas assez, parce que, il est très important, c’est le seul
+qui soit l’homme d’action. C’est lui qui constamment protège, soit Harpo, soit l’amoureux de
+service, dans les… C’est celui qui se présente toujours comme le garde du corps. Son piano est
+un mode d’action, contrairement à la harpe qui elle, est vraiment un instrument des affects. Et
+puis, tout son comportement va être quoi ? Il va avoir un rapport privilégié avec Harpo, [141 :00]
+comme si les deux premiers types d’images -- et ça, ça m’importe l’image-affection, imageaction, Harpo-Chico -- avaient une relation directe, tandis que dans la plupart des films, pas dans
+tous, mais dans la plupart des Marx, Groucho, il arrive d’ailleurs. Les deux, ils se connaissent
+déjà, et Groucho, il vient du dehors. Voilà, c’est vraiment un autre domaine, Groucho.
+
+Et puis s’en suit la danse infernale des trois, ils vont s’arranger, tout ça, très bien. Mais enfin,
+bon, entre Harpo et Chico, qu’est-ce qui se passe de l’un à l’autre ? Si vous consentez à ce que
+Chico ce soit vraiment l'homme d'action, le rôle d’Harpo, c’est de fournir vraiment des matièresqualités, des qualités matérielles. Il n’agit pas, Harpo ; [142 :00] il assure la fourniture
+qualitative. De son immense imperméable, il sort des choses que lui, Harpo, ne considère pas
+comme des objets, mais comme des qualités ou comme des puissances, des potentialités. Et il les
+sort, et les sort quand Chico les lui réclame, et c’est Chico qui va en faire des moyens d’action.
+Si bien que entre Harpo et Chico, vous allez avoir un double rapport, qui fait notre joie à chaque
+fois et qui va être déjà, alors, du point de vue de Tiercéité... je veux dire Harpo, c’est, pour parler
+barbare, c’est la Priméité de la Tiercéité ; Chico, c’est la Secondéité de la Tiercéité, n’empêche
+que, tous les deux sont de la Tiercéité.
+
+Qu’est-ce qui va le montrer ? [143 :00] Premier schéma de Chico à Harpo : Chico lance un mot
+avec un accent ; là il faudrait être très savant : tantôt c’est un accent italien impossible, tantôt
+c’est un accent yiddish -- comme dans un que j’ai revu récemment, un accent très, très complexe
+-- "flash", flash, et l'autre sort de son imperméable successivement un poisson, [Rires] fish. Il y a
+
+                                                                                                      27
+
+aussi l'autre aspect, « flesh », le chair. [Commentaires divers, de Parnet et d’autres] Oui, j'ai
+l'impression que dans ce cas, il parle yiddish. Il y a… ah, « flush », il sort quatre cartes, et il sort
+une quinte, là, il sort [144 :00] des grandes cartes géantes, je ne sais plus quoi. [Voir L’ImageMouvement, p. 269, où Deleuze se réfère à « la série ‘flash’ – ‘fish’ – ‘flesh’ – ‘flask’ –‘flush’
+dans ‘Animal Crackers’]
+
+Et puis, il y a le grand moment où Chico résume tout dans une sorte de bredouillage, il reprend
+toute la liste des mots avec cet accent impossible, disant « non, non, non », et à ce moment-là,
+Harpo sort de son imperméable une lampe électrique pour chercher la lampe électrique de
+l’autre. Qu’est-que c’est ça, comme point de vue ? On est en plein dans l’interprétation.
+L’interprétation qui va de Chico à Harpo, c’est : Chico lance un mot, et Harpo doit le traduire
+dans l’objet correspondant. Le non-sens, c’est quoi ? C’est que c’est toujours l’objet le moins
+correspondant. [145 :00] C’est un non-sens au niveau du mot. Et c’est le premier type de nonsens des Marx. [Deleuze écrit au tableau] Le non-sens comme lexical, c’est le non-sens au
+niveau du mot. Mais c’est déjà de l’interprétation. Je dirais, c’est des relations non naturelles,
+mais au sens des relations naturelles. C’est des relations naturelles volontairement dégénérées.
+
+Dans l’autre sens, de Harpo à Chico, c’est exactement le chemin inverse, qui est également
+célèbre. C’est le fameux langage gestuel de Harpo, et cette fois, c’est Chico qui doit interpréter.
+Ce n’est plus un mot auquel l’autre doit faire correspondre un objet, c’est une mimique à laquelle
+Chico cette fois doit faire correspondre une proposition. [146 :00] Deux, second type de non-sens
+chez les Marx, c’est le non-sens propositionnel. Mais le non-sens propositionnel, c’est encore
+une perversion des relations naturelles, relations naturelles contenues dans le langage gestuel.
+C’est typiquement un ensemble de relations dites graduelles.
+
+Et, le Groucho, lui, lui c’est la Tiercéité de la Tiercéité. Ça ne veut évidemment pas dire qu’il est
+meilleur que les autres, non ça, pas de tout. Enfin il est peut-être déterminant, et c’est, en effet,
+l’homme de quoi ? [147 :00] Il va de soi que c’est l’homme du discours, de la parole, mais c’est
+l’homme du mental. Et de quoi il joue ? Qu’est-ce qu’il fait ? C’est quel non-sens ? C’est
+l’homme des relations abstraites. Quel que soit un terme et un autre terme, il trouvera la relation,
+la relation philosophique qui s’établit. En revanche devant toute relation naturelle, il reste
+comme ça.
+
+Un exemple, dans un film aussi que j’ai revu récemment, on lui présente une photo, qui dévoile
+l’assassin. Il dit : « Mais c’est les yeux de Monsieur … » -- je sais plus quoi -- « c’est les yeux de
+Monsieur » -- je ne sais pas -- « c’est son nez, c’est sa bouche, qui est-ce que ça peut bien être ?
+» [Rires] Il est complètement perdu dans la relation naturelle. En revanche, [148 :00] la relation,
+la relation abstraite, la relation philosophique, alors là, il en jongle, et il devient quoi ? Ce n’est
+plus le mot comme de Chico à Harpo, ce n’est plus la proposition comme de Harpo à Chico. De
+lui à lui et de lui à tous, c’est le maître du raisonnement, le maître du syllogisme. Et tout
+culmine... Donc, mépris absolu pour les relations naturelles, constamment appel au non-sens
+supérieur, c’est-à-dire au non-sens pur, au non-sens logique, qui culmine dans les syllogismes ou
+dans les raisonnements de Groucho. Donc, merveilleux. Je vous rappelle, pour ceux qui ne s’en
+rappelle pas, c’est chaque matin lorsqu’il prend [149 :00] le pouls, le pouls de Harpo, il prend le
+pouls, et il regarde sa montre et il dit : « ou bien cet homme est mort ou bien ma montre est
+arrêtée ». [Rires] C’est le syllogisme disjonctif. C’est une merveille de syllogisme disjonctif. On
+
+                                                                                                     28
+
+ne peut pas l’égaler à ce niveau.
+
+Enfin pour finir, on pourrait faire -- et l’année dernière j’avais essayé un peu, c’est pour faire des
+liens avec ce qu’on faisait l’année dernière -- j’avais essayé un peu de faire… on prendrait
+également ces trois catégories, Priméité, Secondéité, Tiercéité, et on envisagerait les types
+d’acteurs. On fait une typologie des acteurs, cette typologie d’acteurs ne valant évidemment
+qu’en fonction des metteurs en scène qui les font jouer. Je ne dis pas toujours, pas toujours, je dis
+qui c’est, les acteurs ? On verrait là beaucoup mieux, et en plus, il y a les passages constants.
+[150 :00] Je dis très vite, parce qu'on a vu, on a vu des choses là-dessus. Qui c'est les acteurs de
+la Priméité, qui s’affirment comme tels ? Les acteurs de l’affect, de l’expression ? C'est les
+Expressionnistes. Les Expressionnistes, c’est les grands acteurs de la Priméité.
+
+Entre la Priméité et le Secondéité, il me semble qu’il y a un drôle de truc dont j’avais essayé de
+parler l’année dernière. [Sur cette analyse, voir la séance 15, le 20 avril 1982] C'est ce que
+j’essayais d’appeler le naturalisme, où ce n’est plus l’image-affection, c’est quelque chose d’un
+peu plus spécial, c’est l’image-pulsion. L’image-pulsion, ce n’est pas la même chose, mais de
+toute manière, c’est avant l’image-action, si bien qu’on peut les regrouper. Mais c’est une
+nuance, ce n’est pas la même chose que l’image-affection, l'image-pulsion. C’est un type
+d’acteur qui vous reconnaissez à... je n’arrive pas à trouver d’autre mot que celui de : violence
+statique, [151 :00] comme on parle d’électricité statique. Ils entrent dans une pièce, ils ne font
+rien. Je ne vois d’équivalent qu’en littérature, dans le Journal du voleur de Genet, une très courte
+page, hélas trop courte, où Genet décrit la main d’un de ces petits gars, et il la décrit immobile,
+au repos. Et il explique la violence formidable qu’il y a dans cette main au repos, bien plus
+grande que lorsque le type s’agite, et fait brutalité, cette main posée sur la table qui est comme un
+comprimé de violence. Vous avez des gens comme ça. Alors chez les acteurs ça c'est... et tous les
+grands cinéastes naturalistes ont employé évidemment des acteurs qui étaient un peu doués pour
+ça. [Sur cette analyse, voir L’Image-Mouvement, pp. 190-191]
+
+Peu importe que soit des... souvent c’est des grands acteurs. Je pense à un des plus grands
+cinéastes de la pulsion. L’année dernière, j’en avais étudié deux qui étaient Stroheim et Buñuel.
+[152 :00] Bon. Mais Stroheim en tant qu’acteur. [Sur cette analyse, voir la séance 13, le 16 mars
+1982] C’est typiquement un acteur naturaliste. Ce que j’appelle l’acteur naturaliste, c’est
+l’homme de la violence au repos. C’est l’homme de la violence statique. Et il y en a un qui pour
+moi les dépasse tous, qui me flanque une peur quand je le vois entrer là, sur un écran. Sa seule
+présence, il ne fait rien, il ne dit rien, il regarde, et je m’effondre dans mon fauteuil. C’est Stanley
+Baker, qui est l’acteur de [Joseph] Losey. Or Losey me paraît aussi un des plus grands cinéastes
+de la pulsion qui soit. Stanley Baker donne l’impression de brutalité, de violence, de violence
+absolument déchaînée au moment même où il est comme ça, il ne fait rien. C’est un type de jeu,
+je ne crois pas que ce soit simplement leur nature. Les acteurs de Losey, Bogart, qui a mon avis
+n’était pas, n’était pas doué pour ça, [153 :00] c’est complètement Losey qui l’a formé à ça, à ce
+type de violence très particulier.
+
+Il y a beaucoup des femmes parmi les actrices américaines qui ont atteint une espèce de degré de
+l'actrice-pulsion. C’est plus facile peut-être pour une femme que pour un homme. La femme, elle
+est plus facilement dans l’imagination, porteuse de pulsions élémentaires. Mais ce n’est pas
+toutes les actrices américaines. Moi, j’y mettrais Ava Gardner. C’est toutes les actrices qui sont
+
+                                                                                                     29
+
+anti-Actors studio, c’est les grandes actrices naturalistes, et... j’y mettrais... Ava Gardner, Jennifer
+Jones... [On fait des suggestions autour de lui] Qui ? Je ne sais pas, je ne sais pas. Enfin, vous
+pouvez vous-mêmes… Et la dernière de ce genre a été, pour moi, il me semble Marilyn Monroe
+qui, contrairement à ce qu’on dit, [154 :00] il me semble, n’a pas du tout un jeu Actors-studio, un
+jeu complètement, complètement différent. Bon mais enfin, peu importe.
+
+Si je continuais comme ça, ça serait, j'aurais ensuite les acteurs réalistes. Ça c’est les acteurs de
+la Secondéité. L’année dernière, j’en ai beaucoup parlé parce que les acteurs réalistes c’est ce qui
+me parait... c’est l’acteur américain typique, c’est-à-dire, c’est l’acteur de la Secondéité, à savoir
+: action du milieu sur lui-réaction sur le milieu, s’imbiber de l’influence reçue et puis, « l'acting
+out », violence dynamique. C’est une violence complètement différente de la violence
+naturaliste, complètement différente du point de vue du jeu de l’acteur, du point de vue de la
+mise en scène aussi. Alors, ben moi, je ne suis pas très enthousiaste de l’Actors Studio, alors
+quand c’est très, très bien, ça donne Brando, mais c’est perpétuellement… comme [155 :00] dit
+Hitchcock, ils ne restent pas en place ces types-là, il n’y a pas moyen, tantôt ils s’imbibent, tantôt
+ils cassent tout, et il n’y a pas de moyen qu’ils restent tranquilles, d’avoir un visage neutre.
+[Deleuze parle de l’Actors-Studio dans L’Image-Mouvement, pp. 214-219
+
+C’est que j’essayais de vous dire l’année dernière, d’un côté, c’est des acteurs-végétaux, de
+l’une, d’un autre côté, c’est des acteurs-animaux. Ils s’imprègnent, ils s'imprègnent de
+l’atmosphère et puis ils font exploser ; leur réaction est une explosion d’un discontinu. [Sur la
+distinction végétal-animal, voir L’Image-Mouvement, pp, 214-216] Alors c’est toute l’école,
+c’est tous les types qui sont passés par l’Actors Studio, vous les connaissez de Brando, à [Paul]
+Newman. Ils y sont tous passés. Et ce n’est pas que l’Actors Studio les ai formés, c’est que, à
+mon avis, c’était, c’était la tendance naturelle de l’acteur américain, parce que le cinéma
+américain est profondément un cinéma de la Secondéité, un cinéma de l’image-action. Bon, alors
+la Tiercéité, ce serait très compliqué, ce serait bien, ça, [156 :00] l'acte de la Tiercéité.
+
+J’ouvre une parenthèse : peu importe la qualité de l’acteur, parce que encore une fois tout le
+monde sait quand il est expliqué par un metteur en scène, il change. Ce qui ne veut pas dire qu’il
+n’y ait pas des acteurs qui par eux-mêmes ont un talent immense, mais hélas l’inverse est vrai
+aussi les acteurs sans aucun talent, sont très bons avec un grand metteur en scène… [Interruption
+de l’enregistrement] [2 :36 :20]
+
+...il est beaucoup plus violent quand il ne fait rien avec sa tête, avec sa manière de se tenir. [Du
+contexte qui suit, il s’agit d’Alain Delon] Il est beaucoup plus violent quand il ne fait rien que
+quand il se met à tirer des coups de revolver ou courir, il aurait intérêt à ne rien faire du tout,
+[Rires] parce là il a une espèce de violence, de violence effarante. Vous rendez compte, être entre
+Stanley Baker et Delon ? Les acteurs de la Tiercéité, ça ce n’est pas rien, ça, il faudrait... J'aurais
+des idées en ce sens. [157 :00] Prenez… D’abord ça se complique parce qu’encore une fois on
+retrouverait le même thème, il y a une Priméité de la Tiercéité, il y a une Secondéité de la
+Tiercéité, et puis il y a une Tiercéité de la Tiercéité.
+
+Alors moi, moi, je dirais par exemple, Priméité de la Tiercéité, ça, c’est les acteurs de Bresson,
+c’est-à-dire les non-acteurs de Bresson. Parce que Bresson, c’est vraiment l’affect en un sens très
+spécial, c’est l’affect lyrique ; ce n’est pas l’affect expressionniste. C’est-à-dire, c’est la part de
+
+                                                                                                    30
+
+l’événement qui ne se laisse pas effectuer par l’état de choses ; c’est la part de l’événement qui
+déborde sa propre actualisation, c’est ce qu’on a vu la dernière fois. C’est complètement, il me
+semble, c’est cette dimension de l’événement vertical. Seulement, seulement, ce n’est pas du tout
+de l’expressionnisme. Pourquoi ce n’est pas du tout [158 :00] de l’expressionnisme ? Parce que
+c’est une opération tout autre par laquelle la Priméité est réfléchie, elle ne cesse pas d’être
+réfléchie dans une Tiercéité, d’où cette conception très curieuse de l’acteur chez Bresson qui n’a
+rien à voir avec la distanciation de Brecht, pas du tout. Et cette manière dont il les fait parler, qui
+est précisément la parole de l’acteur et le ton qu’a l’acteur, consiste précisément à introduire tout
+l’ensemble de la Tiercéité et à porter les affects à un niveau supérieur, c’est-à-dire encore plus
+loin de leur effectuation. C’est très, très, très compliqué.
+
+Et puis toute une série alors, il faudrait chercher comme ça, on en trouverait plein d’autres...
+Voilà donc exactement d’autres types d’acteurs. Chez les acteurs récents, il y a quelque chose qui
+s’est passé, il me semble. Il faudrait aussi se demander dans quel cas, pour quel type d’image
+[159 :00] ai-je besoin d’un non-acteur ou d’acteurs, si vous préférez, non-professionnels ? Pour
+quel genre d’image ? Il y a évidemment des types d’images qui ne peuvent être portées,
+représentées que par les gens directement concernés. Je veux dire que ce n’est pas parce que
+c’est du cinéma direct, ce sera cinéma direct parce que c’est ce type d’images là.
+
+Enfin, j’en suis donc exactement à ceci. Qu’est-ce que, comment est-ce que Peirce va passer de
+ces trois types d’images aux signes et à quels signes ? Et, deuxième question, et nous alors
+qu’est-ce qu'on devient là-dedans ? C’est ça qu’il faudrait que je fasse la prochaine fois. [Fin de
+la séance] [2 :39 :52]

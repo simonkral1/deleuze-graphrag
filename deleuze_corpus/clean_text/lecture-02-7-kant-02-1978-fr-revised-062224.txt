@@ -1,0 +1,634 @@
+1
+
+Gilles Deleuze
+
+Sur Kant: synthèse et temps
+
+2ème séance, 21mars 1978
+
+Transcription : WebDeleuze
+
+Pourquoi est-ce qu'il n'y aurait pas aussi un maniement de synthétiseur ou un maniement
+électronique pour la philosophie ?
+
+La dernière fois j'ai essayé de fixer un certain nombre de notions kantiennes très précises : a
+priori, synthèse, etc., mais bien en fonction de ce qui me paraissait l'essentiel, à savoir un
+renversement radical dans la position du problème du temps par rapport à la philosophie. C'est
+un renversement critique, comme un point critique.
+
+Je proposais la dernière fois de prendre comme trois formules arbitraires, mais c'est très
+dangereux, mais tant pis il y a trois formules clé qui ne sont pas de Kant mais sous lesquelles, il
+semble, se groupent les trois grandes nouveautés ou les trois grands renversements que Kant
+opère sur la notion de temps ou de temporalité.
+
+Donc si on arrive à éliminer tout ce qu'il y a de facile dans cette évocation de formules littéraires
+à propos d'une étude conceptuelle de philosophie, la première formule à laquelle Kant donnerait
+un contenu puissant c'est celle d'Hamlet : le temps sort de ses gonds. La deuxième formule est
+anonyme, et ce serait quelque chose comme ceci : jusqu'à maintenant on s'est donné pour tâche
+de représenter l'espace, le moment est venu de penser le temps. Troisième formule célèbre, émise
+par un auteur qui n'a rien à voir avec Kant : "je est un autre". Je crois que si on sépare ces
+formules de leurs contextes, elles conviennent admirablement à Kant, si vous les prenez comme
+déclarations abstraites. Peut-être que ça me permettrait de comprendre en elle-même la formule
+"je est un autre", tout comme de comprendre en elle-même la formule "le temps sort de ses
+gonds".
+
+J'ai demandé à Gilles Chatelet d'apporter une contribution au commentaire de cette première
+formule. [Il s’agit d’un collègue de Deleuze en mathématiques à partir de 1979] Donc je resitue
+où on en est au niveau de la première formule "le temps sort de ses gonds", comment est-ce que
+la philosophie de Kant pose un temps qui est en train de sortir de ses gonds. Les gonds, c'était
+cette espèce de pivot autour duquel tournait le temps, en d'autres termes, dans une certaine
+tradition antique, le temps est fondamentalement subordonné à quelque chose qui se passe en lui.
+Et ce quelque chose, on peut le déterminer comme étant le changement, subordination du temps
+au changement. Le temps va donc mesurer le changement de ce qui change, ou bien, ce qui
+revient au même à un autre niveau, il va être subordonné au mouvement, subordination du temps
+au mouvement. Je dis que ça revient au même à un autre niveau parce que le mouvement en tant
+que mouvement local est la forme la plus pure du changement, c'est-à-dire la forme parfaite du
+changement; ça renvoie à des choses d'Aristote et qui couvrent toute la philosophie grecque.
+
+                                                                                                      2
+
+Ou bien, ce qui revient au même à un autre niveau encore, subordination du temps au cours du
+monde, et c'est en ce sens qu'apparaît la définition classique chez les Grecs : le temps c'est le
+nombre du mouvement. Qu'est-ce que ça implique ? Ça implique une subordination du temps au
+changement, au mouvement, au cours du monde. Ça implique le temps est comme ployé, il est
+mis en cercle. C'est un temps, indépendamment ou non des questions de l'éternel retour qui se
+posent d'une toute autre manière, le temps est cyclique. Et en effet, dans la mesure où il est le
+nombre du mouvement, il va mesurer le mouvement des planètes - voir tous les thèmes de Platon
+sur les huit mouvements des huit planètes - et le grand cercle qui va mesurer le temps qu'il faut
+pour que les huit planètes se retrouvent dans la même position respective, les huit cercles du
+monde, il y aura donc un grand cercle des cercles dont le point sera assigné par le retour des
+planètes à la même position relative, il y aura l'année du monde. Or ce temps mis en cercle ne
+fait qu'un avec le temps subordonné au changement, eu mouvement et au cours du monde, et
+c'est la grande idée qui traverse toute la philosophie antique : le temps comme image de
+l'éternité. Le cercle du temps, en tant qu'il mesure le mouvement planétaire, et le retour du
+même, c'est précisément ce temps mis en cercle. Dans le Timée on avait de très belles pages sur
+l'arc du Démiurge qui met en cercle, cette activité de ployer.
+
+Or, ce temps comme image de l'éternité, la figure cyclique du temps subordonné au mouvement
+et dont le secret va être le retour périodique des planètes dans la même position relative les unes
+par rapport aux autres, c'est bien un temps qui est l'image de l'éternité. Je dirais que tout le temps
+de l'antiquité est frappé d'un caractère modal, et en effet le mot apparaît tout le temps : le temps
+est un mode et non pas un être. Pas plus que le nombre n'est un être, c'est un mode par rapport à
+ce qu'il quantifie, de même le temps est un mode par rapport à ce qu'il mesure.
+
+Évidemment, il ne s'agit pas de prendre Kant comme ça, ça ne se passe pas seulement dans sa
+tête, il y a une très longue évolution scientifique qui va trouver là son expression philosophique,
+mais elle avait déjà trouvé, sans doute avec Newton, une expression scientifique. Tout se passe
+comme si le temps se déployait, mais "se déployait" il faut le prendre au sens strict, c'est à dire se
+déroulait, c'est à dire perdait sa forme cyclique. Qu'est-ce que ça veut dire que le temps devient
+ligne droite pure. C'est exactement comme si vous teniez un ressort en rond et que vous le
+lâchez.
+
+Le temps devient ligne droite pure. Ça me rappelle Borgès, le véritable labyrinthe c'est la ligne
+droite. Quand le temps devient ligne droite, qu'est-ce que ça veut dire et qu'est-ce que ça
+implique comme changement ?
+
+Toujours pour parler musique, je dirais qu'avec Kant le temps acquiert un caractère tonal, il cesse
+d'être modal. On ne peut pas trouver d'autres images pour indiquer la violence d'une telle
+opération par rapport à la pensée que, vraiment, le cercle qui saute, comme un ressort qui se
+détend, qui devient pure ligne droite. Vous voyez la ligne cyclique, quand le temps est cyclique,
+c'est une ligne qui borne le monde et rien que dire que le temps devient ligne droite ça veut dire
+qu'il ne borne plus le monde, il va le traverser. Dans le premier cas, le temps cyclique c'est un
+temps qui borne et qui donc opère - ce qui pour les Grecs a toujours été l'acte suprême -, opère la
+limitation. Lorsque le temps devient ligne droite, il ne borne plus le monde, il le traverse, il n'est
+plus une limite au sens de limitation, il est limite au sens de : c'est au bout, il ne cesse pas d'être
+au bout, c'est au sens de passage à la limite. Le même mot "limite" change radicalement de sens,
+
+                                                                                                      3
+
+ce n'est plus l'opération qui limite quelque chose, c'est au contraire le terme vers lequel quelque
+chose tend, et à la fois la tendance et ce vers quoi ça tend, c'est ça le temps.
+
+Comment expliquer ça ? Il s'agit juste d'assigner l'importance de ce temps devenu ligne droite.
+Là ce n'est pas une simplification, ça change tout dans l'atmosphère même du temps et dans
+l'opération du temps. La manière la plus simple c'est de s'adresser à un poète qui se réclame de
+Kant. C'est Hölderlin. Pour le moment notre problème c'est uniquement de dire quelle
+importance a ce changement lorsque le temps cesse d'être circulaire, d'être un cycle pour devenir
+ligne droite. Il faut avoir à l'esprit qu'Hölderlin se réclame de Kant et à la fois, a beaucoup de
+choses à dire sur ce qui arrive lorsque le temps devient ligne droite.
+
+Hölderlin pose le problème au niveau de la tragédie grecque, et notamment il oppose la tragédie
+grecque telle qu'elle apparaît dans Eschyle et la tragédie grecque telle qu'elle apparaît avec
+Sophocle, et avant tout dans Œdipe et dans Antigone. Le schéma que développe Hölderlin, et que
+d'autres commentateurs de Sophocle ont repris ensuite, vous allez voir tout de suite qu'il
+concerne le cœur même de notre problème. Ça revient à nous dire qu'il y a un certain tragique
+grec qui est le tragique du temps cyclique. On le trouve très bien dans Eschyle. Qu'est-ce que
+c'est le cycle du temps tragique ? Le cycle du temps tragique c'est, en gros, comme trois arcs de
+cercle de valeurs inégales; il y a le moment de la limitation; la limitation ce n'est rien que la
+justice, c'est la part assignée à chacun. Et puis il y a la transgression de la limitation, l'acte qui
+transgresse.
+
+Le moment de la limite c'est le grand Agamemnon, c'est la beauté de la limitation royale. Puis il
+y a la transgression de la limite, c'est à dire l'acte de la démesure : c'est Clytemnestre assassine
+Agamemnon. Puis il y a la longue réparation, et le cycle du temps tragique c'est ce cycle-là de la
+limitation, de la transgression et de la réparation. La réparation c'est Oreste qui vengera
+Agamemnon. Il y aura rétablissement de l'équilibre de la limite qui a été un moment outrepassé.
+Remarquez que ce temps tragique est assez décalqué sur le temps astronomique puisque dans le
+temps astronomique vous avez la sphère des fixes qui est précisément la sphère de la belle
+limitation, vous avez les planètes et le mouvement des planètes qui, d'une certaine manière brise
+la limite, puis vous avez la réparation, c'est à dire le rétablissement de la justice puisque les
+planètes se retrouveront dans la même position.
+
+Et dans cette formule du fameux destin tragique, comme on dit, c'est fait dès le début, et lorsque
+la tragédie commence c'est déjà fait : comme dit le texte même d'Eschyle, au moment où
+Agamemnon rentre dans son palais et va être assassiné par Clytemnestre, c'est déjà fait. Mais au
+moment où Clytemnestre l'assassine, acte de démesure et d'injustice, de violation de la limite, la
+réparation est déjà là. C'est cette espèce de destin cyclique. Le temps est courbe. Tandis que dans
+des pages splendides, Hölderlin dit : qu'est-ce que c'est la nouveauté de Sophocle ? En quoi estce que Sophocle finalement fonde le tragique moderne ? Il est le premier à décourber le temps.
+C'est le temps de Œdipe. Il dit qu'avant Sophocle, dans le tragique grec, c'est l'homme qui se
+dérobe à la limite. Vous voyez, dans la limite-limitation, l'homme transgresse la limite et par là
+même il se dérobe à la limite; mais Œdipe on ne peut plus dire que c'est l'atmosphère de
+quelqu'un qui transgresse la limite, qui se dérobe à la limite. Dans le cas d'Œdipe, c'est la limite
+qui se dérobe.
+
+                                                                                                     4
+
+Où est-elle ? C'est la limite qui devient passage à la limite. Formule splendide de Hölderlin :
+dans Œdipe, le début et la fin ne riment plus. Et la rime c'est précisément l'arc du ploiement du
+temps de telle manière que début et fin riment l'un avec l'autre. Il y a eu réparation de l'injustice.
+Dans Œdipe le temps est devenu une ligne droite qui va être la ligne sur laquelle Œdipe erre. La
+longue errance d'Œdipe. Il n'y aura plus réparation, ne serait-ce que sous la forme d'une mort
+brutale. Œdipe est en perpétuel sursis, il va parcourir sa ligne droite du temps. En d'autres
+termes, il est traversé par une ligne droite qui l'entraîne. Vers quoi ? Rien. Heidegger pourra dire
+plus tard que c'est vers la mort. La ligne droite du temps Heidegger en tirera pour son compte
+l'idée, qui n'est pas sans être kantienne, l'idée d'une espèce d'être-pour-la-mort.
+
+On voit bien en effet que dans le cas de Œdipe, dans la tragédie de Sophocle, le début et la fin ne
+riment pas, et bien plus il y a un instant zéro. Hölderlin ajoute que ce temps décourbé, tel que le
+début et la fin ne riment plus ensemble, c'est un temps marqué par une césure, et justement c'est
+parce qu'il y a une césure dans ce temps, donc un présent pur, que il y aura - et c'est cette césure
+qui va le distribuer -, un avant et un après, et c'est cet avant et cet après qui ne riment pas.
+Au schéma du temps cyclique se substitue un temps comme ligne droite, marqué par une césure,
+césure qui distribue un avant et un après non symétriques. C'est très important pour nous car le
+temps comme ligne droite a en lui la possibilité de distribuer un avant et un après non
+symétriques, de produire un avant et un après non symétriques à partir d'une césure. Cette césure
+on peut l'appeler le présent pur. Or l'analyse d'Hölderlin est admirable car il essaie de montrer
+que cette forme du temps, césure distributrice d'un avant et d'un après, donc forme linéaire de ce
+temps marquée par un présent pur en fonction duquel se produit dans le temps un passé et un
+futur, et bien ce temps est celui de la conscience moderne du temps par opposition à la
+conscience antique.
+
+Puisque j'ai emprunté la formule à Hamlet, ça me frappe, indépendamment des dates, à quel
+point tout le schéma qu'Hölderlin construit pour nous faire comprendre ce qu'il considère être la
+nouveauté de Œdipe, à quel point ça s'applique à Hamlet. Pour ceux qui se rappellent Hamlet,
+c'est curieux à quel point c'est un temps linéaire où quelque chose se dérobe constamment, ce
+n'est plus Hamlet qui se dérobe à la limite, c'est la limite qui se dérobe à Hamlet, comme si elle
+filait la ligne droite. Et il y a une césure. Pour Œdipe, Hölderlin assigne le moment de la césure à
+ceci : l'intervention de Tirésias, l'intervention du devin. Il va constituer l'instant pur, le présent
+pur à partir duquel se produit sur la ligne droite un passé et un futur, c'est à dire un avant et un
+après qui ne riment plus ensemble. Et dans Hamlet, il y a un moment qui me paraît extraordinaire
+: Hamlet hésite beaucoup dans sa tâche de venger son père : à la lettre la limite se dérobe. Quand
+il hésite beaucoup pour venger son père c'est la même histoire qu'Œdipe. Pendant longtemps c'est
+le temps comme de l'avant, mais on ne peut pas dire encore "de l'avant' puisque l'avant et l'après
+ne sont distribués que par la césure c'est à dire le moment du présent pur; et puis son beau-père
+qui veut le liquider, l'envoie dans un voyage en mer. Alors le voyage en mer est tellement
+fondamental que Hamlet en revient en disant : "il y a en moi quelque chose de dangereux", ce
+qu'il n'aurait jamais dit avant, comme si le voyage en mer l'a rendu capable de quelque chose
+dont auparavant il n'était pas capable. Le voyage en mer a fait fonction de césure et a distribué
+sur la ligne droite du temps un avant et un après non coïncidables, non symétriques.
+
+On va voir tout ça dans ce texte tellement beau, obscur mais beau de Hölderlin : "A la limite
+extrême du déchirement il ne reste en effet plus rien que les conditions du temps ou de l'espace
+
+                                                                                                      5
+
+(là Hölderlin parle kantien). A cette limite l'homme oublie soi-même parce qu'il est tout entier à
+l'intérieur du moment. Le Dieu oublie parce qu'il n'est rien que temps. Et de part et d'autre on est
+infidèle, etc. ..." Le détournement catégorique, c'est quoi ? C'est que tant que le temps est
+cyclique, il y a une espèce de rapport Dieu-homme qui ne fait qu'un avec le destin dans la
+tragédie grecque. Quand le temps se met en ligne droite, c'est aussi bien quelque chose qui
+sépare. Dans le commentaire très beau de Hölderlin c'est le double détournement dans le même
+tracé du temps linéaire qui va séparer l'homme et Dieu, Dieu se détourne de l'homme qui se
+détourne de Dieu. Ce pourquoi Œdipe est dit par Sophocle "atheos", qui ne veut pas dire athée,
+mais le séparé de Dieu. Si bien que Dieu n'est plus le maître du temps, qui courbe le temps, et
+l'homme n'est plus lui-même [mot ou mots inaudibles] en cercle dans une espèce d'harmonie
+avec Dieu, dans cette espèce de rapport avec Dieu, l'homme n'est plus que la césure qui empêche
+que l'avant et l'après riment ensemble, qui distribue un avant et un après qui ne riment pas
+ensemble.
+
+Je voudrais juste un commencement de sentiment sur l'importance de ce temps qui se met en
+ligne droite. Ça ne veut pas du tout dire une simplification de la figure du temps, je voudrais que
+vous sentiez au contraire une intense complication de la figure du temps. Le temps n'est plus
+subordonné à quelque chose qui se passe en lui, c'est au contraire tout le reste qui se subordonne
+au temps. Dieu lui-même n'est plus que le temps vide. L'homme n'est plus que césure dans le
+temps. Dans La Critique de la raison pure, il y a un passage très célèbre, également très, très
+beau, qui s'intitule "les anticipations de la perception". Je voudrais juste montrer que, à un tout
+autre niveau, Kant nous raconte une histoire qui est la même que celle que Hölderlin a raconté
+après. Mais ce n'est pas à propos de la tragédie grecque. Il se trouve bizarrement que c'est à
+propos de la physique scientifique.
+
+Il y a douze pages extraordinaires intitulées donc "les anticipations de la perception". Kant nous
+dit que l'espace et le temps ce sont ce qu'on appelle des grandeurs extensibles. Qu'est-ce que ça
+veut dire une grandeur extensible ? Ce n'est pas compliqué, pour parler latin une grandeur
+extensible c'est celle qui répond à la formule "partes extra partes", l'extériorité des parties, à
+savoir une grandeur extensive c'est celle dont on appréhende les parties successivement si bien
+que, toute quantité étant à la fois multiplicité et unité - lorsque vous dites, par exemple, ceci a
+vingt mètres, c'est l'unité d'une multiplicité -, on définira la grandeur extensible ou la grandeur
+extensive de la manière suivante : la multiplicité renvoie à une réunion de parties en un tout.
+
+C'est ça une quantité extensive. Or le temps c'est comme ça : une minute, une autre minute, une
+autre minute, et puis vous dites que ça y est, que c'est une heure de passée. Vous voyez la
+succession des parties dans l'appréhension, la réunion en un tout : une heure. L'espace et le temps
+sont des quantités extensives, pas de difficulté. Kant ajoute : mais voilà, le réel dans l'espace et
+dans le temps - vous vous rappelez le réel dans l'espace et dans le temps c'est ce qui apparaît dans
+l'espace et dans le temps, c'est le phénomène puisque chez Kant le phénomène n'est plus une
+apparence, c'est le fait d'apparaître -, le réel en tant qu'il apparaît dans l'espace et dans le temps,
+sans doute il a aussi une quantité extensive, par exemple la table occupe un espace, elle a une
+quantité extensive, il y a l'espace de la table. Il n'y a plus à revenir sur ce point; c'est même ce
+que Kant appelle une synthèse. Mais le réel dans l'espace et dans le temps n'a pas seulement une
+quantité extensive, il a aussi une quantité intensive. Qu'est-ce que c'est une quantité intensive ?
+C'est ce qui remplit l'espace et le temps à tel ou tel degré.
+
+                                                                                                         6
+
+On voit tout de suite la différence entre quantité extensive et quantité intensive puisque un même
+espace extensif pourra être également rempli à des degrés divers. Exemple : le même espace peut
+être rempli par un rouge plus ou moins intense, la même pièce peut être remplie par une chaleur
+plus ou moins intense, le même volume peut être rempli par une matière plus ou moins dense. La
+question ce n'est pas du tout si il y a du vide dans l'espace et dans le temps. Kant va même
+distinguer fondamentalement les deux questions : est-ce qu'on peut concevoir du vide dans
+l'espace et dans le temps, et une autre question, à savoir que l'espace et le temps peuvent être
+remplis sans qu'il y ait de vide en eux, peuvent être remplis à des degrés divers. Alors qu'est-ce
+que c'est que la quantité intensive du réel en tant qu'il remplit l'espace et le temps ?
+
+Bien plus, il n'y a pas seulement un réel qui remplit l'espace et le temps, il y a un réel de l'espace
+et du temps, c'est la quantité intensive. Par opposition à ce qu'on vient de dire de la quantité
+extensive, les deux caractères fondamentaux de la quantité intensive selon Kant - et ce sera très
+important pour toutes les théories ultérieures de l'intensité -, premier caractère : l'appréhension
+d'une quantité intensive est instantanée, c'est à dire que son unité ne vient plus de la somme de
+ses parties successives, l'unité d'une quantité intensive quelconque est appréhendée dans l'instant.
+Ce qui revient à dire que quand je dis "il fait trente degrés", la chaleur trente degrés n'est pas la
+somme de trois fois 10°, que c'est au niveau des quantités extensives que trente c'est 10+10+10,
+mais trente degrés ce n'est pas trois fois, une chaleur de trente degrés ce n'est pas trois chaleurs
+de dix degrés.
+
+En d'autres termes, les règles de l'addition, de la soustraction ne valent pas pour les quantités
+intensives. L'appréhension de l'unité d'une quantité intensive quelconque se fait dans l'instant.
+Deuxième caractère : la multiplicité contenue dans une multiplicité intensive ne renvoie plus à
+une succession de parties extérieures les unes aux autres, mais renvoie à un rapprochement
+variable du degré zéro. Je peux dire que chaque fois qu'il y a quelque chose qui remplit l'espace
+et le temps, je dirais ou plutôt Kant dirait qu'il se trouve devant une intuition empirique.
+Intuition, vous vous rappelez c'est la faculté de recevoir ce qui est donné, or le donné est donné
+dans l'espace et dans le temps, donc l'intuition ce n'est pas du tout une faculté magique, c'est la
+faculté de réceptivité. Je reçois quelque chose qui est donné, et en ce sens j'ai une intuition
+empirique. Mais dans la mesure où ce qui est donné a une quantité intensive, c'est à dire un
+degré, je le saisis dans un rapport à sa production à partir de zéro, ou son extinction ... ou le réel
+qui remplit l'espace et le temps, du point de vue de sa quantité intensive est saisi comme produit
+à partir du degré zéro ou comme s'éteignant c'est à dire rejoignant le degré zéro.
+
+A ce moment-là, la question n'est pas du tout de savoir s'il y a un espace et un temps vides, la
+question c'est de savoir que de toutes manières il y a une conscience vide de l'espace et du temps.
+Et il y a une conscience vide de l'espace et du temps comme étant la conscience déterminée par
+et en fonction du degré zéro comme principe de la production de tout réel dans l'espace et dans le
+temps-production à partir de zéro ou principe de l'extinction. Je ne voudrais pas faire de
+rapprochements trop forcés, mais au niveau physique de l'intensité chez Kant, vous pouvez faire
+ce que Holderlin [mot ou mots inaudibles], à savoir la ligne droite du temps marquée d'une
+césure qui est l'intuition = 0; ce qu'il appellera l'intuition formelle vide, à partir de laquelle le réel
+qui remplit l'espace et le temps sera produit, et c'est cette intuition = 0, cette intuition vide qui
+forme la césure. C'est en fonction de cette césure, de ce degré zéro impliqué par toute quantité
+
+                                                                                                    7
+
+intensive, qui est naturellement en corrélation avec le temps comme forme vide, comme ligne
+pure.
+
+Donc sur le temps comme ligne pure se marque la césure du degré zéro qui va faire que l'avant et
+l'après ne riment plus ensemble. Encore une fois la question ce n'est pas : y a-t-il un temps et un
+espace vides, la question c'est que il y a une conscience vide du temps, en vertu de la nature du
+temps lui-même. En d'autres termes Dieu est devenu temps, en même temps que l'homme
+devenait césure. C'est difficile, on ne comprend rien, mais c'est beau. Voilà tout ce que je voulais
+dire sur le temps qui sort de ses gonds.
+
+La quantité intensive opère une synthèse entre le degré zéro qu'elle implique à partir duquel elle
+est produite, et le temps comme ligne pure ou forme vide. La quantité intensive comme degré du
+réel qui remplit un espace et un temps opère la synthèse entre un degré zéro à partir duquel ce
+réel est produit ou dans lequel il s'éteint, d'autre part le temps comme forme vide ou ligne pure.
+Si bien que il y aura complémentarité entre la fonction de césure que la conscience intensive joue
+dans le temps et la forme linéaire vide que le temps prend. D'où comme dira Hölderlin : l'homme
+(la conscience du temps) n'est plus que césure, Dieu n'est plus que temps vide. C'est le double
+détournement. Kant n'allait pas jusque-là, pour une raison simple que je précise : en effet Kant
+soustrayait Dieu et l'âme de la connaissance. Il leur donnait une fonction dans le champ de la
+connaissance, mais Dieu et l'âme n'étaient pas en tant que tels connus puisqu'on ne connaît que
+des phénomènes, on ne connaît que ce qui apparaît. Seulement il ne supprimait ni Dieu ni l'âme
+puisqu'il allait leur donner une toute autre fonction, une fonction pratique, morale. Mais du point
+de vue de la connaissance, Dieu passe par le temps vide tout comme l'âme passe par la césure.
+
+Est-ce que ça va mieux ? Le véritable vécu c'est absolument de l'abstrait. L'abstrait c'est le vécu.
+Je dirais presque que dès que vous atteignez au vécu, vous atteignez au plus vivant de l'abstrait.
+En d'autres termes, le vécu ne représente rien. Et vous ne pourrez vivre que de l'abstrait et jamais
+personne n'a vécu autre chose que de l'abstrait. Je ne vis pas la représentation de mon cœur, je vis
+une ligne temporelle qui est complètement abstraite. Quoi de plus abstrait qu'un rythme ?
+
+Pour les stoïciens, ils sont à la fois tellement nouveaux par rapport à l'antiquité, et en même
+temps ils n'ont rien à voir, ils emploient "limite" dans un tout autre sens. La limite chez eux ce
+n'est plus ni la limite des philosophes de type platonicien, ce n'est pas non plus l'autre limite ...
+Les anticipations de la perception chez Kant, ça veut dire une chose très simple, c'est que vous ne
+pouvez rien dire sur la perception, a priori, s'il y a une couleur qu'on appelle le rouge et une autre
+qu'on appelle le vert, ça c'est du donné, vous ne pouvez pas le dire indépendamment de
+l'expérience, c'est donné dans l'expérience. Il y a deux choses que vous pouvez dire a priori, c'est
+: quoi que ce soit qui soit donné dans l'espace et dans le temps, ce qui est donné dans l'espace et
+dans le temps est une quantité extensive, mais a aussi un degré, c'est à dire une quantité
+intensive. Ça c'est un jugement a priori. A savoir rien ne viendrait remplit l'espace et le temps
+comme quantités extensives si ce qui vient les remplir n'avait aussi un degré. Donc j'anticipe la
+perception puisque là j'ai une détermination, c'est la seule chose a priori que je puisse dire. Donc
+il y a anticipation. Chez Epicure ce n'est pas du tout dans ce sens. La définition du temps
+épicurien ne sera même pas la nouveauté d'une forme du temps stoïcien, c'est typiquement le
+temps modal. Là je voudrais bien que Gilles Chatelet enchaîne et dise, de son point de vue un
+
+                                                                                                     8
+
+peu mathématique, en quoi précisément cette conception du temps comme ligne droite est
+fondamentale.
+
+Gilles Châtelet (résumé parce que la bande est inaudible) : Chez Platon, on a un temps qui est
+créé, c'est à dire qu'il y a une transcendance quelque part qui est au-dessus du temps et qui, en
+corrélation avec lui, a une dimension supérieure. Ce temps de Platon mesure les périodes, c'est
+un ensemble de périodes et il assure la répétition des identités dans les astres, le calendrier. Ce
+qui est fondamental à retenir c'est que le temps est un nombre. Ce temps, par-dessus le marché
+mesure l'ordre. Le temps chez Platon décrit l'ordre, par exemple le chaos n'a pas de temps. Le
+temps est une espèce de calendrier d'expression de l'ordre du monde : c'est un système de repères
+de l'ordre, il est dans le monde, c'est un être mondain.
+
+Chez Aristote tout est posé par le mouvement et le temps est dans le mouvement, il est intérieur à
+la masse. Le temps est rattaché aux corps. Le temps sera purement astrologique, mais on doit à
+Aristote la notion de temps éternel, infini et uniforme. Mais chez Platon et Aristote, on a une
+représentation cyclique.
+
+Chez Plotin il y a un opérateur abstrait qui s'appelle l'un, qui n'a aucune qualification et il y a
+quelque chose qui se dégrade dès qu'on sort de l'un. Le temps mesure certainement la
+dégradation par rapport à l'éternité. Plotin dit que le temps c'est l'addition irréparable de l'être à
+lui-même. Le temps est une chute, c’est-à-dire une dégradation, et Plotin parle d'aspiration vers
+Dieu. La figure mathématique qui s'accorderait avec ce que dit Plotin s'appelle une droite
+projective, le temps est une droite, mais une droite recourbée. Ce n'est pas un cercle non plus.
+C'est un cercle moins un point (l'un). Le temps chez Plotin serait une espèce de temps projectif, il
+y a déjà l'idée de l'irréversible. Chez Plotin le temps découle de l'un et l'un est transcendant au
+temps. Le temps n'est pas exactement un être cosmique, c'est l'âme qui apprécie le temps en tant
+que ... Le temps est déjà un équivalent de l'éternité, il n'a ni commencement ni fin et le point hors
+du cercle n'est pas dans le temps, l'un est au-dessus, on ne commence jamais. C'est assez
+paradoxal.
+
+Chez Kant le temps devient une condition de possibilité des phénomènes. La successivité des
+phénomènes implique le temps, donc c'est le temps qui est transcendant. Le temps est ce qu'on
+appelle une multiplicité, c'est clairement dit, il est unidimensionnel et surtout il est ordonné. A la
+fin il dit qu'il tend à la droite. Or qu'est-ce que c'est qu'une droite ? ... Le temps comme paramètre
+donne la trajectoire ... La droite réelle c'est une fonction, le temps devient condition d'une
+fonction; ce n'est pas l'image de la représentation, c'est la fonction elle-même. Il y a la
+susceptibilité d'y avoir une fonction du temps. En quoi est-ce que Kant c'est complètement
+moderne ? Parce que la temporalité c'est définir la topologie ... droite ... Mais l'idée essentielle de
+Kant c'est que l'espace abstrait qui est là est pur paramètre.
+
+Il y a deux choses dans Kant : premièrement une révolution technologique au sens où il est
+clairement affirmé que le temps est une droite réelle, mais il y a aussi une notion de fonction.
+
+Gilles Deleuze : Tu dis quelque chose de très important, à savoir qu'avec Kant le temps cesse
+d'être nombre ou mesure et devient paramètre. Je voudrais que tu expliques la différence entre un
+nombre ou une mesure et un paramètre ?
+
+                                                                                                      9
+
+Gilles Châtelet : Le paramètre n'est pas un résultat. Un nombre, pour les Grecs, c'est simplement
+une mesure, ici la mesure du temps est possible parce que ... En mathématique paramètre ça n'a
+pas de définition, c'est simplement une notion. Le temps devenu paramètre n'est plus un résultat,
+il devient donnée initiale. Un paramètre c'est ce qui est donné, ce qui varie.
+
+Deleuze : Je crois que ça revient exactement au même : dire que le temps cesse d'être un nombre
+ou le temps cesse de mesurer quelque chose et donc est subordonné à ce qu'il mesure, et le temps
+devient un paramètre, le temps est rapporté à un problème de constitution. Quand je disais que le
+temps se décourbe, devient ligne droite ... Il y a quelque chose d'équivalent dans cette conception
+moderne du temps où c'est en même temps qu'apparaît une forme vide du temps paramétrique et
+que il y a complémentarité avec quelque chose qui fait fonction, ou bien de césure dans la
+tragédie, ou bien de coupure dans l'instrumentation mathématique. Je suis juste un peu embêté
+par le rôle clé que Gilles Chatelet donne à Plotin. Dans l'antiquité c'est beaucoup plus compliqué
+qu'on ne l'a dit jusqu'à présent. Il y avait en fait deux directions et les deux directions avaient au
+moins quelque chose de commun : dans les deux directions le temps n'a qu'un caractère modal et
+jamais un caractère [mot ou mots inaudibles] Or, les deux directions c'est le temps comme
+nombre du mouvement, donc subordonné au cosmos physique, subordonné à la phusis, et puis là
+Plotin rompt, mais il n'est pas le premier à rompre, et lui fait une conception du temps qui est
+subordonné non pas à la phusis mais à l'âme. Je ne serais pas tout à fait d'accord avec Gilles
+Chatelet sur l'importance de ce point, de Plotin, et d'une part les deux tentatives : le temps
+subordonné à l'âme, le temps subordonné à la phusis maintiennent et ont au moins en commun
+d'affirmer un caractère purement et uniquement modal du temps, donc le temps comme image de
+l'éternité, un caractère secondaire et dérivé du temps, et les deux ont un point de convergence
+dans la théorie antique de l'âme du monde. Je ne ferais pas de Plotin un ...
+
+Georges Comtesse : [Intervention inaudible].
+
+Deleuze : Transcendant à propos de Kant. Encore une fois il y a deux notions. La notion
+kantienne c'est transcendantal, le temps est transcendantal, mais toute la notion kantienne de
+transcendantal est faite pour réfuter la notion classique de transcendant. Le transcendantal, ce
+n’est surtout pas du transcendant.
+
+Je voudrais passer très vite au second point. Je vais très vite. Je dirais que la seconde formule que
+je voudrais appliquer à Kant c'est ... mais penser le temps c'est vraiment le plus difficile - c'est la
+phase de la philosophie comme philosophie critique, comme philosophie moderne définie par
+Kant sous la forme d'une philosophie critique. Dans la philosophie classique, qu'est-ce que c'est
+que l'autre de la pensée. L'autre de la pensée c'est avant tout l'espace. C'est l'espace. L'espace est
+conçu comme limitation. Il était conçu comme obstacle et résistance, il est aussi limitation.
+
+Pourquoi ? Parce que il se trouve que ma pensée est rapportée à une substance pensante ellemême inétendue, la pensée est l'attribut d'une substance pensante elle-même inétendue, mais
+cette substance pensante est finie en corps. Elle est finie en corps : c'est le fameux problème qui
+empoisonnera la philosophie classique à savoir l'union de l'âme comme substance pensante et du
+corps comme substance étendue. Et le fait que l'âme soit finie en corps, bien que l'âme soit en
+elle-même inétendue (vous voyez que c'est un problème inextricable : comment est-ce que
+quelque chose d'inétendu peut être fini dans quelque chose d'étendu, ça va donner toutes sortes
+
+                                                                                                      10
+
+de paradoxes), cela introduit en effet une limitation fondamentale de la pensée puisque ça va être
+la source de toutes les erreurs, de toutes les illusions qui non seulement font obstacle à la pensée,
+mais limitent la pensée.
+
+Troisième caractère : si l'espace est l'autre de la pensée, je dis que c'est un autre de, à la lettre, de
+l'altérité. La substance étendue est autre que la substance pensante bien qu'elle soit
+unisubstantiellement supposée, d'où la position bien connue de Descartes dans laquelle il y avait
+trois substances : la substance pensante, la substance étendue et l'union de la substance pensante
+et de la substance étendue. Avec la transformation kantienne tout change d'aspect. Pourquoi ? On
+se souvient du temps devenu ligne droite, et je ne peux plus dire que ce qui est important c'est
+l'espace comme obstacle ou résistance à la pensée, ou comme limitation de la pensée. Là c'est le
+temps qui cesse d'être subordonné à l'espace, il prend une indépendance en même temps qu'il
+acquiert cette forme qu'on a vu, cette forme pure, et ce n'est pas lui qui prend la place de l'espace,
+il n'est pas obstacle à la pensée, il est la limite qui travaille la pensée du dedans. A la notion de
+limitation externe se substitue la notion de limite interne. Le temps est la limite qui travaille la
+pensée, qui traverse la pensée de part en part, il est la limite inhérente, limite intérieure à la
+pensée, alors que dans la philosophie classique c'est l'espace qui est déterminé comme limitation
+extérieure de la pensée.
+
+Donc tout se passe comme si la pensée avait son "ennemi" en soi. Elle ne le reçoit pas du dehors.
+Là il y a une espèce de changement fondamental. Penser le temps ça veut dire substituer au
+schéma classique d'une limitation extérieure de la pensée par l'étendue, l'idée très très étrange
+d'une limite intérieure de la pensée qui la travaille du dedans, qui ne vient pas du tout du dehors,
+qui ne vient pas du tout de l'opacité d'une substance. Comme si dans la pensée il y avait quelque
+chose d'impossible à penser. Comme si la pensée était travaillée du dedans par quelque chose
+qu'elle ne peut pas penser. Dès lors le problème, chez Kant, ne sera plus celui de l'union de l'âme
+et du corps, c'est à dire de l'union de deux substances dont l'une est étendue et l'autre inétendue.
+Le problème ce ne sera plus l'union de deux substances distinctes, ce sera la coexistence et la
+synthèse de deux formes (c'est complètement différent deux formes et deux substances) d'un seul
+et même sujet. Au lieu de l'union de deux substances, la synthèse de deux formes du même sujet,
+ce qui implique que le sujet n'est pas substance.
+
+Qu'est-ce que c'est que ces deux formes qui vont avoir à s'unir - je ne peux même plus dire dans
+le même sujet puisque la substance ne sera pas inhérente au sujet -, ce sont deux formes pour un
+même sujet. Voilà que ce sujet va être traversé par cette ligne du temps; le sujet est comme
+traversé par deux formes et lui-même n'est rien d'autre que la synthèse, à savoir le point le plus
+mystérieux, la synthèse de ces deux formes. Qu'est-ce que c'est que ces deux formes ? C'est d'une
+part la forme de la pensée, et d'autre part la forme de la limite interne de la pensée. Qu'est-ce que
+ça veut dire concrètement ? La forme de la pensée c'est premièrement l'acte de "je pense", le "je
+pense" comme acte ou comme détermination. Dire "je pense" c'est déterminer quelque chose.
+Quoi ? On verra après.
+
+Forme de la pensée égal, au sens le plus universel "je pense" à savoir que c'est la pensée en tant
+qu'elle se rapporte à un sujet; mais je n'ai pas le droit de dire que c'est une substance. Deuxième
+détermination de forme de la pensée : c'est que, comme dit Kant, "je pense" c'est la
+représentation la plus pauvre, c'est la pensée la plus pauvre qui accompagne toutes les pensées.
+
+                                                                                                     11
+
+Moi = moi, c'est le "je" de "je pense". Le "je pense" c'est la forme universelle de la
+détermination, mais en un sens je ne détermine rien et dans "je pense" la détermination est à vide.
+Concrètement les actes de pensée ce sont des concepts. On a vu que les actes a priori de pensée
+ce sont des concepts particuliers que l'on appelle catégories. Donc forme de la pensée c'est
+l'ensemble du "je pense" et des catégories, l'ensemble du "je pense" et de ce que le "je pense", à
+savoir les catégories ou les prédicats de l'objet tel quel. C'est ça formes de la pensée. Kant dira
+aussi bien formes de la spontanéité, quand "je pense" c'est l'acte de la détermination et cela
+implique une activité qui est l'activité de la pensée. Kant réservera le mot spontanéité pour
+qualifier la forme de la pensée dans ces deux cas.
+
+Mais qu'est-ce qu'il y a d'autre que ces deux formes de la pensée ? On a vu la forme de la
+réceptivité ou la forme de l'intuition. La forme de l'intuition c'est là aussi deux choses, tout
+comme tout à l'heure on a vu que la forme de la pensée c'est le moi, le "je" de "je pense" et c'est
+aussi le concept comme acte de la pensée, les concepts a priori, c'est à dire les catégories, les
+formes de la réceptivité c'est l'espace et le temps.
+
+Il y deux fois deux formes. La dernière fois je disais que l'espace c'est la forme de l'extériorité, le
+temps c'est la forme d'intériorité, ça n'empêche pas que ces deux formes là ont en commun d'être
+deux formes de l'intuition ou des formes de la réceptivité. La forme de la réceptivité est double :
+forme d'extériorité = espace, forme de l'intériorité = temps, mais les deux c'est la forme de
+réceptivité. D'autre part il y a la forme de spontanéité qui est le "je pense" et les catégories. Vous
+voyez, c'est très important, ça se dédouble : vous avez une première grande dualité : forme
+d'intuition et forme de spontanéité, forme de réceptivité et forme de spontanéité, et chacune de
+ces deux grandes formes a deux aspects. La forme de réceptivité a deux aspects : extérioritéespace, intériorité-temps, la forme de spontanéité a deux aspects : le moi du "je pense", le je = je,
+et les concepts que je pense, les concepts a priori.
+
+Le problème de Kant, c'est comment un même sujet, moi, peut-il avoir deux formes irréductibles
+l'une à l'autre (irréductibilité de l'espace et du temps d'une part, et du concept de l'autre part),
+comment un même sujet peut-il avoir deux formes, principalement la forme du temps et la forme
+de la pensée, et que d'après la forme du temps, il est réceptif, il est accepté, et d'après la forme de
+la pensée il est spontané, il est déterminant, il opère des déterminations. Il ne s'agit plus du tout
+de savoir comment est-ce que l'âme est unie au corps, la réponse de l'union de l'âme et du corps
+découlera évidemment du problème ainsi remanié, à savoir la synthèse de deux formes
+irréductibles d'un même sujet, ou pour un sujet. Ce qui revient à dire que pour un même sujet la
+forme de la spontanéité de penser et la forme de réceptivité du temps.
+
+C'est par là que le temps est déjà auteur de la pensée. Et la synthèse kantienne est évidente : la
+synthèse c'est quelque chose qui sépare ou qui déchire et cette espèce de moi kantien est déchiré
+par ces deux formes qui le traversent et qui sont complètement irréductibles l'une à l'autre. Alors
+d'où vient l'harmonie, comment ça peut fonctionner ce sujet claudiquant mais qui ne pense rien
+sans que ce qu'il pense ait un correspondant dans l'espace et dans le temps, qui ne trouve rien
+dans l'espace et dans le temps sans que ça n'ait un correspondant dans la pensée, et pourtant
+l'espace et le temps et la pensée sont deux formes absolument hétérogènes. C'est à la lettre un
+sujet qui est fondamentalement fêlé, il est traversé par une espèce de ligne qui est précisément la
+ligne du temps. Si bien que je dirais, en troisième point, que dans la philosophie classique l'autre
+
+                                                                                                        12
+
+de la pensée c'était l'autre de l'altérité; avec Kant commence quelque chose d'absolument
+nouveau : l'autre dans la pensée. C'est un autre de l'aliénation. Bien sûr Kant n'emploie pas ce
+mot, mais les post-kantiens produiront une théorie fondamentale de l'aliénation qui se révélera
+dans son état le plus parfait chez Hegel.
+
+La différence entre l'autre de l'altérité, qui est vraiment un autre extérieur qui fait obstacle à la
+pensée, c'est l'autre de l'aliénation qui est cette limite intérieure.
+
+Qu'est-ce que c'est que cette aliénation ? L'aliénation du sujet chez Kant, c'est précisément ce fait
+qu'il soit comme déchiré par la dualité des deux formes qui lui appartiennent l'une autant que
+l'autre, forme de la réceptivité et forme de la spontanéité. Du coup on est presque sur le point de
+comprendre ce que pourrait vouloir dire l'expression "je est un autre". "Je est un autre" c'est
+d'abord une expression de Rimbaud, c'est dans les lettres. Le contexte est le plus classique
+possible, il est purement aristotélicien car les deux fois où Rimbaud commente la formule "je est
+un autre", il lance cette formule avec comme appui philosophique une philosophie extrêmement
+classique. C'est évident que Rimbaud a eu un prof qui lui a fait un cours sur Aristote. C'est la
+lettre II dans la Pléiade, 1971 : "Je est un autre. Tant pis pour le bois qui se trouve violon". Lettre
+à Paul Demeny : "Car je est un autre. Si le tigre s'éveille ... J'assiste à l'éclosion de ma pensée, je
+la regarde, je l'étudie".
+
+Aristote nous dit qu'il y a la matière et puis qu'il y a la forme qui informe la matière. La matière
+c'est le cuivre, le clairon c'est le cuivre qui a été coulé dans cette forme. C'est on ne peut plus
+classique, et Rimbaud s'assimile à une matière et dit : la pensée me forme. Dans l'autre exemple,
+le bois devient violon, on lui donne la forme du violon et il reçoit des capacités.
+
+Rimbaud en tire la formule "je est un autre" qui crève évidemment le contexte. Son affaire c'est
+de trouver le poème, l'acte poétique approprié. C'est Kant qui va faire le travail philosophique qui
+correspond à la formule "je est un autre".
+
+Il faut partir à tout prix, car Kant se réfère à ça, sans même le dire, il faut partir du cogito chez
+Descartes. Je voudrais évidemment vous épargner un cours sur Descartes, mais tout vient de
+cette formule : "je pense donc je suis", je suis une chose qui pense. C'est exactement ça le
+cheminement cartésien, mais on le résume par "je pense donc je suis". Mais la formule complète
+c'est "je pense donc je suis", sous-entendu car pour penser il faut être, je suis quoi ? Je suis une
+chose qui pense. Vous voyez le progrès : je pense, je suis, je suis une chose qui pense. Je pense =
+détermination. Je suis c'est la position de quelque chose indéterminé; je suis une chose qui pense,
+la chose en tant que déterminée. Vous me suivez, il y a trois termes : une détermination : je
+pense, une chose à déterminer, à savoir une existence ou un être, troisièmement le déterminé, soit
+la chose pensable.
+
+La détermination détermine quelque chose à déterminer. Vous me direz que s'il n'y a que ça, ça
+ne va pas loin. J'ai donc bien trois choses : je pense, je suis, je suis une chose qui pense. Le "je
+pense" détermine le "je suis" comme chose qui pense. A première vue ça apparaît comme
+impeccable. Et voilà que Kant arrive et dit : rien du tout, il a oublié un terme, ce n'est pas du tout
+assez compliqué. Et Kant va corriger, il dit, d'accord je pense = détermination - et là on est en
+plein dans l'avenir de la philosophie allemande -, pour penser il faut être, d'accord, donc la
+
+                                                                                                      13
+
+détermination implique quelque chose d'indéterminé qui est à déterminer par la détermination.
+J'ai besoin de cette formule compliquée pour une chose très simple. Vous voyez, je pense donc je
+suis, c'est tout simple, je pense c'est une détermination, la détermination implique quelque chose
+d'indéterminé qui est justement à déterminer par la détermination. Donc, je pense, je suis, ça
+marche. Là-dessus il fait une coupure, une césure : il dit : je pense donc je suis, très bien, mais
+vous ne pouvez pas en tirer "je suis une chose qui pense". Kant a vu une faille là où l'autre
+croyait être dans une espèce de continuité qu'on ne pouvait pas lui refuser.
+
+Pourquoi est-ce que ça marche de "je pense" à "je suis" ? Encore une fois, d'accord la
+détermination implique quelque chose d'indéterminé à déterminer par la détermination. Mais, dit
+Kant, ça ne nous dit pas encore la forme, sous quelle forme l'indéterminé (c'est-à-dire le je suis)
+est déterminable par la détermination. [Interruption possible]
+
+... La détermination, l'existence indéterminée, l'existence déterminée par la détermination, et
+Descartes pensait avoir un continuum de la pensée. La détermination c'était "je pense",
+l'existence indéterminée c'était "je suis", la détermination déterminait l'indéterminé : je suis une
+chose qui pense. Kant dit : je pense = détermination, je suis = existence indéterminée impliquée
+par le je pense; pour qu'il y ait détermination il faut bien qu'il y ait quelque chose à déterminer.
+Mais voilà, encore faudrait-il nous dire sous quelle forme l'indéterminé, le à déterminer, ce qui
+doit être déterminé, ancre faudrait-il nous dire sous quelle forme l'existence indéterminée est
+déterminable par la détermination. Descartes n'a oublié qu'une chose, c'était de définir la forme
+du déterminable. Donc il n'y avait pas trois termes, la détermination, l'indéterminé et le
+déterminé, il y avait quatre termes: la détermination, l'indéterminé, la forme déterminable et le
+déterminé.
+
+Si vous comprenez ça vous avez tout compris parce que vous avez la réponse de Kant. Sous
+quelle forme l'existence indéterminée telle qu'elle est impliquée par le je pense, sous quelle
+forme est-elle déterminée ?
+
+Le "je pense" est une détermination, c'est à dire un acte de la spontanéité. Il implique un "je
+suis", mais un "je suis" complètement indéterminé. Descartes nous disait : eh bien oui c'est
+complètement indéterminé, mais qu'est-ce que ça fait ? Puisque la détermination "je pense" suffit
+à déterminer son déterminé, "je suis une chose qui pense" ... Ce qu'il a oublié c'est que "je pense"
+c'est une détermination qui implique quelque chose d'indéterminé, mais aussi ça ne nous dit pas
+sous quelle forme le "je suis" est déterminable par la détermination "je pense". Réponse de Kant :
+la forme sous laquelle le "je suis" est déterminable c'est évidemment la forme du temps. Ça va
+être la forme du temps; et vous allez tomber sur ce paradoxe que Kant va définir lui-même d'une
+formule admirable : le paradoxe du sens intime, le paradoxe du sens intérieur, à savoir la
+détermination active "je pense" détermine mon existence, la détermination active "je pense"
+détermine activement mon existence, mais elle ne peut déterminer mon existence que sous la
+forme du déterminable, c'est à dire sous la forme d'un être passif dans l'espace et dans le temps.
+Donc "je" est bien un acte, mais un acte que je ne peux que me représenter en tant que je suis un
+être passif. Je est un autre. Donc je est transcendantal.
+
+En d'autres termes, la détermination active du "je pense" ne peut déterminer mon existence que
+sous la forme de l'existence d'un être passif dans l'espace et dans le temps. Ce qui revient à dire
+
+                                                                                               14
+
+que c'est le même sujet qui a pris deux formes, la forme du temps et la forme de la pensée, et la
+forme de la pensée ne peut déterminer l'existence du sujet que comme l'existence d'un être passif.
+[Fin de la transcription]

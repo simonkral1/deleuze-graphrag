@@ -1,0 +1,44 @@
+# Environment and secrets
+.env
+.env.*
+
+# Python
+.venv/
+.venv310/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Large data directories
+deleuze_data_backup/
+graphrag_project/output/
+graphrag_test/
+graphrag_test_small/
+graphrag_mini/
+vector_store/
+
+# PDF source files (large)
+pdf_books/
+seminars/
+
+# Logs
+*.log
+app_run.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude
+.claude/

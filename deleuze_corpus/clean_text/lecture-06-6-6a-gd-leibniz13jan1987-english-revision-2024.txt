@@ -1,0 +1,1367 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque – Principles and Freedom
+
+Lecture 6, 13 January 1987: Sufficient Reason & the Three Forms of Inclusion
+
+Translation and Transcription, Charles J. Stivale1
+
+Part 1
+
+The general theme of this second part is something like Principles and Freedom. And as
+much on the level of principles as on the level of freedom, we should have expected that
+we would find these currents of folding, of the fold and the envelope. [Pause] The
+perpetual theme of principles, in fact, will be that of implication, and of course,
+implication is a logical notion that, we might say, circulates all over. But at the point
+where we find ourselves, and this is certainly why the first part of the course was so long
+and detailed, we now can expect correctly that when Leibniz uses even classical terms,
+expressions emptied of their proper sense as logical implication, we should expect that
+that the word completely regains its liveliest and most rigorous sense.
+
+Implicate is to envelop, it is to fold into. Perhaps all sorts of words might be suited to
+resonate according to their most literal sense. If implication, to some extent, presents
+itself as a logics of the multiple, isn’t this to the extent that the multiple is also… What is
+the multiple? It’s what is folded in many different ways. In Latin, [it’s] multiplex. [Pause]
+This is very important, the suffix, which is a suffix of folding. The labyrinth is multiple.
+What does that mean? It means not only that there are lots of paths. The labyrinth is
+multiple: that means that the labyrinth is this structure that is folded in many different
+ways. And when we say the word “multiple”, today, we no longer think much about the
+suffix –ex, that is, the fold. But Leibniz is entirely correct to consider this and to cause us
+to do so as well.
+
+And this is true for Freedom. When Leibniz tells us, you understand that freedom, this
+story of freedom is not very difficult. He will tell us that he was accused of suppressing
+freedom, of not taking freedom into account, of submitting man to a determinism or a
+causality that suppresses freedom, all that. But this is not at all true since, as I have
+always said, he tells us that to be free is to be inclined (incline) without being a necessity.
+We ourselves are therefore entirely prepared to take seriously this term from Leibniz, to
+incline (incliner). To incline is to fold oneself; inclination is inflection. Being free is to
+inflect oneself. Fine. It’s probable in all that the most current terms – multiple,
+inclination, etc. – are going to be loaded by Leibniz – implication – are going to be
+loaded by Leibniz with a valorized and concrete content, and all of these valorized,
+concrete contents are going to organized under the principle that Leibniz correctly thinks
+of himself as having invented, to the point that he presents his entire philosophy under the
+seal of this principle. And after all, what greater ambition [is there] for a philosopher than
+to invent a principle? Leibniz not only invents one principle; he invents all kinds, as
+
+                                                                                              2
+
+many principles as you’d like, and the principle that he considers himself to have
+invented and that constitutes the very illustration of his philosophy is what he names the
+principle of sufficient reason.2 And it’s from this principle that we should start for our
+examination of this second part.
+
+What does sufficient reason mean, that Leibniz constantly invokes, both because he
+invokes the principle of sufficient reason and because he will reproach all his adversaries,
+without exceptions, that is, anyone not a Leibnizian – and there’s only one Leibnizian,
+Leibniz – well, he reproaches everyone for violating the principle of sufficient reason?
+He will tell everyone: you just don’t see it; you are violating the principle of sufficient
+reason. So what is this principle of sufficient reason? Here, the key word is obviously
+“sufficient”, and fortunately, we also have for the principle of sufficient reason a
+common [vulgaire] formulation, an entirely simple formulation. The common
+formulation that we find in so many of Leibniz’s texts, when Leibniz want to proceed
+rapidly, is “everything has a reason.” You’ll say, “Everything has a reason”? Ok… Or
+more accurately, everything that occurs has a reason; everything that occurs has a
+reason.
+
+And already here, this interests me greatly because we have no right to go too quickly on
+this level: that the principle of sufficient reason in its most traditional, most common,
+simplest expression refers to what occurs. Why? This I will tell you immediately; I have
+to say it immediately so that, if you will, you might follow my problem. It’s that there is a
+traditional idea in… with many of Leibniz’s commentators, a general idea, asserting that
+Leibniz reduced all judgments to judgments of attribution.
+
+What is a judgment of attribution? It’s a judgment consisting of a subject, the copula, that
+is, the verb “to be”, and an attribute as an adjective: “the sky is blue” is a judgment of
+attribution. You attribute a quality to a subject through the intermediary of the copula “to
+be”. You see? And they act as if it went without saying that Leibniz reduces judgment to
+judgment of attribution. We will be considering this problem for quite a while, but I’m
+emphasizing it from the start as a way to say that there’s something disturbing here. What
+is it? It’s that if we confront this judgment of attribution structure with the statement of
+sufficient reason, the principle of sufficient reason tells us “everything that occurs has a
+reason”. What does “that occurs” mean? That which occurs, we call the event. In other
+words, sufficient reason presents itself as the reason of something that occurs or the
+reason of the event. But a quality is not an event, and event is not a quality.
+
+Understand, I mean [that] I don’t want to conclude more than this for the moment:
+specifically, it’s not at all certain that the principle of sufficient reason – in any case, we
+have no reason to consider it as certain – that the principle of sufficient reason results in
+the reduction of judgment to a judgment of attribution. In its simplest statement, the
+principle of sufficient reason only says [that] everything that occurs has a reason. What
+occurs comes under the order of the event. What is an event? We have seen it. The entire
+first part of our course serves us here. An event is a fold, that is, an inflection. [Pause]
+That’s the status of the event. To locate an attribute here seems to me already extremely
+exaggerated. The event is something that occurs, that is an inflection.
+
+                                                                                              3
+
+Henceforth, what does that mean, everything that occurs has a reason, every event has a
+reason, understood as a sufficient reason? Does it mean that everything has a cause? No,
+clearly not, because Leibniz could not in that case pretend to be the inventor of the
+principle of sufficient reason. Why? Because a cause is something that occurs and causes
+to occur. It’s something that causes to occur and, if it occurs itself… If I heat water to 100
+degrees [Celsius], it starts to boil. I would say about a cause that it is necessary, but not
+absolutely sufficient. [Pause] A cause occurs or doesn’t occur. It is not the reason for
+what occurs. [Pause] To have a cause is not a reason but must itself have a reason, which
+is something we understand quite well in saying that causality is by nature hypothetical.
+If A is given, then B.
+
+I would say about cause that necessary reason is not sufficient. Sufficient reason demands
+for the event and for its causes a reason that would be called sufficient. I say, cause is a
+category of the event. Cause occurs to a thing. Sufficient reason demands a reason for
+everything that occurs. It demands a sufficient reason for the event, for the causes of the
+event, for the constitutive relations of the event, for the moment in which the event
+occurs, for the location where the event appears, etc. It’s possible that every event
+necessarily has causes, that is, necessarily has a location and a moment, but that is not
+sufficient reason.
+
+So, henceforth, what will we say? We pass into a metaphysical formulation of sufficient
+reason, which will be what? The common formulation was, everything that occurs has a
+reason. The metaphysical or philosophical formulation, if you have followed me, will
+be…? Sufficient reason is the concept or notion of the thing insofar as it accounts for
+everything that happens to the thing. You see, all alone, quite spontaneously, I have
+passed from the common formulation to the metaphysical formulation: sufficient reason
+is the concept or notion of a thing insofar as it accounts for everything that happens to the
+thing, of everything that happens. I have conserved within the metaphysical formulation
+the fundamental notion of the event. So the concept, sufficient reason, is not the cause of
+the thing, or the cause of what happens to the thing; sufficient reason can only be the
+concept of the thing insofar as it contains the reason for everything that occurs to the
+thing.
+
+This shouldn’t surprise us, right, especially not us, since this metaphysical formulation is
+a new way of saying from inflection to inclusion, from inflection to inherence, from
+inflection to the fold’s envelope, to the envelope. You recall, in fact, that inflection is the
+event that occurs to a thing. Every event is an inflection. I am born, I die, I write, I get
+cold, etc., are inflections. An event occurs to something or to someone. Inflection is the
+event insofar as it occurs to something or someone. Inclusion is what? We saw that what
+happens to something is encompassed, contained, included – here, follow closely the
+distinction of notions, not the thing, which would have no sense – is included in the
+concept of the thing. What occurs to something is included in the concept of the thing.
+What occurs to something is included in the concept of the thing.
+
+                                                                                               4
+
+In other words, the event that happens to the thing is a predicate of its notion. The
+predicate is what? The predicate is what is said about the notion, what is linked in the
+notion, what is included in the notion. The event that happens to the thing is a predicate
+included in the notion of the thing. Hence the metaphysical formulation that Leibniz
+gives of sufficient reason: every predication is a foundation in the nature of things.
+[Pause] From this we can easily conclude the third formulation of the principle of
+sufficient reason, the logical formulation. This time, the logical formulation of sufficient
+reason [is] every predicate is included in the notion of the thing. [Pause]
+
+But you see? What little I have said, what I’d like you to understand, is solely… it’s not
+for you to understand something special, but in fact, that you take part in my own sense
+of doubt. By what right in all this [can anyone] pretend that Leibniz reduces judgment to
+a judgment of attribution of the “the sky is blue” kind? The whole topic that we have just
+seen from Leibniz consists in telling us: the event that occurs to the thing – that is,
+something entirely different from a quality, entirely different from an attribute -- the
+event that happens to the thing is a predicate included in the notion of the thing, which
+absolutely does not imply that the predicate might be an attribute [Pause] that would be
+attributable to the notion of the thing by the intermediary of the copula.
+
+I state [that] I write; to make of this a judgment of attribution, one would have to say, I
+am writing (je suis écrivant). This is well known. So we are often told that Leibniz, that
+Leibniz’s theory implies this reduction, of I write to I am writing. That would be odd;
+there’s something [Deleuze looks for his words…] of… which is quite amusing, that…
+You understand? There’s a principle here, nonetheless…. Even for great philosophers, if
+that’s what they meant, they would have said it. If he [Leibniz] had meant to say all
+judgment of the event, any event-al proposition (proposition événementielle) of the kind
+“I write” comes down to a judgment of attribution, this wouldn’t be all that complicated.
+He would have said it. I am going to tell you why he would have said it because you
+know very well about these matters (trucs). It’s a theory popular in that era, notably we
+find it in all the grammars of the seventeenth century. In all these seventeenth century
+grammars, we find the question of knowing to what extent I can reduce “I write” to “I am
+writing.” Moreover, I can affirm that Leibniz is perfectly familiar with all these doctrines,
+and in the philological notes -- he wrote quite a lot about philology and grammar -- in the
+grammatical and philological notes, he explicitly considered this.
+
+Fine. My question is quite simple: if that is what Leibniz meant to say, while he was
+perfectly aware of all this, why in his text on sufficient reason would he never refer to
+this reduction? And the fact is that, concerning sufficient reason, he never referred to any
+reduction whatsoever of the event to an attribute, never. In other words, what he
+considers as predicate is not the attribute through the intermediary of the copula “to be”.
+What he considers as predicate is the aggregate of the verb – to write, to be born, to die –
+without ever reducing it to the verb “to be” plus attribute, whereas this reduction, once
+again, he considered it in his philological texts. But when it’s a question of sufficient
+reason – all this, we will have to take account of this. Because, for those who know a bit
+about what occurred subsequently, all the criticisms made against Leibniz, with the great
+moments of a critique of Leib… of Leibnizianism [Deleuze looks for the word] – the first
+
+                                                                                                   5
+
+great moment [is] with Kant, the second great moment [is] with [Bertrand] Russell, at the
+basis of modern logic – that consists in reproaching Leibniz for having reduced or having
+wanted to reduce relations and event to simple attributes. We have every reason to think
+that this critique is entirely unfair because, once again, no text by Leibniz goes in this
+direction.
+
+So, all that we can draw from this at the moment is this: [Deleuze speaks extremely
+slowly] once it’s given that something occurs to a subject, what occurs to a subject must
+be encompassed, included in the notion of this subject; in other words, inflection, the
+event, is a predicate of the notion, but predicate does not mean attribute. This predicate is
+the verb, and in fact, the verb is the sign of the inflection: I write, I’m cold, etc. … Yes?
+Who’s calling me?
+
+A student: [Question regarding the commentators on Leibniz, how they could repeat
+these propositions regarding Leibniz]
+
+Deleuze: Yes, yes, because they had some evil intentions in mind. [Laughter] That’s in
+his works; we have Leibniz’s texts. Understand where the problem is: we have Leibniz’s
+texts in which, in fact, he considers this famous reduction from judgment to judgment of
+identity. He isn’t against it; he is… Logically, we will see, we will see what these texts
+mean. But precisely, he never refers to that, never, on the level of sufficient reason. So
+really, one shouldn’t exaggerate. Never did he tell us, when speaking about sufficient
+reason, he says, I write, I write. My notion has to contain, to envelop the reason for “I
+write”, that is, this act. But he never reduces this act, “I write”, to “I am writing”, that is,
+the copula plus attribute.
+
+All that we can draw from sufficient reason is: everything that occurs assumes an
+inclusion in the notion. Everything that occurs to something has for sufficient reason the
+inclusion in the notion, the envelopment in the notion. Do you understand this? I don’t
+need, it seems to me, to insist on this greatly since all this was the focus of the entire first
+part of our course, once again, from inflection to inclusion. Sufficient reason is inclusion
+as the reason for inflection. Everything that occurs is a predicate contained in the notion
+of the thing to which, to whom that happens.
+
+You immediately see what this notion is. You recall the thing to which this occurs, the
+notion of the thing to which something occurs; it’s what he called the monad. Fine.
+Hence, sufficient reason is: any predicate is in the subject where – now, when we say any
+predicate is in the subject, you’ll correct this yourselves, rigorously, it’s “any predicate is
+in the notion of the subject” – any predicate is in the notion of the subject, or if you
+prefer, truth has only one model; truth is inclusion. Truth is inclusion ; it’s inherence.
+[Pause]
+
+There we have it. Is everything good? I can continue ? There aren’t any difficulties
+because this has to be clear, eh? All that I am suggesting is that he pushes us towards a
+logic of the event and not toward a logics of the attribute. It’s a logic of the event. It’s so
+little a logic of the attribute that it’s the others who are creating a logic of the attribute. At
+
+                                                                                              6
+
+the outside, I can say, and we will see, we will see… It’s quite odd, this whole story. In
+the end, it interests me a lot because… A logics of the attribute, truly, comes from
+Aristotle. I am not saying that Aristotle was satisfied with a logics of the attribute, but it’s
+true that a logics of the attribute comes from Aristotle. But you know, logic is such a
+complex domain. A logic of the attribute goes so little without saying that, for example, it
+will be a very great moment in the history of logics when, in their reactions against
+Aristotle – and they’re the ones, to my knowledge, that reintroduced all this – the Stoics
+invented a logics of the event. A logic of the event, on what basis? No, what occurs
+cannot be reduced to an attribute. [Pause]
+
+And this small parenthesis, to finish up all this -- it’s not a problem if this brings in a
+number of things -- the Stoics are the first philosophers to put into question the copula “to
+be” and to deny that the model of judgment is the attributive model, that is, subjectcopula-attribute. For this, they will substitute the strangest and most unusual logic ever,
+that they themselves are going to present as a logic of the event. Fine. So I am simply
+saying, because it will be confirmed – I won’t be able to confirm it until later – that
+Leibniz resituates himself within the Stoics’ problem. In what sense? Precisely as a
+function of the logics of the event that they were in the process of establishing, Stoicism
+had to come into collision with a fascinating problem, and you are going to see
+henceforth how the principles and freedom form a problem in which everything is
+knotted, connected. They inevitably had to settle down to face the problem that concerns
+what was called future events. What is the sense of a proposition of the kind, “a naval
+battle will take place tomorrow”? This is the famous problem that, with the Stoics, will
+receive the name of contingent futures. In other words, is a proposition like “a naval
+battle will take place tomorrow” true or false, or else neither true, nor false? You see that
+freedom, the problem, it’s a way of posing the problem of freedom. And, Leibniz will
+rediscover, and he will no doubt be the first to discover integrally, this problem of
+contingent futures, the extent to which it’s a logic of the event and not a logic of the
+attribute.
+
+And the great criticism that the Stoics make against Aristotle is to have completely
+misunderstood the status, the mode of existence of the event. The event is irreducibly an
+attribute of the thing. The event is inseparable from the verb as such. That also implies an
+entire grammar, an entire… If it’s inseparable from the verb as such, I cannot translate “I
+run” with “I am running” (je suis courant); I cannot translate “I write” with “I am
+writing” (écrivant). You understand well that, in this, there is a way to reduce the event to
+what it is not, that is, a simple quality. Fine.
+
+Is this understood? Where I am right now is uniquely with this: sufficient reason is
+inclusion in the notion, and above all, don’t believe that inclusion in the notion implies
+the reduction of judgment to judgment of attribution. There is no reason to think this.
+Period, final. That’s as far as I have gotten. By virtue of which I am telling you, are you
+doing ok? [Laughter] Yes? All good? I’d like this to be very clear, right ? It’s a bit
+abstract. Fine, so let’s continue, let’s continue. [Pause]
+
+                                                                                               7
+
+The truth of a proposition is the inclusion of the predicate in the notion. And here we see,
+Leibniz says to us – there, I ask you… It’s almost… Our session today is to number the
+texts and… -- And here we have Leibniz telling us: only, only, there are two kinds of
+inclusion, there are two kinds of inclusion of the predicate in the notion, and these two
+kinds correspond to two kinds of proposition.3 [Pause]
+
+The first kind – here arise questions of terminology, so we will indeed have to settle
+them, but you will see [Deleuze laughs], it’s not, it’s not entirely possible – he tells us: in
+the first case, inclusion is express. [Pause] In Latin, when in the Latin texts, he uses the
+adverb expresse. Inclusion is express. The corresponding propositions or the
+corresponding truths are truths of essence. These are truths of essence, an essence. They
+have this for characteristic: that the contrary implies contradiction. Example: 2 plus 2
+make 4, or rather he doesn’t say that; he says: 2 and 2 are 4. [Pause]
+
+A second kind of inclusion: here, inclusion is, in Latin, implicit, implicite. It’s implicit. In
+French, in French texts, [it’s] virtual, and this time, it concerns what he calls truths of
+existence or of fact, or of event. The fact is that… Truth of existence or fact or event.
+[Pause] And the contrary does not imply contradiction. Example: Caesar crosses the
+Rubicon. I write. Adam sinned. See, all that, these are events. [Pause] Fine.
+
+From here onward, this appears relatively simple. This distinction of truths of essence
+and truths of existence, two types of inclusion, we are again going to find ourselves faced
+with a nest of difficulties, if we look at the texts, if you attach any importance to the letter
+of the text. Why difficulties? It’s odd the expression that appears in French, virtual, since
+if inclusion is virtual in the judgments of existence, that is, if crossing the Rubicon is a
+predicate, which is only virtually contained, included in the notion of Caesar, one must
+believe, on the other hand, that in the truths of essence inclusion is actual. How is it that
+Leibniz never said that? At first glance, if it’s a question of developing an opposition
+between truths of essence and truths of existence, well then, the opposition actual-virtual,
+since inclusion is said to be virtual in truths of existence, we would expect there to be an
+actual-virtual opposition. And no, he does not at all state this. Fine, the opposition is
+exactly between express and implicit. Implicit is virtual; express is explicit. Fine.
+
+There is already a tiny little something that bothers us: virtual, virtual, what is that, this
+word “virtual”? In Leibniz, he feels no need to oppose it to actual. I am going to tell you
+why he cannot oppose it to actual – so why does he use virtual, that would be another
+question. He cannot oppose it to actual because, for a simple reason, it’s that in Leibniz’s
+works, everything is actual, and everything is in act. But then, why, why then the virtual?
+He indeed says “virtual”, but we have to believe that he understands virtual in a very
+special sense, and it’s up to us to find it. In any case, that does not mean an opposition
+with actual. So, if he doesn’t oppose actual and virtual, it’s for a simple reason. When he
+uses the word “virtual”, he doesn’t oppose it to actual because everything is in act, even
+the virtual. So that relieves us, but it doesn’t explain much. Let’s continue.
+
+We could say that to better understand, and it’s been said a thousand times, to better
+understand the distinction between the two types of opposition, that of express inclusion,
+
+                                                                                             8
+
+or that of virtual, implicit exclusion, we could say, fine, it’s not difficult. In one case,
+inclusion can be grasped as an outcome of a finite number of operations, and in the other
+case, inclusion can only be grasped as an outcome of an infinite number of operations.
+[Pause] This comes down to saying, in the case of truths of essence, the analysis that
+shows inclusion of the predicate in the subject – it’s an analysis that shows this inclusion,
+obviously – well then, in the case of truths of essence, the analysis that shows inclusion in
+the subject is finite, and in the case of truths of existence, an infinite analysis is required
+in order to show inclusion of the predicate, crossing the Rubicon, in the subject Caesar,
+the notion of Caesar. [Pause] Well, yes, why not? So come on, this isn’t right. We cannot
+say that… [Interruption of the recording] [46:33]
+
+Part 2
+
+… Even if we don’t at all yet understand what that means, grant me that they [truths of
+essence] are very close to God. Why? They obviously belong to the understanding of
+God. In a certain vague way, I could say that they belong to God, much more closely,
+than the truths of existence. No doubt any truth belongs to God, but truths of essence
+belong to God much more immediately. They are much closer to God. They belong to his
+understanding, whereas [with] truths of existence, you sense already how it [God] is
+going to distribute things. The truths of existence no doubt belong to the understanding,
+but to another part of God’s understanding, and especially they put into play its [God’s]
+will, whereas the truths of essence don’t put into play God’s will. They belong to the
+deepest part of its [God’s] understanding. And God is the infinite being par excellence.
+No matter; let’s grant it all that.
+
+Henceforth, how do you want truths of essence to be defined by the finite number of
+operations that their inclusion implies, that the initiation of their inclusion implies? It’s
+not possible. I cannot say, the propositions of essence are those in which the predicate is
+included in the subject as an outcome of a finite number of operations. I can’t. There is
+something wrong here. There’s something that would be profoundly shocking since the
+truths of essence are in God’s understanding who is the infinite creature par excellence
+and since, moreover, the infinite is a … The finite for Leibniz is an imperfection. The
+finite is an imperfection. How do you want truths of essence that are superior truths, of
+the “2 and 2 make 4” kind, to be defined by their finitude? This wouldn’t be serious. This
+wouldn’t be at all reasonable. In other words, I cannot define the truths of essence by the
+finite number of operations that their inclusion solicits.
+
+On the other hand, can I define truths of existence by the virtual, in the current sense of
+the word “virtual”, that is, by indefinite? That would come down to saying that inclusion
+of the predicate in the subject within the truths of existence would go to infinity. There
+would always be an intermediary. Moreover, it’s when I would reach the intermediary,
+there would be another intermediary. To connect “crossing the Rubicon” to the concept
+of Caesar, there would be an indefinite series. No, once again, I cannot say it. I cannot
+say it since, for Leibniz, there is only the infinite, and not indefinite. And furthermore, we
+must wait for Kant in order to give the indefinite a status, and he will do this against
+Leibniz. So, it’s impossible to say that. And why is it impossible to say that? Because if I
+
+                                                                                               9
+
+said it’s indefinite, I would mean that it’s indefinite for me, but God sees. I would say
+[that] God sees quite well. The inclusion of “crossing the Rubicon” into Caesar, I myself
+don’t see it because it’s indefinite for me. But God does see, and it’s here that Leibniz is
+rigorous. One cannot say that.
+
+In a very lovely text called On Freedom, Leibniz tells us, well no, “God no more than us
+sees the end of the operation or the resolution.” Why? Because by definition, there is no
+end. The inclusion of passing the Rubicon into Caesar or into the concept of Caesar goes
+to infinity, but it’s this way for God as it is for man. That text is very important because,
+in fact, it’s a… Leibniz here has the advantage of denouncing a misinterpretation that one
+might always risk making. The resolution, that is, the resolution of the predicate in the
+subject, in the concept of the subject, the resolution of passing the Rubicon into Caesar,
+the resolution proceeds to infinity, in the case of truths of existence. The resolution
+proceeds to infinity, that is, God alone sees. God alone sees. He [Leibniz] adds: “not
+indeed the end of the analysis (résolution)”. See, if the resolution were indefinite, I could
+say [that] God sees the end, but no. The resolution goes to infinity; it proceeds to infinity.
+Henceforth, God alone sees, certainly not the end of the resolution, “since it has no end”.
+If the resolution goes to infinity, it has no end. So no more God than we can see the end;
+simply, I can say that God is like a fish in the water in the infinite, whereas we are
+completely lost in the infinite. That’s the sole difference. But [God] does not see the end
+any more [than we do]. By definition, the infinite is what has no end. So God alone sees,
+certainly not the end of the resolution, and end that does not take place, “but it [God] sees
+the connection of terms”, crossing the Rubicon and Caesar, “it sees the connection of
+terms as the envelopment of the predicate in the subject,” as the envelopment of the
+predicate in the subject.4
+
+Fine, that gives us a small indication, a tiny glimmer. We already saw all the ways in
+which we weren’t able to understand all that. And notice, these ways are beginning to add
+up. We cannot understand Leibniz as if he reduced the event to the attribute. We cannot
+understand the distinction of the two inclusions as if the first were finite – this is false –
+and as if the second were indefinite – this is false. But, according to this text that I just
+read, what must we say? Inclusion is an envelopment; 2 and 2 envelop 4. There are two
+kinds of inclusion. 2 and 2 envelop 4; Caesar, the concept of Caesar envelops the
+crossing of the Rubicon, envelops crossing the Rubicon. [Pause] I would say that in the
+first case, truths of essence, inclusion or envelopment is, it seems not to yield anything
+for us, so we can move on. I can say [that] in the case of truths of essence, inclusion
+allows itself to be unfolded. Inclusion is unfoldable (dépliable), developable. In the case
+of truths of existence, there is indeed inclusion, but it doesn’t allow itself to be unfolded.
+It stays enveloped. It’s non-unfoldable (indépliable). "God sees not indeed the end of the
+analysis", but he sees the envelopment. He [Leibniz] does not tell us that it develops,
+whereas on the level of truths of essence, the envelopment allows itself to be developed.
+There are developable truths and truths that remain enveloped. [Pause]
+
+Fine, this is just a little… What are we going to be able to draw from such a thin and
+metaphorical clue, developing, enveloping, all that? What are inclusions that allow
+themselves to be developed, unfolded, and inclusions that do not allow themselves to be
+
+                                                                                            10
+
+unfolded? You sense perhaps that this orients us toward the necessity of creating a logic
+of inclusion in such a way that we might be drawn to distinguish some kinds of
+inclusions. And here it all returns to us. Henceforth, we will again have to examine the
+distinction of two kinds of truth. And there again, in the text On Freedom to which I
+referred earlier, we hardly reach… We thought that things were going to become a bit
+clearer. For us, something important (terrible) is occurring here, something important.
+[Deleuze peruses the text while speaking]
+
+In On Freedom, he restarts his story; there are two kinds of truth, truths of essence and
+truths of existence, that is, there are two kinds of inclusion. So good, fine, and there he
+tells us generally that yes, there are unfoldable inclusions and non-unfoldable inclusions.
+Yes. And then, he tells us, we are going to look a bit at the first case, the truths of essence
+with the unfoldable inclusions. He tells us that it’s necessary in this to distinguish some
+very different cases, to which we say, so much the better, the more distinctions there are,
+the better it is. He then continues, saying there are two cases, at least two cases, in truths
+of essence. Notice that it’s not the two kinds – truths of essence and truths of existence --,
+but this is two cases in the truths of essence. He tells us that there is a case in which
+inclusion is explicit and a case in which inclusion is only implicit or virtual. [Pause] I am
+reading rather quickly because… I am reading quickly a first time because it’s an initial
+grounding point. We will then return to the text, so listen closely.
+
+"To demonstrate" -- this concerns the truths of essence -- "to demonstrate is nothing other
+than resolving the terms of a proposition and substituting a definition for the terms
+defined.” All this matters little, so you can just let yourself go, not asking yourself at all
+what this means. “We discern therefore the coincidence of the predicate with the subject
+in a reciprocal proposition.” Fine. “But in other cases”, but in other cases, understand
+well, it’s not a question of truths of existence; it’s about another case in truths of essence.
+On this point, the text raises no problems since truths of essence [logically Deleuze
+means truths of existence] will be considered in the following paragraph. This whole
+paragraph explicitly concerns truths of essence. He begins by distinguishing two cases.
+
+The first case: "to demonstrate is nothing other than resolving the terms of a proposition
+and substituting a definition for the terms defined.” So in this way we find “the
+coincidence of the predicate with the subject in a reciprocal proposition.” But in the other
+cases, “it’s at least in order to extract an inclusion so that what is virtual in the
+proposition and contained within a certain power (puissance) becomes evident and
+expressed through the demonstration.” He gives an example; for example, therefore, for
+these cases of inclusions called virtual, for example, “if we understand by ternary or
+senary or duodenary number that which can be divided by 3, 6, or 12” – a ternary
+number, is for example 9 that can be divided by 3. A senary number is a number like 24,
+for example, divisible by 6, etc. Well, “if we understand by senary or ternary or
+duodenary number one that can be divided by 3, 6 or 12, we can demonstrate this
+proposition: any duodenary number” (divisible by 12) – “we can demonstrate this
+proposition – any duodenary number” (divisible by 12) “is senary” (divisible by 6), and
+he goes on to the demonstration to which we will return later. You see, we are fully
+
+                                                                                               11
+
+within the truths of essence. And he tells us this is a special case of truths of essence in
+which the inclusion is only virtual or implicit.
+
+So you understand that a huge feeling of joy arises when we come upon a text like that
+because there’s nothing to be done. [Deleuze laughs] I tell myself, ok, we thought we had
+understood. If you compare – here, I don’t want us to lose too much time with this -- but
+those who want to can refer to the Discourse on Metaphysics in which, in the Discourse
+on Metaphysics, everything is very firm: “virtual” is used for propositions of existence,
+and explicit or express for propositions of essence, period, that’s it. That’s in the
+Discourse on Metaphysics. The treatise On Freedom returns to the distinction of two
+kinds of truth, but we must believe that it gets complicated since he distinguished as
+firmly as in the Discourse on Metaphysics two kinds of truth. Only he uses the word
+“implicit” or “virtual” for one case of the truths of essence. You understand? All this
+makes me state up front that there aren’t only two kinds of inclusions. We will certainly
+have to find a third, three types of inclusion. [Pause] Three types of inclusion… Perhaps
+even more. Fine. Perhaps even more. It would even be better if there were more. So,
+we’ll go on to find four… Four. [Laughter] Four types of inclusion.
+
+There we are. Is this ok? It’s very abstract, but it will become more concrete. Today I am
+in need of a lot of abstractions.
+
+Do you see what he means? I am indicating [that] here we have the great distinctions,
+truths of essence, truths of existence. I haven’t said it concretely enough. He says, well
+yes, in the case of truths of essence, the contrary is impossible, that is, the contrary is
+contradictory, contradictory in itself. That 2 and 2 don’t make 4 is contradictory. This is
+impossible, whereas in the case of truths of existence, no, that Adam didn’t sin is not
+contradictory. I can very well conceive of Adam not sinning. I cannot conceive of a
+square circle; I cannot conceive of 2 and 2 making 5. I can say it, but I cannot support it
+with anything, whereas I can very well conceive of Adam not sinning. This is something
+you must keep clearly in mind; it’s one of the bases for the distinction of two kinds of
+truth.
+
+So then, I come back to my necessity. It’s just that… There is just a distressing moment
+here, today, this morning. I am confronting this distressing moment very fast, so that
+you… that I’d like to address quickly because it is indispensable. You’ll see, if needed,
+what you can retain from this.
+
+I am coming back to truths of essence. I say, fine, there is inclusion, but inclusion of what
+in what? 2 and 2 are 4, is what? What is the inclusion? Well, Leibniz tells us a very
+simple thing, and Lord, will this have importance for modern logic. He says, to
+demonstrate means what? Truths of essence are demonstrable truths. To demonstrate
+means what? To demonstrate is to define, that is, it’s the linkage of definitions. And
+mathematics is the linkage of definitions. What is a definition? So here we have our first
+kind of inclusion; we hadn’t expected to come to it so quickly. I’d say that a definition is
+a reciprocal inclusion; it’s a reciprocal inclusion. There is a reciprocal inclusion between
+the defined and the definition. [Pause] Linking up definitions is demonstrating. What
+
+                                                                                            12
+
+does that mean? Well, it’s unfolding a series of inclusions; [Pause] it’s unfolding a series
+of reciprocal inclusions. An example – he really loves learned examples, learned
+mathematical examples – he says, how does one demonstrate that 2 and 2 are 4? [Look
+at] New Essays on Human Understanding, where we see in book IV, chapter 7, what a
+demonstration is, that is, a linkage of definitions.5 It’s a matter of demonstrating that 2
+and 2 are 4, that’s it.
+
+First definition: 2 is 1 and 1; 2 is 1 and 1. You’ll say, what does that mean? He’s putting
+us on here; this is the definition of 2, right, 1 and 1. That seems like nothing, and if you
+reflect on this, why then, why don’t I say instead that 2, eh, 2 is 6 divided by 3?
+[Laughter] That could be the definition. I can even create an axiomatic, in which I define
+2 by if it’s divided by 3, on the sole condition that I could define 6 and 3 without all that,
+and in this case, that would be quite… I can always… I can do whatever. But no, this is
+not just any definition. When I say 2 is 1 and 1, why? It’s a real definition, whereas when
+I define 2 by the product of dividing 6 by 3, it’s not a real definition, it’s a nominal
+definition, of the form: I am calling 2 this. What is the difference between a real
+definition and a nominal definition? All these things are what you have to know by heart.
+A nominal definition is a definition that allows us to recognize its object; a real definition
+is a definition that shows us the possibility of its object. Notice that in the complicated
+problem of the relations of demonstration and definition in most cases, we are led to
+demonstrate that a definition is real. One must show that a definition reveals the
+possibility of its object.
+
+Why is “2 is 1 and 1” a real definition and the only real definition for 2? I am making you
+endure… Well it’s quite simple! It’s because you define it by the primary numbers that 2
+envelops. You define 2 by its primary factors, 1 and 1. [Pause] Right? There is no other
+definition of 2 by primary factors, except by itself, as we’ll see. This will be Leibniz’s
+idea: to obtain real definitions for numbers, one has to decompose them into primary
+factors; one has to decompose them into primary numbers. When you decompose a
+number into primary numbers, you have the real definition of the number. So, definition,
+2 is 1 and 1. There you are. You have to take notes if you want to follow me well because
+this very simple example… [Deleuze doesn’t complete the sentence]
+
+Second definition: 3 is 2 and 1; here we have a definition of 3. Why? Because it’s the
+decomposition of 3 into primary factors. Third definition: 4 is 3 and 1, here again the
+decomposition into primary factors. These are three definitions.
+
+I am saying that to demonstrate is a linkage of definitions. In fact, we are demonstrating
+that 2 and 2 are 4. How do we demonstrate this? First proposition: “2 and 2” is 2 and 1
+and 1, by virtue of definition 1. – Yes, that makes no sense if you don’t note it down;
+either you listen vaguely, or you note it down. Have you noted down the three
+definitions? Do I need to reread them? First definition: 2 is 1 and 1; second definition: 3
+is 2 and 1; third definition: 4 is 3 and 1. -- Demonstration, first proposition: “2 and 2” is 2
+and 1 and 1, by virtue of definition 1. In fact, in 2 and 2, you keep one 2 and the other 2,
+you insert the defined… [Deleuze corrects himself] the definer, that is 1 and 1. “2 and 2”
+
+                                                                                            13
+
+is 2 and 1 and 1, by virtue of definition 1. Second proposition: “2 and 1 and 1” is 3 and 1,
+by virtue of definition 2. Third proposition: “3 and 1” is 4 by virtue of definition 3.
+
+So how do we make sense of that? Just grasp that we’re in a completely modern
+atmosphere. I mean that it’s really modern logics; indeed, it’s modern logics. One would
+necessarily need many pages; we’d need a storeroom of pages and pages in order to … to
+demonstrate things of the “2 and 2 make 4” kind. And Leibniz is very important in this
+regard, I mean, because there are all kinds of polemics occurring with mathematicians of
+the era. Leibniz really maintains this, the attempt at demonstrating valid actions. So, lots
+of mathematicians of the era state that "2 and 2 make 4” is a valid action. No, not at all;
+he wants his chain of definitions, and he wants the idea – thus the absolutely modern idea
+if you think about all of logics currently – [that] demonstration is a linkage of definitions.
+One can even say that it’s like the founding act for modern logics.
+
+So at this level, I’d ask, what have I done? Well, I am going from one definition to
+another. I am linking up definitions, each one being a reciprocal inclusion, the reciprocal
+inclusion of the defined and the definition. Ok? Fine, linking reciprocal inclusions is what
+demonstrating is. And up to what point do I link them? That gets complicated there.
+Why? Because I really have to attain some primary terms. I really have to reach some
+primary terms.6
+
+What does “primary terms” mean, ultimate terms? And why does one have to…?
+Ultimate terms are terms that are no longer definable, terms no longer definable. What is
+a term that is no longer definable? It’s a term that is nothing other than identical with
+itself. I cannot define it. Why can’t I define it? Because it only includes itself. A term that
+only includes itself cannot be the object of a reciprocal inclusion. I would say that a term
+that includes only itself refers to an auto-inclusion. It includes nothing other than itself. A
+is A: it’s an Identical. An Identical is an auto-inclusion., and you must define and
+distinguish definitions that are reciprocal inclusions and the Identicals that are
+inclusions, auto-inclusions, henceforth undefinable. An Identical is undefinable, from
+which comes the subject in Leibniz, in the truths of essence, [in which] everything
+proceeds through definition and Identicals. [Pause] You see what he means? Well yes,
+it’s not definable; there will indeed be primary terms. An undefinable term is a term that
+only includes itself. Example, let’s see if we can give some examples. Well then, a term
+that only includes itself is what we call an Identical. Well why? I continue pondering on
+an Identical including only itself, an auto-inclusion. [Pause]
+
+From the time he was very young, Leibniz conceived of something he called the
+Combinatory, and what is this Combinatory? It means not to define, but to determine the
+Identicals. We will see what that means, but I insist: in a domain under consideration, for
+example, the Identicals in geometry, in other words, auto-inclusions, the undefinable
+notions, he makes a list of them.
+
+Let us take a point, [Deleuze goes to the board and draws] see, the point, let’s assume
+that this is undefinable, an auto-inclusion. The line would not be an auto-inclusion if I
+can define the line as or through – I’m speaking at random -- through a succession of
+
+                                                                                          14
+
+points. However, succession then, there is an undefinable unless I can define it [with] a
+succession. But at that moment, I could define succession provided that I discern other
+Undefinables, other Identicals. I can judge that in a domain under consideration, I indeed
+say that the expression I am using in a domain under consideration remains entirely
+devoid of sense for the moment; I use it nominally in order to try to clarify things
+somewhat. So I would say that there are geometric Undefinables, that I call notions of
+primary class. [Pause] Let’s add, randomly: point, contiguity, distance – perhaps these
+are notions, but little matter what notions I add – unity. Perhaps these are undefinable
+notions, let us assume. See, I have my list. We have Leibniz’s papers from his youth
+through which he creates his Combinatory, and [it’s] the sole example we have of a
+Combinatory developed precisely about geometry in which there are, I don’t know, I no
+longer recall very well, 25 or 30 undefinable notions as starting point. These are notions
+of class 1.
+
+Notions of class 2: quantity, for example. Is quantity an Undefinable or not? All that…
+Once again, that changes nothing because you can choose. You can always say, for me,
+no, in my axiomatic, in my Combinatory, I am going to define quantity; this is possible.
+At that point, you will do so with notions that themselves are not definable to infinity.
+You will really have to stop because you only attain notions that only include themselves,
+for example, for numbers, 1. 1 only includes itself. 1, I would say, is the Identical for
+numbers; it’s the auto-inclusion. But from 1 onward, after 1 come reciprocal inclusions.
+For example, 2 is 1 plus 1, 2 is 1 and 1, there we have a reciprocal inclusion. And in fact,
+notions of class 2 in the Combinatory are obtained by combining two notions from class
+1. Here, with class 2, there will be reciprocal inclusions.
+
+Notions of class 3 will be obtained – here, if you have understood this, you will really be
+dazzled; you are going see the extent to which this is going to create a lovely
+Combinatory – the notions of class 3 will be obtained either by combining three notions
+from class 1 or by combining a notion from class 1 and a notion from class 2. [Pause] So
+there you have all of it.
+
+Let’s go back to the Undefinables. If we return to the Undefinables, what are
+Undefinables in auto-inclusion? Leibniz gives them a name. As we will need this name,
+they are simple primitive notions, simple primitive notions, that is, these are the originary
+concepts, the foundations of everything, or the roots of everything, or the source of
+everything, he says. [Pause] I am saying this because, understand, in this as well, if you
+understand it, you will understand a bit of everything. We are no longer, we are no longer
+at all… Please understand…
+
+ In philosophy, when it’s not the philosophy of the great philosophers, we don’t hear
+about the principle of identity. But that’s not what the principle of identity is. A is A, we
+are told A is A, but see here, one must not say the principle of identity; one must say the
+Identicals. The principle of identity is immediately plural, in any case, for Leibniz, since
+identity is the characteristic of auto-inclusion, and so what is auto-inclusion? It’s the
+characteristic of a term that includes only itself. So there will be as many Identicals as
+there are terms in auto-inclusion. One must not say the principle of identity; one must say
+
+                                                                                           15
+
+the Identicals. The Identicals are the notions of class 1, that is, the simple primitive
+notions.
+
+You will ask me, what if there were no Identicals? Ah ha, hee hee, yes, [Laughter] if
+there were no Identicals. Well then, there are some, and why are there any? I am going to
+tell you why, I will tell you, but we must wait a bit because we can continue to
+contemplate the Identicals some more. When one does not know, it’s very odd, these
+things, the Identicals, once again source of everything, at the basis of God’s
+understanding. At the basis of God’s understanding, one does not find the principle of
+identity. Otherwise, we would understand nothing at all about Leibniz’s beautiful
+expression, “God calculates the world” … The world, what more is there? The world,
+mondus in Latin, he tells us, mondus fit, that is, the world happens, the world creates the
+event. He doesn’t say that the world is an attribute of God. That would be Spinoza, and
+he doesn’t want to be Spinoza; he wants the world to be an event.
+
+So good, let’s get back to the Identicals, the Identical at the basis of God’s understanding.
+At the basis of God’s understanding, the Identicals in auto-inclusion roar. And what is
+that? What relationship is there between two Identicals? Precisely none, none at all.
+Why? Because relations begin there when two Identicals are combined. In other words,
+relations begin with reciprocal inclusion, with definitions. But Identicals, with each
+including only itself, an Identical has no relation with another Identical, which Leibniz
+expresses by saying in a number of very, very special texts, because he needed a word:
+they are disparate, absolutely disparate. In other words, one of them contains nothing that
+another contains. This is even the definition of the Undefinable. If one of them contained
+something that another contained, it could be defined. But precisely because each one
+only contains itself, they cannot even contradict one another. They are absolutely
+disparate. They can neither be contrary nor contradictory. They cannot exclude each
+other; each one only contains itself… [Interruption of the recording] [1:33:10]
+
+Part 3
+
+… The individual notion is the term, the Leibnizian term. But at the other end of the
+chain, there are simple primitive notions. And you recall that individual notions are
+without doors or windows, that is, they tend toward including (sont incluantes). Nothing
+reaches them from outside. To Caesar, some things reach him from outside, but to
+Caesar’s notion, nothing reaches from outside since everything is predicable on the
+notion.
+
+And yes indeed, see how that occurs. Simple primitive notions have no relation with one
+another because each includes only itself and contains only itself. So they are closed off
+from each other. The individual notions at the other end [of the chain] include the entire
+world; each of them includes the world. They include everyone, the entire world, but
+precisely because the entire world only exists within each of them. They are also without
+relations with one another. They have neither doors nor windows, I mean, for two
+opposite reasons at both ends of the chain. The primitive notions and the individual
+
+                                                                                           16
+
+notions create an echo exactly like, from the start, I suggested to you this arithmetic echo,
+infinity over 1 and 1 over infinity.
+
+Fine, but let us continue. These are the disparates. Henceforth, the Identicals or simple
+notions, the absolutely simple notions, the Identicals, well they cannot be incompatible
+with one another. Being absolutely disparate, they are necessarily compatible. Why?
+They couldn’t be contradictory, they could only be contrary or contradictory if we could
+reduce one of them to a notion that would be affirmed by one and excluded by the other.
+So, in order to be contradictory, it would be necessary that this not be a primitive notion.
+Including only itself, the Disparates are necessarily compatible. Having nothing to do
+with each other, they are necessarily compatible.
+
+So see, about the definition… But then the final point, completely essential: why go all
+the way to the Undefinables? Here as well, it’s a long philosophical tradition: why go all
+the way to the Undefinables? Well, [Pause] these Undefinables, up to that point in
+philosophy they had a name. It was “ultimate predicates”, predicates beyond which one
+can go back not farther, and this is what in philosophy since Aristotle was called
+categories. In fact, in Aristotle, what is a category? Categories are terms without links,
+terms without links, that is, Disparates. We can say of them that they’re terms such that
+everything that exists is one or the other; everything that exists is one or the other, of
+these primary terms. Everything that exists, if you will, falls under one or the other of
+these organizing headings, these categorical headings. Or else we can say – and this will
+indeed be the definition given by Kant much later – that these are predicates of every
+object; these are predicates of any object whatsoever (de l’objet quelconque). Being
+green is a predicate. When I say the tree is green, it’s a predicate.
+
+But, but, but, but every object is not green, whereas when I say substance, causality,
+quality, quantity – every object is substance, that is, being something permanent that
+undergoes variations. Every object is substance. Every object has qualities; every object
+has a quantity; every object has a locus; every object is within time, etc. Predicates of the
+object whatsoever, in opposition to predicates of the determined object, predicates of the
+object whatsoever are categories. These are terms without links to one another. They are
+pure Disparates. Aristotle gave the list of categories, precisely in the treatise Of
+categories. That began with substance, quantity, quality, etc. There weren’t many of
+them. These were Undefinables. [Pause]
+
+So is this the same thing? Are these the categories that Leibniz calls simple primitives,
+simple primitive notions? There’s a resemblance. And yet, something happened that
+dislodged everything. Why is this a necessity? Why don’t we go all the way to infinity in
+the definitions? You’re going to understand why. What has happened since Aristotle?
+Well, what happened is always connected to Christianity, the proof of the infinite.
+
+What are the Disparates, the simple primitive notions for Leibniz? I have a sense that it’s
+this, quite simple to see: if something… To understand any notion whatsoever, whether
+or not it’s a simple primitive notion, a proof is required. What is it that is going to
+transform the problem of categories within Christianity? It’s precisely the proofs of the
+
+                                                                                                17
+
+infinite, specifically simple notions, I think, which are forms directly able to be raised to
+infinity. It’s the new definition, or the new determination. Aristotle himself wanted to
+seek out expressions without links, without links to each other, Disparates.
+
+But everything occurs as if the idea of an infinite God changes the problem, it seems to
+me. The Disparates, the primary notions, are notions directly able to be raised to infinity.
+I say, directly able to be raised; all that complicates matter, indeed because, well, let’s
+assume that there are all sorts of infinite. There are lots of kinds of infinite. Look at the
+famous letter by Spinoza on infinity, a letter about which Leibniz said that it’s almost the
+best text by Spinoza and that one had to accept everything in it. Spinoza distinguished
+orders of the infinite: the infinite by itself, the infinite by its cause, the infinite because it
+was beyond all number, etc. There are all sorts of orders of the infinite.
+
+Moreover, yet again, for the seventeenth century, there is no indefinite, and if there is no
+indefinite, it’s simply because there is a whole series of orders of the infinite. So good,
+there are things… Whatever might be… You take a notion; it’s a proof, and you ask, is it
+able directly – that is, by itself – to be raised to infinity? You say, the world. I can
+conceive of the world as an infinite series, an infinite series of events. Ah yes, but it is
+able to be raised to infinity, but – don’t concern yourself with whether it’s infinite or not;
+concern yourself with the notion, uniquely with the notion – so you tell yourself, the
+notion of the world, can I think of it as infinity without contradiction? You don’t ask
+yourself what occurs, in fact; can I think of it as infinity without contradiction? Ah yes,
+but I can do so only through the order of causes, that is, this will be an infinite by its
+cause. Then, fine, yes, perhaps… So, good, if it’s that, it’s not a primary notion. I will
+call primary notion any notion that I cannot think of it, solely through thinking, that I
+cannot conceive of as directly infinite, that is, directly able to be raised to infinity.
+
+Another example : white. Can I suggest an infinite white, something infinitely white?
+Well, perhaps not, but why? Because what would that be? In the end, something resists
+this, but I tell myself it really matters little. This very example is taken up by Leibniz in
+the New Essays [on Human Understanding], which is why I… Perhaps there is no greater
+degree [of white]. Is this a degree? Ah, what is the relation… Finally in all this, it’s a
+color, an infinite color, [but] maybe not. If I manage, in fact, to show that in the notion of
+color itself, there is a mark of finitude, that is, the reference of vibrations, oscillations to
+the sensory organs of a living being, I cannot think of a color as infinite, and that’s
+marked by the finitude of a sensory reception (une réception sensible).
+
+But then what does the color imply? You see that the primary notion is working; it
+implies extension (l’étendue). Can I speak of an infinite extension? Well, Descartes
+talked about it, and as if by chance, he considered infinity, extension as a substance. Can
+I speak of an infinite extension? Fine, but of what order of the infinite? If I can think
+without contradiction of a directly infinite extension, very good. It’s a simple notion.
+Leibniz will show… That is, it’s an Identical. Leibniz will show, [it’s] nothing of the sort,
+that Descartes did not at all understand the problem of Identicals and that extension
+cannot be thought of as able to be directly raised to the infinite. Something else would be
+
+                                                                                              18
+
+required. Fine, but let’s suggest… Consider the direction of this line of thought. So, I
+continue.
+
+Understanding, will: are these simple primitive notions? Can I think without
+contradiction of an infinite understanding, and what would that be? When I say, for
+example, God has an infinite understanding, an infinite will, this is the proof of the
+infinite that allows me to define, to determine the Undefinables such that I can now say –
+understand my focus -- but if there are Undedinables, it’s not at all simply because one
+must stop. To a great extent, that would be the Aristotelian argument. Aristotle’s piercing
+argument is that one must indeed stop. There’s a moment when one must stop. He says it
+in Greek, it’s quite beautiful. One has to… can it… As it’s been attributed to him, might
+this be a cry of hope? In Greek, it’s really lovely, anagkê stênaï, anagkê stênaï, there’s a
+moment for stopping.7 Leibniz isn’t this kind of person, you understand? [Laughter] --
+That’s something that has never been created, the history of philosophical temperaments.
+-- Reason for him [Leibniz] is that one must never stop. The cry of reason is that one
+must never stop, and in Aristotle, it’s rather one must indeed stop. No, one must never
+stop. And so why does Leibniz posit the Undefinables? [It’s] not at all because one must
+stop, but because one must never stop. Very strange.
+
+The Undefinables are simply infinite forms, infinite forms that are the primaries, the
+source of all things, the Identicals. They are directly linked to the infinite. You see,
+there’s a fundamental relation, the Identicals and the infinite. Why? Because the
+Identicals are forms able to be raised to infinity. But if I say that, then there are suddenly
+things one can no longer say. [Pause] What does Leibniz do regarding the principle of
+identity? It’s not a question of saying that this is a philosophy demanding the principle of
+identity. He makes the principle of identity undergo the strangest operations that exist,
+also the most admirable and the most bizarre. He pluralizes it and he infinitizes it
+(l’infinise) … Yes? Why not? Yes, please oblige me, since he pluralizes it and he
+infinitizes it (l’infinitise). [Laughter] So that’s what I said? Both at the same time, that is,
+all forms will be identical, whatever they are, [and] they go on to infinity. And why does
+he do that? Well, if we don’t understand this, we no longer understand at all.
+
+I am going to tell a story of something that happened later. Long afterward, the Kantians
+who reacted strongly against Leibniz said this: Leibniz reduces judgment to the principle
+of identity. There you have it. But this operation is not possible, and what the Kantians
+said was admirable, very, very beautiful; and their argument was as follows: the principle
+of identity is only hypothetical. If A is, then A is A. You cannot state it other than in this
+way. If A is, then A is A. Eh? But then, it cannot give us any… As the Kantians say in
+their language, the principle of identity cannot give us any categorical truth. It will only
+give us a hypothetical truth. If there is A, then A is A. Hence [we see] the Kantians’s
+stroke of genius to say [that] the principle of identity cannot be treated as apodictic, as
+categorical. Eh? – Moreover apodictic means necessary. It isn’t necessary; it’s
+conditional. -- If there is A, then A is A, such that the only categorical and apodictic
+truth, the only necessary truth, is what? It’s something that is deeper than the principle of
+identity, which is what? But if A is, A is any representation at all. If there is a
+
+                                                                                           19
+
+representation, if I represent A, A is A. What else is there other than representations?
+There’s the moi [self, ego] that thinks of the representation.
+
+In other words, the principle of identity goes beyond toward something else, which is
+what? Moi = moi, the auto-position of the moi. [Pause] And moi = moi is irreducible to
+the simple principle of identity which is always hypothetical. It’s truly the moi that posits
+itself, the auto-position of the finite moi insofar as the finite moi accompanies any
+representation. Thus, it’s the synthesis of the finite moi, moi = moi, it’s the synthesis of
+the finite moi that encounters the principle of identity. The principle of identity is not
+primary, you see? And from this springs the great reaction against Leibniz. The principle
+of identity is incapable of posing itself by itself; only the moi is [in] auto-position. You
+see that in this regard, Kantianism expresses, in fact, a moment in philosophy in which
+they no longer believe in the concept of infinity. Henceforth, the foundation must be
+sought alongside the finite moi.
+
+Well then, what did Leibniz do? This is it, the Kantians yet again, Kant and the Kantians,
+they have something quite different to do than our own much more modest task. The task
+that we have taken on this year is to understand Leibniz. The Kantians have something
+else to do; they have to say what they have to say. So we mustn’t wonder if they have
+understood Leibniz well or not. But we can tell ourselves [that] to some extent, Leibniz
+was already sensitive to this problem, and what I can say about the question of Leibniz
+would be: under what condition can one attain an auto-position of the principle of
+identity? And his answer is: by placing the infinite into identity; by placing the infinite
+into identity. So identity is truly auto-position. In what form? In the form of the Identicals
+that include nothing else, each one including nothing other than itself. [Pause]
+
+A quick parenthesis: I am saying that Leibniz is going to derive from this a new proof or
+rather a formulation of the proof of God’s existence. Here, then, I am going rather
+quickly; I am relating all that you need. I believe I’ve already said it, but I am resituating
+this because it will become clearer: he reproached Descartes for having moved too
+quickly, to have proved God’s existence by simply saying: God is the infinitely perfect
+being, that is, understand, I conceive it as the infinitely perfect being, God thought of as
+the infinitely perfect being. Well, if such a being didn’t exist, if such a being that I
+conceive of didn’t exist, this would be contradictory since it would lack perfection. So I
+could conceive of an even more perfect being, one that not only would be conceived of as
+infinitely perfect, but moreover one that would exist. So it would be contradictory to deny
+God’s existence.
+
+Fine. Leibniz answers: this proof is fine, it’s quite fine, but it moved forward too quickly
+because Descartes didn’t do, didn’t show whether the concept of an infinitely perfect
+being were possible. What does he tell us? That the conception of an infinitely perfect
+being is not contradictory, to which Leibniz says, yes, Descartes is correct, that is, God
+exists, yes, if it is possible. The greatest speed or an infinite speed is contradictory.
+Perhaps the most perfect being, the sovereignly perfect being is also contradictory.
+Perhaps. So one has to show that God is possible. Descartes wasn’t able to do so. Look at
+what he has in mind. Spinoza will say exactly on this point [that] it will be… Spinoza and
+
+                                                                                             20
+
+Leibniz are in complete agreement, and both are going to do the same thing, the same
+operation: how to show that God is possible? If it [God] is possible, it exists, but one had
+to show that this was possible. And how does one go about showing this? Well, it’s [by
+saying]: God is surely physically simple, but it is not logically simple.
+
+You know what [Leibniz] reproaches Descartes for; it’s through this that Leibniz founds
+modern logic. What he reproaches Descartes for is to have confused two decompositions,
+the decomposition into parts, and the decomposition into notions. Descartes believed that
+when something wasn’t decomposed into parts, it was simple, simple, by itself. No.
+Something might not be decomposed into parts and yet could be decomposed into
+notions. And the Simple is that which is neither decomposable into parts, nor into
+notions. For example, extension can be, or not be, decomposed into parts, it can only be,
+after, I mean prior to its own parts, but it remains decomposable into notions. Thus the
+notion of Simple is in relation to the notion, not in relation to the part.
+
+But for them, Spinoza as much as Leibniz, they can think that they have proved the
+possibility of God. Why? Because God is the aggregate of forms, the aggregate of forms
+that one can think of directly as infinite, the aggregate of forms that one can think as
+infinite by themselves. You will tell me, but I have no idea about such forms. That
+doesn’t matter; it has no importance. God has it, the idea. Or else you say, the idea of an
+infinite form by itself makes no sense, so that’s quite alright. You are already like the
+Kantians. Or else you grant a sense to the idea of infinite form by itself; there are infinite
+forms by themselves. Fine, these are the elements of God; these are the constitutive forms
+of God.
+
+What are these forms? For Leibniz, there are some that exist. What then are these forms?
+As we saw, these are simple primitive notions. Each one includes only itself; these are
+forms in which the content for each is only itself. They are absolutely disparate. In this,
+there is a completely twisted reasoning, very, very appealing, very amusing. Each of
+God’s constitutive forms only includes itself. Each is absolutely disparate from all the
+others. Henceforth, each includes only itself. Henceforth, they cannot be incompatible.
+There is a tiny, three-page text by Leibniz in Latin, a Latin text, entitled “That the
+sovereignly perfect being exists”, and he wants to show that God is possible. He says,
+“The primary elements are forms able to be directly raised to the infinite,” that is, in this
+through themselves as infinite. “They are necessarily compatible,” since absolute
+disparate. They cannot be contrary to each other (se contrarier) nor contradict each other.
+So they can be in a same subject; they can be in a same subject; they can be included in a
+same subject.
+
+In other words, the proof of God’s existence – this is what I was telling you at our last
+meeting, but I hope that here it’s even clearer – goes from the aggregate of all
+possibilities, that is simple notions, the forms able to be raised to the infinite, it goes from
+the aggregate of all possibilities to the individual existence of a being that we will call
+God. This is the formula infinity over 1. It’s the possibility of primitive forms that
+guarantee God’s possibility; henceforth, God exists. We go from the aggregate of
+primitive forms, from simple primitive notions, to the singular existence of a God. Fine,
+
+                                                                                               21
+
+this is what it is to place the infinite into identity. The day that one can no longer place
+the infinite into identity, Kantian philosophy will be born, that is, the foundation that we
+can no longer seek other than alongside the finite moi, and then other things will occur,
+other thing will occur. Fine, generally speaking, we can say that.
+
+So if you’ve understood that, I have almost completed this long and vexing passage. But
+for us, we know that there are infinite forms that are the very possibility of God. What is
+important in what I’ve just said is this passage, from the aggregate of all possibilities to
+the singular existence of a God, of which all the possible forms are the elements. We pass
+from the infinite through 1, but precisely, to place the infinite into identity means
+creating this passage of infinity over 1. All this is a large morsel, from all of Leibniz’s
+texts that are being considered today. These are not the most enjoyable, but this is
+necessary.
+
+So for us, our situation is: this is all fine, but the fact is that we are not familiar with these
+forms, and Leibniz will say it several times, well then, we don’t get there. One can
+always create the logic of these forms, but knowing what they are, how do we do that? So
+here we are requiring a replacement solution since we do not have an infinite
+understanding, and the replacement solution, for the Combinatory that we can never push
+all the way to the end, is what Leibniz calls the Characteristic.8 On the other hand, we
+can only manage a variable Characteristic according to the domains under
+consideration… [Interruption of the recording] [2:05:00]
+
+Part 4
+
+… I am saying very, very quickly… -- I apologize here for this session, but this is a great
+relief to have all this done. -- I am telling you now, fine, place yourself in a concrete
+situation. Our understanding is a finite understanding. We can be certain that there are
+entirely compatible infinite forms, entirely disparate that are constitutives of God. But at
+the extreme, we cannot even know what these are, these forms. So, how do we manage to
+proceed? Fortunately, we have the Characteristic there since if the Combinatory has as its
+ideal project to direct itself toward simple notions, that is, another name that Leibniz
+gives them, the primary Possibles, you see, the primary Possibles in God’s understanding,
+well then, how do we ourselves manage?
+
+I believe that here, there is a very important method. [Leibniz] says in general – here I am
+trying to speak as concretely as possible – he tells us, you know, in the end you find
+yourself faced with domains that you manage to divide up for reasons of perception,
+understanding, and at the extreme, domains that you begin by defining uniquely in a
+nominal manner. You say, the living exists – I am taking an example – the living exists.
+The living is a domain. And then, there is the inanimate. There’s the inanimate and
+there’s the living. You say, there’s continuous quantity and there’s discontinuous
+quantity. So you can nominally define some domains. These domains are populated with
+objects. So you see, you start from a certain complex group, I would say, a complex
+group that you can define nominally, a milieu, a domain populated with a type of object.
+There are loads of these. You say, well, the visible. The visible is a domain populated by
+
+                                                                                           22
+
+colors. [Pause] Life is a domain populated by organisms. So then this goes on to infinity,
+this discontinuous quantity. It’s a domain of quantities populated by numbers. See, you
+can define all that nominally. That commits you to nothing, I believe.
+
+And Leibniz tells us, what is our personal task? Given a domain, populated with objects,
+one must define the requisites of the domain, that is, pass from the nominal definition to
+the real definition.9 [It’s a] very odd notion in Leibniz, the notion of requisite. What is
+this requisite? It’s precisely that which is required by; it’s the condition of the domain
+and the objects that populate it. [Pause] What are the requisites of a domain and its
+objects? These are relatively simple elements, there. These are not the absolutely simple
+[ones]; these are the relatively Simple about which he will say that they symbolize with
+the absolutely Simple. They are relatively simple since they are simple relative only to
+the domain of objects being considered. From which [we have] Leibniz’s strength against
+Descartes; when he says, Descartes believed simplicity to be defined in relation to parts,
+the Simple is what wouldn’t have any parts, whereas simplicity is defined in relation to
+notions. The Simple is the requisite of a domain, that is, the requisite is the notion
+implicated by a domain insofar as it is populated by objects.
+
+I come back to my examples. [For] discontinuous quantity populated by the number,
+what is the requisite? Primary numbers. See the sense in which it’s a requisite: it’s with
+primary numbers that you will be able to engender any number. See, the requisite is – if
+you have followed [this], if you recall our work in the preceding trimester – I would say
+that it’s very similar to point of view. This is what allows us to arrange (ordonner) the
+cases in a domain. For example, the arithmetic triangle in which, at the extreme, you can
+engender all numbers starting from primary numbers. Fine, if you engender all numbers
+starting from primary numbers, you have passed into the real definition, that is, you have
+reached relatively Simple [ones] that are absolutely sufficient in relation to a particular
+domain.
+
+[For] the visible insofar as [it’s] populated by colors, you have primitive colors. You are
+going to create primitive colors. There is an outline of all the theories of colors in
+Leibniz. The living and its domain, rather the domain of the living, is the object that is the
+organism. You compare it with the domain of the inorganic. What is the requisite? That
+depends on physics. You see, it’s a relative requisite, it’s a relative Simple. What are we
+to say? Here, I’m extracting -- so we don’t get into all of Leibniz’s theories of physics –
+I’m extracting a simple [element]. The reason is that if you consider the physical milieu
+as populated by bodies in movement, what is the requisite? The requisite is that the speed
+of a movement is lost and is gained progressively. He states this against Descartes for
+whom speed is instantaneous. So he [Leibniz] has already shown that something believed
+by Descartes as simple, in fact, is not simple, not simple from the viewpoint of notions.
+The whole domain of physics implies the acquisition and the gradual loss of speed in
+movement.
+
+How do we take account of this? [It’s] through the summation (or declaration), the
+summation of – how to say this in the simplest way? – of small quantities of movement
+that will compose speed and that Leibniz calls conatus, solicitations of movement. There
+
+                                                                                              23
+
+will be a summation of conatus, the conatus being relatively simple elements, and
+relatively simple elements of speed. By reaching the conatus that, in fact, are differentials
+– what is occurring is already infinitesimal calculus – by reaching the conatus, I reach the
+requisite of inorganic movement, that is, the summation of tiny homogeneous parts. By
+tiny parts, one must understand parts smaller than any given part. You see, I will have my
+requisite, the requisite taking account of the milieu and the objects that populate it.
+
+I pass on to the living. What is the requisite of an organism? Well, to create an organism,
+the requisite of the inanimate body does not suffice, that is, the summation of conatus
+does not suffice. The summation of tiny homogeneous parts does not suffice. The
+summation of conatus does not suffice. It matters little why. Here I am summarizing
+enormously. Leibniz will invoke a new kind of force. The summation of conatus, in the
+inanimate domain, is what he calls – that is, the requisites of physics – it’s what Leibniz
+calls elastic forces. He creates a very beautiful physics from elasticity. As we saw, this
+was very, very precious for our idea of inflection. These are elastic forces.
+
+For the living, for the organism, it’s a matter of something else. Elastic forces are not
+sufficient for creating an organism. What is required? Required are forces that Leibniz
+calls -- at least in one text, but an important text – plastic forces. And plastic forces are
+not defined by the summation of infinitely tiny parts that would be the conatus. Plastic
+forces are defined by placing homologous parts into correspondence. See: elastic forces –
+summation of tiny homogeneous parts; plastic forces – tiny homologous parts in
+correspondence. These [terms] matter little; you will look up what all this means in your
+dictionary, homologous, homogeneous; that will give you some practical exercises and it
+will be very interesting.
+
+I would say that plastic forces are the requisites of the living milieu and of the organisms
+that populate it. Elastic forces are the requisites of the physical milieu and of the
+inorganic bodies that move there. Primary numbers are the requisites of discontinuous
+quantity, etc., etc. Primitive colors are the requisite of the visible. Each time, in any
+domain, and recall what I was telling you about point of view: if it’s true that point of
+view is precisely the requisite under which cases of a domain are arranged, the
+Characteristic is precisely the determination of requisites in a domain being considered
+and in relation to the objects that populate this domain… [Interruption of the recording]
+[2:18:17]
+
+We dispose of relatively simple notions that symbolize with absolutely simple notions,
+with the primary Possibles. And understand what that means: one must not – I take this as
+a huge misunderstanding to say this – eh well, yes, there’s still an inclusion there because
+the requisites are included in what results from it, specifically the milieu and objects, a
+particular milieu and a particular domain of object. For it’s the reverse: these are
+requisites that are including, it’s the requisites that are like fertilizer or seeds that contain
+the domain that is developed starting from them and objects that are unfolded starting
+from them. As a result, in 2 and 2 are 4, where is the inclusion? Well, in 2 and 2 are 4, the
+inclusion is obvious, but it’s not at all where you think. It’s not 4 that is in 2 and 2; it’s
+not “2 and 2” that is in 4; it’s “2 and 2 are 4” that is included in the requisites, that is, in
+
+                                                                                             24
+
+the primary factors, in the primary numbers intervening into 2, 3, and 4, following the
+linkage of definitions that we had earlier. The inclusion is the inclusion of that which is
+composed [du composé] in the requisites. The requisites are seeds in which the complex
+domain and its objects are included, such that I would say [that] the requisite is the notion
+of the thing. You see here, I have exactly, I am returning precisely… All that ought to be
+utterly dazzling because I would say [that] the domain is the same thing as inflection, the
+event. Any domain is an event. One must manage to think of the domain as event; that
+occurs. There you have what occurs.
+
+The fact is… So the domain is an event, fine. The objects that populate the domain are
+the things to which the event happens. [Pause] So then, the event that happens to the
+thing is included in the concept of the thing. What does that mean? What is the concept of
+the thing? It’s not the thing. The concept of the thing is the aggregate of requisites. It’s
+not the requisites that are included in the thing. It’s the thing and what happens to it that
+are included in the requisites of the thing.
+
+As a result, a Combinatory of primitive colors is necessary. Moreover, Leibniz goes quite
+far here because he says that in this, obviously, it’s uniquely a function of our senses that
+we speak of primitive colors. We say that green is a mixture, but yellow and blue are
+obviously mixtures as well. Why? [It’s] always for the same reason: there is no infinite
+yellow, no infinite blue. So these are already complex notions, all this, [but] our senses
+simply are such that we grasp the mixture for green, but we don’t grasp it for yellow and
+blue. But a Combinatory of colors, well, so, at least the finitude of our senses is useful for
+us, that is, it allows us to define relative requisites. But understand well, these requisites
+are really seeds, seeds of a domain and its objects.
+
+And inclusion here… But then, I am getting toward the end, where I had hoped to arrive.
+It’s that… [Pause] It’s a third case of inclusion. I grasp it, my third case of inclusion.
+This is what I would like you to understand the misunderstanding to avoid. To say, well
+yes, I understood; in the judgment of the senses 2 and 2 are 4, 4 is contained in 2 and 2;
+or else, “2 and 2” is contained in 4. These would be two misunderstandings, two
+misunderstandings. Yet again, it’s not that; it’s “2 and 2 are 4” that is contained in the
+requisites of “2 and 2 are 4”, and the requisites of “2 and 2 are 4” is the decomposition
+into primary factors given in the three definitions, such that the inclusion is never where
+you think it is. But when I operate through relatively simples, through requisites, what am
+I faced with? I am faced with what I could literally call a non-reciprocal inclusion, a nonreciprocal inclusion, of the part-whole kind. [Pause] Every… -- I must not get this
+wrong; I am saying every… Wait, every… “Every duodenary is…” What do I mean?
+“Every duodenary,” that is, every number divisible by 12… -- I better not… I’m going to
+lose my place in this; I want to be so clever, but I had better refer to the text. It would be
+catastrophic if I made a mistake. Alas, everything is getting all mixed up in my head… I
+can’t find my text; everything is going badly… On Freedom; there, On Freedom! Aie aie
+aie aie aie aie aie… Here we are.
+
+“Every duodenary number is a senary”, right? That is, every number divisible by 12 is
+divisible by 6. I am saying that there is an inclusion – you already get this, it’s in the air
+
+                                                                                             25
+
+(rien qu’au flair) – there is a non-reciprocal inclusion here because every senary number
+is not a duodenary. Every number divisible by 6 is not divisible by 12… So every
+number, beginning with six, every duodenary is a senary. Every number divisible by
+12…
+
+How [does] he demonstrate this? Listen well: “For every duodenary is bino-binary
+ternary.” [Laughter] You’re laughing, but it’s what one does in formal logic, right? We
+never stop… That comes from Leibniz, all this, whereas myself, I no longer understand
+anything… Oh yes, “every duodenary is bino-binary ternary.” [Laughter] Why? Why?
+[It’s] by virtue of a definition. In fact, it’s by virtue of the decomposition into primary
+numbers, specifically 12 equals – in primary numbers – so a definition for 12: 2 x 2 x 3, 2
+bino, 2 binary, 3 ternary. Ooooooh. [Deleuze breaths out, relieved. Laughter] “Every
+duodenary is bino-binary-ternary”, by definition, since 12 equals 2 x 2 x 3. That’s a
+definition, that is, a reciprocal inclusion, “and every binary ternary,” 2 multiplied by 3,
+“is senary”. That works; it’s the definition of 6, through primary factors, 2 multiplied [by
+3], you see? I am operating on the level of requisites.
+
+But I haven’t yet demonstrated that every duodenary is senary. One must have something
+special, eh? I will reread to you the whole of the text. I come upon “every bino-binary is
+binary.” [Pause] I have to introduce… I have two definitions, but between the two, I have
+something irreducible with the definitions, specifically – which nonetheless is typically
+an inclusion – “every bino-binary” – so, what am I saying? Oh, là là -- “every bino-binary
+ternary is binary ternary,” that is, 2 multiplied by 3 is included in 2 multiplied by 2
+multiplied by 3. You will tell me that this goes without saying, but no. That goes without
+saying, ok, that goes without saying provided that you provide yourself with another kind
+of inclusion, a new genre of inclusion, non-reciprocal inclusions. When you start off from
+requisites, you are necessarily going to encounter non-reciprocal inclusions that will
+allow you to establish linkages between reciprocal inclusions. If you are following me,
+we are saved, absolutely saved. [Laughter] Everything is explained.
+
+You remember? I had started off from this text, On Freedom, that concerned me. Why
+did he say that in truths of essence, there is a case of truth in which the inclusion is only
+virtual? He is going to tell us – and this isn’t regarding truths of existence, but indeed
+mathematical truths, truths of essence – he tells us: there are cases in which one has to
+“extract an inclusion so that what was virtual (latent) in the proposition and contained
+under [in] a certain power becomes evident (se trouve rendu) through the obvious and
+expressed [explicit] demonstration,”10 for example, his whole story of the duodenary. It’s
+when we operate not with the absolute Simples that escape us, but with the relatively
+Simples, [that] there is irreversibility and not reversibility, of the requisite to the domain.
+In other words, you are going to operate with, not only, with non-reciprocal inclusions.
+And this is the case, whereas the linkage of definitions can only give you reciprocal
+inclusions. Intervening here, with the method of requisites, are non-reciprocal inclusions
+that are going to justify the second case. It’s this that ought to be marvelous for us, if I
+dare say so, but anyway…
+
+In the end, what are these requisites? I am going to tell you in all domains. But I believe
+that we will need the requisite, the definition later: it’s the degree of unity, the degree and
+
+                                                                                            26
+
+type of unity that a domain and its objects presuppose. And there is non-reciprocal
+inclusion of the domain and its objects in the requisites. Henceforth, henceforth I would
+say that the truths of essence propose to us three types of inclusion.11 Here are the three
+types of inclusion:
+
+The first type, and that will be our focus today: the auto-inclusions, specifically the
+Identicals, otherwise called disparates, otherwise called simple primitive notions,
+otherwise called primary Possible. Second point: the reciprocal inclusions, otherwise
+called definitions. [Pause] Third, the requisites or non-reciprocal inclusions.12 [Pause]
+
+All these three types of inclusion concerning truths of essence have as common
+characteristic the ability to be developed – except obviously the first ones, the Identicals
+since the Identicals need not be developed; they are entirely developed in a sense, but
+they are developable insofar as they would constitute God – they are developable and, I
+would say, they are assignable. They can be developed. These are eminently unfoldable,
+developable inclusions. When I assign a requisite, I develop an inclusion; I am
+developing a non-reciprocal inclusion. There you are.
+
+The truths of existence, then, Caesar crossing the Rubicon, what is that going to be? Here
+as well, there is going to be inclusion in the notion. This time, what is the requisite going
+to be since there is always inclusion in the requisite? It’s going to be the individual
+notion. What is the individual notion? See? There is going to be a faceoff of these simple
+primitive notions, the primary Possible, or the Representor [Représentant], that is, the
+requisites. It goes alongside the individual notions that are themselves requisites, but
+requisites of truths of existence. What is an individual notion? This time, there is indeed
+inclusion of the event and of the thing in the notion. The thing is that which happens to it,
+[and] what’s included in the individual notion, that is, in the requisite, fine. [Pause]
+
+So, simply, I would say that the inclusion is not developable. God itself, the text On
+Freedom tells us, only sees the envelopment. God itself sees only the envelopment. What
+does that mean? But that means, in fact, that in a certain way this is what we have been
+saying from the start: the fold goes on to infinity. Envelopment goes on to infinity,
+agreed, but we saw this from the start. It’s also true of truths of essence. There is only the
+infinite everywhere. So that is not sufficient.
+
+At the extreme, I would say that with truths of existence, there begins another type of
+inclusion, a fourth type of inclusion, in which this time, the inclusion is no longer
+localizable. The reciprocal inclusion… Oh, sorry, the non-reciprocal inclusions were
+perfectly localizable. The non-reciprocal inclusions were transmitted along the
+demonstrative chain. The non-reciprocal inclusions were localized, localizable. Every
+bino-binary is binary. But here, we are going to enter into a domain of non-localizable
+inclusion. What is this going to be?
+
+Good, here we are; I’d like to finish on this because you need to reflect on this for the
+next meeting. In the Letters from Arnauld, [there are] two strange topics -- Arnauld being
+a figure from Port-Royal who had a great correspondence with Leibniz -- two topics,
+
+                                                                                            27
+
+Leibniz mixes together two very odd topics. He jumps at the same time from one to the
+other and drives Arnauld mad. Arnauld doesn’t know what he’s getting at. [Leibniz] tells
+us, here’s God – I wants to show that God is not responsible for evil. He tells us, God
+didn’t create Adam as sinner. That’s his first great expression, God didn’t great Adam as
+sinner, but he created the world in which Adam sinned. God didn’t create Adam as
+sinner, but he created the world in which Adam sinned.
+
+Second proposition: the world doesn’t exist outside the individual notions that express it,
+Adam, Caesar, Alexander, you, me. You get the sense of this; first proposition: God
+didn’t create a particular individual notion; he created the world in which there is a
+particular individual notion. Second proposition: the world doesn’t exist outside the
+individual notions that express it. All this makes one dizzy if you try to… One feels that
+this is not contradictory, in fact. God created the world, but not the individual notions,
+well yes, but take care. Hardly have we understood this than Leibniz says, yes but be
+careful: the world doesn’t exist outside the individual notions, which means what?
+Perhaps we could understand thanks to our work during the first trimester.
+
+God begins through inflection. It creates the series of inflection called the world. In fact,
+it creates the world. It creates the world in which “Adam sinned”; it’s a series of events,
+of pure events, sin, salvation, death, life, etc. It creates the world. [Pause] Only, in this,
+from inflection to inclusion, the world that God creates exists only as folded into
+individual notions. Each notion expresses the world. It doesn’t exist outside individual
+notions. God does not create Adam, Caesar, etc.; it creates the world in which there is
+Adam, Caesar. But this world doesn’t exist other than folded into the notion of Adam, the
+notion of Caesar, etc. So, in fact, this is non-foldable inclusion, you see? It creates the
+world, but it creates it within individual notions. And if I tell this to [God], ah God, you
+created Adam as sinner, you made a whole lot of trouble for all of us, God responds no, I
+didn’t create Adam as sinner; I created the world in which there is sin, and this world
+only exists within individual notions, that is, I folded it into Adam.
+
+So, this idea, this is a really strange that it [God] comes up with, that is, [that] this world
+is not foldable; it cannot move away from individual notions. But nonetheless, yes, then
+by what right does one speak of this world? [There’s] a final point to correct: yes, in fact,
+we can unfold it, but ideally, ideally. Outside individual notions that express it, the world
+only has an ideal existence. [Pause] God creates the world in which Adam sinned, but
+careful, this world only exists folded into Adam and into other individual notions. So this
+is amazing. When Leibniz is attacked on this point, he [Deleuze makes a dodging motion;
+laughter in the room]; when he is attacked on the other point, he doesn’t answer. He is
+told, come on, this world is still in Adam; he answers, it’s possible, but what interests
+God is this world. It’s the world that God created, that’s all. But they say, fine, this world
+included sin… But careful, this world exists only within Adam, enveloped within Adam.
+That’s what I mean by a non-localizable inclusion.
+
+So, he is going get out of this problem; we get the sense that he’s leading us, he’s leading
+us… that he is too clever for us. Suddenly, we have to take him on a single point… Fine,
+he himself says that there is a large difference with truths of essence. It’s that Adam as
+
+                                                                                                         28
+
+non-sinner was possible, whereas “2 and 2 are not 4” is not possible. This [the first] is
+what you can readily conceptualize, but you cannot conceive that 2 and 2 do not make 4.
+On the other hand, you can conceive of Adam not sinning; if God grants us that, we have
+to ask, ok, come on then, Adam not sinning, what is this, some other world? What is it?
+What does that mean? And what is an individual notion? God does not create the
+individual notions, but it creates the world in which there are individual notions. And on
+the other hand, this world itself does not exist outside individual notions. So good, fine,
+what is an individual notion? Why is the opposite of an individual notion possible?
+
+And here there is going to emerge the most beautiful of his concepts, the concept of
+incompossibility, and that we will see at the next class, to wit, yes, Adam as non-sinner is
+possible, only he is incompossible with our world, whereas 2 and 2 doesn’t make 4, that’s
+impossible. And is there an Adam as non-sinner? Yes, it’s possible, only it’s not
+compossible with this world. And he invents this very odd notion of compossibility, and
+it’s the task, I assume, of every reader of Leibniz, at all costs, to give consistency to the
+notion of compossible and incompossible. Adam as non-sinner is incompossible with our
+world. What could that mean? Alas, [although] Leibniz frequently uses the notion, to our
+disappointment one single time he tells us [that] the root of incompossibility escapes our
+understanding. [Laughter] This gets really strange because, on one hand, this is
+unacceptable, completely unacceptable. We want, we demand a root of incompossibility
+that consists in what? To show us how incompossibility is another relation than just
+contradiction. And this is essential, even from the point of view of logic. At all costs, a
+logic is necessary, a logic that might be able to show that the incompossible and the
+contradictory are two completely different relations.
+
+So we have to say that perhaps Leibniz, at the same time that he was telling us that the
+roots of incompossibility escape us, he was leaving us enough signs and possibilities to
+give to the notion of compossibility a more positive sense. From which we have our task:
+what does that mean, what does incompossibility mean, and what logical principle does it
+assume? What does it mean, Adam as non-sinner is not compossible with our world?
+[End of the recording] [2:48:26]
+
+Notes
+   Having finally completed the first part of the seminar, "Leibniz as Baroque philosopher”, Deleuze
+introduces in the 13 January 1987 session the second part of the course, based on the foundation of earlier
+course material that roughly encompassed chapters 1 and 2, and part of 3, in The Fold (University of
+Minnesota Press, 1993).
+  See chapter 4 of The Fold which has this principle as its title.
+  Deleuze considers this distinction in The Fold, pp. 42-43 ; Le Pli (Minuit, 1988), pp. 56-57.
+  On this precise point, see The Fold, p. 148, ch. 4, note 4.
+  Deleuze refers to this in The Fold, p. 43, note 6; Le Pli, p. 57.
+  This development is provided in much more condensed term in the The Fold, pp. 43-44.
+  From Aristotle’s “Physics”.
+  Deleuze introduces the Characteristic in The Fold, p. 47, Le Pli, p. 63.
+  On the requisites, see The Fold, pp. 46-49; Le Pli, pp. 62-65.
+   On Freedom; see this precise argument and this quote in The Fold, pp. 51-52, and note 22 (p. 149; I note
+variants from the text to Deleuze’s reading here); Le Pli, pp. 69-70.
+   Cf. The Fold, pp. 48-49; Le Pli¸ p. 65.
+
+                                                                                                          29
+
+  Deleuze provides a summary chart for these distinctions, although differently organized, in The Fold, p.
+57; Le Pli, p. 77, to which he adds a fourth category, “Individuals”, i.e. Existents or Substances, to which
+he turns a few paragraphs later.

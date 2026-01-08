@@ -1,0 +1,1521 @@
+1
+
+Gilles Deleuze
+
+Seminar on Foucault, 1985-1986
+
+Part I: Knowledge (Historical Formations)
+
+Lecture 05, 19 November 1985
+
+Transcribed by Annabelle Dufourcq; time stamp and supplementary revisions, Charles J.
+Stivale
+
+Translated by Samantha Bankston [Initial translation by Mary Beth Mader]
+
+Part 1
+
+… So, we were at the point, if you recall, we were at the most precise point that consists in
+asking: but when all is said and done, what is a concrete statement [énoncé]? We know that it
+shouldn’t be confused with words, sentences, or propositions. But how does it distinguish
+itself? Why is this the most sensitive point? Of course it’s curious that Foucault gives very little
+in the way of examples of a statement. And the examples he does give are ones that cause us to
+dream. As an elaborated example of the statement—and I think it’s even the sole example the
+gives—is AZERT.1 So, you see, the reader is surprised; s/he says: really? That is a statement?
+AZERT.
+
+Well, what is AZERT? Again, it’s necessary to note that when following Foucault’s text to the
+letter AZERT is only a statement under certain conditions. Thus, we get the impression that
+Foucault is using his sense of humor with this example. AZERT, what is it? Oh, well, AZERT is
+what you can read on the first keys on the keyboard of a French typewriter. A-Z-E-R-T, etc. So
+that’s a statement? You understand, then, our confusion doubles. And why does he keep
+coming back to this example in the Archaeology (of Knowledge)? He tells us: but pay attention
+to AZERT, the letters that are arranged on the keys of the French typewriter, are not a statement.
+Oh really! A-Z-E-R-T on the keys of the keyboard is not a statement. On the other hand, if I
+copy the letters onto a piece of paper, that is a statement. There you go...the example, that’s the
+key example of the statement. If I copy them onto a piece of paper then that’s a statement.
+That’s a statement of what? Well, it is the statement of the order of letters as they are arranged
+on a French typewriter. Good.
+
+So, we will have a while to reflect on this point. But in a certain sense that means that he doesn’t
+lavish us with examples, and why? We can speculate. Maybe because, in principle, he only
+considers statements, and he never ceased producing them in his previous books. That does not
+help us. Why doesn’t he want to give us examples? Perhaps also because every example passes
+through words, sentences, and propositions. It goes without saying, as I said: the statement
+should not be confused with words, sentences, or propositions. That does not prevent it—it is
+not a question of uttering a statement without words, without sentences, or without propositions.
+The statement is distinct yet inseparable from them. For that reason we are led more concretely
+
+                                                                                                      2
+
+to look for characteristics of the statement with respect to both their differences and their
+inseparable relation with words, sentences, and propositions.
+
+And I was saying, we were just on this point, but I wanted to come back to it because it is
+fundamental—it’s a fundamental point, and we must be very, very clear. I wanted to come back
+as I was saying: there is primarily a big difference. There’s primarily a big difference; of what
+does it consist? Well, it’s that propositions, by their very nature, belong to a homogeneous
+system, and propositions cannot be freed, by a logician or even a linguist, except insofar as we
+determine the homogeneous system wherein the propositions take place, where they are the
+constitutive elements. And, in fact, I was saying that you see how in this respect the logician and
+the linguist proceed in the same way. They proclaim laws from a kind of abstraction—meaning
+that with respect to a given language, they proclaim conditions under which this language can be
+constituted as a scientific object. And the conditions, they’re really simple: carve homogeneous
+systems into language. For example, in English as it is spoken, a homogeneous system is carved
+into it: “standard English.”
+
+And I was telling you that a linguist like [Noam] Chomsky strictly insists on this condition and
+says: there is no science that proceeds otherwise, which does not carve homogeneous systems.
+Which amounts to saying what? That the study of language and propositions in language will be
+done in a way where the homogeneous system is determined—determined by what? It will be a
+matter of fixing constants, constants of all kinds, intrinsic constants. It is through an ensemble of
+intrinsic constants that we will define a homogeneous system.
+
+“Intrinsic constants”: what does that mean? Well, phonological constants that define a system,
+but not only phonological constants: grammatical constants, semantic constants. You have
+several levels of intrinsic constants. These internal, intrinsic constants...you can locate them in
+every linguistic while they talk about universals, following Chomsky’s lead. Universals are not
+things that are found fully realized in all languages; it is intrinsic constants that determine a
+homogeneous system. Therefore, there will be, the linguists tell us with respect to a system,
+there will be phonological universals, syntactical universals, semantic universals. Accordingly,
+when you have determined a homogeneous system, like “Standard English,” it is defined by
+intrinsic constants like, for instance, the phonological traits that remain within the system. Very
+well.
+
+You can add to the above that universals are affixed by extrinsic variables. What are extrinsic
+variables? It’s that of which you can make an abstraction while you develop your scientific
+study. Extrinsic variables are what linguists will call “irrelevant” features. Example: variables
+in pronunciation. Meaning: these are variables outside of the homogeneous system, and these
+variations are not relevant with respect to the system under consideration; they correspond to
+external determinations. For example: the accent of someone who speaks a particular language.
+An accent will be considered irrelevant with respect to the system.
+
+You’ll say to me: there are plenty of cases when an accent becomes relevant...strictly speaking,
+that changes nothing, because the very moment you consider an accent to be a relevant
+characteristic you’re no longer treating it like an extrinsic variable; you’re treating it like a
+constant that allows you to define a homogeneous subsystem, like for example, the French as it is
+
+                                                                                                     3
+
+spoken in Picardy...well, in that case the accent becomes a relevant feature. But it becomes a
+relevant feature by becoming an intrinsic constant that allows you to define a subsystem that is
+itself homogeneous. Well then, what will a variable be? An extrinsic variable? Strictly
+speaking, it will not be a relevant feature with respect to the system. It can be something else, it
+can be a feature that comes from another system intervening on the first one. At this point, in
+order to consider this feature, this variable scientifically, you must restore the other intervening
+system, and at this point, the feature under consideration becomes a constant in the other system.
+
+Thus, if you like, what I wanted you to understand was how scientific approaches, as well as the
+logic of propositions and the linguistics of propositions, play into a kind of distribution of
+intrinsic constants/ extrinsic variables. The intrinsic constant being the determination of a
+homogeneous system. And again, everyone knows, of course, that when we speak, we are not
+confined to a homogeneous system, and we move from one system to another.
+
+But the man of science, the linguist as such will say: that is a simple matter of fact. It is true that
+a sentence always belongs to several systems. Yes: a sentence always belongs to several
+systems. And you can take a quotation, you can take a part of a given sentence, and you can say:
+this part of the sentence belongs to such and such system, like “Standard English,” for example,
+and this part of the sentence belongs to another system, like “Black English,” for instance. So, if
+you push the analysis of no matter which sentence pretty far you will see that a sentence is
+always straddling different systems. But they tell us: it is a simple matter of fact. That does not
+prevent linguistics from being constituted as a science that isolates systems, considering each one
+to be homogeneous.
+
+I will give an example of a sentence that belongs to several systems. I am thinking about a very,
+very beautiful text by Proust, one that strikes me as one of the funniest texts in [Marcel] Proust
+when there is a big reception; it’s a big reception at the Guermantes’s, and they’re welcoming a
+grand duke of Russia. The grand duke doesn’t know France well, he doesn’t know French
+customs well, he only knows the situations to be a bit strange, you know? The dancers, all that,
+the dancers, the cabarets, but he still isn’t familiar with the world of Saint-Germain. So he goes
+there... everybody... the grand duke who is very important, and all of the French nobility, all of
+the French aristocracy show their respects to the grand duke, and then it is a language of very
+forced aristocratic politeness. And then there is a French duchess, and there’s a stream of
+running water, there is a stream of running water in the court, and there’s a French duchess who
+passes through, who wants to be introduced to the grand duke, and she passes through the length
+of the stream. At this very moment, there is a gust of wind, and the French duchess is soaked,
+her beautiful dress completely wet, she is very perturbed, draws attention to herself, and while
+she is furious the grand duke, on the contrary, thinks that she did it to make him laugh. He does
+not understand French customs and says, “Look!” and thinking that he’s completely on the mark,
+he starts applauding and cries out, “Bravo, old girl!” It’s this sentence in particular where I pass
+from one system to the other. I move from a system of “the statement of high society” (“Grand
+Duke, allow me to introduce the duchess”) to something completely different, a system of
+plebeian language: “Bravo, old girl!”
+
+What would a language linguist say? A linguist would say: that does not matter; these are just
+extrinsic variables. And regarding these extrinsic variables s/he would say: Well, yes, of course
+
+                                                                                                     4
+
+there’s a transition from one system to another, which doesn’t keep each system from being
+homogeneous on its own account. You have a system of plebeian language that you can study
+linguistically, and then you have a system of language of high society that you can also study
+linguistically. So each one will be defined by their constants. Thus, it seems to me, we are
+always taken up—what I am saying is valid for all of linguistics—we are always taken up by this
+scientific requirement: either intrinsic constants or extrinsic variables.
+
+Given that, what is a statement? Well, a statement is neither a proposition nor a sentence.
+Because a sentence, as we just saw, is made up of different segments, each of which belong to a
+homogeneous system. A proposition falls completely within a homogeneous system. Well, a
+statement “for Foucault” is neither a sentence nor a proposition. Why? Because what defines it
+is inherent variation that makes it pass intrinsically from one system to another. Which amounts
+to what? That a statement is inseparable from a field of vectors. A statement is inseparable from
+a field of vectors, vectors being directional arrows by which the statement ceaselessly passes
+from one system to another system, from another system to a third one in order to return to the
+first and you will not have the outline of a statement if you don’t follow these arrows. And if a
+linguist tells me, “But look, it is due to extrinsic reasons,” it is not true since language expresses
+them with intrinsic variables.
+
+In other words, -- no, not in other words, in the very same terms, the statement is inherent
+variation, intrinsic variation through which I move and ceaselessly pass from one system to
+another. In other words, there is no such thing as a homogeneous statement. Heterogeneity is
+the rule for the statement. Why is it the rule for the statement? There is nothing left to do but
+assert that it is the rule of the statement. Because the statement does indeed have regularity, it
+doesn’t have any homogeneity. The regularity of the statement is what? It is its rule for passage.
+The rules of the statements are contrary to propositional rules. Propositional rules are rules
+according to which a proposition belongs to such and such a system defined by intrinsic
+constants, defined as homogeneous. The statement, on the contrary, only has rules of passage,
+rules of variation, that’s what defines its regularity. In other words, rules of the statement are
+rules of variation, rules that are themselves variable.
+
+Hence the connection I made with the linguist [William] Labov when I was saying that, in my
+opinion, Labov is the only person to have seen something fundamental, to know that there wasn’t
+a homogeneous system in language, and I was struck by how much the dialogue, the debate
+between Labov and Chomsky, is like every debate, a debate of the deaf. Because Chomsky
+responds to Labov approximately like this, he tells him: well obviously, but what you are saying
+is of no importance, every linguist knows that, in fact, a language blends several systems, and he
+adds: that is of no importance because a scientific study of language only begins from the
+moment when, by abstraction, we designate homogeneous systems. Labov says: That is not the
+question. What Labov claims is that it is not legitimate to separate homogeneous systems in a
+language, since there are only passages from one system to another and each element of language
+is itself such a passage, is inseparable from a vector by which we move from one system to
+another. So much so that a statement is strictly inseparable from the lines of inherent variation.
+
+From that point forward, when Foucault talks about a family of statements, there’s a
+misunderstanding that must be avoided, the misunderstanding that would be introduced through
+
+                                                                                                   5
+
+the word “family”. That would be believing that the family of statements is a group of similar,
+homogenous statements in some way. [Pause] Ah....you see, you are already guessing right now,
+I hope, the enormity of the error. What Foucault calls a family of statements is exactly the
+opposite. Because there aren’t any homogeneous statements. What we call a statement is a rule
+of passage from one homogeneous system to another homogeneous system, an internal rule of
+language. Thus, a family of statements is constructed by heterogeneous statements for the simple
+reason that each statement is itself heterogeneous with itself. The statement is heterogeneity,
+there is no statement and there is no fragment of a statement that is not already a passage from
+one system to another, differentiating from them qualitatively. Simply put, one must find-and
+finding the statement will entail finding all of the lines of inherent variation that are at work in
+the statement. Therefore, the only groupings of statements are heterogeneous, since each
+statement is itself heterogeneous with itself. So much so, that a family of statements will simply
+be a group of statements with a rule of passage in between. [Pause]
+
+As a parenthetical, if you can understand all of this, then you can also understand what Foucault
+means when he says, “I was never a structuralist.” Because what is a structure? By definition, a
+structure—and I haven’t used the word because it is too complicated, but now it is easy—it’s a
+system that is determined as homogeneous as a function of intrinsic constants. Even if these
+constants are relations. That goes without saying. I am not saying that constants are necessarily
+terms; in phonology constants are phonological relations. So now we can move forward a little
+using Foucault’s terminology, knowing that each time you find “a family of statements” in the
+Archaeology of Knowledge, don’t think that it means homogeneous statements… [Interruption of
+the recording] [25:51]
+
+Part 2
+
+… It is a milieu of dispersal. A family of statements is a milieu wherein heterogeneous
+statements are disseminated, distributed. From here the field of vectors that constitute the
+statement will define—this field of vectors, or rules of passage from one system to another at the
+level of the statement—this field of vectors or these rules of passage will define what Foucault
+calls the associated or adjacent space of the statement. The statement is defined by its associated
+or adjacent space. What is associated or adjacent space? Hmmmm... [Pause] What is associated
+or adjacent space? [Pause] What is it...I no longer know what I wanted to say. It is the field of
+vectors. That’s essential, you understand, because, maybe, you will be less shocked when we
+later see that Foucault also says this: a curve is a statement. Actually — Hey! Listen, it’s hectic
+in here this morning, huh? [Pause; something or someone interrupts Deleuze from outside]
+
+A curve is a statement; in every case every statement is defined by the field of vectors associated
+with it. Go back to the example I gave you of Krafft-Ebing; I want to be clearer. In the same
+sentence [Richard von] Krafft-Ebing passes from one system, German, standard German, to
+another system, Latin. A linguist will say what? A linguist will say: You see? Well, there are
+two homogeneous systems: the German system, the Latin system. S/he will add: Agreed, KrafftEbing passes from the German system to the Latin system in the same sentence, each defined by
+its own constants, but if he does that it holds no importance for we linguists. That is what the
+linguist will say. Why? Because it happens for extrinsic reasons. Extrinsic reasons of what
+kind? Modesty or censorship? What he says is too crude, so he begins to speak in Latin.
+
+                                                                                                    6
+
+It seems to me that Foucault said: not at all! Okay, he discovers that it is for extrinsic reason,
+right, that he starts to speak Latin all of a sudden, but that does not create an obstruction except
+at the level of the statement. There are intrinsic rules of passage, there is a line of inherent
+variation, so that for Krafft-Ebing, the statement can be defined as follows: a field of vectors that
+determine the passage from the German system to the Latin system. In other words: modesty and
+censorship cannot simply be considered intrinsic variables …, excuse me, as extrinsic variables,
+but there are also, in the statement, rules of passage of an inherent manner.
+
+And if you consider any given statement, you will see that there is an equivalent. Each system,
+each statement, is between several languages and passes from one language to another. Take any
+scientific statement and you will perceive that it does not cease to pass between languages. On
+that point, Foucault gives a great example of a scientific statement on page 48 of the
+Archaeology [of Knowledge]. “If there is unity…” -- he takes the example from a clinical
+statement from the 19th century, a statement from clinical medicine... or, actually, no, it is not a
+statement of clinical medicine, but I think it is a statement from pathological anatomy, which
+does not really matter, a statement of the [Xavier] Bichat or [René] Laennec variety. And he
+says, “If there is unity in a given statement, the principle is not a determinate form of
+statements,” which means that the principle is not a homogeneous system. “Would it rather not
+be the ensemble of rules that are made simultaneously, or in turn -- I am adding numbers -- ...
+firstly, purely perceptive—statements of description, that is—but also secondly, observations
+that are mediated by instruments—instrumental statements, that is—and thirdly, protocols of
+laboratory experience, statements of protocol, which is very, very different from statistic
+calculations—again, a different type of statement—and different from institutional regulations,
+or therapeutic prescriptions.”
+
+A statement of pathological anatomy from the 19th century—we can say as much for any
+statement—straddles a collection of homogeneous systems, not being reduced to a single system,
+but consisting in a field of vectors that cause us to pass from one system to another all of the
+time, and never will we find, never will we find ourselves in the following situation: a
+homogeneous system in equilibrium. Never. Is this science’s dream? No, perhaps it is a dream
+of pseudo-science, since the moment science advances it destroys its own systems of
+equilibrium. Take physics or chemistry, etc., for example. Nothing can be defined in
+equilibrium. There you go, that is what I wanted to say.
+
+There you have the first point. That’s...I was saying that this first point allows me to define the
+statement as a primitive function—I say that out of convenience because...even though Foucault
+doesn’t use this expression—as a primitive function in the sense that mathematicians distinguish
+a “primitive function” from a “derivative function.” Primitive and derivative. Thus, I’m saying:
+the statement as a primitive function is a vector field associated with the statement; that is, its
+rule of passage, which is no more general than it is. These are rules that are no more general
+than the statement, contrary to what happens in linguistics or other structures. This means that
+the statement always functions as a rule of passage from one system to another, no matter which
+level you take it, no matter how small the element under consideration. So much so that by its
+very nature, a statement cannot be separated from its relation with other statements. Because its
+rule is heterogeneity. This is where the idea of a family of statements comes from, or what
+Foucault sometimes calls “a multiplicity,” and he opposes multiplicity to structure. That is the
+
+                                                                                                     7
+
+first point. The primitive function is the associate vector field. That is what I want to be very
+clear. That must be clear now. No problems? No questions? No... good. Beginning with that
+point I wanted to open up another aspect of the problem.
+
+Thus, I’ve started looking at the second major difference. The second major difference, which
+bears this time on the following: it is no longer the case, as we just saw, a relationship between
+the statement and other statements with which it forms a family by virtue of rules of passage, ah,
+ah, ah... it’s no longer that! It is no longer a question of inherent rules of variation, the
+relationship between the statement with other statements; what will it be then? It will be a
+relationship between the statement and that which serves as its subject, object, and concept.
+
+And the major theme of Foucault’s will be: the subject of the statement, the object of the
+statement and the concept of the statement are derivative functions of the statement itself. And
+we can define, in the second place, we can define the statement no longer as a primitive function,
+but by its derivative functions, and we can define it by its derivative functions...that is, the place
+of the subject, the place of the object, and the place of the concept. What does this signify? This
+signifies that: we already know what to expect, that the subject of enunciation will not be the
+same thing as the subject of the sentence or proposition, that the object of enunciation and the
+concept of enunciation will not be the same thing as the signified of a word.
+
+So, we will rediscover, at the level of this second domain, we will discover the same results, but
+in a new light. And this time, the derivative functions of the statement, what no longer appear as
+a primitive function, that appears in an associated or adjacent space, in Foucault’s
+terminology...the derivative functions—that is, the subject of enunciation, the object of
+enunciation, the concepts of enunciation—appear in a space correlative to the statement. So that
+the statement will be defined both by its associated space, its vector field, and by its correlative
+space, which we have not yet defined, but which we only know exposes the subject of
+enunciation, the object of enunciation, and the concept of enunciation.
+
+Ahhhh, it’s all full, completely full. [Laughter; Deleuze refers no doubt to the classroom full of
+students] -- Yes, that is clear for the first point? I find all of this very important. -- Listen: are
+you coming in or aren’t you? [Interruption of the recording due to students entering the class] …
+[39:07]
+
+…Well, um... good. You see what I mean. So, let’s try to determine derivative functions, since
+we can also easily define... we can define the statement by its primitive function—that’s been
+done—and in a way where we don’t have any remaining questions, but it’s already been
+accomplished—and we can also define it by its derivative functions.
+
+So, we saw last time, and we were already there, I think, but it’s such a delicate matter that I took
+care to resume the discussion—and we saw the first feature—the first derivation of the
+statement: what is the subject of enunciation? And Foucault tells us: and, well, the subject of
+enunciation, the statement, is not at all the subject of enunciation of a sentence. The subject of
+enunciation of the sentence, and we already saw how, the linguist can attribute it to the level of
+discourse under the form of the shifter or self-referential. As a typical example, I took the
+linguistics of [Émile] Benveniste. The “I” as the first person, but the true first person; that is, as
+
+                                                                                                          8
+
+a self-referential. “I am going for a walk” is not a true “I”. Why? Because it’s an “I” that is
+strictly assimilated to a “he”. There is no difference in kind between the two propositions: “I am
+going for a walk” and “he is going for a walk.” If you say, “I am going for a walk,” it does not
+differ in kind from “Pierre is going for a walk.”
+
+However! However! If you say, “I swear,” it differs in kind from “he swears.” And why? It’s
+because when you say, “he swears” you describe in the exact same way as when you say, “he is
+going for a walk” or “I am going for a walk.” When you say, “I swear,” you are not describing,
+you are swearing; meaning, you are doing it. When you say, “I am going for a walk,” you are
+not doing it. When you say, “I swear,” you swear. In other words, in this instance the “I” in the
+first person cannot be assimilated to a “he”, because when you say, “he swears,” you are not
+doing it, you are describing it, but when you say “I swear” that’s something different entirely.
+Here, you run into a roadblock, you run into the irreducibility of the “I” to a “he”, or the “I” as a
+pure first person, as a shifter or self-referential. Now, perhaps it is true. Foucault says, but
+perhaps it is true for the subject of enunciation of the sentence, but: is it true for the statement?
+No. Why? Because it is true that the sentence is derived from the subject of enunciation: the
+subject who utters it. Meanwhile, the statement is not derived from its subject, but actually, the
+opposite is the case. It is the place of the subject that is derived from the statement.
+
+From here I would specify: the place of the subject is a derivative function of the statement.
+Everything depends upon the statement. Once the statement has been given, it refers back to
+variable position of the subject in accordance with its nature. Really? Well, but listen: we are
+rediscovering the exact same thing as we did earlier. And it’s not surprising. I was saying
+earlier: logical or linguistic concepts operate by intrinsic constants/extrinsic variables. The
+statement introduces us to a completely different given, lines of inherent or intrinsic variation.
+
+Now, if I return to the concept of the subject of enunciation in Benveniste’s sentence, I will say:
+it is the same thing. It operates by intrinsic constants and extrinsic variables. In fact, what is an
+intrinsic constant? It’s the form of the first person, it’s the shifter, as an intrinsic constant, from
+which the sentence, or from whatever the sentence happens to be, will be derived. Every
+sentence is derived from a subject of enunciation, from a first person “I” that acts, not as a
+subject of the statement, but as the subject of enunciation. I would say: the shifter is an intrinsic
+constant. And if someone were to ask me, “Who is ‘I’?” I would reply: linguistically, it doesn’t
+matter, or, linguistically, “I” is the one who speaks…is “I”, the one who says “I”. That
+demonstrates well that “I” is linguistically an intrinsic constant of what Benveniste calls
+discourse.
+
+And I am saying: this entire way of thinking operates through intrinsic constants and extrinsic
+variables. The extrinsic variable is whom? Is what? It is the one who says “I”. That means that
+perhaps it doesn’t matter who it is. Is “I”, is the one who speaks. In the formula: and “I” is the
+one who speaks, you have combined the position of an intrinsic constant with the play of
+extrinsic variables, and that can be you, you, you or me. Very well. We mustn’t be shocked that
+at the level of the statement everything changes. The statement refers to a place, a position, a
+place of a fundamentally variable subject. It is an intrinsic variable. Rather than the statement
+being derived from the position of a constant subject, a relative position of the subject is derived
+from the statement and depends upon its nature. Meaning, the subject of the statement, as
+
+                                                                                                     9
+
+Foucault will say — actually, no, he doesn’t say it, but that is irrelevant, he thinks it …that
+means that… I’m mumbling, yes? — that is it an intrinsic variable; the position of the subject of
+the statement is an intrinsic variable that unfurls from the statement itself.
+
+Wherefore, the examples that I gave you last time, which are examples that Foucault himself
+gives: a literary text has an author, and there you have a subject position, but a letter does not
+have an author, it has a signatory. A contract has a guarantor, um, a volume has an editor, etc.
+All of that entails subject positions that we cannot trace back to the form of an “I”. These are
+derivative functions of the statement, they are intrinsic variables of the statement. And even
+more: I reminded you that the same statement can have several subject positions. As I was
+telling you last time, a letter from Madame de Sévigné obviously has a signatory, which is
+Madame de Sévigné in the respect where her letter is addressed to her daughter, but her proper
+name also refers to an author with respect to how she figures in literary circles in the 17th
+century, where her daughter provides a copy and reading of her letter. At this very moment
+Madame de Sévigné becomes an author.
+
+Let’s go back to the case of Proust. The text In Search of Lost Time refers to an author who is
+Proust, the subject position, but also passes through a narrator, which is not the same thing as the
+author, but which is also a subject position. What the relationship is between the author and the
+narrator is a problem that, for instance, great critics like [Gérard] Genette have studied very
+closely, or which [Roland] Barthes had studied very closely. Last time I talked to you about free
+indirect speech, which interests me quite a lot, as a decidedly beautiful case of the statement that
+simultaneously refers to several subjects inserted into one another. It is the statement that has
+several subject positions. Very well, thus, I would say that the subject is an intrinsic variable of
+the statement. It is derived from the statement, and not the inverse.
+
+So, well, these subject positions that can be multiple—you already see the theme of multiplicity
+in Foucault—that can be multiple for the same statement...it’s not just that the subject position
+changes from one statement to another, and it’s not the case that all statements have a common
+subject position that would amount to the subject of enunciation. The “I” in this case not only
+changes from one statement to another, but the same statement has several subject positions.
+
+Then, what are these subject positions? We must say that they’re literally the modulations of
+what? Modulations of a third person, the intrinsic variations of the third person, of a “he” that is
+infinitely more profound than every “I”. What is this “he”? Just as I was saying earlier to pay
+attention to the fact that Benveniste’s “I” is not just any “I”... well, it’s the “I” of enunciation,
+and not the “I” of “I am going for a walk,” but it’s the “I” of “I swear.”
+
+This is the same, I would say—but this reverses everything—as the “he” of [Maurice] Blanchot
+and Foucault, which is not any third person, but they completely reverse the schema. They
+would even say: Oh, well, yes, the “he” of “he is going for a walk,” in the sense of “Pierre is
+going for a walk” can be assimilated to an “I” -- they will make the opposite point, Blanchot and
+Foucault, that is, by asking: what is the true “he”? It is the “one”.2 “One” is unassignable.
+Those who know Blanchot remember his beautiful pages on “one dies” ..., “one dies”, which is
+an infinitely more profound idea, and an infinitely more profound expression than “I die.” “One
+
+                                                                                                   10
+
+suffers.” That’s the third person. Elevate something, elevate an expression to the power of
+“one.”
+
+And the intense valorization of the “one” in Blanchot signifies what? That signifies something
+very simple: all subject positions are only modulations of an anonymous “one”. Of a “one that is
+a non-person. And one would say that it’s a Benveniste completely turned on his head. The
+secret of the statement is on the side of the non-person, and we cannot ever say anymore that it is
+the third person when we detach “one” from “he”. We reach the domain of the non-person and
+the subject positions of the non-person are intrinsically variable. “One speaks.” Subjects, no
+matter what they are, as subjects of the statement, subjects of the statement are intrinsic variables
+of “one speaks.”
+
+You will say to me: “one speaks,” what does that mean? Well, uh, a text by Blanchot is
+intriguing in the way that [Franz] Kafka suggests. When I read the text, I don’t even want to
+comment on it, because...it’s a matter of...if that tells you something about this text...” So, it is
+not enough for me to write...”, which is on page 29 of The Work of Fire,3 which applies to
+Kafka. “So, it is not enough for me to write; I am unhappy.” This is the cleanest text, I think,
+where Blanchot explicitly attacks, since he doesn’t say anything, but it is implied, where he
+attacks linguists and the theory of the shifter. “So it is not enough for me to write; I am
+unhappy.” As long as I am not writing anything else, I am too close to myself, too close to my
+unhappiness, so that this unhappiness truly becomes mine in the mode of language: I am no
+longer truly happy. It is only from this particular moment that I arrive at this strange
+substitution: he is unhappy, such that language begins to constitute itself in unhappy language
+for me, to hint at and slowly project the world of unhappiness in such a way that it is realized in
+him. Well, maybe I would feel myself in the cause and my pain would be suffered in this world
+whence it is absent, where it is lost and me along with it, where it can neither be consoled nor
+soothed or satisfied, where, being foreign to itself, it neither remains nor disappears and lasts
+without the possibility of lasting. Poetry is deliverance. But this deliverance signifies that there
+is no longer anything, anything at all, to be delivered from, and I involved myself in the other
+and yet no longer found myself. Very well. Yes, yes, yes, yes, yes. Alright, good. Um.
+"One." So, subject positions are intrinsic variables of the "one speaks."
+
+And when Foucault takes up this theme in Blanchot, he doesn't modify it very much, why?
+Because--and here I don't want to repeat what was said previously; I am just making a point--you
+recall that we saw at what point Foucault's theory of the statement needed a "one speaks," a "one
+speaks" that has what status for Foucault? If I say that he needs a "one speaks," there is no
+difference between Foucault and Blanchot. It might even be necessary to say: he is inspired by
+Blanchot in this case, and it's true. But it's not that he breaks with Blanchot, but that he goes in a
+direction that is no longer that of Blanchot while, in Foucault's case, he tries to determine the
+nature of this "one speaks."
+
+And we saw that this "one speaks" in Foucault, of which all subject positions are variants, is
+what he will call being-language in The Order of Things. The being of language, or the manner
+in which language is ordered at a given moment, a manner that is itself extremely variable...and,
+again, it's not the same manner through which language orders itself in the Classical Age, in the
+17th century and is ordered in the 19th century, so the being of language is always an historical
+
+                                                                                                   11
+
+being and it's this historical being that constitutes the figure of "one speaks," according to a given
+moment. Even though, The Archaeology of Knowledge does not call it "the being of language,"
+as in The Order of Things, but its equivalent is called "there is language." The "there is" of
+language is also an historical "there is," since it varies according to a given era. But once you
+provide the being of language, once you have realized how to determine the being of language or
+the "there is" of language--meaning, the "one speaks"--all subject positions of the statements
+from a corresponding era become variants, intrinsic variants of the "one". This is very
+interesting, in my opinion, because I attach incredible importance to these concepts under
+consideration, which attacked all personology, including linguistic personology. It's very
+interesting that personology found a refuge in linguistics with the theory of shifters.
+
+Hence the elevation of the "one" and of the third person amongst a certain number of authors
+whom I believe are very important. It might even be necessary to draw a connection to a book
+by a great American author, [Lawrence] Ferlinghetti, who titled a novel, Fourth Person
+Singular,4 which is a very important text on... Indeed, we might even need to say that the "one"
+and the "he" are irreducible to the ordinary "he"; this "one" as a condition of language is even
+like a kind of fourth person. Very well.
+
+So, among the most moving texts by Foucault, I think that there are certain texts where Foucault
+tells us, but tells us in his own way, a very discrete way, that he personally does not want that,
+that personally, he does not want to come to his position as an intrinsic variable of the "one
+speaks" from his era. And you find, for example, at the beginning of the small... of the speech
+entitled "The Order of Discourse," which is a speech that Foucault actually gave, you will find
+the following text: “I should have liked there to be a voice behind me which had begun to speak
+a very long time before, doubling in advance everything I was going to say, ‘You must go on, I
+can’t go on, you must go on, I’ll go on, you must say words, as long as there are any, until they
+find me, strange pain, strange sin, you must go on, perhaps it’s done already, perhaps they have
+said me already, perhaps they have carried me to the threshold of my story, before the story that
+opens on my story, that would surprise me, if it opened.” You immediately recognize the author
+of this text; it is one of the great authors of "one speaks," the great murmur, namely [Samuel]
+Beckett. All right. Asserting his place as an intrinsic variable of "one speaks.” There will be a
+Blanchot place, there will be a Foucault place, there will be a Beckett place; after all, those who
+don't like these places won't come. I mean, people will occupy other places, but in a world that
+will not be the world of statements.
+
+And in another text that I already quoted, in a lecture entitled “What is an Author?” the lecture
+ends with: "We can imagine a culture where discourses would circulate and be received without
+the author-function ever appearing.” Indeed, if it's a subject position among others, we can
+conceive of a civilization that would not include this derivative, that would produce statements
+with derived functions, but there would be no author function. So, "we can imagine a culture
+where discourses would circulate and be received without the author function ever appearing. All
+discourses, regardless of their status, form, value, and whatever, or the treatment they are given,
+would take place in the anonymity of the murmur. We would no longer hear the questions that
+have been asked for so long: who really spoke? Is it really him/her and nobody else? With what
+authenticity, or originality? And what did he say from the depths of himself in his discourse? But
+we would hear other questions like these: What are the existential modes of this discourse? And
+
+                                                                                                       12
+
+what kind of family does the statement consist of? What are the existential modes of this
+discourse? Where was it kept from, how can it circulate, and who can be appropriated by it?
+What are the situations that are arranged to make subjects possible? That is the question of the
+subject of the statement...What are the situations that are arranged to make subjects possible?
+Who can perform these various subject functions? And behind all these questions, we would
+hardly hear anything but the sound of indifference: no matter who speaks.
+
+So, at least we have an initial response to our second question: what is the correlative space of
+the statement? I would say: the correlative space of the statement is the order of places, the order
+of the places for possible subjects in the thickness of a "one speaks". These are the functions
+derived from the statement. You see, I no longer define, as I did earlier, the statement by a vector
+field; I define it as an order of places and places in the "one speaks", in the "there is language".
+
+By that I am saying: the subject of the statement, a function derived from the statement itself has
+nothing to do with the subject of the utterance of a sentence. And you will not discover a
+statement if you do assign its subject like a place in, as he says, the anonymous murmur. You
+see that the proper name, which is a completely different function, is no longer a figure of the
+"I", it is no longer a figure of the shifter, it is an intrinsic variant of the "one". It is under my own
+name that I am least a subject... that, no... it's under my proper name that I am least an "I". And
+indeed, your proper name does not announce a personality, it states - which is quite different - a
+singularity that is your place in the "one speaks". Well, understand, the same thing should be
+done for the purpose of the statement and for the concepts of the statement. And if we do so, we
+can say to ourselves that we have finished this very delicate point regarding the statement. Yeah.
+Well, yes. You must feel that... [Deleuze does not finish the sentence]
+
+I was saying: linguistics, not only at the level of the propositions, but at the level of the subject,
+operates by intrinsic constants / extrinsic variables. Intrinsic constants: the shifter. Extrinsic
+variation: the one that comes to occupy a place, the one who says "I".
+
+Let us consider the object, the object of the proposition. At the level of the object of the
+proposition we're going find, not the statement...at the level of the object of the proposition we'll
+find the same thing, so much so that it becomes monotonous, but the more monotonous it is, the
+more that, more that, uh, it's clear, I think, maybe...not sure. What can the logic of propositions
+teach us? It teaches us that a proposition has a referent. [Pause] Or we could say, instead of
+reference, we could say: intentionality. That is, the proposition intends toward something, and it
+is not by chance that the theorists of propositions have naturally found a phenomenological
+vocabulary on intentionality. See [John] Searle recently in... never mind.
+
+I'll stick to larger concerns. I would say that the reference is an intrinsic constant of the
+proposition, and every proposition intends toward something. Every proposition intends toward,
+let’s say, what we’ll call, a state of things: this is its aspect of “assignation”. This is an intrinsic
+constant of the pr... the reference is an intrinsic constant of the proposition. That said, that there
+is indeed a state of things or there isn’t, which is an extrinsic variable. It is an extrinsic variable. I
+say, "The table is green,” uh, which is a proposition that addresses a state of affairs. It turns out
+that the table is white, so in this instance there is not a state of things that fulfills my intention,
+my propositional intent. You understand, the state of things itself is an extrinsic variable to the
+
+                                                                                                         13
+
+proposition, that goes without saying, but that the proposition intends toward a state of things,
+that is an intrinsic constant of the proposition; it's not complicated. Then we can even take it a
+step further. Namely: the proposition "the table is green" keeps all its meaning even when there
+is no state of affairs that fulfills the intention when I was leaning up against a white table, but a
+state of affairs is still possible. It intends toward a possible state of affairs. It is possible, it would
+be possible, for the table to be green.
+
+Another example: "I met a unicorn.” You know that unicorns do not exist. Or "I met a fairy”:
+you know that fairies don't exist. Or, "I met a vampire”: they say vampires don't exist. It's less
+certain, but… but, let's assume vampires don't exist. "I met a vampire": my proposition always
+has a reference, which is an intrinsic constant. Simply put, this time this intention is not the same
+as "the table is green", because this intention cannot be fulfilled, why? Because the reality of the
+physical world excludes the possibility of there being vampires in the world. So, I cannot have
+met a vampire. I would say that the reference of my proposition remains empty. Remains empty:
+that is what we will call a fictitious proposition, such as, "I met a unicorn". So, this time, I have
+an intention that cannot be fulfilled. Earlier I had an intention that could or could not be fulfilled,
+and now I have an intention that cannot be fulfilled; I can call it a second intention; I can even
+conceive of a third intention if I say, “The circle is square” … [Interruption of the recording]
+[1:12:16]
+
+Part 3
+
+… the others being contradictory...but, anyway, the reference to something is a constant of the
+proposition. Whether this reference is effectuated or not is an extrinsic variable. So, we remain at
+the question of intrinsic constant versus extrinsic variable.
+
+Let's move on to the statement. Here, Foucault's texts are very, very difficult in the Archaeology
+[of Knowledge], because Foucault says, “Well, what's going on?” At this point, I have the
+impression that we have everything we need to understand these texts. [Pause] In the end, what
+is given in the conception of the reference of the proposition is always a common world. It is
+assumed that the state of affairs to which the proposition refers is located in a common world in
+the homogeneous system of propositions. For example: "The table is green.” The propositional
+reference will be effectuated, or capable of being effectuated, by an object in the physically
+definable real world. In the so-called physically definable real world, "I met a vampire" is an
+empty intention, since nothing in the physically definable real world corresponds to it, but, but,
+but, but.... I can conceive, secondarily, a fictional world. And I will say: vampires exist in the
+world of fiction. So, I always define a homogeneous world in relation to such homogeneous
+systems of propositions. Likewise, with the square circle, I will define a world of nonsense or the
+absurd. A world common to a whole set of propositions that we will call nonsense. That's what
+Foucault doesn't want.
+
+He gives an example in The Archaeology of Knowledge: "The gold mountain is in California.”
+"The gold mountain is in California." And he says, "How is that a statement?” And I will say
+pretty much the same thing that he is saying, which at first will seem mysterious. He says: well,
+it's a statement because it's not enough to invoke fiction in general. It is a statement, because it is
+not enough to invoke fiction in general, it is necessary to say which specific rules this specific
+
+                                                                                                    14
+
+fiction (the gold mountain in California) obeys as a geological and geographical fiction. It must
+be said what specific rules apply to this geological and geographical fiction.
+
+At first glance, we say to ourselves, yes, okay, but what exactly does he mean by this? I will take
+an example that seems a bit more striking. And of the same type. The Diamond as Big as the
+Ritz. The Diamond as Big as the Ritz must evoke something in those of you who have read it, it's
+very beautiful novella by [F. Scott] Fitzgerald. The Diamond as Big as the Ritz: I read it, and I
+speak for those who have some familiarity with Fitzgerald. It's signed “Fitzgerald”, that is, the
+statement contains his subject position. Why? I would say: who is the author - I might as well
+present him in the form of a sort of riddle - who is the author whose power of fiction passes
+through a theme of rich and modern life, a kind of rich modernity, uh, uh, in a grand hotel, and
+the adventure of this moving, nomadic, rich, prodigal life generates the very themes of fiction.
+The Diamond as Big as the Ritz. With respect to this statement, Foucault would be right to say
+that it is not a question of invoking the laws of fiction in general, but it is necessary to say which
+laws authorize...which specific rules authorize this chemical and geological fantasy: The
+Diamond as Big as the Ritz? My response would be: there’s no need to invoke fiction in
+general—it’s obvious.
+
+If I take a fiction writer, all of a sudden I’ve lost my train of thought... [Charles] Perrault, in
+Perrault’s fairy tales, it's obvious that I won't find diamonds as big as the Ritz. You'll tell me:
+yes, well, that doesn't matter, there wasn’t a Ritz. Yeah, well, uh. But, they'll tell me, you'll find
+diamonds like castles. No, I can't find diamonds like castles. That's a fact... but I could, yes, with
+effort I could. I could: there plenty of magical stones, why shouldn't there be magical diamonds
+in Perrault? Yes, but we'll have to use precise rules for diamond-castles. The precise diamondcastle rules are not the same as precise rules - if we want to be precise - precise cosmopolitan
+hotel rules are not the same as precise cosmopolitan diamond-hotel rules. That fiction is
+generated at the end of a cosmopolitan process, that’s Fitzgerald’s signature, that can be the
+signature of other people, but it is a particular subject position, and, on the other hand, it reflects
+on the object. What's that supposed to mean?
+
+I’m jumping to a completely different topic since it’s about... we are revolving around one of
+Foucault’s themes in order to understand it. There is a text by [Jean-Paul] Sartre that interests me
+a lot. This text of Sartre’s consists in saying: a dream is very delicate, a dream, because it is
+necessary to think about it between two other things. What are the other two things? And well:
+the world of perception. And the world of perception—it’s inside The Imaginary [1940] that he
+develops this theme, in the chapter on dreams –the world of perception is a common world, one
+could say as well a homogeneous world, which is a common world, common to an open plurality
+of subjects. Well, we're all in the world. It's not complicated, no need to... [Deleuze does not
+finish the sentence]
+
+Then he says: there's something else. You know, when you fall asleep, when you're about to fall
+asleep, before you really sleep and before you start dreaming, sometimes you have - or you can
+artificially produce it by pressing on your eye - we can see very particular kind of images that
+we’ll call hypnagogic images or pre-oneiric images, that occur before sleep, or - it is not quite
+the same thing, but it doesn't matter - so-called entoptic lights, lights whose source is found
+inside the eye. If you press on your eye, you know it, you get these dots of light.
+
+                                                                                                       15
+
+And then, Sartre says, these very strange images, the pre-oneiric images of this type, can be
+defined, because they are entirely valid for themselves, they exist without a world, and they are
+separated from the entire world. And he tells us: I can see something very well, for example, by
+pressing on my eye I produce a kind of green surface strewn with white spots and I see a pool
+table, white balls... obviously it's not going to happen, I'm going to have red things that are going
+to appear... Well, you see. I see a pool table with white balls on a green carpet. Or, maybe now
+he's bragging, pretending to have an entoptic glow where he recognizes the face of the Aga
+Khan, Sartre, eh? And he remarks: if the face of the Aga Khan appears to me and I simply think
+that it is the face of the Aga Khan in image, it is a hypnagogic vision. In fact, the entoptic glow
+or the hypnagogic image has the ability to exist as if it is floating in the air. I see a pool table,
+but it's a pool table suspended in air, it's not a pool table in the world. You see: I have the
+perceived pool table, the pool table in the world to which I give intentionality with propositions
+such as "who wants to play a game of pool?", and then I have my entoptic, pre-oneiric pool table,
+which is in the air, which is not in the world.
+
+And he says: the dream is between the two. Because of the dream surrounds itself with a world.
+The essence of the dream is to be surrounded -- the text is very interesting, those who are
+interested will be able to relate to it, it is on pages 323-324 -- The essence of the dream is to
+surround yourself with a world, only the world whose dream surrounds you is never the same as
+that of another dream. It's not the same as another dream. So, we can never talk about the world
+of dreams, except at an abstract level... every dream surrounds itself with a world. Thus, it is
+both different from hypnagogic lights and different from the world of perception. Moreover, he
+said, it is not only every dream that surrounds itself with a world that is different from any other
+dream, however close it may be, but every dream image surrounds itself with a world.
+
+This seems important to me, regardless of any Foucault-Sartre resemblance, because it seems to
+me that this is exactly what Foucault means when he talks about the object of a statement. Unlike
+a proposition that aims for a state of affairs, that considers a reference to be an intrinsic constant,
+and that aims for a state of affairs in a common world of propositions within the same
+homogeneous system, all proposition entail this common world - that is why it is referential, that
+is why a proposition has a reference that can or cannot be fulfilled - that is because every
+proposition refers to a common world that is valid for all the propositions within the same
+homogeneous system. So you understand: what Foucault means at the level of the object is
+exactly what he just told us at the level of the subject. On the contrary, it is each statement that is
+surrounded by a world. Each statement has its discursive object, the discursive object is not the
+object that the proposition is referring to. The discursive object is the world that surrounds a
+given statement in its difference from any other statement.
+
+So henceforth, what am I saying? All that remains is to link this up: the statement’s object is the
+limit of the inherent variation of the type that we talked about earlier. The statement’s object is
+the object that corresponds to the statement as a rule of passage. A diamond as big as the Ritz is
+what? This is the Fitzgeraldian statement that moves from the cosmopolitan hotel to a fiction
+generated by this hotel, generated by the way of living in this hotel. So, I would say: the
+statement’s object, to the letter, is the limit of lines of variation that the statement puts into play,
+or, if you prefer, the very object that corresponds to the field of vectors that corresponds to the
+statement.
+
+                                                                                                   16
+
+So, we understand why Foucault says and tells us: no, you cannot invoke, for example, a world
+of fiction in general. The object of the statement is never more general than the statement itself,
+it is on the same level as the statement. Even more so, it is derived from the statement, it is the
+second derivative, it is the second function derived from the statement, the first being the subject
+position. The object position of the statement is the second dimension. To be precise, the object
+is at the limit of the vector field. It sounds more confusing than the case of the subject, but it's
+exactly the same.
+
+So, I'm going to finish this point very quickly... What about the concept? It's the same thing, it's
+the same story, that's why Foucault's theory of the statement is ultimately very coherent. What is
+the concept? Here again, I am not trying to perform very deep analyses. In the first
+determination, it is the signified, it is the signified of a word. It's not the same as the designated
+or the referent. It's the signified of a word. So I would say: in the classic conception of the
+proposal, we would say that the concept is the extrinsic variable that refers to what? Which refers
+to intrinsic constants, namely the signifier(s). The intrinsic constant is the signifier.
+
+Here too, Foucault has a completely different conception; which is what? What will the
+discursive concept be? We have seen that there was a discursive subject, as the derivative of the
+statement, a discursive object, as the derivative of the statement and, thirdly, as the derivative of
+the statement: the discursive concept, which very strangely Foucault... not very strangely, which
+Foucault sometimes calls (see The Archaeology of Knowledge pp. 80-81) calls a "pre-conceptual
+schema.” I’m saying not strangely, ultimately, because he might as well call the subject of the
+statement a pre-personal subject. [Pause]
+
+And so, what is the concept of the statement, which should not be more general than the
+statement itself? I think we have the answer based on our previous analyses. I would say this
+time, I was saying about the object: the object of the statement is the limit of the vector field or
+the variation line that corresponds to the statement. Now I'd say... you'll understand, it's bright.
+The concept of the statement, the discursive concept, the concept specific to the statement, it is
+exactly at the intersection - it consists in this very intersection itself - at the intersection of
+systems, each of which is homogeneous, but heterogeneous between them; it is at the intersection
+of the heterogeneous systems through which the statement passes. At the intersection of all the
+heterogeneous systems through which such a statement passes. For example, a Krafft-Ebing
+concept will be at the intersection of the double system through which the statements pass, which
+will be its pre-conceptual schema.
+
+Let's take an example. Well, I would say, an example in the specific areas that Foucault studied.
+In the 19th century, statements about a strange disease, a strange disease: monomania, appeared.
+Monomania. Well, here's a discursive concept: monomania. Why in the 19th century? What's
+going on? What is this concept? This implies that psychiatry discovered a very strange type of
+delirium: a delirium of action. I am using this example, because Foucault will have dealt with a
+particularly striking case of monomania, criminal monomania in the case of Pierre Rivière in the
+19th century.
+
+So, what does that mean, a delirium of action? It means that the delusional character is in an
+action and not in an idea. Suddenly a guy kills his father, mother, little sisters, all of that,
+
+                                                                                                     17
+
+everyone gets killed. Or all of a sudden, a guy sets fire to a forest or some haystacks. We isolate
+this in the 19th century. Here!?? And before that, did it exist? There wasn’t a monomaniac
+before? That's the eternal question! As they say: so, what, there was no AIDS before? That's a
+key question. We must be able to show how the question makes no sense. Of course, AIDS
+existed before; it was simply distributed differently, it was distributed in another way. Some
+symptoms belonged to one disease, others to another.
+
+The history of disease is fascinating. The history of disease shows you... because it is at the line
+of several becomings. It is true that there are diseases that appear and then disappear. That's true.
+But there is something else, there is a completely different becoming too—I’m not saying it’s
+more important, but just that the medical field itself does not group or separate diseases at all in
+the same way after this or that period. If you take mania—I’m using the specific examples that
+Foucault analyzed—in The History of Madness, you find a long description, in several chapters,
+of symptomatology in the seventeenth century, in the medical field in the seventeenth century.
+For example, there is a whole clinical picture of what the 17th century called "mania". It goes
+without saying that what the 17th century calls "mania" is not unrelated to what we now call
+"mania", but the differences are very important.
+
+It would be very exciting, it seems to me, to do a history of medicine based on clusters of
+symptoms. Of course, it's not without reason that at one time the medical field grouped
+symptoms in such a way. But you know there is still an autonomous act in the medical field,
+whatever the external reasons are, there is an intrinsic act of the medical field that can be really
+inventive and that affects the problem of statements, the constitution of statements, when, in the
+medical field, there is a kind of statement, statements that suddenly isolate or group symptoms in
+a new way. Well, AIDS is first and foremost a group of symptoms that, until then, had remained
+dissociated. Well, then it's not... it's not a question of knowing... it's not very complicated... the
+question itself... you have to ask yourself, when you ask the question: but, this disease, did it
+exist before or didn’t it? You have to ask yourself under what conditions you are asking the
+question. It can mean two things. Or it means: maybe there was a time when this virus wasn't in
+Europe? That is a question that makes sense. Or it means: this virus was already there, but it was
+not isolated, i.e., the symptoms were not grouped together, they remained scattered in four or
+five diseases and then there were some factors that caused a redistribution of the
+symptomatology and, then, a new disease was isolated.
+
+I’m going to come back to monomania. What caused a set of symptoms to be isolated and
+grouped under the heading "delirium of action" in the 19th century? Maybe for external reasons;
+namely, that there was a kind of bonus, that put a very, very interesting involvement of
+criminology into play, or, more so the rule of law. Epochs have very different kinds of crimes
+from one era to another, and maybe the property crimes that experienced a big increase in the
+19th century, perhaps property crimes, property crimes, have encouraged the emergence of
+monomania as a concept. Maybe. Delusions of action.
+
+Among the forms of monomania, there is a famous one which is querulous paranoia. Querulous
+paranoia is a procedural mania; people who go to trial after trial after trial. Notice that it is rare
+that they combine two at a time, it happens in successive segments, the succession of trials,
+segmental successions of trials. Querulous paranoia is very interesting, as well as what we tell
+
+                                                                                                    18
+
+ourselves about it...well, why is it also isolated to the 19th century? It's very strange. Because in
+the 17th century, in the classical age, there were already querulous people; you know that Racine
+wrote a comedy about it called The Litigants [Les Plaideurs]. It seems that querulous paranoia in
+the 19th century takes on a completely different, a completely new dimension. What dimension?
+Each time you have these groups at the intersection of several systems, you can assign a
+discursive concept. What is fundamental when you consider the concept of a disease? What is
+fundamental about it? A disease can keep the same name and then change completely.
+Completely change the main symptom. What is considered essential?
+
+If you’ll allow me to discuss a subject that interests me a lot, eh, well, I was struck by the history
+of masochism and what interested me in masochism was this: It was that, there too, it had always
+existed, we did not have to wait for Masoch for this perversion to arise. It always existed, but, for
+a very, very long time, the fundamental factor of masochism involved the techniques of pain, the
+imposition of pain. Note: the symptomatology was detailed enough to try to specify: what kind
+of pain. It is obvious that I am taking masochistic type pain as cutaneous pain, i.e., superficial
+pain. This pain is no less atrocious, and the masochist can be, or really be made to be an
+abomination, of the type...but it is of the laceration type, much more than of the penetration type.
+The suffering is intense, yet superficial to the point where I believe that in a case of masochism
+where internal phenomena of internal pain really exists would not constitute pure masochism; we
+would have to look into, we’d have to see what else is happening.
+
+Related to that, what happened with the appearance of Masoch in the 19th century? What
+becomes more and more important in masochistic symptomatology is no longer techniques of
+pain, but the fact that the distribution of pain happens via a contract. This allows me to make a
+statement, and here is the statement: masochism is inseparable from a contract between the two
+partners, that is, most often, it is the woman who causes suffering and the man who suffers. I'm
+not saying that's always the case, but it is most often the case. So, you see that the primary
+symptom is no longer the technique of pain, it's the contract regime. I would say that the
+discursive concept has changed. Why did it change in the 19th century? Well, it involves... there
+is still research to be done... but I would say that, in any case, there is a discursive concept in the
+medical statements, but the same can be said for all other statements; there is a discursive
+concept at the exact intersection of all the systems through which the corresponding statement
+passes. The object of the statement is at the limit of the line of variation of the statement; there is
+a discursive concept at the intersection of homogeneous systems by which... You have to make
+the table of intersections. At the intersection of systems, you can mark the location of the concept
+of the statement. Alright, so far so good.
+
+So... I can conclude. With regard to my second major difference between the statements, on the
+one hand, and words, sentences and propositions, on the other hand, what can I say? I can say
+that this time it is no longer a question of associated space, but, rather, correlative space or the
+functions derived from the statement. And even in three ways: the subject of the statement as a
+derived function, the discursive object as a second derived function, the discursive concept as a
+third derived function cannot be reduced, or confused with the sentence’s subject of enunciation,
+or with the referent object of the proposition, or with the signified concept of the word. The
+discursive object, the discursive concept, and the discursive subject, which are three functions
+derived from the statement, are intrinsic variables of the statement itself.
+
+                                                                                                         19
+
+So as a result, from one end of his theory of the statement to the other, Foucault did not stop
+ripping open the straitjacket, if we can say so, inside the straitjacket where logic and linguistics
+had put us, which consists in imposing on us a choice between intrinsic constants or extrinsic
+variables. At the first level, he will tell us: no, there are inherent lines of variation that are neither
+extrinsic variables nor intrinsic constants, by definition. And, at the second level, he will tell us:
+there are intrinsic variables and it is these lines of inherent variation and intrinsic variables that
+define the statement on all levels.
+
+Now take a break! Think about it for ten minutes... no more, OK? Ten minutes. And then tell me
+if you have any questions, because this is essential for what remains. I'm done with the
+statement, unless there are questions.... [Interruption of the recording] [1:46:57]
+
+… [It’s necessary] that Foucault's original conception of the statement be clear. Note, we haven't
+finished with the statement, but we have finished with the specific question: how does the
+statement not merge with the words, sentences and propositions through which it passes? There
+you go. So it's this point...I would like to, if it's not clear, that... I'm ready to start again...So it's
+clear? Good, then everything's fine. Everything’s good. Everything’s great.
+
+Hence... without anyone noticing it, we have already finished two main themes since the
+beginning of the year. I will very quickly summarize these two main themes, since we are going
+to discuss a third one. My first question was what is an archive? And that was our starting point.
+And the very simple answer was: an archive is audiovisual. But what does audiovisual mean?
+What audiovisual means, we can state in two ways, a broad way, a precise way, and that was the
+whole purpose of the first sessions. The broad way: an archive is made of this and that. Namely
+that it is made of seeing and speaking, it is made of content and expression, it is made of
+evidence to discursivity, it is made of visibility and the statement, and it is made by the visible
+and enunciable. And, we started from the repetition of these words in Foucault's works. To be
+precise, what is an archive made of? On the one hand and on the other hand. "On the one hand
+and on the other hand" means: on the side of seeing and on the side of speaking, on the side of
+the visible and on the side of the enunciable.
+
+First question: what does the archive do on the side of the enunciable? Three things. Three
+elements. A corpus of words, sentences and propositions. A well-chosen corpus according to the
+problem you are facing. As we have seen, I will not go back to that. If we need to go back over
+these points, tell me now, because afterward it will be too late. There you go. A corpus of words,
+sentences and propositions. A well-chosen corpus. If you ask me: why is it well-chosen? I
+already responded to this question, although this answer involves our future, namely the theory
+of power.
+
+Second element: we breed from the corpus, a kind of diagonal, the “one speaks", i.e., how, at a
+given time, language gathers in this corpus. Ah... It's the "one speaks", or the "there is language",
+or the "being of language". Language falls on the corpus and it falls in a certain way.
+
+Third element: at the intersection of the being of the language and the corpus under
+consideration, there are statements. So, you can extract statements from words, sentences and
+propositions, if you started by building a corpus based on the problem you are posing. If you are
+
+                                                                                                      20
+
+interested in sexuality, say, for example in the 20th century, you need to build up your corpus of
+words, sentences and propositions that concern sexuality in this society, in this particular
+formation. You see how this corpus mobilizes language, how language falls on this corpus in a
+certain historical way, and then you identify the statements. We have seen the same process on
+the visible side.
+
+You give yourself a corpus of visibilities.... -- No, ah, no! How stupid of me! No, no, no, no, no,
+no! Especially not, especially not, since that would be a vicious circle in its purest form. -- You
+give yourself a corpus of things, objects, states of things and sensitive qualities. Ah, you see.
+You give yourself a corpus, you build it according to rules, depending on the problem you pose.
+From this corpus of things, states of things and sensitive qualities, and from this you create a
+diagonal, in the way that light falls on this corpus. Light is not a physical milieu. Light in the
+sense of an indivisible entity at such and such a time. Just as the gathering of language is not
+done in the same way following one formation or another, light does not fall in the same way on
+a corpus of things, states of things and sensitive qualities. A formation will be defined by the
+way light falls no less than by the way language gathers. I said a "Gothic conception" of light,
+and not a "Newtonian" conception of light. At the crossroads of the falling light and the corpus
+on which it falls, you release the visibilities which are neither things, nor states of things, nor
+sensitive qualities, but effects of light, or "second light" according to Foucault. Second light
+means sparkles, shimmers, and reflections. In such a formation, what is the mode of shimmers,
+sparkles, reflections…what is the distribution…that will give you the distribution of the looking
+and the looked at. Very well. This implies a very specific historical meaning. Light in the 17th
+century is not the same as light in the 18th century.
+
+Furthermore: understand, Foucault never thought that eras existed prior to what filled them; that
+would be stupid. An era cannot be defined and can only be dated according to the statements it
+possesses and the visibilities it deploys. An era is not an empty form. If I talk about the Classical
+Age, it is according to a given problem, which can vary, that the same age can form an era in
+relation to this or that field or corpus, while not forming one in relation to that of another. If I
+talk about the Classical Age, it means that I can characterize the 17th century by a certain
+number of statements and a certain number of visibilities, depending on any number of problems.
+That is, by a being of language and by a being of light. Light in the 17th century doesn't fall like
+the light in the 19th century. The light does not fall in Velázquez's painting the same way it does
+in Manet's painting, to use two examples that Foucault analyzes.
+
+On this point, I am asked questions that I am reading very quickly and that seem very important
+to me, which, in fact, could be addressed by our research on Foucault by going beyond the eras
+that Foucault explicitly focused on. For example, I think I mentioned a possible history in
+painting - and it was definitely the case – there is a history of the portrait, and I was just saying if
+you take the 19th century, everything novel that really mattered in painting no longer considered
+the portrait as a major theme, or a major aim of painting. And this culminates with [Paul]
+Cézanne, for whom the major theme of painting is explicitly still life and not portraiture at all,
+where there was a kind of destitution of portraiture even when he was still doing portraits.
+However, after Cézanne, there is a return to the portrait. With two very great painters who are
+two of his great successors, namely [Vincent] Van Gogh and [Paul] Gauguin. And you find, in
+Van Gogh's letters, an awe-filled discovery that the age of the portrait was returning. You will
+
+                                                                                                    21
+
+tell me that it’s surprising if you have an impression that Van Gogh lived his work like that, at
+least at certain moments. Remember, for example, the famous portraits of the postman where he
+sees something very important in them, because he is thinking after Cézanne … [Interruption of
+the recording] [1:58:26]
+
+Part 4
+
+... There is a change in the regime of visibilities. The question we could ask is what we see in a
+portraits from the 19th century that we did not see, that was not the same as what we saw in the
+17th century. We can conceive this difference in the course of returning to these problems,
+because we are not done with the visible. We will have to... we will have to...the question
+continues to plague me regarding the relationship between the painter and the model, etc.. I think
+all these questions could fall under the following: if Foucault is right, and it doesn’t really matter
+if he was right or not, but if it is true that Foucault sees paintings, above all, as regimes of light,
+and therefore subordinates line and color to light, then this means that lines and colors separate
+and unite in light, and obviously the regime of light is fundamental and conditions everything
+else.
+
+And indeed, it goes without saying that there is a Van Gogh light. When will Van Gogh be able
+to conquer color? For a very long time he dealt with a mystical fear of color. “Color is too strong
+for me,” in other words, "I am not worthy of the color," and it is at the cost of such torment that
+Van Gogh ends up conquering color! It goes without saying that light is what gives him his
+color, but what challenge posed by light? Van Gogh's challenge posed by light is not
+Velasquez's. At the ground of painting, we should talk about a kind of challenge of light that is
+absolutely fundamental. Oh, well... well, we'll have to look at it since it's essential.
+
+The other question... as I’m finding this text... the important questions that arise for me, and I say
+this because it may not amount to anything, but I am less inclined to deal with them, is: what
+exactly is my relationship with Foucault... uh at least... uh philosophically? Could I note the
+similarities, the differences, and all that? I don't know, it will depend on what you want, but it
+seems to me... anyway, as for the other question, the answer is visibility. That is part of our
+project. So, for the moment, I'll leave it at that. See, we still have two things left, from the point
+of view of the statements, on the side of the st-... we answered the question "what is an archive?
+", but, on the side of the statements, if everything depends on the choice of a corpus, what is it
+really, what are the reasons that allow me to choose the corpus?
+
+And, regarding the second aspect: what is this being of language? This "one speaks"? We've
+barely discussed this, this "one speaks". [Pause] And in the same way, on the other hand, what is
+the corpus that allows us to choose things, states of things, qualities? Think how it exists
+medically: the Laennec corpus. The Laennec corpus, well, uh, for example, it involves the ear
+and percussion. Hearing and percussion. Hearing and percussion that enter into... well, don’t
+enter absolutely, but that penetrate medicine, medical statements, in a new way. There is a
+medical regime of light also. What is medical visibility? Something becomes visible that was not
+visible before. Pathological anatomy makes many things visible. For example, it makes tissues
+visible. What does that mean? Well, before, couldn't we see tissues? No, because tissues are a
+discursive concept. We couldn't see tissues. To see tissues, the concept of tissue must be
+
+                                                                                                        22
+
+constructed, a discursive concept that involves medical statements. Beforehand, tissues were
+distributed differently. Well... all this so... you see what we still have to do, but what I consider
+finished is the answer to the plain and simple question "what is an archive? »
+
+Our second main theme was: what do we know? And then, as it goes on, all this, I summarize, so
+we spent a long time on the question "what is knowledge? » I simply say: nothing pre-exists
+knowledge for Foucault. I mean: knowledge does not presuppose, does not suppose a previous
+object, nor a pre-existing subject. Why? Knowledge is a conjunction. It is a conjunction of seeing
+and talking. The rules of the formation of the visible and the rules of formation of the enunciable
+means that any combination of seeing and speaking constitutes knowledge. This is the summary
+of this second major theme.
+
+There you go. That's exactly where we are now. So, are there any questions to ask? There is
+nothing, or there is nothing beneath knowledge, there is nothing before knowledge and why?
+Because all knowledge is practice. Moreover, all knowledge is at least two practices: a practice
+of seeing and a practice of making statements [énoncer]. We don't see states of things, we see
+visibilities. [Pause] We are not talking about words and sentences, we are talking about
+statements. The conjunction of the two is knowledge.
+
+Hence the need to begin a third major theme in order to move forward. The third major theme,
+you can guess what it is, it is brought about by... What are the relations between seeing and
+speaking? What are the relations between the enunciable and the visible? This will be our third
+theme, which will be considered over several sessions. I’m going to ask one more time: are there
+any questions? Are there any reasons to return to anything that we’ve covered from the
+beginning until now? Ah. No? Good. Well, there you go, there you go.
+
+Third theme: we already set it up because we encountered it in the previous two themes. We find
+ourselves faced with a very complicated problem. Foucault proposes three kinds of texts that
+seem to be very poorly reconciled. Sometimes he tells us: seeing and speaking differ in kind and
+have nothing in common. [Pause] Or, if you prefer, there is a gap or rift between seeing and
+speaking. Or there is a disjunction of seeing-speaking, visible-enunciable. He tells us formally:
+there is no isomorphism. Which means two things. There is no common form to the visible and
+the enunciable, nor is there correspondence from form-to-form. There may not be a common
+form and yet there would be what is called a bi-univocal relation between the two forms. Well:
+neither one nor the other. There is no common form to seeing and speaking and there is no
+correspondence from form to form. No conformity, no correspondence. There is a gap, a
+disjunction to the point that, at this level, Foucault's thought is expressed as a pure and simple
+dualism.
+
+Seeing is not speaking, speaking is not seeing. There again, as we have seen, this is a point where
+he coincides with Blanchot. That speaking is not seeing is a theme dear to Blanchot. We will
+have to ask ourselves as we did with "one speaks", another theme that was dear to Blanchot,
+about this valuation of the third person or the non-person; we will have to ask ourselves what the
+Foucault-Blanchot differences are. But, in short, it should be noted that at first sight Foucault
+strictly follows Blanchot's thesis to the point where he even goes so far as to use Blanchot's
+words, namely: between seeing and speaking there is not a relation but a non-relation. With a
+
+                                                                                                    23
+
+hyphen. A non-relation, the non-relation between seeing and speaking, i.e., radical disjunction.
+In a famous text, on p. 25 of The Order of Things, in a beautiful passage, Foucault says: "What
+we see is never found in what we say.” "What we see is never found in what we say."
+
+And if you have followed our analysis of the statement, you are better equipped to understand in
+detail why this heterogeneity between seeing and speaking exists. It is forced: if you remember
+that the statement does not refer to a state of things, the statement does not refer to a state of
+things in the world, but it refers to an object that is specific to it, to an object that is a function
+derived from the statement itself. If the statement refers, not to a state of things, but to a
+discursive object which is a function derived from the statement itself, it goes without saying that
+there is a non-relation between the statement and the extrinsic object, the state of things in the
+world. Well, there isn’t a common form. In other words: in the being of language and the being
+of light you have absolute heterogeneity.
+
+It's annoying, because that raises the question well... We thought we had answered the question
+"what do we know? ", but, we barely answered, so that everything is put into question. Because
+if there is absolute heterogeneity between the two poles of knowledge, how would these two
+poles constitute knowledge? As soon as knowledge is placed in its form, this form crumbles,
+disperses, is dispersed in both poles. This is the first kind of text of Foucault. This culminates in
+the use of the word non-relation borrowed from Blanchot or in the passage from The Order of
+Things: "What we see is never found in what we say" and vice versa.
+
+There’s a second kind of text in Foucault: the statement has primacy over the visible. But what
+does it mean to "have primacy"? That's not clear. It’s in this second kind of text where you find
+it? You find it all over the place in The Archaeology of Knowledge and, in a way, The
+Archaeology of Knowledge is only about statements. How is it possible that a book called The
+Archaeology of Knowledge only concerns statements? It is because only statements are
+determinate, and if we look more closely we realize that Foucault doesn’t just distinguish
+statements in The Archaeology of Knowledge -- and we can find the dualism that we just talked
+about -- Foucault distinguishes discursive formations, that is, the families of statements, and
+what he calls non-discursive formations, what he calls non-discursive formations, and which he
+only refers to negatively, correspond exactly to our visibilities, which would not be difficult to
+show.
+
+But why does he refer to them negatively in the Archaeology, if they correspond to visibilities?
+For the reason I have just said, namely: only statements are determinate, so visibilities will only
+be treated negatively as non-discursive formations. Moreover, they will constitute the third space
+of the statement. You remember that the families of statements constituted the first space, the
+adjacent or associated space, the derived functions of "object, subject, concept" constitute the
+second space. The correlative space and the non-discursive constitute a third space, which
+Foucault calls the complementary space of the statement. You see that visibilities are
+complementary to the statement or at least to the non-discursive. The statement has primacy,
+what does that mean? This is what Foucault summarizes in a formula from the Archaeology: “the
+discursive has discursive relationships with the non-discursive”.
+
+                                                                                                      24
+
+Well, that's annoying, because it doesn't prevent the statement from having primacy, but -- I'm
+repeating what I already said in…because it leads into our analysis, so I need to repeat it: don't
+confuse primacy with reduction. To say that A has primacy over B never meant that B is reduced
+to A, on the contrary. Moreover, A can only have primacy over B if B does not have the same
+form as A. All right. Indeed, if B had the same form as A, it would not be primacy, it would be
+reduction. What undergoes the primacy of something necessarily has a different form than the
+form of what exercises that primacy. In other words, "having a primacy over" implies an
+irreducibility of what one has primacy over.
+
+In other words, the statement can only have primacy over visibility because as such visibility is
+irreducible to the statement. What The Archaeology of Knowledge recognizes is the following:
+there is no question of deducing the non-discursive from the discursive. There must be a form of
+the non-discursive, and after the analyses we did we are entitled to say that the form of the nondiscursive is visibility with the condition of the being of light, the "there is light.” But you will
+never deduce light from language. Fortunately. From language, you will not deduce the slightest
+crumb of visibility. Language doesn’t have anything to do with seeing. What we see is never
+found in what we say. You can already see the first problem: how can I say at the same time that
+there is a difference of absolute nature; however, there is a primacy of one over the other and of
+course that primacy does not eliminate the difference in nature? But how is that possible? How
+can a primacy exert itself despite the difference in nature while still allowing said difference in
+nature to persist? That's the first problem.
+
+Finally, the third point of view. Not only does Foucault tell us: there is a difference in nature, a
+gap, a disconnection between the visible and the enunciable, not only is there primacy of the
+statement over the visible, but, thirdly, there are, from one to the other and perpetually,
+conquests, seizes, embraces, captures and we see the visible capturing the statement and we see
+the statement tearing away from the visible; they are fighters who embrace each other. There
+isn’t an amorous conformity, but there is a terrible struggle. There's a fight where each one tears
+off the other's limbs. The statement grabs a piece of the visible and visibility in its claws, since
+we have seen that the statement has claws, it is always heterogeneous, and the visible also takes a
+piece of statement, a piece of language. It’s a terrible battle of seeing and speaking! And we,
+poor people, when we are left to our daily lives, we don't understand anything because we live in
+the dust of the fight, and we say to ourselves that this dust testifies to the agreement of seeing
+and speaking, but not at all; it is the dust of their fight that we take as the mark of an agreement,
+yet it is a fighters embrace. In these texts he says it all the time, but especially the little text that
+comments on Magritte - I read you some passages - This is not a pipe... In This Is Not a Pipe he
+affirms this kind of fight several times; in a very beautiful passage he goes so far as to say: "Each
+shoots the the other’s target.” These are not amorous embraces, they’re fighting embraces. Each
+shoots the other's target. This means that the statement shoots arrows at visibility targets and
+visibilities or light shoot arrows at language targets.
+
+Well, work this out... our third text is to work out these three things. They don’t really go well
+together. How can I say at the same time that there is a difference in nature between A and B, to
+the point that there is no common form; secondly, there is a primacy of A over B - and then how
+can this primacy be exerted if there is no common ground; and, thirdly, there is a mutual
+
+                                                                                                      25
+
+presupposition and a common embrace of one toward the other - but how can they meet if there
+is no common form? Each one is fighting a ghost, what is it... How can this be managed?
+
+So, I’m saying you find three kinds of texts on the relationship between seeing and speaking in
+Foucault; the first affirming radical heterogeneity; the second affirming the primacy of the
+statement over the visible; the third affirming reciprocal presuppositions and mutual captures
+between the visible and the enunciable. Well, we are met with a problem. Let me put it this
+way: how is it possible for a non-relation to be deeper than any relation? That is, how is it
+possible for a non-relation to relate to forms between what has been established as a nonrelation? What a problem!
+
+There you go. Well, this account that is at the same time different in nature, includes primacy of
+one over the other, and mutual embrace, would normally - and this is not a criticism - if you had
+done, if you... for those who have done a lot of philosophy or even a little bit, it should
+immediately strike you in the sense of "but! That reminds me of something.” Hence my question
+in this third theme. What I would like to address will relax us a little bit, but it will relax us by
+leading us to other difficulties. This is it: ultimately, yes, it is telling us something, it is supposed
+to tell us something. It's so obvious that Foucault doesn't need to mention it, except on rare
+occasions, it's somewhat similar to a Kantian inspiration.
+
+And, after all, I think we can go even further because Kant is one of the philosophers that
+Foucault read the most, even though he published little on Kant, but he translated Kant’s
+Anthropology, and he devoted a very, very long, ongoing commentary to it, especially in The
+Order of Things, the reference to Kant is… Hence the question indeed… There is., not in all
+Foucault, but, at a certain level, there is a kind of neo-Kantianism, a very particular neoKantianism, because there have been a lot of neo-Kantian schools, and I am not saying at all that
+Foucault belongs to any of these neo-Kantian schools. I am saying that he himself, his thought,
+presents and invents a very particular neo-Kantianism. Because that's what I would like to do....
+So, as a result, we're going to take a little walk through Kant, because maybe we'll find
+something essential there regarding Foucault.
+
+This is where I would like to tell you what happened with Kant, but from the point of view that
+interests us. With Kant came a strange new truth. Namely that man was composed of two
+heterogeneous faculties. So, he was by nature wobbly, crippled. That man was composed of two
+faculties that differed in nature. Ah ah ah! How odd! Did we have to wait for Kant for that? And
+what is this all about? Yes, the fact is that it took Kant to say: man or the human mind is
+composed of two faculties that differ in nature. Why did we have to wait for Kant? That's a good
+philosophical question. Why couldn't Descartes say it? He couldn't do it. It's not their fault, they
+couldn't, it wouldn't have made sense. Ah... So, we have something, if that... well, we have
+something for the whole philosophy.
+
+What is a problem for philosophy? It’s nonsense to believe that philosophers contradict each
+other. Uh…we get a lot from…if we understand that, above all, we risk misunderstanding a lot
+of things in philosophy. So, you have to go very slowly. Kant tells us that we are composed of
+two absolutely heterogeneous faculties and what does this mean for him? We should not rush,
+Foucault's work showed that it was, in essence, the faculty of the visible and the faculty of the
+
+                                                                                                    26
+
+enunciable. Kant's is not that. Kant gives them a name, even several names: receptivity and
+spontaneity, or, if you prefer, intuition and understanding, or, if you prefer - all three are
+necessary - space-time and concept. Space-time as a form. There you go.
+
+What does Kant mean? These are two forms. The form of receptivity, the form of spontaneity.
+Well, what he calls intuition or receptivity is the form where, for us, there is given. The form of
+receptivity is the form that we receive from the given, whatever the given happens to be. For
+example, I have the feeling of white when I look at the table, there is whiteness, a perception of
+white, a feeling of white, white is given to me. I would call “receptivity” the form through which
+white is given to me. But the form in which white is given to me is the same as the form in which
+red or odors are given to me, all that... Good. Kant, following very fine analyses, assigns this
+form the form of space and time. And this form of space and time, in which all that is givable to
+me, or all that is given to me, is givable, this form of givable in general, is space-time, and this is
+what Kant calls intuition. And intuition, for Kant, does not mean something divinatory, it means
+the faculty by which I receive a given as a receptive being.
+
+Are you all right? You have to follow well, because you'll see that it's amazing. It's amazingly
+intelligent and so beautiful. What is the form of spontaneity? What is spontaneity? It is more the
+form in which I receive the given. It's the form in which I know something. To know, indeed, is
+to be active and undoubtedly it is the true activity of man, according to Kant, or one of the true
+activities of man. I know something, that doesn't mean it's given to me, it means a lot more. To
+know. What does it mean to know? To know is to arrange concepts, to arrange concepts. To put
+concepts in relation to each other.
+
+And the concept is something that I form by virtue of my intelligence, it is not something that is
+given to me. A lion was given to me. Suddenly, there's a lion chasing me. The lion is given, it is
+given in intuition, that is, in space and time. I stop and form the concept of a lion… The lion
+concept expresses my activity, as what? As a thinking being. I form the concept of a lion. So, I
+will say that the understanding is the faculty of concepts. The condition under which all that is
+given to me is given is space and time. What is the condition under which all the concepts I form
+are formed? The condition under which all formable concepts are formed, or all formed concepts
+are formable, is the "I think". Only a being who thinks can form concepts. While a lion chases
+me, there is something given, and I am a receptive being. I receive the given. When I form the
+concept of a lion, I am spontaneous, i.e. I am a thinker and form concepts. The concept is the
+spontaneity of thought.
+
+And indeed, it is not difficult to see that the "I think" is the condition of any concept. The form of
+any concept is identity, A is A. Identity, A is A, in fact, does not govern the given, it governs the
+concept. The lion is a lion, it is the statement of the concept "lion". But under what conditions
+can I say "A is A"? One of the most amusing, interesting aspects of Kantian philosophy is
+determining the condition under which I can say "A is A", i. e. forming whatever concept. It is
+how, more profoundly, I can say "me = me", that is, the "me = me" is the foundation of all "A is
+A". It is decisive for the history of philosophy, but it doesn't really matter.
+
+So, I say the condition under which the given is given to me is space-time. Everything that is
+given to me is given to me in space and time. You see it’s not complicated. Kant is not difficult
+
+                                                                                                       27
+
+at all, it takes a lot of trouble to read, but there is clarity in it, it's, it's... the Kantian light is
+something prodigious. You just have to read the same sentence ten times, and there's no
+philosopher who isn't like that. It is only a question of a regime of reading. When someone says:
+philosophers are difficult, it's because they don't want to read the sentence ten times, or they
+don't know how to parse the text. Obviously, to read the same sentence ten times you shouldn’t
+fixate on one point; you should have a vague feeling of what makes up a group of propositions,
+and at that moment you are able to read them ten times, that is clear. Philosophy is truly pure
+light, you can't find anything clearer than philosophy...
+
+So... what am I saying... so, you see, everything that is given, everything that is given to me, is
+given to me under the condition of space and time, where space and time are the form of my
+receptivity. It's intuition. “I think" is the condition of any concept. It is because "me= me" that
+every A is A. That amounts to saying: it is because I think that I think concepts, so that "I think"
+has the form of spontaneity. Space-time is the form of my receptivity, "I think" is the form of my
+spontaneity. Intuition and understanding.
+
+Are you all right? Between the two, there's a gap. Kant is the first to have defined man or the
+human spirit according to a gap that runs throughout. [Pause] You understand, it's not nothing
+when you talk about something great in philosophy, you have to ask philosophers what they have
+brought to philosophy. What people bring to literature, philosophy, etc., is not complicated. So...
+uh... don't let people who don't contribute anything be…hide what the great philosophers
+contribute, but it's not nothing to bring something like that, because it's extraordinarily clear to
+the point that we think, but it's not possible that it hasn't been said before, this kind of
+fundamental imbalance of man.
+
+From here I come back to my theme, it couldn't be said before. Not that the others weren't smart
+enough..., ah ah ah! Well, no, they were as great as Kant, they were also great, but on the other
+hand, on their side they found things that maybe they were already too preoccupied with what
+they found... uh not everyone finds the same thing. But the fact is, what Kant found or invented,
+they couldn't invent it. Why? Why? For a very simple reason. I ask you for a moment to
+suddenly put yourself in God's point of view. Pretend you are God. So, I'm experimenting, huh...
+It's not easy, not easy, but uh, but uh... here it is! I can say one very simple thing, as for God, I
+tell you that for me, God, there is no given. We should not be confused: there is something given
+for poor creatures, which is even the definition of the creature. The creature is someone for
+whom there is a given. But I, God, who am the creator, am the one who gives or does not give, at
+that moment there would not have been anything at all, except me, I would not have created. But
+I create, that is, there is no given for me. I give the creature a creature of another type, that is, I
+make the world. There is no given. That is to say something very simple: from the point of view
+of infinity, there is no given. [Pause]
+
+In other words, from God's point of view, everything is a concept, [Pause] and the given is
+reduced to the concept, the given is one with the concept and the two can only be distinguished
+from the miserable point of view of man. That is, it is from the point of view of the creature that
+the given and the concept are two; from the point of view of the creator, that is, from the point of
+view of the infinite, the given is internalized in the concept. Do you understand? This is very
+important, and it is obvious that from God's point of view there is no given, that is why it is very
+
+                                                                                                    28
+
+important that God does not create the world with this or that material, that he creates the world
+with nothing, creation ex nihilo, which will define Christian theology and where all heresies will
+be tested. You see, you are heretics as soon as you do not take literally the idea that God creates
+the world out of nothing, otherwise the point of view of the infinite is completely turned on its
+head. Well, listen, it's very simple, so you may understand very easily. Hence a text, for example,
+that I will take an example: Leibniz, a philosopher of the late seventeenth and early eighteenth
+centuries. Leibniz tells us... That's the problem with Leibniz, a fascinating problem, Leibniz was
+one of the greatest mathematicians of his time, a very, very great mathematician in addition to a
+very, very great philosopher.
+
+And this is the problem with Leibniz, he says: can there be two drops of water, two tree leaves,
+two hands, etc., that are absolutely similar, so that each point of one corresponds to one point of
+the other, i.e., there is no difference... of what? That there is no difference in concept. Can there
+be two absolutely identical drops of water, two absolutely identical tree leaves, two absolutely
+identical hands? Leibniz says: we think so, but we are miserable creatures. We think so because
+our mind is finite. And since our mind is marked by finitude, since we cannot go to infinity, we
+quickly stop specifying our concepts. And then we form a concept of a drop of water that is
+suitable for several drops of water, but, says Leibniz, this is not the case for God. God has an
+infinite understanding that contains all possible concepts, and these concepts go to infinity, that
+is, in God's understanding, the specification of the concept is infinite.
+
+As a result, in God's understanding, if there are two drops of water, there are necessarily two
+concepts. They will not have the same concept. In other words, if we push the analysis far
+enough, we will always find an inner characteristic that distinguishes the two drops of water, and
+a drop of water is not the same as the neighboring drop of water. In other words, you understand
+what Leibniz sums up by saying: all difference is in the concept. Which is another way of saying:
+there is no given, or at least the given is reduced, the given is reduced to concept. Yes. Yes, if
+God's infinite understanding exists. There you go.
+
+Kant opposes Leibniz and, again, only fools say "Kant contradicts Leibniz" or "philosophers
+contradict themselves.” Kant tells us this: well, we're going to do a test, you consider two hands,
+your two hands, both hands, both yours, these are my own personal ones, you cut them, you
+notice: you don't have any trouble cutting one hand, the other one is more delicate, [Laughter]
+for the other you need the support of a neighbor, but we can still imagine that it works. You take
+both hands, you cut them, we don't know how—you look at them. You can think them as
+absolutely... think them... I don't wonder how they are given... You can think of them as being
+absolutely identical, that there is no difference in their features.
+
+In fact, Leibniz is right in fact, everyone knows that no two leaves are the same, no two hands
+are the same without any variation in lines between right and left. But Kant says: that's not the
+question, you can think of two absolutely identical hands and yet that doesn't prevent them from
+being two. Moreover, even if they are completely identical, you will never be able to make them
+overlap, they are not stackable; there is a right hand and a left hand. A crazy paradox. You can't
+make the two hands overlap, ah, as similar as they are... impossible! The paradox is not
+fundamentally incomprehensible, it is that you can only overlap them if you have an additional
+dimension. You can't superimpose two similar trihedrons opposed at the top, why? Because two
+
+                                                                                                    29
+
+trihedrons have volume, you could only superimpose them if you make them move in the fourth
+dimension. Since the lived world has no fourth dimension, you cannot superpose them…
+[Interruption of the recording] [2:44:40]
+
+Part 5
+
+… Kant tells us: you can push the specification of the concept as far as you want, but you will
+never reduce the given to the conceptual. There is, in the given, something irreducible to the
+concept, that something is the position in space, namely: right and left, top and bottom, etc.
+These spatial determinations are irreducible to any conceptual determination. All right. We find
+Kant's idea: heterogeneity between space-time on the one hand and the concept on the other.
+Good.
+
+I’m coming back to my question: why? Why? Why? Why? Why? Why can Kant discover this
+and why couldn’t Leibniz? We have the answer. We have the answer: it is true that we’re talking
+about philosophy in the 17th century - I am not saying that that’s all it is - philosophy in the 17th
+century, whatever its relationship with religion happens to be, is quite different, and is a
+philosophy that is made and thought from the point of view of infinity. What then defines, to
+follow Foucault's example, the basic statement of 17th century philosophy, of the Classical Age,
+is the Descartes statement, which no philosopher would question... if, moreover, there are any,
+but rather marginal philosophers, uh... infinity is first compared to the finite.
+
+[Maurice] Merleau-Ponty, in a very beautiful text, tried to define philosophy in the 17th century
+when he said: it can only be defined as this: an innocent way of thinking about infinity.
+Philosophy in the 17th century, the Classical Age, is an innocent way of thinking about infinity,
+it boldly thinks about infinity. And, you see, this culminates with Pascal. And the distinction of
+the orders of infinity, the finite being only, finally, a kind of thing that gets stuck between
+different orders of infinity. Finitude does not have its sufficiency. Finitude derives from infinity
+and from the orders of infinite and from the infinities of different orders. If this classical thought
+ends with Pascal in a certain way, it is with the conception of the orders of infinity.
+
+Well, then, understand, I wouldn't want to develop this point too much, but I can tell you... tell
+me if you understand, in a philosophical thought that privileges the infinite over the finite, that
+sets the infinite first over the finite, is completely precluded from grasping heterogeneity
+between the given and the concept. For a simple reason, from the point of view of infinity and
+within infinite understanding, the given is completely internal to the concept. The understanding
+of God, divine understanding, is always invoked by philosophers in the 17th century, of which
+ours is only a part, or an image - Spinoza will reply: our understanding is a part of divine
+understanding; Leibniz or Descartes, in another way, will say that man's finite understanding is
+in the image of divine understanding, simply it is finite, while divine understanding is infinite -
+divine understanding and God, first in relation to the finite, guarantees homogeneity of the given
+to the concept, namely: from the point of view of infinity the given is reduced to the concept.
+There is an infinite specification of the concept, and it is only because we are finite that we
+believe in the consistency of the given. And, from our creature's point of view, that can be
+explained, but our creature's point of view is that of finitude. It is from the point of view of
+finitude, therefore from a derived point of view, from a secondary point of view, that I can
+
+                                                                                                       30
+
+oppose the receptivity of the given and the spontaneity of the concept. But in itself, that is, in
+God, the given is confused with the concept.
+
+Do you understand? Then it only takes you a little bit to grasp everything. What makes Kant
+capable of saying: no, there are two heterogeneous faculties, intuition and understanding,
+receptivity and spontaneity, space-time and "I think"? Well, this is a fantastic move from which
+modern philosophy has barely emerged or, at least, from Kant’s announcement of a new era of
+philosophy, a new formation of philosophy, namely: Kant is the one – to speak, to sum up very
+roughly -- he is the one who establishes finitude as a constituent principle. Kant opposes the
+classical distribution of the Classical Age, constituent infinity and constituted finitude - and this
+is a senseless revolution in philosophy - he opposes the point of view of a constituent finitude. It
+is man who is the constituent, it is the human spirit that is the constituent, and not the divine
+understanding. And it is constituent not because it would have infinite power, it is constituent, on
+the contrary, in its finitude itself and in the forms of its finitude.
+
+The idea, once again, that finitude can be constitutive is a senseless philosophical move! Really
+far-reaching, uh, uh, uh... I don't know, I'm looking at other domains, it's exactly like moving
+from one musical regime to another musical regime... uh, I'm looking for equivalents in painting,
+I don't even know... in architecture, we might find some... it's a revolution, it's a fundamental
+revolution. From Kant, you will seek the foundation not on the side of the infinite, but on the
+side of the finitude itself. It is the forms of finitude that are formative, so finitude is constitutive.
+Therefore, at that time, what the 17th century could neither see nor say was, on the contrary,
+what Kant was forced to see and say. If it is the finitude of man that is constitutive, then, indeed,
+the given and the concept do not meet. Since, in fact, they only met from the point of view of
+God's understanding, from the point of view of God's understanding for which there was no
+given. On the contrary, what is constitutive is finitude, the gap; the disjunction between intuition
+and concept is irreducible and can never be overcome. [Pause]
+
+There you go. I would like you to have an idea of what it is, in effect, a great philosophy. We
+can't say about Kant that it’s a matter of taste, eh! I mean, what's a deeply philosophical matter of
+taste is if you feel an affinity with Kant, but the importance of Kant, for example, is not a matter
+of taste. Kant, for example, can be credited with this kind of upheaval that causes all problems to
+be changed when they are reduced to a constituent finitude instead of being reduced to divine
+infinity. So, that means that what is essential is why what could not take place before Kant, the
+radical heterogeneity of intuition and concept, of the given and the concept, or, if you prefer, of
+space-time and "I think", appears. As a result, we'll have to find some kind of diversion.
+
+There you see why, when Foucault finds this kind of immense gap between seeing and speaking,
+one feels like there is a slight commonality, because, finally, I can say that in Foucault there was
+a sufficient criticism of "I think" – and there’s a rupture with Kant in this respect - so that "I
+think" is replaced by "there is language". It is Foucault's criticism of the cogito, how it replaces -
+and we will have the opportunity to see it - how it replaces "I think", the cogito, with "there is
+language" or, if you prefer, with a "whisper". Likewise, it replaces the given, the intuition, or, if
+you prefer, it replaces space-time with light. Here too it would be relatively modern, because,
+notice, the overcoming of space-time towards light is something that has crossed both the
+sciences -- with relativity -- it is like a modern correction of Kantianism.
+
+                                                                                                     31
+
+So, he makes this double correction: not intuition, not space-time, but light; not thought, not
+cogito, but language. But where he is neo-Kantian is between these two new instances, which are
+instances of finitude, he explains in The Order of Things that what Kant changes when the
+infinite gives way to constituent finitude, and that is how he understands Kant -that he will have
+understood Kant - he was not the first to understand him in this way, but this is how he draws his
+own philosophy in this apparently neo-Kantian format, namely : heterogeneity of the visible and
+the enunciable and nothing will be able to fill this gap between what we see and what we
+enunciate, between the visible and the enunciable. Fine.
+
+But, once you say there's this gap, and that it was Kant who dug it up or discovered it, how does
+Kant do it? There must be a relationship between space and time... If Kant was talking... He
+doesn't talk like that, but it's not very far off, because he talks about heterogeneity, about
+difference in nature, but he doesn't use the word "gap" which is romantic, or "fault", any of that...
+But he asks the question: but, my God, since these two faculties, space and time and "I think",
+differ in nature, how is knowledge possible? If you prefer, how is it possible to know something?
+That is, how can we combine the given and the concept? Since knowledge is always a
+combination of the given and the concept. How is this possible, since the two faculties are
+completely different in nature?
+
+Now, what does Kant tell us? It will be for the next time, I will finish here because there is
+enough…uh…he tells us: we must - I quote more or less, at least in spirit, but almost word for
+word - a third faculty must intervene as the most mysterious art buried in our soul. Not to fill the
+gap, but to connect the two faculties despite their gap, we need a mysterious art buried in our
+souls as the deepest secret, and Kant will call it, and Kant will say, yes, a faculty, a third faculty,
+which would be, on the one hand, homogeneous to space-time and, on the other hand,
+homogeneous to thought. A completely twisted, very, very mysterious faculty, which has a
+name: the imagination. And it is the imagination that establishes a relationship between the two
+faculties that are not related, intuition and thought. And the act by which the imagination
+establishes this relation in the non-relation is what Kant calls the schematism of the imagination.
+
+And what interests me is that I believe that, given the differences, Foucault faces the same
+problem and the hesitation, the ambiguity of the three kinds of texts I just cited, which I am
+leaving, testify to the same problem, namely, whether the two forms, the form of the visible and
+the form of the enunciable, form a gap, differ in nature in such a way that their gap cannot be
+filled. It will be necessary for a third party to intervene, which is at the same time, on its side,
+homogeneous to the form of the visible and homogeneous to the form of the enunciable.
+
+So, will this third party be the imagination? What will its name be? We'll see. But we're not out
+of trouble with Kant himself. Because, even the imagination, how will it form a relation? It is not
+self-evident, it is a very special type of relation; it is the point where the non-relation must be
+relayed by a relation. It is a very complicated operation that will not even be a process of
+relating. The non-relation must be maintained at the same time as a relation is introduced in the
+non-relation. The Schematism is the most mysterious art. Well, in Foucault also there is a very
+mysterious art that will bring together statements and visibilities through a non-relation. [End of
+the session] [3:10:17]
+
+                                                                                                                   32
+
+Notes
+
+  The Anglophone equivalent to AZERT is QWERTY, the first five letters on the left side of the top row of a
+keyboard.
+  The French pronoun for “one” is “on”, which can also be used to refer to “they”, “we”, or an indefinite subject,
+unlike in English.
+  Maurice Blanchot, La Part du feu (Paris: Gallimard, 1949) ; The Work of Fire, trans. Charlotte Mandell (Stanford:
+Stanford University Press, 1995). Deleuze develops his analysis of this same text by Blanchot on Kafka in session 2
+of the seminar on Anti-Oedipus and other reflections (June 3, 1980).
+  In fact, Ferlinghetti's text is Her (New York: New Directions, 1960); the French translation is titled La Quatrième
+personne du singulier (Her) (Paris: Julliard, 1961).

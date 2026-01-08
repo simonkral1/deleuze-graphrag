@@ -1,0 +1,978 @@
+1
+
+Gilles Deleuze
+
+Seminar on Cinema: Classification of Signs and Time
+
+Lecture 6, 21 December 1982 (Cinema Course 27)
+
+Transcription : La voix de Deleuze, Franck Baron (Part 1), Una Sablajakovic (Part 2), et
+Franck Baron (Part 3); additional revisions to the transcription and time stamp, Charles J.
+Stivale
+
+Translation, Charles J. Stivale
+
+Part 1
+
+… For the return to classes, right? And since you're not going to remember, that's going to cause
+problems, but you really have to remember, right?
+
+So, there you have it: we are in this story of Peirce, and what we saw is, you remember, the
+distinction of three types of images in his work. And these three types of images for him, it is
+Firstness that corresponds, roughly, as we know in advance, to our affection-image; it is
+Secondness that corresponds, roughly, to our action-image; and it is Thirdness that corresponds
+to what? At the moment, we don't know; from our previous session, we are just retaining that this
+Thirdness has for characteristic the domain of the mental according to Peirce, what he himself
+calls the "mental", that is, "something thought" [le pensé], the domain of "something thought",
+all that is "thought", and that Peirce expresses it under the example sometimes of the law, a law,
+sometimes of signification, sometimes of the relation. And we had seen that the best way perhaps
+to define this mental domain of Thirdness was the relation taken in its two senses -- and this is
+what I had tried to develop the last time – namely, in the sense of concrete or natural relation --
+first sense -- or in the sense of abstract relation -- second sense.
+
+And here I insist on this summary so that you have that truly aggregate in your mind; this
+distinction seems to me very important of two meanings of the word "relation" that many other
+philosophers than Peirce -- which still does not appear in Peirce, but that does not matter, it’s of
+no importance – that many philosophers have sensed and indicated, and I was saying, it would
+seem to me to correspond to something quite concrete when we speak of relations. Once again,
+all relations are external to their terms, no problem. But there are relations which consist of this:
+how a given image leads naturally -- understand, effortlessly -- to another image which is not
+given, which was not given. An example once again: a photo reminds me of, the photo of Pierre,
+reminds me of Pierre, and as Hume said, "smooth transition", that's what we would call a natural
+or concrete relation. The resemblance here acts, the resemblance between the photo and the
+model acts like a concrete relation.
+
+And we noticed that there is all the more reason to call it natural or concrete since these effortless
+transitions do not go far. They scatter very quickly, or else they are interrupted. A natural
+
+                                                                                                       2
+
+relation works between two things that resemble each other greatly. But as we have seen a
+thousand times, anything looks like anything else; it’s enough to find the point of view, and there
+you don't have a natural relation. The photo of Pierre reminds me of Pierre, Pierre reminds me of
+Paul who looks like him. But from resemblance to resemblance, the natural relation will quickly
+deteriorate. And there, it will no longer work. There will be no more transition; there is indeed a
+“smooth transition” from A to B, from B to C, from C to D, and therefore at the extreme, from A
+to D, but beyond: that no longer happens; natural relations wear out quickly.
+
+Whereas you remember the abstract relation, it is not a "smooth transition" leading us from a
+given image to the image of something that was not given. The abstract relation is a
+circumstance which determines a comparison of the mind between two images which are not
+relatively related. If I say, for example, between A and X, what resemblance is there? Since
+anything looks like anything, there will always be a circumstance whereby any two things
+whatsoever will be alike, ultimately, because they are things. Good. And the circumstance or the
+reason why I compare two ideas, two images, which are not in natural relation to each other, that
+is an abstract relation. See, there are therefore two meanings of the word “relation”.
+
+So, I have that, we’ve reached this point: Firstness, Secondness, Thirdness according to Peirce.
+These are the three types of images. On that point, the problem in my opinion, it seems to me, is
+a very, very important one: how does an image become a sign? And this problem, as Peirce
+creates this new discipline -- semiotics or semiology -- this problem must be fundamental for
+Peirce. For after all, every sign is an image, but every image is not a sign. We will call "sign"
+certain special images.
+
+So, see that "sign" launches us into a whole new element to discover, into a whole new world. I
+have my three types of images, fine, one, two, three, but then the "signs", and why is there the
+need for "signs"? Well, I say to my amazement, or in general amazement anyway, Peirce doesn't
+care that much about this problem. You really have to look through the pages, and yet there are
+pages where one can discern his conception: "why do images give rise to signs?" and "what is
+the difference between an image and a sign?” And it seems to me that for him, there are two
+answers: he always tells us, well, see, a sign is always a Thirdness. Ah well, that will complicate
+things because if a sign is a Thirdness, it is because, in a sign, there are "three". In any sign, there
+are "three". But it is out of the question to confuse Thirdness and sign, in the sense that any sign
+is Thirdness, but any Thirdness is not a sign. Thirdness is a type of image. It is not by itself a
+sign.
+
+So, if it is true that every sign is a Thirdness, the question becomes: What type of Thirdness will
+require, demand to be called sign? And Peirce's first answer is that Thirdness is the domain of
+the mental, of something thought, but something thought does not therefore constitute
+knowledge. All that is thought does not constitute, does not form knowledge, and that the sign is
+a Thirdness constituting knowledge. [Pause] In other words, it is a Thirdness since the domain of
+Thirdness is relation, well, he tells us, the sign is a Thirdness which constitutes a cognitive
+relation. [Pause]
+
+Fine, we tell ourselves fine, [Pause] but at that point, this is a program to be fulfilled. He gets a
+little more specific when he tells us this: well, a sign is a Thirdness that makes relations efficient,
+
+                                                                                                     3
+
+but this doesn't explain much. Here, I'm already more interested. Notice that the two are equal,
+because maybe making relationships efficient is an excellent definition, perhaps, of the act of
+knowing. It would be an original and perhaps very satisfying definition, which would answer the
+question: "what is knowledge?". Knowledge is an operation that makes relations efficient. Good.
+What does that mean?
+
+This implies that relations, you remember, they belong to the image of Thirdness, they belong to
+Thirdness, but by themselves, they are not efficient. Why? Abstract relations! Concrete relations
+that naturally shift from one image to another image, are they efficient? Not exactly. In Peirce's
+vocabulary, we should say that they are put into action, they are put into action, they act, that is
+not what efficiency is. And abstract relations, they are inefficient, in fact, as long as I grasp them
+as a pure image of Thirdness. I see fit, a circumstance by which I see fit to compare two ideas,
+two images arbitrarily united. The very definition of the abstract relation, they are not efficient.
+Concrete relationships act, they cause the mind’s movement from one image to another, but they
+are not efficient: they act. They are active, or if you will, they are acting [agissantes]. And
+abstract relations, they're inefficient. I am comparing two ideas arbitrarily united in the
+imagination.
+
+What does it mean, to make relations efficient? I guess, although he doesn't explain much about
+it, I guess that means making them operative. And that's why I attach a lot of importance to what
+I suggested the last time, that it is impossible to think the relation; this is the only contribution
+here that I would like to offer you. For the moment, there, in this perspective, impossible to think
+... if philosophy has failed in, or has encountered so much difficulty in an effort to think the
+relation, it is because we have not seen enough or not said enough that the relation strictly
+implicated, enveloped change, because we did not see that the relation was in the domain of
+becoming. I am stating a platitude, but it's true, this is how it is. If we see that the relation is
+inseparable from becoming and change, there I think it becomes much easier to think it.
+
+But that does mean that the relation itself is, how to say, dependent on a system of relationships
+between relations such that relations can be transformed into each other. I would say that at that
+point, relations become operative. What does science do? What does math do? They make
+relations operative. Not just any situation... and not just any relation maybe; relation of situation,
+one could even distinguish branches of mathematics, relations of situations are made operative;
+quantitative relations are made operative; linear relations are made operative, whatever you want.
+We could define mathematics as the first system which makes relations operative or efficient. All
+right, so let's accept all that for now.
+
+And we have a definition of the sign which is: the sign is an image of Thirdness defined by this,
+that it makes relations -- relations referring to Thirdness -- that it makes relations efficient. Oh,
+but here we have a definition like that. I mean, this is a purely nominal definition. So concretely,
+how will a sign be composed? One must discover some Thirdness in it. Well, yes, Peirce tells us.
+What will be the real definition of the sign? When I say: the sign is a Thirdness which consists in
+making relations operative, I only have a nominal definition. I am not saying what the sign
+consists of.
+
+                                                                                                        4
+
+If I look for a real definition which states what the sign consists of, very well, what Thirdness
+will the sign consist of? Peirce tells us, well, a sign is an image: one, two, which is valid for
+another image; [Pause] three: through other images that relate the first to the second. This all
+sounds annoying, but it seems to me, that's what a big, big part of modern philosophy has been
+built on. That's why it's important, this kind, to me, this kind of return to Peirce. Let me explain:
+you see that in this real definition of the sign, what is important is that, in fact, it is clearly a
+Thirdness. It is an image which is valid for another image by the intermediary of other images
+which refer the first image to the second.
+
+Let's explain ourselves better with the words Peirce uses. The sign is an image; in itself, it is an
+image; this is its aspect, I would say: this is the Firstness of the sign. This is the sign in itself. He
+calls it: "representamen". [Pause; Deleuze writes on the board] It is the sign in itself, the
+Firstness of the sign, the sign considered as an image. This is valid for another image. This other
+image for which it claims to be valid, [Deleuze writes on the board] there he calls it -- curious,
+this alternation of bizarre words and quite ordinary words, he plays on it a lot; we will have to
+ask why as well -- he calls it: "the object".
+
+Understand that the object of a sign does not need to be real. A sign is an image, and its object is
+another image. Sometimes the object is a real object, sometimes the object is not a real object.
+The drawing of a Centaur is a sign that applies to an object, an object which is not real. [Pause]
+Fine. That, I would say then, the object, that is, the image for which the sign claims to be valid, is
+the Secondness of the sign.
+
+Third, through the intermediary of other images, which relate the first, the "representamen", to
+the second, the object, [Deleuze writes on the board] and that, he will call it, and that's what
+poses such a problem when, [Deleuze writes on the board] when we started to know Peirce, his
+texts, he calls that “the interpretant”. This is the interpretant of the sign. The images that relate
+the first image to the second... What?
+
+A student: In general, people who read Peirce never understand it like that; they always manage
+to understand something other than that.
+
+Deleuze: Yeah, yeah. You see what a misunderstanding it would be to believe that the
+interpretant is an interpreter. Peirce has always, and some of his followers in America, rushed in
+that direction immediately. For what purpose? To create a psychology of the sign. But Peirce is a
+logician who, as such, does not like psychology at all and claims to reject all psychology. The
+interpretant has nothing to do with an interpreter. The interpretant is the set of third images that
+relate a first image to a second image for which the first image claims to be valid, but such that it
+could not have this claim without the interpretants. It is this system that makes relations efficient.
+So obviously, phew, an example; let's select an example. See already the importance of this
+triadic system because if you compare it, roughly, with a contemporary of Peirce who is well
+known to him in France, [Ferdinand de] Saussure -- he is not French, but he is well known in
+France. [Laughter] -- Well, it is well known that the whole theory of the sign from Peirce is
+based on a kind of dual distinction: signifier-signified...
+
+A student: From Saussure!
+
+                                                                                                          5
+
+Deleuze: From Saussure, sorry... I said ... Yes! Notice that it is already relatively important for us
+that Peirce absolutely cannot fit into this, into such a lineage. Hence the importance of his idea of
+Thirdness. There is no place for the signified, the signifier, all of that. It's, it's a whole different
+atmosphere, okay. But phew, some examples, really, I mean, we ask for examples. The French
+presenter of the book, about whom I told you how excellent he was, gives one [example], but one
+which is obviously worrisome since he will select a linguistic example. And I too, I remind you,
+I am very attached to the idea that for Peirce there is no difference in nature between signs which
+would be natural and signs which would be conventional.
+
+So, we'll need at least two examples; it's up to us to find another. Following the example of that
+commentator, of [Gérard] Delédalle, he chooses a word, and he says: let's take the word
+"grenade".1 There it is: this is a sign. [Deleuze writes on the board] In what sense? The
+"representamen" is the word considered in itself, what linguists would call: "the verbal image",
+you know. The word claims to be valid for something, this something being another image. Ah
+yes, but what? What? I can tell the object, well, it's a city. [Deleuze writes on the board, no doubt
+“Grenada”] In other cases, I can say, the object is a fruit. [Deleuze writes on the board] In yet
+other cases, I can say the object is a weapon.
+
+What makes me choose? What makes me select are the interpretants. Namely, for example, an
+entire verbal context for which it is a question of Spain, Spanish cities, what there is in Spanish
+cities. I situate myself with this series of interpretants, I situate myself and I say, when I hear the
+word "grenade", the object is the city! -- [Deleuze speaks in a very low voice] I hope it's in Spain
+[Laughter], I'm wary, I'm wary of everything now, fine -- If I hear, however, if I have a series of
+interpretants of the type: demonstration, police, etc., I tell myself: this is the weapon, this is the
+weapon, so if I hear "a Grenada grenade", I have a short circuit of two sets of interpretants, fine,
+etc. See what Peirce means when he says the "one" of the sign only relates to "two" through the
+intermediary of interpretants, only through the intermediary of three. One can say a very simple
+thing. In fact, if I remain at one, two, the subject will necessarily be incomplete to say the least.
+Or else, it will remain indeterminate, that is, disjunctive. It is either a city, or a fruit, or a weapon,
+or it will remain incomplete. It is therefore only the three, that is, the interpretants which
+completely relate one to two and, thereby, make the relation efficient, operative. So, he is in the
+process of keeping his bet.
+
+I am saying, I need an example of natural signs because I care greatly about, because there is no
+difference between natural signs and conventional signs. It's fine if you understand that; that
+already removes all kinds of linguistic problems. There are differences, but they arise from
+entirely others, at very low levels, really... very... There, there I am walking, I am walking in the
+forest, and I see a track; a track is a sign. I am saying, the track in itself, the track in itself, is not
+a "representamen" in Peirce's language. It is a sign, the object. I say: this track was left by an
+animal; an animal passed that way, good. The animal image is the object of the "representamen,"
+the track. Alright, yeah. And then an animal is the object, but the incomplete object.
+
+What will I need? Well, for example, it will take a string of interpretants, not mammals: birds.
+[Deleuze writes on the board] I am excluding, see, a whole series that would lead me to a
+mammal. No, it's a bird [Pause] that I link with other interpretants. The track sends me back to
+..., [Deleuze writes on the blackboard] if I am very, very clever, it was made at night; this is not a
+
+                                                                                                       6
+
+daylight track. So, I already have a string of interpretants: bird, nocturnal. Fine, that can go on:
+raptor, man-eater, [Laughter] etc., etc., etc. See that here too, my object remains incomplete if
+there is not the interpretant and the chain of interpretants which brings one to two. So that's what
+a sign is for Peirce.
+
+So, I am indeed saying, for Peirce, a sign -- we have nonetheless made a lot of progress here -- it
+is a special image in the sense that nominally, it makes... It is still a Thirdness. Nominally, it
+makes the relations which belong to Thirdness operative or efficient; they really consist of a
+particular organization. It is a Thirdness which consists in this and only in this, and it is only in
+this case that we will speak of a sign: an image which is valid for another image through the
+intermediary of other images. OK? All this is understood because from this will emerge, will
+obviously emerge -- [Deleuze is distracted by something and speaks in a low voice] no, it doesn’t
+work? -- [His attention returns to the subject] So fine. What? ... Do I want another example?
+[Pause] If it's very short, sorry, because I would really like to move on to... [He speaks to a
+student] Yeah, give us one if you want ... Yeah?
+
+A woman student: The French flag, as you know, is blue, white, red…
+
+Deleuze: No, I didn’t know that. [Laughter]
+
+The student: Blue, blue represents both freedom and nobility or the bourgeoisie become noble,
+well, blue, or today the right. Red represents both equality and the people. And white represents
+the king. This is how the flag was made up during the French Revolution. That is, the flag was
+constituted in such a way that the king or now the State permanently maintains the balance
+between the rich and the poor, or else the aristocrats plus the bourgeois on the one hand and the
+people; they manage everything they can so that things aren’t disturbed, and that the State is a
+stabilizer of society. And if the flag was really: liberty - equality - fraternity, as we say in France,
+it should be blue - yellow - red, and at that point, we realize that the three colors are composed in
+white and that the whole people become king. [Laughter]
+
+Deleuze: Why not? But in my opinion, this is a Thirdness, that is not a sign! The flag is indeed a
+sign, but in your story, from a completely different point of view, but in your story, blue - white -
+red, you cannot situate a "representamen", an object and interpretants…
+
+The student: What…, but yes, yes, I can, it's obvious: the "representamen" is the flag, right? The
+object is the political balance that is chosen to be maintained, well, within society, and the
+interpretant is how all this is constituted, as we know, for example, that the colors in
+Freemasonry were blue and yellow, that is: freedom plus fraternity ...
+
+Deleuze: Yeh, well yes, your example complicates things. Well, OK, if… OK, OK. But it’s
+complicated.
+
+A student: But ultimately, this example is still important because there are examples where one
+proceeds through concepts, so this is practical. But when we are, when we are faced with an
+analogous code, an analogous expression, it's always fragmentary, really, or else the expression
+has to be very formalized.
+
+                                                                                                        7
+
+Deleuze: Yeh, yeh, yeh.
+
+The student: … otherwise the series, the interpretant series…
+
+Deleuze: Yes, but then even if it meant formalizing it, it would have to be done symbolically; we
+couldn't do it anymore, for example ... in fact, that's what Peirce does.
+
+So suddenly, you understand, his list of signs, you will see in which ... Understand immediately
+in which thing he is located... He is facing... I will write here... [Deleuze writes on the board]
+This is why it is very important here. I ask those who are really following this to note down this
+graph because we will really need it when I reach that point... of what I would like to do here and
+that ... [Deleuze writes on the board] Here’s where we are. On one hand, I have Firstness,
+Secondness, Thirdness. I can say, these are the three cases of the movement-image. But finally,
+since we are within Peirce, there is in his vocabulary, he calls it, I stated it from the start, not
+"phenomenon", he feels the need to select another word so as not to be confused with
+phenomenology, he calls this: "phaneron", the "phaneron". Fine, as we have seen, the word
+“phaneron” interested me since, finally, it seemed to me to be translatable by “light-image”, and
+then we had seen that light-images and movement-images, for us, were the same. So anyway, it's
+basically the world of phenomena or images, the image: it's the phenomenon, it's the "phaneron",
+it’s whatever you want. Well, so the image, right? According to Peirce, three types: Firstness,
+Secondness, Thirdness.2
+
+If I now create this very special type of image in the other direction, the sign, then it is no longer
+images, it is signs. I see that they have a special Firstness: the "representamen"; a special
+Secondness: the object; a special Thirdness: the interpretant. The sign is itself a Thirdness since,
+as we have seen, its Firstness and its Secondness presuppose the Thirdness, which is proper to all
+Thirdness. Fine, to have the graph of signs, well, the simplest graph -- because this will get
+complicated, but we have to… us, we will not be concerned with it anymore, because… and
+still… it is enough … -- And we can predict how many large classes of signs we will have. [A
+very long pause, Deleuze writes on the board] In other words, I am entitled to expect nine classes
+of signs... So, let's start with... What am I going to say?3
+
+My question... So, I am considering the sign in itself. In other words, I ask the question, for this
+whole heading, this whole slice, I ask the question: in the sign, what “yields a sign” [fait signe]?
+What “yields a sign”? [Pause] My answer is:
+
+First case: what yields a sign can be a pure quality, a pure quality. If this is the case, I'll call it a
+"qualisign". When a sign in itself is such that what yields a sign is a quality, we find ourselves in
+the presence of a qualisign. You will tell me: there is no such thing in advance as a pure
+qualisign. Maybe, maybe not. If there is no pure quality, it doesn't matter. We will call qualisign
+those in which this aspect dominates. It is even probable that these are pure signs which are
+never realized. What is realized are combinations of signs. And what is very important is that
+some combinations cannot be realized. Good. What yields a sign is a quality; in this case, I will
+speak of a qualisigne.
+
+                                                                                                      8
+
+Let us suppose that what yields a sign is a state of things, not a pure quality, but a state of things
+which has several qualities, actual, actualized qualities. We'll choose right away, we'll choose an
+example in a little while, but I'm forced to start with the abstract. I would say, according to
+Peirce, that here, when what yields a sign is a quality, but a realized, actualized quality in a state
+of things, actualized in a thing, it is a -- necessarily an individual thing -- an individual state of
+things or an individual thing, this is a "sinsign", S-I-N, sign. Why the "sin" prefix here? -- Peirce
+explains it – it is the same as for singular, an individuated or individual state of things.
+
+A third possible answer: what yields a sign is a law, it is a law. [Deleuze writes on the board] So,
+sorry, what a mistake I was making; this is a "legisign", it’s a "legisign". Let's select an example.
+I can say green is a sign of hope, green is a sign of hope; whether it's true or false, it doesn't
+matter, right? "Green is a sign of hope" is a proposition in which green is a qualisign. I do,
+indeed, consider green as a sign of hope, and I regard green as a pure quality, whether it is
+realized, whether it isn’t realized. [Pause] When I say -- another proposition – “the cow
+recognizes what is good to eat by the green", that is, it eats grass, I consider this time here the
+green as realized in a state of things: meadow, the green of the meadow. The cow does not
+confuse the green of the meadow with, insofar as it is realized, with the color green, pure quality.
+So, what yields a sign to the cow when it’s let go into the meadow and bows down with its
+mighty head, in that way obeying, and showing that it has grasped a sign, and starts to chew...
+[Interruption of the recording] [42: 50]
+
+... what yields a sign is a sinsign. [Long pause] I go through the green light. This is a legisign.
+The green works there like a legisign. There is in fact a law, in this case, conventional law
+according to which red signifies stopping the car and green signifies the car’s passage. Good.
+This is indeed a conventional law since, for the pedestrian, it is the other way around. He moves
+on red; he is the red that functions as legisign of passage. Good. Very well.
+
+Let's take this example of the green light. To show you, you have to sense that there are a lot of
+problems because all the concrete signs that I could analyze, don't they have several aspects?
+There is one aspect through which the green light is a "qualisign". This is not surprising, since
+ultimately any sign is a Thirdness. And also in the green light, the green does not just have value
+for its quality; the green has value insofar as realized in a state of things, the hole in a pole with
+another light which will be red. Finally, this is a legisign. With a given sign, you may always ask
+yourself, what is it in the first place? But also, in what other types of signs do they participate?
+There you are.
+
+So, we have our first series. I would say that the qualisign is the sign in itself of the Firstness; the
+sinsign is the sign taken in itself of Secondness; the legisign is the sign taken in itself of
+Thirdness. OK? Within this, I notice that the three terms are created by Peirce, and here, he didn't
+tire himself greatly to create because he did it, he turned it into a prefix, because I always think
+of that as regards this side problem: in which case and how is it necessary for a philosopher to
+create new terms? In what case can he be satisfied with terms already known?
+
+Let's move on to the second aspect of the sign. This time, I no longer consider the sign in itself,
+nor the question of what yields a sign, but I consider it in relation to its object, according to the
+question: of what type is the relation of the sign to its supposed object? From the point of view of
+
+                                                                                                       9
+
+Firstness, I would say that there are certain signs which refer to their objects, to their object,
+through qualities which are intrinsic to them, [Pause] through qualities which are intrinsic to
+them. You fully understand that, in this case, the relation of the sign to its object is grasped under
+the species of Firstness. It is through intrinsic qualities that the sign refers to its object. An
+example, yes, I would call such a sign according to Peirce an "icon". According to him, an "icon"
+is a sign that refers to its object -- well that, you have to ... in any case, those who, you have to
+remember all this at all costs because, like us, we’ll then give a very different meaning to all
+these notions, it is necessary that… well yes, I mean, this is at the level of a kind of axiomatic,
+we’re justified, we’re justified… -- And an icon, you see, it is, in fact, it seems to stick, his
+definition of the icon, because... well, in fact, an example of a sign which refers to its object by
+qualities which are intrinsic to it, to it, the sign, well, a photo, a photo, it is through its intrinsic
+qualities that it refers to the model.
+
+But I would say more: a geometric figure, isn't that an icon too? A geometric figure in what
+form? One must be careful; the triangle that I draw on the board, a triangle that I draw on the
+board is a sign that refers to its object. The image of the triangle, through qualities that are
+intrinsic to it. It must come as no surprise that -- here I do not want to develop Peirce's theories at
+all at this point -- that Peirce says, for example, that something like diagrams are cases of icons.
+In any case, you see, the icon, well, from the point of view of the relation of the sign to its object,
+is indeed the sign of Firstness, no longer from the point of view of the question of what yields a
+sign, but from the point of view of the other question, of the second question: what relation is
+there between the sign and the object?
+
+From the point of view of Secondness, the relation of the sign to the object can be such that the
+sign would not exist, would not exist as a sign without its object, that is, without the existence of
+its object. So, the sign, this time, relates to its object by virtue of the supposed existence of the
+object itself. [Pause] I am saying, for example, smoke is a sign of fire. [Pause] Such a sign
+relates to its object by and in the supposition of the existence of the object; I call it, or rather
+Peirce calls it, an "index", and he tells us, smoke is the index of fire. In other words, the sign is
+there a sign of something posited as existing. You can see that it is Secondness since Secondness,
+its natural state, was, you remember, the duel. The index is a case of a duel or a dyad relation, or
+a dyad. The sign refers to, etc.
+
+Third, the relationship of the sign to the object is regulated by a law, natural or conventional law.
+This is what Peirce will call a "symbol". [Pause] And from the point of view of interpretants,
+[Pause] well, interpretants are thus, you remember, the ones through the intermediary of which
+... it's the Thirdness of the sign, those through the intermediary of which, the third party by which
+the "representamen" makes operative, makes efficient the relation which it has with the object.
+And in fact, there are three interpretants. Not only is the interpretant the Thirdness of the sign,
+but there are three interpretants. There is an interpretant -- and here, then, as I would still like to
+go quickly -- I am indicating that Peirce himself in his successive texts says -- ah, there it is
+terrible, it is very difficult, this is not developed – he never stopped varying, it never stopped
+varying because ... and then, it interested him a lot, and then he ended up finding lots of
+interpretants, types of interpretants then, about which I am telling myself that I’m sticking to
+some very, very elementary things. But this is already, this already varied enough like that.
+
+                                                                                                    10
+
+There is an interpretant that one could call the "immediate interpretant of the sign." He calls it:
+the immediate interpretant of the sign. [Pause] And the immediate interpretant of the sign is the
+signification. [Pause] What does signification mean? Why is that signification? Because it's
+hypothetical; this is neither true nor false. This is the domain of what is neither true nor false.
+The word "grenade", its immediate interpretation, is city, weapon or fruit, question mark. You
+see this is the set of significations of the word; this is hypothetical since I don't know, I have no
+reason to choose, and it's neither true nor false.
+
+In language, one would say that the immediate interpretant is the word. A word is neither true
+nor false, it indicates a possibility. This is, as might be said, a propositional function. This is
+hypothetical, it’s all you want. Well, the immediate interpretant, he calls it very mysteriously, he
+calls it: a "rheme." Why does he call it a "rheme"? To my knowledge, because I have looked at
+the English texts, the American texts, I do not see any justification for the word, because the
+word, roughly speaking, derives from the Greek, and implies a becoming, a flow. And he uses
+"rheme" for, as the equivalent of the word or the immediate interpretant, of the signification
+insofar as it is neither true nor false. I can't see very well. I do not know. What...?
+
+A woman student: [Inaudible comments]
+
+Deleuze: He doesn’t know! The object in becoming, he doesn’t know, he doesn’t know the
+object in becoming.
+
+The student: [Inaudible comments]
+
+Deleuze: Ah, okay, yes, no, no, but our discussion dealt with what he had in mind. He only
+knows one thing: it's possible. In fact, since Firstness, you remember, yes, that was it, it’s in the
+domain of the possible. Secondness is in the domain of the real or what exists. Thirdness is the
+domain of the necessary. [Deleuze writes on the board] He only knows what is possible. So, the
+"rheme" is indeed a figure of the possible. So why did he choose this word? Well, it escapes me
+completely, and then it's not terribly important.
+
+For the rest, things are better because, what is there other than the immediate interpretant? There
+is what he calls the dynamic interpretant. And then, the dynamic interpretant, we grasp this more
+because I ask myself -- here I have a doubt -- am I not forcing, am I being quite faithful? But
+really to finish this, for me, it seems to me that it would correspond entirely to what we called: a
+natural relation. This is the natural relation. The dynamic interpretant is the set of images with
+which the first image naturally associates.
+
+A student: [Inaudible comments]
+
+Deleuze: No, they aren’t given with it, but the natural relation results in the mind passing from
+the image which is given to these images which were not given. And how is he going to do it?
+Well, by forming a proposition. This is the proposition, in fact. In the immediate interpretant, we
+had a one-word equivalent; in the dynamic interpretant, we have the equivalent of a proposition.
+It is the proposition that will determine the set of images through the intermediary of which
+image 1 refers to its object. “Granada is a Spanish city”, proposition; you see that "city", "Spain",
+
+                                                                                                     11
+
+are the dynamic interpretants by which the word: "grenade/a” refers to the object, the city located
+in Spain. So, I have a series of dynamic interpretants, that is, natural relations: "grenade" makes
+me think of "city", makes me think of "Spain", etc. I have a series of dynamic interpretants that is
+referred.
+
+So, I can say that for me, these are natural relations, the dynamic interpretant, and it is quite
+normal [Deleuze writes on the board] that they become operative in the proposition which,
+unlike the true, unlike the word, the proposition is the possibility of something true or false.
+What will be true or false is the judgment which affirms or denies the proposition. [Pause] -- But
+no, I'm completely ... Proposition, yes, that's the “dicisign”... Yes, yes, because I haven't given
+the name of the sign yet. I am saying, it's the equivalent, etc. -- This sign corresponding to the
+interpretant, to -- I am starting to get confused -- therefore corresponding to the natural relations
+present in a proposition, he calls it: dicisign, D-I-C-I-sign, it is the dicisign. [Pause]
+
+And finally, there is what he calls the final interpretant. See: immediate interpretant, dynamic
+interpretant, final interpretant. The final interpretant, well, that's what is obviously on another
+plane, but which must in a certain way end the series, because otherwise, the series of dynamic
+interpretant will go to infinity. And as Peirce says, every thought refers to another thought which
+refers to another thought, etc., to infinity. But on another level, there is a closure.
+
+I would like to say, because it would be too beautiful for us, but -- there is no reason that it be
+good for us -- that this, for me, I cannot understand. I can't understand what Peirce means,
+[Deleuze writes on the board] it's not finished… Because I'm saying, at the point we’ve reached,
+there is only one way, there, it can only be in the domain of abstract relations. And in fact, he
+seems to say, since the sign is going to be named "argument", "argument", and since, just as the
+"rheme" vaguely corresponded to the "word" in linguistics, and the "dicisigne” vaguely
+corresponded to “proposition” in linguistics, now the “argument” corresponds, in fact, to
+reasoning, to the syllogism. So, there I can say, and feeling stronger about saying, well yes, this
+is the domain of what we analyzed the last time under the name of abstract relations.
+
+Unfortunately, he maintains in all kinds of texts, but reading it is so difficult, that the final
+interpretant is, he says, habit, habit, the habitus, habit. The texts become very difficult because ...
+It seemed obvious to me that habit is precisely what makes me pass from one term to another in
+the series of dynamic interpretants. For him: no. What is his conception of habit? Here it
+becomes excruciating. Here we find, in fact, a whole, very important aspect of English and
+American philosophy, in fact, -- I don't care, I don't care; I can't manage that, I can't sort it out
+anymore4 -- it is enough for me that, at least in one aspect, it is perhaps habit, perhaps habit, but
+then a radically new habit, but, it was also the fabric of the abstract relationships presented in the
+argument. Well, you see, you see, this is the graph we must select... We have seven, eight, nine!
+You see if we continued, but here I am going to stop because we have to move on to something
+else.
+
+Here I have my pure signs or what I might call great signs. Any sign is a combination. Already
+you can think of how many combinations are possible. But among the possible combinations,
+there are some that cannot be realized. Why? Because, for example, the whole domain of
+Firstness cannot be combined with just anything. [Pause] I'll choose an example. He'll tell us, a
+
+                                                                                                    12
+
+rhematic iconic qualisign is very possible, right? From that point, we are quite delighted here
+because... So, Peirce -- you understand everything I'm telling you, this is only the start for Peirce.
+– So, fine, here, he does not provide a name. Sometimes he provides a name, right? And for the
+rhematic iconic qualisign, this is one of the most beautiful, in any case, it is the first that is
+possible! But there are completely impossible cases. Fine. And then at the end of his life, the
+more he moved forward, the less this satisfied him, all that. So, he multiplied the headings there
+because the three interpretants, he noticed that the sign had, no matter why, two objects and three
+interpretants, which we put here, but he took it upon himself to put them there! [Deleuze points
+to the table] So he had two objects and three interpretants. [Interruption of the recording]
+[1:06:48]
+
+… Suddenly, he obtained many more signs. It ended up fantastic; obviously his dream was to
+create a classification of four thousand, five thousand signs. So fine, that's what we call a
+lifetime's work. But at the same time, he was doing formal logic. He put it all in, he formalized it
+all, it's a very extraordinary work, fine. Curtain, because then here we are faced with the
+problem, well, there, we, I mean, it is not that... We cannot compete with a philosopher like that,
+it is not a question, it’s not at all a question of that.
+
+But for us, and these are not objections. When I try to tell you all the time, when you read
+something, anything, for example, there are things that you find useful and then you say, this is
+for me, and then there are things that are not for me, okay. When you listen, when you listen to a
+course, there are things for you and things not for you. It's part of the mysteries. Why is that for
+us, why is it not for us? No one will know. Good. Well yes, maybe, but we would have to look
+carefully. This is, this is really the problem with the affinity of concepts.
+
+Well then, so I do not allow myself any objection, really; it's learning to be quiet in order to go
+faster. I just ask myself, what's, what works for me, what doesn’t work for me? I said that the last
+time, it’s, I'm already just clarifying, what it is that might work for me, what isn’t going to work
+for me. I take note and I tell myself: and my perception-image, and my perception-image, there
+is no place for it in all this.
+
+What strikes me as obvious is that to me, once again, if you accept this not to be an objection, he
+says too much, and he doesn't say enough. On one hand, he says too much because for the
+moment, I would develop nothing with Thirdness. Obviously, it is disturbing because he tells
+himself, those who do not understand Thirdness, they do not understand anything. But I would
+have to develop something else regarding Thirdness. But, on the other hand, I would badly need
+of a, of something. Because, in fact, this is still frightening.
+
+There I can say, Peirce is exaggerating because he allows himself these three images, up there,
+Firstness, Secondness, Thirdness. He tells us, the "phaneron", that is, the Appearing, is organized
+like this, and that’s just how it is! But that's not good at all! Where do they come from? What
+will account for this triple root of the "phaneron", this differentiation of the "phaneron"? He
+doesn't tell us. That’s how it is because that’s how it is. But I don't like this! I would like that to
+be clearly stated, and you can see why. There will be no analysis by him of the "phaneron", but
+we – so he’s justified -- but we are required to do so because we did not start from the
+
+                                                                                                     13
+
+"phaneron" like that. We started with a long description of the movement-image or the lightimage. That is, we have made a very long description of our own "phaneron".
+
+So, our movement-image, our own light-image, it already had a perfect consistency. Moreover, it
+spanned a whole plane of immanence, if you remember. Hence the need for us to account for the
+differentiation of images of Firstness, Secondness and even Thirdness. In other words, we need
+something that accounts for this differentiation, in other words, a root of the differentiation, one,
+two, three. We need something which is already not the movement-image anymore, and which is
+not yet either Primacy, Secondness, or Thirdness. What other word do you want to give it other
+than "Zeroness"? So there needs to be a Zeroness which itself will have signs. But then, if we do
+that... Moreover, then if for other reasons, we are led to reject Thirdness temporarily, what then
+will a sign be for us? It will obviously have to be something else entirely.
+
+I mean this, and this is my first point: [Pause] it seems to me that he doesn't say enough. If I sum
+things up, it is because there is no generation of varieties of images for him. [Pause] We need a
+degree zero which explains how and why the movement-image gives rise to Firstness and
+Secondness. [Pause] In other words, we need a zone that accounts for the birth of special images
+at the heart and within the universe of the movement-image or the light-image. And we have
+seen, if you refer to what we did at the very beginning of the year, this is what we saw. What is it
+that ensures the passage from the movement-image to special images, and which therefore is
+both a special image already and still participates in the plane of the movement-image? It was
+precisely the perception-image.
+
+And why did the perception-image have this privilege? Here it must be remembered, otherwise it
+makes no sense, the perception-image had this privilege because it participated in a dual system.
+It was inseparable from a double system. It participated first in the system of movements-images
+which all vary with respect to each other on all their facets and in all their parts, and in this sense,
+all the images, whatever they were, were perceptions in themselves. And the atom was a
+perception in the sense that it was the perception of all the actions it underwent and all the
+actions it performed on this plane of immanence of the movement-images.
+
+So, I am saying that image-perception, through one of its poles, referred to the world of
+movement-images and their universal variations. And on the other hand, at the same time, the
+movement-image... the perception-image, the perception, expressed through its other pole the
+movement... no, the process through which the system of movement-images was going to be
+organized around a center of indetermination, that is, where all the images were going to vary for
+one and in relation to one alone. And in relation to this second system, I no longer said all things
+are perceptions; I said: someone perceives something. Someone, a center of indetermination,
+perceives something. The images ceased to be in themselves, the images became, the "phaneron"
+ceased to be in itself. It became for someone, and in relation to someone, in relation to someone
+who perceived him, a perceiving subject.
+
+But the perception-image did not cease oscillating from one of its poles to the other. An obvious
+example that we analyzed considerably last year regarding cinema: it suffices that the perceiving
+subject -- so I have my two systems; first system: all the images vary for one another; second
+system: the images vary in relation to a privileged image. These are the two poles of the
+
+                                                                                                   14
+
+perception-image, okay? -- But if the privileged subject, if the privileged center, if the privileged
+image begins itself to move, the more it is set in motion, the more it will tend to reconstitute
+universal variation. Right? Very well. [No interruption in the recording] [1:17:13]
+
+Part 2
+
+So, the perception-image does not cease to oscillate. This is why I say that it is presupposed by
+Firstness and Secondness, that it is something other than the movement-image and yet it is not
+yet Firstness. It is going to be what makes Firstness and Secondness possible, and in fact, quality
+is quality, but it will have to be perceived in one way or another. Action is action, but it will have
+to be, in a way, not only acted, but perceived. So, the perception-image will accompany the
+special images; it will be a special image itself, it will have a very odd role. On one hand, it
+plunges into the pure movement-image, on the other hand, it is already a special image, on the
+third hand, it accompanies other special images. This is why for me, this imposes a Zeroness that
+refers to the perception-image. So, at the top, I will have -- we will see it later -- Zeroness,
+perception-image; Firstness, affection-image; Secondness, action-image. For the moment, I leave
+aside the problem of Thirdness.
+
+But what did I just say? I just affirmed that starting from perception-image, there was at the same
+time one characteristic as what? A genetic characteristic. We must clearly mark the generation,
+the genesis of each special image. So, there is a genetic aspect. On the other hand, I noticed that
+there was a bipolar aspect of the perception-image. It participates in two systems: a system of
+universal variation, a system of variation relative to privileged cen… to a privileged image.
+Okay... To me, that's what a sign is. So, we'll have to say... Good. A sign, I would say, well, you
+understand... A sign is a special image, a particular image, rather, a particular image that
+represents a type of image. There we are. A sign is a particular image that represents a type of
+image.
+
+So, for the moment, I have three types of images; I am still not taking Thirdness into account. I
+have perception-images, affection-images, action-images. I am saying, a sign is a particular
+image insofar as it is valid for a type of image. In fact, I would say at that point, ah this is
+affection-image, it's affection-image, ah it's action-image, ah it's perception-image. So, it's a
+particular image – this is essential for me -- that represents a type of image. From what point of
+view? I have not yet introduced the story of interpretants. I leave it aside. I can't continue
+anymore, I can't continue.
+
+On the other hand, I have two points that interest me, and perhaps many more. How can a
+particular image, from what point of view can a particular image represent a type of image?
+Apparently, from two points of view or maybe four, it will depend on your choice. It depends; if
+we sum up, if we extend, from two points of view, [Pause] from the point of view of the bipolar
+composition of each type of image.
+
+So, in this case, a sign will be a particular image that represents the bipolar composition of the
+type of images to which it refers. Obviously, the examples will come, the examples. [Pause] You
+understand, it gets complicated, because already by looking for them, well, I can say, I will have
+at least three signs: I will have a bipolar sign, a sign that emphasizes the A pole, and a sign that
+
+                                                                                                    15
+
+emphasizes the B pole. That will make three slots for me. I mean in the numbers race, this is very
+important.
+
+The other aspect… [Interruption of the recording] [1 :23 :10]
+
+… [The next sentence is missing from the recording but is furnished in the Paris 8 and
+WebDeleuze recordings] I would say that the sign is also a special image that refers to a type of
+image, no longer from the point of view of the bipolar composition of this type, but this time,
+from the point of view of the genesis [return to the recording] of this type. And there, I might
+have two signs of it, because why only the genesis? Also, the disappearance. It could be either
+the sign’s disappearance, the type of image... Sorry, not the sign’s disappearance; the sign will be
+a sign of disappearance or a sign of genesis of the type of image to which it refers. Sometimes,
+understand that you can't decide anything in advance; it doesn't seem like it, but it's very, very
+amusing. Sometimes I would realize that the sign of extinction is necessarily confused with the
+sign of genesis. Sometimes to my amazement, the sign of extinction will not be the same as the
+sign of genesis. So, I would say that through the type of image, I will have, if I take things as
+accurately as possible, I will have two signs: a sign of composition and therefore bipolar, [Pause]
+and a sign of genesis, a genetic sign. In fact, once again, the sign will be the image which will
+represent either the composition or the genesis of the type of image to which it refers.
+
+So, this definition has nothing to do with Peirce's, and yet we are going to find some common
+signs, that's perfect. If I go to the longest, on the contrary, I would say there are cases in which I
+can conceive of five signs per type of image. In fact, the sign of composition will split into three,
+depending on whether the two poles are supported or if it is one rather than the other. So, in this
+case, I will have three signs of composition. And then the sign of genesis will split into two,
+eventually, the sign of genesis and the sign of extinction. [Pause] So I will have at minimum two
+signs per image type: Zeroness, Firstness, Secondness, at maximum five signs per image type.
+Good.
+
+And then, why, why am I leaving Thirdness aside for the moment which will nevertheless be
+essential? Good. So, it's tragic, because I have to go to the main office. Are you still hanging on
+or not? Because if you can't continue, there’s no point in doing so.
+
+I feel like I should give a little example; maybe that would fix everything but... You understand,
+yes, I'm offering giving an example so that... Well... I’m taking Second... Firstness. For those
+who were here last year, they will understand, and you will understand why I need Peirce's
+words, why I am justified in a way to give them another sense.
+
+For me, Firstness is the affection-image, and in fact, the affection-image is the quality or potency
+[puissance] considered in itself, independently of a state of things, independently of a state of
+things in which it would be actualized. Okay, that's clear. When you take a quality or a potency,
+when you consider a quality or a potency, regardless of a present, existing state of things in
+which that quality is actualized, at that point, you will find yourself facing an affection-image.
+
+I’m selecting an example, fear. Fear always has a cause. I'm facing a precipice, I'm scared, well,
+fine. Fear always has a cause; that does not prevent it from existing as a fear independent of its
+
+                                                                                                       16
+
+cause. And you can consider it regardless of any causes. In other words, you can look at it
+independently of any current state of things. You will tell me, there is always a current state of
+things; at first, I'm not sure, it’s not so obvious, but you see it as pure potency, pure potentiality.
+We saw that with Firstness in Peirce, he conserves all that. I would say, here we have an image
+of Firstness. Okay... So... Fine, okay... There you go.
+
+The analysis I tried to do last year on affection-image gave me this, but, a potency-quality
+considered in itself, what does that mean? Notice, here as well, these are not objections at all.
+Peirce is happy with that since it refers to a pure immediate consciousness, which is never given.
+So, he doesn't need anything else. I told myself, I need something else, to define it, I don't know,
+more ontologically, less logically.
+
+I would say, it's not difficult, it's a quality. It is a quality or a potency, such as it can be expressed
+by a face. It is not actualized in a state of things. It is a quality-potency insofar as being
+expressed. Good. It's even saying too much, by a face. It is an expressed quality-potency and not
+actualized. Good. But what is the variable of expression? You don't have to go very far in the
+analysis to say, well then, the variable of expression is a face or the equivalent of a face,
+something that functions as a face. A foot can very well function as a face, this is what we will
+call a faceification. Alright, very good. Or even a proposition, a proposition can function as a
+face. A proposition is a mental face. The proposition is a face insofar as it "expresses".
+Expressing is just one of its dimensions. It is only in this dimension that a proposition is an
+equivalent of the face.
+
+So, I would say, there is a first sign of the affection-image, and the first sign of the affectionimage, it is quality-potency as expressed, three little dots, insofar as expressed by a face or face
+equivalent or proposition. I call it an "icon". So, I need the same word as Peirce; however, the
+sense is very different. For me, an icon will be a quality, or a potency insofar as expressed. By
+implication, if it is expressed, it can only be so by a face, an equivalent of a face or a proposition
+acting as a face. There we have the sign of composition of the affection-image. Ah, good! This is
+the sign of composition, and in fact, it is not genetic at all. This is what the affection-image is
+made of. It is composed by expression.
+
+Hence a suspicion: but the expression or its variable expressing it, that is, the face, the equivalent
+of a face or the proposition, let's try to search a little, aren't there two poles? Yes, there are two
+poles. We saw it, here I am recapping something for... even I hope that those who weren't here
+last year grasp this, nonetheless. Yes, there are two poles. And in fact, there are two poles of the
+face. The face can be considered as a contour which I will call at that point, a faceifying contour;
+it is essentially expressive because it is a contour. It is the contour that it is expressive. This is the
+pole of reflection. The face is reflective and pensive.5 [1: 33: 21]
+
+Part 3
+
+And then he has a whole other pole, not a faceifying contour, but a set of features, a set of
+discontinuous features: an eye that gleams, a nose that sniffs, a mouth that opens, and we jump
+from one to the other. I would say that the face is taken as a dynamic aggregate, this time of
+features of faciality, and not of facifying contours.
+
+                                                                                                        17
+
+And in fact, I had tried to show last year how painting entirely had these two poles and that the
+art of the portrait presented to us sometimes a pole of contour, a prevalence of the contour, of the
+faceifying contour, and sometimes a prevalence of features taken from the mass, with jumps
+from the eye to the nose, etc., and not at all the contour line, the great contour line that you find
+in the 16th century, for example. In the 17th century, there the portrait undergoes a kind of, we
+pass from one pole, everything happens as if they were passing from one pole to the other of the
+face. I’m simplifying a lot.
+
+This is great for me; I could already say "the icons", which is for me the first sign of the
+affection-image -- and therefore everything will be shifted already, that will not be the icon at all
+-- that will be the first sign of the affection-image, and I would say, this is the sign of
+composition. But as such, there are two kinds of icons: some -- I could look for some very
+complicated terms -- but not to, not to exaggerate, some we will call: "icons of contour", the
+others, we will call them “icons of features", [Pause] good, dependent for us, in the true art of
+icons, would there not be equivalences? Wouldn't we find icons of contour and icons of features
+-- the history of cathedrals – from this point of view, shouldn't we consider sculptural things,
+etc.?
+
+And then, [96: 00] and then, I'll quickly finish this example, and then we'll leave it there -- so
+you can go on vacation faster -- and then, that's not all nonetheless, it is not necessarily all,
+because I say to myself, well, the icon is a sign of composition, but in fact, it does not tell me
+anything about the genesis of the affection-image. It tells me so little about the genesis of
+affection-image that the face, whether as an icon of contour or an icon of features, this is a huge
+unit, it's a huge unit. It generally works, right? That's about...
+
+There's a silly story in the movies, you know, that's the famous effect: a stream of shock, right?
+There is an actor there who has the same expression, and then there’s a montage, and this
+expression is supposed to correspond, in the first instance, to a woman, so it becomes “desire”; at
+a second instance, to a meal, to food, then it becomes “hunger”; in a third instance... I don’t
+remember after. This is silly because, this is silly, it has absolutely nothing to do with the
+problem of associations with a context. There was no need to have this experience. It has been a
+long time since all psychologists and people with good sense have noticed that the face is a very,
+very little differentiated instrument in the expression of affections, that it has very few
+expressions. Long ago... I remember in Sartre's novels, there is always a metaphor, not a
+metaphor, a note that returns, that was entirely typical of Sartre: nothing looks more alike than
+sexual desire and the need to sleep -- not always true, but often, [Deleuze laughs] often -- sexual
+desire and the need to sleep -- Ah yes, I reversed, hey ... well -- but in fact, in the end, as crude
+materialists would always say, in all emotion, there is what? An adrenaline rush sounds the same.
+
+I can say at the most that if I don't consider the state of things where it is, this is required, this is a
+crude expression, it’s composition. In the end, the face expresses only composed affects. To
+arrive at expressions of pure affects, some very special efforts are necessary, otherwise you are
+always expressing composed affects. There, we can see very clearly that the affection-image,
+insofar as signified by an icon, that is, as expressed by a face or a facial equivalent, it only finds
+a sign of composition. The icon is only a relatively crude sign of composition. At most, it can
+accentuate one pole, accentuate the other pole.
+
+                                                                                                   18
+
+But what would the genesis of affects be? There is something much finer than the genesis of
+affects. I therefore claim a finer instance of the face. There is something much finer in the face.
+A face can always lie; it can always, all that, that can always, there is something much more
+differential, something which would perhaps be the "genesis of the affections". What is the
+genetic element, the differential element? It is, for the moment, it is certain places or certain
+types of spaces in which, there, affects are much finer to the extent that these spaces are even
+repertoires, are even conservatories of still unknown affects. We have the impression that we are
+penetrated by affects that come from another world. Good.
+
+Cinema, and I was talking about it last year because cinema has greatly played a role. Be careful,
+these are not determined space-times, since determined space-times, they are part of Secondness,
+they are part of the action-image. No, I don't have the right to contradict myself to that extent.
+So, they are not actualized space-times. What will we call it? Last year, it was one of you [Pascal
+Auger] who proposed this term, which we would call “any-spaces-whatever” [espaces
+quelconques], which does not mean universal spaces at all times, in any place,6 which means
+spaces that have no other functions than to exhibit affects, exhibiting pure qualities or potencies.
+For example: the space of shadows in German Expressionism, there we have any-spacewhatever. [Pause] Another example of any-space-whatever: spaces in which one does not
+orientate oneself. That is, it’s not that one does not orientate oneself; these are spaces in which
+the parts of that space are not oriented with respect to each other. They are spaces without
+connections or, on the contrary, it comes down to the same thing, where each part is united to the
+other by a multiplicity of possible relations, by all kinds of possible connections, where the
+connections are not determined univocally. They are therefore literally disconnected spaces.
+Connecting one part to another can be done in a thousand ways. In mathematics, in geometry, we
+know that well; this is even what appears in Riemannian geometry where neighborhoods have no
+univocal coordination and the connection of two neighborhoods can be done in an infinite
+number of ways.
+
+Well, I am saying, quality-potency, a first mode in itself, regardless of its actuality, regardless of
+its actualization, a pure quality-potency has two modes, no existence, two modes of Appearing. It
+can appear insofar as expressed by a face or a facial equivalent, as we have seen; and it can
+appear insofar as exhibited by or in any-space-whatever. [Pause] I would say, the any-spacewhatever, much finer, is the real genesis, this is the real genetic element of affects. It is in anyspaces-whatever that affects are born, are formed. Only then will they be gathered by a face. You
+drop a face into some any-space-whatever, you have a horror film. Good.
+
+So, well, what does that give me? I am saying: affection-image, Firstness, that is, quality-potency
+in its purest form. First sign: of composition, I call it "icon". [Pause] Second sign: any-spaceswhatever that exhibit, [Pause] any-spaces-whatever that exhibit pure quality or potency. That's
+what I call "qualisign". I would say the affection-image has two signs: the icon and the qualisign,
+at its shortest. At its longest, it has four signs: the icon of contour, the icon of features which
+corresponds to the two major poles of the sign of composition. [Pause] And on the side of
+spaces, qualisigns. Once again, I call "qualisign" any-space-whatever insofar as it does nothing
+other than exhibit pure quality or potency. From this point of view, there are two types of anyspaces-whatever; there are disoriented or disconnected spaces which are defined as follows: no
+connection, or at least no univocal relation from one part to another. But there is also another
+
+                                                                                                    19
+
+type of space, empty or emptied space, another type of any-space-whatever, empty or emptied
+space. I would say the first is a sign of birth, the second a sign of extinction.
+
+Okay, I'm taking this movie stuff to be very clear, right? I come back to it very quickly for my
+four signs. A close-up of the face, we saw it last year, has its two poles. There are close-ups of
+faces that are centered on the contour, often, not exclusively, often, for example, in [D.W.]
+Griffith; there is the close-up of the face, which is almost exclusively based on the feature, it is
+much more the [Sergei] Eisenstein close-up. There I find my two signs, my two icons, the closeup being the cinematographic icon.7
+
+For the any-spaces-whatever, this is also very common, and that goes beyond the horror film. I
+was quoting the shadow space of Expressionism when shadow drowns contours, drowns lots of
+things, etc. This is obvious, but in a more modern way, research on spaces among great
+filmmakers has been fantastic for a long time. I’m selecting examples: disconnected spaces in
+which really, precisely that is what we call, for example, the problem of false continuities [faux
+raccords] or no connection at all.8
+
+Rendering, minimizing the connections between a place and a neighboring place, what does this
+belong to? One of the greatest, but one of the first, is [Robert] Bresson, disconnected spaces
+precisely because he wants to obtain in this way spaces with tactile value, which become visually
+arbitrary spaces, completely disconnected spaces. For example, “Pickpocket” [1959] is a
+masterpiece, but already “The Trial of Joan of Arc” [1962] where you find the cell which is
+never taken in wide shot, but which is filmed, always there, in succession of closed angles
+without connection or with equivocal connections. So, I would say, Bresson is a great case.9
+
+But, but in all contemporary cinema, it was a very, very exciting research on these disconnected
+spaces that you find, for example, completely in Italian neo-realism; think of the fortress of
+"Paisan" [1946], for example, of [Roberto] Rossellini. It is, well, that you find completely in the
+school of New York in cinema, for me, one of the greatest of the New York school, it is
+obviously [John] Cassavetes. Now Cassavetes has multiplied the any-spaces-whatever,10 then the
+disconnected spaces in which we absolutely do not understand how a guy passes from the site to
+the same neighboring place, in which there is a type of false continuity, he is a genius of the false
+continuity. Fine. The French New Wave, I’m not discussing it, Godard's disconnected spaces, so
+it's, it's famous, all that, well. There would be all kinds of research that we had outlined last year.
+
+But you also find the empty spaces, they’re famous, they’re famous, there are not so many, two,
+there are three geniuses -- there are so many geniuses from everywhere -- but three names
+immediately come to mind: [Jean-Marie] Straub's empty spaces; the empty spaces, for me, this is
+the one that would interest me the most of all, the empty spaces of [Michelangelo] Antonioni, the
+empty planes of Antonioni, you know when there is -- after things have happened, after, after the
+actualization, after the event, he throws an empty space at us. For example, think of the end of
+“The Passenger” [1975], the camera stays for a while in the space which is completely empty.
+Splendid, splendid, it is a beautiful case of emptied space, and then, not at all depotentialized, but
+which, on the contrary, only exists through its affective potentials. And the, the one that ... I
+should have started with him, because historically he must have been the first, obviously
+[Yasujiro] Ozu, Ozu, so the empty fields of Ozu are also a value, a very intense, affective,
+
+                                                                                                                     20
+
+intense value, and where there, it’s so meticulous, and his empty fields unlike those of
+Antonioni, are so deliberately insignificant that the genetic element of affection is then really
+created there.
+
+Let me summarize this: you see, and all this is what I would like to systematize at the start of
+next year. Not only would we have a completely different -- it was to give an example; for me
+this example, we will have… There, I would have, for example, in a graph of a completely
+different nature, we will see -- I will have: affection-image Firstness; and then I'll have up there:
+sign of composition, which would give me "icon" here; and then there: genetic sign, which
+would give me: "qualisign". And then I will have my two signs of composition, "icon of feature"
+and "icon of contour", and then I will have my two "qualisigns": "qualisign of disconnection"
+and "qualisign of emptiness". This would also be pretty, that would be nice, see. There I would
+have four in that case. There would be cases in which I would only have two because that
+especially must not work with a law. That has to change every time, right? So that, I absolutely
+need that for the start of the year, those who have not been completely disgusted really remember
+that, and especially to remember the graph by Peirce. Have a very good vacation. [A minute of
+sounds of voices, from Deleuze and some students] [End of the recording] [1: 54: 00]
+
+Classification of Signs (initial version)
+
+Firstness: Sign in itself, qualisign; Sign in relation to the object: icon; Sign in relation to the
+interpretant: rheme
+
+Secondness: Sign in itself, sinsign; Sign in relation to the object: index; Sign in relation to the
+interpretant: dicisign
+
+Thirdness: Sign in itself, legisign; Sign in relation to the object: symbol; Sign in relation to the
+interpretant: argument
+
+Affection-Image (Firstness): Signe de composition: Icon (icon of contour/icon of feature);
+genetic sign: qualisign (qualisign of disconnection/qualisign of emptiness)
+
+Notes
+
+  Reference to Gérard Delédalle who edited Peirce, Écrits sur le signe (Paris : Seuil, 1978); Deleuze referred to this
+text the previous spring, in session 12 of the seminar Cinema I, March 9 1982, as well as several times in the current
+seminar. The example taken from Delédalle, “grenade”, plays on the different senses of the word in French (the city
+Grenada, pomegranate, and the weapon).
+    For the term “phanerons”, see session 4 of this seminar, December 7, 1982.
+ The graph that Deleuze develops subsequently takes up the distribution introduced during the previous seminar,
+session 12, March 9, 1982; see the breakdown reproduced directly below the translation.
+ It is possible here that Deleuze refers to the error he made about Peirce in session 4 (being English rather than
+American), and that he indicates his annoyance at trying to keep the distinction straight.
+
+                                                                                                                     21
+
+ At minute 93, approximately, in the transcriptions presented at Paris 8 (in particular, in parts 2 and 3) and at
+WebDeleuze, a text segment, corresponding to some 55 minutes of the session, is placed into the transcription. We
+have omitted this long repetition, and the Part 3 marker is only an approximation since Part 3 in Paris 8 begins in full
+repetition. Unfortunately, in Les Cours enregistrés de Gilles Deleuze, 1979-1987 (Paris: Vrin; Mons, Belgium: Sils
+Maria, 2006), Frédéric Astier relied entirely on these transcriptions (rather than listening to the actual recording),
+and his summary of this session unnecessarily reflects this repetition of the text (pp. 54-55).
+    On this term, see especially session 11 of the Cinema seminar I, March 2, 1982.
+ On the face and close-up in Griffith and Eisenstein, see Cinema seminar I, session 8 (January 26, 1982), 9
+(February 2, 1982) and 10 (February 23, 1982), as well as The Movement-Image, chapters 5 and 6).
+ On the any-space-whatever and Expressionism, see Cinema seminar I, session 11 (March 2, 1982), as well as The
+Movement-Image, chapter 7.
+
+     On these spaces, see The Movement-Image, pp. 168-171.
+
+     On spaces in Cassavetes and Godard, see The Movement-Image, pp. 250-252.

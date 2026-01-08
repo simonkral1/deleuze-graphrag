@@ -1,0 +1,54 @@
+-Goal-
+You are an expert Deleuzian Ontologist and Knowledge Graph Engineer.
+Given a text document (Book Plateau or Seminar Session) and a list of entity types, identify all entities of those types and the critical philosophical relationships between them.
+
+-Entity Types-
+1. CONCEPT (Abstract philosophical ideas, e.g., "Rhizome", "Body Without Organs", "Agencement")
+2. PERSONA (Conceptual characters or case studies, e.g., "Little Hans", "The Wolf-Man", "Professor Challenger")
+3. THINKER (Real-world authors or analysts, e.g., "Freud", "Melanie Klein", "Spinoza")
+4. TEXT_UNIT (The structural unit being analyzed, e.g., "Seminar III", "1914: One or Several Wolves?")
+5. ASSEMBLAGE (Specific functional groupings, e.g., "Wasp-Orchid", "Man-Horse-Stirrup")
+
+-Steps-
+1. Identify all entities. For each identified entity, extract:
+   - entity_name: The name of the entity. 
+     * IMPORTANT: If the term is a specific Deleuzian concept in French (e.g., "Corps sans Organes"), PRESERVE the French name as the ID. Do not anglicize unique terms.
+     * For standard terms, use English.
+   - entity_type: Must be one of the 5 types listed above.
+   - entity_description: A comprehensive summary of how this entity is defined *in this specific text*. 
+     * IMPORTANT: Write the description in ENGLISH, even if the source text is French.
+
+2. Identify relationships. Extract pairs of (source_entity, target_entity) that have a strong philosophical connection.
+   - Focus on POLEMICAL and CONSTRUCTIVE relationships.
+   - Use specific verbs for the relationship description, such as:
+     * DETERRITORIALIZES (Escapes, transforms, breaks habits)
+     * RETERRITORIALIZES (Captures, fixes, stops)
+     * CRITIQUES / MISINTERPRETS (Polemical attack)
+     * ACTUALIZES (Brings into reality)
+     * CONNECTS_WITH (Rhizomatic connection)
+
+3. Return output in English as a single list. Use **{record_delimiter}** as the list delimiter.
+
+-Examples-
+######################
+Example 1 (Seminar Context):
+
+Text:
+"Freud makes Little Hans say he wants a penis as big as a horse's. But Hans is not trying to imitate the horse; he is entering a becoming-horse. Freud imposes a structural homology where there is actually a machinic assemblage."
+
+Output:
+("entity"{tuple_delimiter}FREUD{tuple_delimiter}THINKER{tuple_delimiter}The founder of psychoanalysis, criticized here for imposing Oedipal structures on children's experiences.)
+{record_delimiter}
+("entity"{tuple_delimiter}LITTLE HANS{tuple_delimiter}PERSONA{tuple_delimiter}A child case study used by Freud; Deleuze reinterprets him as an explorer of block-movements and affects.)
+{record_delimiter}
+("entity"{tuple_delimiter}BECOMING-HORSE{tuple_delimiter}CONCEPT{tuple_delimiter}A process of affect and movement, distinct from imitation or imagination.)
+{record_delimiter}
+("entity"{tuple_delimiter}STRUCTURAL HOMOLOGY{tuple_delimiter}CONCEPT{tuple_delimiter}A rigid logical framework used by psychoanalysis to reduce experience to family triangles.)
+{record_delimiter}
+("relationship"{tuple_delimiter}FREUD{tuple_delimiter}LITTLE HANS{tuple_delimiter}Freud misinterprets Hans's experience by imposing phobia and lack.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}LITTLE HANS{tuple_delimiter}BECOMING-HORSE{tuple_delimiter}Hans experiences the horse as a vector of speed and affect, not a father figure.{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}BECOMING-HORSE{tuple_delimiter}STRUCTURAL HOMOLOGY{tuple_delimiter}The concept of Becoming opposes the static logic of Structure.{tuple_delimiter}8)
+{completion_delimiter}
+######################

@@ -1,0 +1,1027 @@
+1
+
+Gilles Deleuze
+
+Seminar on Spinoza: The Velocities of Thought
+
+Lecture 11, 17 February 1981
+
+Transcription (for Paris 8): Part 1, Marielle Burkhalter, Part 2, Vanessa Soubiran; Part 3,
+Charles J. Stivale; augmented transcription by Charles J. Stivale
+
+Translation (for Web Deleuze), Timothy S. Murphy; augmented translation by Charles J.
+Stivale
+
+Part 1
+
+Those of you who won’t hear anything, you might as well leave because there’s no point, as I’m
+quite ill, I have very little to say, so there it is. So, listen…
+
+The last time, in an effort to [Pause] analyze the different dimensions of individuality, I had tried
+to develop this theme precisely of the presence of the infinite in the philosophy of the 17th
+century, and the form under which this infinite presented itself. And this theme is very fuzzy
+(flou), if you will, and it seems to me that this truly is valuable for the nature of this 17th century
+thought, and I would like to draw from it some themes, some relatively fuzzy themes, still
+concerning this conception of the individual. This is almost an attempt to add concrete comments
+so that you might feel this kind of infinitist conception of the individual. But, I am saying,
+particularly in Spinoza’s case, but here perhaps precisely, what interests me today, is that
+Spinoza provides a perfect expression and one seemingly pushed to the extreme by themes
+scattered among other authors of the 17th century
+
+I am saying, in all its dimensions, the individual as Spinoza presents it, I would like to say three
+things about it. On the one hand, it is relation, on the other hand, it is power of action
+(puissance), and finally it is mode, but a very particular mode, a mode that one could call
+intrinsic mode, intrinsic mode.1 And at least at the start today, that’s what I would like to explain,
+these three themes. The individual -- to establish terms in Latin, these terms return frequently in
+the philosophies of the Middle Ages and Renaissance -- I would say that
+the individual insofar as being relation refers us to a whole plane that can be designated by the
+name composition (compositio), composition, as if, henceforth, all individuals being relations,
+there was a composition of individuals among themselves, and individuation is inseparable from
+this movement of composition.
+
+Second point, [the individual] is power of action, that is (potentia). This is the second great
+concept of individuality, no longer compositio that refers to relations, but potentia. The third,
+being potentia, it is something quite special that will receive the name -- in fact among certain
+philosophers of the Middle Ages – that will receive the name, intrinsic mode, modus intrinsecus.
+Modus intrinsecus is found quite often in the Middle Ages, in certain traditions, under the name
+gradus. This is degree, the intrinsic mode or degree.2 So, it’s to each of these three domains –
+
+                                                                                                         2
+
+relation and composition of relations, power of action, degree or intrinsic mode – that I would
+like to try to define a bit as concretely as possible.
+
+I am first saying, you indeed see that there is something common to these three themes: it's
+through them and according to these three terms at once that the individual is not substance. If
+it's a relation, it's not substance because substance concerns an end (terme) and not a relation. As
+they said in the Middle Ages, -- here, Latin is very useful -- substance is terminus, it is an end
+(term). If it's power of action (puissance), it's not substance either because, fundamentally,
+whatever is substance is form. It's the form that is called substantial. And in the end, if it is
+degree, it's not substance either. Why? It’s because, no doubt, every degree refers to a quality
+that it regulates (graduer); every degree is degree of a quality. And, what determines a substance
+is a quality, but the degree of a quality is not substance.
+
+You see that all this revolves around the same intuition of the individual as not being substance. I
+begin with the first characteristic: the individual is relation. This is perhaps one of the first times
+in the history of philosophy that an attempt is being sketched to think of the relation in the pure
+state. But what does that mean, thinking of the relation in the pure state? Is it possible, in some
+way, to think of the relation independently of its terms? The relation in its pure state would be
+independent of its terms. What does a relation independent of its terms mean? There had already
+been a rather strong attempt at this by Nicholas of Cusa.3 In many of his texts that I find very
+beautiful, he had an idea that will often be taken up again later. It seems to me that in his work,
+[this idea] appeared in a fundamental way, that is, every relation is measure, only that every
+measure, every relation, plunges into the infinite. He demonstrates this regarding analyses; the
+Cardinal of Cusa dealt often with issues concerning weighing, the measure of weight. He has
+some very strange pages on weighing, on the measure of weights, insofar as the relative measure
+of two weights refers to an absolute measure, and the absolute measure itself always brings the
+infinite into play. This is very bizarre, this theme, if you will; there is an immanence of pure
+relation and the infinite. By pure relation, one understands the relation separate from its terms.
+Thus, it's for this reason that it's so difficult to think of the relation independently of its terms. It's
+not because it's impossible, but because it puts into play a mutual immanence of the infinite and
+relation.
+
+So, fine, what does that mean? It’s as if, at that point, we could define intelligence, the intellect,
+as the faculty of setting out relations. But, precisely in activity called intellectual, there is a kind
+of infinite that is implicated (impliqué). It’s at the level of relation that the implication of the
+infinite occurs through intellectual activity. What does that mean? Doubtless it will be necessary
+to wait until the 17th century to find a first status – I am not saying that we will limit ourselves to
+that – a first status of the relation independent of its terms. For this is what many philosophers
+had sought since the Renaissance, including those who made use of mathematical means. This
+will be brought to a first perfection in the 17th century thanks precisely to infinitesimal calculus.
+
+This is where I’d like to say some very simple things that absolutely do not require that you be
+familiar with mathematics; that is, that even if you have no such familiarity, you should be able
+to understand this: infinitesimal calculus puts into play a certain type of relation. My question is:
+which kind of relation emerges with infinitesimal calculus, and which, no doubt, was foreseen by
+so-called methods of exhaustion that were like a prefiguration of infinitesimal calculus? The
+
+                                                                                                         3
+
+relation to which infinitesimal calculus gave a solid status, or in any case apparently solid, is
+what is called a differential relation, and a differential relation is of the type dy/dx =… -- we'll
+see what it's equal to – dy/dx =… . Fine, how does one define this relation dy/dx = ? Once again,
+I am not calling on you for anything, no familiarity with math, so that everyone might
+understand.
+
+That which is called dy is an infinitely minute quantity or, as this will be called, a disappearing
+(évanouissante) quantity, a quantity smaller than any given or givable quantity. Whatever the
+quantity you are given for dy, whatever the quantity of y you are given, that is, whatever the
+value considered is for y, dy will be smaller than this value, however far you go. So, I can say
+that dy, insofar as a vanishing quantity, is strictly equal to zero in relation to y. In the same way,
+dx is strictly equal to zero in relation to x. In fact, dy is the vanishing quantity of y, dx is the
+vanishing quantity of x. Thus, I can write, and mathematicians do write, dy/dx = 0/0. This is the
+differential relation. Are you following me? If I called y a quantity of the abscissa and x a
+quantity of the ordinate, I would say that dy = 0 in relation to the abscissa, dx = 0 in relation to
+the ordinate.
+
+There we have the question. On this matter, you understand this, so good, fine; it’s not difficult,
+dy/dx = 0/0, ok? Is this equal to zero? Obviously not. dy is nothing in relation to y, dx is nothing
+in relation to x, but dy over dx does not cancel itself out. The relation subsists, and the
+differential relation will present itself as the subsistence of the relation when the terms vanish.
+They have found – now here, this is very, very important – they have found the mathematical
+tool, and even when they use it solely as a tool, as a convention, they have found the
+mathematical convention, the mathematical convention that allows them to treat relations
+independently of their terms. And what is this mathematical convention? -- I am summarizing --
+It's the infinitely minute. Here is how I am able to say: the pure relation thus necessarily implies
+the infinite under the form of the infinitely minute since the pure relation will be the differential
+relation between infinitely minute quantities. It's at the level of the differential relation that the
+reciprocal immanence of the infinite and relation is expressed in the pure state. If you understand
+that, you have nearly understood everything. I am saying, dy/dx = 0/0, but 0/0 is not 0. In fact,
+what subsists when y and x cancel each other out under the form dy and dx, what subsists is the
+relation dy/dx itself, which is not nothing.
+
+And what does this relation dy/dx designate? To what is it equal? To proceed very simply – and
+that’s precisely what I’ve been hoping for – let’s say that dy/dx equals z, that is, it does not
+involve y or x at all, since it's y and x under the form of vanishing quantities, fine, not involving
+y and x at all, but designating z. What do I mean by this? Here’s a very simple example: when
+you have a relation dy/dx derived from a circle, this relation dy/dx = 0/0 doesn't involve the
+circle at all but refers to what is called a trigonometric tangent. Fine, here, this matters little, but
+you don’t need to understand anything at all here. You can just understand that dy/dx = z, that is,
+the relation that is independent of its terms will designate a third term and will serve in the
+measurement and in the determination of a third term, the trigonometric tangent. In this sense, I
+can say that the infinite relation, that is, the relation between the infinitely minute elements,
+refers to something finite. The mutual immanence of the infinite and relation is in the finite. It is
+in the finite itself that there is immanence of the relation and the infinitely minute elements. In
+order to gather together these three terms, pure relation, the infinite and the finite, what would I
+
+                                                                                                         4
+
+say? I would say that the differential relation dy/dx tends towards a limit, and this limit is z; it
+tends toward a limit, it tends toward the limit z, that is, the determination of the trigonometric
+tangent.
+
+Is this ok? This really has to be very clear because, if you will, I believe that, if you accept…
+Here, I believe that we are really inside a nest, within a kind of extraordinarily rich knot of
+notions. When afterwards, the mathematicians will say “well no, it's barbaric to interpret
+infinitesimal calculus by the infinitely minute, that’s not right, they’ve understood nothing,” etc.,
+of course, they're right, but from what point of view? I don’t even know from what point of view,
+but this is to pose the problem poorly, it seems to me, extremely poorly. The fact is that the 17th
+century, through its interpretation of infinitesimal calculus, finds a means of fusing three
+concepts, three key concepts, for mathematics and philosophy at the same time.
+
+These three key concepts are the concepts of the infinite, relation and limit. So, if I extract a
+formulation of the infinite from the 17th century, I would say that something finite includes an
+infinity under a certain relation. So, this formulation can appear totally dull: something finite
+includes the infinite under a certain relation; in fact, this is extraordinarily original. It precisely
+marks an equilibrium point for 17th century thought, between the infinite and the finite, through
+a new theory of relations. So, when these guys then consider it as going without saying that in
+the least finite dimension, there is the infinite, you understand, when thereafter they constantly
+speak of the existence of God -- but this is much more interesting than is believed – in the end, it
+doesn't involve God. It involves the richness of this implication of concepts: relation, infinity,
+limit. You see? I am letting you… This would be my first point: How is the individual a relation?
+
+But, you see, the finite individual? Obviously, the finite individual, you will find that there is a
+limit at the level of the finite individual. This does not prevent there having been some infinite;
+this does not prevent there having been a relation, and this relation is composed, the relations of
+one individual are composed with another; and there is always a limit that marks the finitude of
+the individual, and there is always an infinity of a certain order that is involved by the relation.
+It's a funny vision of the world if you consider it to be a vision of the world, that is, if you agree
+to see that they didn't merely think like that, they saw like that. It was their very own taste, their
+manner of treating things. So, you understand why this was not through easy assimilation that
+when they see, that when the story of microscopes is revealed, they see a confirmation in this:
+the microscope is the instrument that gives us a sensible foreshadowing – in this, they are not
+fools – a sensible and confused foreshadowing of this activity of the infinite under any finite
+relation.
+
+And Pascal's text on the infinities which is an extremely simple text – and here as well, he was a
+great mathematician -- but when he tries to let us know how he sees the world, they don’t at all
+need all their mathematical knowledge (savoir). The two console each other, the two reinforce
+each other. So, Pascal can create his text on the two infinities without any reference to
+mathematics whatsoever. He could have created his text on the two infinities as a mathematician;
+he didn’t need to because he says extremely simple, but extremely original things. And in fact,
+the originality lies in this manner of fusing three concepts which, at first glance, have a link that
+doesn’t go without saying, but then in the 17th century, there they want to show that the link is
+necessary. Once again, these are: relation, limit, infinite.
+
+                                                                                                       5
+
+Good, time for a break… If you haven’t understood this, I’ll start over. This is essential,
+essential, essential. You have to grasp that, nonetheless, all this makes for a funny world. For us
+particularly, it’s true, we no longer think like that. But what joy! I believe that we no longer think
+exactly like that. If you will, for us, it’s thanks to knowing nothing about mathematics that what I
+am saying can be understood. For them, it was thanks to having knowledge of mathematics that
+they managed to understand all that. That doesn’t mean that we’re the ones that are correct.
+Obviously, what changed is a whole system of mathematics as conventions, but that changed
+only if you comprehend that modern mathematics also plots its concepts on sets of notions, on
+implications of notions of another, equally original type. So, there we are. Must I start over?
+Should I start over? Would it be good for me to start over? Do I have to… Yes?4
+
+A student: [Inaudible comment]
+
+Deleuze: That would be good. That would be illuminating. So, hold on, let me think about this.
+Can we say that the limit, that is, the finite, is the reason for knowledge (raison de connaissance)
+and the infinite is the reason for being (raison d’être) of the relation itself? Yes, this would be
+fine, this would be really fine, this would be very clear. You see, one could say that the limit
+towards which the relation tends is the reason for knowing (connâitre) the relation as
+independent of its terms, that is, of x and of y, and the infinite, the infinitely minute, is the reason
+for being (raison d’être) of the relation; in fact, it's the reason for being of dy/dx. Yes, we can
+absolutely say this. Did they say this? Wait; yes, they didn’t say it as well, not as clearly. [That’s]
+perfect. Yes, they necessarily said this since they said everything in the end, Descartes's
+formulation, the infinite conceived and not comprehended. That is, one does not comprehend the
+infinite because it is incomprehensible, but one conceives it. This is Descartes's great
+formulation: one can conceive it clearly and distinctly, but comprehending it is something else.
+So, one conceives it; there is a reason for knowledge (connaissance) of the infinite. So, there is a
+reason for knowing that is distinct from the reason for being. Comprehending would be grasping
+the reason for being, but we cannot grasp the reason for being of the infinite because, to do so,
+we would have to be adequate to God. And our understanding is merely finite. On the other
+hand, one can conceive the infinite, conceive it clearly and distinctly, thus one has a reason for
+knowing it. Yes, completely. Fine, I am saying, it’s really necessary that you understand that,
+that this be crystal clear because my second point is so greatly going to depend on all that…
+[Pause] Is this ok?
+
+So, let me insist once again that in the end, philosophy has to conquer its practical exercises.
+Practical exercises in philosophy would have to be thought experiments (expériences). The
+notion of thought experiments is a German notion; this literally means experiments that one can
+only do through thought. This doesn’t mean interior experiences or psychological experiences.
+Practical exercises would really be curious. They would have the title of a practical exercise,
+practical exercise number 12, for example. So, this is how we could reestablish notes in
+philosophy; you would refer to your practical exercise number 12. So, there we are. So, this
+would be for the next time: construct a motif, not a shape (figure) because a shape is something
+felt (quelque chose de sensible); construct any motif whatsoever, your choice, that brings
+together the three themes, and only them, of the infinity, of the relation, and of the limit, and if
+needed, make it into a drawing. This would be a thought experiment, you see?... No? You don’t
+want to do that?
+
+                                                                                                           6
+
+Claire Parnet: We don’t have class next week.
+
+Deleuze: Oh yes, we do, for next week, yes, yes, for next week. If you want this course credit,
+this will be for next week. There we are… -- Oh, let me mention that this week is the last week
+that I am still accepting the little forms for the course credit. – So, is all this truly ok? Truly? I
+don’t need to go back over this? That’s a shame.5
+
+So, let's pass on, alas, to the second point. You see how it links up with the first point because
+I've had to invoke the notion of limit. In fact, in order to account for the immanence of the
+infinite in the relation, once again, it seems to me, the more I repeat this, it’s odd, the more I tell
+myself this, but in fact, it’s very important, the thesis according to which an immanence of the
+infinite exists within the relation. Notice, here we are, I’m pointing out that I am returning to the
+preceding point so that you will feel its importance.
+
+So, I believe, as a matter of taste first of all, the logic of relations, of relations, is a fundamental
+thing for philosophy, and alas, French philosophy has never been very interested in this aspect.
+But the logic of relations has been one of the great creations of the English and the Americans.
+But there were two stages, I would say. There is a stage that is very well known which is
+precisely the stage, finally, let’s say, that it is Anglo-Saxon, the logic of relations such as it was
+developed starting from [Bertrand] Russell, that is, such as it was developed at the end of the
+19th century, start of the 20th. And this logic of relations claims to be founded on this: the
+independence of the relation in relation to its terms, but this independence of the relation in
+relation to its terms, this autonomy of the relation in relation to its terms, is founded on finite
+considerations. It is founded on a finitism. For example, Russell even has an atomist period in
+order to develop his logic of relations.
+
+You see, what I mean is that this stage had been prepared by a very, very different stage. I would
+say that the great classical stage of the theory of relations is not at all like they say. They say that
+earlier, people confused the logic of relations and the logic of attribution. They confused two
+types of judgment: the judgment of relation (Pierre is smaller than Paul) and the judgment of
+attribution (Pierre is yellow or white or red), thus they had no consciousness of relations. It's not
+like that at all, it’s not like that at all. In so-called classical thought, there is a great awareness,
+there is a fundamental realization of the independence of the relation in relation to relations, only
+this realization passes through the infinite. The thought of the relation as pure relation can only
+be made with reference and an appeal to the infinite. Once again, this is one of the highly
+original moments of the 17th century.
+
+Fine, so I am returning to my second theme. You recall, my second theme is that the individual is
+power of action (puissance). This I just mentioned very vaguely, giving the sense of the
+formulation: the individual is relation, the individual is not substance, it is relation. My second
+term, you recall, was that the individual is not form, it is power of action. Why does this follow?
+It's because what I just said about the differential relation 0/0, which is not equal to zero but
+tends towards a limit, I immediately say: consider that when you say this, and when you propose
+the very special concept, here as well, subsequent mathematicians will denounce it. But if they
+were correct in denouncing it, doesn’t it still remain as a fundamental philosophical concept?
+When 17th century philosophers propose this theme of tending toward a limit, the tension
+
+                                                                                                          7
+
+towards a limit, this whole idea of tendency in the 17th century, there you rediscover, for
+example, in Spinoza at the level of a Spinozist concept, that of conatus -- each thing tends to
+persevere in its being, each thing strives since, in Latin, "strive" is stated as "conor," conatus, the
+effort or tendency. Here is the notion of limit defined in terms of an effort, and what is power?
+That’s exactly it; it’s the tendency itself or the effort itself insofar as it tends towards a limit.
+There we find ourselves again facing a new concept. I would like for you to sense the extent to
+which all these concepts are linked from the point of view of a conceptual creation – tending
+toward a limit, that’s what power of action is. Concretely, we will experience as power of action
+everything that is grasped under the aspect of tending toward a limit.
+
+You see, I am saying that if the limit is grasped starting from a notion of power of action,
+specifically, tending toward a limit, in terms of the slightest, the most rudimentary infinitesimal
+calculus, in terms of vulgarization, well yes, the polygon that multiplies its sides tends towards a
+limit, which is the curved line. The limit is precisely the moment when the angular line, by dint
+of multiplying its sides – can we say “reconnect” (rejoint)? No, since it goes to infinity, but
+tension toward a limit is thus the tension toward a limit now implicating the infinite -- The
+polygon, insofar as it multiplies its sides to infinity, tends towards the circle.
+
+I am saying and I would almost like to muse (rêver) in front of you exactly as I did for the
+preceding theme. What change does this bring about in the notion of limit, because the
+limit was a well-known notion? But one did not speak of tending towards a limit. The limit is a
+key philosophical concept. Again, in my efforts to make our work somewhat useful for you by
+seeing that it intervenes as creation in philosophy, I am taking this once again as a locus of the
+creation of concepts because, for example, there occurs a veritable mutation from the point of
+view of thought in the manner of thinking a concept. What was a limit? The Greeks have a word,
+-- and I am citing it at the same time as foreign words because it’s sometimes very useful in a
+text; we see the word written in Greek, because it’s very important in Greek philosophy -- it's
+"peras." [Deleuze spells it out]. Peras, in ancient Greek, this is limit. But, at the simplest level,
+what do they call limit? There are all sorts of theories of limit, and even Plato will create a great
+theory of the limit. Hey, Plato creates a great theory of the limit. That must be of interest for us.
+
+You indeed see my purpose. So that you might follow this well, it concerns posing questions
+about this conception of limit before the 17th century that was clearly of an entirely different
+nature. And it’s quite simple; I mean, however complicated Plato’s theory itself might be, there
+is a point that everyone can understand: what did they call limits, the surveyors of that period?
+The limit is contours, it is contours, it is points, it is end points (termes), there we are. The limit
+is an end, a terminus. A volume has surfaces for its limit. For example, a cube is limited by four
+squares… Six! Six! [Laughter] Six squares… Something was bothering me there: six squares.
+There, whew! A line segment is limited by two endpoints. There we are, I’m not venturing any
+farther because… [Laughter] [Pause]
+
+Plato, in a very beautiful work called the Timaeus, creates a great theory of shapes and their
+limits conceived as contours.6 And why can this conception of the limit as contour be considered
+as the basis for what one could call a certain form of idealism? Follow me closely. Necessarily
+this is very well reconciled: the limit is the contour of the form, whether the form is purely
+thought or sensible. In any case, one will call "limit" the contour of the form, and this is very
+
+                                                                                                      8
+
+easily reconciled with an idealism because if the limit is the contour of the form, at the extreme,
+what does it matter to me what there is between the limits? If I were to put some sand, some
+bronze or some thought matter, some intelligible matter, between my limits, this will always be a
+cube or a circle. [Pause]
+
+In other words, essence is the form itself related to its contour. I could speak of the pure circle
+because there is a pure contour of the circle. I could speak of a pure cube without specifying
+what it involves. And I would name these the idea of the circle, the idea of the cube. Hence the
+importance of the contour-"peras" in Plato’s philosophy in which the idea will be very exactly –
+very exactly, not because this is so terribly complicated what I’m saying, I’m deriving from it
+some little thing – the idea will be the form related to its intelligible contour. You see? In other
+words, in the idea of the contour-limit, Greek philosophy finds a very fundamental confirmation
+for its own, I would say, its own abstraction. Not that it is more abstract than another philosophy,
+but it sees the justification of the abstraction, such as it conceives this, namely, the abstraction of
+ideas. [Pause]
+
+Fine, here, I have just outlined the philosophical result of this contour-limit idea. Henceforth the
+individual will be the form related to its contour. If I look for something to which such a
+conception practically applies, I would say, in order to return a bit here to what we were
+discussing earlier regarding painting, for example, I would say that the form related to its contour
+is, par excellence, a sensible world of the a tactile-optical kind.7 The optical form is related, if
+only through the eye, if only indirectly, to a tactile contour. So, that can be the finger of pure
+spirit; the contour inevitably has a kind of tactile reference, and if one speaks of the circle or the
+cube as a pure idea, to the extent that one defines it by its contour and one relates the intelligible
+form to its contour, there is a reference, however indirect it may be, to a tactile determination.
+
+And here I once again find a confirmation: it’s completely wrong, once again, to define the
+Greek world as the world of light; it's an optical world, of course, it’s even in this that they
+discovered, that they brought forth into art, into philosophy, an optical world, but not at all a pure
+optical world. The optical world that the Greeks promote is already sufficiently confirmed by the
+word that they use to speak of the idea: eidos, eidos which is a term that refers to visuality, to the
+visible, to the sight of mind. But this sight of the mind is not purely optical. It is optical-tactile.
+Why? Because the visible form is related, however indirectly it may be, to the tactile outline.
+
+And the practical experience then, it’s not surprising that someone who reacts against Platonist
+idealism, in the name of a certain technological inspiration, is Aristotle. But if you consider
+Aristotle, there the tactile reference of the Greek optical world appears quite evidently in an
+extremely simple theory which consists in saying that substance, or rather sensible substances,
+are composites of form and matter, and it's the form that's essential. It’s the form that is essential,
+and what is the form? Well, precisely, the form is related to its contour, and the experience
+constantly invoked by Aristotle is what? It’s that of the sculptor, it’s the sculptor, and that should
+interest us greatly because Greek statuary has the greatest importance in this optical world; it's an
+optical world, but a world of sculpture, that is, one in which the form is determined according to
+a tactile contour, in which optical form is determined as a function, if only indirectly, of a tactile
+contour. Everything happens as if the visible form were unthinkable outside of a tactile mold.
+
+                                                                                                      9
+
+That is the Greek equilibrium. That is, it’s very own equilibrium. It's a kind of equilibrium…
+[Interruption of the recording] [46:42]
+
+Part 2
+
+Georges Comtesse : …The very possibility of seeing the eidos as conditioned by the separation
+of soul and sensible body…
+
+Deleuze: Yes, well, no, I was thinking that you had… It’s perhaps because I went too fast. I
+mean, taken literally, you are completely correct. The eidos is grasped by the soul, and that tells
+us nothing yet. That is, the eidos, the pure idea is obviously graspable only by the pure soul. My
+question is entirely different, notably as pure soul, we can only speak of it, according to Plato
+himself, by analogy given that we only experience our soul insofar as it is bound to a body; we
+can only speak of it by analogy. So, from the point of view of analogy, I would always have said,
+okay, it’s the pure soul that grasps the pure idea, and there’s nothing corporeal in this. It's a
+purely intellectual or spiritual grasp. But does this pure soul that grasps the idea proceed in the
+manner of an eye, “in the manner of”, or does it proceed rather in the manner of the sense of
+touch, touch which would then be purely spiritual, like the eye which would be purely spiritual?
+That is, this eye is the third eye, just as this touch would be the eleventh finger. This would be a
+“manner of speaking”, but we definitely need the analogy. Just like Plato, we definitely need
+analogical reasoning.
+
+Then my whole response consists in saying that the pure soul no more has, in complete reality,
+an eye than it has a sense of touch; it is in relation with the ideas. You are completely correct, but
+this does not prevent the philosopher, in order to speak of this apprehension of the idea by the
+soul, from having to ask himself: what is the role of an analogon of the eye and an analogon of
+touch, an analogue of the eye and an analogue of touch in the grasping of the idea? To which I
+reply, there are indeed these two analoga… [Laughter, and Deleuze laughs as well] There are
+indeed two analogues since the idea is constantly said to be seen by the soul (although the soul is
+not God) but at the same time, this pure form-Idea is only seen by the soul to the extent that it
+refers also to a contour that is constituted, that is the constitutive element in the viewed form, and
+this contour refers to analogue of touch. Ok?... Not entirely?
+
+Comtesse: … Because the limit for Plato is not just the contour of form…
+
+Deleuze: Okay, okay…
+
+Comtesse: … it's also the force that contains an infinite power of action. The infinite power of
+action that the limit contains insofar as being a force is what Plato senses literally as a demonic
+power…
+
+Deleuze: There, well yes, there, we agree…
+
+Comtesse: This is a terrifying power which has indeed brought about the deadly union of soul
+and body of which philosophy is the separation.
+
+                                                                                                   10
+
+Deleuze: Yes, but then you go right past me by saying that I am more correct than I would have
+liked to have been because that amounts to saying: careful, Plato has a very strong presentiment
+of an entirely different conception of the limit which would no longer be the contour-limit, but
+precisely it appears more or less demonic because everything depends on the texts -- okay, okay
+-- and it is this world that we must at the same time, of course, contemplate, and conjure. You
+see, he will save himself through the contour, even if there are some of his texts that prepare a
+completely different conception of the limit. And there, I thought you were going into all that
+because it’s very important. In fact, what you're saying is like these are little notations on... I
+mean, it's very subtle. You are correcting me... Comtesse there, he has just given me, it seems to
+me, an example in which he himself is correcting what I am saying. In fact, it’s so much more
+complicated; there I agree. It's very complicated. That doesn't prevent... This is a direction. If you
+believe that I am stating an absolute truth, no, I am not stating an absolute truth. I am saying
+what seems to me a tendency of this Greek thought. But it's always more complicated than what
+is said, you see? [Pause] Okay, well, that's this conception of ... this first conception of the
+contour-limit.
+
+And what happens several centuries later when, in order to create a completely different
+conception of the limit, the most varied signs come to us from it, and come at us from all sides?
+As a result, I am numbering my examples:
+
+First example with the Stoics, first example. The Stoics lay into Plato quite violently, according
+to the texts from them that remain for us to consult. They lay into Plato violently, and I am
+asking you, in all the examples that I am going to provide, to keep in the back of your mind that
+this perhaps, in some ways, not exclusively, is going to culminate, all the examples that I
+provide, culminate with Spinoza.
+
+So, a first example, the Stoics. The Stoics are not the Greeks; they are at the edge (pourtour) of
+the Greek world. At heart, we could always revise this and say that it’s going to be very
+important. They are on the contours of the Greek world. And this Greek world has changed a lot;
+literally, it had so fully collapsed under the theme of rivalry of the determined cities as there had
+been in Alexander’s dream. So, there had been the problem of the Greek world, how to develop
+the Greek world. Fine, this was something else for the Greeks than how to create Europe. You
+know, that involved so many things; you cannot understand Aristotle, or you cannot understand
+the Neo-Platonists if you don’t have at least some vague ideas about everything going on
+historically at that time.
+
+And here we have these Stoics who are hardly Greeks, who are half barbarian, half Greek, who
+are really strange people, that are attacking Plato, and starting from what? However, it’s not that
+Plato was lacking for ideas that had already come from the Orient; these were not the same ones,
+we must believe, or else there is a new Oriental current. There’s a great German author who
+wrote a book that was a marvel, named La Grèce entre les bras de l’Orient [Greece in the Arms
+of the Orient]8 to designate this era precisely, this era that begins with Stoicism, the ancient
+Stoicism – this is a lovely title, La Grèce entre les bras de l’Orient – well, these non-Greek
+Greeks, these Stoics, what do they say?
+
+                                                                                                     11
+
+They say: well, this is strange, this is very strange how… with Plato and his Ideas, these are not
+what we need, these are not what we need, this is an indefensible conception. They say, in the
+end, the contour of something, what is it? The contour of something, it's non-being. In fact, the
+contour of something is the spot where the thing ceases to be. The contour of the square is not at
+all the spot where the square is located. You see that it's very strong as an objection. Great
+objections are always very simple. They take literally this Platonism that I’ve sketched out quite
+summarily, namely that the intelligible form is the form related to a spiritual touch (tact), that is,
+it's the shape related to the contour. Or else, the sculptor’s experience. They will say as well,
+against Aristotle, but the example of the sculptor is completely artificial, the sculptor’s mold. It’s
+not natural! Nature never proceeds by molding. These [objections] seem quite simple, but what’s
+strong is when one manages to say about someone: well yes, he chooses examples, but these
+examples are not relevant. If you want to know, the Stoics say, if you want to understand
+something about the problems of limits, one cannot choose the case of the sculptor since the
+sculptor’s problem is a problem of pure artifice, notably of molding something else. In what case
+does nature proceed by way of molds? Nature doesn’t proceed by way of mold, or else it would
+be necessary to count them. It’s certainly only in superficial phenomena that nature proceeds by
+way of molds. These are so-called superficial phenomena precisely because they affect surfaces,
+but nature, in the depths (en profondeur), does not proceed by way of molds.
+
+For example, when I have the joy of having a child who resembles me, I have not sent out a
+mold. [Laughter] Notice that biologists, until the eighteenth century, grasped onto the idea of the
+mold; there are biologists, I think, into the 18th century who insisted on the spermatozoon
+analogous to a mold; this is not very rational. On that point, [the Count] Buffon had great ideas –
+hey, this is getting me off track, but that doesn’t matter -- Buffon said that if one wants to
+comprehend something of the production of living things, it would be necessary to work one’s
+way up to the idea of an internal mold. Magnificent! Buffon’s concept of an "internal mold"
+could be useful to us. An internal mold means what? He says, obviously – here, I am citing
+Buffon nearly word for word, he had a great idea -- it's awkward because one could just as well
+speak of a massive surface. He says that the internal mold is a contradictory concept. There are
+cases in which one is obliged to think by means of a contradictory concept. The mold, by
+definition, is external. It concerns surfaces. One does not mold the interior. If you mold the
+interior, that means you have placed the interior outside.9
+
+So, fine, then, this is to say that already for the living thing, the theme of the mold does not work.
+Nevertheless, there is a limit to the living thing. The Stoics are in the process of grasping onto
+something very strong: life does not proceed by molding. Aristotle chose artificial examples.
+And on Plato, they let loose even more brutally. The Stoics say, well, you understand, what is all
+this about the idea of the square, as if it were unimportant that the square was made of wood, or
+of marble, or of whatever you like? But this matters a lot. This just an awful thing, the Stoics say.
+When one defines a shape by its contours, at that very moment, everything that happens inside is
+just the same. This is how, the Stoics say, Plato was able to abstract the pure idea. They are
+denouncing a kind of sleight-of-hand (tour de passe-passe). So, this is quite unfair regarding
+Plato, obviously.
+
+What interests me isn’t whether this is or isn’t fair to Plato; what interests me is: what do they
+have to say? And what the Stoics are saying stops being simple. Understand? They are in the
+
+                                                                                                     12
+
+process of creating for themselves a totally different image of the limit. And in fact, what is their
+example that they opposed to Aristotle’s sculptor, that is, to the exterior mold, to the opticaltactile shape? They will oppose problems of vitality; what kinds of problems of vitality? Where
+does action stop? Hey, this isn’t “where does the form stop?” Answer: At the contour. Fine, form
+stops at the contour. With this, there’s no contradiction. But saying that holds no interest. It’s of
+no interest because the question is not at all where a form stops, because this is already an
+abstract and artificial question. The true question is: where does an action stop? And there, you
+aren’t going to be able to designate contours. What does that mean?
+
+There’s a very lovely text. Second practical exercise: Does everything have a contour?
+Bibliography for the practical exercise: a great contemporary American author named [Gregory]
+Bateson wrote a book in two volumes, recently translated into French, a book titled Steps to an
+Ecology of Mind in which there’s an admirable text on the language of dolphins and all sorts of
+other things at once entertaining and instructive. Bateson, who is a genius, a very great man, has
+written a very amusing text that is called "Why do things have outlines?" He gives examples; he
+talks to his daughter who is not terribly clever. [Laughter] He says, well then yes, you see, we
+are speaking right at this moment, so does our conversation have an outline [contour]?
+
+This is interesting because when your professor used to scold you, back when you still did your
+homework – but this will return! – when you did your homework, your essays, when a professor
+scolded you for getting off the topic – “off the topic” (hors du sujet), let’s take the expression
+literally, "outside the subject” -- does that mean that the topic or subject has a contour? Perhaps.
+Otherwise would that mean "outside the limits”? Is this spatial? At first glance, it seems spatial.
+But is it the same space? Do "outside the limits" and "outside the contour" belong to the same
+space? Does the conversation have a contour? Does my course today have a contour? My reply is
+yes, it has a contour. One can touch it. Fine, we’ve gotten a bit into this problem: does every
+pictorial form have an outline? It’s not certain.
+
+So, let's return to these Stoics. I’m dropping Bateson; you see, it was a problem: what are the
+different senses of “outside the subject”? This is our second practical exercise. So, for next week,
+you must turn in two practical exercises. [Laughter] Don’t forget! And draw the contour of a
+conversation. You’ll see if you need a firm line or not. So, fine, what’s their favorite example?
+It’s how far does the action of a seed go? That’s good, that’s really good! A seed has a limit, but
+what is its limit? Still, no shape? Yes, a seed indeed has a contour, but that’s not at all what’s in
+question. No doubt, there would be two limits? I can certainly follow the seed’s contour with my
+finger, but what will I have understood about the seed? When I then learn that a sunflower seed
+lost in a wall is capable of blowing out that wall, ah, the sunflower seed can make a wall
+explode, something having such a small contour. How far does the sunflower seed go, does that
+mean how far does its surface go? No, the Stoics say, the surface is where the seed ends. In their
+theory of the statement (énoncé), they will say that the surface states exactly what the seed is not,
+that is, where the seed is no longer, but about what the seed is, that tells us nothing.
+
+So, they are very forceful as far as Plato is concerned. They show up and, about Plato, they say
+that, with his theory of ideas, he tells us very well what things are not, but he tells us nothing
+about what things are. The Stoics cry out triumphantly: things are bodies, bodies and not ideas.
+
+                                                                                                       13
+
+Things are bodies, which means what? That means that things are actions, and the limit of
+something is the limit of its action, and not the contour of its shape.
+
+An even simpler example: you are walking in the forest, eh? You’re walking in the dense forest,
+in other words, in the powerful forest, and you're afraid, and at last, you move onward, and little
+by little the forest thins out. You are pleased, and you reach a spot, and you say, "whew, here's
+the edge." The edge of the forest is a limit. If that’s a limit, then fine, ok. Does this mean that the
+forest is defined by its contour? It's a limit of what? Is it a limit to the form of the forest? One
+can say this. It’s not that one cannot say it, one can say it, but that’s a kind of limit that is poorly
+defined as limit of the form of the forest. In fact, what is it? It's a limit to the action of the forest,
+that is, the forest that had so much power of action reaches the limit of its power of action; it can
+no longer bite into the terrain, as it’s thinning out. It’s thinning out, and what reveals that this is
+not a contour is the fact that we cannot even specify the precise moment at which there is no
+more forest. Were you already inside the undergrowth? How did you pass from the forest into
+the undergrowth, and from the undergrowth into the thicket, all that? I mean, really, I don’t need
+to force myself much to say: there was a tendency, and this time, the limit is not separable, a kind
+of tension towards the limit.
+
+This is a dynamic limit that is opposed to a contour-limit. The thing has no other limit than the
+limit of its power of action or of its action. The thing is thus power of action and not form. The
+forest is not defined by a form; it is defined by a power of action: power of action to create the
+trees all the way to the moment when it can no longer do so. Hence, the question that I have for
+the forest is not: what is your shape and what are your contours? The only question that I have
+for the forest is: what is your power of action? That is, how far will you go?
+
+That is what the Stoics discover and what authorizes them to say: everything is a body.
+Understand, when they say that everything is a body, they don't simply mean that all things are
+sensible, because they would not escape from the Platonist point of view. If they were to define
+the sensible thing by form and contour, that would hold no interest. But when they say that
+everything is a body, what do they mean? They mean something quite simple. A circle does not
+extend into space, does not extend, there’s always tension. A circle does not extend in space if
+it’s made of wood or of marble. A circle does not extend into space in the same way. Moreover,
+“everything is a body” will signify that a red circle and a blue circle do not extend into space in
+the same way, something that all painters and even more than painters know quite well.
+
+So, this is tension, and then they are going to define – this is a stroke of genius – the ancient
+Stoics are going to define things in what way? When they say that all things are bodies, they
+mean that all things are defined not by form or contour, but in their language, through tonos,
+tonos, that is, the kind of contracted effort that defines the thing. If you don’t find the
+contraction, the contracted force, the embryonic force that is in the thing, if you don't find the
+thing, you have no understanding (ne connaissez pas) of the thing, what Spinoza takes up again
+long after with the expression "what can a body do?" “What can a body do?” Here we have the
+first example, simply to have you sense that the notion of limit completely changes its meaning.
+
+Second example. Here I’ve considered it, but it’s still part of my concern for preparing us for the
+second semester in what we undertake on painting.10 After the Stoics, at the beginning of
+
+                                                                                                      14
+
+Christianity, and yet not necessarily in Christian authors, toward the second or third century CE,
+a quite extraordinary type of philosophy develops, certainly extremely new, which is also in the
+new Greek world, called the Neo-Platonist school. The prefix "neo", of Neo-Platonist, is
+particularly well founded because, of course, it’s by basing themselves on texts, and notably, I
+assume, texts to which Comtesse referred, it’s by basing themselves on some extremely
+important texts by Plato that the Neo-Platonists will completely decenter all of Platonism. As a
+result, in a certain sense, one could say that all of it was already in Plato. Only it was as if taken
+into an aggregate that was not Plato’s.
+
+One of the greatest Platonists was Plotinus. And from Plotinus has been gathered a kind of great
+course-book, quite admirable, called and named The Enneads. So, I am advising you, for those
+that this might interest, to browse randomly, without knowing anything about Plotinus, this
+admirable text from the point of view that concerns us, which is The Enneads IV, book five,
+book five of the fourth Ennead. You will see a kind of prodigious course or discourse or poetic
+meditation on what? On light, on light, an admirable text, a prodigious text in which Plotinus
+will try to show that light can be comprehended neither as a function of the emitting body, nor as
+a function of the receiving body. And his problem is that light belongs to these odd things that,
+for Plotinus, are going to be the true ideal things. – Here there is a kind of very, very astonishing
+short-circuiting of Plato – Light belongs to these ideal things that are recognized in this way: one
+can no longer say that it begins here, and it ends there. Where does a light end? What a story!
+This is a prodigious text.
+
+You’ll ask me, why couldn't one create the same text three centuries earlier? Ah, we don’t know
+anything about this; if we don’t understand anything about these things, we still understand
+everything, I believe, about the thought and the movement of thought. Why did these meditations
+on pure light appear in the so-called Alexandrine world? I am saying that it's kind of a manifesto,
+we could call it a manifesto for a pure optical world. Light has no tactile limit, and nevertheless
+there is certainly a limit, a very special limit, but this is not at all a limit such that I could say it
+begins here and it ends there. No, I couldn't say that. In other words, light goes as far as its power
+of action goes.
+
+In other words, Plotinus is at once hostile to the Stoics; he calls himself a Platonist. But sense the
+kind of reversal (retournement) of Platonism that he is in the process of creating. I believe that
+it's with Plotinus that a pure optical world begins in philosophy. Idealities will no longer be only
+optical, that is, they will be luminous, without any tactile reference. Henceforth, the optical limit
+is of a completely different nature. Light scours the shadows. Does shadow form part of light?
+Yes, it forms a part of light, and you will have a light-shadow gradation or a shadow-light
+gradation that will develop space. And what are they in the process of finding? That deeper than
+space, there is spatialization, that space is never… [Deleuze does not finish this] and that, Plato
+didn't know (savait).
+
+On this point, when this idea imposes itself, of a spatialization deeper than space, we can always
+start to reread Plato and say, but yes, [Deleuze laughs] but yes, there are a thousand texts by
+Plato that prepared this. But this is where I always invoke the need for tact in philosophy. If you
+say it's already in Plato, you deprive yourself of a lot of joy, and then you are led... one step
+
+                                                                                                         15
+
+further and you make huge mistakes. It’s in Plato, but virtually. There are Plato texts on light,
+okay, okay. You find everything you want; it's up to you to possess a kind of art of nuances.
+
+That still doesn’t prevent then, if you read Plato's texts on light, for example, the end of book six
+of The Republic, and set it next to Plotinus 's texts that I cited for you, from the fourth Ennead, if
+you read them side by side, you see that, you immediately understand, you don’t know why, but
+you immediately accept the idea that several centuries had to pass between one text and the
+other, that it’s not the same world. You know it for certain before knowing why, that the manner
+in which Plotinus extracts the texts from Plato, and thus he develops for himself a theme of pure
+light, could not be Platonist because, once again, Plato's Greek world – here, I am saying this in
+order to summarize, to be more precise – was not a world that was optical, but a tactile-optical
+world, whereas the discovery of a pure light and of the sufficiency of light to constitute a world
+implies that, beneath space, one has discovered the phenomenon of spatialization. This is not a
+Platonist idea, spatialization of space, or one can find seeds of it in the Timeus, but you will see
+that it’s not… No.
+
+Space grasped as the product of an expansion, that is, space is second in relation to expansion
+and not first, space is the result of an expansion; that’s a bizarre idea that, in my view, even one
+could say, for a classical Greek, would have been incomprehensible. What does an expansion
+mean, one that does not already presuppose a space? It’s not easy as an idea. Lots of things
+would be necessary to be discovered, to occur, starting with a deepening of Pythagorism, with
+the idea of…, with all sorts of Oriental influences. It's an idea that comes from the Orient. I don’t
+know why I say that; I am not risking much in being wrong. That just feels like the Orient, that
+light could be spatializing. It's not light that is in space, it's light that constitutes space. This is not
+a Greek idea. You know, everything starts… this, one feels that… They say, ah yes, well no,
+that’s not an idea from around here; that thing comes from somewhere else. You have to read
+some philosophy; you have to be very sensitive to these kinds of things. Fine.
+
+Here’s a third example, after the Stoics and the Greeks, several centuries later. And there
+explodes – here I’m going quickly because it’s like a confirmation – there explodes, what
+explodes? A tremendously important art form explodes, namely, art called Byzantine art. It's a
+problem for art critics to discover how Byzantine art remains linked to classical Greek art while
+at the same time, from another point of view, it breaks completely with classical Greek art. If I
+take the analyses of one of the best critics in this regard, an Austrian author, I believe, [Alois]
+Riegl, he says something extremely rigorous, as one of the best specialists on Byzantine art.
+
+He says – but you understand, in Greek art, of course, it’s already quite complicated, but in
+general, it’s mostly in general that I am saying, it’s in order to give you some reference points --
+you have the primacy of the foreground (avant-plan). The great difference between Greek art
+and Egyptian art is that, in Greek art, the distinction is made between the foreground and the
+background (arrière-plan), while in Egyptian art, broadly speaking, the two planes are on the
+same plane, for example, all Egyptian bas-relief. – What I am saying is quite a summary, as I am
+summarizing from Riegl’s viewpoint. – He says, fine, a shift occurs in Greek art: it’s the Greek
+temple, it's the advent, says Riegl with a very enjoyable phrase, it’s the advent of the cube. – It’s
+the advent [Deleuze hesitates, having trouble speaking] It’s just that I can’t because my throat is
+hoarse; alas, I just can’t – It’s the advent of the cube, the cube, six sides, whereas for the
+
+                                                                                                  16
+
+Egyptians, what was it? It was the pyramid, and the pyramid has plane surfaces, you see?
+Wherever you set yourself, you are always on a plane surface. It’s disturbing. With the pyramid,
+it's diabolical because this is a way of hiding the volume. Very strange! Clearly, they cram the
+volume into a little cube which is the funerary chamber, and they set up plane surfaces, isosceles
+triangles, to hide the cube. The Egyptians are ashamed of the cube. The cube is the enemy, it’s
+the dark, the obscure, it's the tactile. So, they do that; it’s on the same plane.
+
+The Greeks invent an amazing thing: they invent the cube. They aren’t ashamed of the cube.
+They make cubical temples, that is, they displace the foreground and the background. But, Riegl
+says, fine, look closely at all Greek works: there is a primacy of the foreground, and the primacy
+of the foreground is linked to the form because it's the form that has contour. Fine, the primacy
+of the foreground, primacy of the form, the relation of form with contour, all this is unified. It's
+for this reason that he will define the Greek world as a tactile-optical world. [Pause] Do you
+follow?
+
+So, here, with the Byzantines, it's quite odd. Look at the mosaics; they get nested (nichent),
+they’re moved into niches; they get moved back. It’s really funny! And space? As is said, there is
+no depth in Byzantine art, but why is there no depth in Byzantine art? For a very simple reason,
+it's that depth is between me and the image. One of the dramas of Byzantine art is a modern
+drama, specifically that because of the camera, yet again, everything comes from the misdeeds of
+the photo: the mosaics get photographed, that is, they are shot from only ten centimeters [four
+feet], and this is shameful! It’s shameful! The photographers should be killed since, by
+definition, this is backwards, it’s backward, since all of Byzantine depth is the space between the
+spectator and the mosaic. If you suppress this space, it's as if, I don’t know, it’s like you were to
+look at a painting outside of any condition of perception. It's hideous.
+
+Fine, you understand, in other words, the Byzantines, seemingly innocent, unleash an enormous
+strongarm move, notably they privilege the background, and the entire shape will emerge from
+the background. The whole image will emerge from the background. But, at that very moment,
+as if by chance, the formula of the shape or the image is no longer form-contour. Form-contour
+was for Greek sculpture. It’s no longer form-contour. And nevertheless, there is indeed a limit,
+and still, you will tell me, there are even contours, even in mosaics; these are very sharp
+contours, but this is not what acts, that’s not what’s interesting. The work no longer acts that
+way, whereas in Greek statuary, it’s indeed the contour that acts, the contour insofar as it
+captures the light. But there, that’s not at all what happens in Byzantine mosaic; it’s no longer
+form-contour. What am I saying it is? It’s light-color, that is, what defines, in the proper sense of
+“to define,” notably, what marks the limits of something – to define is to mark limits; a definition
+is an indication of a limit – what defines the Byzantine shape is no longer form-contour, but
+rather the couple light-color, that is, that the shape continues all the way to where the light goes
+that it captures or emits, and all the way to where color goes, the color of which [the shape is]
+composed. Hence, in fact, the effect on the spectator is prodigious, namely, that a black eye goes
+exactly into where this blackness radiates. Hence the impression of these shapes in which the
+face is consumed by the eyes.
+
+In other words, there is no longer a contour of the shape; there is an expansion of light-color, and
+the shape will go all the way to where it acts, through light and through color. I can say: it’s the
+
+                                                                                                     17
+
+reversal of the Greek world. I can say both at the same time. But yes, that comes out of the Greek
+world. Only, what the Greeks weren’t able to do, or what they hadn’t even considered doing, was
+this liberation of light and color. It’s with Byzantine art, as everyone says or as Riegl says, it’s
+with Byzantine art that color and light are liberated in relation to space. Why? Because what they
+discover is that light and color are spatializing. Thus, art must not be an art of space, it must be
+an art of the spatialization of space. [Pause] So, I would say that, if you will, this is an idea that
+goes without saying: between Byzantine art from the point of view of mosaic painting, for
+example, and architecture as well, and the slightly earlier texts on light by Plotinus, there is an
+obvious resonance. What is affirmed is the same conception of the limit.
+
+The final example that I would like to work through quickly. What does it mean, this story
+about… I mean, now, there are two sorts of limits. I could multiply my oppositions between
+limit-limit. [First] there is a contour-limit and there is a tension-limit; second, there is a spacelimit, and there is a spatialization-limit; [End of Web Deleuze transcript and translation] there’s
+a contour-limit, yes again, and a light-color limit; there is a state (état) limit, there is a terminus
+limit, a tension-limit. So, what interests me, in one sense, is not at all the comments by
+contemporary mathematicians, for example, about the mathematical nonsense that the expression
+“tending toward a limit” would represent today. The only thing that would interest me, rather, in
+modern mathematicians is what their own concepts are, what their positive concepts are. But
+regarding the past, what interests me is in what way the idea of tending toward a limit is truly
+founded on all sorts of experiences, experiences of thought, aesthetic experiences that completely
+changed [End of Paris 8 transcript, 93:05] both the conception of the individual and of form and
+light… and color, etc. etc.
+
+And to state this even more briefly, I am selecting a last example here that I’ve used for other
+things, in other seminar years. I am saying, let’s oppose, to be quite simple, yes, we have to…
+[Interruption of the recording] [1:33:27]
+
+Part 3
+… How do men operate distributions? Men operate distributions by dividing a space. So, for
+example, in a large square, they make small squares; this is called the cadaster. This square is
+yours, this one is mine, etc. Okay, you see? We divide a space. I would say, it's a contour-limit
+conception. There is more: where my square ends, and where yours starts, we will put down a
+marker (borne). How does one say “marker” in Latin? It’s obviously -- you can invent it
+yourself; you don't have to look it up in the dictionary – “marker” can only be said terminus.
+This is the conception of the contour-limit. [Pause]
+But what do cows do in relation to space? They do much better than that. Notice, the two
+conceptions overlap. You take a meadow, eh? It doesn't matter if it's bounded or not. It can be
+bounded; in that case, it’s closed off, contour-limit. But it can have, it can even have a limit of
+another type, that is, it is a clearing meadow (prairie clairière). It’s not closed off, therefore, but
+the further we go, the more the forest begins. So, it’s a meadow that tends towards the forest
+limit, without us being able to say, oh well, it’s forest or it’s not anymore, it’s the meadow. You
+see? This is a dynamic conception of the limit.
+
+                                                                                                    18
+
+So, well, cows, how... Cows know, and so do farmers, that a meadow cannot feed just any
+number of cows whatsoever. This is even what we call natural selection. There are always
+animals that die if there are too many compared to the milieu. How are the animals, the cows
+going to manage? The cows don’t create small squares in the meadow, saying this is my square,
+that one’s yours. How do they manage? Instead of distributing space, they distribute themselves
+in space. What does this mean? It doesn’t exclude hierarchical relations. Notice, there is the chief
+cow; there is the more prestigious cow, the one that [reserves] the best…, I can no longer say,
+square, the best zone, a cow zone.
+
+What will the cow zone be? It’s the point to which the cow can go in its daily appetite, that is,
+the grassy area that it can graze with its rough tongue, eh? I am fully within a Stoic example.
+This is a funny limit. There is no barrier there. The appetite limit of a cow, you cannot say that it
+starts with a particular blade of grass and ends with another particular blade of grass. It’s a limit
+of power of action (puissance). And one way or another, the cows work it out. You know from
+empirical science that it takes so much land to feed a cow. So, if you are a good farmer, you are
+not going to put twenty cows on a plot of land that could only feed ten because there will be ten
+that are likely to die, especially the small calves which… -- But, at this idea, our hearts start
+aching, [Laughter] the little calves that are dying -- fine, so you're going to put ten cows more or
+less onto a terrain for ten cows, but you're not going to give each cow a square. It’s not the
+contour-limit; it's the power of action limit. Cows will distribute themselves according to their
+relations, including their hierarchical relations, in such a way that, over a particular space of
+time, the whole of the meadow is grazed, in a dynamic way. And there will be territories, but
+territories that will not be marked by barriers.
+
+What is an animal's territory? It is up to where its power of action reaches. And what is it that’s
+called ethology, ethology, which is just a synonym for ethics? It’s the science of powers of action
+and limits in this second sense. And what is the ethical cry? "What can a body do?" Always the
+same thing: what is it capable of doing? It’s: what it is capable of, what is its power of action?
+How will we see its power of action? Through the limit, in the dynamic sense. However, once
+again, the contour-limit lets us completely escape the dynamic limit. The dynamic limit is
+spatializing whereas the contour-limit supposes a ready-made space, a measured space. You
+follow me?
+
+So, finally, because we can't take it anymore, any questions on all this? It's very simple. I would
+like you to feel something that’s happening, in short, something very important, when the limit
+was no longer conceived of, you understand, even politically, because it poses, in fact, political
+problems with the conception, at that time, of territories. Territories are dynamic expressions and
+no longer geometric contours. It is no longer the geometer or surveyor who becomes the master
+of things; the surveyor is no longer anything at all. It’s no longer a question of surveying. No.
+Geometry must be surpassed by a much deeper dynamic. We're not far from the Renaissance
+world. Even the regime of violence changes completely because think of what the Greeks called
+violence. What the classical Greeks called violence is violating the limits. In what way, violating
+limits? Violating limits as they understand them, violating the contour-limits. They say it very
+well: everyone has their share (lot). Whether he likes it or not, everyone has their share. If
+someone violate the limits of his share, that is, of his property, that’s no longer permitted. This is
+where the gods will drive them crazy. But then, the conception changes singularly.
+
+                                                                                                    19
+
+So, think about this. Well, you can do the practical exercises, I think, three practical exercises for
+next week: what is a border? [Pause] What is a border? Is this the limit in the sense of contour,
+or is it the dynamic limit? It depends on the times, it depends on the location, it depends on
+history, it depends on geography, it depends on a thousand things.
+
+So, let's go back to Spinoza a little bit more strongly. Why does Spinoza... There are points on
+which -- I'm going quickly before finishing -- because there are points on which Spinoza, there is
+not even a problem, he inherits from all that. Spinoza has a lot to do with Stoicism instead...
+There is also an absolute criticism of Ideas, with a capital I, separate Ideas. There is a famous
+Spinoza expression that is always quoted, but very often it’s quoted separated from its context.
+And it's a shame because when we see the context, we are completely interested. This is the
+formula, “all determination is negation”; in Latin, omnis determinatio negatio est, all
+determination is negation. But what does that mean? You find this text [in] letter 50, letter 50, to
+a gentleman named [Jarig] Jelles [Deleuze spells it], and Spinoza explains this very well. This
+concerns the contour of shapes, explicitly. He says, "the contour determines the shape," okay.
+Okay, the contour is the determination of the figure. But at the same time, the contour tells us
+what the shape is not because [the contour] designates the place where the shape is no longer. So,
+the contour is indeed determination, but it is a negative determination; all determination is a
+negation. It is about the contour-limit that, explicitly, Spinoza offers an expression that will be
+celebrated.
+
+In other words, I can already conclude from this, if I am honest, by reading this text, that a
+problem remains: if there is a determination which is not a contour, is that one also a negation? If
+Spinoza doesn't want to call it determination, what will he call it? Okay, so there is a problem.
+So, when he tells us that, Spinoza tells us, all right, shapes are beings of reason, that is, shapes
+are abstracts. A shape is an abstraction, and he makes his great criticism of the geometric shape.
+And yet, he employs a geometric method. It's weird! Few authors have gone as far as he did in
+criticizing geometric shape, and yet he employs a geometric method. What is happening? In
+geometry, would there be anything other than shape and contour? Yes, Spinoza tells us, there is
+something else. As long as I consider shape and contour, I am within a pure and simple
+abstraction. And, he tells us, nothing in nature is created through shape and contour, exactly as I
+told you earlier, nothing is created by molding. He says, we've never seen, we've never seen a
+circle be created in nature geometrically. There are many things that become round, and that's
+what's interesting. They become round, but they do not become round with a compass.
+
+So, what else is there? It is therefore a critique of any conception of the abstract idea. He tells us,
+well here, consider, there are two definitions of the circle. He invites us to ponder fully the
+difference between these two definitions. The definition of the circle is the locus of the points
+situated equidistant from the same point called the center. Immediately, you see, I define the
+circle by its contour; the locus of the points situated at equal distance from the same point called
+center, this is what I would call a circular contour. The shape is defined, the shape of the circle is
+defined by its contour. He told us, there is nothing to be gained from this definition, and when
+the surveyors derive something from a definition of the circle, it’s because they have given the
+circle, implicitly or not, another definition. What is this other definition? It is a produced shape, a
+produced shape, in other words, it’s a definition by the reason of production, or what is called in
+
+                                                                                                     20
+
+geometry a “genetic definition”. Think of the seed for the Stoics. The seed must be subject to a
+genetic definition.
+
+The circle also must be subject to a genetic definition. We will define the circle as the shape
+produced by a line segment rotating around one of its extremities. In this way, you generate a
+circle, and it does not matter that nature does not generate circles in this way because at least you
+have linked the circle to a power of action which, in this case, is not that of nature but the power
+of action of your mind. You can produce a circle with this definition, while the other definition
+gives you no way to produce a circle, that is, how to maintain the locus, the locus common to the
+points. Only the other definition gives you a means of production, a rule for production. So, it
+gives you a genetic reason for the circle. This is a genetic definition. You will say that the circle
+has a power of action. The circle is no longer defined by a shape. It is defined as a power of
+action. The genetic rule is the power of action to produce a circle, and the circle will go where
+that power of action goes. The circle will be defined by an internal power of action, no longer by
+an external contour. At that point, and under this condition, the geometric method can tell us
+something real.
+
+Well, then, I reconnect with what I just said: the paradoxical notion of differential relations,
+dy/dx equals 0/0, gave us the idea of a limit no longer in the sense of contour, but in the sense of
+what tends towards x and y when they disappear. 0/0 is not at all equal to zero because, in fact, it
+defines the limit towards which x and y tend when x becomes dx and y becomes dy, that is, when
+x and y become smaller, getting smaller than any assignable quantity. This is exactly the
+relation, at the level of the senses. This is exactly the forest-edge relation; this is exactly the
+light-spatialization relation. [Pause]
+
+So, it is in this perspective that we find a confirmation of a kind of, in the 17th century, of return
+-- I am not at all saying that it was the same with the Alexandrians, with the Neo-Platonists -- but
+a return of an attempt for a pure optical space, a kind of thing with light, but there, precisely,
+light and power of action are so identified… Up to where does something’s power of action
+reach? Up to where does something’s light reach?
+
+Good, at that point, you see that infinitesimal analysis as interpreted by the 17th century, once
+again, I would say, it should not even be privileged. That’s why we don’t care about knowing if,
+mathematically, it’s entirely correct (au point) because the question makes no sense. The
+interpretation they give of infinitesimal analysis, this is to mathematics what the painting of the
+17th [century] is to the painting of light, where contour no longer acts, is no longer present as a
+tactile contour of the thing, even virtual as tactile contour, virtual In Rembrandt, for example, in
+the Dutch [painters], this is not at all a tactile contour, even virtual. This is a limit in a whole
+different sense when you talk about the limit of shadows and lights. Okay, this is a zone and not
+a contour at all; it’s an art of zone. It tends towards a limit; so, there is a tension-limit which is
+opposed point by point to the contour-limit. This is the world of the 17th century.
+
+[It] would then remain for me to say finally one last point. I only commented today on how the
+individual is a relation and what kind of relation. It was the relation-infinity link, and second,
+how [the individual] is power of action, and that was the other link, power of action-[limit;
+Deleuze coughs while saying this word], and the two are absolutely related. If I take my first
+
+                                                                                                                   21
+
+group of notions, relations and infinity, and my second group of notions, power of action-limit,
+notice that they are absolutely linked since, once again, the limit is limit of the relation. So, you
+go from one to the other continuously.
+
+Finally, I have a third point; it is by virtue of this [group 1] that mode is relation and not end
+(terme), by virtue of that [group 2] that mode is power of action and not contour, the individual
+will be designated, in addition, intrinsic mode. Intrinsic mode, what does that mean? I would like
+you to think about it -- there, I am stopping -- I would like you to think about it from an example
+that, the next time, I will start with in order to comment on this notion of intrinsic mode. The
+author of this notion [is] a great theological philosopher whose name is Duns Scotus [Deleuze
+spells it]. A text by Duns Scotus says, here we are: "White light ... White light can be more or
+less intense, but more or less intense light does not mean more or less light. Light is light; only it
+is identically and similarly light, but it is so in many ways. These are the intrinsic modes of
+light.” [Pause] Why do I want to start off from this text? Because there is a very curious text
+from Spinoza’s youth in which Spinoza says: "If the wall is all white, what happens? If the wall
+is all white, what can we distinguish on it?” There are only two possible answers: either you can't
+distinguish anything, or you can distinguish something. Let’s take the example, let’s take the
+other case: the light is not only all white on the wall, but with charcoal, I’ve drawn a little guy,
+two little guys. I would say, the light is not only all white; I’ve added two drawings to it, I made
+two drawings on the wall; I distinguish one drawing from the other.
+
+Let's not try to complicate it too much here; how do I distinguish them? By the contour. How
+would I call this distinction of the two drawings by the contour? I would say, it’s an extrinsic
+distinction. One little guy is outside the other because, finally, if I have diabolically mixed the
+two men by hand, already I will have trouble: can I distinguish them? Can I not distinguish
+them? There we are. I have my two limit situations: my white wall, no drawings; my wall with
+two distinct little guys, extrinsic distinction. Can I introduce distinctions that would not be
+extrinsic onto the white wall? Fourth practical exercise, fifth… seventh practical exercise. So, we
+will go on from there next time. Here, I am stopping because we are all ill. [End of the session]
+[1: 58: 18]
+
+Notes
+  In concert with the translation in Spinoza: Practical Philosophy by Robert Hurley, I have chosen to translate
+Deleuze’s “rapport” as relation, since Deleuze is gradually developing an argument, from one lecture to the next, of
+the importance of differential relations in both philosophical and mathematical terms. Also, Deleuze employs the
+terms puissance that I translate as “power of action”. With reference to Spinoza, this term stands in contrast to
+pouvoir, power.
+  Deleuze discusses these “modal essences” in Expressionism in Philosophy: Spinoza, trans. Martin Joughin (New
+York: Zone, 1992), pp. 191-192.
+  See the discussion of Nicholas of Cusa in the Spinoza lectures, 2 and 9 December 1981.
+  This sequence of questions is Deleuze’s way of trying to cajole the students to ask him some questions, using three
+verb tenses of the verb devoir – dois-je recommencer? Devais-je recommencer? Devrais-je recommencer? –
+followed by the strong faut-il (do I have to…) which he does not complete since someone asks a question.
+  This reference to the thought experiment will become a running joke throughout this session since, in fact, there is
+no class held the following week. However, Deleuze’s reaction here, “that’s a shame,” suggests that he really
+expected to receive more questions about the preceding point. This implication is confirmed in the following
+paragraph where Deleuze insists on going back over his first point before proceeding.
+  See the discussion of the Timaeus in the Leibniz session 12, 17 March 1987.
+
+                                                                                                                  22
+
+  See the discussion of the tactile-optical in the Spinoza seminar on 27 January 1981.
+  See Josef Strzygowski, La Grèce dans les bras de l’Orient [Hellas in der Orients Umarmung (Munich, 1902).
+  On Buffon and questions of modulation, see Francis Bacon. The Logic of Sensation, trans. Daniel W. Smith
+(London: Continuum, 2003), p. 192, note 20.
+   The final Spinoza session, on 31 March 1981, will also be the introductory session for the seminar on Painting and
+the Question of Concepts, that continues to June.
+,

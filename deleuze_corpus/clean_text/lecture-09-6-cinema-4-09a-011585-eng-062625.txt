@@ -1,0 +1,1305 @@
+Gilles Deleuze
+Seminar on Cinema and Thought, 1984–1985
+
+Lecture 09, 15 January 1985
+
+Transcription: La voix de Deleuze, Not attributed (Part 1), Nadia Ouis (Parts 2 and 3);
+correction: Tounsi Mehdy; additional revisions to the transcription and time-stamp:
+Charles J. Stivale
+
+Translation: Graeme Thomson & Silvia Maglioni
+
+Part 1
+
+I'm going to tell you something, and I’d like to think that what I’m going to say will warm
+your heart. But I have the feeling that for now my words are cold and dead. I think that
+maybe I've been a bit presumptuous. I've been working on this for three years and in the end,
+I was presumptuous because I thought I was making philosophy from cinema and yet now I
+feel that it's cinema that's swallowed me up. And that won’t do.
+
+This gives rise to an abominable question: could it be that I hate cinema? So much so that
+after this year I'll never go to the movies again… And yet, in the name of an awareness that
+is… that leads us all, I must go all the way to the end of this. Don't be sad for me, because it's
+quite funny but I'd like… if possible, I’d like you to help me more and tell me when
+something isn't going well. Or when it is going well, because I’ve reached a point... my only
+strong point is that everything I've covered for you during the seminar was still only research
+that needed to be fine-tuned. That's why I’d very much prefer that that there should be no
+circulation or sale of things that haven’t yet been finalized. What has been fine-tuned can
+make a well-ordered seminar… but it won’t lead to something precise, because the criteria
+for a course are not the same thing. One way or another, the essence of a course must be
+research. So… even if in previous years I didn't need it as much, this year I need you to tell
+me what you think.
+
+Student: Can I say something?
+
+Deleuze: Yes.
+
+Student: Well, for me, I had a little difficulty concerning… the first part of your discourse
+during last time’s seminar – I had some difficulty concerning the notion of identification
+between the cinematographic image and the object. At first it seemed to be simple and direct,
+whereas in reality it requires a deeper explanation. And I said to myself, if we have to make
+this identification in order to say that in the end the image becomes its own object, we fall –
+without accusing you of anything – between two arbitrary mechanisms. And if by
+identification we mean that the cinematographic image, in its own development, creates
+itself… it creates itself as an object… and it seems to me that this is precisely what you
+wanted to explain in the second part of the seminar. But to go back to the first part, it still
+needs to be a little clearer. Because to identify it in this way...
+
+Deleuze: Yes, yes, yes, we can do that. I was very quick there because I needed to make that
+allusion. But concerning the very question… in what way are the image and the object
+identical from the point of view of the cinematographic image… I'll only be able to answer
+
+that when – and it’ll soon be time for this – when I come to look at the relations between
+cinema and language, by commenting on the texts of [Pier Paolo] Pasolini. So, it was simply
+a way of announcing something I hadn’t yet covered, so all is well. There are things we have
+to keep in reserve that I haven't explained yet. Good. So, I'm not forgetting at all, I'm not
+forgetting… but that will come, it will come in its own time.
+
+So, what we were trying to do last time, you see, was to take [Sergei] Eisenstein as an
+exemplary case and investigate the relation between image and thought according to
+Eisenstein. And in trying to put some order into these very complex texts, I proposed – but it
+was only a proposal – to distinguish two movements. And as we've seen, these two
+movements can be summarized very quickly. It seems to me that there is a first movement
+which goes from the image conceived as perception, that is, from the percept-image, to the
+concept as self-consciousness, that is, from the percept-image to thought. And this first
+dimension, as I was saying, is what we might call the plane of organization and development.
+And this organization and development, that goes from percept-image to concept, takes place
+through the intermediary of dominants, dominants of the image, and also harmonics of the
+image.
+
+And in this first direction, you'll notice that “harmonic” has to be taken in a very precise
+sense, which is as follows: a visual image would have harmonics insofar as it formed
+aggregates with non-visual data. So, Eisenstein goes so far as to tell us that, even in the field
+of music, the harmonics of a sound are not exactly, or are not purely, sonorous – which
+means that they are not simply heard, they are felt, they are felt in the sense of what he calls a
+completely physiological sensation. So, the harmonics of the visual image take us from a
+visual perception to what he calls a kind of “I feel”. It’s no longer “I see” but “I feel”, a
+completely physiological sensation, given by the visual image insofar as this visual image is
+apprehended along with its harmonics. And here I’m summarizing only the most abstract part
+of the last session.1
+
+Then, I said that there was another movement. And in Eisenstein's texts – that's why I was
+only trying to propose you a way of ordering them – in Eisenstein's texts, the two movements
+encroach upon one another, and we're never quite sure, except from the context, which
+movement is in question. So, this is where you might say to me that this is all fine… or else
+some of you could say, Well, no, I don't think there is any movement, I don’t see it… But in
+any case, according to my reading, in any case the texts become... the texts are incoherent if
+we can’t distinguish between these two movements, if we don't distinguish these two
+movements. The second movement, in fact, passes from muddled thought or muddled
+concept to image, from confusedly apprehended concept to image. And on this path, we no
+longer go from image to concept, we go from concept to image, but the image is no longer
+determined as a percept-image, it is determined as an affect-image.
+
+In the first case, from the percept-image to the clear concept, the fundamental act was
+montage, because the concept depended on montage, while at the same time deriving from
+the percept-image. On the second plane, the fundamental instance is the interior monologue.
+And the interior monologue translates… the interior monologue is not defined as what's
+going on in a character's head but as the film in its totality, the film as a whole. So, the
+interior monologue passes from muddled thought to the images it expresses.
+
+I proposed calling this second plane the plane of composition. And indeed, each time
+Eisenstein talks about composition, he's talking about the movement from the felt idea to the
+
+images it expresses. And this is the whole plane on which harmonics develop. Once again, we
+find harmonics but in a completely different sense. So, when Eisenstein speaks of harmonics,
+it seems to me that he does so in two ways – I'm not saying they are contradictory, but they
+are two different ways. This time, the harmonics are the muddled thought, the confused idea
+as presented, or as present, in two distinct images of which sometimes one is given and the
+other... sometimes one is given while the other is not given. And the harmonic will be the
+determination of metaphor. As I was saying, there are two types of metaphor: a metaphor we
+might call extrinsic and a metaphor we could call intrinsic. Extrinsic metaphor: the relation
+between a sad Nature and a sad man. Here we have two images which are both given and the
+harmonic is the same. This is the first case of composition.
+
+Second case of composition: two images have the same harmonic but one of them is not
+given. We've seen that this is a much more interesting composition of the type: the lovers are
+like criminals, the very example that Eisenstein borrowed from [Leo] Tolstoy… the lovers
+are like criminals, in terms of the criminal embraces of the lovers, but only one image, that of
+the lovers, is given. This image simply captures the harmonics of another image, the image of
+a crime, but the image of the crime is not given. Or the metaphor I insisted on because, once
+again, it seems to me the finest in the history of cinema: the story of Buster Keaton in The
+Navigator [1924], where Buster Keaton’s diving suit that is pierced by a knife while he is
+drowning in the diving suit, seizes upon the harmonics of a completely different image that is
+not given, namely that of childbirth through Caesarean section and the breaking of the waters.
+
+But obviously, if we put the two together, the two planes or the two movements – one that
+goes, once again, from the percept-image to the clear concept, the other that goes from the
+muddled concept to the affect-image – we have a circulation, and it's through this circulation
+that Eisenstein conceives of a dialectical cinema. We have a circulation because we went
+from the percept-image to the concept through sensory shock… this is Eisenstein's theory of
+shock. But conversely, we went from the confused idea to the affect-image through emotional
+shock, and we see how emotional shock revives sensory shock. In other words, the two
+planes are perpetually put into circulation, as if these two planes became circular and
+continually referred back to one another.
+
+So, in a way, we were left to conclude that Eisenstein's third plane is the result of the
+circulation of the two. What is this third plane? According to Eisenstein, it's the ultimate goal
+of cinema, namely the identity of image and concept or, if you prefer, of Nature and man.
+And in what sense is there identity between Nature and man?2 Obviously, for Eisenstein, in
+the dialectical sense. That is, as Marx said, and as Hegel said before him, Nature is the
+substantial basis of human existence, but conversely, human existence is at the same time the
+subject of Nature, which is nothing more than the objective human relation. Marx's famous
+passages on the identity between Nature and society or between Nature and man are always
+based on this dialectical movement, this double dialectical movement through which Nature
+is the basis of human existence. But conversely, human existence is the subject of Nature
+which, from this point of view, is nothing more than the objective human relation, which is to
+say the relation of man with his own objectification.
+
+Well, I'd say this defines Eisenstein's ultimate term, no longer organization-development as in
+the first plane, no longer composition, but that which unifies everything and which he calls
+structure. Structure is this unity of Nature and man, of image and concept. You can see in
+what sense it is a dynamic structure, since the first dimension never ceases to pass into the
+second, while the second never ceases to pass back into the first. And in this way, he can say
+
+that he's not at all applying Marxism to cinema but is able to really think – and rightly so I
+believe – that what he is making is a dialectical cinema, a Marxist cinema. And in fact, this
+identity of Nature and man consists in telling us – and this is another way of expressing it –
+that Nature never ceases to internalize itself in man, just as man never ceases to externalize
+himself in Nature. These are old Hegelian concepts. Old… actually, I'm wrong in saying old,
+since they have never ceased to be relevant, in the sense that they define dialectics. So, here
+we have the double movement of internalization and externalization, which corresponds
+perfectly to my first two planes of Eisenstein’s cinema.
+
+Now, cinema fosters something similar – just think of [André] Bazin's famous passages on
+this… but what is it that determines, what defines the cinematographic image? It's that, in the
+end, it always begins from Nature, even when it seems to start from something else entirely.
+It always begins from Nature, and according to Bazin, this is the difference between cinema
+and theater. In what way does it always begin from Nature? Well, yes. It is its destiny, or the
+destiny of the cinematographic image, to treat its object as Nature. And in a famous passage,
+Bazin takes [Carl] Dreyer's The Passion of Joan of Arc [1928] as an example by asking:
+what's actually going on in this film, which he says seems to be a film purely of faces? The
+faces are treated as Nature. That's not to say that they're natural faces, although that's true,
+since Dreyer didn't want to the characters to be made up, but Bazin obviously means
+something deeper by this: the faces are real scenes of nature, that is, a pimple on a judge's
+face, or the pores of the skin, constitute a real natural landscape. But just as the
+cinematographic image begins from Nature, which it will internalize in man, it never ceases
+to show the externalization of man in Nature.3
+
+Eisenstein gives a fine analysis of this speaking of Battleship Potemkin [1925]. On the
+subject of Battleship Potemkin, he says, Well, yes, everything starts from three elements of
+Nature: water, earth and air. Water is… the water on which the battleship floats; earth is the
+great sequence marked by a major figure in Potemkin, the great sequence where the men go
+to mourn their dead, but in a Nature that is sad, a sad earthly Nature; air is the famous density
+of the fog in Odessa, the famous thick fog in the harbor, which already forms a kind of
+synthesis of the first two elements, earth and water. And from there, we go to man, man in
+harmony with Nature insofar as, in this sad Nature, he himself is sad and mourns his dead.
+
+But in another dimension, there's the famous leap into a new quality, from human despair to
+revolutionary passion. And revolutionary passion, he says, will be a conflagration, and this
+conflagration will be externalized in the fourth element of Nature, the element that was
+missing in the first part, namely fire. There's no better way to mark a dialectical composition
+in which nature is internalized in man beginning from three of its elements, and man is
+externalized in Nature on the basis of the fourth element, the revolutionary conflagration that
+sets Nature ablaze. It's very beautiful. I'd say that, in a way, the whole of cinema has
+proceeded in this manner.
+
+I'd like to come back to my theme now. If I've chosen Eisenstein, it's as an exemplary case of
+Nature internalizing itself in man and man externalizing itself in Nature, which has always
+been the hallmark of the cinematographic image. Does this mean that all cinema is
+dialectical? Not at all. Eisenstein's hallmark is to have conceived the unity of Nature and man
+as dialectical. You can conceive it in all sorts of other ways.
+
+Let's return to the Eisenstein-Griffith controversy. Why does Eisenstein criticize Griffith? He
+criticizes him on two points that amount to the same thing: his technical approach and his
+
+ideological approach. But they both amount to exactly the same thing, so I don't think there's
+ever any ideological reproach, there never is, it doesn't exist. Ideology is a very inadequate
+notion, but to stick to common parlance, there is an ideological reproach and a technical
+reproach. The ideological reproach, Eisenstein says, is that Griffith acts as if the poor and the
+rich existed by nature, as if they were a fact of nature. He continues saying how We Marxists
+know that the poor and the rich are a fact of society.
+
+But technically speaking, what is his reproach towards Griffith? He reproaches him for using
+alternate montage. One shot for the rich, another for the poor. It alternates, and alternate
+montage is, indeed, one of Griffith's great creations. But it’s far from being a law of cinema,
+so what does Eisenstein want? He radically denounces Griffith's parallel alternate montage
+and substitutes it – not surprisingly, given our previous analyses – with a montage of
+opposition. And what is a montage of opposition? It's precisely to show that the rich and the
+poor are the product of a society, and that we can only conceive of them in terms of
+differentiation, how one becomes two according to the principles of dialectics.
+
+So, the reproach is technical as well as ideological. He doesn't want alternate montage… you
+mustn't think that alternate montage – because I've sometimes read in... – that alternate
+montage was something that was taken for granted in classical cinema… not at all, not at all,
+something that was taken for granted after Griffith, not at all. Eisenstein absolutely rejected
+alternate montage, substituting it with a montage of opposition, which is something
+completely different. But let me add: you see what the problem is. It's not at all a question of
+the relation between Nature and man. The whole of classical cinema will be based on the
+unity of Nature and man, such that Nature becomes internalized in man, and man becomes
+externalized in Nature. Why should this be? It will be one and the same with the sensorymotor schema, or rather, it will be the foundation of the sensory-motor schema. Nature’s
+becoming internalized in man is sensoriality, whereas man's externalization into Nature is
+motricity.
+
+So, the identity of Nature and man, with the one internalizing itself in the other and the other
+externalizing itself in the one, would be like the foundation of the sensory-motor schema. The
+unity of man and Nature is something that pertains to the whole of classical cinema. The
+reason Eisenstein criticizes Griffith, then, is for not having properly conceived the unity of
+man and Nature. This was something that could only be conceived dialectically. It means that
+Nature never ceases to be transformed and society with it, and that man's externalization into
+Nature is at the same time the formation of a new society. In other words, he reproaches
+Griffith for having conceived the unity of Nature and man as something eternal rather than
+dialectical.4
+
+Then everything will rebound, if you follow me here. I feel I'm being a little clearer than I
+was the last time. And if you follow me, everything will rebound, because let's suppose we
+have Eisenstein with his three moments: from the image to the clear concept through sensory
+shock, from the muddled concept to the affect-image through affective shock. The one and
+the other communicate, they produce the unity of Nature and man, that is, the foundation of
+sensory-motricity. And then, in 1935, as we saw in the program of the first trimester,
+Eisenstein was very violently taken to task. He was very violently attacked by two forces
+that, in this case, cannot be dissociated: firstly, the attack by the Stalinists, but then by what
+they too claimed to be the result of the advent of the talkies.
+
+The Stalinists’ attack is indeed very interesting. It's a sort of extremely violent settling of
+scores with Eisenstein, where everybody knows – including those attacking Eisenstein, who
+responds and here he improvises a splendid response, one that is at the same time a great
+lesson in political prudence and courage – everybody knows what's at stake, which is to say
+many things, it’s almost a matter of life and death. And the Stalinists make three reproaches,
+here too the text is difficult. I'll try to sort it out as I suggested, to help you with your own
+reading. It seems to me that the Stalinists make three criticisms of Eisenstein. The first is
+ideological, the second technical, the third political. Here again, as I was saying earlier, these
+three criticisms amount to one and the same thing, as you will see.
+
+The ideological reproach is that Eisenstein has an idealistic conception of Nature that
+replaces history. And indeed, for Eisenstein, history is the dialectical unity of man and
+Nature. We cannot say that this reproach is false, can we? It's not... I mean, it may be wrong
+to reproach him but he was adhering to an idealistic conception of Nature that replaced
+history. Second reproach: he adhered to a dominant conception of montage that stifled the
+shot, and this was the technical reproach.
+
+Thirdly, a political reproach: he misconceived or conceived too abstractly the sensory-motor
+relation because he hadn't seen where it took shape. In their view he contented himself with a
+far too broad Nature-man framework without seeing where sensory-motricity comes into
+play, namely, in the self-conscious hero, in the self-conscious hero. Okay. Eisenstein, on the
+other hand, could only conceive of abstract masses as subjects in the internalization of Nature
+in man and in the externalization of man in Nature. He believed in cinema as the art of the
+masses, and from that point on, man who became the subject of Nature, Nature being no
+more than the objective human relation… man who became the subject of Nature was not
+self-conscious man but the abstract masses.
+
+If you think about it, it's obvious that these three reproaches are essentially one and the same.
+And you can see this because Eisenstein's response is very odd, answering to all three at
+once. Eisenstein's position is so ironic yet at the same time so prudent. He says: Okay, okay,
+you're right, you're right. He says – and here he starts to laugh quite openly… no, not openly,
+because it's not a question of showing his mockery. He says: It's that we – that is, him and
+those of his generation, but those of his generation are the ones attacking him, so he brings
+them into it – he says, It’s that our work was only the first period of Soviet cinema. Long live
+the second period you're announcing. We were just the first period, that is, and he says it, we
+were just fellow travelers. And why were we just fellow travelers? Because we couldn't do
+any better. Why couldn't we do better? Because the Party didn't yet exist in all its power. That
+was before, he says – and here I’m quoting him word for word – that was before the
+Bolshevization of the masses.
+
+What does he mean by the Bolshevization of the masses? He’s obviously not referring to
+workers' councils. It's the grip of the Party, the grip of the Party as it becomes the
+representative or leader of the proletariat, that is, by substituting the conscious personal hero
+for the masses. Then he says, okay. When the conscious personal hero, namely the hero of the
+Party, takes the place of the masses, the whole sensory-motor relation between man and
+Nature changes. Similarly, it's no longer montage that counts, it's the shot, it's the shot that's
+going to reveal… it's not montage that's going to reveal the hero, the individual hero. The
+unity of man and Nature has come under the domination of the individual man, this being the
+man of the Party, by which I mean Stalin. You can't do montage with Stalin. We can only do
+
+shots with Stalin, we'll make shot-based cinema. And he says, Long live this second period of
+Soviet cinema, it's the future. Especially now that we have the talkies.
+
+I insist on this because we'll have to come back to this question. What exactly has changed
+with the talkies? We can no longer have the conception that corresponded to the first period
+of dialectical unity, of Nature conceived as an objective human relation and man conceived
+as a mass. I insist on this because it's very interesting. The Soviets, or rather the Stalinists,
+never militated in favor of a cinema as art of the masses.
+
+When I said to you in the first term, when we were establishing our program… I asked you,
+Ultimately, what sounded the death knell for the ambition of the early cinema as the art of the
+masses? Following Daney and Virilio, I answered, well, yes, it was the formation of the great
+State parades.5 Cinema could no longer be the art of the masses, it could only be so insofar as
+the masses became real subjects. When the State, and in particular the fascist State, took
+charge of the great mass parades, it was competing with cinema, which could not compete
+with it. And so, all the ambitions of early cinema became untenable.
+
+But that was true of the fascist state. It's not true of the Stalinist state. Undoubtedly, the
+Stalinist state organized mass events. But it never claimed, as fascist cinema did – and in my
+view, this is a major difference – it never aspired to make cinema an art of the masses, even
+of the subjugated masses. It aspired to exalt the individual hero. It didn't aspire to compete
+with cinema as art of the masses, it aspired to compete with Hollywood cinema, that is, with
+the individual hero.
+
+Eisenstein understands this very well. He says, Ah, yes, as long as the Party didn’t yet exist,
+there was no personal hero… but now I've understood, and I'm going to focus on the personal
+hero, you'll see. I'll focus on the talkie, I'll take charge of the personal hero, whatever you
+want. And of course, he's going to drop Alexander Nevsky [1938] on them, and especially,
+especially Ivan the Terrible [1945-1958], which won't be of any help to him, but that's
+another story. He simply launches his own offensive. He says that... [Recording interrupted;
+45:53]
+
+... and in fact, it has to be said that this second period has so far produced nothing but shoddy
+work. Someone says: I'll intervene, that will sort things out a bit. It will make things better.
+But there is a danger, and I think it's towards the end of his speech, his improvised speech…
+and what he [Eisenstein] says here is very beautiful. He says: Beware that in this second
+period of Soviet cinema, Soviet cinema will lose everything that makes it different, it will
+lose all its specificity compared to Hollywood cinema, that is, what you're going to remake is
+bad Griffith and even worse, much worse.6
+
+Can you see what this is all about? But all I can say for the moment is that, through all these
+polemics, whether the Eisenstein-Griffith polemic or Eisenstein’s polemic with the
+Stalinists… what is the only thing they have in common? Well, the only thing they have in
+common, it seems to me, is this sort of cinema-thought relation, this sort of relation between
+image and thought in cinema, and the retention of all three aspects. To sum up, the relation
+between image and thought in cinema will take the following three forms.
+
+First: relation with a Whole, relation of images with a Whole that can only be thought out in
+terms of a higher awareness, whether this awareness is that of the masses or of the individual
+hero.
+
+Second aspect: no longer a relation with a Whole or a totalization of images that could only
+be thought in a higher awareness, but a relation with a thought that can only be figured –
+through all the figures, metaphors, metonymies and so on – that can only be figured through a
+subconscious unfolding of the images that constitute the interior monologue. Someone like
+McLuhan would say, indeed he did say this quite recently, that the interior monologue is
+perfectly suited to cinematographic unfolding.
+
+Third aspect: in whatever way it is conceived, the sensory-motor relation between the world
+and man, Nature and thought. It's this totality that I call the “structural conception” of
+cinema, taking up Eisenstein's own term, on condition that it doesn't allude to what will later
+be labeled Structuralism. Structure here appears as the double movement from image to
+thought and from thought to image, and the levelling out of the image and the resulting
+thought.
+
+I've finished with this first point, which was the exemplary case of a relation between image
+and thought from the point of view of cinema. My next question is… well, let's make some
+historical leaps. What happens next? What happens next? We saw what happens next a long
+time ago. But if I were to mark the three great fractures, I'd say that what happens afterwards
+is, let's say, a number of trends. What do we immediately see in post-war cinema? Sensorymotor rupture. As we've seen, man is not… or he will be seized by the cinematographic
+image as if he were in pure optical and sonic situations to which he doesn't react. The
+question, then, ceases to be: How can cinema show us the externalization of man in Nature?
+Instead, the question is: How can cinema restore our belief in the world?
+
+Second point: a break with the whole theme of Nature in the cinematographic image. What
+will this consist in? As we shall see, there will be a rise of the artificial as such and in every
+sense. This rise of the artificial will be expressed in the form of a camera-consciousness that
+is present in the image and that traverses it. Why does this follow directly from the sensorymotor rupture? I'll say this very quickly but everything will have to be analyzed more closely
+later. It’s inevitable, since in pure sound and optical situations, man inhabits the world as
+though facing a display window. What he grasps, he grasps through a display window. At
+that point, what he grasps is no more than the object of a catalog, but the object of the catalog
+will necessarily take the form of artefacts. Whether good or bad, the object of this cinema
+becomes artificiality as such.
+
+Third rupture: the rupture with metaphor. We will no longer have metaphors. If you speak –
+in the most general sense of speaking, that is, if you show images – if you speak or show
+images, you will speak and show literally, or you won't show at all. It will be literal or it will
+be nothing. In the novel, this was already what [Alain] Robbe-Grillet had asserted. If we were
+to look for the origin in literature of an anti-metaphorical movement that would take the form
+of “I speak literally or I don't speak at all”, it would be [Franz] Kafka. But if you'll recall,
+from what does Robbe-Grillet directly derive his critique of metaphor? From the rupture of
+all complicity between man and Nature. It's because man finds himself in Nature as if faced
+with a pure optical and sound situation that there can no longer be any metaphors that
+presuppose a sensory-motor complicity between man and Nature. You will speak literally or
+not at all. Abandonment of metaphor, but also of all figures, of all the figures that composed
+the interior monologue.7
+
+In this respect, I'm just accumulating examples… I'm not analyzing any of these, except the
+case of Marguerite Duras. I was quoting Robbe-Grillet, it's true of Robbe-Grillet's cinema,
+
+but it's equally true of Marguerite Duras's cinema. Why? Whether you've seen the film or not,
+there's a very interesting article by Dominique Noguez on Marguerite Duras's India Song
+[1975].8 He reminds us that… he goes back a long way in his research, into 19th… into 18th
+and 19th century scholars of figures of speech. And he says that in these authors, notably
+[Pierre] Fontanier, whom we discussed one of the previous years in connection with figures
+of speech, metaphors and so on…9 He says that in Fontanier and other scholars, there is an
+odd idea: that figures should be silent when we attain the sublime. When we reach the
+sublime, well, there's nothing more to say. I mean, when you reach the sublime, figures
+become redundant, because you must speak literally or not at all, you have to be silent. It's a
+curious idea, and a very classical one, that the sublime supersedes all the figures of speech,
+all the figures of rhetoric. And he cites some examples. He says, in fact, that in tragedy – and
+these are the very examples cited by these classical authors – in tragedy, what strikes us is
+that when the moment reaches the sublime, there are no more figures, and language becomes
+extraordinarily sober, precise and abstract. [Recording interrupted; 58:17]
+
+Part 2
+
+... “What wouldst thou have him do?” – The sublime approaches. – “What wouldst thou have
+him do?” – I wouldn’t have him move mountains, I would have him die – “What wouldst
+thou have him do?” – “Die!” And that’s all, that’s all…10 Corneille's Nicomède: “And what
+wouldst thou have me do?” – Answer... no, sorry – “And what wouldst thou have me be?” –
+Absolutely concise answer: “King, king…”. Corneille’s Medea: “In such a grand reversal
+what remains to you?” – and Medea's answer: “Myself, I say, and that is enough!”
+
+As if, at some point, there was no longer any point in speaking in figures, it's very, very
+concise, very concise, to be taken absolutely literally, literally. At last, literality comes into
+play... and why with the sublime? It's inevitable, if you remember the beautiful theory of the
+sublime that we looked at one of the previous years, well those of you who were here…11
+Once again, the sublime is the act or the situation in which the imagination is pushed to its
+limit and, as a result, it triggers a thought that thinks what exceeds the imagination. If that's
+what the sublime consists in… for example when faced with a storm. Confronted with a
+storm, your imagination is pushed to its limits, or in front of the immensity of the heavens,
+you look up at the vault of heaven. What would you wish to do with metaphors or figures in
+the face of something like that, in the face of storms… in the face of extreme cold that is like
+the sublime? What do you want to do? Just say, I'm cold! I'm cold.
+
+So, in the face of storms and such, the imagination reaches its own limit. And reaching its
+limit, what does it force thought to think? To think that which exceeds the imagination, and
+which can only be thought. It is what can only be thought, which will be expressed by the
+most concise word, ultimately the most abstract, or which will be expressed in the form…
+and this most abstract word is ultimately up to you… Either everything or nothing. Nothing. I
+can no longer imagine anything, there's nothing commensurable in what I see. Nothing. And
+in her article, Dominique Noguez tries to explain the way in which Marguerite Duras, in all
+of her cinema, or at least in a large part of her cinema, elicits sublime situations, sublime
+situations that are generally defined by an extraordinary love. And this sublime situation of
+extraordinary love will – how can I put it? – discharge and deactivate all rhetorical devices.
+And the only word that will correspond to the sublime situation will either take the form of
+very concise little sentences, or else the term that obsessively recurs in correspondence to
+sublime love in Marguerite Duras, namely “nothing”.
+
+In India Song, living in the Indian subcontinent is something beyond human forces, human
+forces or at any rate, European forces. And the voice answers: it's neither painful nor pleasant
+to live in India, neither easy nor difficult, it's nothing. You see, nothing. It's nothing. You see,
+nothing. Or else, again in India Song… either they go home, or they sleep, or nothing. Or the
+question: “Do you believe there is something the two of us can do for me?” Answer: “No,
+there is nothing, you don't need anything”. Here I don’t believe that nothing is the sign of
+some kind of nihilism, it's the sign of pure literality. Where there is no longer any figure,
+there is nothing, and nothing is the response to the perceptible situation. So, I would say that
+here we have a sensory-motor rupture that will produce artificiality. Here too, Marguerite
+Duras's cinema would be easy to analyze in terms of the rise of artificiality in the image.
+
+Second point: rupture with figures and metaphor. This literality, which marks the break with
+metaphor, is something you also find in another way – but we'll see later what all this
+means… it seems very important to me – it’s something you constantly encounter in the films
+of [Jean–Luc] Godard. Strangely enough, Godard says that his cinema is based on metaphor
+but this is because of his strong desire to continually contradict or wrongfoot people. Yet it's
+hard for him to explain this, because at the root of all of Godard's work is a radical refusal of
+metaphor. What form does this refusal of metaphor take? The form of either speaking or
+showing literally, or else showing nothing.
+
+Literally – I'd like you to feel the extent to which this involves a conception of the image –
+it's odd, but I insist on both the literality of the image and the artificiality of the image. Both
+have to be maintained, they are not at all at odds with one another. Indeed, what is Godard's
+obsessive theme? What does it mean, this “everything is literal?” Everything is to be taken
+literally. Nothing is more irritating than people who distinguish between degrees: first degree
+[literally], second degree [with a pinch of salt], third degree and so on. You know… what's
+idiotic in life, what's idiotic in the first degree will be equally idiotic in the third, the twelfth,
+the hundredth. There's absolutely no such thing as degrees. There really isn't. You won't...
+you won't say something stupid in the first degree and something intelligent in the fourth
+degree, no, no, no, no… There's only one degree, there's only one degree, and that’s the
+literal.
+
+Now, Godard has always known this, and he tells us so. But if you say, if you say that
+photographers are, for example, pimps – he says worse sometimes, I don't dare repeat exactly
+what he says – well, you have to show this. You have to show it. In what way can we say that
+photographers are pimps? As he says, well, it's weird, they don't pay the people they
+photograph, for example. They photograph little kids who are dying of hunger, and everyone
+knows they sell their photos for a lot of money to Paris-Match, but they don't pay the poor
+little kid. So, you could say, Yes, in a way they’re pimps. But this is what Godard says, it’s
+not a judgment on my part.
+
+Well, it's weird… if you say that schoolchildren are like prisoners… don't just say it. Show
+how they're prisoners, show in what way they are prisoners, show it literally, or speak
+otherwise.12 If you say – and this is one of his brilliant moments – if you say that the bosses
+screw the workers, show it, show how they do it! Hence his method in Comment ça va? [How
+is it going?, 1976]… It's not enough to say whether things are going well or not. You have to
+say how things are going, that's the method of literality. The Godardian method in How Is it
+going? is literalness, the refusal of metaphor.
+
+So, there's something that modern cinema and modern literature have in common, I think, in
+their radical refusal of metaphor. And one of Godard's best moments is in a famous passage, I
+think it's in Six fois deux [1976], where he says, A weekly magazine can't hold together
+without advertising. Now, what does “hold together” mean? When I say, A weekly magazine
+can't “hold together” without advertising, it's a metaphor. It means it can't survive, it means
+its finances are shaky… “hold together” is therefore a metaphor. And Godard doesn't want it
+to be a metaphor. So, he does his famous demonstration for which L’Observateur has never
+forgiven him… he starts tearing out the advertising pages, and then, realizing that there are
+also half-pages of advertising, he tears out the half-pages. The images are wonderful, because
+there's his hand, there's his commentary, where he uses a Swiss accent every time, he wants
+to emphasize the literalness of things… and then the more he tears, the less the magazine
+obviously holds together, and in the end, it looks like a rag. So, he tries to make it hold
+together, and then he says: You see, a newspaper can't hold together without advertising. He
+has translated the metaphor into literality. Now, it's a How is it going? process, how it's not
+holding together, you have to show how it's going, or how it's not going. You must never say,
+Is it okay? You have to say How is it going? Well, then, you see, in very different conditions,
+for example those of Duras and those of Godard and so on… the cinematographic image is
+fundamentally literal.13
+
+So, sensory-motor rupture, rise of the artificial, function of literality. And to these I would
+add: collapse of the interior monologue. The interior monologue ceases to be adequate for the
+film as a whole, or for the whole cinematic process. And you can see that everything was
+linked. But why? No doubt for the reasons given above, but for others too. No doubt for
+reasons I mentioned before, because the writer who both brought the interior monologue to
+perfection and dealt it the final blow, as I've already said ten times over, was [John] Dos
+Passos. And why and how did Dos Passos bring the interior monologue to its supreme point
+of perfection and, at the same time, to its fragmentation and collapse? Simply by showing
+that, literally speaking, it was the same misery on the inside as on the outside. And what
+would you find in an interior monologue? You'd find slogans, the same slogans, the same
+catalog of commonplaces, the same misery as that which makes up our artificial world. From
+the point of view of artifice, that's what's interesting. Maybe from the point of view of Nature,
+there's a difference between interior and exterior. What I mean is that there is, in effect, a
+movement by which Nature becomes internalized in man and man externalizes himself in
+Nature, and that the Nature that was internalized in man is no longer the same as the one in
+which man externalizes himself, meaning that there has been a dialectical transformation
+between the two.
+
+But from the point of view of artifice, there's no longer any difference between inside and
+outside. What we have in our heads are scraps of newspaper. Ready-made formulas. And
+when he brought the interior monologue to this same level of misery on the inside as on the
+outside, with the artifice being the miserable unity of the two, the interior monologue
+fragmented. What did it fragment into? Something like the pages of a catalog, or like
+snippets. Someone's interior monologue becomes a string of all the commonplaces, all the
+stereotypes, all the shop windows, all the… and so on. And Dos Passos precisely needed to
+invoke in the novel these means that were already cinematographic – newsreels, the camera
+eye and so on – to show how, at the level of a world defined by artifice, inside and outside
+became indistinguishable, but not in the sense of the beautiful identity between man and
+Nature but in the sense of the same disaster that would shatter the totalization of the interior
+monologue.14
+
+This will be taken up by Godard in A Married Woman [1964], in the great critique of the
+interior monologue in which, it seems to me, Godard goes as far as Dos Passos, since all the
+woman's thoughts, in A Married Woman, are precisely presented as identical to the core of
+the magazine, to the core of the weekly magazine, the articles of the weekly she's leafing
+through, or to the catalog she's looking at, or the contents of the shop windows she passes in
+front of. It goes without saying that this sort of disorientation of the inner monologue
+conceals something deeper. Namely, the rupture… the rupture that produces what? The
+rupture that means that images will no longer be totalized according to their harmonics.
+Images and series of images become independent of one another. They become independent
+of one another, but what does each now refer to? We don't know yet. We don't know yet but
+each goes its own way, according to its own language and vision, referring to a particular way
+of seeing and thinking. In other words, the interior monologue is replaced by plurilingualism.
+There will be a series, then another series, and these series will be independent of one
+another. So, what we have are series of independent images.
+
+If we make this our starting point, what can we deduce from it? I'd like to say very, very... it’s
+something we’ll confront in the future. Let's suppose that, if you've understood what I meant
+by the structural cinema of Eisenstein, I'd say, well, let's suppose that cinema ceased to be
+structural, so what did it become? To use a convenient term, it became serial. Right. What do
+we mean by a serial cinema? Now, everything begins to fall into place, everything I say is
+less disordered than it seems. Since Eisenstein's structural cinema, taken as a classic example,
+since this structural cinema perpetually referred to a comparison with music, can we say…
+Well, my question is this. The word “serial” has a very strict meaning in music, in what we
+call serial music, or dodecaphonic music, which is sometimes called atonal, even if this is a
+term that Schoenberg rejected. Can we say that cinematographic images in modern cinema
+are serial or atonal – without generalizing… I mean in the best of modern cinema – and what
+would that imply? How can we be sure that this is not just a metaphor or the application of a
+term? Is it possible to construct a concept of seriality specific to the cinematographic image?
+
+Let's try to go very slowly here... What's happening? Pascale Criton15… she's not here, is
+she? Does anyone know Pascale Criton? Do you know Pascale Criton? Do you have her
+phone number? Because it's her I'd like to question. I need to call her… you can give it to me
+later if you like. I need to reach her. Then we can come back to this point. I explained to you
+the method I was pursuing, that I would interview some of you, and I wanted to interview her
+but she hasn't come to the last two classes. I suppose it's fate. I would need her, but I'll settle
+for the most basic of things. So, those of you who know a bit about music, please don't
+reproach me. I want to draw from serial music only the minimum I need to try to construct a
+concept of series in terms of the visual image.16
+
+I would say that in so-called classical music, let's say in what is known as tonal music, well,
+what do we have? There are two aspects, one of which takes precedence over the other.
+There's the resonance aspect, which leads us to harmonics. That's the first aspect, the
+harmonics of sound, the aspect of resonance that leads us to the harmonics of sound. Well,
+here again I don't need to remind you of this, of the way Eisenstein applied it. And there's a
+second aspect that depends on this, tonality. What seems very important to me is that in what
+is called tonal music, tonality actually depends on the resonance and harmonics of the sound.
+And what is tonality? It's not the sound in relation to its harmonics, it's the greater or lesser
+power of a sound to form more or less stable aggregates with other sounds.
+
+You see, these are two very different aspects. A sound has harmonics, harmonics that are
+more or less close or distant. You'll recall that a harmonic is a sound whose number of
+vibrations per second is a multiple of the sound under consideration, of the first sound under
+consideration. So, you'll have harmonics that are close to or far from a sound. I would say
+that this phenomenon of resonance is primary in relation to tonality. This is not an original
+idea, most theorists of tonality say so. What is tonality? It's the variable capacity of a note,
+generally a sound, to form a more or less stable entity with other sounds. But according to
+what? According to its power, or attractive potential. We speak of tonal centers, and tonal
+music is said to be tonal precisely because it has tonal centers. Do you understand? It's not so
+difficult, is it?
+
+How would you define serial music? For the moment we’ve said enough. But if Pascale
+Criton comes back, I'd like to question her to go further into... but for the moment, just
+remember these two very, very elementary determinations of tonal music. In the case of serial
+music, what does it resemble? Okay, [Arnold] Schoenberg rejects the expression atonal
+because he says that music necessarily concerns tones. What else would it concern if not
+tones? So, all music is tonal. The question isn't whether there's tone or no tone. The question
+is whether there is a tonal center. The first, very elementary characteristic of music, of serial
+music, is that it brings into play, in principle – I say in principle because in practice it could
+be more complicated than this – in principle, it brings into play all 12 semitones of the
+chromatic scale, without privileging any one over the others. In other words, it destroys the
+idea of center. That's what's fundamental in the series of 12 semitones, each stands on its own
+in relation to the one preceding it and the one following it in a constant order, which will be
+the dodecaphonic series of 12 semitones. Okay?
+
+So, I would say, the first characteristic of serial music is its destruction of tonal centers or, if
+you prefer, its destruction of dominants defined by their attractive potential. Second aspect:
+from the point of view of resonance, what characterizes serial music? In principle, a series is
+12 semitones in a given order. What varies? The order must remain the same but there will be
+variations nonetheless.
+
+In practice, it's more complicated than that, since in serial music the series doesn't necessarily
+take up all 12 semitones. It may be missing some, and it becomes all the richer when it
+introduces changes in order that can be either rhythmic or melodic. For example, by making
+retrogradations or reversals, or by modifying intervals, there are a thousand possible
+variations. So that's the first aspect. Even if, for me, what's interesting is that I'm addressing
+those who don't understand, those who know nothing, nothing, nothing at all. Even those who
+know nothing can understand this very well. In tonal music, there are, on the one hand, the
+harmonics of a sound, which are either close to the sound or far from the sound, and which
+will define – I'd forgotten this, but it's essential – and which will define the so-called
+consonant chords and dissonant chords. See? That's very important.
+
+Secondly, there will be tonal centers capable of composing stable entities, stable sound
+entities, defined by their attractive potential. Well, you really can't... I mean, even a deaf
+person understands that. Oh no, because he can't… but a deaf person will understand what I
+call this second aspect from the point of view of harmonics: if the sounds are independent of
+one another, each taken for itself in relation to the one that follows and in relation to the one
+that precedes it, if the sounds are independent and the series are independent of each other,
+there will no longer be any difference in nature between a consonant chord and a dissonant
+chord. In other words... [Recording interrupted; 1:31:49]
+
+... but it's as if it didn't take any notice. In what sense? To sum it all up, I'd say: there's no
+tonic center, and neither are there any harmonics.
+
+Why do I say this? Well, perhaps to a musician it would seem a stupid proposition. But I'm
+saying it for a very simple reason. It's that if you remove any difference in nature between a
+consonant chord and a dissonant chord – meaning any difference in nature between close
+harmonics and distant harmonics – dissonant chords, as we say in music, no longer require
+any resolution. Consonant chords have no privileges. What's more, here Schoenberg's texts
+are explicitly formal: for a long time to come, until it can really assert itself, serial music will
+have to avoid consonant chords. This is not by necessity or principle, but for convenience,
+since consonant chords would lead us to believe in the existence of tonic centers. And in fact,
+this isn't true. There can be consonant chords, but the tonic centers have disappeared. So, it's
+better, says Schoenberg, it's better to avoid consonant chords as much as possible.
+
+I'd say cautiously, then, but just as serial music does away with tonic centers, because it
+makes sounds stand for themselves, independently of each other, so it does away, not with
+harmonics, but with the function of harmonics. Ultimately, what we have is music without a
+center and without harmonics. So, it’s in this sense that I want to say that cinema has become
+serial.
+
+Richard Pinhas:17 Gilles…
+
+Deleuze: Yes?
+
+Pinhas: There's no need to be cautious about music, since serialism is not only impotent in
+principle, but also wards off harmonics for technical reasons. In other words, it's part of the
+very notion of serialism to ward off harmonics.
+
+Deleuze: What do you mean?
+
+Pinhas: The principle remains very simple: the harmonics form a continuum and you don't
+actually have double the spectrum, double the intensity, but you do have a continuum that
+would make a huge mess of a serial construction.
+
+Deleuze: Yes...
+
+Pinhas: ... and then as much as… this goes completely in your direction even if I I’m not
+explaining it very well… as much as the tonic system is a tree system, the tonic chord being
+the reference tree, as much as… I don't know if the term is exact but serialism in that sense
+would be more on the side of the abstract… [indistinct words] but it's not possible to use the
+harmonics of… [indistinct words]
+
+Deleuze: So, I can say...
+
+Pinhas: You can say it, yeah...
+
+Deleuze: I can say...
+
+Pinhas: Oh yes...
+
+Deleuze: What confuses me is that Schoenberg would never say that.
+
+Pinhas: He's a heavy sleeper…
+
+Deleuze: That's right, he has to say it, but in a different way. Just as he doesn't want to hear
+about atonal music, he doesn't want to hear about music without harmonics, and what
+interests him most is the most distant harmonics.
+
+Pinhas: He can't use harmonics because, instead of being coded like notes, i.e. doubling in
+hertz on the spectrum, it's a continuum. There's no articulation from one note to the next.
+There's a continuum from X hertz to X +1. So, the notes aren't actually defined by the
+harmonics, and once in 10 or 20 times, you may fall on the double, i.e. on the upper
+harmonic… and in fact, you're likely to automatically fall on a harmonic that's not false, but
+in the middle of the continuum, which isn't regulated. Yet the very principle of serialism is
+ordering. So, there's a complete dismissal of harmonics.
+
+Deleuze: Perfect. So, no tonic center, no harmonics, eh? Perfect.
+
+Pinhas: [Inaudible remarks]
+
+Deleuze: It just popped up. Well, I'd like you to tell me more. No? Is that enough? It's
+enough. Yes, that's enough. That's enough of that. All right, then. But we’re really fortunate.
+You’ll be able to tell us more, won’t you? Because I've been saving this for the future, but the
+near future, I can tell you… for the question of analogy, the analogic and synthesizers, right?
+
+Pinhas: For the series… [indistinct words]
+
+Deleuze: I'll explain later... I can affirm...
+
+Pinhas: Yes, completely
+
+Deleuze: Phew. Well, good!
+
+Pinhas: We can find texts...
+
+Deleuze: But not by Schoenberg! Nor by Boulez. Then who?
+
+Pinhas: I remember harmonics in Schoenberg's texts… [indistinct words]
+
+Deleuze: So, Schoenberg... There's nothing!
+
+Pinhas: No, but he's keen on the notion of harmonics...
+
+Deleuze: It's the idea that there is no difference… which confirms the idea of a continuum,
+that there is no difference between close harmonics and distant harmonics.
+
+Pinhas: But they're more usable as such, the harmonics. That's why… [indistinct words] they
+don't want them.
+
+Deleuze: They're more usable... Can't we say, though, that the furthest harmonics,
+relatively… the furthest harmonics are usable in dissonant chords?
+
+Pinhas: Dissonant chords are simpler, there's no reference to… [indistinct words]
+
+Deleuze: Yeah, that's true.
+
+Pinhas: Ultimately, the general rule would be that you can't use them but now it's true that the
+filtering system is used by… Well, some composers will take advantage of this or that
+harmonic. In that case, it's no longer the harmonics per se that are used, it's...
+
+Deleuze: That's what I'm saying…
+
+Pinhas: ... certain functions.
+
+Deleuze: That's it! So indeed, even in this case, it would be a way of doing without
+harmonics. Right, right, right. Well, well, well. So, all's well, all's well. One last effort. What
+did we see regarding the image, regarding the so-called modern cinematographic image
+during the first term? I'm not going to go through all that again. I'm only taking up what I
+need. We're forgetting, here – just as he's just given us the confirmation we needed – we're
+forgetting the comparison with serial music, we retain from the comparison with serial
+music… Ah yes, on these two bases and only on these two bases – suppression of tonic
+centers, refusal of the function of harmonics – can visual images perhaps enter into serial
+relationships specific to themselves, serial relationships of their own?
+
+Hence my question becomes: What could the specific sense of a series of visual images be?
+And to go further, I would say… I would point out that this attempt has already been made.
+This attempt has already been made by [Dominique] Chateau and [François] Jost in terms of
+a very precise cinema… in terms of the cinema of [Alain] Robbe-Grillet, where they propose
+that Robbe-Grillet's cinema may precisely be said to be a serial cinema.18 But the two criteria
+they give for the series are not at all my own. So, I'm quoting here... the two criteria being
+that when they oppose, when they distinguish between structures and series, they say that
+while in the structure the message refers to and presupposes a code – so, primacy of the code
+over the message – in the series, it's the message that constructs its own code. Second
+difference: in the structure, choices are determined, whereas in series, the choices are
+polyvalent. You can see all this in a chapter of Chateau and Jost's book on Robbe-Grillet,
+Nouvelle sémiologie, nouveau cinema… or Nouveau cinéma, nouvelle sémiologie, I can't
+remember.
+
+For myself, my criteria, or the criteria I'm proposing to you are – read it, it's very interesting,
+it seems very obscure to me, much more obscure than what I’m saying, but it's very good –
+but as my criteria are completely different, I'm only mentioning it to... I ask myself… if we, if
+we draw on the program of the first term, well, couldn't I say that for the visual image as well
+as for the sound image – and this would also go for the musical image – that the first aspect,
+the structural image, is based on commensurable and rational points? A prime example of
+commensurability, as we've just seen, is the harmonic in classical music, in tonal music, since
+this is a sound whose frequency is a multiple of that of the primary sound. So, I can say that
+this is an aspect on which this music – all the more so when [equal] temperament intervenes,
+when there is homogenization, when there is homogenization of intervals at the level of the
+12 semitones – so I can say that the image of classical music is based in certain respects on
+
+commensurable elements, and what we called rational points. And harmonics are fully
+dependent on this conception. [Deleuze seems to address Pinhas] Is that alright with you? Is
+it okay?
+
+We've seen that… what was one of the trends of the modern cinema image? The introduction
+of irrational cuts. You'll recall that the irrational cut was a cut that didn't pertain to either of
+the two sets it divided. I'd say that the irrational cut determines two independent series.
+Remember that? Whereas the rational cut either marked the end of the previous series, or the
+beginning of the following series. This is the difference between rational and irrational cuts.
+You absolutely need to bear this in mind. So that's the first distinction.
+
+Now, if it's true that there are irrational cuts both between two series and ultimately – because
+it's not impossible – between one term and another in a single series, then, when we have
+irrational cuts between the terms of a given series, we must say that the series is composed of
+two sub-series. Irrational cuts can proliferate. This is the first characteristic by which I can
+define the serial image. The image is serial when the cuts between two series... no, between
+two sequences of images, are irrational – in the mathematical sense of the word irrational –
+and not rational.
+
+The second characteristic is something we've already seen: from that point on, images are
+unlinked. Once again, I'll repeat one of Godard's best formulas from Ici et ailleurs [1976]:
+We're not on the assembly line. It's a question of unlinking the viewer and unlinking the
+images from one another. As he puts it: it's not the case of one image after another, it's one
+image plus another. An image plus another, not one image after another. This responds to the
+loss of the center and of its attractive power. My first aspect was the loss of the function of
+harmonics, harmonics being commensurable elements. My second aspect is the loss of center
+and of attractive power. So, in that respect, this would correspond to the two major aspects of
+serial music. And it culminates, of course, with each image standing for itself in relation to
+the one before and the one after. This is the regime of independence of the terms of the series.
+What does it mean in cinema when we have irrational cuts? As we've seen, it implies the
+reign of false continuity. The continuity is fundamentally a false continuity. It's the irrational
+cut.
+
+Third aspect, and this is the last in defining a sequence of serial images. The images are
+unlinked, and what consequence does this have? You see, we have a loss of harmonics in the
+serial image, loss of harmonics, loss of the attractive tonic center, that is, the unlinking of the
+images. So, what's going to produce the series? At first glance, as we also saw drawing up
+our program, the images are no longer linked together. What replaces the linkage of images?
+We've seen this… we even had some trouble on this point, we had a lot of trouble. What
+replaces it is relinkage. Instead of images being linked to one another according to a center,
+what we have is a relinkage of images across an interstice, across false continuity or the
+irrational cut. And I insist on this because, in my view, it was one of the new things I had to
+say this year, this fundamental difference between linkage according to a center and relinkage
+via an interstice.
+
+For I insist on the following point: relinkage is not a secondary linkage, it's a primary mode.
+Relinkage is no less primary than classical linkage. Relinkage is the only mode of linkage
+that can occur on both sides of an irrational cut. Linkage is the mode, the linkage itself it’s…
+– oh dear, I'm so clear – the linkage itself is a linkage that occurs as a function of a center of
+attraction and proceeds by rational cuts. One ends, the other begins. Relinkage is the only
+
+linkage that can take place when the cut is irrational, meaning when relinkage takes place on
+both sides of an irrational cut. This is what we will call a regime of relinked cuts. And
+relinked fragmentation is opposed to the center of linkage. And I was trying to show how, in
+particular, perhaps less so with Godard, but much more with [Alain] Resnais, the linkage of
+images gave way to a perpetually relinked parceling out.
+
+So, I now have my three characteristics that will permit me to define a series of images…
+three aspects that permit me to define a series of images: irrational cuts as opposed to
+harmonics, delinking as opposed to tonal center, and relinkage on both sides of the irrational
+cut as opposed to linkage according to a center. These would be my three criteria for the
+serial image. But here we are faced with a concrete problem: How do we obtain such serial
+images? How do you produce them? How do you obtain them in cinema? I can see that
+whoever has done the most, it seems to me, to think about this… and that's who I'd like to end
+on today, just as I took Eisenstein as a prime example – but it's not just for him. At the level
+of serial cinema, I'd like to take – although in some respects Resnais is much more relevant to
+this question… to the question: How do you obtain such images? – I'd like to take Godard as
+a prime example. How does Godard make his series? Assuming he proceeds by series. In
+fact, he's the one who gives us the good news: You will no longer be on the assembly line.
+When you go to the movies, you won't be working on the assembly line like a factory worker.
+The images must be unlinked. So, how does he make his series? And here we're in for a big
+surprise.
+
+There was a brilliant, a quite brilliant article by [Jean-Paul] Sartre concerning Giraudoux.19
+Remember that Godard has always adored Giraudoux. It's not just Prénom Carmen [1983]
+which is a great homage to Giraudoux… “That’s called the dawn”, it is not only that. He has
+always had a great admiration for Giraudoux. In the article by Sartre on Giraudoux, he says
+that the first time you read Giraudoux, it’s very odd, one has the impression that he's
+schizophrenic. But on second reading, one has a different impression. This schizophrenic is
+nothing other than an Aristotelian. He says, it's strange, though… How can anyone be
+Aristotelian by chance? Because Giraudoux wasn't a philosopher… however cultivated he
+may have been, he obviously didn’t know any Aristotle, he didn't know Aristotle, or at least
+there's no reason to suppose he had any great knowledge of Aristotle, so how can that be?
+
+It's a bit like… the question seems very interesting to me, because it's a bit like me saying…
+it's like me saying, Well, how can you be a Spinozist without knowing it? I think that when
+you are something without knowing it, you are much more deeply so than when you think
+you know it. I mean, who are the real Spinozists? Are they the people who read and reread
+Spinoza and, if need be, write books about him? Or are they people who, if need be, have
+read him, fallen in love with him or who even haven't read him and find themselves to be
+Spinozists? I mean, who's the real Spinozist? The historian of philosophy Victor Delbos or
+the English writer D.H Lawrence? I'd say Lawrence is the real Spinozist. So, it may well be
+that Giraudoux is the finest Aristotelian in the world. However, I can always tell if someone
+speaks… I can always say, He's completely Kantian, he doesn't know it, but it doesn't matter,
+he's completely Kantian, oh yes. Or sometimes it’s even worse than that, when things aren’t
+going well, it's no longer either Kant or Spinoza, but there you are.
+
+Well, Sartre's idea is quite simple: what gave Giraudoux the appearance of being
+schizophrenic, or the impression of being schizophrenic, was a kind of mannerism. Anyone
+who has ever read a sentence of Giraudoux's recognizes his signature mannerism. But if we
+get to the bottom of this mannerism, says Sartre, what we realize is that for Giraudoux, every
+
+being is as perfect as it can be according to its form. Each being is what it is, eminently,
+according to its form and matter. So, the child is a quintessential child, the lover is a
+quintessential lover. Yet this is not a Platonic world. For it's not a question of pure ideas. It is,
+says Sartre, the combination of form and matter, a world of substantial forms. Giraudoux's
+world is a world of substantial forms. Even the gherkin. He quotes an extraordinary text, a
+very striking text by Giraudoux where someone chooses a gherkin from a jar and takes the
+gherkin that is more gherkin than all the other gherkins. But that's the way it is with
+Giraudoux. In describing things, he only describes the thing insofar as it is the most clearly
+that particular thing than all the other things in the same class. In other words, it is the pure
+substantial form. And moreover, all characters, a person's smile and so on, are properties that
+derive from the substantial form. [Recording interrupted; 1:59:34]
+
+Part 3
+
+... There’s a film critic who has written an interesting book on René Clair, in which he applies
+the same schema: René Clair is like Giraudoux, the way Sartre sees him. In René Clair, the
+lover is always the substantial form of the lover. He is the young lover par excellence. He'll
+never be old. He's completely caught up in a substantial form, which is the substantial form
+of the lover, matter and form. The old man has never been young, he's the substantial form of
+the old man. It's an Aristotelian world.20
+
+What I'd like to say about Godard – but in a completely different sense, not at all on account
+of his substantial forms – is that… And here we are at the heart of the fully modern question:
+What are serial images? And if we ask: How does Godard go about constructing series? That
+is, – if you understand the question – how, in concrete terms, does an image sequence that
+meet the three previous criteria – so for once, I'm being very, very rigorous – that meet the
+three criteria we've just seen, how does a sequence of images, each of which is independent,
+one image plus another and not one after the other, standing on its own in relation to the one
+that precedes and the one that follows and so on and so forth… How does an image sequence
+characterized in this way form a series?
+
+To give an abstract answer, it seems to me that, from what I imagine of Godard, it's very
+simple: a sequence of images thus defined in Godard's work becomes a series insofar as it is
+reflected in a category. It’s in this sense that he is Aristotelian. He's an auteur, a thinker of
+categories, or if you prefer, of genres. This is Aristotle's theory of genres and categories. So,
+I'm not going to go into all that, because it would take us too far away, especially as there's
+every chance Godard considers genres and categories in a completely different sense from
+Aristotle, but what I like is his Aristotelianism. I'd say, if he were a philosopher, he'd be an
+Aristotelian. I don't see how he could be... he'd be the first Swiss Aristotelian, well, yes,
+because a series will be an image sequence as reflected in a genre or category.
+
+And this will constitute a very odd compositional process. Here I think I've understood, I can
+see how Godard composes. This reflection of a sequence of independent images that are
+relinked together – I'm sticking to my previous criteria… you see, the problem is no longer
+the criteria, it's the manner of construction, the rules of construction. So, the image sequence
+as we've just defined it, is something you have to make reflect, you have to force it to reflect
+itself into a genre or a category. Now, you'll tell me that this doesn't mean anything Yes, it
+will mean something, depending on the genre and category. What does he call... no, he
+doesn't speak in those terms. What is a genre or a category for Godard, who doesn't use those
+words, for the Aristotelian Godard? I’m exhausted, just five more minutes, five minutes, if
+
+you don’t mind? You're not leaving... I mean, you can leave if you like... [Recording
+interrupted; 2:03:42]
+
+... The reference is to Dominique Noguez, n–o–g–u–e–z, who is a specialist in experimental
+cinema. It’s a book that somebody lent me called Éloge du cinéma expérimental, and it's just
+a little article of about ten pages on India Song, published by Centre Pompidou [1979]. But
+it's a very good article, and I'll be using it later, because it talks about time, time in
+Marguerite Duras, and it sounds very good.
+
+So, you see the point we’re at. Now, I'll come back to this point in more detail – I'd just like
+to get started on it, just to get started because you must be very tired… I'll keep going but you
+can't… I'm trying to dream with you, to get an overview, not of these procedures, but of a
+single procedure that seems essential to Godard. A very... as I said, the way he obtains series
+is by unlinking and relinking his image sequences and making them literal… literal, unlinked,
+relinked. It goes back to what we've already seen. I talked about Godard's irrational cuts. It's
+the general reign of false continuity in contemporary cinema. Okay, we’ve seen all that.
+
+Our question is: How does he create series with these image sequences defined in this way?
+And my answer is: He creates series because he makes the image sequences so defined reflect
+a genre or category. So, in this sense I want to dream a little, to try to remember things.
+What's our problem? What constitutes a genre or category in Godard's cinema? And above
+all, we have to recognize that there's a danger in this. Everything would be ruined if, in order
+to define it, we were forced to reintroduce the idea of a center, of a center of attraction. If we
+had to reintroduce the center of attraction, we'd be back to tonal cinema, to structural cinema.
+So, we have to do without harmonics, centers of attraction and all that. Therefore, a genre
+cannot be a center of attraction, or it can only be so in a certain way. And this is where we’re
+going to run into trouble.
+
+So, let's dream, let's go on dreaming. I would say, there are films where it's clear what is
+playing the role of genre. These are aesthetic genres. That's the first case that I notice. These
+are aesthetic genres. For example, we're told that a particular Godard film is theatrical.
+There's a whole Godardian theater. We'll be told that another film such as A Woman is a
+Woman [1961] is a musical, that he made a kind of musical. In the case of Made in U.S.A
+[1966], we're told it's a comic strip. Sometimes Godard even takes cinema itself as a genre,
+meaning that Godard's images are reflected in the genre of cinema, or in the genre of musical
+comedy, or in a genre... You see, these categories are aesthetic genres21.
+
+You might say, that's nothing new, it's like saying, well, it's a film that, in certain respects, is
+a musical or is a piece of theater, or a simple comedy, a comedy film. Obviously, it can't
+mean that otherwise it would be… it would be a platitude. Because, in fact, it's not even like
+what you have in Renoir. There's no... A Woman is a Woman is presented as a kind of
+musical comedy… but what does that mean? It means that, at a certain point, the characters,
+in the course of their daily attitudes, begin to dance, they begin to dance. In Pierrot le fou
+[1965], on a number of occasions, the two main characters do a little theatre at the end of
+their stroll. In some unforgettable images from Pierrot le fou, there's a moment when daily
+activity begins to drag, and the balade [stroll] with a single “L”, turns into a ballade [ballad]
+with two “Ls”… When the girl says “Je ne sais pas quoi faire, je ne sais pas quoi faire” [I
+don’t know what to do, I don’t know what to do] and it turns into a kind of song and dance…
+“Ma ligne de hanche, ma ligne de hanche” [My hipline, my hipline] or “Ma ligne de chance,
+ma ligne de chance” [My fate line, my fate line], or both… yes, both. You remember the
+
+great scene in the pine forest. It’s been said that Godard's characters never dance or do
+theatre, but their attitudes are theatricalized or their attitudes become those of dance.
+
+So, if I take the example of A Woman is a Woman… in what sense is it a musical? In a very
+particular sense. In a classic musical, we'd say that the musical genre informs the images that
+pertain to it. And you'd say that the images in a musical belong to the musical genre. In
+Godard, it's completely different. A Woman is a Woman pertains to the musical comedy genre
+insofar as the sung moments serve as a limit for images that don't pertain to them. That’s all. I
+can't say it any better than that. It serves as a limit to images that don't pertain to it. Instead of
+subsuming – as we say in logic, the word speaks for itself – instead of subsuming images that
+belong to it, the genre constitutes the limit of images that don't belong to it. Okay.
+
+What's the point of constituting…? An image sequence will tend towards a limit to which it
+doesn't belong, even if it means that the limit launches another image sequence which, in its
+turn, tends towards a limit to which it doesn't belong, which will launch a third sequence of
+images. At this point, you'll have a series in the simplest sense. The characters only dance for
+themselves. They start dancing for themselves as the limit of their activity. And they’ll do
+two or three dance steps. These two or three dance steps are the limit that will mark all the
+images, and yet these images do not belong to the musical comedy genre. But the genre will
+define the tendency of the images that make up a series, and will relaunch another series
+traversed by another tendency, insofar as it moves towards another limit. And this is how he
+will constitute his series of aesthetic sub-categories. Okay. Is that all right? Good.
+
+Let's look for other examples, because genre... I'd say there's a whole group of films that can
+be understood in this sense. Image sequences become series by reflecting themselves. You
+see, I will make a typically Kantian opposition between the reflexive and the constitutive. In
+a straightforward musical, the genre is constitutive. In Godard, aesthetic genres are reflexive,
+meaning that image sequences that don't belong to such and such a genre are reflected in that
+genre, defined as the limit from which another image sequence will form another limit.
+
+Other examples, again at the level of aesthetic genres: the domestic quarrel in Contempt
+[1963] will be reflected in the epic of Ulysses. The epic of Ulysses represented by [Fritz]
+Lang making the film… represented by Lang making the film within the film, will be the
+limit towards which the domestic quarrel tends. And yet, the domestic quarrel does not
+belong to the epic genre. Ideally, I would like something from this to stir you. But wait,
+wait... There are a thousand such examples. Yes, well, I don't know. I don't remember
+anymore.
+
+Let's move on. Sometimes genre in Godard is no longer an aesthetic genre. What is it? It's
+a… – I'd like you to feel that here we can perhaps find a common thread in Godard's work –
+it's what I'd call graphic signs. Hence Godard's constant use of the written word... [Recording
+interrupted; 2:17:48]
+
+... the notebook of Pierrot le fou… a colored notebook – and I insist on this point – with
+different colored writing. I insist on this for a reason that you'll understand later. And with
+what we might call feedback effects, retroactive effects. A famous example – I don't have the
+courage to write it on the blackboard, but you may remember it, it’s the first graphic formula
+in Pierrot le fou – LA . . RT, which can be read as L’ART [art], which is transformed, if you
+fill in the little dots with MO, into LA MORT [death]. There's feedback here, a shift in
+category. From art to death. Art is death. Godard's graphic signs constantly operate under
+
+these conditions. In my view, they mark genres in which the image sequence is reflected.
+Hence his taste for writing, for handwriting. Hence also his fondness for using the screen as a
+blackboard. And the screen as blackboard will be precisely the determination of the genre in
+which an image sequence is reflected. That's a second example. You'll find this in full force
+in works like Six fois deux [1976].
+
+Third example: it's well known that… I'd say, this time, we've looked at genres. In the first
+case, genres are aesthetic genres. In the second case, genres take the form of graphic signs. In
+the third case, a genre can even be an individual, from the moment they are identified as a
+genre. Throughout the whole of Godard’s filmography, strange characters appear. Yet,
+however singular they are, they constitute genres. Suddenly, someone is being interviewed, a
+technique that was common in Nouvelle Vague cinema. But if Godard deployed it so
+extensively, it's because it had, in my view, a very, very special role for him. Take this
+famous scene in Godard, the famous interview with Melville, with Jean-Pierre Melville, in
+Breathless [1960], I believe… yes? In Breathless. Or the interview with [Francis] Jeanson in
+La Chinoise [1967].
+
+And the most beautiful, it seems to me, the most beautiful – I'm not saying this because he's a
+philosopher, I think it's really the most beautiful – is the splendid interview of Brice Parain by
+the heroine of Her Life to Live [1962] when she meets him in the café. Now, if I take the
+example of the Brice Parain interview… what will he speak about with Nana, with the
+heroine of Her Life to Live? He will talk to her about the relationship between life and
+language, about how speaking is not living, about how speaking and living enter into a
+complex relationship, and so on. And Nana says that this is what she's been looking for all
+her life. Well, she doesn't say it. She just suggests it. She's passionate, passionately involved
+in this interview, in what Brice Parain is telling her. It's not actually an interview, it's an
+encounter in a café. Nana sees a gentleman reading, a man who looks like a sleepy bear, and
+she says to him… she says, You're reading? That's how it begins, and it goes on to become
+this amazing interview with Brice Parain. Okay.22
+
+I'd say that these characters actually play the role of genres that are not at all constitutive of
+the images, but in which the previous image sequence is reflected. And it's insofar as the
+previous image sequence is reflected in this genre that functions as a limit… the limit of what
+Nana was able to think, because poor thing, she was unable to think all of this, all of what he
+is saying to her, and yet this is what she wanted to think. The genre, then, does not constitute
+the image sequence but serves as a limit to the image sequence, which then becomes a series.
+
+But it's not just these great figures, these great singular figures. I'd say Brice Parain, Melville
+and Jeanson play the role of singularized genres. And indeed, what Brice Parain speaks of are
+the categories of life-language. These are categories. But in these singularized genres there
+are more than just great figures. What else is there? Well, indisputably there are also jesters,
+Godard's famous jesters. The unforgettable jesters are singularized genres. For example, the
+great scene with [Raymond] Devos in Pierrot le fou. When Pierrot meets Devos on the pier,
+or the jetty, or whatever… and Devos tells him about his love affair, you remember?
+Basically, I'd say that here we have a burlesque genre in which this image sequence from
+Pierrot le fou is reflected. It's not just something thrown in… Godard composes very, very
+skillfully. In Pierrot le fou, there is a second example that I prefer… the Queen of Lebanon.
+The Queen of Lebanon has the prodigious role where she embodies precisely the burlesque
+genre in which a whole sequence of images will be reflected.
+
+And then we have the third case, the third type of character, and these are singularized
+characters, but less singularized: the anonymous person from the crowd, the anonymous
+person. This time, the clearest examples are in Two or Three Things I Know About Her
+[1967]. In Two or Three Things I Know About Her you may recall that there are a number of
+extras who pause in their daily routine and introduce themselves: So-and-so, 22 years old, got
+up at 7 a.m., likes to go to the movies on Saturday nights, has a fiancé, and so on. This is a
+very curious figure, the anonymous extra who declares their identity. In Two or Three Things
+I Know About Her there's a whole series of them. There too, I would say… These are genres
+in which are reflected... their daily activity, their professional activity if I recall, one of the
+extras who tells us who she is, she sells shoes… I don't know – those who remember can
+correct me if I’m wrong – she sells shoes. Here we have the whole series of professional
+images of shoe selling and what this represents, you know, in terms of retail… it must be one
+of the most tiring things in the world, where the customers are the most insolent. It's a very
+tough business, selling shoes. As for me, if I had to be a salesman somewhere, I'd prefer
+anything to the shoe store. It seems to me an abomination, an abomination for saleswomen.
+The abomination, the worst, the worst… something to avoid. Do anything, but don’t be a
+shoe seller! Good. Okay. I'd say my third determination of genre or category in Godard are
+the personalized, singularized genres, including the anonymous extras.
+
+Fourthly, but this classification is totally incoherent, especially since it impinges upon… it
+might be – and here we’re better placed, but not really… It might be faculties, psychological
+faculties – imagination, memory, forgetting – that will play the role of a genre in which the
+image sequence is reflected. Okay.
+
+In my first case of aesthetic genre, I left out two particularly compelling cases that might help
+you understand this better. If we go back to my first one, when categories are simply aesthetic
+genres, it's in the most recent films… in Passion [1982], what do you have? You have the trio
+of boss, worker, hotel owner. And their image sequences will be reflected in what? In
+pictorial and even musical images, in other words, in pictorial tableaux vivants. Here, the
+pictorial or quasi-pictorial image – since we're talking about tableaux vivants that reproduce
+scenes from paintings – the quasi-pictorial image constitutes the genre in which the images
+are reflected. And thus, it marks the limit of the images.
+
+This is where Godard, in a very unfortunate interview, in my opinion, feels the need to talk
+about metaphor. And he says, Yes, I only believe in metaphor. He says that, really, just to
+annoy me, because it's obviously not true, it's obviously not true. And he says, Yes, the
+horsemen in one of the tableaux vivants, the warriors entering the city, are a metaphor for the
+bosses, just as Goya's firing squad victims are a metaphor for the workers. He’ll say anything,
+whatever comes into his head. But there's absolutely no metaphor. It's as if he were saying –
+all the more so because it greatly diminishes the force of his films – it's exactly as if he were
+saying that in Prénom Carmen [1982] the string quartets are a metaphor for the story that's
+unfolding.
+
+In Prénom Carmen, my last example, you have the genre of music. But what is the genre of
+music? The string quartets are there purely for themselves. Of course, the genre is always
+there on its own account, but it doesn’t constitute the images, it's what the images reflect, to
+the point where – and here we have something wonderful – not only are there problems
+related to music – and we'll speak later about these famous string quartets in Prénom Carmen
+– but if I stick to the visual image, the curvature of the violinist's arm will serve as a limit to
+the gesture of the two lovers as they embrace. We could say there's a metaphor between the
+
+two, between the gesture of a violinist and the gesture of one lover embracing the other. But
+that’s stupid, it's not that. Of course, it’s possible to say this, but it would be better if you
+couldn’t. It would be better! What's happening is something else entirely. You have the series
+of visual images, the incomprehensible story and so on, insofar as it is reflected in the
+violinist's gesture, which is to say one lover embracing the neck of the other, and the
+musician rounding her arm. And then it's reversed, as the genre of music relaunches a series
+of visual images in the form of the quartet leader, the one who commands the others, saying:
+No! It has to be more violent, the attack has to be more violent! And at that point, we switch
+back to the assault on the bank, with machine-gun fire, the ra-tat-tat of machine-gun fire,
+bursts of gunfire and so on. This is a good case in point: an image sequence is reflected in the
+genre of music in terms of a single aspect. For example, the rounding of the arm, which
+relaunches in another sense that the attack must be more violent – the attack in the musical
+sense must be more violent – which gives rise to another series of images.
+
+So, I would say there are three cases: the aesthetic genre and so on… and then I don't know
+what, I've already forgotten them… then the genre of graphic signs or handwriting... no,
+sorry, there are four cases. The genre of the individuated person, of the faculties of the soul.
+Well, and then that's not all, that's not all, but things will become even more complicated.
+There's a splendid case, which would fit well here, but as I said, it encroaches upon… colors.
+Every time we have a filmmaker who is a great colorist, you have to ask, in what sense? Just
+as you would with a painter. In what sense is Godard a great colorist? If Godard is a great
+colorist, it's not in the same way that [Michelangelo] Antonioni is a great colorist. If Godard
+is a great colorist, it's because he uses colors as categories. They are categories. Godard’s
+masterpiece in this respect is a minor film, but one which seems to me... although on the
+other hand, we might list Weekend [1967] among Godard's masterpieces in terms of color.
+“It's not blood, it's red”.
+
+What does this mean? “It's not blood; it's red”. It means eliminating harmonics and
+metaphors. We won't say that it's red like blood. It's red. In other words, the whole thing of
+blood is reflected in the color red in Weekend. Right. Red is the category in which the
+sequence of images is reflected, and thus becomes a series.
+
+But there is a minor work where Godard manipulates color with genius, Letter to Freddy
+Buache [1982], which, for those who don't know, is a film and not a piece of writing. Letter
+to Freddy Buache will permit us to advance quite a bit. And it’s a commission. It was a
+commission… Godard is always receiving commissions. But he constantly has trouble with
+his commissions. So, he had this one commission: a film about Lausanne. And the
+commissioners took it very badly, saying that what he made wasn’t a film about Lausanne.
+
+And indeed, what did he do? He says – not a complicated proposition – he starts with a
+simple idea – for those who know Lausanne, this applies to all Swiss cities – there's the top
+and there's the bottom, there's the top and the bottom, there's the upper city and the lower
+city. The upper city is celestial Lausanne, the lower city is terrestrial and aquatic Lausanne.
+Celestial Lausanne is blue, terrestrial while aquatic Lausanne is green. Okay, so he will make
+it in blue and green. Through low angle shots. Low and high angle shots abound, since it's a
+question of seeing a tree from below and so on. He makes all sorts of combinations of green
+and blue, tracing curves, and indeed, he says that these are the two peripheries. There's the
+blue periphery, the blue curves, and the green curves. And what lies in the middle? In the
+middle there is grey: grey is the straight line. And why not? There are some texts by [Paul]
+Klee that don't quite say the same thing, but are just as fine, just as convincing. These are the
+
+horizontal lines of urban planning. All right. So, he makes his combinations. Clearly
+Lausanne, with Lausanne, he…
+
+What he will say is very good. He adds something that will obviously give us something to
+think about for the next time: “I wanted to avoid making a film about Lausanne.” Now this is
+something we have to remember: “I wanted to avoid making a film about Lausanne.” The
+commissioners obviously wanted a film about Lausanne. And what did he do? He made
+Lausanne reflect itself in the blue and green, and in so doing, revealed a problem: Lausanne's
+urban planning. Okay. He put together his two series, or even his three series, and how did he
+obtain them? By taking image sequences and making them reflect on color taken as a
+category. So where does he become inventive in all this? For me, this is when he becomes a
+philosopher. It's the point where he's a philosopher, because you see a philosopher doesn't
+simply repeat the categories of Aristotle or Kant. Because Aristotle and Kant obviously
+invented their own tables of categories. There's no editing table with Godard, only a table of
+categories.
+
+That's what I'd like to say. The editing table is a table of categories. It’s just that there are no
+pre-existing categories. For each film, he has to invent his own categories, and it’s in this
+sense that he is a creator. If he were to apply a table of categories like that... no, there's no
+such thing as a table of categories. There's no such thing as a definitive table of categories.
+And maybe for philosophers too, there is no single table once and for all. Each time you have
+to make and remake a table of categories that suits the given subject. Each time... This is
+what I try to call inventing concepts. Inventing concepts means constantly making and
+reworking the table of categories, remaking the… multiplying the table of categories. You
+can never have too many, do you realize that? Twelve, twelve categories in Kant, it's a joke!
+You need ninety categories, three thousand categories. And every time you need another, you
+have to give it to yourself. Okay.
+
+So, if I take Sauve qui peut (la vie) [Every Man for Himself aka Slow Motion, 1979] as an
+example, to give you something to think about, well, the table of categories is very clear in
+Sauve qui peut (la vie). It's bizarre, it's quite bizarre. First category: the imaginary, and I'm
+not making this up, it's continually being spelled out. It's written, it's in every mode. Here
+again, it's a faculty of the soul, but it's also a form of graphic inscription, the imaginary.
+
+Second category of Sauve qui peut (la vie): fear. The imaginary refers to a character, so it’s
+also a personified genre. It refers to one of the women, the one played by Nathalie Baye, I
+think, I think. Second category: fear, played by [Jacques] Dutronc. Third category:
+commerce, meaning prostitution, played by Isabelle Huppert. Fourth category: music. Well,
+there has to be a link between these categories. What is it that... They seem to be four
+completely unrelated things. What's the link between one category and another? That will be
+for next time.
+
+How does he make his table of categories? And how does it end? The perpetual refrain of
+Sauve qui peut (la vie): “And passion?”, “And passion?” You'll recall that Sauve qui peut (la
+vie) is the film that precedes the one that will be called Passion. So, what about passion? And
+the answer is that passion is not this. As I recall, he states it three times, he says three times in
+Sauve qui peut (la vie): “Passion is not this”. And at the very end of Sauve qui peut (la vie),
+the music is revealed for itself, but this isn’t passion. We'll move on from Sauve qui peut (la
+vie), which has mobilized four categories, remaining with the problem of passion, to Passion,
+which remobilizes other categories. And from Passion, we'll move on to Prénom Carmen,
+
+which mobilizes yet more categories. And each time, he will reshuffle his table of categories,
+and the montage will be the constitution of the table of categories.
+
+So, this is the point we’ve now got to. I'm not at all saying that I've settled the matter yet, but
+it's in this sense that I'd say here we have a cinema where image sequences become series
+insofar as they are reflected in genres or categories. We'll see, we'll see next time where all
+this is going to lead us. [End of session; 2:43:45]
+
+Notes
+
+   This beginning not only recapitulates part of the previous session but also corresponds to the development
+presented in the first section of Chapter 7, "Thought and Cinema", in The Time-Image.
+  On this concept, see The Time-Image, pp. 161-162.
+  On this subject, see Bazin, What is Cinema? (Berkeley, Los Angeles: University of California Press, 1958), pp.
+102-109, and The Time-Image, pp. 161-162.
+   On the Eisenstein-Griffith confrontation, see session 9 of the seminar Cinema 1, February 2, 1982. See also
+The Movement-Image, pp. 32-40 and The Time-Image, pp. 158-164.
+   See Serge Daney, La Rampe (Paris: Gallimard, 1983), and Paul Virilio, War and Cinema: The Logistics of
+Perception (London: Verso, 1989).
+   Deleuze quotes Eisenstein, no doubt from the collection Film Form (New York: Harcourt, 1977), and in
+particular, according to Deleuze, in the 1935 speech “Film Form: New Problems”. See The Time-Image, p. 308,
+note 4.
+  The Robbe-Grillet text Deleuze cites is For a New Novel (New York: Grove Press, 1965), particularly the text
+"Nature, Humanism, Tragedy". See also The Time-Image, p. 313, note 47.
+  Deleuze quotes Noguez on Duras in The Time-Image, p. 328, note 60. He will give the precise reference later
+in the session.
+  See session 12 of the seminar on Cinema 2, March 1, 1983.
+   The play quoted here is Pierre Corneille's Horace.
+   See session 18 of the Cinema 2 seminar, April 26, 1983.
+   See the TV series, France, tour, detour, deux enfants (1977).
+   On these remarks by Godard, see The Time-Image, p. 183.
+   On the contribution of Dos Passos, see session 17 of the Cinema 1 seminar, May 4, 1982, and session 2 of the
+current seminar, November 6, 1984.
+   A long-time student of Deleuze, Pascale Criton is a composer and researcher of microtonal music.
+   Pascale Criton will take part in two sessions of the seminar (10 and 22), on January 22 and May 14, 1985.
+   Richard Pinhas, a student close to Deleuze, is a pioneering figure in the fusion of electronic and rock music,
+co-founder of the group Heldon.
+   See Nouveau cinéma, nouvelle sémiologie (Paris: UGE, 1979).
+   See Situations 1 (Paris: Gallimard, 1947). Deleuze refers to it in session 1 of the seminar, October 30, 1984.
+    Although the identity of the film critic is not indicated, Deleuze speaks of René Clair in session 18 of the
+Cinema 3 seminar, May 15, 1984, and in session 1 of the current seminar, October 30, 1984. Deleuze indicates
+Barthélemy Amengual as the author of the book René Clair (Paris: Seghers, 1963) in The Movement-Image, p.
+223, note 13.
+   On Godard's categories and the discussion that follows, see The Time-Image, pp. 183-188. See also a similar
+development on Godard in session 12 of the Cinema 2 seminar, March 1, 1983.
+   Deleuze will return to this interview in detail the next session, on January 22, 1985.

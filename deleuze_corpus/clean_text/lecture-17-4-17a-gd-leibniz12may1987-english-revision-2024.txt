@@ -1,0 +1,1219 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque – Principles and Freedom
+
+Lecture 17, 12 May 1987: Principles and Freedom (12) -- The Criteria of Substance, and
+“Having a Body”
+
+Initial Transcription by Web Deleuze; Augmented Transcription and Translation by
+Charles J. Stivale (duration, 2:38:28)1
+
+Part 1
+
+So, let’s get to work. Is everything ok? Well, we are into the theme, that you recall perhaps.
+There would be or we could distinguish – but the texts are quite scattered -- we could distinguish
+something like four great criteria of substance in Leibniz. Criteria of substance mean the ways of
+determining what substance is, and these criteria would be: the logical criterion, the criterion that
+I proposed to call (I don’t know if I’ve already said this) the epistemological criterion; the
+physical or physicalist criterion; and the psychological criterion. [Pause] And, already, I can say
+that here all sorts of difficulties arrive for us. You will have them firmly in mind at the same time
+as we move forward a bit. These difficulties are only that these criteria often refer to one another
+and insert themselves into each other. And it’s surprising for us. Why? Because we haven’t yet
+felt any need to discuss the body. You remember? We felt the need to talk about events and
+monads, monads containing events specifically as predicates. But what are monads? They are
+souls or spirits. Why would the souls have bodies? We haven’t even touched on that.
+
+So where does it come from, having a body? And what does having a body mean?2 We have
+shown that monads indeed had a point of view. And we remained for quite a while on the idea of
+the monad’s point of view, and that a monad was inseparable from a point of view.3 And perhaps
+we felt that having a body and having a point of view are not different things from one another.
+But what we do not at all see [is] what this consists of and why; no doubt, having a body means
+something other than having a point of view, even if the two things are connected. And in the
+end, all these criteria are going to put into play not only notions that could be called corporeal,
+but some new notions for us.
+
+And in this, I say frankly: we have to figure it out (il faut se débrouiller). Well, I am saying: we
+have to figure it out because it’s not at all a domain devoid of commentary; there is a lot of
+commentary on Leibniz, and some very great commentators. And then when one reads some,
+one feels the need -- it’s a bit true of all philosophers, but perhaps it’s more particularly true for
+Leibniz -- that one will perhaps not be able to grasp what the commentators mean if one doesn’t
+try to grasp it for one’s own purpose (à son compte), to work out how strange the notions can
+appear. At the point where we find ourselves, Leibnizian strangeness is going to be doubled.
+
+As a result, here again we will be led into taking risks in order to be able to say: that’s probably
+correct. But what I could propose to you is that if you see something else entirely, if you see a
+thoroughly interesting commentator, don’t necessarily believe him/her to be correct, but don’t
+necessarily believe that I am correct. We can say that [the] one [that] is right for each of you [is]
+
+                                                                                                         2
+
+the one that allows you to recognize yourself in this. And if you have another idea in order to
+recognize yourself, that’s the one that is the best. As I was telling you, there are some things that
+cannot be stated, but there are a lot more things that can be stated.
+
+I was telling you [that] the logical criterion of substance [is] the one we are familiar with, and we
+said farewell to it somewhat the last time, but we said farewell to it in such a way that it hurled
+us into the problem of the body. That is what I already want to introduce, this new problem of
+the body. One of Leibniz’s most beautiful sentences is: “I thought I was in port, and I found
+myself thrown back into the open sea.” What is more beautiful? This is the very statement of
+philosophical method (démarche philosophique): one thinks one has arrived, and then there you
+are thrown back into the open sea.4 I get the impression that “having a body” and the requirement
+of having a body operates precisely through this “being thrown back into the open sea”. And
+what we saw the last time for the logical criterion of substance, it seems to me, is – I am
+summarizing – relatively clear. Today more than ever, you [should] interrupt me if there is
+something obscure.
+
+I was telling you [that] in Descartes, it’s relatively simple: the logical criterion of substance is
+simplicity, which is the same as saying that substance is defined by an essential attribute of
+which it is only distinct through a distinction of reason: body and extension, spirit and thought.
+And I was telling you at first glance – here, it’s a very good case of a notion, the extent to which
+one must be sensitive to the tonality of concepts – I was telling you [that] Leibniz will never
+define substance by simplicity. [Pause] He will indeed use the expression “simple substance”,
+but late in his work, and he will only use this expression when it’s a matter of distinguishing
+simple substance and monads, other things that he will call composite substances (substances
+composées). At that moment, he won’t say substance is simplicity, but will say: there are simple
+substances and there are composite substances. But he will never define substance by simplicity.
+On the other hand, he defines every substance by unity.
+
+And we saw, in fact, that between simplicity and unity, there was a fundamental difference
+because unity was active unity of a something that moves or changes. Unity is interior to a
+movement or is the active unity of a change. One already senses that these two definitions are not
+entirely the same since, in the end, interior unity of a movement, what does that mean?
+Movement? Movement implies a motive (mobile). A motive is a body. What does the body have
+to do in all this, whereas up to now, we only talked about souls or spirits named monads? A soul
+or a spirit crosses through changes, yes, hence the definition: active unity of a change, active
+unity of a change interior to the monad, [which] causes us no difficulty. But the definition: unity
+of a movement that is necessarily exterior to the monad since it concerns a body – this creates a
+problem for us. The last time, we hid it, because we weren’t yet there, but we will have to
+rediscover this difficulty. What can that be? All that we can say is that qualitative change,
+interior to the monad, is deeper than movement; thus if we manage to understand what
+movement is, we will realize that its purposes are qualitative change interior to the monad. But
+finally, here does this body and motive come from?
+
+So I just say, let’s keep the definition: active unity of interior change. This is spontaneity, and if
+the interior change is the predicate of the monad, this is what happens in the monad, [Pause] we
+must say that there is at once spontaneity, that active unity of change signifies a double
+
+                                                                                                      3
+
+spontaneity: both the spontaneity of the substance that changes, and the spontaneity of change,
+that is, the spontaneity of the predicate. We saw spontaneity of the predicate consisted of: it was
+its property of moving into instant ‘b” from instant “a”; the necessity for instant “a” being full of
+instant “b”. [Pause]
+
+And from this developed the opposition between Leibniz and Descartes, and in what form? You
+indeed see: the monad draws everything from its own depth through spontaneity. It draws
+everything from its own depth through spontaneity, an expression that you constantly find. And I
+remind you of the polemic with [Pierre] Bayle that seemed very important to us, in this respect.5
+What was it? The dog’s soul draws from its own depth the pain it feels when his body -- again,
+its body being tossed in our faces – when its body receives a blow from a stick. And Leibniz’s
+very beautiful answer was: but be careful, do not consider abstractions; the dog’s soul doesn’t at
+all draw from its depth a pain that would suddenly occur, but rather the dog’s soul draws from its
+depth a pain that integrates into the soul thousands of tiny internal perceptions that defined its
+disquiet (inquiétude).6 And I say here, weighing my words carefully, that I really believe that
+Leibniz is the inventor of animal psychology.
+
+Animal psychology begins from the moment that, not only you believe in animals’ souls, but the
+moment in which you have defined the situation of this soul as the situation of being on the
+lookout (être aux aguets). When you take a walk in the country, you must play the following
+game, but also in the city: imagine that you are an animal. That means what, being an animal?
+That means that, whatever you do, being on the lookout to what might happen to you.7 I would
+say that it’s what Leibniz calls disquiet in the New Essays on Human Understanding, perpetual
+disquiet: what animal has eaten in peace? He can have some peace, but the animal’s peace is
+integration of a perpetual disquiet: who is going to come steal my piece of I don’t know what
+from me? Look at the hyena’s disquiet, the vulture’s disquiet. Look at how an animal rests,
+everything. In this light, we see the extent to which Leibniz is right; he’s the first to have seen
+that, to have said: obviously animals have a soul!
+
+Why does he say that against Descartes? It’s not that we can consider animals as machines; for
+those who know Descartes somewhat, there is the famous theory of animal machines. We can
+always… these are models of construction. But what will the machine be missing? What will be
+missing is the animal disquiet (l’inquiétude béstiale), notably that one can reconstruct with
+artificial models anything of the animal that one wants; one can have a robot eat, etc…. One can
+also cause it signs of disquiet, yes, [and] at that moment, one will know in a certain way that the
+animal is something other than a robot.
+
+And you can play this out in the countryside, it’s more suitable than in the city: you place
+yourself in a field, and you tell yourself out loud: I am a rabbit [Laughter] (or something else if
+you don’t like rabbits), and you try to imagine a little of what the life of these animals is like. But
+a gunshot doesn’t strike them, which is what confirms so much that Leibniz is correct: a gunshot
+doesn’t strike them just like that. The pain of a gunshot, but it happens suddenly, literally, like
+integrating a thousand tiny solicitations of ambiance, specifically: the confused tiny perception
+that hunting is underway. They heard the gunshots; moreover they heard the hunters calling out:
+“Hey, Toto, did you see one of them?” They don’t get it, but there is a special voice for hunting
+
+                                                                                                     4
+
+and the hunters. They saw these people crossing [the field] in their own way, there is a particular
+hunter’s gait; these animals are on the lookout.
+
+And what Leibniz proposes to us, and also answering Bayle, is the idea that when I say that the
+soul spontaneously produces its own pain, I only mean, he says, it does not receive the same
+impression of pain as [one] coming suddenly with nothing to prepare it. The impression of pain
+comes to integrate suddenly a thousand tiny perceptions that were there, and that could have
+remained non-integrated. At that moment, the rabbit might have finished eating its carrot, that is,
+taking pleasure; but whether it’s a man’s monad or an animal’s, you see this kind of change in
+the monad occur in its depth.
+
+And I was telling you, henceforth, there is a way to provide the concept of Mannerism with a
+certain consistency in philosophy. And I was telling you, Leibniz is really the first great
+philosopher, I believe, to have initiated this theme of the depth of the soul. Through this, the
+Romantics will perhaps remember Leibniz, but before that, the depth of the soul was hardly
+discussed, or else when one talked about it, it was as an image, whereas it’s in the status of the
+soul, “It draws everything from its very depth,” [and] that’s what the monad is. So I was telling
+you: the Mannerist couple is depth-spontaneity, in opposition to the Classical couple from
+Descartes: form-essentiality. [Pause]
+
+But then let’s continue a little more to finish up with this first criterion. This first criterion is
+inherence, as you recognized; we worked it over so much.8 This first criterion is inherence, you
+know, specifically the predicates are in the subject or, if you prefer, each monad expresses the
+world. Each monad expresses the whole of the world, or the world is in each monad. You
+remember [that] this is inclusion. And when I was telling you, we have an ultimate confirmation,
+I was telling you: but be careful [since] predication has generally been confused, in Leibniz, with
+attribution; it’s precisely the opposite, it’s precisely the opposite, since the judgment of
+attribution is the rapport attribute-substance [Pause] to the extent that the attribute determines the
+substance’s essence. [Pause] Inherence is absolutely different: it’s inclusion of the predicate in
+substance to the extent that substance draws the predicates and the succession of predicates from
+its own depth. The predicate is not the attribute; it is event. [Pause]
+
+So I assume that all this is clear. That’s what the logical criterion of substance is, opposed in
+Leibniz to the Classical criterion of substance such as you find it in Descartes, that is, substanceessential attribute. But I am taking advantage of this to push forward a bit. Henceforth, even at
+this level, I defined substance through inclusion: it’s what includes the aggregate of predicates as
+events, or the aggregate of predicates as change. [Pause] So it’s the active source of change, the
+active unity of change, change being opposed in Mannerism to the fixed and solid attribute of
+substance. In this, it’s, on the contrary, a living source of change.
+
+So therefore, here’s the question that I am asking, so I ask it first in Latin, to convince you even
+more: and why wouldn’t everything stop there, that is, why wouldn’t every thing be a percipit of
+substance, of the monad? A percipit: what does that mean? It means a perceived being,
+Percipere means to perceive; percipit is being perceived.9 [Pause] The monad expresses the
+universe and includes it; each monad includes the universe. Its predicates are changes, or from
+one predicate to another there’s change. Leibniz will tell us that perceptions are the actions of
+
+                                                                                                      5
+
+substance. I insist on this because that will be important for us later. We might have thought it
+easier to say that perceptions were what substance received. You see that this cannot be said
+unless one understands nothing. No one can tell us that the substance receives: it receives
+nothing. It is whole in itself. Leibniz is the last philosopher who can say that substance receives
+perceptions; it’s an active unity.
+
+And in one among other texts, Leibniz doesn’t forget it: [Pause; Deleuze looks into his edition]
+“The action characteristic of the soul” – action – “The action characteristic of the soul is
+perception and the unity of what it perceives” -- that is, the substance -- “comes from the link of
+perceptions according to which the ones that follow are derived from the ones that precede.” We
+have seen according to which laws those that follow are derived from those that precede: those
+that precede have to be generated (grosses de) from those that follow. We have seen that the
+dog’s pain wasn’t… rather that the pleasure the dog has from eating was generated by the pain it
+was going to endure when it gets struck by the blow from a stick. On the other hand, the tiny
+perceptions that preceded the blows from the stick are generated by the pain [the dog] is going to
+endure.
+
+So, why not say: there are neither things nor bodies? There is the monad and its perceptions. The
+world is what the monad perceives, that is, it’s what is in the monad. Henceforth, the world is
+uniquely the “being perceived” of the monad; it’s what is perceived by the monad. And I could
+say: “being” (être) is either being a monad or being perceived by a monad. Being is being
+perceived. This is what would be known as an idealist system. Everything pushes us toward it
+since, you remember, the world does not exist outside the monads that express it or include it.
+The world does not exist outside the monads. We have to hold onto this, we have to return to
+this. You recall our schema: the world is perhaps the virtual horizon of all monads; it doesn’t
+prevent them from not existing outside such and such and such and such monad, [outside] the
+number = x of monads that it includes. It’s what has been called for ages “idealism”.
+
+Henceforth, there are no things; there are perceptions. There aren’t stick blows; there are pains.
+This is what Bayle says very well to Leibniz: but what’s the need to bring in a stick blow? There
+isn’t any stick; there aren’t any stick blows; there isn’t any dog body; what would be changed?
+[Interruption of the Web Deleuze transcript] You understand? What would be changed?
+Absolutely nothing. You’d have the dog’s soul that would feel pleasure. There wouldn’t be a
+meal, but it would experience pleasure, the same pleasure as the one it otherwise feels. [Return to
+the Web Deleuze transcript] God can do all, so why would God have made bodies, something
+very tiring, when he could have only made spirits and souls? Nothing would have changed: the
+dog would feel pleasure, it would endure all the tiny forms of disquiet we were talking about,
+and then the pain would integrate these tiny forms of disquiet. All of that happens in the soul, so
+there is no need for there even to be a real stick. There would be the perception of food, and the
+perception of food would not exist outside the perception of food. “Esse” would be for a body or
+an object, esse, being, would be percipit, that is, being perceived.
+
+You understand? "I thought I had reached port". The monads give an account of the totality; they
+give an account of whatever you want. It’s enough to say: there are only monads. And yet,
+Leibniz never thought of saying that, never. So that poses a problem for us: first, he could have
+said it, if it’s true that he wanted to say it. Moreover, there’s someone else who said it, so that
+
+                                                                                                      6
+
+complicates things: it’s [George] Berkeley. I will give you some easy Berkeley, but I’m not
+going to devote… [Deleuze does not complete the thought] But Berkeley is renowned for
+introducing the formula “esse est percipi” and for having founded a new kind of idealism
+according to which there are only souls or spirits.10
+
+And at the start of his philosophy, he himself presents his enterprise by saying: there are only
+Irishmen – Berkeley was Irish; [Laughter] I find this very important because, first, this creates a
+link to Beckett, [Laughter] who was admirably familiar with Berkeley; he knows Berkeley very,
+very well, and yes then, since there’s a little film by Beckett, the little marvel that Beckett
+created in cinema is placed under the sign “esse est percipi”; that is, this is Beckett’s response to
+Berkeley, but this isn’t why I am making this connection. Berkeley spent his time saying: you
+Irish, at least in his first works. He does not say this maliciously; he means: there is a thing (truc)
+in what I am saying that only an Irishman can understand. So, that interests me a lot because that
+would truly establish the relation of philosophers and philosophy with nationalities. He saw
+himself as creating a philosophy for the Irish, for the use of the Irish.11
+
+Fine, esse est percipi. This is what he presents in another way as a double transformation, the
+double transformation of things into ideas and ideas into things, or, if you prefer, into sensible
+impressions, and sensible impressions into things. What is the table? [Deleuze raps hard on the
+table] It’s the percipit, it’s being perceived. It matters little what Berkeley means; that becomes
+quite complicated, etc. … No matter, that doesn’t concern us. But what does concern us is that
+Berkeley’s first books come out around 1714, and that, having a great mental curiosity, Leibniz
+reads them. What’s really interesting is Leibniz’s reaction from his reading, a very fast reading, I
+think; we have some [of his] notes. We have notes of Leibniz reading Berkeley who, at that
+moment, was a very young philosopher. Leibniz’s first reaction is not good; he says: this is an
+extravagant Irishman! [Laughter] This young man is really extravagant; he is saying things to
+make himself interesting; he says “esse est percipi”, [and] this is not serious. And then, in a more
+interesting way, in his notes, he re-writes them, he indicates that this [the expression] suits him
+entirely, and that he could have said this. I am not saying he said it, but he could have said it.
+We’d have to see in what sense he could have said it. But precisely, he does not say it and will
+not say it. My first question is: why doesn’t he say it whereas the first criterion of substance
+would allow him to say it?
+
+So this is how I end the analysis of the first criterion of substance; all of that has to be quite
+orderly so that you recognize how much all of it is very complicated. I end with: we are thrown
+back into the open sea. Why is it that as an outcome of this first criterion, Leibniz doesn’t wake
+up, despite his old age, why doesn’t he wake up as a Berkleyian, that is, saying there are only
+monads and their perception, such that bodies and things are simple percipits? There are only
+souls or spirits, and their perceptions.
+
+Here, I would like for you to remember certain things: [Pause] each monad, you and me, we
+express the entire world. Notice that Berkeley never would have said that, and you have to feel
+why Berkeley never would have said that. We express the whole world to infinity, each of us
+expresses it, and the world does not exist outside all of us who express it. But you recall: each of
+us has a tiny privileged region, what Leibniz calls one’s subdivision (département), one’s zone,
+one’s neighborhood. But what is this? It’s the portion of the world that we express clearly, or as
+
+                                                                                                       7
+
+Leibniz says in a rather more mysterious way: distinctly; or as Leibniz says in a more general
+way: that we express specially (particulièrement). Here the vocabulary is already really
+interesting to study: especially, clearly, distinctly, a tiny part of the world, which is a finite
+portion: our subdivision, our neighborhood.
+
+And on this point I told you: well yes, you have your tiny little zone, for example, the time in
+which you are living, the milieu in which you are evolving, etc.: that’s the clear portion of what
+you express. And this, the particular regions, as much as you express the infinity of the world,
+you equally only express a limited portion clearly. This limited portion is your finitude [Pause]
+or, if you prefer, your limitation. Why is it your limitation? Because it’s what distinguishes you
+from God. If God is a monad, it’s because, on one hand, it expresses all the monads, even
+incompossible between them, and on the other hand, in the world it chooses, it expresses clearly
+and distinctly the infinite totality of this world. [Interruption of the recording; text from
+WebDeleuze] [38:44] God has all the subdivisions at once. So what defines the limitation of a
+monad like you and me, of a finite monad, the finitude of a monad, is the fact that it only
+expresses clearly a tiny portion of the world. [Return to the recording]
+
+Part 2
+
+Let’s translate; let’s try translating. What do I express clearly in the world? [Pause] Perhaps you
+recall [that] I insisted on this quite a bit: in Leibniz, the predicate, what is contained in substance,
+is so much less an attribute since, in fact, it is always an event or a rapport. An event is an
+especially complex rapport, as we saw when analyzing Whitehead, in his relations with Leibniz.
+But a predicate is always a rapport. This is why it is not an attribute, which is always a quality.
+And this is why it’s so disastrous: believing that the judgment of inclusion in Leibniz is a
+judgment of attribution, since one understands absolutely nothing at all about what a predicate is
+for Leibniz if one states that a predicate is a rapport and can be only a rapport. Fine.
+
+What do I express clearly? There is an expression that summarizes everything, so why not use it?
+And here we’re going to use it, and while it should simplify everything for us, it will also
+complicate everything for us. Tough (tant pis); we will be thrown back into the open sea. It
+would surely be very simple and precise to say: well yes, the zone that I express clearly is what
+concerns my body. What I express clearly, in the world, is what relates to my body. We again
+find the idea of rapport. The clear predicate included in the monad, or the aggregate of clear or
+special predicates that defines my subdivision, my zone, my neighborhood, is the aggregate of
+events that pass through my body. This is what I am especially destined to express, and to
+express particularly. It seems to us that this wasn’t complicated to say. But precisely, why didn’t
+[Leibniz] say it? Why didn’t he begin by saying it? Why does he say it in the Letters to Arnauld,
+[where] he says, and yes: “What the monad expresses clearly is what has a rapport with its
+body.”12 There we note that the monad has a body. [Pause]
+
+For example, the monad Jules Caesar: it clearly expresses all sorts of things but note well [that]
+everything it expresses relates to his body. Even for the monad Adam, everything that it
+expresses, all that it especially expresses -- being the first man, being in a garden, having a wife
+born from his rib – all that is what has a rapport with his body. And you will find nothing in your
+clear expressions that doesn’t have a rapport with your body, which does not mean that what you
+
+                                                                                                      8
+
+clearly express would be phenomena of your body. That’s how it gets complicated. That’s where
+we start beginning to swim. For it seems incontestable to me that what I express clearly is what
+has a rapport with my body. But what happens in my body, my body itself, I don’t express it
+clearly at all. I cannot say that I clearly express the movements of my blood, and moreover, if
+there is something that is obscure to me, it’s my body. So it happens that here we have something
+so obscure that is, at the same time, [Pause] that which is in a relation with what allows me to
+perceive clearly.
+
+You sense that one has to have a strange status of the body, and you especially sense that we
+have the embryo of an answer (embryon de réponse). Then, the fact of having a body means it
+must be in rapport with tiny perceptions, and the tiny perceptions are obscure and confused.
+What I express clearly, the clear, is when I integrate tiny perceptions. So I draw on something
+clear, from this whole obscure depth. Drawing on something clear from an obscure depth is a
+rather strange operation. In Descartes, that never happens. It’s properly Leibnizian: the clear is
+what is drawn from an obscure depth. Moreover, there is no clarity that isn’t drawn from an
+obscure depth. It’s been said that it’s a Baroque conception of light, in opposition to the Classical
+conception. But we’re not going to get back into that; all of that is very coherent.
+
+You see, invoking the body is going to cause us all kinds of problems, but what I am saying is
+this: Notice the order in which we can invoke it. Here’s my question: can I say I express, yes or
+no? Can I say that me monad, me spirit, that I especially or clearly express a region of the world
+because I have a body and because it’s that region that concerns my body or what is in rapport
+with my body? In other words, is it, or rather, in the same words -- I’ll start this over --: Is it
+because I have a body that I clearly express a part of the world that has rapport with this body?
+Radical answer: No, impossible! Why impossible? Because Leibniz wouldn’t be Leibniz,
+because we wouldn’t be talking about Leibniz; we would be talking about something else. We’d
+be talking about a philosophy that would have long before already explained what a body was.
+And we saw that the path is even the reverse. What is it we have to say? Well I have no choice,
+but I really prefer the second proposition to the first; it’s more intelligent. We have to say: I have
+a body because my soul clearly expresses a tiny region of the world. It’s the only thing that I can
+say.
+
+That I have a subdivision, that is, that my soul clearly expresses a tiny region of the world, it’s
+the sufficient reason for having a body, enabling me to then say: yes, what I clearly express is
+what has a rapport with my body, for a very simple reason: it’s that my body deduces from the
+clear region that I express. In other words, what I should create is a genesis of the body. This
+genesis of the body forbids me from starting off from [the body]. Someone could ask me: do I
+have a body all the time? Yes, I have a body all the time. You remember perhaps: before being
+born I had a body, after my death, I have a body. The question isn’t if I have a body all the time.
+The question is: what derives from what? And my order is set. Why do I express a tiny little
+region, whereas I express the entire world, but obscurely? Why do I clearly express a tiny
+region? We saw that you can’t respond: “because I have a body.” On the contrary, it’s because I
+clearly express a tiny region that I, henceforth, have a body. Genesis of the body. Hence the
+necessity of the question: why do you express a tiny clear region since it’s not because you have
+a body; it’s the opposite, it’s bec… no, shit! It’s the opposite… Anyhow, you got it! [Laughter]
+
+                                                                                                     9
+
+We saw the answer, if you recall! We saw that each monad was constructed in the neighborhood
+of a small number of singularities; each monad is constructed around a certain number of
+singularities extensible (prolongeables) into other singularities, all the way into the
+neighborhood of other singularities. But each monad is constructed around a certain number of
+principal singularities. I express the world because the principal singularities, around which I am
+constituted, extend themselves in every direction toward the others, and into the neighborhood of
+other singularities. [Pause] But I am constructed around a small number of privileged
+singularities. For Adam, it’s: being the first man, being in a garden, having a wife born from his
+rib, [we could] find some others. [Laughter] Each one’s soul is a condensation (condensé) of a
+limited aggregate of singularities. Why does it express the unlimited world? Because these
+singularities extend themselves all the way into the neighborhood of all the other singularities,
+but each of us is constructed around a small number of singularities. It’s because each of us is
+constructed around a small number of those singularities that I move forward a little: the answer
+is never given straight out by Leibniz, and I will alert you when… But what seems to me
+suggested by the texts, suggested in as strong a way as if I had said it, so he said it, [Laughter]
+but he said it in texts that haven’t reached us. But they don’t exist any less; they will exist one
+day. And then, then it’s necessarily so (forcé); that’s why because it seems to me that other
+answers are impossible. However, it’s not far off. But in the end, it matters little. I should never
+have said that…
+
+You see the genesis. First proposition: certainly each monad expresses the whole world, but each
+individual, what does being an individual monad mean? It’s concentrating, concentration, a word
+that Leibniz uses: concentration of a limited aggregate of singularities. I don’t express the world
+any less for this, because, once again, these singularities are extensible all the way into the
+neighborhood of all the other singularities. So, first proposition: I am constructed in the
+neighborhood of a certain number of singularities, or of a determined aggregate of singularities.
+
+Second proposition: henceforth, that’s the reason why I express a determined portion of the
+world, the one that links constitutive singularities. But I express the entire world in a confused
+way, that is, all the singularities of the world chosen by God. But I make my neighborhood, or
+my subdivision, from the portion of the world delimited by my constitutive singularities. Third
+proposition: I have a body because I express a privileged region, [Pause] and thus, I could say:
+my privileged region is what has a rapport with my body, [Interruption of the WebDeleuze
+transcript] the privileged region of my spirit, that which has a rapport with my body.
+
+With this, I’m thrown into all kinds of problems, notably how to explain that my body is only
+perceived obscurely by my monad. I content myself solely with this: each monad has a body and
+must have a body. Each monad has a body, I don’t know. No, all that I can say is the each monad
+ought to have a body. It ought to have a body since the requirement of having a body results
+from the clear portion that I express. There we are, I’ve completed the first point.
+
+Henceforth, notice that when I introduced the monad in the first point as the unit of movement, it
+was justified to the extent that I have a body and that, henceforth, there are bodies. [Pause] Why
+not a lone body? That we shall see, because the law of the body is precisely to submit to the
+actions of other bodies. And it doesn’t matter. There we have the first point. It has to be very
+clear. This is clea : if I reverse the order, in my opinion, this would no longer be Leibniz. If you
+
+                                                                                                     10
+
+start off from the body, it’s ruined. [Pause] Understand? This is a genetic deduction of the body
+that he proposed to us at this level. [Pause] No problems? … Yes?
+
+Question: [Inaudible, due to ambient noise in the classroom]
+
+I am going to tell you that you aren’t yet even severe enough. In all rigor, on this level, what I
+can say is that it’s not even that animated beings have a body. What I can say is that reasonable
+souls have a body. I can’t even say anything else; I can’t say anything else because [Return to the
+Web Deleuze transcript] we started off from the monad. For the moment, the monad, for us, is a
+spirit that expresses the whole world under the auspices of reason, that is, it’s you or me. We’ve
+encountered animals; we’ve encountered animals, but we don’t know what that is. We have
+encountered them in some way because we made them intervene. We don’t know what that is.
+And things… the example loved so much by Leibniz, for your pleasure: the rainbow, all that.
+Animals and phenomena of different kinds, light, rainbows, etc., for the moment, they’re… –
+you sense that they have to belong, and your question is quite correct -- that they have to belong
+to the genesis. They have to emerge at a moment… which moment? We don’t know, we don’t
+know at which moment. [Pause]
+
+Second criterion of substance, substance still being taken as a monad presented as spirit of a
+reasonable being. [Pause] We have just seen that by virtue of the first criterion, the monad as
+spirit of a reasonable being must have a body. And why must it have a body? It must have a
+body, once again, because it expresses a privileged subdivision in its total expression.
+
+Second criterion, the epistemological criterion. Why do I call it the epistemological criterion? As
+we saw, it’s because I insisted on the originality of Leibniz’s logic that consists of calling for a
+definition as function of the requisites of the thing. And what are the requisites of the thing? It’s
+already something very new: these are the constitutive conditions of the thing. We have to
+distinguish the constitutive conditions of the thing from the constitutive parts. [Pause] The
+requisites are not among the constitutive parts; these are conditions that the thing must obey in
+order to be what it is. [Pause]
+
+And we saw, on this point as well, that Leibniz clashed with Descartes, since the second criterion
+of substance for Descartes was, you recall, real distinction, two things being conceived without
+one being thought while causing elements of the other to intervene.13 [Pause] For Descartes, two
+really distinct things, that is, things thought as really distinct, we saw that it was the same thing,
+that it was always a question of thinking within the real distinction, and well, that two things
+thought as really distinct were separable. [Pause] Descartes would be able add: furthermore, that
+which is separable is separated, and that’s another matter. If what is separable is separated for
+Descartes, it’s because, otherwise, God would be an imposter (trompeur); he would make us
+think of things as being separable, and he would not separate them. So he would be lying to us.
+[Pause]
+
+Leibniz answers a second time: no! He says: what Descartes did not see was that two things can
+be really distinct, that is, thought as really distinct, and nonetheless have the same requisites, that
+is, have the same constitutive conditions. And two things that have the same requisites can be
+really distinct, and yet they are not separable. And Leibniz’s grand idea is that nothing is
+
+                                                                                                    11
+
+separable in the world. [Pause] Example: monads. They are really distinct; one can be thought
+without the other. That does not make them separable, and moreover they are inseparable. Why?
+Because they have the same requisites. Which requisites? The common world that they express:
+each from its point of view expresses a one and same world; they are really distinct since the
+points of view are really distinct. You can think the monad Caesar without thinking anything
+about the monad Alexander. That doesn’t change the fact that they aren’t separable, they have
+the same requisites; they express a one and same world. And this singular requisite, all the
+singularities of a same world, must indeed express itself in general terms, that is, from the point
+of view of a logic of requisites – what are we going to say?
+
+We saw it the last time; we started to see it: this is where [Leibniz] creates his great reactivation
+of Aristotle in order make fun of Descartes. Descartes thought that he had done away with
+Aristotle and with Aristotelian abstractions that consisted of telling ourselves: substance is
+composed -- you see it was rather distant from Leibniz, the component parts -- substance is
+composed from a matter, from a form and from an aggregate of matter and form. [Aristotle]
+added: matter is the power (puissance) of accepting opposites; that’s what change is, hence
+substance is a unit of change. This was close to Leibniz: matter is the power of accepting
+opposites. One of these opposites is: possession of the form. Henceforth, form is the act that
+causes power to pass into act, it’s the form that actualizes power, and matter without form is
+privation. Hence the condition under which you think the trio matter-form-component of both,
+this is the distinction, it’s the opposition possession-privation. It’s an entire aggregate of
+requisites of substance.
+
+And there we see what [is] in [Leibniz’s] project, which is both to hold onto, once again, the
+acquired elements of Cartesianism in order to turn them against Descartes and to reactivate
+Aristotle; that’s how Leibniz is going to return to the problem and present it as a problem of the
+requisites of substance. This is the most difficult point of what I have to tell you today, so we are
+going rather slowly.
+
+For substance to exist, there first must be an active unity. We saw that this was linked to the first
+criterion. But you saw this, we can draw it, we can extract it from the first criterion since unity
+could also be as much a unity of movement as a unity of change interior to the monad. For
+substance to exist, there must in any case be a unity, active unity of spontaneity. [This is] what
+we will call substantial form, or according to an Aristotelian term – that I don’t have the time to
+define, otherwise we’d get all lost in this, but if you run into it, don’t be disturbed -- perfect act,
+that is, Entelechia. [Deleuze spells it out] The perfect act or Entelechia, the completed substantial
+form or perfect Entelechia, the substantial form, Entelechia: it is this active unity, that is, what is
+called for the moment: monad. It’s spontaneity. We will call it active and primitive power
+(puissance).14 You already see that power is no longer opposed to act, but power passes into act,
+and it needs nothing else than itself to pass into act.
+
+Active and primitive power. Why? Because it does not cause a power or a matter to pass into act;
+it is in itself the power of action (puissance d’agir): this is going to be -- and Leibniz borrows it
+from the Renaissance, that is, from Aristotelians who have singularly changed the rapport poweraction --, specifically, power is itself power of action (puissance d’agir). There is no longer an
+act that actualizes a power of action; there is a power that passes into action, if nothing blocks it.
+
+                                                                                                     12
+
+This is why that it is called: power (puissance). If nothing blocks it, it passes into action.
+Spontaneity of active power.
+
+Hence [there is] the splendid expression for Nicolas of Cusa, a Renaissance philosopher to whom
+Leibniz owes much, when he speaks of "possest”. For those who know some Latin, possest is a
+word composed of “posse”, power (pouvoir), and “est”, is. That means precisely: the power
+(puissance) that is not power of Being, but the power which IS, the power which is act, the
+power in action, the possest. In Leibniz, once again you see this term constantly: active and
+primitive power. You see that it is not a form, substantial form, but this is not a form that acts on
+a matter; it is a form – Leibniz will say – of which all the actions are internal. If nothing blocks
+it, it passes into act. Quite often Leibniz will tell us that the monad, by definition, has only
+internal actions. It is active, and all its actions are internal. Why? By virtue of the principle of
+inclusion, by virtue of the principle of inherence.
+
+Thus there is an active power (puissance) because the act does not exert itself over an exterior
+matter, but power is in act (en acte) since all its actions are internal. [Pause] I would say:
+substantial form was identified by Leibniz with the substance as subject, that is, with the monad,
+that is, with active power of which all the passions are internal. [Pause] You have seen it: what
+are the internal actions of the monad? These are its perceptions. The perceptions are the actions
+of the monad.15 [Pause]
+
+Only there we are, the second requisite: it is true that our difference with God is that we are
+limited. And as we saw -- in this as well, this is entirely clear in itself -- we saw that in Leibniz,
+just as there was an absolute revision of the rapports power (puissance)-act, there is also a
+renunciation of the opposition privation-possession. To the benefit of what? Of limitation.
+[Pause] Our sole privation is that we are limited. We are limited because we are creatures:
+monads are limited. But it’s not because we are limited that we still don’t have infinite actions,
+Leibniz will say; this is something else. But in any case, because we are limited, as we’ve seen,
+we only have a very partial region of clear expression. The mark of limitation in the monad is
+precisely that we have a single subdivision.
+
+Limitation does not prevent action. [In] another letter: [Pause] “I answer that even when it” –
+substance -- “is blocked” -- that is, when its active force, its active puissance is blocked -- “it
+simultaneously exerts infinite actions for, as I have already said, no blockage can completely
+suppress action”. Afterwards considerations about the body come, etc. This is constantly
+marvelous. Fine. The monad is limited. This is the second requisite; the first requisite is: active
+and primitive power (puissance). To limitation, Leibniz will give the name primitive power, but
+now passive. [Pause]
+
+Only here’s the problem: how does he define the limitation? [Pause] That’s very important
+because, staying with the point of view of genesis where we are now, out of [scholarly] rigor I
+refer to the Letters to Father Des Bosses, like a “bosse” [hump] in two words, letters from the
+end of his [Leibniz’s] life, so we can consider that they express the final state of his thought. He
+never stops telling us: limitation is requirement. Limitation is requirement of what? It’s the
+requirement of extension (étendue) and – a rather mysterious word -- of antitype, which is
+resistance or inertia. For reasons that we will perhaps see later, or perhaps we won’t have time to
+
+                                                                                                    13
+
+get to these, Leibniz thinks that extension is itself incapable of taking account of inertia and
+resistance.
+
+So, these aren’t two things, and we know about it since it’s not the same thing. We saw this, you
+recall, so I remind you of it quite briefly: extension is a series, it’s an infinite series whose parts
+are organized according to the rapports of whole-parts,16 and that tends towards no limit, [Pause]
+whereas resistance or antitype is the limit toward which something tends, in the extension,
+[Pause] that enters into a convergent series. But no matter. Leibniz tells us: limitation is a
+requirement, or it’s the requirement of extension or antitype, or the requirement of extension and
+resistance. He will call it mass, but as one commentator notes, Latin has two words for “mass”.
+What he calls mass, in Latin it’s “moles”, and he indicates: mass without form. In fact, this mass
+without form – you see why it’s without form? It’s not even extension, it’s not even resistance,
+and it’s a requirement. In other words, it’s a requisite in pure state. And if you say, this is where
+extension intervenes, you would be wrong; extension surely does not intervene there. This is
+where there is a requirement of extension. Limitation is one requirement of extension and of
+resistance, understanding this as resistance to movement, but we don’t know, or resistance to
+change. We will say, requirement of extension… [Pause]
+
+If I remain here, we’ll say: the monad as substance, as spiritual substance, has two requisites:
+[Pause] substantial form or Entelechia or active primitive power (puissance), and limitation
+[Pause] or requirement of extension or of resistance. If you want to draw more from this, you do
+not have the right, in my opinion; for the moment, it’s blocked off. We cannot say more about it.
+A problem remains, you can always analyze this requirement. I can already tell you where it
+would come from, and that is going to commit us. Perhaps I’ll need to repeat it to you.
+
+Very quickly, I say, this story is quite significant, so that you will feel a bit of the deep
+coherence. You recall that each monad has a point of view. The point of view already allows [us]
+to define something that we have not talked about at all, which is what Leibniz calls space,
+specifically (we can only say it in Latin, otherwise we will get all mixed up) in Latin: spatium.
+The spatium strictly has no physical reality and does not concern bodies. The spatium is a logical
+order, the order of coexistent points of view, [Interruption of the recording; text from
+WebDeleuze] [1:25:30] that implies no physical nor geometric extension. The spatium is the
+order of coexistent points of view, or if you prefer, it’s the order coexistent places, places being
+points of view. [Return to the recording]
+
+Part 3
+
+What is the requirement of extension and of resistance? It’s the diffusion of places. [Pause] It’s a
+consequence of spatium. It’s still not a question of extension. It’s a requirement of extension, a
+requirement of antitype. [Pause]
+
+At the outside, I can say what? Limitation, this requirement of extension, in the end what is it?
+The limitation of each monad is the fact that there are several monads, the fact that there is an
+infinity of monads. I would almost say: my limitation is the shadow of other monads onto my
+own. Everything starts through the shadow. Notice that my situation is not brilliant! The shadow
+of other monads onto my own: wouldn’t this be a way of getting back to something, [so] I repeat
+
+                                                                                                        14
+
+the question: what is my limitation? I repeat the question each time to give another answer. My
+limitation is the fact that I clearly express only an entirely tiny portion of universe, and the rest
+lies in my obscure depths. My limitation is the obscure depth of my soul.
+
+Fine. What is the obscure depth of my soul? I can start over: it’s the fact that I cannot clearly
+express anything but a tiny portion. Why can I only express a tiny portion? We saw this. But the
+ultimate answer is because there are other monads. In other word, what causes the obscure depth
+of my soul? The shadow that other monads cast over me. It’s your shadow that creates my
+obscure depth, [Interruption of the WebDeleuze transcript] as a kind of revenge. [Pause]
+
+We don’t communicate otherwise. It’s really marvelous. This is Leibniz, you remember?
+Monads are without doors or windows. They do not communicate with each other because they
+have strictly nothing to say to each other. They have strictly nothing to say to each other; they all
+express the same world from their point of view, each from its point of view. Each has only a
+small portion of clear expression, a small subdivision, its neighborhood, fine. I have my
+neighborhood, you have yours. All the rest is the dark depth within each of us. We, we – what is
+the word when one gets one’s feet really muddy? I no longer know -- anyway, we [Return to the
+Web Deleuze transcript] -- We wallow in this obscure depth, we slog. And what is this obscure
+depth of your shadow over me? The only thing that you might give me. Note that it’s impressive:
+giving a bit of shadow to others, what’s more beautiful?
+
+A student: Diogenes wouldn’t have liked that.
+
+Deleuze: Diogenes, wouldn’t have liked that? Oh, he’d have gotten used to it. I don’t know. It’s
+his… In any case, there’s no reason to criticize, not at all, because it’s… The dark depth is
+necessary. It is absolutely necessary to prevent me from being just any being (un être
+quelconque). [Return to the WebDeleuze transcript] I must have all that, all this shadow on me.
+You understand?
+
+So I would say: the requirement of extension or antitype is so little extension or antitype; it
+hasn’t yet become such, and in all rigor, it is the shadow that all the other monads cast onto each
+other. In this very way, it constitutes the obscure depth of each monad. You see that we never get
+out of it, always, we’re always… I have to have a body, but in the genesis, we are not even at the
+requirement of a body, but the requirement of something [Pause] that I might be able to name
+extension and inertia. And I can only analyze this requirement. And I would say, with my first
+two requisites, I would say: active primitive power (puissance) and active passive power are the
+two requisites of the substance called monad, substance that I can call: simple substance, now
+that all danger is cast out since I know that “simple” does not define the substance. What defines
+the substance is the two requisites. I can add: limitation is not separable from active power.
+[Pause] All the simple monads are separable from one another; no, that’s not good… I am saying
+stupidities. The simple monads are really distinct from one another, but they have the same
+requisites, and these requisites are themselves inseparable. And they are not themselves
+separable, the monads, since each one casts the shadow over all the others. There you are (Voilà).
+
+What remains for us is the most difficult, and then what’s going to happen? Specifically, we have
+a requirement; how is the requirement going to be realized? How are the requisites going to be
+
+                                                                                                     15
+
+fulfilled? I add… Ah yes, I forgot the essential point: passive primitive power or limitation,
+that’s it – beware of texts – or “moles”, mass in the sense of “moles”, mass that includes neither
+extension nor inertia -- that’s a requirement of extension and of inertia --, this is what Leibniz
+calls primary or naked matter, stripped naked (toute nue), primary matter or naked matter. If you
+tell me to show that to you, I can’t show it to you; it’s a requirement. In any case, it still does not
+include anything of extension; it’s pure limitation. It is a requirement of extension.
+
+Third point, still in this second criterion – you can see here where this can no longer advance:
+how is the requirement going to be realized? -- [Pause ; interruption, question from a student]
+Yes, just a moment so I can look that up… -- Sense immediately what our answer is going to be,
+but that showing this will be complicated: the only thing that can realize the requirement of
+extension and antitype – normally, you must wait for me at the turn, or rather wait for Leibniz at
+the turn -- it would be for him to tell us [that] it’s extension and antitype and to show us how
+extension comes to realize the requirement of extension. That [answer] would be worthless (nul);
+it would be worthless, it would not be philosophy, impossible. I cannot establish a requirement of
+extension and then answer that it’s the extension that realizes the requirement of extension. This
+would be the worst verbalizing. And you sense what the answer must be here: one has to let
+oneself be guided by the necessities, otherwise we are lost! There again we have no choice
+because Leibniz had no choice: there can only be one answer for him. It’s the body. It’s when we
+have a body, and insofar as we have a body, that limitation conceived as requirement of
+extension and antitype is realized. The body alone can realize the requirement.
+
+But then the body, it’s not extension? That’s not what it is? Or else it constructs it, it secretes it?
+Perhaps the body secretes extension? And it secretes antitype? Perhaps it does all that! It
+becomes possible to say, [but] I don’t know if it’s possible to prove. But the only answer is we
+are blocked, otherwise we’d have to stop, which would be nice: if Leibniz had stopped, we
+would have to stop there. We would say: he couldn’t go any farther; he was swallowed up by the
+sea… Yes, like Nietzsche, he stopped… He had a little accident that made him stop. Otherwise
+our task is painful: we must continue, we must continue, we must continue! We know at least
+where we await our answer; we have no choice: the body alone can fulfill the requirement.
+[Question from a student] Yes?
+
+A student: [Inaudible – on the problem of evil in Leibniz]
+
+Deleuze: This is absolutely correct. Evil… But here we have to distinguish what is Leibnizian
+and what is general, what’s a general theme in the period, -- this doesn’t mean that it’s not good
+to be general -- what belongs to Leibniz and what we find a little bit everywhere. What we find a
+little bit everywhere in the seventeenth century in philosophy is the idea that evil solely has
+limitation for its source. With limitation being the condition of any creature, God is responsible
+for Good, but is not responsible for Evil. Creatures exist only as limited; limitation is the source
+of evil. This is not Leibnizian, it’s general. You find it in Descartes, in Spinoza, and that comes
+from a deeper operation (this is not simply a theological platitude): it’s their conception
+according to which – it’s their anti-Aristotelianism – there are no privations, there are only
+limitations. This is an extremely original thesis that occupied the entire seventeenth century, the
+attempt to reduce privation to a simple limitation. It’s an initial point; it’s general.
+
+                                                                                                  16
+
+The second point that shows you are correct is specific to Leibniz: Leibniz has an original way of
+conceiving of the very rapport between limitation and positivity, positive power (puissance).
+This an original way -- so Spinoza is another one, then Descartes another, Malebranche another,
+I believe. Each in the originality of his philosophy has a certain way of conceiving of the rapport
+between reality, which is necessarily positive, between positive reality and limitation, the
+limitation of this reality --Leibniz’s original way, as we saw -- if we want to compare it to the
+others, this would be an entirely different subject, so I limit myself to this by saying [that] --
+Leibniz’s originality seems to me to be this: limitation is conceived by him as passive primitive
+power, that is, requirement of extension and resistance. That’s what is specific to Leibniz. If you
+prefer, I’m looking into a text that is even more precise on this, in a text from The Theodicy,
+which will be very important for us, but when we get to physics. And I have to find this text
+because… I noted it down somewhere, but it indicates well the originality of … [Pause]
+Theodicy, first part, paragraph 30 – this will be good because I really would like to have some
+among you read it for the next meeting: “Matter itself . . . originally is inclined to slowness or
+privation of speed”. It doesn’t matter that this concerns physical matter, you’ll see soon. So that’s
+what he says, and so it is worth… I am allowing myself to develop this text now, because it is so
+beautiful, and as you will see, and I would like to situate it here precisely as an answer to your
+question.
+
+Leibniz adopts an example from physics in which it’s a question of the problem of metaphysics
+and of the metaphysical limitation of creatures. He says: for you to understand the problem of the
+metaphysical limitation of creatures, I have to explain to you something that concerns physics,
+which will help you. And here is what he says: “Let us suppose that the current of one and the
+same river carried along with it various boats, which differ among themselves only in the cargo,
+some being laden with wood, others with stone, and some more, others less.” – Notice, on the
+same river, at the same moment, there are some boats; we assume the river is the same for all the
+boats, the current is equal for all the boats; this is the physical hypothesis -- “That being so, it
+will come about that the boats most heavily laden will go more slowly than the others, provided
+it be assumed that the wind or the oar, or some other similar means, assist them not at all.”
+
+So they are following the current, more or less loaded down, the most burdened are going more
+slowly than the others. They don’t have the same primary matter, I’d say; they don’t have the
+same mass. So, first possibility: is it the weight that explains why the boats are going more or
+less quickly? Answer: “It is not, properly speaking, weight which is the cause of this retardation”
+-- due to the fact that certain boats are going more slowly; it’s not the weight -- “since the boats
+are going down and not upwards; but it is the same cause which also increases the weight in
+bodies that have greater density” -- one must certainly not bring in weight all alone in the bodies
+with greater density, that is, that are less porous and more burdened with matter than is proper
+for them. “It is therefore” -- here is the essential primary text -- “It is therefore” – if the boat
+don’t have the same speed – “It is therefore matter itself which originally is inclined to slowness
+or privation of speed, not indeed of itself to lessen this speed,” [Deleuze repeats the whole
+quote]. Here you can invent what follows: not to lessen it by itself, when it has already reached
+this speed. He tells us: matter slows down, it is inclined to slowness or privation of speed “since
+that would be action” (car ce serait agir).
+
+                                                                                                      17
+
+You have recognized [that] it’s pure passive power, limiting passive power; therefore, “matter
+itself which originally is inclined to slowness or privation of speed, not indeed of itself to lessen
+this speed . . . since that would be . . .” when it had already reached this speed, and it reaches it
+from the current. You see: all the boats reach their speed from the current, some going more
+slowly than others. Was this due to the weight, asks Leibniz? No, it’s not due to the weight, since
+they are descending rather than going upstream. It would be weight intervening if it was a
+question of going upstream, with oars, all that: “. . . not indeed of itself to lessen this speed . . .
+having once received it, since that would be action, but to moderate by its receptivity” -- what a
+beautiful text for those truly interested in finding Kant’s premises in Leibniz’s thought -- “the
+effect of the impression” -- the impression is truly the communicated movement, the movement
+communicated by the current: it’s the current that creates impression -- “when it is to receive it.”
+Do you understand, or should I re-read slowly?
+
+I’ll try to sum this up: boats variously loaded gather movement from the same current presumed
+equal for all. That is, they gain speed, or if you prefer, they gather movement of a certain speed.
+Some go more slowly, so why? Are they going more slowly because of greater weight? No! Yet
+again, they descend on the current, and weight would only matter if they were following the
+current upstream. So why do some go more slowly? Because the more it has matter, less will be
+its receptivity from the quantity of movement imprinted by the current; the less its receptivity
+will be in very little time, the more its receptivity will take time, the more its receptivity will be
+slow.
+
+In other words, what is matter? Matter is precisely receptivity. When I say that Kant isn’t far off:
+primary matter, primitive passive power, it’s the form of receptivity. Primitive active matter is
+the form of spontaneity. Here things will become luminous. Listen to this beautiful text: “The
+current is the cause of the boat's movement, but not of its retardation” – incontestable; here
+there’s a beautiful distinction of two requisites. [Pause] “Likewise God” -- you put God in the
+place of the current -- “is the cause of perfection in the nature and the actions of the creature.”
+[Deleuze repeats the entire quote] The boat’s movements = primitive active power. Yes, God is
+its cause… [Pause]
+
+“But the limitation of the receptivity of the creature is the cause of the defects that are there in its
+action.” He has dissociated on the physical level the current as cause of movements and
+receptivity as cause of the variation of movement, that is, from the greater to lesser speed…
+“Likewise God is the cause of perfection in the nature and the actions of the creature . . . [but
+which is] the cause of the defects that are there in its action,” that is, that a particular monad
+might be good and a particular other one bad, the equivalent of going fast or going slowly. It’s
+not God that is its cause, it’s the limitation in the receptivity of the creature. And it is varied, the
+primary matter, the limitation – we don’t have the same. We have more or less of a shadow.
+Each one has its own; each and every one has its receptivity according to its mass. Each person
+has its mass, its “moles”, at the level of the soul. Literally, what is receptivity? It’s the quantity
+of shadow in one’s soul.
+
+And so I am ending; if you were here when we did this, that is, when we covered this point, you
+may recall, this reminds us… We return fully into the problem of the damned.17 What is a
+damned person? It’s someone whose shadow has invaded its entire soul. So it’s someone, as
+
+                                                                                                    18
+
+[Leibniz] says in an expression that’s so beautiful that – aie, aie, aie, aie, I’ve lost it! [Deleuze
+looks in his texts] -- In any case, insofar as [I am] soul, I have a limited receptivity. You see a
+limited receptivity; it’s my zone of clarity, that is, insofar as it is limited by all the shadow. I
+would say rather: it’s all the shadow that limits my zone of clarity because my zone of clarity
+refers to action. There are souls that have an extraordinarily limited receptivity, [where]
+everything is shadow. And the damned, you remember what happens: [Deleuze announces
+loudly] There Is No Soul! Or at least you feel it: we are confronting problems that are veritable
+abysses because I am still speaking about reasonable souls for the moment, and I was going to
+say: there is no soul without its zone of clarity. Perhaps? Perhaps? But is this true for animals
+even if they have a soul? And we saw that for Leibniz, it’s obvious that they have souls. It’s
+almost the point about which he most resents Descartes; he says: Descartes, no really, someone
+telling you stories of animal-machines, this isn’t someone serious, even if yet again he explains
+that this is an explanatory mode, because afterwards, he no longer understands anything about
+what happens in men. He does not see that there is a depth of the soul.
+
+The damned person is what? Do animals also have a clear zone? In my view, we can already
+answer Yes, necessarily. It’s perhaps not at all of the same type as for us, but they necessarily
+have a clear zone since they have a body as well. They have a body and then they clearly express
+what happens through their bodies, what has a rapport with their bodies. When a dog receives a
+blow from a stick, to return to Leibniz’s example, when it receives a solid blow from a stick,
+well, it clearly expresses pain; it has a clear zone of expression that has a relation to its body.
+
+But the damned person, you remember? He has so much obscurity in his soul that the only tiny
+light still shining is: God, I hate you! And almost fortunately he has that, it’s a tiny light, “God I
+hate you!” If he didn’t have that tiny light, he would literally be senile. He only has that to live
+for and to survive. But he will survive for all eternity because he has that tiny light that he could
+enlarge. He could enlarge it, should he desire to, [and] he would cease being damned. As Leibniz
+says, there is no damned person who doesn’t damn himself at every moment. The damned person
+is not a story from the past: it would suffice for him to abandon the, God, I hate you! But this is
+what he insists on the most in the world, so he won’t abandon it. But even that one… So, the
+slowness or the limitation of one’s receptivity is infinite. We even have the impression that it no
+longer moves. It can no longer move. You see, we fall back completely onto this problem of
+metaphysical limitation, and in which God is not responsible for metaphysical limitation, but is
+solely responsible not for passive limiting force, but primitive active force. So that’s all that I
+wanted to say about this first aspect. [Interruption in the WebDeleuze transcript]
+
+But again grasp hold of the problem; this is really a tough one. We’ve still made some serious
+progress forward. Those who, I’m saying… I was saying, why do bodies emerge? But here we
+are [Return to the WebDeleuze transcript] now at the start of an answer, but this will not be easy.
+We have the start of an answer.
+
+We were asking: why do bodies exist? We were asking why does the fact of clearly expressing a
+tiny region result in me having a body? That was our problem. I must have a body since the tiny
+region is what will concern my body -- I place this indeed in the future -- once I will have it. And
+our answer now is that the monad had a passive primitive power, that this passive primitive
+power, or limitation, was the requirement for extension and resistance. What can…? For this
+
+                                                                                                   19
+
+point, we pass on to another thing: what can satisfy this requirement, fulfill this requirement?
+The body and only the body, having a body. At this level, the monad sighs, it truly sighs: God,
+give me a body, I need a body. [Pause] So be it. [Interruption of Web Deleuze transcript] [A
+student asks a question]… Yes?
+
+First student: There is something that bothers me in the text you read. There’s a problem
+regarding the movement of the two objects in the same current. In a river’s current, a ship and a
+dead leaf go at the same speed. I’ve never seen a dead leaf overtake a ship in the same current.
+This might be true for a boat like a trireme, but not for when boats are carried along in the same
+current.
+
+Deleuze : So, here, [what you say] is troubling me… [Laughter] Suddenly, I’m telling myself,
+what’s going on… So, let’s stop and think about this. We can add something else.
+
+First student: There are no distinctions to make between masses carried along by the water’s
+current, and in fact, the experience of Galileo was to drop a weight from the Tower of Pisa, and
+the huge mass arrived at the same time as the lighter mass. Perhaps this is a special case of the
+facts about falling bodies.
+
+Deleuze: But you have… You’ve done well in pointing this out to me. This isn’t at all a special
+case. [Pause, different discussions are heard, near to Deleuze, and others farther off] It seems to
+me that you are completely neglecting the current, clearly. Let’s take, for example, two… I
+choose a kid’s game, two matches in a stream, leaving at the same time. They race each other.
+You’ll tell me that one of the two matches doesn’t encounter the same milieu. Let’s assume that
+the current is equal for both, with one of the matches [alone] and a group of two matches
+connected together, and you don’t have a vacant milieu. In my view, there is a particular
+difference from “you drop [the masses from above].” It’s well understood that… [The first
+student tries to interrupt] We assume that the current is the same. This is not at all the case for
+Galileo. It’s not at all a descent, not at all a descent because, in the case of the descent, you have
+here what is called in physics – here, I’m… This is not meant to drown you with science, it’s just
+that I’m trying to regroup a bit because… Physicists, physicists would have a good laugh, either
+at your expense or at mine. -- But I’m saying that this story of the descent is what is called
+“labor” (un travail) in physics. So we can very well say labor is when an effect consumes its
+cause. For example, you raise up a body to a given height, and then you let it fall, so, in fact, in
+conditions of falling in a vacuum, well, it falls the same [as another]. In the case of my current,
+it’s a completely different story. In this case, you have a movement that is imprinted from one
+body to another. I am looking for differences in this; here there’s a current that imprints on a
+boat. It’s not a body that’s falling. You have movement because, otherwise, they’d remain fixed
+in place. If there were no current, they’d remain fixed. One cannot assimilate this to “you
+dropped [something from above]”.
+
+The first student: These are bodies with the current.
+
+Deleuze : It’s a body that receives its movement from the current, not from labor. [Objections
+are raised]. No, they [the boats] are place [into the water]. They don’t have the same speed, eh?
+They are placed [into the water]; we are assuming small boats, some models, and they are placed
+
+                                                                                                    20
+
+into the current. At first they have no speed. So they receive the movement from the current. Ok?
+You let me know if this is ok… If you will, this is therefore the case, how to say this, there is an
+expression that is slipping me; I am looking for it because Leibniz… It’s motor action (action
+motrice), in fact. This is the difference between labor and motor action, in my view, because…
+[Different answers come at once from several students, with a second one speaking quickly;
+Deleuze listens] I don’t understand. Here, I don’t understand this.
+
+A second student: [This student again presents the situation of the two bodies in the water;
+different discussions are taking place as he speaks. This student suggests that the difference
+between the two bodies is nil.]
+
+Deleuze: But, no, it’s not nil. It’s equal to zero at the very first moment; it is set at zero at the
+very first, but it is printed on the bodies… [Pause] You’re right. I sense that we are reaching
+something here. It’s equal to zero in the first instance because this is exactly what Leibniz poses
+as an objection to Descartes. He tells him, your law is valid for the first moment of movement.
+It’s true when you place the body in at the first moment, and there, in fact, it is zero. But, from
+the next moment small a, it has received movement from the current.
+
+Richard Pinhas: [He returns to the example of the bodies falling in space; the student’s speed of
+delivery here is increasingly rapid (and excited) as he presents his examples.]
+
+The second student: [He again intervenes, returning to the boats in the water, but with another
+example of immobile water in a cooking pot, and his comment raises numerous objections from
+other students. A woman student then intervenes, responding to the second student]
+
+Deleuze : Here are some texts, here we have some texts. Listen up, please. There is surely a way
+to discover something because… -- What a story! [Laughter] I have the impression that we
+possess two kinds of proof and that we’re not going to speak about the same one. -- So, listen up:
+[Return to the Web Deleuze transcript] Leibniz distinguishes two cases for his laws of
+movement. In any case, this is his problem: how to define force or power (puissance). This is
+very good because it makes me move toward the physical criteria of substance. How to define
+force or power? He says: Descartes defined force or power by the quantity of movement, that is,
+by m. On this point, we must distinguish two cases. The first case is what is called since
+[Descartes] the case of work. The case of work is the case of a force that consumes itself in its
+effect. Example: you lift up – I’d like to finish today on this point, so this will allow us to make
+progress on the physical criterion -- You lift up a body to some height, so you furnish some
+work, then you let everything go. [Pause] There you have Leibniz’s argument; you can find it
+mostly in… Yes?
+
+The previous woman student: [Question regarding Einstein’s physics. While she is speaking,
+Deleuze coughs quite deeply making small groans]
+
+Deleuze: Listen, this is not a matter of Einstein. I assure you that it’s elementary physics,
+because we are saying, him and me, that it’s elementary physics. [Laughter] So, if we take up the
+slightest scholarly argument, it’s obvious that it will be a means of escape.
+
+                                                                                                     21
+
+So, first case, I lift a one-pound body A to four meters, a one-pound body to four meters. Then I
+lift up a four-pound body B to one meter. [Pause] I have to use the same force to lift them in
+both cases. [Pause] But – and here I have to verify this from my memory in the Discours on
+Metaphysics, there is a little drawing on this example – but according to Galileo’s famous theory,
+the fall in the first case has twice the speed that it has in the second case, [Pause] even though
+the height is four times greater. What does he conclude? He draws the triumphant conclusion
+against Descartes, therefore, that force and quantity of movements cannot be confused. That’s
+the first case. In my opinion, this is the one that you are talking about, but we’ll see.
+
+Second case: it’s no longer at all a question of a force that is consumed in labor, notably, that
+must be it, I think. In the first case, time does not intervene. In fact, force consumes itself, as one
+says, in an instant. There is no consideration of time. There is physically no consideration of
+time, and in fact, if you look for what is conserved in both cases, you reach the Leibnizian
+formula mv2 [squared], and not mv as Descartes believed, because Descartes believed and
+confused force and quantity of movement. [A student tries to interrupt] – You’ll let me follow
+this to the end? Is it ok, so far? You agree? Is that ok? … Whew, I mean, what is…
+
+Second case, it’s entirely different. It’s no longer, how to say this… [Deleuze listens to a student
+beside him] a question of a force that consumes itself in work, a question of a force that
+consumes itself in work. It’s a question of a uniform movement of a rolling body, by virtue of an
+acquired speed, through a hypothesis without resistance. Here, there’s no point in saying already
+that the case is entirely different since one has to introduce time. In what sense must one
+introduce time? It’s what we will no longer call work, but motor action (action motrice). Here is
+the example given by Leibniz: two leagues (lieues) in two hours. A mobile body. Everything is
+different. Perhaps I have expressed myself poorly since the body is assumed to be a rolling body
+by virtue of its acquired speed. For, in fact, in the first moment of speed, as he says, it’s
+Descartes’s formula that is valid, such that Descartes can only comprehend the movement as it
+initiates. But already he cannot understand the uniform movement. So the example that [Leibniz]
+gives is: a body traverses two leagues in two hours. Two leagues in two hours is twice one
+league in one hour. [Pause; voices again start to rise] One league in one hour is twice one league
+in two hours [Deleuze repeats this]. [Interruption in the WebDeleuze transcript] – [I hear]
+objections are coming in from somewhere… Who doesn’t agree?... Eh? Why?
+
+A woman student: [Inaudible comments]
+
+Deleuze: The first case – you don’t understand me – first case: two leagues in two hours is
+double one league in one hour.
+
+The student: [She continues speaking]
+
+Deleuze: A body that makes two leagues in two realizes… so, what must we say, in fact?...
+[Several answers are suggested] … It’s not a labor exactly… -- Where did I put my book?
+[Pause] I must not have taken it with me. -- [Noises of movement and voices from different
+directions] Traverses! Yes, let’s say that: A body that covers two leagues in two hours traverses
+a space that is double that of one league. [Pause]
+
+                                                                                                    22
+
+The student: [She continues stating her objection]
+
+Deleuze: No, I didn’t say that it’s normal; on the contrary, we are looking for normal… So, a
+body that traverses two leagues in two hours traverses a space double to those or the one that
+traverses one league in one hour.
+
+Second case… [The sound of voices is still heard], a body that traverses – second case, eh? A
+body that traverses one league in one hour, so here I’d say, takes twice less time (met deux fois
+moins de temps) than the one that traverses one league in two hours. Eh?
+
+Third: A body that traverses two leagues in two hours – we’re going back to the first one – so
+there, traverses a quadruple space, and not a double [space], than the one operating, traversing
+one league in two hours. [Pause] I will re-read this, abridging it since…18
+
+Two leagues in two hours – first proposition – two leagues in two hours, double one league in
+one hour.
+
+The woman student: [She still voices an objection; Deleuze responds to her]
+
+Deleuze: Space and time… [Pause]
+
+The student: [She continues with objections]
+
+Deleuze: No, we aren’t going to include speed. We will have speed intervene elsewhere since we
+are looking at space and time. We are going to apply the formula e=vt, and this is going to be
+important since, in this case, it’s going to be the problem – ah, she’s understood all of it – it’s
+going to be the problem of uniform movement. This uniform movement is going to be mv
+multiplied by e. But e is vt so uniform movement will give you mv2t, mv multiplied by e equals
+mv multiplied by vt, mv2t. You rediscover mv.
+
+What mattered to Leibniz is that there’s transformation – we’ll come back to this later; we’re not
+done – there’s transformation where, in all these equations, he is going to find mv2, but he cannot
+find it in the same way in the case of labor, [in the case] of cause that is consumed by its effect,
+and in the case of motor action, that is, uniform movement of a body rolling by virtue of an
+acquired speed since, in the second case, there will be mv2t or mvvt or mve.
+
+So we return to… Here, you have two bodies; this is like your cooking pot example that you had.
+What’s going to happen? I have a track, I have a track. Here, we mustn’t exaggerate, I have a
+track. – Look at me because I need to follow in your mind as much as… And each of us has two
+little autos [Pause] and …
+
+A student: And we throw them! …
+
+Deleuze : What?
+
+The student: We throw them!
+
+                                                                                                     23
+
+Deleuze: We throw them, with a force assumed to be exactly the same. Yours is full of … iron
+bolts, and mine is full of… [The students start suggesting possible objects, and Deleuze doesn’t
+complete the sentence] The force with which we throw it is strictly the same, that is, Leibniz
+would say, we imprint on the two mobile objects the same quantity of words. He doesn’t already
+say… Not what I thought.
+
+The woman student: [She interrupts Deleuze once more] …
+
+Deleuze: What?
+
+The first student: [He intervenes again about the boats, suggesting that the boat example only
+works if it’s all located in stagnant water; if there is a motor force, if it’s the case of bodies
+carried in the current, that wouldn’t work. Everyone in the class starts talking.]
+
+Deleuze: The current… No, in fact… But the mistake… The confusion doesn’t come from what
+you are saying. [Deleuze is speaking very loudly in order to be heard] The confusion comes
+from, not what is made to intervene in the current, [but from] what causes the current to
+intervene as the first thrust.
+
+The second student: There’s someone who pushes the boat…
+
+Deleuze: And after, he doesn’t bother any more with the current, he doesn’t bother at all.
+
+The second student: I thought that it’s the river that had the current.
+
+Deleuze: Ah, this is an argument for another time.
+
+The student: [He continues, inaudible; lots of laughter]
+
+Deleuze: It’s an argument, but I don’t want to end on this point because it’s a very broad
+argument. You could say just as well that, until now, I had never heard about there not being any
+resistance to movement. In fact, it’s understood that bodies do not encounter resistance in the
+same way. The current intervenes to imprint a movement, and then no longer intervenes, that is,
+the slightest mathematician can no longer take into account a factor that has played out its effect.
+[Different comments, indistinct] No, no, inversely, it’s me who read the text wrong, and as a
+result… [Deleuze does not finish the sentence]
+
+So, anyway, in order for you to see where we are, suddenly, to create a short-cut, we took on the
+physical criterion of substance. What I’d like to emphasize after… For me, all this has been very
+useful because I was telling myself, suddenly, my God, what’s not working here, and as if I
+hadn’t thought about it, and I had some awful doubt; I told myself, Leibniz couldn’t have made a
+mistake, so… Well, then here we are.
+
+What I want you to retain is that when he substitutes mv2 for mv, this substitution bears on a very
+precise problem, which is: [Pause] what is it that measures force? And his reproach against
+Descartes is… Because [Return to the Web Deleuze transcription] sometimes it is said that he
+
+                                                                                                   24
+
+substitutes force for quantity of movement, but this is not true. The real physical problem that
+Leibniz poses is not at all that Descartes ignored force; it’s that Descartes believed it possible to
+measure force as the quantity of movement, mv. In the end, it is entirely linked to his conception
+of substance. And Leibniz’s idea is that this is physically false.
+
+So remember that it’s by virtue of actual science, by virtue of modern science – this is why it’s
+very important – it’s by virtue of modern science that he needed to reactivate something in
+Aristotle. And what will that be? He is going to consider the two cases that Descartes could not
+distinguish, the case of work that is, if you will – Leibniz repeats it often – an ascendant
+movement, a vertical movement. That’s what is the case of work or the case of force that
+consumes itself in its effect. And the second case [is] the case of horizontal movement, that is, a
+supposedly uniform movement of a rolling body by virtue of its acquired speed. In the first case,
+force consumes itself in its effect in the instant. In the second case, there is the necessity of
+introducing time. [Pause] In the first case, the formula of force is mv2, and not mv. [Pause] In
+the second case, the formula of force is mv2T, motor action.
+
+In what way is this directly linked to the idea of substance? Notice henceforth that contrary to
+Descartes, extension itself cannot be substance. If I say mv, that might work, I can deal with
+extension as a substance; mv2, something has to be added to substance, and in the text Discourse
+on Metaphysics, Leibniz will say clearly: something is required that is a kind of Aristotelian
+form, that is, that would be an active force. [Pause] And we will say: work is active force in the
+instant [Pause] and motor action is active force in the unit of time. [Pause] In both cases, it’s
+force. By nature, it is always positive, and Leibniz attaches to it a lot of importance. Why?
+Because a square is always positive. That is essential for Leibniz. It’s essential: he sees in this a
+kind of prodigious accord, like a kind of additional proof of God’s existence, specifically the
+force that conserves itself in the physical world, or mv2, since v2 by nature is always positive.
+This force mv2 [is] distinct from the quantity of movement, and whose extension itself cannot
+take account of an active force. This is what engenders movement in extension. Descartes,
+according to Leibniz, is incapable of taking account of the genesis of movement in extension.
+
+Hence, Leibniz’s great formula that you will find in On Nature Itself, a little text at the end of
+Leibniz’s life: the mechanism pretends to explain everything by movement, but it is absolutely
+incapable of taking account of movement itself. This will be his perpetual objection against
+Descartes and against the idea of an extended substance. And this force mv2 he will call
+derivative force. [Pause] Derivative force will be active force, you see, that engenders movement
+and to which a derivative passive force responds. The derivative passive force that we’ve just
+seen is the limitation of receptivity, the limitation of receptivity according to the law of motor
+action. And it’s in this sense that he can say that physical bodies symbolize with monads or
+metaphysical substance, with spiritual substance since: just as spiritual substance presented to us
+active primitive force, [He corrects himself] passive primitive force or limitation, so too bodies
+will present to us active derivative force and passive force of limitation defined by the
+delimitation of a receptivity of the body, of the receptivity of the body to movements that it
+receives.19
+
+Good. That [discussion] created some problems for me, but at the same time, it was
+indispensable. So then, what I would like to say is here’s where we are. We are exactly within
+
+                                                                                                                    25
+
+the problem; we have been brought back to our problem. Simply, I have nearly completed the
+physical criteria of substance. I’ll have very few things to add to what I’ve said today. This is
+where I am precisely: fine, the monad has and includes a requirement of extension and antitype,
+and of resistance. We feel that the only thing that can realize this requirement – to realize, and
+the word realize matters to me greatly; we shall see why – the only thing that can realize this
+requirement is “having a body.” If it is fine this way, the monad has a body. But we fall back
+onto the question: what does it mean “having a body”? This would be the third requisite of
+substance. [End of the Web Deleuze transcript] There wouldn’t only be something like a
+requisite of primitive active force, that is, spontaneous unity of change. [Pause] There wouldn’t
+only be something like a requisite of passive limitative force, of limitation. There will still be a
+third requisite that would furnish us with the expression of what “having a body” means. That is
+where we are. [End of the recording] [2:28:32]
+
+Notes
+
+  While this session was nearly complete in the Web Deleuze transcript, requiring somewhat fewer supplements than
+in some of the previous augmented sessions, there are two small but intriguing gaps that were left untranscribed, for
+whatever reasons. What makes this session fascinating is it's one of the few examples (the only one encountered in
+the 1986-87 sessions) in which Deleuze loses control somewhat of the discussion, rather due to some examples from
+Leibniz that he proposed and that raised problems and frustration among some students. However, Deleuze does
+manage to bring things together by the end. The slippage in the discussion occurs in the last 20 or so paragraphs.
+  As noted in the 7 April 1987 session translation, the third section of The Fold (University of Minnesota Press,
+1993) has “Having A Body” as the global title, and Deleuze addresses this question immediately in chapter 7,
+“Perception in the Folds,” cf. p. 85; Le Pli (Minuit, 1988), p. 113.
+  See the 18 November 1986 session on point of view.
+  Deleuze cites this Leibnizian phrase à propos of Foucault, in Pourparlers (Minuit, 1990), p. 206; Negotiations
+(Columbia University Press, 1995), p. 151].
+  During the session on 5 May, Deleuze discusses Bayle’s dictionary.
+  Deleuze earlier defined “disquiet” in the 24 February 1987 seminar, referring to the German Unruhe, cf. The Fold,
+p. 69; Le Pli, p. 94.
+  Deleuze reflects on “being on the lookout” in L’Abécédaire de Gilles Deleuze (Gilles Deleuze, From A to Z
+[Semiotext(e), 2011]), notably in “A as in Animal” and “C as in Culture”. “Being on the lookout” also has an
+important link to harmony and disquiet: cf. The Fold, pp. 130-131; Le Pli, p. 178.
+  Cf. the discussion of inherence in the 7 April 1987 session.
+  For a discussion of perception in this light, cf. The Fold, pp. 94-95; Le Pli, pp. 126-127.
+   The French transcript has Deleuze saying percipit, whereas Berkeley’s formula is esse est percipi.
+   Deleuze refers to Berkeley and the Irish in What Is Philosophy? (Columbia University Press, 1994), p. 109;
+Qu’est-ce que la philosophie? (Minuit, 1991), p. 105.
+   For this quote and its context, see The Fold, p. 95; Le Pli, p. 127.
+   See the session of 7 April for Descartes’s distinctions.
+   Deleuze discusses Entelechia in the 24 February 1987 seminar; cf. The Fold, p. 70; Le Pli, p. 96.
+   Deleuze emphasizes his particular understanding of power as puissance (power of action) in L’Abécédaire de
+Gilles Deleuze, notably in “I as in Idea” and “J as in Joy”, with specific reference to Spinoza. In The Fold, Deleuze’s
+discussion of puissance occurs in chapter 8, “The Two Floors,” notably pp. 113-115, Le Pli, pp. 152-154.]
+   Deleuze discusses this relationship in the 4 April 1987 seminar.
+   Deleuze discussed the damned in great detail in the 24 February 1987 seminar.
+   Please note: the three preceding paragraphs (first case, second case, third case), no doubt quite dense, have been
+especially verified as to their precision in relation to what Deleuze says.
+   Deleuze discusses “derivative force” throughout The Fold, but most notably in chapter 8, “The Two Floors”, pp.
+114-118; Le Pli, pp. 153-160.

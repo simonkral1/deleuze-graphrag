@@ -1,0 +1,1144 @@
+1
+
+Gilles Deleuze
+
+Séminaire sur Spinoza, Les Vitesses de la pensée
+
+Séance 14, le 24 mars 1981
+
+Transcriptions: Partie 1, Sandra Tomassi (durée 31 :20); Partie 2, Madeleine
+Manifacier (durée 46:56); Partie 3, Sandra Tomassi (durée 43 :28); transcription
+augmentée, Charles J. Stivale
+
+[La transcription et l’horodatage correspondent à l’enregistrement sur YouTube attribué
+à WebDeleuze.]
+
+Partie 1
+
+… Quoi qu’il arrive, quoi qu’il, quoi qu’il arrive aujourd’hui, c’est la dernière fois que
+nous parlons de Spinoza. Or, je voudrais commencer par une question qui est importante
+et que l’on m’a posée la dernière fois. La question est celle-ci -- c’est presque une
+question qui remet en cause l’ensemble de ce que l’on a dit – la question est celle-ci :
+Comment Spinoza peut-il, au moins dans un texte, mais un texte suffit, comment Spinoza
+peut-il au moins dans un texte dire que toute affection, toute, [1 :00] n’importe quelle
+affection, est une affection de l’essence ?
+
+Quel est ce texte ? En effet, « affection de l’essence », c’est -- sentez que c’est une
+expression un peu bizarre ; je ne dis pas qu’elle soit inattendue, mais le fait est qu’en tout
+cas, à ma connaissance, c’est le seul cas où l’on trouve cette expression -- quel cas ? Un
+texte très précis qui est un texte de récapitulation, c’est-à-dire à la fin du livre III de
+l’Éthique, Spinoza nous donne une série de définitions hors livre. C’est-à-dire, il définit
+[2 :00] ou il redonne des définitions qui, jusque-là, n’étaient pas données ou bien
+dispersées. Il donne des définitions des affects, une fois dit que le livre III portait
+précisément sur les affects.
+
+Et vous vous rappelez que les affects, c’est un genre d’affection très particulier. A savoir,
+c’est ce qui découle, -- on le traduit souvent par sentiment, mais il y a le mot français
+« affect » qui correspond tout à fait au mot latin « affectus » -- c’est bien ce qui découle
+des affections à proprement parler, étant des perceptions ou des représentations. Or, dans
+la définition 1, à la fin du livre III, on lit ceci : « le désir est l’essence même de l’homme,
+[3 :00] le désir est l’essence même de l’homme en tant que cette essence, en tant que cette
+essence est conçue comme déterminée par une quelconque affection d’elle-même à faire
+quelque chose ». Donc, le désir est l’essence de l’homme en tant que cette essence est
+conçue comme déterminée à faire quelque chose par une affection d’elle-même, affection
+de l’essence.
+
+Si l’on continue, et cette définition, en effet, comporte une assez longue explication ; on
+tombe sur une phrase qui fait aussi un peu problème : « Car par affection de l’essence, car
+par affection de l’essence » -- là, la formule y est directement – « nous entendons toute
+
+                                                                                                2
+
+organisation de cette essence qu’elle soit innée » entre parenthèses « (ou acquise) ».
+[4 :00] Pourquoi entre parenthèses ? C’est parce que le texte latin semble tronqué. C’est
+bizarre. Le texte latin porte uniquement « car par affection de l’essence de l’homme, nous
+entendons toute organisation de cette essence, que cette organisation soit innée » ; il
+manque quelque chose là, et dans la traduction hollandaise du Court traité, il y a la
+phrase complète, en effet, que l’on attend. Pourquoi on attend ce complément "ou
+acquise" ? Parce que c’est une distinction très courante au 17ème siècle entre deux types
+d’idées ou d’affections, les idées qui sont dites innées et les idées qui sont dites acquises
+ou adventices. Chez Descartes, par exemple, vous trouvez la distinction idées innées,
+idées adventices. [5 :00]
+
+Mais, pour un peu redoubler notre étonnement, s’il est vrai qu’inné-adventice, innéacquis, c’est une dualité, c’est un couple de notions tout à fait courant au 17ème siècle
+depuis Descartes, en revanche, le fait est que Spinoza n’a pas utilisé cette terminologie.
+C’est dans cette récapitulation qu’apparaît la reprise des mots inné-acquis. Tout ça, c’est
+curieux. Qu’est-ce que c’est que ce texte qui emploie des termes, d’une part, que Spinoza
+n’a pas employé jusqu’à maintenant, inné-acquis, et d’autre part, lance la formule
+« affection de l’essence » ? Où est le problème ? Si vous pensez à tout ce que l’on a dit
+précédemment, en effet, il y a [6 :00] un petit problème parce que comment Spinoza
+peut-il dire : « toutes les affections et tous les affects sont des affections de l’essence » ?
+
+Alors, ça veut dire que même une passion est une affection de l’essence. Nous, à l’issue
+de toutes nos analyses, on tendait à conclure, eh bien, que ce qui appartient vraiment à
+l’essence, ce sont les idées adéquates et les affects actifs, à savoir les idées du second
+genre et les idées du troisième genre. C’est ça vraiment ce qui appartient à l’essence. Or
+Spinoza semble dire tout à fait le contraire : non seulement toutes les passions
+appartiennent à l’essence, [7 :00] sont des affections de l’essence, mais même parmi les
+passions, les tristesses, les pires passions. Tout affect affecte l’essence. Voyez le
+problème. [Deleuze s’adresse à une étudiante] C’est bien ça la question que tu m’avais
+posée ? Alors c’est à ça que je voudrais essayer de répondre presque en regroupant un
+peu ce que l’on a fait, ce que je suggérerais. Tout le monde sent en tout cas d’où vient le
+problème ?
+
+Il n’est pas question de discuter un texte de Spinoza. Ce n’est pas possible, ça. Donc il
+faut prendre à la lettre. Bien. Il nous apprend que quoi qu’il en soit, toute affection est
+affection de l’essence. Donc les passions appartiennent à l’essence non moins que [8 :00]
+les actions. Les idées inadéquates appartiennent à l’essence non moins que les idées
+adéquates. On ne peut pas faire autrement, il le dit. Et pourtant, il faut bien qu’il y ait une
+différence. Je veux dire qu’il faut, de toute évidence -- là on n’a pas le choix -- que les
+passions et les idées inadéquates n’appartiennent pas à l’essence de la même manière, que
+les actions et les idées adéquates leur appartiennent.
+
+Comment s’en tirer ? -- je dirais presque « affection de l’essence », [9 :00] ce qui
+m’intéresse, c’est la formule « de ». En latin le génitif « affectio essentiae », « affection
+de l’essence », le génitif en français est donc indiqué par la particule « de », « affection
+de l’essence ». Eh bien, eh bien, eh bien, hélas, là, les mots me manquent parce que j’ai
+
+                                                                                                3
+
+oublié… Je crois me rappeler que la grammaire distingue des sens du génitif. Car après
+tout, il y a toute une variation. Quand vous employez la locution « de », pour employer
+un génitif, ça veut toujours dire que quelque chose appartient à quelqu’un. Si je fais du
+génitif une locution d’appartenance, [10 :00] ça n’empêche pas que l’appartenance a des
+sens très différents, à savoir que le génitif peut indiquer que quelque chose vient de
+quelqu’un et lui appartient en tant que cela "vient de quelqu’un". Ou bien il peut indiquer
+que quelque chose appartient à quelqu’un en tant que ce quelqu’un subit le "quelque
+chose". En d’autres termes le génitif ne choisit pas encore, la locution « de » ne choisit
+pas le sens où va la flèche, si c’est un génitif de passion, un génitif d’action. Bon.
+
+Qu’est-ce que ça veut dire ? Ma question [11 :00] est ceci : j’ai une idée inadéquate, j’ai
+une perception confuse, d’où sort un affect passion. En quel sens cela appartient-il à mon
+essence ? La réponse, il me semble, est celle-ci, si vous vous rappelez : dans ma
+condition naturelle, je suis comme condamné aux perceptions inadéquates. Ça veut dire
+quoi ? Ça veut dire exactement que je suis composé d’un très grand nombre, d’une
+infinité de parties extensives, extérieures les unes aux autres. Ces parties extensives, elles
+m’appartiennent sous un certain rapport, mais ces parties extensives sont perpétuellement
+soumises à l’influence d’autres [12 :00] parties qui agissent sur elles et qui ne
+m’appartiennent pas. Par exemple, je considère certaines parties qui m’appartiennent et
+qui font partie de mon corps, mettons ma peau, ma peau, des corpuscules de peau qui
+m’appartiennent sous tel rapport. Ah, c’est ma peau. Elles sont perpétuellement soumises
+à l’action d’autres parties extérieures, l’ensemble de ce qui agit sur la peau, particules
+d’air, particules de soleil. J’essaie d’expliquer au niveau d’un exemple rudimentaire. Les
+corpuscules de soleil, les corpuscules de chaleur agissent sur ma peau. Qu’est-ce que ça
+veut dire ? Ça veut dire, elles, elles sont sous un certain rapport [13 :00] qu’est le rapport
+du soleil ; les corpuscules de ma peau sont sous un certain rapport qui est caractéristique
+de mon corps. Mais ces particules, qui précisément n’ont pas d’autre loi que la loi des
+déterminations externes, agissent perpétuellement les unes sur les autres. Je dirais la
+perception que j’ai de la chaleur est une perception confuse ; il en sort des affects qui sont
+eux-mêmes des passions. Je dis « Ah, j’ai chaud ». Vous me suivez ?
+
+Vous avez donc là, si j’essaie de distribuer au niveau de la proposition, "ah, j’ai chaud !",
+si j’essaie de distribuer les catégories spinozistes, je dirais : oui, un corps extérieur agit
+sur le mien, c’est le soleil, c’est-à-dire que des parties du soleil – ce n’est pas la totalité de
+soleil, c’est des parties – des parties [14 :00] du soleil agissent sur des parties de mon
+corps, tout ça c’est du pur déterminisme externe. C’est comme des chocs, des chocs de
+particules. Voilà. J’appelle "perception" lorsque je perçois la chaleur que j’éprouve,
+j’appelle perception, l’idée de l’effet du soleil sur mon corps. C’est une perception
+inadéquate puisque c’est une idée d’un effet ; je ne connais pas la cause, et il en découle
+un affect passif, soit « oh là, là, il fait trop chaud », c’est-à-dire, je suis triste, soit je me
+sens bien, et je dis "quel bonheur le soleil". [15 :00] Comprenez bien : en quel sens est-ce
+une affection de l’essence ? Forcément c’est une affection de l’essence. Vous me direz à
+première vue, c’est une affection du corps. Oui, c’est une affection du corps, c’est une
+affection du corps existant, « j’ai chaud ». Oui, c’est une affection du corps existant.
+
+                                                                                           4
+
+Mais finalement, il n’y a que l’essence. Le corps existant, c’est encore une figure de
+l’essence. Pourquoi ? C’est que le corps existant, c’est l’essence même, en tant que lui
+appartiennent, sous un certain rapport, une infinité de parties extensives. Alors, [16 :00]
+« sous un certain rapport », ça veut dire quoi, c’est rapport de mouvement et de repos ?
+Vous vous rappelez, vous avez l’essence qui est un degré de puissance. C’est délicat tout
+ça, ce n’est pas du tout difficile, mais c’est très, très minutieux ; il faut que vous soyez
+patients. Vous avez l’essence qui est degré de puissance ; à cette essence correspond un
+certain rapport de mouvement et de repos. Ce rapport de mouvement et de repos, tant que
+j’existe, est effectué par des parties extensives qui, dès lors, m’appartiennent sous ce
+rapport.
+
+Qu’est-ce que ça veut dire ça ? Ça veut dire, dans l’Éthique, il y a un glissement de
+notion comme si Spinoza avait là un double vocabulaire. Et ça se comprend, [17 :00] ne
+serait-ce qu’en vertu de la physique de l’époque, comme s’il avait tantôt -- et passait très
+souplement de l’un à l’autre -- comme s’il avait tantôt un vocabulaire cinétique, voyez, en
+termes de mouvement cinétique, et tantôt un vocabulaire dynamique. En effet, c’est très
+curieux que quand vous le lirez ou vous avez peut-être déjà été frappé par ça, qu’il
+considère comme équivalent les deux concepts suivants : rapport de mouvement et de
+repos et pouvoir d’être affecté ou aptitude à être affecté. Et pourtant, pour nous, il faut
+bien repérer, il faut bien se demander pourquoi il traite [18 :00] comme équivalent cette
+proposition cinétique et cette proposition dynamique. Pourquoi [est-ce qu’] un rapport de
+mouvement et de repos qui me caractérise, c’est en même temps un pouvoir d’être affecté
+qui m’appartient ?
+
+Et il définira les corps de deux manières ; il y a deux définitions du corps chez Spinoza,
+une définition cinétique, une définition dynamique. La définition cinétique serait, si on la
+dégageait à l’état pur, c’est "tout corps se définit par un rapport de mouvement et de
+repos". La définition dynamique, c’est "tout corps se définit par un certain pouvoir d’être
+affecté." C’est important de se demander là, au niveau d’une grande minutie, si vous
+voulez là, il y a deux manières de comprendre. – Ce n’est pas grave si vous vous
+contentez de l’une. -- Il y a une manière rapide et vague. [19 :00] Encore là, il faut encore
+remarquer que si vous lisez, il faut que vous soyez sensible confusément à cette identité
+et que vous vous disiez, ah bon, il y a un double registre, cinétique et dynamique. Puis,
+s’il vous vient l’envie d’une lecture plus exigeante, alors là, vous ne pouvez pas vous
+contenter d’un sentiment confus. Il faut vous dire « Bon, pourquoi ? ». A ce moment-là,
+vous cherchez, vous cherchez. Quand on cherche, on trouve toujours. Si vous cherchez,
+vous allez trouver, vous allez trouver, en effet, un texte -- je ne vous dis pas où il est ;
+comme ça, vous aurez encore quelque chose à chercher -- un texte où il dit : « un très
+grand nombre de parties » -- c’est-à-dire une infinité, on l’a vu, on ne revient pas làdessus – [20 :00] « un très grand nombre de parties extensives m’appartiennent, un très
+grand nombre de parties extensives m’appartiennent, [Pause] dès lors je suis affecté
+d’une infinité de façons ; un très grand nombre de parties extensives m’appartiennent, dès
+lors je suis affecté d’une infinité de façons. »
+
+Pour moi, ce texte nous met sur une voie. Avoir sous un certain rapport une infinité de
+parties extensives égale pouvoir être affecté d’une infinité de façons. Dès lors, tout
+
+                                                                                            5
+
+devient lumineux. Tout devient lumineux, pourquoi ? Il n’y a même pas besoin de le dire,
+en effet, c’est évident. Si vous avez compris la loi [21 :00] des parties extensives, elles ne
+cessent pas d’avoir des causes, d’être causes et de subir l’effet les unes des autres. C’est
+le monde de la causalité ou du déterminisme extérieur, extrinsèque -- il y a toujours une
+particule qui frappe une autre particule, etc. -- En d’autres termes, vous ne pouvez pas
+penser un ensemble infini de parties simples sans penser qu’elles ont, à chaque instant, un
+effet les unes sur les autres. Qu’est-ce qu’on appelle affection ? On appelle affection
+l’idée de l’effet. Voyez, [22 :00] si vous avez compris ce que c’était que ces parties
+extensives qui m’appartiennent, vous ne pouvez pas les concevoir comme sans effet les
+unes sur les autres. Elles ne cessent pas là de se rencontrer, de se frapper, de rebondir, de
+s’agglutiner, de se défaire, etc. Donc elles sont inséparables de l’effet qu’elles ont les
+unes sur les autres, et il n’y a jamais un ensemble infini de parties extensibles qui seraient
+isolées.
+
+Il y a bien un ensemble infini de parties extensibles qui est défini par ceci : cet ensemble
+m’appartient, il est défini par le rapport de mouvement et de repos sous lequel cet
+ensemble m’appartient. Mais cet ensemble, il n’est pas séparable des autres ensembles,
+des autres ensembles également infinis qui agissent sur lui, qui ont de l’influence sur lui,
+et qui eux ne m’appartiennent pas. [23 :00] En d’autres termes, les particules de ma peau
+ne sont évidemment pas séparables des particules d’air qui viennent les taper, soit sous
+forme d’un air froid et perçant, aigre, soit sous forme d’un air ensoleillé et chaud, etc.,
+bon. En d’autres termes, en vertu même de la loi et de la nature des parties extensives, les
+parties extensives sont telles qu’elles agissent perpétuellement les unes sur les autres ;
+elles ont perpétuellement un effet les unes sur les autres. Or, une affection, ce n’est rien
+d’autre que l’idée de l’effet, l’idée confuse, l’idée nécessairement confuse, puisque je n’ai
+pas l’idée de la cause. C’est la réception de l’effet. Je dis « je perçois ». [24 :00]
+
+C’est par là que Spinoza peut passer, de la définition cinétique à une définition
+dynamique, à savoir le rapport sous lequel une infinité de parties extensives
+m’appartiennent, c’est également un pouvoir d’être affecté. Mais alors, mes affections et
+mes passions, mes joies, mes tristesses, qu’est-ce que c’est ? Les affects, qu’est-ce que
+c’est ? Si je continue ce parallélisme entre l’élément cinétique et l’élément dynamique, je
+dirais les parties extensives m’appartiennent en tant qu’elles effectuent un certain rapport
+de mouvement et de repos qui me caractérise ; les parties extensives m’appartiennent en
+tant qu’elles effectuent un certain rapport de mouvement et de repos [25 :00] qui me
+caractérise. Je souligne presque « en tant qu’elles effectuent ». En effet, elles effectuent
+un rapport puisqu’elles définissent les termes entre lesquels le rapport joue.
+
+Si je parle maintenant en termes dynamiques, je dirais « les affections et les affects » ; je
+ne dirais plus « les parties extensives effectuent le rapport de mouvement et de repos ». Je
+dirais, je cherche, si vous vous voulez, l’équivalent en termes de dynamique. -- Encore
+une fois, vous pouvez le trouver, ça ferait un concours. -- La formule complète, voyez, la
+première formule cinétique est : « Je me définis par un rapport de mouvement [26 :00] et
+de repos. » La formule dynamique est : « Je me définis par un pouvoir d’être affecté. »
+Formule cinétique complète : Une infinité de parties extensives m’appartiennent en tant
+que, en tant qu’elles effectuent mon rapport de mouvement et de repos. Formule
+
+                                                                                                6
+
+dynamique complète : Des affections et des affects m’appartiennent en tant qu’ils
+remplissent mon pouvoir d’être affecté, et à chaque instant mon pouvoir d’être affecté est
+rempli. Il n’y a pas un moment où mon pouvoir d’être affecté n’est pas rempli.
+
+Comparez les deux moments pourtant très différents. L’instant "a" : [27 :00] Vous êtes
+sous la pluie, et vous vous recueillez en vous-même. Vous n’avez aucun abri, et vous en
+êtes réduit à protéger votre côté droit par votre côté gauche et inversement. Ça va nous
+apporter dans un strict spinozisme ; vous êtes sensible à la beauté de cette phrase --
+« réduit à protéger votre côté droit par votre côté gauche et protéger votre côté gauche par
+votre côté droit » -- là, c’est une formule très cinétique, c’est-à-dire, je suis forcé à faire
+de moi-même, d’une moitié de moi-même, l’abri de l’autre moitié. Pourquoi je peux dire
+que c’est une très belle formule ? Parce que c’est un vers, que là je ne peux pas citer
+parce que c’est de l’italien, c’est un vers admirable de Dante. [28 :00] Cela ne fait rien; je
+veux dire, il ne faut pas mêler avec Spinoza. Mais, c’est dans un cercle de l’Enfer, pas un
+des plus terribles, c’est dans un cercle de l’enfer où il y a une petite pluie, et les corps
+sont couchés dans une espèce de boue. Il y a une petite pluie, et Dante essaie de traduire
+l’espèce de solitude de ces corps qui n’ont pas d’autres ressources que de se retourner
+dans la boue. C’est-à-dire chaque fois, ils essayent de protéger un côté de leur corps par
+l’autre côté. Dans cette formule, il y a une très grande, on sent un corps qui est livré aux
+éléments même si c’est une petite pluie.
+
+Au contraire, instant deux, instant deux : Vous vous épanouissez. Tout à l’heure vous
+étiez tout contracté, [29 :00] vous étiez un véritable pauvre type, une pluie perçante. On
+voit bien que tout ça, c’est affaire de particules. Les particules de pluie étaient comme de
+petites flèches, c’est affreux ; vous étiez grotesques dans vos maillots de bain, [Rires] et
+le soleil arrive : instant deux. Là, tout votre corps s’épanouit ; voilà que maintenant, ce
+n’est plus du tout protéger le côté droit par le côté gauche. Vous voudriez que tout votre
+corps soit comme étalable. Vous le tendez vers le soleil. Comprenez ce que dit Spinoza
+sur la plage. Ne vous y trompez pas, dans les deux cas, votre pouvoir d’être affecté
+[30 :00] est rempli. Il est nécessairement rempli. Simplement, vous avez toujours les
+affections et les affects que vous méritez en fonction des circonstances, y compris des
+circonstances extérieures. Mais, un affect ne vous appartient que dans la mesure où il
+contribue actuellement à remplir votre pouvoir d’être affecté.
+
+Voilà, c’est ça que j’essaie de dire. C’est en ce sens que toute affection et tout affect est
+affect de l’essence. Finalement, les affections et les affects [31 :00] ne peuvent être
+qu’affections et affects de l’essence. Pourquoi ? Parce qu’elles n’existent pour vous qu’en
+tant qu’elles remplissent un pouvoir d’être affecté qui est le vôtre. Le pouvoir d’être
+affecté, c’est le pouvoir d’être affecté de votre essence. [Interruption de l’enregistrement]
+[31 :18]
+
+Partie 2
+
+… Et pourtant Spinoza ne veut pas du tout dire "tout se vaut", la pluie douloureuse vaut
+le beau soleil. Pas du tout. Il ne veut pas dire ça. Ce qu’il veut dire, c’est qu’en tout cas
+aucun, rien, rien ne s’exprime jamais, ou n’est jamais fondé à s’exprimer comme un
+
+                                                                                              7
+
+manque. En d’autres termes, c’est la formule en gros : "il n’y a que de l’être". Bon,
+pourquoi tout ne se vaut pas alors ? C’est ça ce qu’il faut voir en dernier. Mais, [32 :00]
+vous comprenez ? Toute affection, toute perception, et tout sentiment, toute passion est
+perception, affection et passion de l’essence.
+
+Simplement ce n’est pas par hasard que la philosophie emploie très constamment un mot
+qu’on lui reproche, mais qu’est-ce que vous voulez, elle en a besoin : c’est l’espèce de
+locution « en tant que ». Je crois même s’il fallait définir la philosophie par un mot, on
+pourrait dire : la philosophie, c’est l’art du « en tant que ». En effet, ça appartient à la
+philosophie : si vous voyez quelqu’un être amené par hasard à dire « en tant que », vous
+pouvez vous dire « tiens, c’est la pensée qui naît ». Le premier homme qui a pensé, il a
+dit « en tant que ».
+
+Pourquoi ? Parce que « en tant que », c’est l’art du concept. [33 :00] C’est le concept.
+Est-ce par hasard que Spinoza emploie constamment l’équivalent latin de « en tant
+que » ? Et en effet, pourquoi est-ce que tous les penseurs y sont amenés ? Parce que le
+« en tant que » renvoie, je crois, à des distinctions dans le concept qui ne sont pas
+perceptives dans les choses mêmes. Quand vous opérez par distinction dans le concept et
+par le concept, vous pouvez dire que "la chose, en tant que", c’est-à-dire l’aspect
+conceptuel de la chose. Alors, toute affection est affection de l’essence, oui, mais en tant
+que quoi ? Lorsqu’il s’agit de perceptions inadéquates et de passions, [34 :00] il faut
+ajouter, oui, ce sont des affections de l’essence en tant que l’essence a une infinité de
+parties extensives qui lui appartiennent sous tel rapport.
+
+Bon, j’ai presque fini dès lors. Là, le pouvoir d’être affecté appartient à l’essence,
+simplement il est nécessairement rempli par des affects qui viennent du dehors. Ces
+affects viennent du dehors ; ils ne viennent pas de l’essence. Ils sont pourtant affects de
+l’essence puisqu’ils remplissent le pouvoir d’être affecté de l’essence. Mais retenez bien,
+ils viennent du dehors. En effet, le dehors, [35 :00] c’est la loi à laquelle est soumis, sont
+soumises, les parties extensives agissant les unes sur les autres. Bon, si vous vous
+rappelez, quand on s’élève -- et j’ai essayé de montrer les dernières fois, donc je ne
+reviens pas là-dessus, comment c’était possible -- quand on s’élève, quand on arrive à
+s’élever au second et troisième genre de connaissance, qu’est-ce qui se passe ? Là, j’ai
+des perceptions adéquates et des affects actifs. Ça veut dire quoi ? Eh bien, c’est des
+affections de l’essence. Je dirais même, à plus forte raison, quelle différence avec le cas
+précèdent ? C’est que, cette fois, ils ne viennent pas du dehors, ils viennent du dedans.
+Pourquoi ? On l’a vu. Une notion commune déjà, [36 :00] à plus forte raison, une idée du
+troisième genre, une idée d’essence, pourquoi ça vient du dedans ?
+
+Reprenez ma formule de tout à l’heure, et on va chercher la formule équivalente. Je
+disais : les idées inadéquates et les affects passifs, ils m’appartiennent. Ils appartiennent à
+mon essence. Ce sont donc des affections de l’essence en tant que cette essence possède
+actuellement une infinité de parties extensives qui lui appartiennent sous un certain
+rapport. Cherchons maintenant pour les notions communes. Une notion commune, c’est
+une perception, on l’a vu, c’est une perception d’un rapport commun, rapport commun à
+moi et à un autre corps. [37 :00] Il en découle des affects, affects actifs. Bon, ces
+
+                                                                                             8
+
+affections, perceptions et affects, ces affections sont aussi des affections de l’essence, qui
+appartiennent à l’essence. Je dirais, c’est la même chose, "affection de l’essence," mais en
+tant que quoi ? Non plus en tant que l’essence est conçue comme possédant une infinité
+de parties extensives qui lui appartiennent sur un certain rapport, mais en tant que
+l’essence est conçue comme s’exprimant dans un rapport.
+
+Eh oui ! Là, les parties extensives, et l’action des parties extensives est conjuré puisque je
+me suis élevé à la compréhension des rapports qui la composent. [38 :00] Donc, je me
+suis élevé à un autre aspect de l’essence. Ce n’est plus l’essence en tant qu’elle possède
+actuellement une infinité de parties extensives ; c’est l’essence en tant qu’elle s’exprime
+dans un rapport, et à plus forte raison, si je m’élève à des idées du troisième genre. Ces
+idées et les affects actifs qui en découlent appartiennent à l’essence ou à l’affection de
+l’essence, cette fois-ci, en tant que l’essence est en soi, est en elle-même et pour ellemême, est en soi et pour soi, un degré de puissance. Donc, je dirais, à la limite et en gros,
+toute affection et tout affect sont [39 :00] des affections de l’essence. Seulement il y a
+deux cas ; le génitif a deux sens. Il y a ... Quoi ?
+
+Anne Querrien : [Inaudible]
+
+Deleuze : Oui, ça serait le "ab", oui, oui, d’accord. [Deleuze écoute l’intervention] Ça ne
+serait pas le même, oui, sauf que j’ai l’impression… [Deleuze écoute l’intervention] ...
+Oui, mais j’ai peur, Anne, qu’il y est deux emplois du génitif en latin. D’ailleurs, c’est
+mieux que le génitif ... [Deleuze écoute l’intervention] … Oui, oui. Mais, donc le "ab"
+vaudra aussi pour la causalité externe. À la limite, je dirais les idées du deuxième et
+troisième [40 :00] genre, voyez ? C’est des affections de l’essence. Mais il faudrait dire
+suivant un mot qui n’apparaîtra que bien plus tard dans la philosophie, avec les allemands
+par exemple, ce sont des auto-affections. Finalement à travers les notions communes et
+les idées du troisième genre, c’est l’essence qui s’affecte elle-même… Tu ne veux pas,
+eh ? Et s’il le dit ? [Deleuze écoute l’intervention] Tu crois que tu n’as pas eu [41 :00]
+l’électricité pour [inaudible] l’auto-affection ? [Deleuze écoute l’intervention] … Quand
+même, après tout, Spinoza emploie le terme "affect actif" ? Actif, il n’y a pas grande
+différence entre auto-affection et affect actif. [Deleuze écoute l’intervention] Tu n’aimes
+pas ? Alors, on supprime. [Deleuze écoute l’intervention]
+
+Richard Pinhas : C’est les idées de la conscience moderne. [42 :00]
+
+Anne Querrien: Mais non! [Deleuze écoute l’intervention]
+
+Deleuze : Oui, oui, oui, bon, alors vous voyez ? En tout cas, voilà en quel sens il faut dire
+à la fois, oui, toutes les affections sont des affections de l’essence. Mais, attention !
+Affection de l’essence n’a pas un seul et même sens. Voilà ! Bon, est-ce qu’il y a des ...
+[Deleuze ne termine pas]
+
+Il me reste quelque chose évidemment, c’est, aujourd’hui, c’est tirer des espèces de
+conclusions entre le rapport, pour le rapport éthique-ontologie. Pourquoi tout ça ? C’est
+ça ma question. Pourquoi tout ça constitue une ontologie ? Et je vais vous dire mon idée.
+
+                                                                                               9
+
+[43 :00] Mais là, mon idée-là est très douteuse. C’est une idée comme ça, une idée de
+sentiment. Il me semble, il me semble -- je touche la table [On entend Deleuze frapper] --
+qu’il n’y a jamais eu qu’une seule ontologie, il n’y a que Spinoza qui ait réussi une
+ontologie. Les autres, ils ont fait d’autres choses très belles, mais ce n’était pas de
+l’ontologie, si l’on prend ontologie dans un sens extrêmement rigoureux. Je ne vois qu’un
+cas où une philosophie se soit réalisée comme une ontologie, et c’est Spinoza. Alors,
+pourquoi ce coup ne pouvait être réussi qu’une fois ? Pourquoi le fut-il par Spinoza ?
+Voyez ? Ce sont des questions presque judiciaires, très, très importantes. Bon, c’est ce
+qui me restait à dire. Mais je voudrais vos réactions, s’il y avait d’autres questions. Oui ?
+
+Richard Pinhas : Selon ce que tu as dit, [44 :00] on débouche sur deux modes de
+fonctionnement que tu qualifiais l’un de cinétique et l’autre de dynamique. Dans ma
+perception de ce que tu disais, je pourrais dire que le fonctionnement cinétique des
+affections et des rapports est de type extérieur, donc, c’est un mode d’extériorité. J’hésite
+à dire forme de l’extériorité. C’est le mot qui m’est venu… Dans le cas dynamique, on
+aurait un équivalent, les termes sont mauvais, qui serait la forme d’intériorité. En fait, ce
+sur quoi on débouche, c’est l’auto-affection, et là tu viens de passer comme si…
+
+Deleuze : Dans ce qui tu dis, je crois qu’il a quelque chose de très dangereux, hein ? C’est
+que surtout, il n’y a pas plus d’intériorité, à mon avis, au niveau dynamique [45 :00]
+qu’au niveau cinétique. Pour une raison très simple : c’est lorsque je dis "pouvoir d’être
+affecté" d’une essence, peut aussi bien être réalisé par des affections externes que par des
+affections internes. Il ne faut surtout pas penser que le pouvoir d’être affecté renvoie plus
+à une intériorité que ne le faisait le rapport cinétique. Les affects peuvent être absolument
+externes, c’est le cas des passions. Les passions sont les affects qui remplissent le pouvoir
+d’être affectées et qui viennent du dehors.
+
+Pinhas : Là je suis complètement d’accord… Je voudrais reformuler ma question : ma
+question, en fait son centrage c’est : on débouche sur quelque chose de nouveau, par
+rapport à l’histoire de la philosophie, [46 :00] qui est l’auto-affection. Laissons le terme
+de côté ; on se trouve devant une forme très spécifique d’affection sur laquelle…
+
+Deleuze : oui, ça évidemment, si tu me dis… Oui, Anne ?
+
+Anne Querrien : [Deleuze écoute l’intervention] [47 :00-48 :00]…comme Edith Piaf... sur
+le manque : non je ne regrette rien ni le bien ni le mal, tout ça m’est bien égal. [Rires]
+
+Deleuze : C’est vrai ! Oui... Tu veux dire quelque chose ?
+
+Une étudiante : moi, je voudrais dire quelque chose sur la question que Richard avait
+posée la semaine dernière, c’est-à-dire, à propos du besoin de fondement. Si l’on reprend
+l’exemple du bois, c’est-à-dire tu parlais de l’essence du bois. Moi, je dirais plutôt que le
+bois est la chose qui va inventer le rabot, et que le rabot va devenir un certain moment
+l’outil qui va nous dire quelque chose sur le bois. C’est-à-dire [49 :00] au deuxième degré
+de connaissance, le bois et le rabot diront quelque chose l’un sur l’autre dans ce rapport,
+le bois, l’essence. Dans ce rapport, qu’ils ont l’un à l’autre, mais...
+
+                                                                                          10
+
+Anne Querrien [Intervention inaudible] …
+
+Deleuze : Mais mon problème, c’est le problème du fondement. Donc, c’est peut-être...
+Oui... [Intervention d’Anne Querrien, inaudible] Non, je ne pense pas, non.
+
+Deleuze : Attends, dis d’abord ! [A Anne Querrien] Tu vas devenir hégélienne, toi !
+[Rires]
+
+Une étudiante : Donc à propos du problème des essences, qu’est-ce… Richard disait qu’il
+voulait bien qu’il y ait des essences, mais qu’il ne voyait pas pourquoi Spinoza avait
+besoin d’un fondement. Et ce que je dirais moi, c’est que [50 :00] s’il n’y a pas de
+fondement aux essences, les essences deviennent des métaphores de Dieu, c’est-à-dire
+bon, comme dans la religion chrétienne, en "Dieu est toute chose", et à partir du moment
+où en toute chose serait Dieu, dès que nous n’avons aucune chance de pouvoir y parvenir,
+c’est-à-dire que si pour nous, dans ce travail qu’il y aurait à fournir pour atteindre au
+troisième genre de connaissance, si ça serait là une manière de parvenir à ce qu’il y a de
+divin en nous, il faut que ces essences aient un fondement. C’est-à-dire que si Dieu est
+l’ensemble de toutes les essences, en fait, Dieu n’est pas dans les essences, il est reculé,
+mais c’est une espèce de panthéisme, il est reculé en dehors des essences. Mais il me
+semble que s’il n’y a pas de fondement, chaque essence n’est qu’une métaphore de Dieu,
+[51 :00] et donc pour nous il n’y a plus rien à faire, quoi !
+
+Anne Querrien : [Inaudible] [52 :00]
+
+L’étudiante : Oui, oui, tu as raison, je pense que tu as raison dans une problématique
+chrétienne, mais ça inverse complètement Spinoza.
+
+Anne Querrien : [Intervention inaudible]
+
+Deleuze : Oui, je vais trouver. J’ai une idée qui concilie chacun enfin, c’est ...
+
+Une autre étudiante : [Inaudible ; à propos de l’intuition, de l’auto-affection sur une
+réflexion de la lumière divine] [53 :00-54 :00]
+
+Deleuze: J’ajoute pour confirmer ceci, en effet, le livre V me paraît à cet égard fonder
+cette notion d’auto-affection. Car vous prenez un texte comme celui-ci, qui est un texte
+finalement qui a son équivalent dans beaucoup de propositions mystiques, dites
+mystiques, à savoir, « l’amour par lequel j’aime Dieu, » sous-entendu au troisième genre,
+au niveau du troisième genre de connaissance, « l’amour par lequel j’aime Dieu est
+l’amour par lequel Dieu s’aime lui-même, et m’aime moi-même. » [55 :00] Ça veut dire
+quoi ? Ça veut dire qu’au niveau du troisième genre, toutes les essences sont intérieures
+les unes aux autres. Tous les degrés de puissance sont intérieurs les uns aux autres, et
+intérieurs à la puissance dite puissance divine. Il y a une intériorité des essences. Ça ne
+veut pas dire qu’elles se confondent. On arrive à un système de distinction intrinsèque.
+Ce n’est plus le système des distinctions extérieures ; c’est un système de distinction
+intrinsèque. Dès lors, lorsqu’une essence m’affecte -- vous comprenez ? c’est ça la
+
+                                                                                               11
+
+définition du troisième genre -- une essence affecte mon essence, une autre essence
+affecte mon essence. Mais comme toutes les essences sont intérieures les unes aux autres,
+une essence qui m’affecte, c’est une manière sous laquelle mon essence s’affecte ellemême.
+
+Je voudrais faire un dernier appel, presque parce que je voudrais [56 :00] prendre
+vraiment un exemple, je sens bien que ces exemples sont dangereux. Je reviens à mon
+exemple du soleil parce que, bon, il est quand même question d’arriver, pas du tout à
+savoir abstraitement, mais comprendre un peu concrètement ce que ça veut dire que
+panthéisme. Comment vivent, comment sentent les gens qui se disent panthéistes ? Je
+vous signalais que, après tout, il y a des écrivains qui sont dit -- ce n’est pas seulement
+une affaire des philosophes tout ça -- je pense précisément en fonction de mon histoire du
+soleil de tout à l’heure, de mon exemple du soleil, je pense à un auteur célèbre qui s’est
+beaucoup, qui a constitué une espèce de panthéisme à l’anglaise -- il y a beaucoup
+d’Anglais qui sont panthéistes ; il y a une source, il y a une inspiration panthéiste dans
+toute la littérature anglaise très, très importante, et qui doit venir de leur caractère
+irrémédiablement protestant, mais, enfin, ça dépasse ce caractère. -- Bon. Je pense, donc,
+[57 :00] à [D.H.] Lawrence. Lawrence, c’est quand même curieux tout ce qu’il dit autour
+du soleil. Je prends cette espèce de culte du soleil. Alors, je ne vais pas dire que Spinoza
+avait le culte du soleil. Quand même, ils ont en commun... Ils finissent par lumière et
+tuberculose, hein, ce sont les deux points communs de Lawrence et de Spinoza, lumière
+et tuberculose. Bon, alors, c’est quoi ça ?
+
+Au niveau du soleil, il y a des rapports de Lawrence avec le soleil ;vous trouveriez
+quelque chose -- ne le prenez pas à la lettre ; prenez-le comme... j’essaie que quelque
+chose résonne en vous, si vous... Je ne parle pour le moment, là, qu’à ceux qui aiment
+d’une certaine manière le soleil, qui sentent qu’ils ont une affaire, supposons, une affaire
+particulière avec le soleil. Il y en a qui ont cette impression. -- Eh bien, Lawrence nous dit
+quelque chose comme ceci, [58 :00] et qu’il y a, bien en gros, trois manières d’être en
+rapport avec le soleil. Là, où il reproche beaucoup aux gens, il déteste, il est très
+méprisant. Mais, Spinoza aussi, il se méfie. Il ne supporte pas beaucoup les gens,
+Lawrence, il les trouve trop vulgaires. Alors, il n’est pas à son aise dans son époque. Et
+pourtant, peu importe, ceux qui connaissent un peu cet auteur vous voyez ce que je veux
+dire...
+
+Bon, il dit : "il y a des gens sur la plage", -- oui, il y avait des gens à la mode -- des
+plages, du soleil, etc. Et il dit : « Ils ne comprennent pas, ils ne savent pas ce qu’est le
+soleil. » Ce n’est pas du tout qu’il veuille garder ça pour lui. Il trouve que les gens vivent
+mal. Voilà, c’est son idée. C’était aussi l’idée de Spinoza que les gens vivent mal, et s’ils
+sont méchants, c’est parce qu’ils vivent mal, bon. Ils vivent mal, ils se foutent sur la plage
+tout ça, et ils ne comprennent rien au soleil. [59 :00] S’ils comprenaient quelque chose au
+soleil après tout, dit Lawrence, ils en sortiraient plus intelligents et meilleurs. La preuve :
+dès qu’ils sont rhabillés, ils sont aussi teigneux qu’avant. [Rires] Ça, c’est une preuve
+bien plus alors, ils ne perdent rien de leurs vertus et vices. S’il y a quelqu’un qui arrive et
+qui leur cache le soleil, ils trépignent, ils disent : « alors quoi ? » , etc. Ils sont vulgaires,
+quoi.
+
+                                                                                            12
+
+Bon, qu’est-ce qu’ils font à ce niveau du soleil ? Ils en restent vraiment au premier genre.
+Ils déclarent : "j’aime le soleil”, mais « j’aime le soleil », c’est une proposition dénuée de
+sens. C’est absolument dénué de sens. « J’aime le soleil ». C’est comme la vieille dame
+qui dit : « oh, moi, j’aime la chaleur ! » . Qu’est-ce que c’est ce « je » de « j’aime la
+chaleur » ? En fait, ça ne veut rien dire là. [60 :00] Un mécaniste, un physicien ou un
+biologiste mécaniste corrigerait, il ne dirait rien du tout : " Je", "tu n’aimes pas la chaleur
+du tout". Simplement il dirait : il y a en toi des phénomènes de vasoconstriction et des
+phénomènes de vasodilatation, qui fait que tu as un besoin "objectif" de chaleur. Bon, très
+bien. En d’autres termes, le « je » de « j’aime la chaleur », est un « je » qui exprime
+quoi ? Qui exprime les rapports de parties extensives du type vasoconstriction et
+vasodilatation, et qui sont typiquement, et qui s’expriment directement, en un
+déterminisme externe, mettant en jeu les parties extensives.
+
+Alors, je peux dire : "J’aime le soleil" en ce sens. C’est donc, les particules de soleil qui
+agissent sur mes particules, [61 :00] et l’effet des unes sur les autres, est un plaisir ou une
+joie. Je dirais, ça c’est le soleil du premier genre, soleil du premier genre de connaissance
+que je traduis sous la formule naïve, « oh, le soleil, j’aime ça ! ». En fait, c’est des
+mécanismes extrinsèques de mon corps qui jouent, voyez, et des rapports entre parties,
+parties de soleil, et parties de mon corps.
+
+Deuxièmement, c’est quand même un peu différent de quelqu’un qui « affaire » avec le
+soleil. Presque ma question, ce serait, elle est très lawrentienne : à partir de quand, par
+rapport au soleil, je peux commencer authentiquement à dire « je » ? Tant que je me
+chauffe au soleil, je n’ai aucune raison de dire : « j’aime le soleil » : [62 :00] je suis dans
+le premier genre de connaissance. Il y a un second genre de connaissance. Cette fois-ci, je
+dépasse la zone de l’effet des parties les unes sur les autres. Je n’en suis pas à attendre
+l’effet des parties les unes sur les autres. J’ai acquis comme une espèce de connaissance
+du soleil, et après tout, il y a des gens qui ont une connaissance, ce n’est pas du tout une
+connaissance théorique. Je ne vais pas dire que je suis un astronome. Là, pas du tout, ce
+serait un contresens. J’ai une espèce de connaissance et de compréhension pratique du
+soleil. J’ai une espèce de connaissance et compréhension pratique même si je n’arrive pas
+à la dire du climat, des pluies, des brumes. Qu’est-ce que ça veut dire, cette connaissance
+pratique ? [63 :00]
+
+Je veux dire, surement que je devance ; je sais ce que veut dire tel événement minuscule
+lié au soleil, telle ombre furtive à tel moment. Je sais ce que ça annonce. Je n’en suis plus
+à enregistrer des effets du soleil sur mon corps. Je m’élève à une espèce de
+compréhension pratique des causes en même temps que quoi ? En même temps que je
+sais composer des rapports de mon corps avec tel ou tel rapport du soleil.
+
+Un peintre – alors, je saute justement, parfait -- un peintre, comment il fait ? Qu’est-ce
+que ça veut dire "composer des rapports de son corps avec des rapports du soleil" ? En
+quoi est-ce que c’est différent de subir des effets ? Prenons la perception du peintre.
+[64 :00] Comment un peintre… On peut imaginer un peintre du dix-neuvième en pleine
+nature, qui va dans la nature. Il a son chevalet, c’est un certain rapport. Il a sa toile sur
+chevalet, voilà un rapport. Il y a son corps, c’est un certain rapport. Il y a la toile et le
+
+                                                                                             13
+
+chevalet, c’est un autre rapport. Il y a le soleil, et le soleil ne reste pas immobile. Bon,
+qu’est-ce qu’il va faire ? Qu’est-ce que c’est ce que j’appelle cette connaissance du
+second genre ? Il va changer complètement la position de son chevalet. C’est-à-dire, il ne
+va pas avoir avec sa toile le même rapport suivant que le soleil est en haut et selon que le
+soleil tend à se coucher. Ah, tiens ! c’est un exemple comme ça. Van Gogh peignait
+[65 :00] à genoux. Dans les lettres de Van Gogh, il parle énormément des couchers de
+soleil qui le force à peindre presque couché. Pourquoi ? Pour avoir précisément lui, que
+son œil de peintre, ait la ligne d’horizon le plus bas possible.
+
+Qu’est-ce que ça veut dire à ce moment-là, avoir un chevalet ? Ça ne veut rien dire, rien
+du tout. Tout dépend de ce que l’on en fait, d’un chevalet. Et quand il y a du mistral ?
+Qu’est-ce qu’on fait avec un chevalet ? Il y a des lettres émouvantes de Cézanne et de
+Van Gogh aussi : « Aujourd’hui je n’ai pas pu sortir. Je n’ai rien pu faire. Trop de
+mistral ». Ça veut dire que le chevalet, ben, aurait volé, ou alors, il fallait l’attacher, ou
+alors, quoi ? Comment composer le rapport toile-chevalet avec le rapport du vent ? Et
+comment composer le rapport du chevalet avec le soleil qui décline ? [66 :00] Et
+comment finir de telle manière que je peindrais là, par terre, que je peindrais ventre à
+terre ? Mais ça, ce n’est pas l’école qui me l’apprend. Ce n’est pas à l’Académie que
+j’apprends ça. Je compose des rapports, et je m’élève d’une certaine manière à une
+compréhension des causes. Et à ce moment-là, je peux commencer à dire : « le soleil, je
+l’aime ! ».
+
+« Le soleil, je l’aime ! », vous comprenez ? Ensuite il n’y a plus l’effet des particules de
+soleil sur des particules de mon corps. J’en suis à un autre domaine, à des compositions
+de rapports. Et ce moment-là, vous comprenez ? Je ne suis pas loin. Tout a son danger. Je
+ne suis pas loin d’une proposition qui nous paraissait utile, [67 :00] qui nous aurait paru
+folle, au premier degré. Je ne suis pas loin de pouvoir dire : « oui, le soleil, j’en ‘suis’
+quelque chose ». J’ai un rapport d’affinité avec le soleil.
+
+Bon, on en reste là. C’est le second genre de connaissance. Pas besoin d’être peintre.
+Peut-être que ça me donnerait envie d’être peintre si j’arrive, si j’accède à cet état par
+rapport au soleil. Mais, vous sentez que c’est un état complètement différent de celui de
+la dame qui se chauffe au soleil ! Ceci dit, la dame qui se chauffe au soleil peut être
+peintre aussi. Mais elle ne fera pas les deux en même temps parce que ces deux rapports
+avec le soleil s’excluent. Là, il y a une espèce, déjà au second genre, comprenez qu’il y a
+une espèce de communion avec le soleil. Feuilletez les lettres de Van Gogh ; c’est évident
+que quand il peint là ces immenses soleils rouges, [68 :00] c’est évident que c’est lui. Ce
+n’est pas lui, ce n’est pas le soleil qui est ramené à lui. C’est lui qui commence à entrer
+dans une espèce de communication avec le soleil.
+
+Bon, et le troisième stade, alors ? J’ai pris comme exemple, et j’ai eu tort, un exemple de
+peintre pour le second genre, et j’ai l’air de le bloquer au second genre. Oui, peut-être,
+parce que, ensuite, ce n’est même plus du domaine de la peinture. Qu’est-ce que ça serait
+le troisième genre ? Là, Lawrence abonde en textes. En textes comme ça, c’est vraiment,
+et j’espère, pardonnez-moi, mais j’espère que ce que j’ai dit précédemment ne le rendra
+pas, pour beaucoup d’entre vous, ridicule. C’est ce qu’on pourrait appeler en gros, "oui,
+
+                                                                                           14
+
+ah bien oui, c’est bien quelque chose comme ça que l’on appelle en termes abstraits alors,
+en termes abstraits qui nous empêchent de comprendre, union mystique". Qu’est-ce que
+c’est alors ? [69 :00] Toutes sortes de religions ont développé une mystique du soleil !
+C’est un pas de plus. Et, après, tout mon ordre est normal. Qu’est-ce qui fait que, par
+rapport à son soleil rouge-là qui mange toute la toile, avec les ondulations à la Van Gogh,
+etc., Van Gogh a encore l’impression qu’il y en a un au-delà qu’il n’arrive pas à le
+peindre. Qu’est-ce que c’est ? C’est encore plus, qu’il n’arrivera pas à rendre en tant que
+peintre. Bon, est-ce que c’est ça ? Alors, bon ! Est-ce que c’est ça, le relais mystique ? Le
+mystique : est-ce que c’est ça, les métaphores du soleil chez les mystiques ? Mais ce n’est
+plus des métaphores, si on le comprend comme ça. Ce n’est absolument plus des
+métaphores. Ils peuvent dire à la lettre : « Dieu est Soleil ». Ils peuvent dire à la lettre :
+« Je suis Dieu ». Pourquoi ? Pas du tout qu’il y ait une identification, pas du tout.
+
+C’est [70 :00] qu’au niveau du troisième genre, on arrive à ce mode de distinction
+intrinsèque. Et c’est là, si vous voulez, qu’en effet, il y a quelque chose de terriblement
+mystique dans le troisième genre de connaissance de Spinoza. À la fois les essences sont
+distinctes, seulement elles se distinguent, elles se distinguent à l’intérieur les unes des
+autres. Si bien que les rayons par lesquels le soleil m’affecte, ce sont des rayons par
+lesquels je m’affecte moi-même. Et les rayons par lesquels je m’affecte moi-même, ce
+sont les rayons du soleil qui m’affectent. C’est l’auto-affection solaire. En mots, ça a l’air
+grotesque. Comprenez qu’au niveau des modes de vie, comme disait un autre auteur :
+"mais un mystique, vous pouvez toujours en croiser un dans la rue." Un type qui fait ses
+expériences, ça ne se voit pas de dehors. Il n’est pas... Il est comme vous et moi. Il est
+comme vous et moi".
+
+Bon, chez Lawrence, j’attire votre attention là-dessus, c’est que les textes de la fin,
+justement, quand Lawrence [71 :00] ne peut plus supporter le soleil, en vertu même de sa
+maladie, lorsque le soleil est fatal, eh bien, il développe ses textes là-dessus sur cette
+espèce "d’identité" qui maintient la distinction interne entre son essence à lui, son essence
+singulière, l’essence singulière du soleil, et l’essence du monde. Et cette espèce de chantlà qui fait les dernières œuvres de Lawrence, cette espèce de chant au monde sur lequel il
+va mourir, mais vraiment, il va mourir sans ressentiment. Il va mourir très, très
+Spinoziste : après une longue marche à pied, sa dernière marche à pied, là il se crève et il
+meurt. C’est à ce moment-là qu’il accède à ces textes sur le soleil. Alors, voyez si ça vous
+tombe entre les mains. On a toujours besoin pour comprendre, je crois, un philosophe,
+d’accumuler aussi milles autres choses qui valent par elles-mêmes. [72 :00] Mais, si vous
+lisez les textes, par exemple, de Lawrence sur le soleil, ça peut vous déclencher une
+compréhension de Spinoza que vous n’auriez jamais eue si vous étiez resté avec Spinoza
+tout seul. On a toujours besoin de tout le monde pour comprendre si peu que ce soit. Et
+c’est même pour ça qu’on passe son temps à faire des contresens. En même temps, il ne
+faut pas mélanger, eh oui, bien sûr ! Voilà ce que je voulais dire.
+
+Un étudiant : [Inaudible au début] … par rapport à ce rapport solaire, je me demandais si
+dans le Vendredi [ou les Limbes du Pacifique] de [Michel] Tournier, on n’avait pas en
+fait et à la lettre une très belle description de ce périple d’apprentissage ?
+
+                                                                                              15
+
+Deleuze: Oui, vous avez raison, oui, oui! Dans les textes de... Maintenant on peut juger.
+Mais, en effet, d’ailleurs, l’obsession de Tournier pour là -- Il faut parler des gens
+personnellement, c’est toujours intéressant dans la mesure du possible ; il faut imaginer
+Spinoza personnellement, [73 :00] quoiqu’il ne parle pas du soleil sauf dans des
+exemples, mais Lawrence personnellement, oui ? -- Tournier personnellement, en effet, il
+a un rapport avec le soleil. Si, c’est très important, c’est à ce niveau-là, vous savez que
+l’on ne peut pas écrire n’importe quoi. Et si l’on écrit quelque chose qui n’est pas
+vraiment à ce niveau-là très, très profondément vécu, ça donne de la littérature de
+copiage. Ça donne de la littérature sans aucun intérêt. Ça, on le sent ça.
+
+Un étudiant : [Inaudible au début] … concept de plage, de soleil, une des bascules de
+l’univers qui survient…
+
+Deleuze : Je ne connais pas.
+
+L’étudiant : [Intervention inaudible] [74 :00]
+
+Gilles Deleuze : Ce qui témoigne de l’authenticité d’une expérience, il me semble
+toujours, je ne dis pas qu’il n’y a pas moyen autrement. Mais ce qui témoigne en
+première garantie de l’authenticité d’une expérience, c’est la splendeur des pages, ou des
+œuvres, si petites qu’elles soient qui en découle. Je peux dire : Van Gogh a une
+expérience personnelle, singulière avec le soleil. Ça, oui. Qu’est-ce qui le prouve ? Ses
+tableaux, ses tableaux, c’est tout. En revanche, devant certains très grands peintres qui
+peuvent peindre des soleils, on sait bien que ce n’est pas ça la partie forte du tableau. Ce
+n’est pas avec le soleil qu’ils ont affaire, ils ont affaire avec autre chose. Ils avaient peutêtre besoin du soleil. Des pages de Lawrence, je sais que cet homme-là a eu une affaire
+particulière avec le soleil.
+
+Alors, c’est pour ça, vous comprenez que quand on parle, -- et là, j’ouvre une parenthèse,
+et c’est juste un appel que je fais à vous, -- quand on parle, quand on fait de la
+psychanalyse, quand on parle de sexualité et tout ça, vraiment [75 :00] ça finit par être
+sale et dégoûtant. C’est sale et dégoûtant parce qu’ils ne semblent pas voir que notre vraie
+sexualité, elle est avec le soleil. Alors, quand on nous dit des choses comme : « le soleil
+c’est l’image du père », à ce moment-là moi, je pleure. Je pleure. Effectivement, je me
+dis, tant de beauté piétinée, tant de choses belles amoindries, c’est odieux, c’est odieux ce
+truc ! Vous vous rendez compte ? Le soleil de Van Gogh c’est, c’est la castration, le
+soleil de Van Gogh ? [Rires] Mais non, non ! il n’y a pas à parler… Mais, je veux dire,
+c’est ça la vulgarité, c’est vraiment ça la vulgarité. Bien, et bien, voilà -- J’ai encore bien
+des choses à dire, mais quelle heure il est ?
+
+Un étudiant : Midi moins vingt
+
+Deleuze : Alors, j’ai le temps de dire, et là, je ne vais pas continuer. Je vais finir
+aujourd’hui [76 :00] juste en essayant de justifier une partie de ce qui me restait à faire, à
+savoir en quoi, en quoi il me semble que Spinoza a réussi sans doute philosophiquement,
+la seule ontologie qu’on puisse nommer vraiment une ontologie. Évidemment ce que je
+
+                                                                                           16
+
+vais dire va être très peu probant parce que ce à quoi je renonce, ce serait faire la
+comparaison avec d’autres traditions philosophiques. Eh bien, voilà, je reviens, du coup,
+au livre I de Éthique, et je dis : qu’est-ce qu’il y a de très curieux dans ce livre I, y
+compris pourquoi est-ce qu’il y a neuf premières propositions qui paraissent très
+bizarres ? [77 :00]
+
+Quand vous lisez ce livre I, il y a neuf propositions sur ce que Spinoza appelle « les
+substances n’ayant qu’un seul attribut ». Comme tout le monde sait que pour Spinoza,
+finalement, il n’y a qu’une seule substance ; il n’y a pas de substances n’ayant qu’un seul
+attribut, ces propositions sont assez bizarres. On se dit : « mais, où il veut en venir » ? Et
+l’on s’aperçoit, en effet, qu’à la proposition neuf et dix, il en arrive à une substance ayant
+tous les attributs. Pourquoi est-ce qu’il est passé par les neuf premières propositions, où il
+nous parle des attributs où il considère les attributs pour eux-mêmes ? C’est curieux ça,
+tout ce passage. C’est que, en même temps, je me dis, qu’est-ce qu’il y a de vraiment de
+nouveau chez Spinoza ? Du point de vue de la théorie, c’est-à-dire du premier livre de
+l’Éthique. [78 :00] Qu’est-ce qui est vraiment nouveau, si j’essayais de le dire ? Vous
+comprenez ? Mon souci c’est que vraiment, vous le sentiez au même titre que ce que j’ai
+essayé de dire tout à l’heure là, sur le soleil. Et bon, il y a une proposition qui domine la
+philosophie… [Interruption de l’enregistrement] [78 :18]
+
+Partie 3
+
+… en général par cette formule dont personne ne s’étonne quelle soit grecque puisque
+pour Heidegger la philosophie est grecque. Cette formule c’est en grec, c’est très joli en
+grec et puis il faut l’imaginer dans un chant, il faut l’imaginer rythmée, c’est "en panta",
+e-n et plus loin, p-a-n-t-a. Ce serait, ça, le cri de la philosophie parce quand je crie,
+[Deleuze l’épèle] "en panta", sentez c’est un cri… "en panta", les danseuses, les
+danseuses, et les danseuses sont des philosophes, [79 :00] les danseuses crient en
+rythmant sur les tambourins : « en panta, en panta ».
+
+D’abord comment traduire « en panta», qui traversera, en effet, toute la philosophie
+grecque ?« en », c’est « l’Un ». En, ça veut dire Un, Un ; « panta» : ça veut dire toutes les
+choses, c’est un nominatif pluriel neutre, toutes les choses. Mais est-ce que la peine de
+traduire « en panta » ? Si c’est vrai « en panta » est un cri, il n’y a pas tellement lieu de
+traduire ; ce n’est pas une proposition, ce n’est pas une proposition. Encore une fois, il
+faut l’imaginer rythmé « en – pan -- ta». [80 :00] Mais mot à mot, ça veut dire, on traduit
+très souvent par : « L’Un tout » ; « l’Un tout » c’est une espèce de formule magique,
+mystique, l’Un Tout. Quand la formule est prononcée, quelque chose commence ! L’« Un
+tout », en fait, ce n’est pas une bonne traduction littérale puisque que ça ne rend pas
+compte du pluriel, donc il faudrait dire, on peut risquer : « l’un toutes choses », « l’un
+toutes choses ».
+
+Or de Platon au Néoplatonisme et bien plus, même pas de Platon, des philosophes que
+l’on appelle les premiers philosophes, qu’est-ce les présocratiques, Héraclite, [81 :00]
+Parménide, etc., en passant par Platon et en allant jusqu’aux Néoplatoniciens, c’est-à-dire
+après Jésus-Christ, le « en panta », retentit partout. « L’Un tout » est comme le ralliement
+
+                                                                                            17
+
+du philosophe. C’est bizarre ça ! Vous comprenez, je peux au moins en conclure que la
+philosophie a toujours eu, je ne dis pas qu’elle s’identifie, mais elle a toujours eu un
+rapport très particulier, une affaire particulière avec ce qu’on appelle le panthéisme. Car
+qu’est-ce que l’on appelle le panthéisme ? Ce qu’on appelle le panthéisme, c’est quelque
+chose que l’on appelle d’une manière encore plus savante : le pananthéisme. [82 :00] Et
+le panthéisme ou le pananthéisme, qu’est-ce que c’est ? « Pan » qui veut dire tout, cette
+fois si au singulier, « Pan » tout ; « en », un ; Théisme, « Theos », Dieu. Panthéisme ou
+panenthéisme, c’est « L’Un tout Dieu » --
+
+Une étudiante : [Elle donne des précisions sur ces termes]
+
+Deleuze : Oui, oui… -- Donc, « l’Un tout, ou l’Un toute chose, voilà ce qu’est Dieu ». En
+d’autres termes, panthéisme signifie, ou pananthéisme signifie "l’Un toute chose, [83 :00]
+voilà Dieu". Bon, [il] faut croire que si cette formule grecque le "en panta" qui, encore
+une fois, les hante tous, est à l’origine de la philosophie, c’est qu’elle a à voir quelque
+chose avec l’essence de la philosophie, avec ce qu’est la philosophie au plus profond.
+
+Bon alors, ce que je constate juste, ce qui m’intéresse, c’est que, il me semble -- j’aurai
+voulu pouvoir le développer mais je ne le peux pas -- que chez les plus grands
+philosophes, la reconnaissance de la formule ou plutôt du cri philosophique « en panta »,
+s’est toujours accompagnée d’une tentative géniale, grandiose pour conjurer ou pour
+[84 :00] ne pas tomber -- et là, je suis très prudent -- pour ne pas complètement tomber
+dans le panthéisme que cette formule implique. [Pause] Et là, il faut être très nuancé,
+parce que tomber à moitié oui, mais pas tout à fait, il n’y a qu’un philosophe qui, à mon
+avis, accepte très tranquillement l’idée que la philosophie dès lors se confonde avec le
+panthéisme le plus pur, et c’est Spinoza. Seulement qu’est-ce que ça veut dire ça ? Et
+après lui, non, ce sera fini, après lui, ça sera fini, mais enfin il aura réussi le coup pour
+toute l’éternité ! [85 :00] C’est le seul qui ne dira pas : « Ah, mais, attention. Il faut
+distinguer! Il y a d’autres niveaux, ou bien c’est en un sens assez spécial », c’est le seul
+qui prendra à la lettre et qui poussera jusqu’à ses dernières conséquences le "en panta".
+
+Alors comment expliquer ça ? Immédiatement, si vous ouvrez l’Éthique, en quoi il s’agit
+bien de ça ? Une des choses les plus nouvelles chez Spinoza, une des choses les plus
+nouvelles chez Spinoza, ça me paraît être l’affirmation suivante : il faut savoir où il est, le
+nouveau, parce qu’il y a ce qui découle de la chose nouvelle, mais si vous partez de ce
+qu’il découle, vous ne pouvez pas bien comprendre. Je crois, ce qui est le plus nouveau
+dans tout l’appareil théorique de Spinoza, c’est l’affirmation que les mêmes formes, ou si
+vous préférez, les mêmes [86 :00] attributs -- en prenant attribut au sens plus simple, ce
+qui a est attribué -- les mêmes formes, les mêmes attributs sous la même forme, se disent
+de Dieu et des choses. Voilà une proposition, j’insiste là-dessus, ce qui pour, à mon avis,
+la grande majorité des autres philosophes est une hérésie, une proposition
+fondamentalement impie et, bien plus, un non-sens.
+
+Or Spinoza, il lance cette formule très, très tranquille. Il faut voir à l’époque ce qu’il
+risque, qu’est-ce que cela a entraîné ? Pourquoi Spinoza est resté un modèle de quelque
+chose d’effarant ? [87 :00] Tous ça, ce n’est pas innocent. Nous, alors on le lit comme ça
+
+                                                                                            18
+
+aujourd’hui où notre problème n’est pas exactement cela, mais vous savez, ça continue à
+travailler nos problèmes, simplement il suffit que vous le viviez assez. C’est très bizarre
+cette proposition : « Les mêmes formes se disent au même sens, s’attribuent sous la
+même forme à Dieu et à toutes les choses ». Pourquoi elle est extraordinaire cette
+proposition ? Parce que la plupart des philosophes disaient, qu’est-ce qu’ils disaient,
+« L’Un tout » ? Les autres philosophes, pour mieux comprendre cette nouveauté énorme
+de Spinoza, les autres philosophes, ils disaient « Attention ! vous pouvez attribuer à Dieu
+et aux choses un même mot, [88 :00] mais pas sous le même sens, pas sous le même sens,
+évidemment pas sous le même sens » !
+
+Exemple, vous dites : « Dieu est juste », et puis vous dites « tel homme, Pierre est juste »,
+ce n’est pas sous le même sens, pour une raison simple : ce que, dans un cas, c’est la
+justice finie d’un homme, et dans l’autre cas, c’est la justice infinie de Dieu. Et ce n’est
+pas la même forme, ce n’est pas sous la même forme. Bon ! Alors il y aurait pour un
+même mot, il y aurait plusieurs formes, il y aurait plusieurs formes. Dans quel rapport ?
+La justice de l’homme sous la forme [89 :00] finie est-elle avec la justice infinie de Dieu
+sous la forme infinie ? Dans quel rapport, une forme finie peut-elle être avec la forme
+infinie ? Grand problème, énorme problème qui va animer toute la théologie.
+
+En tout cas, c’est une hérésie, bien plus, c’est un blasphème, que de dire que les mêmes
+formes en tant que les mêmes -- « en tant que », j’ai besoin de dire en tant que – les
+mêmes formes en tant que mêmes appartiennent à Dieu et à l’homme. Avant, on nous
+aurait dit les mêmes noms peuvent appartenir, mais pas sous la même forme. [Pause]
+Bon. [90 :00] Spinoza lui alors, il va vraiment sans nuance. Qu’est-ce qu’il veut dire ?
+Toutes les formes qui peuvent être attribuées à Dieu, c’est des formes aussi sous la même
+forme qui s’attribuent à l’homme, sous la même forme. Qu’est-ce que c’est que les
+formes qui peuvent être attribuées à Dieu ? Ce n’est pas difficile, là, le critère ; Spinoza le
+conserve. Il dira que les formes qui peuvent être attribuées à Dieu et qui le pouvant, dès
+lors, le sont nécessairement, c’est quoi ? C’est toutes les formes que nous pouvons
+concevoir comme élevables à l’infini.
+
+Ça, je passe très vite parce que c’est tout simple : prenez une forme quelconque, une
+forme ou une qualité. Forme égale qualité. Prenez une qualité quelconque et vous vous
+demandez [91 :00] si je peux la concevoir comme infinie ? Si vous dites oui, à ce
+moment-là, vous l’attribuez à Dieu ; c’est un attribut de Dieu. Le critère est tout simple,
+ce n’est pas difficile. Exemple : rouge, est-ce que je peux concevoir un rouge infini ? Là,
+je ne souhaite pas vous persuader. Au moyen âge, au XVIème ou XVIIème siècle, ils sont
+tous d’accord : il n’y a pas de rouge infini. Penser un rouge infini, c’est contradictoire.
+Toute couleur implique une figure. Je ne sais pas s’ils ont tort ou raison, on ne va pas leur
+discuter ça, ça ne change rien, l’exemple ! En tout cas, non ! Dès lors, je ne peux pas dire
+"Dieu est rouge", parce rouge est bien une forme, forme de couleur, mais il n’est pas
+élevable à l’infini. Donc, je cherche comme ça, "chaud" : est-ce que je peux parler d’une
+chaleur infinie ? Non ! [92 :00] Ils diront « la chaleur, c’est du domaine de l’indéfini, ce
+n’est pas du domaine de l’infini » ; ils tiennent beaucoup à cette distinction. Peu importe,
+là, encore, on ne discute pas de ça!
+
+                                                                                           19
+
+Spinoza trouve deux formes, et encore tout le monde ne serait pas d’accord avec lui, mais
+le fait est, ce n’est pas là-dessus que je voudrais que porte la compréhension. Spinoza
+arrive et dit : « Nous hommes, nous connaissons deux formes que nous pouvons
+concevoir comme infinies sans contradiction. C’est la pensée et l’étendue ». Curieux, ça !
+Et pour le XVIIème siècle, ils sont tous d’accord : une étendue infinie n’est pas
+contradictoire. C’est leur affaire ça ; pour des raisons mathématiques, logiques, ils
+montrent très bien ça, mais ce n’est pas mon objet de développer ça. On accepte ça ; on
+part avec les prémisses de Spinoza. [93 :00]
+
+Spinoza n’en maintient pas moins qu’il y a une infinité de formes infinies. Seulement
+voilà, le fait est que nous n’en connaissons que deux. Nous hommes, nous ne connaissons
+que deux formes infinies. Ça ne veut pas dire qu’il y en a que deux. C’est la pensée et
+l’étendue. Cela ne veut pas dire qu’il n’y en a que deux. Ça veut dire que nous sommes
+faits, nous hommes, sommes constitués de telle manière que nous ne pouvons connaître
+que ces deux-là. Et pourquoi ? Parce que, en effet, nous sommes constitués d’une âme et
+d’un corps. Or une âme, c’est quoi ? C’est un mode de la pensée, c’est une manière de
+penser. Un corps, c’est un mode de l’étendue. Dès lors, comme nous sommes constitués
+d’un corps et d’une âme et de rien d’autre, selon Spinoza, nous ne pouvons connaître que
+deux formes infinies : la forme infinie qui correspond au corps, qui est l’étendue, la
+forme infinie qui correspond à l’âme, et c’est la pensée. Bon. [94 :00] Jusque-là, il n’y a
+rien d’intéressant pour nous.
+
+Ce qui est intéressant, c’est que Spinoza va développer toute une doctrine selon laquelle
+ces mêmes formes, la pensée et l’étendue que nous attribuons à Dieu, ces mêmes formes
+d’infinis, elles appartiennent aussi, à quoi ? Aux choses finies, sans doute, mais elles
+n’appartiennent pas de la même manière : ce n’est pas de la même manière que la pensée
+et l’étendue appartiennent à Dieu, et appartiennent à vous ou moi. Mais c’est sous la
+même forme qu’elles appartiennent à l’un et à l’autre. Comprenez, cela devient [95 :00]
+assez compliqué, et en même temps, c’est lumineux. L’idée est que les formes sont
+égales, les attributs sont égaux. Ce sont les mêmes attributs qui vont se dire de Dieu et
+des êtres finis. Bon. « Le même », ça ne veut pas dire que Dieu et les êtres finis soient "le
+même".
+
+En d’autres termes, ce sont des formes égales qui se disent « par rapport » et qui se disent
+de termes qui, eux, sont inégaux, ne sont pas égaux. Il y a des formes communes à Dieu
+et à la créature. Qu’est-ce que disaient les autres ? À ma connaissance, [96 :00] ils
+disaient : « ou bien il n’y a pas de formes communes à proprement parler », ou bien ils
+disaient, « il y a des formes analogues, il y a des formes analogues [Pause] entre Dieu et
+les créatures », c’est-à-dire, ce que la forme infinie est à Dieu, la forme finie l’est à la
+créature. Donc on nous disait : ou bien les formes ne sont pas les mêmes, ou bien on nous
+disait, il y a analogie de formes. Spinoza est le seul à nous dire : il y a communauté de
+formes. Ce sont les mêmes formes qui se disent de Dieu et qui se disent des êtres finis.
+Donc Dieu et les êtres finis [97 :00] ne sont pas les mêmes, mais les formes qui se disent
+de l’un et des autres sont les mêmes. Comprenez, c’est la formule théorique du
+panthéisme. Si ce sont les mêmes formes, la formule « en panta », « le tout un » ou « l’un
+toutes choses », ce sont les mêmes formes qui se disent de l’un et qui se disent des
+
+                                                                                           20
+
+choses. Dès lors, les choses sont dans « l’Un » et « l’Un est dans les choses ». Ils ne sont
+pas les mêmes, mais ils ont les mêmes formes.
+
+Qu’est-ce que ça veut dire, ça ? En quoi c’est important pratiquement, cette formule ? Et
+en quoi c’est ça l’ontologie, l’Être ? [98 :00] Je vous raconte une histoire, et là aussi, je
+voudrais que vous sentiez à quel point c’est une affaire -- comment dire ? -- qu’il s’agit
+aussi des problèmes de qu’est-ce que c’est que créer en philosophie. Jusqu’à un certain
+auteur, je crois, la pensée a fonctionné – je ne dirai pas encore lequel – la pensée a
+fonctionné en termes d’alternative, de disjonction. On disait, c’est ceci ou c’est cela. On
+peut toujours raconter les choses comme ça. Pendant longtemps, ben oui, la pensée n’a
+pas trouvé le besoin de mettre en question ce principe. Alors quoi, « tu veux dire, ceci ou
+cela ? C’est l’un ou c’est l’autre ». Je pense à une chose très simple. C’est du fini [99 :00]
+ou c’est de l’infini ? Et bah, réponds ! Et si je réponds, c’est de l’indéfini ? Ah non, non,
+non! Si c’est de l’indéfini, ce n’est qu’une conséquence du fini ! Bon, « c’est du fini ou
+c’est de l’infini, ou bien c’est de l’universel ou c’est du singulier ? » Et d’une certaine
+manière, il faut bien que ça soit l’un ou l’autre.
+
+Exemple : « animal », je dis « animal », c’est un grand mystère que je vous découvre là,
+sentez-le. Je vous dis « animal », l’air de rien. Bon, vous êtes en droit de me dire, mais
+quoi « animal », en quel sens ? Pourquoi est-ce qu’à première vue, il y a deux sens ?
+« Animal », ça peut être un genre, le genre animal. [100 :00] Où ça existe le genre
+animal ? C’est que l’on appellera « un universel » où ça existe un universel ? Ça n’existe
+pas dans les choses, vous n’avez jamais vu un animal tout court. Ce n’est pas possible de
+voir un animal tout court ! Si c’était ça, ce serait quoi ? Combien aurait-il de pattes, un
+animal tout court ? Ce n’est pas possible ! Donc « animal » tout court n’existe que dans
+l’esprit. Le mode d’existence du genre « animal » est un mode d’existence dans l’esprit.
+L’universel existe dans l’esprit, nous dit-on. Et dans les choses, qu’est-ce qui existe ?
+C’est tel « animal », l’animal singulier. Ah oui, là il y a des animaux singuliers. Grand
+problème, quel rapport y a t-il entre les animaux singuliers et l’animal universel dans
+l’esprit ? [101 :00] D’où toute une opposition entre le : in re et in mente, « dans les
+choses » et « dans l’esprit ». Pour ça, il y a toutes sortes de philosophies qui sont toutes
+entières construites sur de pareilles disjonctions. Bon.
+
+Arrive un philosophe -- et à ma connaissance et c’est ça qui me trouble ; je crois, et
+d’après les savants, parce que, là, il faut bien interroger les spécialistes, c’est un
+philosophe très particulier -- arrive un philosophe arabe au XIème siècle, arabe iranien. Il
+écrit tantôt en arabe, tantôt en iranien. Il s’appelle Avicenne. [Deleuze l’épèle] C’est un
+très, très grand philosophe. Ça fait partie toujours de la honte pour l’histoire de la
+philosophie en France qu’on fasse toujours [102 :00] ce court-circuit sur le Moyen âge,
+sur ce qui s’est passé, etc. Avicenne, je connais très mal Avicenne, donc je ne prétends
+pas que c’est… je le connais très mal ; je sais juste qu’il y a une thèse qui apparaît chez
+Avicenne et qui est très, très insolite. Il dit : "voilà, il y a des essences", "il y a des
+essences". Jusque-là, rien de nouveau. Les essences, les philosophes, ils ont beaucoup
+parlé des essences. "Il y a des essences". Il dit, par exemple, "l’animal, c’est une
+essence". Et il dit : « est-il possible de penser une essence pure ? » dit Avicenne l’arabe.
+Il dit : « Oui, oui. Seulement il faut voir à quoi ça engage. » L’essence animale -- une
+
+                                                                                             21
+
+découverte philosophique, ça a l’air de rien, [103 :00] comprend ; moi ça me plaît
+beaucoup ça -- il lance une formule, là aussi, c’est une espèce de cri, un mot d’ordre :
+« animal tantum ». Ça a l’air de rien ; il dit, comme ça, "animal tantum" dans un texte, je
+parle de la traduction, il a été très vite traduit en latin ; "animal tantum", ce qui veut dire
+quoi ? Ça veut dire « animal seulement », « animal seulement ». Et qu’est-ce que ça veut
+dire "animal seulement" ? Comprenez, c’est très important.
+
+Il nous dit, si vous voulez penser la pure essence : c’est « animal en tant qu’animal »,
+c’est-à-dire, ni universel, ni singulier. Et il dira lui-même dans d’autres textes à propos
+d’autres exemples, « ni infini, [104 :00] ni fini ». [Pause] Tiens ! Il reconnaît
+parfaitement, il est d’accord qu’il y a deux grands modes d’existence : l’universel dans
+l’esprit et le singulier dans les choses. Mais justement, il n’y en aurait pas deux ... s’il n’y
+avait pas un « tiers-état » -- ça c’est pour plaire à Anne [Querrien] -- il faut un tiers-état.
+S’il n’y en avait que deux, on ne comprendrait même pas qu’il puisse y en avoir deux.
+Car s’il y a l’universel dans l’esprit, à ce moment-là, il n’y aurait pas d’animaux
+singuliers. Et s’il y avait des animaux singuliers, il n’y aurait pas d’animal universel dans
+l’esprit. Il ne peut y avoir l’un et l’autre parce qu’il y a un tiers. Le tiers, c’est quoi ?
+C’est l’essence animale, et l’essence animale, elle n’est ni universelle, ni singulière. Elle
+est hors de ces critères-là. [105 :00]
+
+Anne Querrien : [Intervention inaudible]
+
+Deleuze : Tu crois que pour Joseph il se bat ?]
+
+Querrien : [Intervention inaudible]
+
+Deleuze: Alors, comprenez, ça a l’air [106 :00] d’être complètement insignifiant.
+Imaginez les autres, là, ça devient intéressant : quelqu’un arrive et vous dit, « Ecoutez à
+mon avis, il faut faire le concept qui serait un concept de l’essence, et un tel concept qui
+n’est ni universel ni singulier. Non, il n’est ni infini, ni fini. L’essence n’est pas
+justiciable de ces critères-là. » Prenez un philosophe de l’époque, il peut dire : « mais
+qu’est-ce que tu racontes ? c’est un non-sens, c’est un pur non-sens, cette histoire-là :
+qu’est-ce que c’est cette essence qui ni singulière ni universelle ? Même Platon, qu’est-ce
+qu’aurait dit, Platon, d’un truc comme ça ? » À mon avis, il aurait dit, « C’est une idée de
+sophiste ça, » aurait dit Platon, « non ça ne va pas » ! Alors il y a ceux qui disent, c’est un
+non-sens ; [107 :00] il y a ceux qu’on peut imaginer beaucoup plus méfiants qui disent :
+"Pourquoi il dit ça, qu’est-ce qu’il va nous ramener, comment il va développer son
+histoire ? » On sent qu’il y a déjà des choses qui sont déjà engagées. Qu’est-ce qui va
+changer, y compris dans la théologie, si j’introduis ce tiers-état de l’essence, ni universel,
+ni singulier, ni fini, ni infini ? Est-ce que ce n’est pas déjà la voie où les choses échappent
+à Dieu ? Qu’est-ce que c’est que ça ? Ben, on peut voir comment ça se développera chez
+Avicenne, mais ça serait trop compliqué.
+
+Quelque temps après, qu’est-ce qui surgit chez un autre philosophe ? Bon, la moyenne
+des philosophes -- je regrette de m’exprimer [108 :00] si vaguement -- nous disait jusquelà à propos de l’Être et du problème de l’Être. Ils disaient, « vous voyez, il y a Dieu,
+
+                                                                                              22
+
+l’Être infini, puis il y a les êtres finis. » Très bien, mais un Être est ou fini ou infini ; un
+Être est ou fini ou infini. Encore une fois, est-ce que ce sont les mêmes formes qu’on
+attribue à un Être infini et aux êtres finis ? Non, tout au mieux, ce sont des formes
+analogues. À savoir, la justice infinie de Dieu est analogue, ou plutôt la justice finie des
+hommes est un analogue de la justice infinie de Dieu. C’est-à-dire elle est aux choses
+finies ce que la justice infinie est à l’être infini. [109 :00] Et notamment il y avait un
+philosophe qui avait beaucoup poussé la théorie de ces rapports d’analogie, c’était Saint
+Thomas. Saint Thomas est même célèbre pour une théorie qu’on appelle la théorie de
+l’analogie de l’être. À savoir, l’être est un concept analogue, c’est-à-dire qu’il se dit de
+Dieu et des créatures de manière analogique. L’Être infini se dit de Dieu, l’Être fini se dit
+des hommes.
+
+Voilà que, après Saint Thomas, un étrange, étrange philosophe qui s’appelle Duns Scot,
+[Deleuze l’épèle] [110 :00] qui sera nommé -- parce qu’ils se donnaient des espèces de
+surnoms au moyen-âge -- qui sera nommé par ses disciples « Docteur subtil », dit : "Ben,
+non, ce n’est pas ça !" et que cela va ensuite déchaîner des luttes, mais des luttes aux
+couteaux entre les Thomistes et les Scotistes, luttes qui ne sont pas terminées aujourd’hui.
+Donc il s’agit bien de quelque chose, mais de quoi ? De quoi il s’agit ? Et qu’est-ce qu’il
+dit, Duns Scot ? Il dit : « et bien voilà, bien sûr » -- il faut comprendre en quoi il est subtil
+– « bien sûr, lorsque vous rapportez l’Être à Dieu et aux créatures, vous ne pouvez le
+rapporter que de manière analogique. » [111 :00] Pourquoi ? Parce que Dieu et les
+créatures ne sont pas "le même". Il croyait se garantir contre le panthéisme en disant ça.
+Mais, glorieux et malheureux, car qu’est-ce qui va lui arriver ? Il ajoute, « D’accord,
+Dieu et les créatures ne sont pas les mêmes, donc l’Être ne leur est pas rapporté d’une
+seule et même manière, il leur est rapporté d’une manière analogique. Mais en revanche,
+cet Être qui est rapporté de manière seulement analogique à Dieu et aux créatures, en luimême, il est strictement univoque : il n’y a qu’un seul et même Être. »
+
+Ah, comprenez, qu’est-ce que vous voulez répondre à ça ? Sinon, « Ah oui, c’est vrai »,
+[112 :00] il faudrait ajouter, « s’il y en a, s’il y a de l’Être, il n’y a qu’un seul et même
+Être. » Ce qui n’est pas le même, c’est ce à quoi je rapporte -- je me fais très complaisant,
+et je dis d’accord sur tout -- Vous me dites que Dieu et les créatures, vous me dites qu’il y
+a Dieu, d’accord, je ne dis pas le contraire ; vous me dites qu’il y a des créatures,
+d’accord, il y a des créatures, tout ce que vous voulez, et vous rajoutez que Dieu et les
+créatures ne sont pas du tout les mêmes, et je dis d’accord. Vous ajoutez que je rapporte
+l’Être à Dieu, quand je dis "Dieu est", aux créatures quand je dis "les créatures sont". Je
+rapporte l’Être. Vous ajoutez : ce n’est pas sous le même rapport que je rapporte l’Être à
+Dieu et aux créatures. Évidemment ce n’est pas sous le même rapport et vous concluiez
+dès lors [113 :00] que l’Être est analogique. Et là je dis : « rien du tout », « non », « vous
+ne pouvez pas ».
+
+Vous ne pouvez pas. Pourquoi vous ne pouvez pas ? Parce c’est vrai que l’Être est
+analogique quand vous le rapportez à Dieu et aux créatures, mais quand vous le pensez en
+tant qu’Être sans le rapporter à rien, qu’est-ce qu’il est ? Réponse splendide : "Il y a un
+concept d’Être qui est absolument indifférent au fini, à l’infini". L’Être en tant qu’Être, il
+n’est pas plus infini que fini. Dès lors, c’est le même. Ce concept d’Être qui n’est ni fini
+
+                                                                                              23
+
+ni infini, et qui est l’Être en tant qu’Être, il est strictement le même, bien qu’il cesse
+d’être le même quand vous ne le rapportez pas aux mêmes choses. D’accord, mais en luimême, il est le même. [114 :00] Donc il y a un être qui n’est ni fini, ni infini. Vous voyez
+que c’est exactement le même coup au niveau de l’Être que le coup d’Avicenne au niveau
+de l’Essence, que fait Duns Scot contre Saint Thomas, à savoir, « l’Être est univoque ». Il
+n’y a qu’un seul et même sens du mot Être : ni fini, ni infini, bien que l’Être se rapporte à
+des choses qui elles n’ont pas le même sens : Dieu et les créatures. Imaginez-vous l’état
+d’un Thomiste devant ça ! Je veux dire, en quoi on peut parler de haine intellectuelle ? Ce
+n’est pas la faute de la philosophie, vous savez. Vous comprenez les objections, les
+objections, c’est toujours des passions. Les objections, [115 :00] ça n’importe jamais,
+c’est des ripostes de guerre, une objection. Qu’est-ce que vous voulez dire à cette thèse
+de Duns Scot ? Si vous êtes Thomiste, votre raison vacille ! Vous dites, vous dites "pas
+du tout, l’Être en tant qu’Être, ce n’est pas ce que tu dis" ! Si vous êtes Thomiste, vous
+êtes condamné, à mon cas, à affirmer ceci : "Cet Être en tant qu’être, c’est un non-sens
+abominable. C’est une hérésie, c’est contraire à la Révélation, c’est contraire à la
+raison. » Donc, un Être qui n’est ni fini, ni infini, ni universel, ni singulier, un être qui est
+[116 :00] -- comme disait Duns Scot et là le mot est formidable pour nous -- "neuter",
+c’est-à-dire, « neutre », qu’est-ce neutre ? Ça veut dire quoi en latin ? ça veut dire « ni
+l’un ni l’autre ».
+
+Anne Querrien : [Inaudible]
+
+Deleuze : Pas au moyen-âge, pas chez Duns Scot après Spinoza mais il ne dira pas
+"neutre" justement.
+
+Querrien : [Propos inaudibles]
+
+Deleuze : Alors bon ! Peut-être vous comprenez, je ne sais pas ; il ne faut pas beaucoup
+de savoir, vous comprenez, pour évaluer ce qu’il y a de nouveau dans une pensée. Ce
+n’est du niveau de la discussion. A ce niveau de la discussion, qu’est-ce que vous
+voulez ? J’insiste énormément sur [117 :00] ce n’est pas affaire d’argument. Voilà un
+type qui vient de découvrir un nouveau domaine, c’est vraiment comme un nouveau
+territoire : le territoire de l’Être. Il ne nous dit pas grand chose, à première vue, c’est
+simple , ce n’est pas difficile : ça n’est ni infini, ni fini, ni singulier, ni universel. Mais,
+est-ce qu’il a besoin de dire tellement plus, puisque chacune de ses propositions est un
+énorme paradoxe par rapport à la pensée du temps et, même encore, par rapport à
+aujourd’hui puisqu’on a tendance à se dire, « mais il faut bien que quelque chose soit ceci
+ou cela ! » ; eh bien non !
+
+Seulement vous voyez où en reste Duns Scot – là, je vais beaucoup trop vite, évidemment
+-- : il découvre une sphère qui est faite de l’Être en tant qu’Être, seulement il la
+neutralise, c’est-à-dire un concept purement logique. Si bien qu’il peut y avoir à la limite
+un accord entre les Thomistes et les Scotistes. [118 :00] Ils diront eh bien oui : « L’Être
+en tant qu’Être est logiquement univoque, mais il est physiquement analogue. » En
+d’autres termes, il y a un Être qui est le même, mais en même temps, dès que vous le
+rapportez à des étants, il cesse d’être le même, si vous le rapportez à l’étant "infini Dieu"
+
+                                                                                           24
+
+ou si vous le rapportez aux étants singuliers, "les choses". Il y aurait un petit arrangement,
+mais les arrangements ne sont jamais faits comme ça. Les Thomistes ne cesseront de
+poursuivre les Scotistes et les Scotistes ne cesseront de provoquer les Thomistes.
+
+Bon, alors, imaginez un pas de plus, et c’est là-dessus que je voudrais finir parce que
+vous n’en pouvez plus : imaginez juste un pas de plus, imaginez que quelqu’un [119 :00]
+trouve le moyen de libérer, de faire sortir cet Être unique, cet Être en qu’Être de sa
+neutralité. C’est-à-dire, il l’affirme cet Être, il dit, c’est ça le réel. Cet Être en tant
+qu’Être, qui est le même pour tout et pour tous, cet Être unique, cet Être univoque, il
+n’est pas seulement pensé dans un concept logique, il est la réalité physique en ellemême, il est la Nature. [Pause]
+
+En d’autres termes, c’est les mêmes formes qui se disent de Dieu et des créatures, c’est le
+même Être qui se dit de tous les étants de Dieu et de la créature. Dès lors, les créatures
+sont en Dieu, Dieu est dans les créatures. [120 :00] Pourtant, est-ce que c’est le même
+"étant" ? Non, Dieu et les hommes, ce n’est pas la même chose. Mais les mêmes formes
+se disent de Dieu et se disent des hommes, en quel sens ? En ce sens, que les mêmes
+formes constituent l’essence de Dieu et comprennent ou contiennent les essences
+d’hommes. Donc il n’y a pas égalité d’essence, mais il y a égalité d’Être pour les
+essences inégales. À ce moment-là, une ontologie devient possible ; à ce moment-là
+commence et à ce moment-là finit l’ontologie. Oui, commence et finit, voilà, bon,
+[Pause] c’est fini... [Pause]
+
+Ecoutez, je sens que j’aurai dû développer, je ne sais pas… Même si ceux qui n’ont pas
+compris là, aucune importance, vous supprimez tout ça, [Rires] et vous gardez ce que
+vous avez compris les autres fois. Ceux qui ont compris quelque chose, c’est bien. La
+prochaine fois, je commence donc un autre cours complètement différent sur la peinture,
+mais on peut faire un début de séance sur des questions s’il y a des questions comme ça.
+Mais moi, je ne parlerai plus sur Spinoza. Voilà ! [Fin de la séance] [2 :01 :44]

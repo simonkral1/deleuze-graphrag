@@ -1,0 +1,1388 @@
+1
+
+Gilles Deleuze
+Leibniz et le Baroque, Les Principes et la Liberté
+Séance 6, le 13 janvier 1987, Les Principes et la Liberté (1) : La Raison suffisante
+
+Transcription : Charles J. Stivale
+
+Partie 1
+
+Le thème général de cette seconde partie, c’est quelque chose comme "les Principes et la
+Liberté". Et nous devons nous attendre que tant au niveau des principes qu’au niveau de
+la liberté nous retrouvions ces courants du plissement, du pli et de l’enveloppe. [Pause]
+Le thème perpétuel des principes, [1 :00] en effet, ce sera celui de l’implication, et bien
+sûr, l’implication, c’est une notion logique qui, si l’on peut dire, traîne partout. Mais au
+point où nous en sommes, et c’est surement pour ça que qu’on a fait une première partie
+si longue, aussi détaillée, maintenant nous sommes en droit d’attendre que lorsque
+Leibniz emploie des termes même classiques, des formules vidées de leur sens propre
+comme implication logique, nous devons nous attendre à ce que le mot reprenne tout son
+sens le plus vif ou le plus rigoureux.
+
+Impliquer, c’est envelopper, c’est plier dans. [2 :00] Peut-être que toutes sortes de mots
+ont convié à résonner suivant leurs sens le plus littéral. Si l’implication, d’une certaine
+manière, se présente comme une logique du multiple, n’est-ce pas dans la mesure où le
+multiple, c’est aussi… Qu’est-ce que c’est que le multiple ? C’est ce qui est plié de
+beaucoup de façons. En Latin, [c’est] multiplex. [Pause] [3 :00] [C’est] très important, là,
+le suffixe, qui est un suffixe de pliement. Le labyrinthe est multiple. Ça veut dire quoi ?
+Ça ne veut dire pas seulement qu’il y a beaucoup de chemins. Le labyrinthe est multiple,
+ça veut dire que le labyrinthe est cette structure qui est pliée de beaucoup de manières. Et
+quand nous disons le mot "multiple" aujourd’hui, nous ne pensons plus beaucoup au
+suffixe, plex, c’est-à-dire le pli. Mais Leibniz, lui, a toute raison d’y penser et de nous y
+faire penser.
+
+Et de même pour la liberté. Lorsque Leibniz nous dira, vous comprenez, la liberté, ce
+n’est pas très difficile, cette histoire-là de la liberté. Il nous dira qu’on l’accuse de
+supprimer la liberté ; on l’accuse [4 :00] de ne pas rendre compte de la liberté ; on
+l’accuse de soumettre l’homme à un déterminisme ou à une causalité qui supprime la
+liberté, tout ça. Mais ce n’est pas vrai du tout car j’ai toujours dit, nous dit-il, que être
+libre, c’est être incliné sans être nécessité. Nous, nous sommes en mesure de prendre au
+sérieux alors ce terme de Leibniz, incliner. Incliner, c’est se plier ; l’inclinaison, c’est
+l’inflexion. Etre libre, c’est s’infléchir. Bon, tout ça, il est probable que les termes les plus
+courants – multiple, inclinaison, etc. – [5 :00] vont être chargés par Leibniz – implication
+– vont être chargés par Leibniz d’un contenu concret valorisé, et tous ces contenus
+concrets valorisés vont être groupés sous le principe dont Leibniz pense à juste titre qu’il
+est l’inventeur, au point que toute sa philosophie, il la présente sous la garde de ce
+principe. Et après tout, quelle ambition plus grande pour un philosophe qu’inventer un
+principe ? Leibniz n’invente pas seulement un principe, il en invente toutes sortes, autant
+
+                                                                                                2
+
+de principes qu’on voudra, et le principe dont il se présente comme l’inventeur et dont il
+présente sa philosophie comme l’illustration même, il le nomme principe de raison
+suffisante. [6 :00] Or, c’est de cela, là, que nous devons partir pour l’examen de cette
+seconde partie.
+
+Qu’est-ce que c’est que cette raison suffisante que Leibniz invoque tout le temps parce
+qu’à la fois il invoque le principe de raison suffisante, et il reprochera à tous ses
+adversaires sans exception, c’est-à-dire tous ce qui ne sont pas leibniziens – il n’y a qu’un
+seul leibnizien, c’est Leibniz – eh ben, il reproche à tout le monde de violer le principe de
+raison suffisante. Il le dira à tous : ah, vous ne voyez pas, vous, vous violez le principe de
+raison suffisante. Qu’est-ce que c’est donc ce principe de raison suffisante ? Là, le mot
+clé évidemment est "suffisante", et voilà que le principe de raison suffisante [7 :00] a
+heureusement une formulation vulgaire, une formulation toute simple. La formulation
+vulgaire, qu’on trouve dans beaucoup de textes de Leibniz, quand Leibniz veut aller vite,
+c’est "tout a une raison". Vous me direz, "tout a une raison" ? Bon… Ou plus
+précisément, tout ce qui arrive a une raison, tout ce qui arrive a une raison.
+
+Or déjà là, ça m’intéresse beaucoup parce qu’on n’a pas le droit d’aller trop vite à ce
+niveau. Que le principe de raison suffisante dans son expression la plus traditionnelle, la
+plus vulgaire, la plus simple se réfère [8 :00] à ce qui arrive, pourquoi ? C’est que je vais
+vous dire tout de suite ; il faut le dire tout de suite pour que vous suiviez, si vous voulez
+bien, mon problème. C’est qu’il y a une idée traditionnelle dans… chez beaucoup de
+commentateurs de Leibniz, une idée comme ça, qui est que Leibniz réduirait tous les
+jugements à des jugements d’attribution.
+
+Qu’est-ce qu’on appelle un jugement d’attribution ? C’est un jugement qui comporte un
+sujet, la copule, c’est-à-dire le verbe être, et un attribut comme adjectif : "le ciel est bleu"
+est [9 :00] un jugement d’attribution. Vous attribuez une qualité à un sujet par
+l’intermédiaire de la copule être. Vous voyez ? Et on fait comme si cela allait de soi que
+Leibniz réduit le jugement à un jugement d’attribution. Ce problème, il va nous occuper
+longtemps, mais je le signale dès maintenant pour dire qu’il y a quelque chose de
+troublant. C’est quoi ? C’est si vous confrontez ce schéma du jugement d’attribution à
+l’énoncé de raison suffisante, le principe de raison suffisante nous dit "tout ce qui arrive a
+une raison" . Ce qui arrive, c’est quoi ? Ce qui arrive, [10 :00] cela s’appelle un
+événement. En d’autres termes, la raison suffisante se présente comme raison d’un
+quelque chose qui arrive ou raison de l’événement. Mais une qualité, ce n’est pas un
+événement, et un événement, ce n’est pas une qualité.
+
+Je veux dire, comprenez, je ne veux pas en tirer plus pour le moment que ceci, à savoir il
+n’est pas du tout sûr que le principe de raison suffisante – en tout cas, nous n’avons
+aucune raison de considérer comme sûr – que le principe de raison suffisante entraîne la
+réduction du jugement à un jugement d’attribution. Dans son énoncé le plus simple, le
+principe de raison suffisante ne dit que tout ce qui arrive a une raison. [11 :00] Ce qui
+arrive, c’est de l’ordre de l’événement. Qu’est-ce que c’est qu’un événement ? On l’a vu ;
+là, toute notre première partie nous sert. Un événement, c’est un pli, c’est-à-dire une
+
+                                                                                             3
+
+inflexion. [Pause] C’est ça le statut de l’événement. Y voir un attribut me paraît déjà très,
+très exagéré. L’événement, c’est quelque chose qui arrive, c’est-à-dire. une inflexion.
+
+Dès lors, qu’est-ce que ça veut dire: tout ce qui arrive a une raison ; tout événement a une
+raison, sous-entendu, une raison suffisante ? Est-ce que ça veut dire que tout ait une
+cause ? Non. Evidemment non, [12 :00] parce que Leibniz ne pourrait pas à ce moment-là
+prétendre être l’inventeur du principe de raison suffisante. Pourquoi ? Mais c’est que, une
+cause, c’est quelque chose qui arrive et qui fait arriver. C’est quelque chose qui fait
+arriver, et si elle arrive elle-même… Si je porte l’eau à cent degrés, elle se met à bouillir.
+Je dirais d’une cause qu’elle est nécessaire, mais absolument pas suffisante. [Pause] Une
+cause arrive ou n’arrive pas. [13 :00] Elle n’est pas la raison de ce qui arrive. [Pause]
+Avoir une cause n’est pas une raison, mais doit soi-même avoir une raison, ce qu’on
+comprend très bien en disant que la causalité est par nature hypothétique. Si A est donné,
+alors B.
+
+Je dirais de la cause que la raison nécessaire n’est pas suffisante. La raison suffisante
+réclame pour l’événement et pour ses causes une raison qui pourrait être dite suffisante.
+[14 :00] Je dis la cause, c’est une catégorie de l’événement. La cause arrive à la chose. La
+raison suffisante réclame une raison pour tout ce qui arrive. Elle réclame une raison
+suffisante pour l’événement, pour les causes de l’événement, pour les relations
+constitutives de l’événement, pour le moment où se passe l’événement, pour le lieu où
+apparaît l’événement, etc. Il se peut que tout événement ait nécessairement des causes,
+qu’il ait nécessairement [15 :00] un lieu et un moment ; là, n’est pas sa raison suffisante.
+
+Dès lors, qu’est-ce qu’on dira ? On passera à une formulation métaphysique de la raison
+suffisante, qui sera quoi ? La formulation vulgaire, c’était : tout ce qui arrive a une raison.
+La formulation métaphysique ou philosophique, si vous m’avez suivi, ce sera … ? La
+raison suffisante, c’est le concept ou la notion de la chose en tant qu’il rend compte de
+tout ce qui arrive à la chose. [16 :00] Voyez, je suis passé tout seul, tout spontanément, de
+la formulation vulgaire à la formulation métaphysique : La raison suffisante, c’est le
+concept ou la notion d’une chose en tant qu’il rend compte de tout ce qui arrive à la
+chose, de tout ce qui arrive. J’ai conservé dans la formulation métaphysique la notion
+fondamentale de l’événement. Le concept, donc, la raison suffisante, ce n’est pas la cause
+de la chose, ou la cause qui arrive à la chose ; la raison suffisante ne peut être que le
+concept de la chose en tant qu’il contient la raison de tout ce qui arrive à la chose.
+
+Ça ne doit pas nous étonner, eh, surtout pas, car cette formulation [17 :00] métaphysique,
+c’est une nouvelle manière de dire de l’inflexion à l’inclusion, de l’inflexion à
+l’inhérence, de l’inflexion à l’enveloppe du pli, à l’enveloppe. Vous vous rappelez, en
+effet, l’inflexion, c’est l’événement qui arrive à la chose. Tout événement est une
+inflexion. Je nais, je meurs, j’écris, j’ai froid, etc., ce sont des inflexions. [18 :00] Un
+événement arrive à quelque chose ou à quelqu’un. L’inflexion, c’est l’événement en tant
+qu’il arrive à quelque chose ou à quelqu’un. L’inclusion, c’est quoi ? On a vu que ce qui
+arrive à quelque chose est compris, contenu, inclus – là, suivez bien la distinction des
+notions, non pas à la chose, cela n’aurait aucun sens --- est inclus dans le concept de la
+
+                                                                                               4
+
+chose. Ce qui arrive à quelque chose est inclus dans le concept de la chose. Ce qui arrive
+à quelque chose est enveloppé dans le concept de la chose.
+
+En d’autres termes, l’événement qui arrive [19 :00] à la chose est un prédicat de sa
+notion. Le prédicat, c’est quoi ? Le prédicat, c’est ce qui se dit de la notion, ce qui se lie
+dans la notion, ce qui est inclus dans la notion. L’événement qui arrive à la chose est un
+prédicat inclus dans la notion de la chose. D’où la formule métaphysique que donne
+Leibniz de la raison suffisante : toute prédication a un fondement [20 :00] dans la nature
+des choses. [Pause] On en conclut facilement la troisième formulation du principe de
+raison suffisante, formulation logique ; cette fois-ci, la formulation logique du principe de
+raison suffisante : tout prédicat est inclus dans la notion de la chose. [Pause]
+
+Mais vous voyez ? Le peu que j’ai dit, ce que je voudrais que vous compreniez, c’est
+uniquement… pas que vous compreniez quelque chose de spécial, mais en effet que vous
+participiez au doute que j’ai. [21 :00] De quel droit dans tout ça [peut-on] prétendre que
+Leibniz réduit le jugement à un jugement d’attribution du type "le ciel est bleu" ? Tout le
+thème qu’on vient de voir de Leibniz consiste à nous dire : l’événement qui arrive à la
+chose -- c'est-à-dire tout à fait autre chose qu’une qualité, tout à fait autre chose qu’un
+attribut -- l’événement qui arrive à la chose est un prédicat inclus dans la notion de la
+chose, ce qui n’implique absolument pas que le prédicat soit un attribut [Pause] qui serait
+attribuable à la notion de la chose [22 :00] par l’intermédiaire de la copule être.
+
+Je dis, j’écris ; pour en faire un jugement d’attribution, il faudrait dire, je suis écrivant. Ça
+c’est bien connu. Or on nous dit très souvent que Leibniz, que la théorie de Leibniz
+implique cette réduction, de j’écris à je suis écrivant. Ça serait curieux ; il y a quelque
+chose [Deleuze cherche les mots] de … qui est très plaisant, c’est que… Vous
+comprenez ? Il y a un principe là, quand même… Les grands philosophes, si c’est ça
+qu’ils avaient voulu dire, ils l’auraient dit. S’il [Leibniz] avait voulu dire que tout
+jugement d’événement, toute proposition événementielle du type "j’écris", se ramène
+[23 :00] à un jugement d’attribution, ce n’était pas tellement compliqué ; il l’aurait dit. Je
+vais vous dire pourquoi il l’aurait dit, parce que vous connaissez très bien ces trucs-là.
+C’est une théorie courante à l’époque, notamment on la trouve dans toutes les
+grammaires du dix-septième siècle. On trouve dans toutes les grammaires du dixseptième siècle la question de savoir dans quelle mesure je peux réduire "j’écris" à "je
+suis écrivant". Bien plus, Leibniz connaît, je dis, parfaitement toutes ces doctrines, et
+dans des notes philologiques -- il a écrit beaucoup sur la philologie et sur la grammaire --
+dans des notes grammaticales et philologiques, il l’envisage explicitement.
+
+Bon. Ma question, elle est toute simple : [24 :00] si c’est ça qu’il voulait dire, alors qu’il
+en a parfaitement connaissance, pourquoi est-ce que dans ses textes sur la raison
+suffisante, il n’invoquerait jamais cette réduction ? Or le fait est qu’à propos de la raison
+suffisante, il n’invoque jamais une réduction quelconque de l’événement à un attribut,
+jamais. En d’autres termes, ce qu’il considère comme prédicat, ce n’est pas l’attribut par
+l’intermédiaire de la copule être ; ce qu’il considère comme prédicat, c’est l’ensemble du
+verbe – écrire, naître, mourir – sans jamais le réduire à verbe être plus attribut. Alors
+qu’encore une fois cette réduction, il l’envisage dans ses textes de philologie, mais quand
+
+                                                                                               5
+
+il s’agit de la raison suffisante – tout ça, on aura à en rendre compte. [25 :00] Parce que,
+pour ceux qui savent un peu ce qui s’est passé par la suite, toutes les critiques qu’on a
+adressées à Leibniz, avec les deux grands moments d’une critique du Leib… du
+Leibnizianisme [Deleuze cherche le mot] -- le premier grand moment avec Kant,
+deuxième grand moment avec [Bertrand] Russell, à la base de la logique moderne – [ça]
+consiste à reprocher à Leibniz d’avoir réduit ou d’avoir voulu réduire les relations et les
+événements à de simples attributs. Nous avons toute raison de penser que cette critique
+est très injuste parce que, encore une fois, il n’y a aucun texte de Leibniz allant dans ce
+sens.
+
+Alors, tout ce que nous pouvons tirer pour le moment, c’est ceci : c’est [que] [26 :00]
+[Deleuze parle très lentement] une fois dit que quelque chose arrive à un sujet, ce qui
+arrive à un sujet doit être compris, inclus dans la notion de ce sujet ; en d’autres termes,
+l’inflexion, l’événement, est un prédicat de la notion, mais prédicat ne veut pas dire
+attribut. Ce prédicat, c’est le verbe, et en effet, le verbe, c’est le signe de l’inflexion,
+j’écris, j’ai froid, etc…. Oui ? Qui m’appelle ?
+
+Un étudiant : [Question quant aux commentateurs de Leibniz, comment ils pourraient
+répéter ces propositions à propos de Leibniz]
+
+Deleuze : Oui, oui, parce qu’ils ont une mauvaise intention dans la tête. [Rires] C’est ça
+les travaux, on a les textes de Leibniz. Comprenez où est le problème : on a des textes de
+Leibniz où, en effet, il envisage cette fameuse réduction du jugement au jugement
+d’identité. Il n’est pas contre ; il est… Logiquement, on verra, on verra ce que signifient
+ces textes. Mais justement, jamais il n’invoque ça, jamais, au niveau de la raison
+suffisante. Alors, il ne faut pas exagérer quand même. Jamais il ne nous dit, quand il parle
+de la raison suffisante, il nous dit, j’écris, j’écris. Il faut bien que ma notion [28 :00]
+contienne, enveloppe la raison de "j’écris", c’est-à-dire de cet acte. Mais il ne réduit
+jamais cet acte "j’écris" à "je suis écrivant", c’est-à-dire la copule plus attribut.
+
+Tout ce qu’on peut tirer de la raison suffisante, c’est : tout ce qui arrive suppose une
+inclusion dans la notion. Tout ce qui arrive à quelque chose a pour raison suffisante
+l’inclusion dans la notion, l’enveloppement dans la notion. Là, vous comprenez ? Je n’ai
+pas besoin, il me semble, d’y insister énormément puisque ça a été tout l’objet de toute
+notre première partie, encore une fois, [29 :00] de l’inflexion à l’inclusion. La raison
+suffisante est l’inclusion comme raison de l’inflexion. Tout ce qui arrive est un prédicat
+contenu dans la notion de la chose à quoi, à qui ça arrive.
+
+Vous voyez tout de suite ce que c’est que la notion. Vous vous rappelez la chose à qui ça
+arrive, la notion de la chose à qui quelque chose arrive, c’est ce qu’il appelait la monade.
+Bon. D’où la raison suffisante c’est : tout prédicat est dans le sujet où -- maintenant,
+quand on dira tout prédicat est dans le sujet, vous-mêmes, vous corrigerez, [30 :00] en
+toute rigueur, c’est tout prédicat est dans la notion du sujet -- tout prédicat est dans la
+notion du sujet, ou si vous préférez, la vérité n’a qu’un modèle : la vérité, c’est
+l’inclusion. La vérité, c’est l’inclusion, c’est l’inhérence. [Pause]
+
+                                                                                             6
+
+Voilà, ça va ? Je peux continuer ? On n’a pas de difficultés parce qu’il faut que ce soit
+très clair, eh ? Tout ce que je suggère, c’est qu’il nous précipite vers une logique de
+l’événement et pas vers une logique de l’attribut. C’est une logique de l’événement.
+[31 :00] C’est si peu une logique de l’attribut que c’est les autres qui font une logique de
+l’attribut. A la rigueur, je peux dire, et on verra, et on verra… C’est très curieux, toute
+cette histoire. Enfin, moi, elle m’intéresse beaucoup parce que… Une logique de
+l’attribut, c’est vrai qu’elle sort d’Aristote. Je ne dis pas qu’Aristote se contente d’une
+logique de l’attribut, mais c’est vrai qu’elle vient d’Aristote, une logique de l’attribut.
+Mais, vous savez, la logique est un domaine si complexe. Ça va si peu de soi, une logique
+de l’attribut que, par exemple, ce sera un très grand moment dans l’histoire de la logique
+lorsque, dans leurs réactions contre Aristote – et c’est eux, à ma connaissance, qui
+relancent tout – les Stoïciens inventent une logique de l’événement. [32 :00] Une logique
+de l’événement, à quelle base ? Non, ce qui arrive ne peut pas être réduit à un attribut.
+[Pause]
+
+Or, petite parenthèse, pour compléter tout ça -- ce n’est rien si cela se mélange beaucoup
+-- les Stoïciens sont les premiers philosophes à mettre en question la copule être et à nier
+que le modèle du jugement soit le modèle attributif, c’est-à-dire sujet-copule-attribut. Ils
+vont y substituer une logique la plus étrange, la plus insolite qui soit, qu’ils vont présenter
+eux-mêmes comme une logique de l’événement. [33 :00] Bon, je dis juste, parce que ce
+sera confirmé – je ne pourrais le confirmer que plus tard – que Leibniz retombe
+pleinement sur les problèmes stoïciens. En quel sens ? Le Stoïcisme, précisément en
+fonction de la logique de l’événement qu’il était en train de fonder, le Stoïcisme devait se
+heurter à un problème passionnant, et vous allez voir dès lors comme les principes et la
+liberté forment un problème où tout est noué, lié. Ils devaient tomber fatalement devant
+un problème concernant ce qu’on appelait les événements futurs. Quel est le sens d’une
+proposition du type [34 :00] "une bataille navale aura lieu demain" ? C’est le célèbre
+problème qui, avec les Stoïciens, recevra le nom des futurs contingents. En d’autres
+termes, une proposition comme "une bataille navale aura lieu demain", est-elle vrai ou
+fausse, ou bien ni vrai, ni fausse ? Voyez, que la liberté, le problème, c’est une manière
+de poser le problème de la liberté. Or, Leibniz retrouvera, et ce sera sans doute le premier
+à retrouver intégralement ce problème des futurs contingents, à quel point, c’est une
+logique de l’événement, et pas une logique de l’attribut. [35 :00]
+
+Et la grande critique que font les Stoïciens d’Aristote, c’est d’avoir complètement
+méconnu le statut, le mode d’existence de l’événement. L’événement est irréductiblement
+un attribut de la chose. L’événement est inséparable du verbe en tant que tel. Aussi, ça
+implique alors toute une grammaire, toute une… S’il est inséparable du verbe en tant que
+tel, je ne peux pas traduire "je cours" par "je suis courant”, je ne peux pas traduire
+"j’écris" par "je suis écrivant". Vous comprenez bien qu’il y a là une manière de réduire
+l’événement à ce qu’il n’est pas, c’est-à-dire à une simple qualité. Bien. [36 :00]
+
+C’est compris ? Où j’en suis pour le moment, uniquement à ça : la raison suffisante est
+l’inclusion dans la notion, et surtout ne croyez pas que l’inclusion dans la notion implique
+la réduction du jugement au jugement d’attribution. Il n’y a aucune raison de le penser.
+Un point, c’est tout. Je n’en suis pas plus loin. En vertu de quoi je vous dis, est-ce que ça
+
+                                                                                                  7
+
+va ? [Rires] Oui ? Ça va ? Je voudrais que ce soit très clair, eh ? C’est un peu abstrait.
+Bon, alors, continuons, continuons. [Pause]
+
+La vérité d’une proposition, c’est l’inclusion du prédicat dans la notion. [37 :00] Et voilà,
+Leibniz nous dit – là, je vous demande… C’est presque... Aujourd’hui, notre séance, c’est
+presque pour numéroter les textes et … -- Voilà que Leibniz nous dit : seulement,
+seulement, il y a deux sortes d’inclusion, il y a deux sortes d’inclusion du prédicat dans la
+notion, et ces deux sortes correspondent à deux types de proposition. [Pause]
+
+Première sorte – là, c’est des questions de terminologie, donc il faut bien les fixer, mais
+vous allez voir [Deleuze rit] ce n’est pas, ce n’est pas tellement possible – il nous dit :
+dans le premier cas, l’inclusion [38 :00] est expresse. [Pause] En latin, quand dans les
+textes latins, il emploie l’adverbe expresse. L’inclusion est expresse. Les propositions
+correspondantes ou les vérités correspondantes sont des vérités d’essence. Ce sont des
+vérités d’essence, une essence. Elles ont pour caractère ceci : que le contraire implique
+contradiction. [39 :00] Exemple : 2 plus 2 font 4, ou plutôt il ne dit pas ça ; il dit : 2 et 2
+sont 4, 2 et 2 sont 4. Bon. [Pause]
+
+Deuxième sorte d’inclusion : là, l’inclusion est, en latin, implicite, [40 :00] implicite. Elle
+est implicite. En français, dans les textes français, virtuelle, et cette fois, ça concerne ce
+qu’il appelle les vérités d’existence ou de fait, ou d’événement. Le fait est que… Vérité
+d’existence ou de fait ou d’événement. [Pause] Et le contraire n’implique pas
+contradiction. [41 :00] Exemple : César passe le Rubicon. J’écris. Adam a péché. Voyez,
+tout ça, c’est des événements. [Pause] Bien.
+
+A partir de là, ça paraît relativement simple. Cette distinction des vérités d’essence et des
+vérités d’existence, des deux types d’inclusion, on va se trouver à nouveau devant un nid
+de difficultés, si on regarde les textes, si vous attachez de l’importance à la lettre des
+textes. [42 :00] Difficultés, pourquoi ? C’est très curieux l’expression qui apparaît dans le
+français, virtuel, car si l’inclusion est virtuelle dans les jugements d’existence, c’est-àdire si passer le Rubicon est un prédicat, qui n’est que virtuellement contenu, inclus dans
+la notion de César, il faut croire, en revanche, que dans les vérités d’essence l’inclusion
+est actuelle. Comment ça se fait[-il] que Leibniz ne le dit jamais ? A première vue, s’il
+s’agissait de développer une opposition entre vérités d’essence et vérités d’existence,
+[43 :00] eh ben, l’opposition actuel-virtuel, puisque l’inclusion est dite virtuelle dans les
+vérités d’existence, on s’attendrait à ce qu’il y ait une opposition actuel-virtuel. Or non, il
+ne nous le dit pas du tout. Bon, l’opposition est exactement entre expresse et implicite.
+Implicite, c’est virtuel ; expresse, c’est explicite. Bon.
+
+Il y a déjà là un petit quelque chose qui nous trouble : virtuel, virtuel, qu’est-ce que c’est
+ça, ce mot "virtuel" ? Dans Leibniz, il n’éprouve pas le besoin de l’opposer à actuel. Je
+vais vous dire pourquoi il ne peut pas l’opposer à actuel – alors pourquoi [44 :00] est-ce
+qu’il emploie virtuel, ça serait une autre question. Il ne peut pas l’opposer à actuel parce
+que, pour une raison simple, c’est que chez Leibniz, tout est actuel, et tout est en acte. A
+quelque niveau que ce soit, dans les essences, dans l’existence, tout est en acte. Mais
+alors, pourquoi, pourquoi alors du virtuel ? Il dit bien "virtuel", mais il faut croire qu’il
+
+                                                                                             8
+
+comprend virtuel en un sens très particulier. A nous de le trouver. En tout cas, ça ne
+voudra pas dire en opposition à actuel. Donc, s’il n’oppose pas actuel et virtuel, c’est
+pour une raison simple. C’est que quand il emploie le mot virtuel, il ne l’oppose pas à
+actuel parce que tout est en acte, même le virtuel. Alors cela nous soulage, mais cela
+n’explique pas grand-chose. Continuons.
+
+On pourrait dire pour mieux comprendre, et ça a été dit mille fois, [45 :00] pour mieux
+comprendre la distinction des deux types d’opposition, celle à inclusion expresse, ou celle
+à exclusion, virtuelle, implicite, on pourrait dire, bon, ce n’est pas difficile. Dans un cas,
+l’inclusion peut être dégagée à l’issue d’un nombre d’opérations fini, et dans l’autre cas,
+l’inclusion ne peut être dégagée qu’à l’issue d’un nombre infini d’opérations. [Pause] Ce
+qui reviendrait à dire, dans le cas des vérités d’essence, l’analyse qui montre l’inclusion
+[46 :00] du prédicat dans le sujet – c’est une analyse qui montre cette inclusion,
+évidemment – eh bien, dans le cas des vérités d’essence, l’analyse qui montre l’inclusion
+du prédicat dans le sujet est finie, et dans le cas des vérités d’existence, il faut une
+analyse infinie pour montrer l’inclusion du prédicat, passer le Rubicon, dans le sujet
+César, la notion de César. [Pause] Eh ben, oui, pourquoi pas ? Allons, ça ne va pas. On
+ne peut pas dire ça. … [Interruption de l’enregistrement] [46 :33]
+
+Partie 2
+
+… Accordez-moi, même si on ne comprend pas du tout encore ce que ça veut dire,
+qu’elles (les vérités d’essence) sont très proches de Dieu. Pourquoi ? Elles font
+évidemment partie de l’entendement de Dieu. [47 :00] D’une certaine manière très floue,
+je pourrais dire qu’elles appartiennent à Dieu, beaucoup plus prochainement, que les
+vérités d’existence. Sans doute, toute vérité appartient à Dieu, mais les vérités d’essence,
+elles appartiennent à Dieu beaucoup plus immédiatement. Elles sont beaucoup plus
+proches de Dieu. Elles font partie de son entendement, tandis que les vérités d’existence,
+vous sentez déjà comment il va distribuer les choses. Les vérités d’existence, sans doute
+elles font partie de l’entendement, mais d’une autre partie de l’entendement de Dieu, et
+surtout elles mettent en jeu sa volonté, tandis que les vérités d’essence, elles ne mettent
+pas en jeu la volonté de Dieu. Elles font partie du plus profond de son entendement. Or
+Dieu, c’est l’être infini par excellence. [48 :00] Peu importe, on lui accorde tout ça.
+
+Dès lors, comment voulez-vous que les vérités d’essence se définissent par le nombre fini
+des opérations que leur inclusion implique, que le dégagement de leur inclusion
+implique ? Ce n’est pas possible. Je ne peux pas dire, les propositions d’essence sont
+celles où le prédicat est inclus dans le sujet par et à l’issue d’un nombre fini d’opérations.
+Je ne peux pas. Il y a quelque chose qui ne va pas. Il y a quelque chose qui serait très
+profondément choquant puisque les vérités d’essence sont dans l’entendement de Dieu
+qui est la créature infinie par excellence, et puisque, bien plus, l’infini est une… Le fini
+pour Leibniz est une imperfection. [49 :00] Le fini est une imperfection. Comment
+voulez-vous que les vérités d’essence qui sont des vérités supérieures, du type 2 et 2 font
+4, se définissent par leur finitude ? Ce ne serait pas sérieux. Ce ne serait pas raisonnable
+du tout, ça. En d’autres termes, je ne peux pas définir les vérités d’essence par le nombre
+fini des opérations que solliciterait leur inclusion.
+
+                                                                                               9
+
+D’autre part, est-ce que je peux définir les vérités d’existence par le virtuel, au sens
+courant du mot "virtuel", c’est-à-dire par l’indéfini ? Ça reviendrait à dire [50 :00] que
+l’inclusion du prédicat dans le sujet dans les vérités d’existence irait à l’infini. Il y aurait
+toujours un intermédiaire. De plus, c’est quand j’arriverais à l’intermédiaire, il y aurait un
+autre intermédiaire. Pour relier "Passer le Rubicon" au concept de César, il y aurait une
+série indéfinie. Non, encore une fois, je ne peux pas le dire. Je ne peux pas le dire
+puisque, pour Leibniz, il n’y a que de l’infini, et pas de l’indéfini. Et en plus, il faut
+attendre Kant pour donner à l’indéfini un statut, et il le fera contre Leibniz. Donc,
+impossible de dire ça, impossible. [51 :00] Et pourquoi [est-ce] impossible de dire ça ?
+Parce que si je disais c’est indéfini, je voudrais dire que c’est indéfini pour moi, mais
+Dieu, lui, voit. Je dirais [que] Dieu, lui, voit très bien. L’inclusion de "passer le Rubicon”
+dans César, moi, je ne le vois pas parce que c’est indéfini pour moi. Mais Dieu voit, lui,
+et c’est là que Leibniz est très rigoureux. On ne peut pas dire ça.
+
+Dans un texte très beau qui s’appelle De la liberté, Leibniz nous dit, ben non, "Dieu pas
+plus que nous ne voit [52 :00] la fin de l’opération ou la résolution". Pourquoi ? Parce
+que par définition, il n’y a pas de fin. L’inclusion de passer le Rubicon dans César ou
+dans le concept de César va à l’infini, mais il en est ainsi pour Dieu comme pour
+l’homme. Le texte-là est très important parce que, en effet, c’est une… Leibniz là a
+l’avantage de dénoncer un contresens qu’on risquerait toujours de faire. La résolution,
+c’est-à-dire la résolution du prédicat dans le sujet, [53 :00] dans le concept du sujet, la
+résolution de passer le Rubicon dans César, la résolution procède à l’infini dans le cas des
+vérités d’existence. La résolution procède à l’infini, c’est-à-dire que Dieu seul voit. Dieu
+seul voit. Il [Leibniz] ajoute : "non pas certes la fin de la résolution." Voyez, si la
+résolution était indéfinie, je pourrais dire [que] Dieu, lui, voit la fin. Mais non. La
+résolution va à l’infini ; elle procède à l’infini. Dès lors, Dieu seul voit, non pas certes la
+fin de la résolution, fin qui n’a pas lieu. [54 :00] Si la résolution va à l’infini, elle n’a pas
+de fin. Donc pas plus Dieu que nous ne peut voir la fin ; simplement, je peux dire que
+Dieu est comme un poisson dans l’eau dans l’infini, tandis que nous, on est tout perdu
+dans l’infini. C’est la seule différence. Mais il ne voit pas plus la fin. Par définition,
+l’infini, c’est ce qui n’a pas de fin. Donc, Dieu seul voit, non certes la fin de la résolution,
+fin qui n’a pas lieu, "mais cependant il voit la connexion des termes", passer le Rubicon
+et César, "il voit la connexion des termes comme l’enveloppement du prédicat dans le
+sujet," [Pause] comme l’enveloppement du prédicat dans le sujet. [Voir à ce propos Le
+Pli, p. 56, note 4]
+
+Bon, [55 :00] ça nous donne une petite indication, une petite lueur. On a vu toutes les
+manières déjà dont on ne pouvait pas comprendre tout ça. Voyez, ça commence à
+s’accumuler, les manières. On ne peut pas comprendre Leibniz comme s’il réduisait
+l’événement à l’attribut. On ne peut pas comprendre la distinction des deux inclusions
+comme si la première était finie – c’est faux – et comme si la seconde était indéfinie –
+c’est faux. Mais, d’après ce texte que je viens de lire, qu’est-ce qu’il faudrait dire ?
+L’inclusion, c’est un enveloppement. 2 et 2 enveloppent 4. Voilà les deux types
+d’inclusion. 2 et 2 enveloppent 4, [56 :00] César, le concept de César enveloppe le
+passage du Rubicon, enveloppe passer le Rubicon. [Pause] Je dirais que dans le premier
+
+                                                                                             10
+
+cas, des vérités d’essence, l’inclusion ou l’enveloppement est, ça a l’air de ne rien nous
+rien apporter, alors on peut y aller. Je peux dire, dans le cas des vérités d’essence,
+l’inclusion se laisse déplier. L’inclusion est dépliable, développable. Dans le cas des
+vérités d’existence, il y a bien inclusion, mais elle ne se laisse pas déplier. [57 :00] Elle
+reste enveloppée. Elle est indépliable. "Dieu voit non certes la fin de la résolution", mais
+il voit l’enveloppement. Il ne nous dit pas qu’il développe, tandis qu’au niveau des vérités
+d’essence, l’enveloppement se laisse développer. Il y a des vérités développables et des
+vérités qui restent enveloppées. [Pause]
+
+Bien, c’est juste un petit… Qu’est-ce qu’on va pouvoir tirer d’une indication aussi mince
+et puis aussi métaphorique, développer, envelopper, tout ça ? Qu’est-ce que c’est des
+inclusions qui se laissent développer, déplier, et des inclusions qui ne se laissent pas
+déplier ? Vous sentez peut-être que cela nous oriente vers la nécessité de faire une
+logique [58 :00] de l’inclusion de telle manière que l’on soit amené à distinguer des types
+d’inclusion. Et voilà que tout rebondit. Dès lors, il va falloir se pencher de nouveau sur la
+distinction des deux types de vérité. Et voilà que dans le texte De la liberté auquel je
+faisais allusion tout à l’heure, il nous arrive à peine à… On croyait que les choses vont un
+tout petit peu s’éclaircir. Il arrive quelque chose qui est pour nous terrible, c’est terrible
+ça. [Deleuze cherche dans le texte en parlant]
+
+Dans De la liberté, il recommence son histoire ; il y a deux sortes de vérité, des vérités
+d’essence et des vérités d’existence, c’est-à-dire il y a deux sortes d’inclusion. [59 :00]
+Bon, d’accord, et là il nous dit, en gros, oui, il y a les inclusions dépliables et les
+inclusions indépliables. Oui. Et puis, il nous dit, on va regarder un peu le premier cas, les
+vérités d’essence avec les inclusions dépliables. Il nous dit, il faudrait même là-dedans, il
+faudrait distinguer des cas très différents. On dit, tant mieux ; plus il y aura de
+distinctions, mieux c’est. Puis, il continue : il dit, il y a deux cas, il y a au moins deux cas
+dans les vérités d’essence. Vous voyez, ce n’est plus les deux cas, vérités d’essence et
+vérités d’existence, mais c’est deux cas dans les vérités d’essence. Il nous dit, il y a un
+cas [60 :00] où l’inclusion est explicite, et un cas où l’inclusion est seulement implicite et
+virtuelle. [Pause] Je lis très vite parce que … Je lis vite d’abord parce que c’est un
+premier point de repère. On va revenir au texte. Ecoutez-moi.
+
+"Démontrer" (il s’agit des vérités d’essence), "démontrer n’est pas autre chose que
+résoudre les termes d’une proposition et substituer aux termes définis sa définition." Peu
+importe, tout ça, vous vous laissez aller, vous ne vous demandez pas ce que ça veut dire.
+[61 :00] "On dégage donc la coïncidence du prédicat avec le sujet dans une proposition
+réciproque." Bon. "Mais dans les autres cas", mais dans les autres cas : comprenez bien, il
+ne s’agit pas des vérités d’existence ; il s’agit d’un autre cas des vérités d’essence. Le
+texte à cet égard ne laisse aucun problème puisque les vérités d’essence [logiquement,
+Deleuze veut dire vérités d’existence], elles seront traitées dans le paragraphe suivant.
+Tout ce paragraphe concerne explicitement les vérités d’essence. Il se met à distinguer
+deux cas.
+
+Premier cas, "démontrer n’est pas autre chose que résoudre les termes d’une proposition
+et substituer aux termes définis sa définition." On trouve ainsi "la coïncidence du prédicat
+
+                                                                                           11
+
+avec le sujet dans une proposition réciproque." Mais dans les autres cas, "c’est au moins
+extraire une inclusion, c’est au moins extraire une inclusion de telle sorte que ce qui était
+virtuel dans la proposition et contenu dans une certaine puissance se trouve rendu par la
+démonstration évident et exprimé." Il va donner un exemple ; par exemple, donc, pour
+ces cas d’inclusion dite virtuelle, "par exemple, si nous entendons par nombre ternaire ou
+sexaire ou duodénaire celui qui peut être divisé par 3, 6 ou 12" – un nombre ternaire,
+c’est par exemple 9 qui peut être divisé par 3 [63 :00], eh… un nombre sexaire, c’est un
+nombre comme 24, par exemple, qui est divisible par 6, etc. Eh bien, "si nous entendons
+par nombre sexaire ou ternaire ou duodénaire celui qui peut être divisé par 3, 6, ou 12, on
+peut démontrer cette proposition : tout nombre duodénaire" (divisible par 12) – on peut
+démontrer cette proposition – "tout nombre duodénaire" (divisible par 12) "est sexaire"
+(divisible par 6), et il va faire la démonstration à laquelle nous reviendrons tout à l’heure.
+Vous voyez, nous sommes en plein dans les vérités d’essence. Or, nous dit-il, c’est un cas
+spécial des vérités d’essence où l’inclusion est seulement virtuelle ou implicite. [64 :00]
+
+Alors, vous comprenez, c’est une grande joie quand on tombe sur un texte comme
+ça parce qu’il n’y a rien à faire. [Deleuze rit] Je me dis, bon, on avait cru comprendre. Si
+vous comparez – là, je ne voudrais pas qu’on en perdrait trop de temps, mais ceux qui
+veulent le faire se rapporteront aux Discours de métaphysique où, dans les Discours de
+métaphysique, tout est très ferme -- virtuel se dit pour les propositions d’existence, et
+explicite ou expresse pour les propositions d’essence, un point, c’est tout. Ça, c’est les
+Discours de métaphysique. Le traité De la liberté reprend la distinction des deux sortes
+de vérité, mais il faut croire que ça se complique puisqu’il distingue aussi fermement que
+[dans] les Discours de métaphysique [65 :00] les deux types de vérité. Seulement, il
+emploie le mot "implicite" ou "virtuel" pour un cas de vérités d’essence. Vous
+comprenez ? Ce qui me fait dire d’avance, il n’y a pas seulement deux types d’inclusion.
+Il faudra bien qu’on en trouve trois, trois types d’inclusion. [Pause] Trois types
+d’inclusion… Même peut-être plus. [66 :00] Bon. Même peut-être plus. Ce serait encore
+mieux s’il y en avait plus. Alors, on va en trouver quatre… Quatre, [Rires] Quatre types
+d’inclusion.
+
+Voilà. Est-ce que ça va ? C’est très abstrait, mais ça redeviendra concret. C’est
+aujourd’hui où j’ai besoin de beaucoup d’abstractions.
+
+Voyez ce qu’il veut dire ? Je précise, voilà pour les grandes distinctions, vérités
+d’essence, vérités d’existence. Je ne l’ai pas assez dite concrètement. Il dit, ben oui, dans
+le cas des vérités d’essence, le contraire est impossible, c’est-à-dire le contraire est
+contradictoire, contradictoire en soi. [67 :00] Que 2 et 2 ne fassent pas 4, c’est
+contradictoire. C’est impossible, tandis que dans le cas des vérités d’existence, non, que
+Adam n’ait pas péché, ce n’est pas contradictoire. Je peux très bien concevoir Adam ne
+péchant pas. Je ne peux pas concevoir un cercle carré ; je ne peux pas concevoir 2 et 2
+font 5. Je peux le dire, mais je ne mets rien là-dessous. Tandis que je peux très bien
+concevoir Adam ne péchant pas. Ça, il faut que vous l’ayez bien présent ; c’est une des
+bases de la distinction des deux sortes de vérité.
+
+                                                                                            12
+
+Bon alors, je reviens à ma nécessité. C’est juste… [68 :00] il y a juste un moment pénible
+là, aujourd’hui, là, ce matin. C’est le moment pénible que j’affronte très vite, que je
+vous… que je voudrais vous asséner très vite parce qu’il est indispensable. Au besoin,
+vous voyez ce que vous allez en garder.
+
+Je reviens aux vérités d’essence. Je dis, bon, il y a inclusion, mais inclusion de quoi dans
+quoi ? 2 et 2 sont 4, c’est quoi ? Qu’est-ce que c’est l’inclusion ? Eh ben, Leibniz nous dit
+une chose très simple, et Dieu, cela aura de l’importance pour la logique moderne. Il nous
+dit, démontrer, ça veut dire quoi ? Les vérités d’essence, c’est les vérités démontrables.
+Démontrer, c’est quoi ? Démontrer, c’est définir, c’est-à-dire c’est enchaîner des
+définitions. Et [69 :00] les mathématiques, c’est un enchaînement de définitions. Qu’estce que c’est qu’une définition ? Voilà, ça va être notre premier type d’inclusion ; on ne
+pensait pas tomber dessus si vite. Je dirais qu’une définition, c’est une inclusion
+réciproque ; c’est une inclusion réciproque. Il y a inclusion réciproque entre le défini et la
+définition. [Pause] Enchaîner les définitions, c’est démontrer. Qu’est-ce que ça veut
+dire ? Eh bien, c’est déplier une série d’inclusions ; [70 :00] [Pause] c’est déplier une
+série d’inclusions réciproques. Exemple – il aime bien les exemples scolaires, les
+exemples mathématiques scolaires – il dit, comment démontrer que 2 et 2 sont 4 ? [Voir]
+Nouveaux essais sur l’entendement humain, où l’on va voir livre IV, chapitre 7, où l’on
+va voir ce que c’est qu’une démonstration, c’est-à-dire un enchaînement de définitions. Il
+s’agit de démontrer que 2 et 2 sont 4, voilà.
+
+Première définition : [71 :00] 2 est 1 et 1 ; 2 est 1 et 1. Vous me direz, qu’est-ce que ça
+veut dire ? Il se moque de nous ; c’est la définition de 2, oui, 1 et 1. Cela a l’air de rien,
+ça, et si vous réfléchissez, pourquoi est-ce que, alors, pourquoi [est-ce que] je ne dis pas
+plutôt, eh, 2, c’est 6 divisé par 3 ? [Rires] Ça pourrait être la définition. Je peux même
+faire une axiomatique, où je définis 2 par, s’il est divisé par 3, à seule condition, c’est que
+je peux définir 6 et 3 sans tout ça, à ce moment-là, ça serait très… Je peux toujours… Je
+peux faire n’importe quoi. [72 :00] Mais non, ce n’est pas n’importe quelle définition.
+Lorsque je dis 2 est 1 et 1, pourquoi ? C’est une définition réelle, tandis que lorsque je
+définis 2 par le produit de la division de 6 par 3, ce n’est pas une définition réelle, c’est
+une définition nominale, de la forme j’appelle 2 ceci. Quelle est la différence entre une
+définition réelle et une définition nominale ? Tout ça, ce sont des choses qu’il faut savoir
+par cœur. Une définition nominale, c’est une définition qui permet de reconnaître son
+objet ; une définition réelle, c’est une définition qui montre la possibilité de son objet.
+Remarquez que dans le problème compliqué des rapports démonstration-définition,
+[73 :00] dans la plupart des cas, nous sommes amenés à démontrer qu’une définition est
+réelle. Il faut montrer qu’une définition montre la possibilité de son objet.
+
+Pourquoi est-ce que "2 est 1 et 1" est une définition réelle, et la seule définition réelle de
+2 ? Je vous en fais subir…. Eh ben, c’est tout simple ! C’est parce que vous la définissez
+par les nombres premiers que 2 enveloppe. Vous définissez 2 par facteurs premiers, 1 et
+1. [Pause] Eh ? Il n’y a pas d’autre définition de 2 par facteurs premiers, [74 :00] sauf par
+lui-même, on va le voir, par lui-même. Ça sera l’idée de Leibniz : pour obtenir des
+définitions réelles de nombres, il faut les décomposer en facteurs premiers ; il faut les
+décomposer en nombres premiers. Quand vous décomposez un nombre en nombres
+
+                                                                                             13
+
+premiers, vous avez la définition réelle du nombre. Donc, définition : 2 est 1 et 1. Voilà.
+Il faut bien que vous le notiez si vous voulez bien suivre parce que cet exemple si
+simple… [Deleuze ne continue pas la phrase]
+
+Deuxième définition : 3 est 2 et 1, [75 :00] là aussi, c’est une définition de 3. Pourquoi ?
+Parce que c’est la décomposition de 3 en facteurs premiers. Troisième définition : 4 est 3
+et 1, là aussi décomposition en facteurs premiers. Ce sont trois d définitions.
+
+Je dis démontrer, c’est enchaîner les définitions. En effet, nous démontrons que 2 et 2
+sont 4. Comment est-ce qu’on le démontre ? Première proposition : "2 et 2" est 2 est 1 et
+1, en vertu de la définition 1. – Oui, ça n’a pas de sens si vous ne le notez pas ; ou bien
+vous écoutez vaguement, [76 :00] ou bien vous notez. Vous avez noté les trois
+définitions ? Je n’ai pas besoin de les relire ? Première définition : 2 est 1 et 1 ; deuxième
+définition : 3 est 2 et 1 ; troisième définition : 4 est 3 et 1. -- Démonstration, première
+proposition : "2 et 2" est 2 est 1 et 1, en vertu de la définition 1. En effet, dans 2 et 2,
+vous gardez un 2 et l’autre 2, vous mettez le défini… [Deleuze se corrige] le définissant,
+c’est-à-dire 1 et 1. "2 et 2" est 2 et 1 et 1, en vertu de la définition 1. Deuxième
+proposition : "2 et 1 et 1" est [77 :00] 3 et 1, en vertu de la définition 2, [Pause] "2 et 1 et
+1" est 3 et 1, en vertu de la définition 2. Troisième proposition : "3 et 1" est 4, en vertu de
+la définition 3.
+
+Ça rime à quoi, ça ? Sentez qu’on est dans une atmosphère complètement moderne. Je
+veux dire que c’est vraiment la logique moderne. C’est la logique moderne, en effet. Il
+faudra au besoin des pages ; il faudra un recel [cache] des pages et des pages pour que…
+[78 :00] pour démontrer les choses du type 2 et 2 font 4. Et Leibniz est très important, je
+veux dire, à cet égard parce qu’il y a toutes sortes de polémiques avec les mathématiciens
+de l’époque. Leibniz tient énormément à ceci : la tentative de démontrer les actions
+valables. Alors, beaucoup de mathématiciens de l’époque disent "2 et 2 font 4", c’est une
+action valable. Non, pas du tout. Il veut sa chaîne de définitions, et il veut l’idée – alors
+l’idée absolument moderne si vous pensez à toute la logique actuelle – que la
+démonstration, c’est un enchaînement de définitions. On peut dire même que c’est
+comme l’acte de fondation de la logique moderne.
+
+Je dirais donc que à ce niveau, qu’est-ce que j’ai fait ? Bien, je vais de définition en
+définition. J’enchaîne les définitions, chaque définition étant une inclusion réciproque,
+[79 :00] inclusion réciproque du défini et de la définition. D’accord ? Bon. Enchaîner les
+inclusions réciproques, c’est ça, démontrer. Mais jusqu’à quel point [est-ce que] je les
+enchaîne ? Ça se complique, ça. Pourquoi ? Parce qu’il faudra bien que j’arrive à des
+termes premiers. Il faudra bien que j’arrive à des termes premiers. [Pour tout ce
+développement, voir Le Pli, pp. 57-58]
+
+Qu’est-ce que c’est que les termes premiers, les termes ultimes ? Et pourquoi [est-ce qu’]
+il faudra bien… ? Des termes ultimes, ben, ce sont des termes qui ne sont plus
+définissables, des termes qui ne sont plus définissables. [80 :00] Qu’est-ce qu’un terme
+qui n’est plus définissable ? C’est un terme qui n’est rien d’autres qu’identique à soimême. Je ne peux pas le définir. Pourquoi est-ce que je ne peux pas le définir ? Parce
+
+                                                                                           14
+
+qu’il n’inclut que soi. Un terme qui n’inclut que soi ne peut pas être l’objet d’une
+inclusion réciproque. Un terme, qui n’inclut que soi, je dirais qu’il renvoie à une autoinclusion. Il n’inclut rien d’autre que soi. A est A, c’est un Identique. Un Identique est
+une auto-inclusion, [81 :00] et vous devez définir et vous devez distinguer les définitions
+qui sont des inclusions réciproques et les Identiques qui sont des inclusions, des autoinclusions, dès lors, indéfinissables. Un Identique est indéfinissable. D’où le thème chez
+Leibniz, dans les vérités d’essence, tout procède par définitions et Identiques. [Pause]
+Voyez, ce qu’il veut dire ? Ben oui, tout n’est pas définissable. Il y aura bien des premiers
+termes. Un terme indéfinissable est un terme qui n’inclut que soi-même. Exemple :
+[82 :00] voyons si on peut donner des exemples. Eh ben, un terme qui n’inclut que soimême, c’est ça qu’on va appeler un Identique. Peut-être 1 est dans ce cas. [Pause] Peutêtre que 1, c’est un Identique. [Pause] Bon, pourquoi ? Je continue à rêver qu’un
+Identique n’inclut que soi, auto-inclusion. [Pause]
+
+Dès qu’il est très, très jeune, Leibniz y conçoit ce qu’il appelle la Combinatoire, [83 :00]
+et la Combinatoire, c’est quoi ? C’est non pas définir, mais déterminer les Identiques. Je
+précise, on verra ce que ça veut dire ; je précise : dans un domaine considéré, par
+exemple, les Identiques en géométrie, en d’autres termes, les auto-inclusions, les notions
+indéfinissables, il en fait la liste.
+
+Supposons, point, [Deleuze va au tableau et dessine] voyez, le point, supposons que ce
+soit un indéfinissable, une auto-inclusion. Ligne, ligne, ce ne serait pas une auto-inclusion
+si je peux définir la ligne comme [84 :00] ou par -- je dis n’importe quoi -- une
+succession de points. Encore que, succession alors, c’est qu’il y a un indéfinissable à
+moins que je puisse le définir, une succession. Mais à ce moment-là, je pourrais définir
+succession à condition de dégager d’autres indéfinissables, d’autres Identiques. Je peux
+considérer que dans un domaine considéré -- je dis bien, l’expression que j’emploie dans
+un domaine considéré reste absolument vide de sens pour le moment, je l’emploie
+nominalement pour essayer de débrouiller un peu -- je dirais, ben, il y a des
+indéfinissables géométriques. Je les appelle notions de première classe. [Pause] Mettons,
+je dis au hasard : point, contigüité, distance – peut-être que c’est des notions, [85 :00] peu
+importe les notions que je donne – unité. Peut-être c’est des notions indéfinissables,
+supposons. Voyez, j’ai ma liste. On a les papier de jeunesse de Leibniz où il fait sa
+Combinatoire, et le seul exemple qu’on ait de Combinatoire développée, c’est
+précisément à propos de la géométrie où, je ne sais plus, je ne me souviens plus très bien,
+il y a 25 ou 30 notions indéfinissables comme point de départ. C’est les notions de classe
+1.
+
+Notions de classe 2 : quantité, par exemple. Est-ce que quantité, c’est un indéfinissable
+ou pas ? Tout ça… Encore une fois, ça ne change rien parce que vous avez le choix. Vous
+pouvez toujours dire, ah moi, ben non, dans mon axiomatique, dans ma Combinatoire, je
+vais définir la quantité, c’est possible. A ce moment-là, [86 :00] vous le ferez avec des
+notions qui elles-mêmes ne sont pas définissables à l’infini. Il faudra bien que vous
+arrêtiez parce que vous n’arrivez qu’à des notions qui n’incluent qu’elles-mêmes, par
+exemple, pour les nombres, 1. 1 n’inclut que soi. 1, je dirais, c’est l’Identique du nombre,
+c’est l’auto-inclusion. Mais à partir du 1, après le 1 viennent les inclusions réciproques.
+
+                                                                                             15
+
+Par exemple, 2 est 1 plus 1, 2 est 1 et 1, ça c’est une inclusion réciproque. Et en effet, les
+notions de la classe 2 dans la Combinatoire, elles seront obtenues en combinant deux
+notions de la classe 1. [87 :00] Là, il y aura des inclusions réciproques dès la classe 2.
+
+Les notions de la classe 3, elles seront obtenues – là, si vous avez compris, ça va être
+lumineux pour vous ; vous allez voir à quel point ça va faire une jolie Combinatoire – les
+notions de la classe 3 vont être obtenues ou bien en combinant trois notions de la classe 1
+ou bien en combinant une notion de la classe 1 et une notion de la classe 2. [Pause] Bon,
+voilà tout ça.
+
+Revenons aux Indéfinissables. Si on revient aux Indéfinissables, qu’est-ce que c’est que
+ces Indéfinissables à auto-inclusion ? [88 :00] Leibniz leur donne un nom. Comme on
+aura besoin de ce nom, ce sont les "notions primitives simples", ce sont les "notions
+primitives simples", c’est-à-dire ce sont les premiers concepts, les fondements de toute
+chose, ou les racines de toute chose, ou la source de toute chose, dit-il. [Pause] Je dis ça
+parce que, comprenez, là aussi, si vous comprenez ça, vous comprendrez un peu de tout.
+On n’en est plus… on n’en est plus du tout… vous comprenez….
+
+Dans la philosophie, quand ce n’est pas celle [89 :00] des grands philosophes, on ne nous
+parle pas du principe d’identité. Mais ce n’est pas ça, le principe d’identité. A est A, on
+nous dit A est A, mais voyez bien, il ne faut pas dire le principe d’identité ; il faut dire les
+Identiques. Le principe d’identité, il est immédiatement pluriel, en tout cas, chez Leibniz
+puisque l’identité, c’est le caractère de l’auto-inclusion, et que qu’est-ce que c’est que
+l’auto-inclusion ? C’est le caractère d’un terme qui n’inclut que lui-même. Il y a aura
+donc autant d’Identiques qu’il y a de termes à auto-inclusion. Il ne faut pas dire le
+principe d’identité ; il faut dire les Identiques. Les Identiques, ils sont les notions de la
+classe 1, c’est-à-dire les "notions primitives simples". [90 :00]
+
+Vous me direz, s’il n’y avait pas d’Identiques ? Ah ha, hee hee, oui, [Rires], s’il n’y avait
+pas d’Identiques. Eh bien, il y en a, et pourquoi [est-ce qu’] il y en a ? Je vais vous le
+dire, je vais vous dire, mais il faut attendre un peu parce que continuons à rêver un peu
+sur les Identiques. Quand on ne sait pas, c’est très curieux, ces trucs-là, les Identiques,
+source de toute chose, encore une fois au fond de l’entendement de Dieu. Au fond de
+l’entendement de Dieu, il n’y a pas le principe d’identité. Sinon, on ne comprendrait rien
+à la belle formule de Leibniz, Dieu calcule le monde… Le monde, qu’est-ce qu’il y a de
+plus ? Le monde, mondus en latin, il nous dit, mondus fit, c’est-à-dire le monde arrive, le
+monde fait l’événement. Il ne nous dit pas que le monde est un attribut de Dieu. [91 :00]
+Ça serait Spinoza, et justement, il ne veut pas être Spinoza ; il veut que le monde soit un
+événement.
+
+Alors bon, revenons, les Identiques, les Identiques, au fond de l’entendement de Dieu. Au
+fond de l’entendement de Dieu grondent les Identiques à auto-inclusion. Ah, qu’est-ce
+que c’est ? Mais quel rapport y a-t-il entre deux Identiques ? Justement, aucun, aucun.
+Pourquoi ? Parce que les rapports y commencent lorsque deux Identiques sont combinés.
+En d’autres termes, les rapports commencent avec l’inclusion réciproque, [92 :00] avec
+les définitions. Mais les Identiques, comme chacun n’inclut que soi-même, un Identique
+
+                                                                                            16
+
+n’a aucun rapport avec un autre Identique, ce que Leibniz exprime en disant dans un
+certain nombre de textes très, très précieux, parce qu’il fallait un mot, ils sont disparates,
+et absolument disparates. En d’autres termes, l’un d’eux ne contient rien qu’un autre
+contienne. C’est même la définition de l’Indéfinissable. Si l’un d’eux contenait quelque
+chose qu’un autre contient, il pourrait être défini. Mais précisément parce que chacun ne
+contient que soi-même, ils ne peuvent même pas se contredire. Ils sont absolument
+[93 :00] disparates. Ils ne peuvent être ni contraires, ni contradictoires. Ils ne peuvent pas
+s’exclure ; chacun n’inclut que soi-même. [Interruption de l’enregistrement] [1 :33 :10]
+
+Partie 3
+
+… La notion individuelle, c’est le mot, c’est le mot leibnizien. Mais à l’autre bout de la
+chaîne, il y a les notions primitives simples. Et vous vous rappelez les notions
+individuelles sont sans portes ni fenêtres, c’est-à-dire qu’elles sont incluantes. Rien ne
+leur arrive du dehors. A César, il arrive du dehors des choses, mais à la notion de César,
+rien n’arrive du dehors puisque tout est prédicable à la notion.
+
+Eh ben oui, voyez, comme ça se fait. Les notions primitives simples, elles n’ont [94 :00]
+aucun rapport les uns avec les autres parce que chacune n’inclut que soi-même et ne
+contient que soi. Donc elles sont fermées les unes aux autres. Les notions individuelles à
+l’autre bout incluent le monde entier ; chacune inclut le monde. Elles incluent tout le
+monde, le monde entier, mais précisément parce que le monde entier n’existe que dans
+chacune. Elles aussi sont sans rapports les une avec les autres. Elles n’ont ni portes ni
+fenêtres, je veux dire, pour deux raisons opposées aux deux bouts de la chaîne. Les
+notions primitives et les notions individuelles se font écho exactement comme, [95 :00]
+depuis le début, je vous suggérais cet écho arithmétique, infini sur 1 et 1 sur infini.
+
+Bon, mais, continuons. Ce sont les disparates. Dès lors, les Identiques ou les notions
+simples, les notions absolument simples, les Identiques, ben, ne peuvent pas être
+incompatibles les uns avec les autres. Etant absolument disparates, ils sont forcément
+compatibles. Pourquoi ? Ils ne pourraient être contradictoires, ils ne pourraient être
+contraires ou contradictoires que si l’on pouvait réduire l’un des deux à une notion qu’on
+affirmerait de l’un et que l’on exclurait de l’autre. Donc pour être contradictoire, il
+faudrait que ce ne soit pas une notion primitive. [96 :00] N’incluant que soi-même, les
+disparates sont forcément compatibles. N’ayant rien à voir les uns avec les autres, ils sont
+forcément compatibles.
+
+Voyez donc, de la défi[nition]… Mais, alors dernier point, tout à fait essentiel : Pourquoi
+aller jusqu’aux Indéfinissables ? Là aussi, c’est une longue tradition philosophique :
+Pourquoi aller jusqu’à des Indéfinissables ? Eh bien, [Pause] ces Indéfinissables, ils
+avaient un nom jusque-là en philosophie. C’était des "prédicats ultimes", les prédicats audelà desquels on ne peut pas remonter, [97 :00] et c’est ce qu’en philosophie depuis
+Aristote on appelait les catégories. En effet, chez Aristote, une catégorie, c’est quoi ? Les
+catégories, ce sont des termes sans liens, des termes sans liens, c’est-à-dire des
+disparates. On pourra dire d’eux que ce sont des termes tels que tout ce qui est, est l’un
+ou l’autre ; tout ce qui est, est l’un ou l’autre, de ces termes premiers. Tout ce qui est, si
+
+                                                                                            17
+
+vous voulez, se range sous l’une ou l’autre des rubriques catégories, catégoriales. Ou bien
+on pourra dire – et ça, ce sera bien la définition que donnera bien plus tard Kant –
+[98 :00] ce sont les prédicats de tout objet ; ce sont les prédicats de l’objet quelconque.
+Etre vert, c’est un prédicat. Quand je dis l’arbre est vert, c’est un prédicat.
+
+Mais, mais, mais, mais, tout objet n’est pas vert, tandis que quand je dis substance,
+causalité, qualité, quantité – tout objet est substance, c’est-à-dire étant quelque chose de
+permanent qui subit des variations. Tout objet est substance. Tout objet a des qualités ;
+tout objet a une quantité ; tout objet a un lieu ; [99 :00] tout objet est dans un temps, etc.
+Les prédicats de l’objet quelconque, par opposition aux prédicats de l’objet déterminé, les
+prédicats de l’objet quelconque sont des catégories. Ce sont des termes sans liens les uns
+avec les autres. Ce sont de pures disparates. Aristote donnait la liste des catégories, dans
+le traité précisément Des catégories. Ça commençait par substance, quantité, qualité, etc.
+Il n’y en avait pas beaucoup. C’était des Indéfinissables. Bien. [Pause]
+
+Alors, est-ce que c’est la même chose ? Est-ce que c’est les catégories que Leibniz
+appelle [100 :00] les primitifs simples, les notions primitives simples ? Ça y ressemble.
+Et pourtant, quelque chose s’est passé qui déplace tout. Pourquoi est-ce qu’il en faut ?
+Pourquoi est-ce qu’on ne va pas à l’infini dans les définitions ? Vous allez comprendre
+pourquoi. Qu’est-ce qui s’est passé depuis Aristote ? Ben, ce qui s’est passé, c’est
+toujours avec le Christianisme, les preuves de l’infini.
+
+Qu’est-ce que c’est les disparates, les notions primitives simples chez Leibniz ? J’ai le
+sentiment que c’est ceci, c’est facile à voir : si quelque chose… Pour comprendre une
+notion quelconque, est-ce que c’est une notion primitive simple ou pas, il faut une
+épreuve. Ce qui va transformer le problème des catégories avec le Christianisme, c’est
+quoi ? C’est justement les preuves de l’infini, à savoir les notions simples, je crois, ce
+sont [101 :00] des formes directement élevables à l’infini. C’est la nouvelle définition, ou
+c’est la nouvelle détermination. Aristote, il veut chercher, lui, des expressions sans liens,
+sans liens les uns avec les autres, des disparates.
+
+Mais, tout se passe comme si l’idée d’un Dieu infini change le problème, il me semble.
+Les disparates, les notions premières, ce sont des notions directement élevables à l’infini.
+Je dis, directement élevable ; ça se complique, tout ça, oui, parce que, bon, à supposer, il
+y a beaucoup de sortes d’infini ; il y a beaucoup de sortes d’infini. Vois la fameuse lettre
+de Spinoza sur l’infini, lettre dont Leibniz disait que [102 :00] c’était presque le meilleur
+texte de Spinoza et qu’il fallait tout en accepter. Spinoza distinguait des ordre d’infini :
+l’infini par soi-même, l’infini par sa cause, l’infini parce que dépassant tout nombre, etc.
+Il y a toutes sortes d’ordres d’infini.
+
+Bien plus, encore une fois, pour le dix-septième siècle, il n’y a pas d’indéfini, et s’il n’y a
+pas d’indéfini, c’est simplement parce qu’il y a toute une série d’ordres d’infini. Bon,
+ben, il y a des choses… quelle que soit… Vous prenez une notion, c’est une épreuve, ça,
+et vous vous demandez, est-ce qu’elle est directement – c’est-à-dire par soi-même –
+élevable à l’infini ? Vous dites, le monde, le monde. Je peux concevoir le monde comme
+une série infinie, série infinie d’événements. Ah oui, mais [103 :00] il est élevable à
+
+                                                                                              18
+
+l’infini, mais – ne vous occupez pas de est-ce qu’il est infini ou pas ; vous vous occupez
+de la notion, et uniquement de la notion – alors vous vous dites, la notion du monde, estce que je peux la penser comme infini sans contradiction ? Vous ne demandez pas ce qui
+se passe, effectivement ; est-ce que je peux la penser comme infini sans contradiction ?
+Ah, oui, mais je ne peux le faire que par l’ordre des causes, c’est-à-dire ce sera un infini
+par sa cause. Puis, ça bon, oui, peut-être… Ah bon, si c’est ça, ce ne pas une notion
+première. J’appellerai notion première toute notion que je ne peux pas la penser,
+uniquement par la pensée, que je peux concevoir comme directement infinie, c’est-à-dire
+directement élevable à l’infini. [104 :00]
+
+Autre exemple : le blanc. Est-ce que je peux dire un blanc infini, quelque chose
+d’infiniment blanc ? Ah, peut-être pas, non, pourquoi ? Parce que ce serait quoi ? Enfin,
+quelque chose résiste ; je me dis, peu importe. Cet exemple même, il est pris par Leibniz
+dans les Nouveaux essais ; c’est pour ça que je… Peut-être, il n’y a pas de plus grand
+degré. Est-ce que c’est un degré ? Ah, quel est le rapport… Enfin, tout ça, c’est une
+couleur, une couleur infinie. Peut-être pas. Si j’arrive à montrer en effet que dans la
+notion de couleur même, il y a la marque d’une finitude, c’est-à-dire la référence de
+vibrations, d’oscillations [105 :00] à… aux organes des sens d’un être vivant, je ne peux
+pas penser une couleur infinie, et c’est marqué par la finitude d’une réception sensible.
+
+Mais alors la couleur implique quoi ? Voyez, marche la notion première ; elle implique
+l’étendue. Est-ce que je peux parler d’une étendue infinie ? Ah ben, Descartes en parlait,
+et comme par hasard, il traitait l’infini, l’étendue comme une substance. Est-ce que je
+peux parler d’une étendue infinie ? Bon, mais de quel ordre d’infini ? Si je peux penser
+sans contradiction une étendue directement infinie, très bien. C’est une notion simple.
+Leibniz montrera – c’est-à-dire, c’est un Identique. Leibniz montrera que pas du tout, que
+Descartes [106 :00] n’a pas du tout compris le problème des Identiques et que l’étendue
+ne peut pas être pensée comme directement élevable à l’infini. Il faudrait autre chose.
+Bon, mais mettons… Voyez le sens de cette recherche. Alors, je continue.
+
+Entendement, volonté : est-ce que c’est des notions simples primitives ? Est-ce que je
+peux penser sans contradiction à un entendement infini, et qu’est-ce que ce serait ?
+Lorsque je dis, par exemple, Dieu a un entendement infini, une volonté infinie, c’est
+l’épreuve de l’infini qui me permet de définir, de déterminer des Indéfinissables, si bien
+que je peux dire maintenant – comprenez mon souci – [107 :00] mais s’il y a des
+Indéfinissables, ce n’est pas du tout simplement parce qu’il faut s’arrêter. A la rigueur, ça
+serait aussi l’argument aristotélicien. L’argument déchirant d’Aristote, c’est qu’il faut
+bien s’arrêter. Il y a un moment où il faut s’arrêter. Il le dit en grec ; c’est très beau là. Il
+faudrait la… c’est… est-ce que c’est… comme cela lui a été prêté, est-ce que c’est un cri
+des espoirs ? En grec, c’est très joli, anagkê stênaï, anagkê stênaï, il y a un moment pour
+s’arrêter [de la "Physique" d’Aristote]. Leibniz, ce n’est pas le genre, [Rires] vous
+comprenez. -- C’est ça qui n’a jamais été fait, l’histoire des tempéraments
+philosophiques. -- La raison pour [Leibniz], c’est, il ne faut jamais s’arrêter. Le cri de la
+raison, c’est, il ne faut jamais s’arrêter, et chez Aristote, c’est, il faut bien s’arrêter.
+[108 :00] Non, il ne faudra jamais s’arrêter. Et alors pourquoi est-ce que Leibniz pose les
+
+                                                                                               19
+
+Indéfinissables ? Pas du tout parce qu’il faut s’arrêter, mais parce qu’il ne faut jamais
+s’arrêter. Très bizarre.
+
+Simplement les Indéfinissables, c’est des formes infinies, c’est des formes infinies qui
+sont premières, qui sont source de toutes choses, c’est des Identiques. Ils ont partie liée
+avec l’infini. Voyez, il y a un rapport fondamental, les Identiques et l’infini. Pourquoi ?
+Parce que les Identiques, ce sont les formes élevables à l’infini. Mais si je dis ça, alors il
+y a des choses qu’on ne peut plus dire du coup. [Pause] [109 :00] Qu’est-ce qu’il fait,
+Leibniz, quant au principe d’identité ? Il ne s’agit pas de dire que c’est une philosophie
+qui se réclame du principe d’identité. Il fait subir au principe d’identité les opérations les
+plus bizarres qui soient, les plus admirables et les plus bizarres. Il le pluralise et il
+l’infinise. Oui ? Pourquoi pas ? Oui, je veux bien, mais il le pluralise et il l’infinitise, oui.
+[Rires] C’est ça que j’ai dit, ah ? Les deux à la fois, c’est-à-dire, seront identiques toutes
+les formes quelles qu’elles soient, elles vont à l’infini. Et pourquoi [est-ce qu’] il fait ça ?
+Eh bien, si on ne le comprend pas, on ne comprend plus. [110 :00]
+
+Je vais vous raconter une histoire qui s’est passé bien après. Bien après, les Kantiens, qui
+réagissaient très fort contre Leibniz, nous ont dit ceci : Leibniz réduit le jugement au
+principe d’identité. Voilà. Mais cette opération n’est pas possible, et ce que disaient les
+Kantiens était admirable, c’était très, très beau ; et leur argument est celui-ci : le principe
+d’identité est seulement hypothétique. Si A est, alors A est A. Vous ne pouvez pas
+l’énoncer autrement que comme c’est dit : Si A est, alors A est A. Eh ? [111 :00] Mais,
+donc, il ne peut nous donner aucun… Comme ils le disent en leur langage, les Kantiens,
+le principe d’identité ne peut nous donner aucune vérité catégorique. Il ne nous donnera
+qu’une vérité hypothétique. S’il y a A, alors A est A. D’où le coup de génie des Kantiens,
+dire le principe d’identité ne peut pas être traité comme apodictique, ou, non, peu
+importe, comme catégorique. Eh ? – Apodictique veut dire en plus nécessaire ; il n’est
+pas nécessaire ; il est conditionnel. -- S’il y a A, alors A est A, si bien que la seule vérité
+catégorique et apodictique, la seule vérité nécessaire, c’est quoi ? C’est quelque chose qui
+est plus profond que le principe d’identité, et qui est quoi ? Eh ben, si A est, [112 :00] A
+c’est n’importe quelle représentation. S’il y a une représentation, si je représente A, A est
+A. Qu’est-ce qu’il y a d’autre que des représentations ? Il y a le moi qui pense la
+représentation.
+
+En d’autres termes, le principe d’identité se dépasse vers quelque chose d’autre, qui est
+quoi ? Moi = moi, l’autoposition du moi. [Pause] Et le moi = moi est irréductible au
+simple principe d’identité lequel est toujours hypothétique. C’est vraiment le moi qui se
+pose lui-même, autoposition du moi fini en tant que le moi fini [113 :00] accompagne
+toute représentation. Donc, c’est la synthèse du moi fini, moi = moi, c’est la synthèse du
+moi fini qui rencontre du principe d’identité. Le principe d’identité n’est pas premier.
+Vous voyez ? Et de ça naît la grande réaction contre Leibniz. Le principe d’identité est
+incapable de se poser lui-même ; seul le moi est autoposition. Vous voyez que le
+Kantisme exprime à cet égard un moment, en effet, dans la philosophie où on ne croit
+plus au concept d’infini. Dès lors, le fondement doit être cherché du côté du moi fini.
+
+                                                                                              20
+
+Eh bien, qu’est-ce que Leibniz faisait, lui ? [114 :00] C’est ça, les Kantiens, encore une
+fois, Kant et le Kantiens, ils ont bien autre chose à faire que notre tâche beaucoup plus
+humble, à nous. Notre tâche que nous nous sommes donnée cette année, c’est de
+comprendre Leibniz. Les Kantiens ont autre chose à faire ; ils ont à dire ce qu’ils ont à
+dire. Alors, il ne faut pas trop se demander s’ils ont bien compris Leibniz ou pas. Mais
+nous, nous pouvons nous dire, Leibniz d’une certaine manière était déjà très sensible à ce
+problème, et ce que je peux dire, la question de Leibniz, ça serait : à quelle condition
+peut-on arriver à une autoposition du principe d’identité ? Et sa réponse, c’est : en
+mettant l’infini dans l’identité ; en mettant l’infini dans l’identité. Alors l’identíté est
+[115 :00] véritablement autoposition. Sous quelle forme ? Sous la forme des Identiques
+qui n’incluent rien d’autre, dont chacun n’inclut rien d’autre que soi. [Pause]
+
+Parenthèse très rapide, je dis, Leibniz va en tirer une nouvelle preuve ou plutôt une
+nouvelle formulation de la preuve de l’existence de Dieu. Là, alors, je vais très vite ; je
+vous dis tout ce qu’il faut. Je crois l’avoir déjà dit, mais je resitue là parce qu’il sera plus
+clair : il a reproché à Descartes d’avoir été beaucoup trop rapide, d’avoir prouvé
+l’existence de Dieu en disant simplement, Dieu est l’être infiniment parfait, c’est-à-dire,
+comprenez, je le conçois comme l’être infiniment parfait, [116 :00] Dieu est pensé
+comme l’être infiniment parfait. Ben, si un tel être n’existait pas, si un tel être que je
+conçois n’existait pas, ce serait contradictoire puisqu’il lui manquerait une perfection.
+Donc, je pourrais concevoir un être encore plus parfait, celui qui non seulement serait
+conçu comme infiniment parfait, mais qui en plus existerait. Donc il est contradictoire de
+nier l’existence de Dieu.
+
+Bon. Leibniz, il répond, c’est bien cette preuve-là, elle est très bien, elle est très bien,
+mais elle va trop vite parce que ce que Descartes n’a pas fait, c’est montrer que le concept
+d’un être infiniment parfait était possible. Qu’est-ce qu’il nous dit ? Que la conception
+d’un être infiniment parfait n’est pas contradictoire. [117 :00] D’où Leibniz nous dit, oui,
+Descartes a raison, c’est-à-dire Dieu existe, oui, s’il est possible. La plus grande vitesse
+ou une vitesse infinie, c’est contradictoire. Peut-être que l’être le plus parfait, l’être
+souverainement parfait, c’est contradictoire aussi. Peut-être. Donc il fallait montrer que
+Dieu était possible. Descartes n’a pas su le faire. Voyez ce qu’il a dans la tête. Spinoza
+dira exactement sur ce point, il sera… Spinoza et Leibniz sont complètement d’accord, et
+tous les deux vont faire la même chose, la même opération : comment montrer que Dieu
+est possible ? S’il est possible, il existe, mais il fallait montrer qu’il était possible. Et
+comment [est-ce qu’] on va le montrer ? Eh ben, c’est que Dieu est surement simple
+physiquement, mais il n’est pas simple logiquement. [118 :00]
+
+Vous savez ce qu’il reproche à Descartes, c’est par là que Leibniz fonde la logique
+moderne ; ce qu’il reproche à Descartes, c’est d’avoir confondu deux décompositions, la
+décomposition en parties, et la décomposition en notions. Descartes a cru que lorsque
+quelque chose ne se décomposait pas en parties, il était simple, c’était simple, par làmême. Non. Quelque chose peut ne pas se décomposer en parties et pourtant se
+décomposer en notions. Or le simple, c’est ce qui est indécomposable non seulement en
+parties, mais en notions. Par exemple, l’étendue peut être, ou ne peut pas être
+décomposée en parties, elle ne peut que, après, je veux dire antérieur à ses propres
+
+                                                                                            21
+
+parties, mais elle reste décomposable en notions. Donc la notion de simple, c’est par
+rapport à la notion, et pas par rapport à la partie.
+
+Mais alors eux, Spinoza autant que Leibniz peuvent penser qu’ils ont prouvé la possibilité
+[119 :00] de Dieu. Pourquoi ? Parce que Dieu, c’est l’ensemble des formes, l’ensemble
+des formes que l’on peut penser directement comme infini, l’ensemble des formes que
+l’on peut penser comme infini par elles-mêmes. Vous me direz, mais je n’ai pas l’idée de
+telles formes. Ça ne fait rien ; aucune importance. Dieu, lui, il l’a. Ou bien vous dites,
+l’idée d’une forme infinie par elle-même n’a aucun sens, alors là, ça c’est très bien. Vous
+êtes comme déjà Kantiens. Ou bien vous accordez un sens à l’idée de forme infinie par
+elle-même ; il y a des formes infinies par elles-mêmes. Bon, eh ben, ce sont les éléments
+de Dieu ; [120 :00] ce sont les formes constitutives de Dieu.
+
+Qu’est-ce que c’est que ces formes ? Pour Leibniz, il y en a. Qu’est-ce que c’est que ces
+formes ? On l’a vu, c’est des notions primitives simples. Chacune n’inclut que soi – ce
+sont des formes dont chacune ne contient que soi-même. Elles sont absolument
+disparates. C’est là où il y a un raisonnement tout à fait tordu, très, très plaisant, très
+amusant, vous savez ? Les formes constitutives de Dieu, chacune n’inclut qu’elle-même.
+Chacune est absolument disparate de toutes les autres. Dès lors, elles ne peuvent pas être
+incompatibles. Il y a un petit texte, de trois pages, de Leibniz en latin, un texte latin, qui
+s’intitule [121 :00] "Que l’être souverainement parfait existe", et il veut montrer que Dieu
+est possible. Il dit, "Les éléments premiers, ce sont les formes directement élevables à
+l’infini," c’est-à-dire dans ça par elles-mêmes comme infini. "Elles sont nécessairement
+compatibles", puisque absolument disparates. "Elles ne peuvent pas se contrarier ni se
+contredire. Donc elles peuvent être dans un même sujet", elles peuvent être dans un
+même sujet, elles peuvent être incluses dans un même sujet.
+
+En d’autres termes, la preuve de l’existence de Dieu – c’est ce que je vous disais la
+dernière fois, mais j’espère que là, c’est plus clair – va de l’ensemble de toutes
+possibilités, c’est-à-dire les notions simples, les formes élevables à l’infini, [122 :00] elle
+va de l’ensemble de toutes possibilités à l’existence individuelle d’un être qu’on appellera
+Dieu. C’est ça la formule infini sur 1. C’est la possibilité des formes primitives qui
+garantit la possibilité de Dieu ; dès lors, Dieu existe. On va de l’ensemble des formes
+primitives, des notions simples primitives, à l’existence singulière d’un Dieu. Bien, c’est
+ça, c’est ça mettre l’infini dans l’identité. Le jour où on ne pourra plus mettre l’infini dans
+l’identité naîtra la philosophie kantienne, [123 :00] c’est-à-dire le fondement qu’on ne
+peut plus en chercher que du côté du moi fini, et puis se passera d’autres choses, se
+passera d’autres choses. Bien. On peut dire ça en gros.
+
+Alors si vous avez compris ça, j’ai presque achevé ce passage si long, si fâcheux. Mais
+pour nous, nous, on sait qu’il y a des formes infinies, qui sont la possibilité même de
+Dieu. Ce qui est important dans ce que je viens de dire, c’est ce passage, de l’ensemble de
+toutes possibilités à l’existence singulière d’un Dieu, dont toutes les formes possibles
+sont les éléments. On passe de l’infini par 1, mais justement, mettre l’infini dans
+l’identité, c’est faire ce passage infini sur 1. [124 :00] C’est un gros bout, là, de tous les
+
+                                                                                            22
+
+textes de Leibniz que l’on règle aujourd’hui. Ce n’est pas des plus amusants, mais il est
+nécessaire.
+
+Alors nous, notre situation, c’est : d’accord à tout ça, mais nous, le fait est que nous
+n’avons pas connaissance de ces formes, et Leibniz le dira plusieurs fois, eh ben, on n’y
+arrive pas. On peut toujours faire la logique de ces formes, mais savoir ce qu’elles sont,
+comment [est-ce qu’] on va faire ? Voilà, il nous faut une solution de remplacement
+puisque nous, nous n’avons pas un entendement infini, et la solution de remplacement, à
+la Combinatoire qui nous ne pouvons jamais pousser jusqu’au bout, c’est ce que Leibniz
+appelle la Caractéristique. En revanche, nous ne pouvons manier une Caractéristique
+variable que suivant les domaines considérés… [Interruption de l’enregistrement]
+[2 :05 :00]
+
+Partie 4
+
+… Je vous dis très, très vite, je vous demande pardon là pour cette séance, mais c’est un
+soulagement que tout ceci soit fait. Je vous dis là maintenant, bon, mettez-vous dans la
+situation concrète. Notre entendement est un entendement fini. Nous, nous pouvons être
+sûrs qu’il y a des formes infinies toutes compatibles, toutes disparates qui sont
+constitutives de Dieu. Mais, à la limite, nous ne savons même pas ce que c’est, ces
+formes. Donc, comment [est-ce que] nous procédons, nous ? Heureusement qu’il y a la
+Caractéristique car si la Combinatoire a comme projet idéal de se diriger vers les notions
+simples, c’est-à-dire un autre nom que Leibniz leur donne, [126 :00] c’est les premiers
+possibles, vous voyez, les premiers Possibles dans l’entendement de Dieu, eh ben, nous,
+comment [est-ce que] nous faisons ?
+
+Je crois que là, il y a une méthode qui est très importante. Il nous dit en gros – là, j’essaie
+de parler le plus concrètement – il nous dit, vous savez, vous vous trouvez finalement
+devant des domaines que vous arrivez à découper pour des raisons de perception, de
+compréhension, et à la limite, des domaines que vous commencez par définir uniquement
+de manière nominale. Vous dites, il y a du vivant – je prends un exemple – il y a du
+vivant ; c’est un domaine, le vivant ; et puis, il y a de l’inanimé, ou il y a de l’inanimé et
+il y a du vivant. [127 :00] Vous dites, il y a de la quantité continue et puis il y a de la
+quantité discontinue. Donc, vous pouvez définir nominalement des domaines. Ces
+domaines sont peuplés d’objets. Voyez donc, vous partez d’un certain complexe, je
+dirais, un complexe que vous pouvez définir nominalement ; c’est un milieu, un domaine
+peuplé d’objets, peuplé d’un type d’objet. Ça, il y en a plein. Vous direz, ben, le visible.
+Le visible, c’est un domaine peuplé de couleurs. [Pause] [128 :00] La vie, c’est un
+domaine peuplé d’organismes. Puis ça va à l’infini, la quantité discontinue. C’est un
+domaine de quantités peuplé de nombres. Voyez, vous pouvez définir tout ça
+nominalement. Ça n’engage à rien, je crois.
+
+Et Leibniz nous dit : notre tâche à nous, c’est quoi ? Un domaine étant donné, peuplé
+d’objets, il faut définir les réquisits du domaine, c’est-à-dire passer de la définition
+nominale à la définition réelle. [129 :00] [Sur les réquisits, voir Le Pli, pp. 62-65] Notion
+très curieuse chez Leibniz, notion de réquisit. Le réquisit, c’est quoi ? C’est précisément
+
+                                                                                             23
+
+ce qui est exigé par ; c’est la condition, c’est la condition du domaine et des objets qui le
+peuplent. [Pause] Les réquisits d’un domaine et de ses objets, c’est quoi ? Ce sont des
+éléments relativement simples, voilà. Ce n’est pas les absolument simples, c’est les
+relativement simples dont il dira qu’ils symbolisent avec les absolument simples. Ils sont
+relativement simples puisqu’ils ne sont simples que relativement au domaine d’objets
+considéré. [130 :00] D’où la force de Leibniz contre Descartes ; quand il dit : Descartes a
+cru que la simplicité se définissait par rapport aux parties, le simple, c’est ce qui n’aurait
+pas de parties, alors que la simplicité se définit par rapport aux notions. Le simple, c’est
+le réquisit d’un domaine, c’est-à-dire le réquisit, c’est la notion impliquée par un domaine
+en tant qu’il est peuplé d’objets.
+
+Je reprends mes exemples. La quantité discontinue peuplée par le nombre, quel est le
+réquisit ? Les nombres premiers. Voyez en quel sens c’est un réquisit ; c’est avec les
+nombres premiers [131 :00] que vous allez pouvoir engendrer tout nombre. Voyez, le
+réquisit, c’est – si vous avez suivi, si vous vous rappelez notre travail du premier
+trimestre – je dirais que c’est très semblable au point de vue. C’est ce qui nous permet
+d’ordonner les cas dans un domaine. Par exemple, le triangle arithmétique où, à la limite,
+vous pouvez engendrer tous les nombres à partir des nombres premiers. Bon, si vous
+engendrez tous les nombres à partir des nombres premiers, vous êtes passé à la définition
+réelle, c’est-à-dire vous avez atteint des relativement simples qui sont absolument
+suffisants par rapport à tel domaine.
+
+Le visible en tant que peuplé par les couleurs, vous avez les couleurs primitives. Vous
+allez faire les couleurs primitives. [132 :00] Il y a l’ébauche de toutes les théories des
+couleurs chez Leibniz. Le vivant et son domaine, plutôt le domaine du vivant est l’objet
+qui est l’organisme. Vous le comparez avec le domaine de l’inorganique. Quel est le
+réquisit ? Ça dépend de la physique. Voyez, c’est un réquisit relatif, c’est un simple
+relatif. Qu’est-ce qu’on va dire ? Là, j’extrais -- pour ne pas aborder toutes les théoriques
+physiques de Leibniz -- j’en extrais une simple. C’est que si vous vous donnez le milieu
+physique comme peuplé par des corps en mouvement, quel est le réquisit ? Le réquisit,
+ça, c’est [133 :00] que la vitesse d’un mouvement se perd et se gagne progressivement. Il
+dit ça contre Descartes pour qui la vitesse est instantanée. Donc il a déjà montré que
+quelque chose que Descartes croyait simple, en fait, n’est pas simple, n’est pas simple du
+point de vue des notions. Tout le domaine de la physique implique l’acquisition et la
+perte graduelle de la vitesse dans le mouvement.
+
+Comment [en] rendre compte ? Par la sommation, la sommation de – comment dire au
+plus simple ? – de petites quantités de mouvement qui vont composer la vitesse et que
+Leibniz appelle des conatus, sollicitations au mouvement. [134 :00] Il y aura donc une
+sommation de conatus, les conatus étant des éléments relativement simples et éléments
+relativement simples de la vitesse. Qu’en atteignant aux conatus qui, en fait, sont des
+différentiels -- ce qui arrive, c’est déjà le calcul infinitésimal – en atteignant aux conatus,
+j’atteins au réquisit du mouvement inorganique, c’est-à-dire la sommation de petites
+parties homogènes. Par petites parties, il faut entendre des parties plus petites que toute
+partie donnée. Voyez, j’aurai mon réquisit, le réquisit rendant compte du milieu et des
+objets qui le peuplent.
+
+                                                                                           24
+
+Je passe au vivant. [135 :00] Quel est le réquisit d’un organisme ? Eh ben, pour faire un
+organisme, le réquisit du corps inanimé ne suffit pas, c’est-à-dire la sommation des
+conatus ne suffit pas. La sommation de petites parties homogènes ne suffit pas. La
+sommation des conatus ne suffit pas. Peu importe pourquoi. Là, je résume extrêmement.
+Leibniz invoquera un nouveau type de force. La sommation des conatus, dans le domaine
+inanimé, c’est ce qu’il appelle – c’est-à-dire, les réquisits de la physique – c’est ce que
+Leibniz appelle les forces élastiques. Il fait une très belle physique de l’élasticité. On l’a
+vue, c’était très, très précieux pour notre idée d’inflexion. C’est les forces élastiques.
+[136 :00]
+
+Pour le vivant, pour l’organisme, c’est autre chose. Il ne suffit pas de forces élastiques
+pour faire un organisme. Qu’est-ce qu’il faut ? Il faut des forces que Leibniz appelle -- au
+moins dans un texte, mais un texte considérable -- des forces plastiques. Et les forces
+plastiques ne se définissent pas par la sommation de parties infiniment petites qui seraient
+les conatus. Les forces plastiques se définissent par la mise en correspondance de parties
+homologues. Voyez : forces élastiques – sommation de petites parties homogènes ; forces
+plastiques – correspondance de petites parties homologues. Peu importe ; vous regardez
+dans votre dictionnaire tout ce que ça veut dire tout ça, [137 :00] homologue, homogène,
+ça vous fera des exercices pratiques, et c’est très intéressant.
+
+Je dirais, les forces plastiques sont les réquisits du milieu vivant et des organismes qui le
+peuplent ; les forces élastiques sont les réquisits du milieu physique et des corps
+inorganiques qui s’y meuvent. Les nombres premiers sont les réquisits de la quantité
+discontinue, etc., etc. Les couleurs primitives sont le réquisit du visible. Chaque fois,
+dans tout domaine, et rappelez-vous ce que je vous disais du point de vue : s’il est vrai
+que le point de vue, c’est précisément le réquisit [138 :00] sous lequel les cas d’un
+domaine s’ordonnent, la Caractéristique, c’est précisément la détermination des réquisits
+dans un domaine considéré et par rapport aux objets qui peuplent ce domaine…
+[Interruption de l’enregistrement] [2 :18 :17]
+
+… Nous disposons de notions relativement simples qui symbolisent avec les notions
+absolument simples, avec les premiers possibles. Et comprenez ce que ça veut dire : il ne
+faut pas – je crois que ce sera un contresens très grand de dire – eh ben, oui, il y a encore
+inclusion là, parce que les réquisits sont inclus dans ce qui en découle, à savoir le milieu
+et des objets, tel milieu et tel domaine d’objets. Car c’est l’inverse : [139 :00] ce sont les
+réquisits qui incluent, ce sont les réquisits qui sont comme des semences ou des germes
+qui contiennent le domaine qui se développe à partir d’eux et des objets qui se déplient à
+partir d’eux. Si bien que dans 2 et 2 sont 4, où est l’inclusion ? Eh ben, dans 2 et 2 sont
+4, l’inclusion, elle est évidente, mais elle n’est pas du tout où vous croyez. Ce n’est pas 4
+qui est dans "2 et 2" ; ce n’est pas "2 et 2" qui est dans 4 ; c’est "2 et 2 sont 4" qui est
+inclus [140 :00] dans les réquisits, c’est-à-dire dans les facteurs premiers, dans les
+nombres premiers intervenant dans 2, 3, et 4, suivant l’enchaînement des définitions
+qu’on avait précédemment. L’inclusion, c’est l’inclusion du composé dans les réquisits.
+Les réquisits sont des germes dans lesquels le domaine complexe et ses objets sont inclus,
+si bien que je dirais, le réquisit, c’est la notion de la chose. Voyez là, j’ai exactement, je
+
+                                                                                              25
+
+retombe exactement… Ça devrait être tout à fait lumineux, parce que je dirais, le
+domaine, c’est la même chose que l’inflexion, l’événement. Tout domaine est un
+événement. Il faut arriver à penser le domaine comme événement, [141 :00] ça arrive.
+Voilà, ce qui arrive.
+
+Le fait est que… Donc, le domaine est un événement, bon. Les objets qui peuplent le
+domaine, ce sont les choses auxquelles l’événement arrive. [Pause] Eh bien, l’événement
+qui arrive à la chose est inclus dans le concept de la chose. Ça veut dire quoi ? Le concept
+de la chose, c’est quoi ? Ce n’est pas la chose. Le concept de la chose, c’est l’ensemble
+des réquisits. [142 :00] Ce ne sont pas les réquisits qui sont inclus dans la chose. C’est la
+chose et ce qui y arrive qui sont inclus dans les réquisits de la chose.
+
+Si bien qu’il faudra une Combinatoire des couleurs primitives. Bien plus, il va très loin là,
+Leibniz, parce qu’il dit là, évidemment, c’est uniquement une fonction de nos sens que
+nous parlons de couleurs primitives. Nous disons que le vert est un mélange, mais le
+jaune et le bleu, c’est évident, ce sont des mélanges aussi. Pourquoi ? Toujours pour la
+même raison, il n’y a pas de jaune infini, pas de bleu infini. Donc, c’est déjà des notions
+complexes, tout ça, simplement nos sens sont tels qu’on saisit le mélange pour le vert, on
+ne le saisit pas pour le jaune et le bleu. Mais, une Combinatoire des couleurs, [143 :00] eh
+ben, donc, au moins que la finitude de nos sens nous sert à quelque chose, c’est-à-dire ça
+nous permet au moins de définir les réquisits relatifs. Mais comprenez bien, ces réquisits
+sont vraiment des germes, germes d’un domaine et de ses objets.
+
+Et l’inclusion là … Mais alors, j’en arrive à la fin, ce à quoi je voulais arriver. C’est
+que… [Pause] C’est un troisième cas d’inclusion. Je le tiens, mon troisième cas
+d’inclusion. C’est ça que je voudrais que vous compreniez le contresens à ne pas faire :
+Dire, eh ben, oui, j’ai compris, dans le jugement des sens, 2 et 2 sont 4 ; 4 est contenu
+dans "2 et 2", ou bien "2 et 2" est contenu dans 4. Ce serait deux contresens, ce serait
+deux contresens. Encore une fois, ce n’est pas ça : c’est "2 et 2 sont 4" qui est contenu
+dans les réquisits de "2 et 2 sont 4", et les réquisits de "2 et 2 sont 4", c’est la
+décomposition en facteurs premiers donnés dans les trois définitions. Si bien que
+l’inclusion n’est jamais où vous le croyez. Mais lorsque j’opère par relativement simples,
+par réquisits, je me trouve devant quoi ? Je me trouve devant ce que je pourrais à la lettre
+appeler une inclusion non-réciproque, une inclusion non-réciproque, du type tout-partie.
+[145 :00] [Pause] "Tout…" -- Il ne faut pas que je me trompe, je dis tout… Attendez,
+tout… -- "Tout duodénaire est…" -- Qu’est-ce que je veux dire ? -- "Tout duodénaire" --
+c’est-à-dire tout nombre divisible par 12… Il ne faut pas… je vais m’y perdre ; je veux
+faire le malin, mais il vaut mieux que je retourne au texte. Ce serait la catastrophe si je
+me trompais. Hélas, tout ça c’est en train de se mélanger dans ma tête… Je ne trouve plus
+mon texte ; tout va mal…. [De] la Liberté ; voilà, [De] la Liberté ! Aie aie aie aie aie aie
+aie… [146 :00] Voilà.
+
+"Tout nombre duodénaire est sexaire", eh ? C’est-à-dire tout nombre divisible par 12 est
+divisible par 6, ça. Je dis qu’il y a une inclusion -- vous sentez déjà, rien qu’au flair – il y
+a une inclusion non-réciproque là parce que tout nombre sexaire n’est pas
+
+                                                                                               26
+
+duodénaire. Tout nombre divisible par 6 n’est pas divisible par 12… Donc tout nombre,
+commencez par 6, tout nombre duodénaire est sexaire. Tout nombre divisible par 12…
+
+Comment [est-ce qu’] il le démontre ? Ecoutez bien : "Car [147 :00] tout duodénaire est
+bino-binaire ternaire". [Rires] – Vous riez, mais c’est ce qu’on fait en logique formelle,
+eh ? On ne cesse pas de … Ça vient de Leibniz, tout ça, tandis que moi, je n’y comprends
+plus rien… -- Oh oui, "tout duodénaire est bino-binaire ternaire". [Rires] Pourquoi ?
+Pourquoi ? En vertu d’une définition. En effet, c’est en vertu de la décomposition en
+nombres premiers, à savoir 12 égale – en nombres premiers -- donc une définition pour
+12 : 2 x 2 x 3, 2 bino – 2 binaire, bino-binaire – 3 ternaire. [148 :00] Oooooh [Deleuze
+respire, soulagé ; rires] "Tout duodénaire est bino-binaire ternaire", par définition
+puisque 12 égale 2 x 2 x 3. Ça, c’est une définition, c’est-à-dire une inclusion réciproque,
+"et tout binaire ternaire", 2 multiplié par 3 "est sexaire". Ça va ; c’est la définition de 6,
+par facteurs premiers, 2 multiplié [par 3], vous voyez ? J’opère au niveau des réquisits.
+
+Mais je n’ai pas démontré encore que tout duodénaire est sexaire. [149 :00] Il faut un
+drôle de truc, eh ? Je vous relirai l’ensemble du texte. Je tombe sur "tout bino-binaire est
+binaire." [Pause] Il faut que j’introduise… J’ai deux définitions, mais entre les deux, j’ai
+quelque chose d’irréductible avec les définitions, à savoir – qui est typiquement pourtant
+une inclusion – "tout bino-binaire" – alors qu’est-ce que je dis ? Oh là, là .. oui ! -- "tout
+bino-binaire ternaire est binaire ternaire", [150 :00] c’est-à-dire 2 multiplié par 3 est
+inclus dans 2 multiplié par 2 multiplié par 3. Vous me direz, ça va de soi. Mais non. Ça
+va de soi, oui, ça va de soi, à condition que vous vous donniez un autre genre d’inclusion,
+un nouveau genre d’inclusion, des inclusions non-réciproques. Quand vous partez des
+réquisits, vous allez rencontrer nécessairement des inclusions non-réciproques qui vont
+vous permettre d’établir des enchaînements entre inclusions réciproques. Si vous me
+suivez, on est sauvé, absolument sauvé. [Rires] Tout s’explique.
+
+Vous vous rappelez ? J’étais parti de ce texte De la Liberté qui me faisait souci. Pourquoi
+est-ce qu’il dit que dans les vérités d’essence, il y a un cas de vérité où l’inclusion est
+seulement virtuelle ? [151 :00] Il va nous dire – et ce n’est pas à propos des vérités
+d’existence, mais bien des vérités mathématiques ou d’essence – il nous dit : il y a des cas
+où il faut "extraire une inclusion de telle sorte que ce qui était virtuel [latent] dans la
+proposition et contenu sous [dans] une certaine puissance se trouve rendu par la
+démonstration évidente et exprimée [explicite]," par exemple, toute son histoire du
+duodénaire. [Voir Le Pli, p. 70, note 21, pour la citation de Leibniz] C’est que lorsque
+nous opérons non pas avec les absolument simples qui nous échappent, mais avec les
+relativement simples, il y a irréversibilité, et non pas réversibilité, du réquisit au domaine.
+En d’autres termes, vous allez opérer avec, pas seulement, avec des inclusions nonréciproques. [152 :00] Et c’est le cas… tandis que l’enchaînement des définitions ne peut
+vous donner que des inclusions réciproques. Interviennent ici, avec la méthode des
+réquisits, des inclusions non-réciproques qui vont justifier le second cas. Ça c’est, ça doit
+être la merveille pour nous, j’ose dire, mais finalement…
+
+Qu’est-ce que c’est finalement ces réquisits ? Je vais vous dire dans tous les domaines.
+Mais je crois que le réquisit, la définition, et on en aura besoin plus tard, c’est le degré
+
+                                                                                              27
+
+d’unité, le degré et le type d’unité qu’un domaine et ses objets présupposent. Or il y a
+inclusion non-réciproque du domaine [153 :00] et de ses objets dans les réquisits. Dès
+lors, dès lors je dirais que les vérités d’essence nous proposent trois types d’inclusion.
+[Pause] Voilà, trois types d’inclusion :
+
+Premier type, et cela sera tout notre objet aujourd’hui : les auto-inclusions, à savoir les
+Identiques ; autrement dit, disparates ; autrement dit, notions primitives simples ;
+autrement dit, premier Possible. [154 :00]
+
+Deuxième point : les inclusions réciproques ; autrement dit, les Définitions. [Pause]
+
+Troisièmement : les réquisits, ou inclusions non-réciproques. [Pause] [Voir à ce propos le
+schéma dans Le Pli, p. 77]
+
+Tous ces trois types d’inclusion à propos des vérités d’essence ont comme caractère
+commun d’être développable [155 :00] – sauf évidemment les premiers, les Identiques
+puisque les Identiques n’ont pas à être développés ; ils sont tout développés en un sens ;
+mais ils sont développables dans la mesure où ils constitueraient Dieu – ils sont
+développables et, je dirais, ils sont, comment dire, assignables. Ils peuvent être
+développés. Ce sont des inclusions éminemment dépliables, développables. Quand
+j’assigne un réquisit, je développe une inclusion, je développe une inclusion nonréciproque. Voilà.
+
+Les vérités d’existence, alors, César passe le Rubicon : qu’est-ce que ça va être ? Là
+aussi, il va y avoir inclusion dans la notion. [156 :00] Cette fois-ci, le réquisit, ça va être
+quoi puisqu’il y a toujours inclusion dans le réquisit ? Ça va être la notion individuelle.
+Qu’est-ce que la notion individuelle ? Voyez ? Il va y avoir une face à face de ces notions
+primitives simples, les premiers Possibles, ou le Représentant, c’est-à-dire les réquisits. Il
+y va du côté des notions individuelles qui sont elles-mêmes réquisits, mais réquisits des
+vérités d’existence. Qu’est-ce que c’est une notion individuelle ? Cette fois-ci, il y a bien
+inclusion de l’événement et de la chose dans la notion. La chose est ce qui lui arrive, sont
+inclus dans la notion individuelle, c’est-à-dire dans le réquisit. Bien. [Pause]
+
+Alors, simplement, je dirais que l’inclusion [157 :00], elle n’est pas développable. Dieu
+lui-même, nous dit le texte De la Liberté, ne voit que l’enveloppement. Dieu lui-même ne
+voit que l’enveloppement. Qu’est-ce que ça veut dire, ça ? Mais, ça veut dire qu’en effet,
+d’une certaine manière, c’est ce qu’on disait depuis le début : le pli va à l’infini.
+L’enveloppement va à l’infini. D’accord, mais on l’a vu depuis le début. C’est vrai aussi
+des vérités d’essence. Il n’y a que de l’infini partout. Donc ça ne suffit pas.
+
+A la limite, je dirais qu’avec les vérités d’existence commence un autre type d’inclusion,
+un quatrième type d’inclusion, où cette fois, l’inclusion n’est même plus localisable. Les
+inclusions réciproques, oh pardon, les inclusions non-réciproques étaient parfaitement
+localisables. Les inclusions [158 :00] non-réciproques se transmettaient suivant la chaîne
+démonstrative. Les inclusions non-réciproques étaient localisées, localisables. Tout bino-
+
+                                                                                             28
+
+binaire est binaire. Mais là, on va entrer dans un domaine d’inclusion non-localisable.
+Qu’est-ce que ça va être ?
+
+Bon, voilà, je voudrais vous quitter là-dessus parce qu’il faut que vous y réfléchissiez
+pour la prochaine fois. Dans les lettres à Arnauld, [il y a] deux thèmes étranges --
+Arnauld étant un monsieur de Porte-Royale et qui a une grande correspondance avec
+Leibniz -- deux thèmes, Leibniz entremêle deux thèmes très curieux. A la fois il saute de
+l’un à l’autre, et il rend fou Arnauld. Arnauld ne sait pas où il veut en venir. [159 :00] Il
+nous dit, voilà Dieu -- il veut montrer que Dieu n’est pas responsable du mal. Il nous dit,
+Dieu n’a pas créé Adam pécheur. Ça, c’est la première grande formule, Dieu n’a pas créé
+Adam pécheur, mais il a créé le monde où Adam a péché. Dieu n’a pas créé Adam
+pécheur, mais il a créé le monde où Adam a péché.
+
+Deuxième proposition : le monde n’existe pas hors des notions individuelles qui
+l’expriment, qui l’expriment, Adam, César, [160 :00] Alexandre, vous, moi. Vous
+sentez ; première proposition : Dieu n’a pas créé telle notion individuelle ; il a créé le
+monde où il y a telle notion individuelle. Deuxième proposition : le monde n’existe pas
+hors des notions individuelles qui l’expriment. Ça donne une espèce de vertige si vous
+essayez de … On sent que ce n’est pas contradictoire, en effet. Dieu a créé le monde, non
+pas les notions individuelles, ah oui, mais attention. A peine on a compris ça que Leibniz
+dit, oui mais faites attention : le monde n’existe pas hors des notions individuelles, ce qui
+veut dire quoi ? Peut-être on a pu comprendre grâce à notre effort [161 :00] du premier
+trimestre.
+
+Dieu commence par l’inflexion. Il crée la série d’inflexions qu’on appelle le monde. En
+effet, il crée le monde. Il crée le monde où "Adam a péché" ; c’est une série
+d’événements, d’événements purs, le péché, le salut, la mort, la vie, etc. Il crée le monde.
+[Pause] Seulement, voilà, de l’inflexion à l’inclusion, le monde que Dieu crée n’existe
+que plié dans les notions individuelles. Chaque notion exprime le monde. [162 :00] Il
+n’existe pas hors des notions individuelles. Dieu ne crée pas Adam, César, etc. ; il crée le
+monde où il y a Adam, César. Mais ce monde n’existe pas sinon plié dans la notion
+d’Adam, la notion de César, etc. Alors, en effet, c’est l’inclusion non-dépliable, voyez ?
+Il crée le monde, mais il le crée dans les notions individuelles. Et si je lui dis, ah Dieu, tu
+as créé Adam pécheur, tu nous as fait bien du mal à tous, il répond, non, je n’ai pas créé
+Adam pécheur, [163 :00] j’ai créé le monde où il y a le péché, et ce monde n’existe que
+dans les notions individuelles, c’est-à-dire je l’ai plié dans Adam.
+
+Donc, c’est, c’est un truc très bizarre comme idée, c’est-à-dire ce monde, il n’est pas
+dépliable ; il ne peut pas sortir des notions individuelles. Mais quand même, oui, alors, de
+quel droit parler de "ce monde" ? Dernier point à corriger : si, on peut le déplier, mais
+idéalement, idéalement. Hors des notions individuelles qui l’expriment, le monde n’a une
+existence qu’idéale. [Pause] [164 :00] Dieu crée le monde où Adam a péché, mais
+attention, ce monde n’existe que plié dans Adam et dans les autres notions individuelles.
+C’est étonnant alors. Quand on attaque Leibniz sur un point, il [Deleuze fait un
+mouvement de côté ; rires dans la salle], quand on l’attaque sur l’autre point, il ne répond
+pas. On lui dit, mais enfin, ce monde, il est dans Adam quand même ; il répond, c’est
+
+                                                                                          29
+
+possible, mais ce qui intéresse Dieu, c’est ce monde ; c’est le monde que Dieu a créé,
+c’est tout. Mais on dit, bon, ce monde qui comporte le péché… Ah, attention, ce monde,
+il n’existe que plié dans Adam, qu’enveloppé dans Adam. C’est ça que je veux dire par
+inclusion non-localisable.
+
+Alors, il va en sortir ; on a l’impression là, il nous mène, il nous mène… qu’il est trop
+malin pour nous. [165 :00] Du coup, il faut le prendre au seul point… bon. Mais luimême, il a dit, il y a une grande différence avec les vérités d’essence. C’est qu’Adam
+non-pécheur était possible, tandis que 2 et 2 ne font pas 4, ce n’est pas possible. C’est ce
+que vous pouvez toujours concevoir, mais vous ne pouvez pas concevoir que 2 et 2 ne
+soit pas 4. En revanche, vous pouvez concevoir, Adam ne péchant pas ; s’il nous accorde
+ça, il faut lui dire, bon, eh ben, alors, Adam ne péchant pas, c’est quoi, un autre monde ?
+C’est quoi ? Qu’est-ce que ça veut dire ? Et qu’est-ce que c’est, une notion individuelle ?
+Dieu ne crée pas les notions individuelles, mais il crée le monde où il y a ces notions
+individuelles. Et d’autre part, ce monde, lui, n’existe pas hors des notions individuelles.
+Bon, d’accord, qu’est-ce qu’une notion individuells ? Pourquoi le contraire d’une notion
+individuelle est-elle possible ?
+
+Et voilà qu’il va faire surgir le plus beau de ses concepts, [166 :00] c’est le concept
+d’incompossibilité, et que l’on verra la prochaine fois, à savoir, oui, Adam non-pécheur
+est possible, seulement il est incompossible avec notre monde, tandis que 2 et 2 ne font
+pas 4, ça c’est impossible. Est-ce qu’il y a Adam non-pécheur ? Oui, oui, c’est possible,
+seulement ce n’est pas compossible dans ce monde. Et il invente cette notion très
+curieuse de compossibilité, et il appartient pour tout, je suppose, pour tout lecteur de
+Leibniz, à tout prix, de donner une consistance à la notion de compossible et
+d’incompossible. Adam non-pécheur est incompossible avec notre monde. Qu’est-ce que
+ça peut vouloir dire ? [167 :00] Hélas, [bien que] Leibniz emploie fréquemment la notion,
+une seule fois il nous dit, pour notre déception, la racine de l’incompossibilité échappe à
+notre entendement. [Rires] Là ça devient très curieux parce que d’une part, c’est
+insupportable, tout à fait insupportable ; nous voulons, nous réclamons une racine de
+l’incompossibilité qui consiste en quoi ? Nous montrer en quoi l’incompossibilité est une
+autre relation que la contradiction. Et c’est essentiel, là, même du point de vue de a
+logique. Il faut à tout prix une logique, une logique qui soit capable de montrer que
+l’incompossible et le contradictoire sont deux relations complètement différentes.
+
+Alors, il faut dire que peut-être que Leibniz, en même temps qu’il nous disait que les
+racines de l’incompossibilité nous échappaient, que Leibniz nous laissait assez de signes
+[168 :00] et de possibilités pour donner à la notion de compossibilité un sens plus positif.
+D’où notre tâche, là, c’est qu’est-ce que ça veut dire, qu’est-ce que ça veut dire
+incompossibilité, et quel principe logique [est-ce que] ça suppose ? Qu’est-ce que veut
+dire Adam non-pécheur n’est pas compossible avec notre monde ? [Fin de
+l’enregistrement] [2 :48 :26]

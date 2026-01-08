@@ -1,0 +1,1203 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque – Principles and Freedom
+
+Lecture 9, 3 February 1987: Principles and Freedom (4) -- Monads and Singularities
+
+Translation and Transcription, Charles J. Stivale1
+
+Part 1
+
+… You see, I am speaking of the genus animal, species man, sub-species, umm, blond man …
+[Jump in the recording] This is even worse, but there, the translation is good, so for those who
+might be interested… [Deleuze does not complete the sentence]
+
+Fine, so let’s continue. [A student speaks to Deleuze] Ah, the vacation. This is our last session of
+the semester, fortunately. [The student continues speaking] The return date – cut it out, you!
+[This seems to be addressed to the same student] [Pause] Ah, la, la… [Deleuze indicates a
+nearby student, possibly Hidenobu Suzuki next to him] Ah, he comes from a country that has no
+vacations. [Laughter]
+
+The student [possibly Hidenobu Suzuki]: That’s the reason why I left it, you know?
+
+Deleuze: … Ah yes, he left this country without vacations and where they kill off the elderly
+[Laughter] in order to attend a class with an old man who asks for nothing more than vacations!
+[Laughter]
+
+Another student: I heard that “senior citizens” in Japan have been asked to leave for Spain…
+
+Deleuze: Yes? Yes, yes, yes, they already want to put them on a far away island, and with a
+volcano, if possible. [Laughter] Awful. So yes, I wonder what you’ll be doing to me fairly soon.
+[Laughter] [Some inaudible comments to Deleuze from another student]
+
+After these happy pleasantries, I am now saying that vacation starts this evening, as usual – it’s
+always after classes – so from February 3, from the third to, I don’t recall, to the 22, that is, class
+meets again on Tuesday, February 24? [A student: It’s February 24] So…
+
+But during the vacation, you will have lots to do. For here is what’s happened: following the
+previous session in which I told you how much I was struck by Maarek’s presentation, there
+have been some developments, specifically that Isabelle Stengers, who couldn’t be here today,
+sent a letter to me in which she brings up quite a few things on the problems of prolongation,
+prolongation starting from a singularity, in which she attempts to distinguish several cases, and
+that seems very interesting to me. This suits me well because, in fact, we have only laid out the
+start of an outline of a theory of singularities. So, we haven’t finished this point; don’t even think
+that it’s done! We will need to pursue it, and this is something I insist on because I believe in the
+richness of a possibility of the concept of singularities, as a philosophical concept and no longer
+mathematical.
+
+                                                                                                       2
+
+Notably, take note that this changes everything about this problem and about the notion of a
+universal, a notion that’s not friendly (sympathique). The notion of singularities is
+philosophically very important, so fine, this is a point that we will develop when we’re back
+from vacation. If Isabelle is here, we will especially come back to this because we will have
+made progress today, and will have an opportunity to create a kind of aggregate in the
+confrontation that I would like to make between Whitehead and Leibniz. That’s one point.
+
+The other points that I asked several among you to take up, but this is not exclusive, the most… I
+mean, I have called on several among you when we require a kind of technical competence that I
+lack, or at least that I have less of than you – the second point that we will encounter with
+Whitehead and Leibniz will concern harmony, as I have indicated from the start. For once
+again… If you will, this year I’d like you to be sensitive to my effort, not at all because it’s a
+huge effort, but rather what’s special in it. What I mean is that all my work this year consists in
+saying that it’s still quite astonishing – I don’t at all pretend that this might be astonishing, that’s
+it’s only me who understands Leibniz; in that, let’s not exaggerate – but what seems astonishing
+to me are the obvious things that seem yet to be accomplished. So it’s almost on the level of tail
+end of a project, when someone says, oh well no, this [topic] isn’t worth it. So I was telling you
+that it’s still quite simply incomprehensible that there are many commentators on Leibniz who --
+to my knowledge, none – when they find themselves faced with the famous text about the monad
+with neither doors nor windows – none say, my God, it’s precisely the architectural module that
+constantly occurs in the Baroque.
+
+And then, for harmony, I am saying the same thing. I am saying [that] Leibniz uses harmony on
+all sorts of levels, arithmetic, musical and architectural, among others. And to my knowledge, all
+the commentators speak about harmony that he theorized under the name “pre-established
+harmony”, about Leibniz creating a theory under the name “pre-established harmony”, but they
+do not seek to unify all of these domains of harmony under a philosophical concept, harmony in
+the sense of arithmetic, harmony in a musical sense, harmony… However, there is certainly
+something to be said on this, surely, a philosophical concept still to be formed. From this, I was
+saying to anyone who has a musical background that what I expect from them is to reflect deeply
+about these notions of harmony, starting with [Pause] the period or the musicians that might be
+called, correctly or incorrectly, Baroque musicians, and also about Baroque architects.
+Obviously, all this might open us to the Baroque in this way that architecture becomes a
+particular music. Fine, this is certainly not the same thing as in other periods or in other
+conceptions of architecture.
+
+Finally, I remind you that all of our work this year starts from – here as well, this is why I am
+saying [that] we are astonished by things that nonetheless are… -- started off from one thing as
+when I was saying, fine, yes, let’s try to define the Baroque, but let’s especially try not to make
+problems for ourselves that occur for some who’ve introduced preconceived questions. And
+those who introduce preconceived questions are those who say, oh, be careful, eh? A notion like
+the Baroque only has value in architecture, that is, the question of genre in which the concept of
+the Baroque would be adequate or valid. Or else, there are those who limit things to periods,
+when, at which moment, or limited to whatever country, and then based on such limitations, they
+go on to distinguish between Mannerism and the Baroque, sometimes the Baroque preceding
+Classicism, sometimes coming after Classicism, and then the Baroque of a particular region
+won’t be the Baroque of another region. Central European Baroque won’t be the same as
+
+                                                                                                       3
+
+Spanish, and at the extreme – the melancholy of those who, having written an important work on
+the Baroque, end up by telling themselves, my God, does the Baroque even exist? [Laughter]
+
+So I was telling you that if we don’t want to get into all that -- questions of dates, of genres -- we
+have to have a definition that does not attempt to be essential, but that attempts to reach an
+operative activity. And this is why, from the start, I have told you that we mustn’t be worried.
+We are going to say that the Baroque is the fold when the fold goes to infinity. And I would say
+that there is Baroque in any genre whatever if I can justify the idea of a fold that goes to infinity.
+So, at least I have my criterion. My criterion does not presuppose anything, eh? You see, at that
+point, I can work around any question on genres or periods, and then I could limit my concept of
+Baroque or extend it depending on whether this operation of the fold going to infinity is verified
+or not verified.
+
+So you will tell me, but what does that mean in music, the fold that goes to infinity? Ok, I’m not
+saying that this would be a … Baroque musician, but it happens that [Pierre] Boulez writes Fold
+after Fold (Pli selon pli), and this is music, but he composes Fold after Fold – and I come to my
+third request for you – there are all kinds of authors. But I tell myself, if we discuss this idea, it’s
+funny, right? Because unexpected things arise that henceforth offer proof or ought to offer
+immense proof, specifically authors that have attached a fundamental importance to this strange
+notion of the fold, but suddenly we notice that there are a lot more of them than we had thought.
+
+Also, in the second semester, we will have to confront Heidegger, for example, to deal with
+Heidegger. It’s well known that Heidegger ceaselessly invokes the fold and that, furthermore, the
+difference between being and the Be-ing (l’étant) is named “the fold”. Would Heidegger be
+Baroque? Well yes, but it’s not my fault; this isn’t arbitrary. If I call Baroque any author who
+folds and causes the fold to go to infinity, I can say, well yes, Heidegger is Baroque. Well yes, at
+least it moves me forward, saying he’s Baroque, it moves me forward. How does that move me
+forward? He’s Baroque, but a strange kind of Baroque perhaps; maybe we have to distinguish
+different kinds: this is a kind of Gothic Baroque, [Laughter] because the fold comes down hard,
+the fold is hard, it comes down hard. This is not the fold of inflection; it’s not Leibniz’s fold, but
+at least it would permit me to say – ah yes, you know, Heidegger knows Leibniz very well; he
+doesn’t speak about him too much – but that would permit me to say, perhaps he knows Leibniz
+even better than he seems to. Perhaps there is something there.2 But it’s not Heidegger who
+interests me so much, but rather some among you could then, at the right moment, it would be
+their turn to talk; I’ll be talking very little about this. It’s for you to outline the second semester’s
+program.
+
+But there is an author the affects me and moves me immensely, and it happens that while
+rereading him this semester, because I had a very vague idea. I told myself, but, but that works,
+and since there is someone here, Giorgio Passerone, who is working, for completely different
+reasons, who is encountering and is attached to this author, who is [Stéphane] Mallarmé.3 And I
+suddenly tell myself that, finally, this is strange. It’s not a matter of interpreting. I do not want to
+interpret Mallarmé at all. Oh leave aside all the interpretations you want; all are good, all are bad,
+but this is not interpretation, this is the operative act. And furthermore, Mallarmé considered
+himself as an operator. The word is found explicitly. He doesn’t consider himself an author, but
+an operator. So I tell myself, what is Mallarmé’s operation, the key operation? Open any
+Mallarmé text at all, I suggest this to you. Read or reread Mallarmé. You will constantly see the
+
+                                                                                                        4
+
+obsession with the fold, on several levels: a famous level, the fan (l’éventail). [Pause] I dare say
+that Mallarmé is the fan. And also, the fan is the fold par excellence. “The unanimous fold,” “the
+unanimous fold”, he says.4
+
+And then what happens? What else is the fold? Oh, lots of things. Another thing that’s the fold is
+dust and ashes, inanity. Understand that this allows me to say, good, with Mallarmé, we aren’t
+going to start off from nothingness (le néant). That [le néant] belongs to the interpretations, but
+the fold is not an interpretation. It’s something that creates (qui fait). He lived draped in his
+shawl, Mallarmé; he also talks about the fold of lace, and then Madame Mallarmé, his wife, and
+then Mademoiselle Mallarmé, his daughter, owned fans to go out to the theater, eh? [Deleuze
+laughs] They don’t do that anymore. And Mallarmé wrote verses of poetry on their fans, of
+Madame and Mademoiselle Mallarmé, and then on the fans of all the friends of Madame and
+Mademoiselle. These [writings] were some sublime verses by Mallarmé. Fine. The fan folds
+open, and by folding, [Deleuze laughs] or rather by moving about, the fan causes to fall in a
+mirror, causes specks of dust to fall in a mirror that are like grains of matter. [Pause] Ashes in
+the fog, but ash and fog create folds.5
+
+I have the fold of the fan, so here we have the fold chasing after each speck of dust and ash,6 and
+the dust and ash fall back down under the wing of the fan, that creates folds, folds of dust, folds
+of fog. And perhaps sensitivity (le sensible) – this would be very interesting, since it might link
+back up with one of Leibniz’s ideas – perhaps that we only see sensitivity through folds of a
+perpetual fog, according to whether the fog creates and undoes its folds. And I jump to another
+of Mallarmé’s poems, Bruges,7 the Belgian town, in which Bruges, in the early morning, [is]
+visible to the extent the fog allows the stone to appear, the “dilapidated” stone, he says, the
+“dilapidated” stone (pierre vétuste), that the fog uncovers, “fold after fold.”8 “Fold after fold” is
+an expression that Boulez borrows from Mallarmé’s poem on Bruges. Here I would…
+[Interruption in the recording] [18:34]
+
+… toward the folds of dust. And these things, fine, no doubt, it’s ash, it’s through the ash, and
+the world of inanity; it’s the world of sensitivity, it’s the world of sensitivity that I see through
+the pleats of dust. This is just like saying it’s the world of the newspaper, the world of
+circumstances. And what is a newspaper? The folded thing par excellence. I’m not the one
+saying this. Each time that Mallarmé talks about the newspaper, he indicates that it’s what is
+folded. [Pause]
+
+So I draw your attention toward this series of operations nonetheless, especially as they continue
+with him asking us, what is the inferiority of the newspaper in relation to the book? Both are
+folded. This is why the newspaper… Hence Mallarmé’s famous problem: when does literature
+start? Where does it start? Is the newspaper article literature? Are four lines of verse written on
+Mademoiselle Mallarmé’s fan literature or not? [Pause] And then? Well, what? What is the
+superiority? What is superior to the newspaper? The book, THE Book. Why must it be those who
+have never created a consistent book that are able to speak to us with so much force and
+authority and persuasion about the book, THE Book? And Mallarmé’s Book, how is… It exceeds
+the newspaper; he says so explicitly. He says, “the folding of the newspaper with the book goes
+beyond towards kinds of layering” (tassement), the cubic layering.9 Think back to something that
+we’ve already proven, how inflection, that is, the fold goes beyond itself toward inclusion. The
+
+                                                                                                     5
+
+Book is inclusion; the newspaper is only the fold, but the fold included in The Book is the
+superior form. I would say, literally, The Book is the monad. [Pause]
+
+That creates some things around this. So what is this idea? I would say that it’s not, it’s not, this
+idea… Understand, what does he… He sees, he lives things in that way, the fold of the fan that
+will distribute, like two poles, the folds of ashes and the fold of the newspaper, and the other
+pole, the fold of The Book that compresses itself in an active unity, The Book. [Pause] Reread
+Mallarmé from this perspective; I am certain that there is some research to be done, something to
+be found on the status of the fold and that, after all, there wouldn’t be… It’s possible that
+Mallarmé and Leibniz each will help us, help us to understand each other, and I was telling you
+that Leibniz, who never stopped writing through small tracts (opuscules) or who never stopped
+writing in newspapers, isn’t he also someone who, to a certain extent, is the author of the Book,
+with capital B, and the kind of book that would be a total book as Mallarmé desired it, but as
+Leibniz desired it as well, each time that he thinks about what he calls the Combinatory?
+Especially since, and I am trying to jump between each of them, especially since Mallarmé’s
+Book will be conceived as a kind of Combinatory since through all sorts of possible series, the
+interior leaves (feuillets) can be combined. Fine.
+
+Do some research on this… So I am suggesting that some among you do research on the
+Mallarmé topic, that others do research on the topics of harmony in architecture and in music,
+that others do research on the level of mathematical functions and on the theory of singularities,
+even if that [Mallarmé] is hardly mathematical.
+
+So we will continue on our path here, and you see what we gained at the last class thanks to
+Maarek. I am saying, so fine, we almost have to remain very, very modest and tell ourselves,
+let’s say as little as possible because Maarek was way too kind, you certainly noticed it; he
+absolutely did not want to make the slightest objection about my doubtful mathematical
+drawings. But he gave me a kind of benediction which is very precious to me – I ask for nothing
+more – which was of the kind, ok sure, you can say it that way. If I can say it that way
+mathematically, I ask for no more because what interests me, on the other hand, is what should
+be said philosophically. So even a little bit that can be said mathematically is adequate for it to
+be enough for me.
+
+So I am summarizing the little bit that can be said that way mathematically. I was saying that we
+cannot stay put on this notion in which compossibility and incompossibility would be declared
+mysteries buried within God’s understanding. We must have a certain expression that would
+explain that non-sinner Adam no doubt is the opposite of sinner Adam, but that it’s not a
+contradiction in itself. That is, if you prefer, it’s not contradictory with the world in which Adam
+sinned; non-sinner Adam is not contradictory with the world in which Adam sinned. On the other
+hand, you recall, in 2 and 2 equal 5, here there is an absolute contradiction and that can be
+demonstrated by the absurd, whereas with non-sinner Adam, there is no contradiction. It’s
+simply incompossible with our world, that is, with the world in which Adam sinned.
+
+And so my question – I am summarizing the bits we’ve acquired – was: so ok, we have to try to
+give to this relationship of compossibility and incompossibility, we have to try to give to it a
+status at any price, and even if Leibniz abandons us at that point, well then, we have to travel a
+bit along this path provided that it’s possible as a function of the whole of Leibniz. And what I
+
+                                                                                                       6
+
+was proposing to you is uniquely this: we start off from singularities. What are singularities?
+They are something that happens in the world. More precisely, what is it? We saw that this
+something that happens in the world is an inflection. I am saying that a singularity is a point of
+inflection. There you are. I am saying indeed that it’s the first sense of singularity, we shall see,
+and this is why Isabelle Stengers is correct in her letter to tell me that it’s a lot more complicated
+than that. But we shall see this. We are starting with what’s the simplest.
+
+So there are singularities; I can give myself this. You notice – here I cannot insist enough; this is
+essential – I am not speaking about the monad. So by what right can we talk about singularity
+before speaking about the monad, that is, subjects that include singularities? It’s just that, as we
+saw, I am saying and I repeat that in my view, one can understand nothing about Leibniz, at least
+about his theory of existence, if we do not perpetually recall this principle: the world is primary
+in relation to the monads that express it. Leibniz’s text is absolutely indisputable: once again,
+God did not create sinner Adam; he created the world in which Adam sinned. Monads result
+from the world; they are not principles of the world.
+
+Agreed, the world is included in monads, the world exists in monads, but monads exist for the
+world. The world does not exist outside of monads; it exists only within monads. On the other
+hand, monads are only for one world or another. Monads are for the world, we’ve seen this. I
+created my little drawing that showed this double proposition: the world exists only in monads,
+but at the same time, monads exist only for the world. I created the little drawing that authorizes
+me to speak of an anteriority of the world in relation to monads. When God creates, he has the
+world in its sights. So I can speak of singularities that are constitutive of this world. These are:
+the world is an infinite series of inflections; each inflection corresponds to a state of the world.
+Henceforth, I can very well say that the world is an infinite aggregate of singularities.
+
+So what will come to define compossibility? We saw this: it’s when, in the prolongation of a
+singularity all the way to the neighborhood of another singularity, the series is convergent.
+Series, prolongation, what are these? In mathematics, there are two pairs of notions: singular
+which is opposed rigorously to regular, singular point, regular point; and another pair that is not
+entirely equivalent, remarkable that is opposed to ordinary. For the moment, I am identifying the
+two pairs for a simple reason: it’s that I believe that, philosophically, this is only at another level
+than we are now on – we’re not there yet -- that I could make the distinction. I underscore this so
+that this stays in your mind for a future moment, the distinction that will have to be established.
+For the moment, I have no reason to do so since I am still on a level in which the singular and
+remarkable, on one hand, and regular and ordinary, on the other, can still be treated as
+synonymous.
+
+So I am saying that the prolongation of a singularity into the neighborhood of another singularity
+occurs along a line of ordinaries or regulars. For example, look at the side of a square. Fine, you
+have A and B that are two vertices of the square. You treat the two vertices as singular points,
+and A is extended into the neighborhood of singularity B, that is, extends along a line of
+ordinaries, that line going from A to B. Not complicated.
+
+So I am saying that singularities will be compossible… I’m adding to this, I can say three things,
+and here I am returning to the points very well outlined by Maarek in the previous class. I can
+say, you know, everything in the world is ordinary; everything is regular, as the professor of
+
+                                                                                                    7
+
+daily philosophy said in the novel by Leblanc.10 Why? Because, ultimately, what is a singularity?
+It’s the coincidence of two ordinaries. I return to my example of the square: if you place yourself
+at the vertex B, you can say that [Pause] B as a singular point is the coincidence of the last
+ordinary on the line A-B and the first ordinary on the line B-C. So you see, in this sense, I can
+say that everything is ordinary. On the other hand, you recall the law of the world as infinite
+series: between two points, however close they may be to each other, I can always have a third
+point inserted through which an inflection passes. In this sense, I would say that everything is
+singular. There are only singularities. This will be two passages on the line; I can operate these
+two passages on the line, well, in the loose mathematics that I am proposing.11 What I am
+creating here to defend myself from all mathematical criticism is a kind of axiomatic. Everyone
+can do what he wants provided that it has a definite result.
+
+So then I can say -- third proposition -- I can say that everything is ordinary, I can say everything
+is singular, everything is remarkable, and then I can say, between my two passages at the
+extreme, as Maarek said, a singularity exists only as surrounded by a cloud of ordinaries, that is,
+it is able to be prolonged onto ordinary lines all the way to what? Well, not infinitely
+prolongable, at least the series is infinite, but it is able to be prolonged all the way to the
+neighborhood of another singularity which, as Maarek said quite correctly, would force me to
+define a neighborhood, but finally, we can’t do everything. No matter. But in an axiomatic, the
+relation of a singularity to another would pass through a definition of neighborhood. So here we
+are: I say two singularities are compossible when the series of development that goes from one
+into the neighborhood of the other, and from the other into the neighborhood of the first, is a
+convergent series. [Pause] There is incompossibility when the series is divergent, that is, when it
+does not pass through the same values. Fine. That’s not complicated; I mean there are no …
+mathematics, it’s propositions of… of definitions. So I would at least have a definition of the
+compossible and the incompossible.
+
+Henceforth, you see God’s situation. I invite you take God’s place.
+
+A student: [Inaudible comment]
+
+Deleuze: What? Again? Well we just don’t get enough of taking God’s place. To create the
+world, God is faced with what? It is faced with possible worlds. [Pause] It finds itself faced with
+possible worlds, but that are not compossible with one another. You see, [God] is necessarily
+going to choose – this is how, according to Leibniz, creation is a choice – it is going to choose
+one possible world, but in this way, it will indeed be forced to exclude the worlds that are
+incompossible with the other one. This will be the principle of limitation; you see that
+compossibility and incompossibility are not at all something to which God submits. It’s simply
+the identity of the created with the limited. There is a fundamental limitation in creation that
+means: If God -- in fact, understand this – if God could create all the worlds at the same time,
+well then – an outcome that makes Leibniz flinch with horror – why did he lay out this whole
+story of compossibility and incompossibility? In order not to be Spinozist. The terror of honest
+philosophers is to be Spinozist. [Laughter]
+
+And Spinoza’s idea is quite simple: it’s that God necessarily creates the world, but for a
+Christian philosopher, this is irritating, God necessarily creating the world. It’s annoying because
+at that moment, creation is not creation. One has to say that he produces the world and that the
+
+                                                                                                         8
+
+world is a style of God (mode de Dieu), and that would mean that the world is necessary. For a
+Christian philosopher, this isn’t possible. But it’s very important for Leibniz to show that God
+cannot create the entire possible at once, that is, it cannot cause the entire possible to come into
+existence. Why? Because the possibles are caught up in relations of incompossibility. So, God
+must in fact choose one of these worlds. It brings into existence one of the compossible worlds.
+
+What will the law be henceforth? Is [God] going to choose arbitrarily? Obviously not. I am
+summarizing a lot; I am going very fast. You know Leibniz’s answer: God chooses and brings
+into existence the best of possible worlds, the best of possible worlds. So while it might not seem
+so, Leibniz is no idiot. He knows that this world chosen by God is full of catastrophes, torture,
+innocent lives lost, etc. He will have to justify all that. But he tells us here, almost as a
+mathematician would, God chooses the best of possible worlds. I don’t know what the other
+incompossible worlds are that God didn’t choose. One must imagine them to be even worse.
+[Laughter] And what does that mean?
+
+So this is where I was telling you – you must pay close attention here – he proposes to us the
+following schema in order to explain to us what God’s choice is. I add that the schema is not
+exact, and Leibniz knows this well since he calls on… He assumes a conception of space that is
+not his own.12 He tells us: let us suppose that space were a receptacle. And, for Leibniz, space is
+no receptacle. Space is there, and God’s problem is going to be which world to choose, that is, to
+bring into space. [Pause] The answer is: it’s the world that will fill up a given space to the
+maximum. This is a pure metaphor; it’s to help us understand that space is not a receptacle. And
+then, that would imply that space is finite, and what does all that mean? Don’t give this any
+importance. Just try to understand it metaphorically.
+
+There’s a receptacle; so well, all worlds are apt to populate their receptacles but at different
+degrees of filling in (remplissement). There is a single scheme (combinaison) that fills them to
+the maximum. Suppose that this space-receptacle were a game of chess, a chess board. Fine. I
+would say that at each moment of the game, you only have, or we suppose, we only have a single
+scheme such that the aggregate of pieces covers the maximum of squares, once it’s stated that –
+notice the variety introduced here – once it’s stated that each piece has – how to say this? – its
+power of action (puissance), its power of action to prolong itself into space according to a move
+(démarche) – for example, the Knight’s move is not the same as the Bishop’s move, which is not
+the same as the Queen’s, etc., etc. You have a scheme that allows you to fill the squares of the
+chessboard to the maximum. [Pause]
+
+You will tell me that this gets complicated because there are two players, but taking the two
+players into account, there is a scheme that allows each, taking account of the other, to fill the
+maximum of squares. This is the scheme that God causes to come into existence, the best of
+possible worlds. That is, this means, as [Leibniz] said, the best of worlds is the one that has, that
+possesses the greatest quantity of reality or perfection, once it’s said that, philosophically, in the
+seventeenth century, reality and perfection are strictly synonymous. A perfection is something
+real. The real and the perfect are opposed not to the imperfect, but to the imaginary. So, the
+compossible scheme that God causes to come into existence will be the one that presents the
+greatest quantity of perfection.
+
+                                                                                                      9
+
+Hence, the very odd distinction in Leibniz between the two wills of God: on the one hand, what
+he calls – this doesn’t come from him; these terms are found in theology, but with Leibniz, they
+take on a very special meaning – the wills or the antecedent will of God and the consequent will
+of God. The antecedent will of God is the movement through which or tendency by which each
+possible, whatever it is, everything that’s possible tends toward existence. Look at the text On
+the Radical Origin of Things where this thesis is developed. In God’s understanding, all the
+possibles, each possible tends toward existence. [Pause] This tendency toward existence, this
+tendency to pass… [Interruption of the recording] [47:26]
+
+Part 2
+
+… on all sorts of floors. I always come back to my idea of apartments. There are a lot of
+apartments in the understanding and the will of God. We must speak of God’s understanding by
+distinguishing the regions since -- if you recall what we’ve already done a while ago – there’s a
+first region of God’s understanding that is defined by and that contains the absolutely Simples,
+the absolutely simple notions, that is, the pure Identicals, the infinite forms of which each one
+[Deleuze coughs violently] is identical to itself.13
+
+Second region of God’s understanding, [Pause] the relations, [Pause] when notions enter into
+relations with one another, and this time, these are no longer the Identicals. These are the
+Definables which appeared to us to be another kind of inclusion.
+
+Third region of God’s understanding: the requisites; this is indeed something else. I won’t go
+back over it. This was [material] in sessions we’ve already seen.
+
+Fourth region: [Pause] singularities insofar as they all pass into existence. This sphere of divine
+understanding already calls upon the will to create a world under the form of antecedent will.
+Fifth region: the relations of compossibility and incompossibility resulting in only the best of
+schemes coming into existence under the action of consequent will. This is an understanding in
+five regions at least and a will in two regions at least. This is interesting because other
+philosophers spoke quite rapidly about God’s will and all that, but it’s fine, for Leibniz, these are
+multiplied. It’s not rendered complicated; it’s multiplied.
+
+So, if I summarize still, you recall, and I am going back and drawing conclusions about the great
+distinction of propositions of essence and propositions of existence. Both are under the regime of
+inclusion of the predicate in the subject.14 You recall, the predicate is not an attribute; it’s an
+event. [Pause] The inclusion of a predicate in the subject is the sufficient reason. In what sense?
+Because inclusion gives the very reason of the predicate. If the predicate can be called “of the
+subject,” it’s because it is in the notion; it’s because it is included in the notion of the subject,
+that’s its sufficient reason. I can simply say for the moment that there is always sufficient reason,
+but in the propositions of essence, [Pause] identity acts as sufficient reason and is enough to act
+as sufficient reason. This comes down to saying what?
+
+Here I hesitate again to use mathematical terms, but out of commodity I would say: we saw that
+we could not distinguish the two kinds of truths of essence and existence, the two types of
+propositions, by saying in the case of propositions of essence, [that] that the analysis is finite,
+and, in the case of propositions of existence, [that] the analysis is infinite. Why? Because the
+
+                                                                                                      10
+
+infinite is everywhere, that seemed to us a very, very poor interpretation. There are infinite series
+in any event. But I would say that in the propositions of essence, the series is – and here I will
+use also use a mathematical term, but open to… not very – I would say that it suffices for the
+series to be compact, as mathematicians say, that is, that between two terms, one might always
+be able to insert others, a compact series, whereas on the level of propositions of existence, this
+is very different: the series is convergent or divergent. For me, this would be the great difference
+between the two types of propositions. [Pause]
+
+Here we have a first point. In the end, I have organized, summarized a whole group of things.
+For those who have not yet understood entirely, we’ll have a chance to return to this when we
+create the graph of the aggregate of Leibniz’s principles.15 Notably, as I open a parenthesis, you
+won’t be surprised that in Leibniz, there is a principle that he calls the “principle of the Best”,
+notably that God chooses the best of the worlds, “the best” meaning the one that presents the
+maximum quantity of reality. There will always be a principle of the Best, and we will see all
+that later.
+
+So here I have come to the end of this story, or rather, this first kind of singularity that are the
+inflections. The singularities that are the inflections were states of the world as well. I was indeed
+saying, you see – and without this, everything in what I am saying would collapse – from a
+certain point of view, the singularities have to be primary in relation to individuals. [Pause]
+What are the singularities? These are not individuals; these are events. If I am to define an event,
+now I would say it’s quite simple: it’s the aggregate of singularities able to be prolonged.
+[Pause] That’s what the event is. That logic should be a logic of the event comes down to saying,
+well yes, logic is a logic of singularities or of singular points, in their relation with the ordinaries,
+in their relation with the regulars. And yet again, it’s always along a scale that the regular is
+regular; if on the subsequent scale, the lowest scale, you make an inflection pass through, the
+ordinary becomes singular. There are all the transformations that you would like to the extent
+that, at the outside, an event only includes singularities, but according to your perception; it’s
+according to your perception. According to the acuteness or dullness (la finesse ou la lourdeur)
+of your perception, there will be more or fewer singularities in an event. That will commit us
+already – no, I don’t mean immediately – but that will commit us to a theory of perception that is
+obviously going to be very, very strange, like everything emerging from Leibniz.
+
+Understand, for example, a fly. First, these are not the same events. When I am in the same room
+as a fly, [Laughter] think about what is an event for the fly and what is an event for me.
+[Laughter] For example, a fly is an event for me, but I am not an event for the fly. [Laughter]
+What it grasps are other events of which I might be the cause. But it’s obvious that the evaluation
+of events cannot be the same since the fly and I, we are not in the neighborhood of the same
+singularities. To create a theory of perception implies an entire differential conception of
+perception in which living beings perceive under conditions of the singularities they grasp and
+prolongations of these singularities along lines of ordinaries. [Pause] Think about the path of the
+fly and the infinity of singularities that mark the inflections in the path of the fly at every instant.
+
+So what is going to constitute a perception? There too lies a problem. We certainly could have
+expected that problem to drop down on us. It will be derived directly. In any case, for the
+moment, in my concern about going slowly and about not mixing up different problems too
+much, I say ok, you see, I come back to: singularities precede the individual. Why? Exactly like
+
+                                                                                                   11
+
+the world, from a certain point of view, pre-exists the monad. God creates the world; so now that
+the world exists only in monads, that’s something else. But God creates the world. Once again, it
+creates the world in which Adam sinned, and you see what that means: it creates this particular
+compossible. It creates the aggregate of the compossible. It creates the world in which Adam
+sinned; it doesn’t create the sinner Adam. It creates the sinner Adam because it chooses the
+world in which Adam sinned. But the singularity, the event, Adam’s sin, I can say, to some
+extent, pre-exists the individual Adam. There is an individual sinning Adam only because God
+chose the world that has sin for a singularity, and the sin is going to be included in Adam. But
+God had to choose this world and not Adam particularly. It chose the world in which Adam
+sinned.
+
+Thus, and in all my definitions here of the singularity as being the element of the event, I have
+assumed nothing about the individual. [Pause] Hence, as I was saying, what is an individual?
+There is a single solution; yet again, I don’t believe that there is a satisfactory and even possible
+definition conceivable if we don’t admit to pre-individual singularities. There’s an important
+book – and here as well, [it’s] one that does not quote Leibniz, but it appears to me to be
+Leibnizian in inspiration – an important book on individuation, therefore, appeared a few years
+ago by [Gilbert] Simondon on individuation, speaking precisely about this notion, pre-individual
+singularities, that he studies from a point of view in physics, in mathematical physics.16 So, we
+don’t need to take up Simondon’s topics here, since we have Leibniz’s that are quite adequate.17
+
+If in fact there are pre-individual singularities as so many inflections and inflections of
+inflections constituting the states of the world, I can say [that] the individual results from this.
+What will that be, the individual? Once again, I’m saying tht the individual will be a
+condensation of singularities. [Pause] I am calling event an aggregate of singularities able to be
+prolonged and convergent; I am calling individual a condensation, concentration or accumulation
+of singularities. [Pause] Does that correspond to something literally in Leibniz? Yes. Response
+to Monsieur [Pierre] Bayle: "Each monad is a concentration of the universe." And, once again,
+what is the universe? You must not forget that the universe is the infinite series of states, that is,
+inflections definable as singularities. An accumulation of singularities, a condensation of
+singularities, is a monad, that is, an individual subject.
+
+However, that creates problems for us, even lots of problems for us. Here we must be very, very
+concrete. Finite or infinite? If I have defined the individual as a condensation of singularities, is
+it a question of a finite number or an infinite number of singularities? I myself respond: for a
+definition of the individual, I obviously answer: a finite number, a finite number of singularities.
+Why? This seems strange. One would expect… You recall perhaps what an individual is, what a
+monad is. A monad expresses the world, that is, it includes all compossible singularities. But –
+and this will be essential for our learning today, if we get there – but it expresses clearly only a
+small part of the world. And here we have such a beautiful idea, and in some ways, this is indeed
+how an individual is distinguished from another individual. [Pause] You see? So, myself, I
+express a whole world from its start to its end. We will see, these are things we have not yet
+seen, but the entire past, the entire future of the universe is included in the monad since I am a
+monad; I’m an individual notion. So, I express the whole world, only here we are, I only
+expression a portion, I only express clearly a finite portion, [Pause] the one that concerns me.
+Fine.18
+
+                                                                                                 12
+
+And no doubt, I even express it differently, I express it… Even if you take… There are kinds of
+encroachment (des empiètements), and that’s why on this level you discover your constructions
+of convergent series. For example… But these will be secondary convergences and divergences,
+that is, which will be inside the same compossible world. I take two persons of the same
+generation. Me, I can say that I express among, in my region of clear expression, there’s the
+Spanish Civil War, Hitler, the Second World War. Ok. But already this has to be nuanced: I
+express the Spanish Civil War clearly, but much less clearly than someone who lived it and
+fought in it there. So there are degrees of clarity. [Pause] Fine. So, in a same generation, in your
+case, you don’t express clearly the Spanish Civil War. It’s not your fault. You can only express it
+either through family tradition or through hearsay, knowing someone who was in it, or by what
+Leibniz calls in a very lovely expression, through “blind knowledge”, when you have read books
+about the Spanish Civil War. This isn’t the same. For you certainly sense the small portion that I
+express clearly, the small portion of the world that I express clearly, that is linked to my body.
+
+Oh yoo, yoo, yoo, yoo, I’d say. [Laughter] What did I just say here since we have never yet
+mentioned the “body”? And one must flip this around. It’s not because it concerns my body that I
+express it clearly. But I only have a body because I have my small, clear region of expression,
+and my body is simply what will be derived from this clear expression. This is because, as
+monad, as individual notion, I am expressing the entire world, but I only express clearly a small
+region of the universe since, henceforth, I have a body that is going to be the material condition
+through which I clearly express this region. And I would say, henceforth what I express clearly,
+the small portion that I express clearly, yes, here this concerns my body, my body being the
+material condition.
+
+You see, each of us expresses a small region clearly, the one concerning one’s body, but that this
+concerns one’s body is a result – it’s not a principle since, once again, we don’t yet know at all
+what a body is. But we just know that – this is not surprising – that monades have bodies, that
+each individual has a body. Each individual has a body since it clearly expresses a region of the
+universe and since one’s body is the condition through which it expresses this region, once again,
+the condition being material. Caesar expresses the Rubicon; I too express the Rubicon, but I
+don’t express it at all distinctly or clearly, not at all. I express it like I express the infinite
+aggregate of the universe, yes, but Caesar, he expresses the Rubicon clearly insofar as he got his
+feet wet in the Rubicon. And no doubt, it’s not a matter of feet, [Laughter] but rather a matter of
+mind. Was he going to cross the Rubicon, that is, was he going to put his feet into the Rubicon?
+This is what we call the problem of voluntary events.
+
+So, in fact, I am in the process of proposing to you a deduction on three levels. [Pause] I am
+going from bottom to top, and not from top to bottom. The final [bottom] level: I express clearly
+a part of the world, a finite part of the world, on the condition of having my body. [Pause] Above
+this: why [do] I have a body? One must not say that I express clearly because I have a body; one
+must say that I have a body because I express clearly a finite region of the universe. Henceforth,
+this finite region, I will express it, as Leibniz says, under the relation of my body, but one must
+especially not reverse the order of causality. It’s because you express clearly a small, finite
+region of the universe that you have a body. [Pause]
+
+Notice what immensity of progress is opening before you! Your region of clear expression is
+finite. And once again, what is your task? To enlarge it as much as you can, to expand it the most
+
+                                                                                                  13
+
+you can. Here I mean, believe me, this is about translating into Leibnizian terms some extremely
+concrete problems, but as Leibniz states it, it’s very concrete: the best soul will be the one that
+will be capable of enlarging its region of clear expression. When I’m a child, I have a small clear
+expression. That is, it’s understood that each monad in the end has a reduced portion of clear
+expression, but hugely variable within certain limits.
+
+When we say about someone, “oh, what he could have done, what couldn’t he have done? He
+wasted himself.” What does it mean when it’s said generally that children are better than adults?
+Because with children, there’s generally still a bit of hope. [Laughter] With children, you
+understand, there’s still… It’s not always true; there are children about whom we sense that
+things won’t be going well, fine, [Laughter] and that their little clear regions, well, they won’t
+manage to expand. [Laughter] But really, yes they will, their little portion of the universe is
+going to be enlarged, but when one says about an adult, “he could really have made more of
+himself, he could have done better,” as is said, “yes, he could have done better,” that means
+[that] he didn’t enlarge at all….
+
+There are people, there are people of a very mature age that have kept, well, the portion of clear
+expression of a five-year-old. We call them “feeble” (débiles). [Laughter] They have a tiny clear
+region. So with them, one must look for it, eh? And if one speaks to them about -- I don’t know -
+- the Spanish Civil War, if one says Hitler to them, if one says racism to them, no, that doesn’t
+concern them, that doesn’t concern them. This means – it’s as if they were Leibnizians – they
+would say, oh, excuse me, no, that’s not in my clear region, it’s not in what I express clearly.
+[Laughter] Sense that there’s a whole problem here, eh? Is it enough to say that God made me
+like [that]? Did God made me a cretin? [Laughter] Or is it suitable to say, oh monad – because
+we must call people monads – tell me, monad over there, you still could have enlarged your clear
+region.
+
+So that’s the second [level]. See, the body’s story results from that. But still a final point: we
+must not believe that I am individual because I have a small, clear region since my having a clear
+region in my expression of the universe is my nominal definition. Tell me what you express
+clearly and who does not intersect with anything that another individual expresses clearly. See
+why Leibniz is able to say [that] there are no two similar individuals although every individual
+expresses the universe and the same universe. And when he says this is not from the same point
+of view – we have seen all this –, that means [that] two individuals do not have the same clear
+region of expression.
+
+And I ask, why? Just as I was climbing upward from having a body to having a region of clear
+expression, where does this region of clear expression come from? That is, what would be the
+real definition of the individual since having a region of clear expression, is this only a nominal
+definition?19 Well, I’ve got it. -- We are really moving forward. What a relief! -- The real
+definition of the individual is a condensation of singularities. This is because I am… Because
+each me is a condensation of singularities [Pause] and a finite number of singularities, it
+expresses a clear portion of the universe, a finite portion of the universe, the one in which its
+singularities are incarnated in events. [Pause] So that is my final definition of the individual, a
+condensing of pre-individual singularities. [Pause]
+
+                                                                                                  14
+
+But that is going to throw us back into problems; here I don’t want to weary you too much, so I
+will simply list them. Henceforth we have to conceive that a monad is constructed around a small
+number of singularities. This is what Leibniz sometimes calls primitive predicates of the monad.
+So I was telling you, fine, for Adam … So, of course, I can hear well. You must not create
+difficulties for me where there aren’t any. Of course, this little number of finite singularities can
+be deployed to infinity. That doesn’t prevent it from composing a finite region of the universe.
+So here, on this point, just give me a break, no difficulties.
+
+And I was saying, Adam, you take… Let’s make a list! For everyone, I was saying, make your
+list, and let all this be useful in some way for your life. Make your graph (table)… [Pause]
+Leibniz thinks in terms of graphs; these aren’t windows. If there are no windows, it’s because
+there are graphs in Leibniz. The monad is without doors or windows, but it has a lot of graphs,
+[Laughter] necessarily. It’s on graphs that the entire Combinatory is inscribed, the Combinatory.
+So, you make your graph of singularities. I was saying Adam, fine: first man, that’s an Adam
+singularity. It’s a primitive predicate. Living in a garden, a second primitive predicate, a second
+singularity; having a woman created from his rib, a third singularity; fourth singularity, in the
+world chosen by God, that is, in the best of worlds, he sins. This is an event, and it’s a
+singularity. I would say that this belongs to and circumscribes the clear region expressed by
+Adam who nonetheless expresses the entire world; that is, it expresses both what will happen to
+Caesar and what will happen to Christ, but he expresses this obscurely and in a muddled way.
+What does this mean, obscurely and muddled? That will come later; right now, it’s impossible to
+say. Fine.
+
+So you have to do likewise. What are your own singularities, both inside and outside? Well…
+But I can make a list of my own. So I would have to… oh, but overall, these can always by
+multiplied to infinity, but… For example, if some among you still have some, oh, everything
+depends on their importance. Perhaps you again sense the arrival of the remarkable and the not
+remarkable. I mean, when the individual condenses singularities, at that moment, the
+singularities take on a remarkable aspect.20 What’s remarkable in your life? There are lives that
+are believed to be magnificent and yet there is nothing remarkable. There are lives that are
+extremely monotonous and that are very, very remarkable. There are lives disturbed by truly
+insane vacuums, and these are lives of banality itself. Beware of the notion of the remarkable.
+It’s not enough to go traveling to the islands to achieve the remarkable. It’s not enough to take
+grand trips to reach the remarkable. You can travel the whole world and more than the worlds
+and around the world, etc., and your clear portion of the universe stays as limited as a horse’s,
+[Laughter] an iron horse, with its [inaudible due to the laughter]. On the other hand, on the other
+hand, you can just stay put and achieve a zone, a clear portion of expression that will be
+fantastic. But this is not a law either. There are some that move about and enormously extend
+their portion. There’s no law. Each time it’s up to you to see what has worked and what hasn’t
+for you, when you cause the remarkable and the important to emerge, if only for you.
+
+I’ll say some very simple things, so let’s move on to the amorous domain. Fine, a great love,
+what do you want? Of course, it’s remarkable. The remarkable doesn’t mean… beware of
+Leibniz’s pseudo-optimism. That means that even if not turning out well, [Laughter] it can be
+remarkable. For people who don’t know how to love, normally this isn’t all that brilliant, people
+who don’t know how to love. They are missing a sense. Generally, they think they are clever. As
+Nietzsche said, they wink. Winking means love, but not making it. But some people to whom no
+
+                                                                                                    15
+
+one makes love, you know, there are some people with a certain weakness, eh? It’s not
+necessarily due to malice that no one makes love to them. It’s because they’re jerks, that’s all,
+eh? [Laughter] So make your graph, the missed opportunities, all those things I have passed
+by… [Pause]
+
+You know, when you want to do philosophy, you notice quickly, and it’s also true about the rest,
+that true/false are expressions devoid of meaning, and that this isn’t how things happen, and that
+what happens in events of though isn’t true/false, but rather the remarkable or the ordinary,
+important or non-important. And it’s even true for the sciences. You can create axiomatics all
+you like, if you just have enough technical ability. You create as magnificent an axiomatic as you
+like, [Deleuze laughs] the question isn’t of seeing if it’s true or false. The question is to see if it
+has the least bit of interest. And this is how mathematicians speak. If you are a sufficiently good
+mathematician, you can create some theorems, you can invent them. And you won’t be told it’s
+false; you’ll be told, sir, this is strictly of no interest.
+
+So you can always argue, but you understand, this is why arguments are so useless, so useless, so
+it’s a waste of time. It’s a waste of time because how do you intend to argue about the important
+and the non-important, the remarkable or the ordinary? You understand, when a teacher corrects
+an essay, … I remember my time teaching in a high school (lycée); I’ve corrected essays
+(dissertations). Well, I never found myself faced with anything false, or so rarely that it was a
+stretch to write down “false”, [Laughter] do you see? If someone said, Aristotle is a disciple of
+Descartes, there I would write down “false”. [Laughter] I’d be pleased, but that didn’t happen to
+me. That doesn’t happen. What happens? What happens is that one reads tons of papers that have
+neither importance nor interest. Explaining to someone that what they’ve written is without
+interest, on one hand, is insolent so one shouldn’t do it, and moreover, one has to be very sure of
+oneself. I myself don’t know at all if something has no interest. I tell myself, I see no interest
+here, there’s little of interest, but perhaps it will take on interest in three years when the author
+will have enlarged his or her region. But what do you want to say? What do you want to say?
+
+So… or else in an argument, it’s wonderful: you don’t have the same region of expression; you
+aren’t in the same domain. So obviously, one can argue to infinity, but it’s a waste of time. That
+[process] disperses fog into the other’s domain and vice versa. It’s not worth it. It’s so difficult
+just thinking alone that when one has to do it with several people, you know, that’s not just
+nothing. So there are magnificent cases, in fact, in which there are interferences, in which there’s
+a convergent series inside the world. Two guys – I’ve lived this, so, and I’m still living this, but
+I’m not the only one. Working with someone, that means it’s two very different regions, but they
+have… they have – how to say it – a common zone, and starting from this common zone, that’s
+going to irradiate into both of them, and these are extremely complex cases that everyone who
+has worked in common… That’s what team work is. But at that point, you realize that it’s not
+about arguing. One doesn’t argue; one never argues, never. There are only imbeciles that argue,
+or else if it’s a matter of spending an hour over a drink, ok, let’s go argue for a bit. [Laughter]
+But in any case, that has nothing to do with any activity that we could call, from close up or from
+afar, doing philosophy. This has to do with what people call opinion, of the kind “do you think
+that God exists”? etc. But in the end, that has no interest, and above all, no importance. That’s
+what I’d like you to sense.
+
+                                                                                                       16
+
+So, on this point, what happens? We still are faced with a lot of problems. It’s that… Take two
+monads, two individual subjects. They can have a small number of singularities in common.
+[Pause] So, will this be the same individual, or won’t it be the same individual? And then, here’s
+what drops down on our heads: by what right do you name two individuals Adam, the one who
+sinned, the first man who sinned in a particular compossible world, and the one who wouldn’t
+have sinned although he might be the first man, so he deserves the name Adam because he’s the
+first man and he lives in the garden? On this point, one of the two sins, the other doesn’t sin.
+Why name them both Adam? Do I have the right to name them both Adam?21 In his
+correspondence [with Leibniz], Arnauld doesn’t let up on Leibniz and says: but what is that
+about? Why are you calling him Adam, even the one that didn’t sin in the other world, within the
+other world that was possible? You see, this is a bit of a problem. Or Sextus, in the text of the
+Theodicy that I read to you, that has a Sextus staying in Rome and taking power; and there’s
+another Sextus who heads off to Corinth; and another Sextus who goes off to cultivate his
+garden; three Sextuses, but by what right do they deserve the same proper name?22
+
+One must suggest this; here’s what I’d like to say: I mean that Leibniz, when he thinks about the
+problem of individuation – [To a student close to him] Oh, I’m going to hurry up, ok? These are
+details, you’ll see; refer to the Arnauld-Leibniz correspondence – first, when he thinks about the
+problem of individuation, Leibniz doesn’t seem to follow the path I’m suggesting. I’m telling
+you this so that you won’t get angry with me, for he seems to pose an entirely different problem.
+He says, “So, however far you went in specification,” that is, in the determination of smaller and
+smaller species, “however far you went in specification, you will never reach the individual.”
+Individuation is not a specification, even ultimate. “However far you went in specification, you
+will always have within the species, however small it might be, an infinity of at least possible
+individuals.” You see, [this is] the irreducibility of the individual to specification, that we
+express by saying the individual isn’t a final species, or in Latin, the individual is not ultima
+species. Understand? [Pause]
+
+It’s said that St. Thomas – ok, fine – it’s said that St. Thomas made an exception for angels,
+[Laughter] for angels. You understand immediately why: angels have a glorious body, that is,
+that are not subject to the accidents of matter. So, for angels, the individual has to be the ultima
+species; their final species has to be simultaneously their individual. All that’s interesting, eh?
+[Pause] And Leibniz writes this text with great joy. But you see? Well then, for me, this is
+everyone. We are all angels. If you push specification far enough, you reach the individual. In
+other words, the individual is the infima species. [Pause]
+
+I am completing this so you might appreciate what’s completely new in this idea by Leibniz, the
+individual as infima species, the individual as final species. If you continue the specification to
+infinity, you will reach the individual. Individuation is a specification continuing to infinity. In
+order for you to understand what’s deeply new in such a thesis, I say, here you are, a whole
+current of philosophy exists named Nominalism. Nominalism is those people saying that there
+are only individuals and that concepts are only words, words that, of course, have their rules of
+usage. But what exists only exists in individuals or particular things. Concepts are words, and the
+problem of logic is the rules of usage in words. You see? A Nominalism of this sort perfectly
+existed – it still abounds today – perfectly existed in Leibniz’s era. For example, you find
+elements of it in works by a very great philosopher named Hobbes.
+
+                                                                                                     17
+
+And so, and so, and so, Leibniz would say the same thing in part; he’d say, of course, only
+individuals exist, but understand – and here, Leibniz’s thought is very, very strong – this doesn’t
+make him a Nominalist, because Leibniz’s idea is that if there are only individuals as
+Nominalists say quite well, it’s for a reason opposite the one that Nominalists believe in,
+specifically it’s because concepts are words. It’s because concepts have the power to go to
+infinity, that is, to be specified all the way to infinity. In other words, it’s by reason of the power
+(puissance) of the concept that there are only individuals. [Pause] Here we have enough to make
+Hegel gasp with jealousy, [Laughter] and besides, he never came close to discovering such a
+truth. It’s by virtue of the concept’s strength that the concept goes all the way to the individual
+that the individual is the concept. We saw this with the individual notion, with Leibniz’s idea of
+individual notion.
+
+But suddenly, I am pointing out to you – and with this, I am taking a bit of a risk – it’s only
+apparently that Leibniz speaks of genus and species. In fact, the individual is not an infinitely
+continued specification. The true line – and we will see why – Leibniz’s true line, once again, is
+the individual as condensation of singularities. [Pause] He does not speak of genus and then
+species, and then species and then infinitely continued specification that would go all the way to
+the individual. He speaks of pre-individual singularities and defines the individual as a
+condensing of singularities, as a condensation of singularities, and once more, of singularities
+able to be prolonged following convergent series. I would say, in this sense – you should
+understand what this means – I would say [that] singularities are the requisites of the individual,
+once it’s stated that, for Leibniz, every thing has requisites, that is, conditions. The individual’s
+requisites – this is also a misunderstanding to avoid – the individual’s requisites are not genera or
+species; they are singularities. Ah if you understand that, you understand everything.
+
+But that will explain to you suddenly why Leibniz invokes genera and species for I then ask,
+what is a genus and a species? Where does that come from? Here I am taking a little risk, but this
+ought to work out fine. It has to work out. Assume that these singularities are condensed within
+an individual with one condition, we have seen, of being able to be prolonged following
+convergent series, of being prolonged into the neighborhood of each other following convergent
+series. There we have the concrete operation that will make the concentration possible. Assume
+now that through an abstraction of the mind, you considered singularities separated from one
+another. You cut them off from their prolongation. At that moment, I would say the singularities
+become indefinite. Instead of saying Adam who sinned lives in a particular garden, you are going
+to abstract a singularity by cutting it off from its prolongation. You are going to undertake, if you
+will, a surgery of singularities. You extract a singularity in order to consider it in itself. At that
+moment, it becomes an indefinite singularity, A garden. [Pause] Fine, at that moment, it’s a
+genus. When you cut off the requisites from their prolongation, when you cut off singularities
+from their convergent series, you only have indefinite singularities that, henceforth, present
+themselves as general concepts. This is the operation that will allow you to say AN Adam, an
+Adam in A garden, is common to this world in which a particular Adam sins and to that other
+world in which Adam does not sin, and the same word “Adam” will be used in the sense of AN
+Adam. [Pause] You see, I would say that this would allow – this would be great -- from the point
+of view of a logic of the proper name, that would allow conditions to be set according to which a
+proper name can be preceded by an indefinite article. That would be beautiful, and we would
+have the entirety of Leibniz’s theory of individuation. Good.
+
+                                                                                                   18
+
+I’m finishing… I’m finishing, I’m finishing. And well, what problems remain for us? If I
+returned to the entirety of what we’ve done over many, many sessions, you will recall that on the
+level of propositions of essence, propositions of the mathematical type, we have undertaken all
+sorts of considerations from the Identical on to definitions, and on to requisites, and we said
+[that] the task of propositions of essence is to set the requisites of a domain. And then, we took
+propositions of existence, and we saw the inclusion in the monads, that is, we saw individual
+notions, whereas on the other side, we saw so-called simple notions, either the absolutely simple
+notion, the Identicals, or the relatively simple notion, the Requisites.
+
+With propositions of existence, we discover another type of notion, individual notions. First
+question: where does the junction of the two domains occur? Answer: on the level of Requisites.
+The singularity belongs to the domain of existence, but it is precisely the requisite of the
+individual. [Pause] So, if there is also an angled linkage of propositions of essence with
+propositions of existence, it’s through the notion of the Requisite, when the Requisite, the
+individual’s Requisite, that is, is a singularity, a pre-individual singularity. I can say that – and
+here I think this [Deleuze hesitates] is relative, it’s quite important for Leibniz’s philosophy – I
+assume that both domains of essences and existences are prolonged continuously by the
+requisites. You go from requisite to requisite all the way to the requisites constituted by the
+singularities.
+
+There you have how [this] would be articulated… And a second problem. What remains for us?
+Here we have a problem for the future. We remain in a tête-à-tête, a prodigious tête-à-tête
+between two kinds of notions, individual notions of existence or monads, and simple notions of
+essence, specifically Identicals or Requisites. The relation of one and the other, the relation of the
+individual notion with simple notions, is called reflection. It belongs to the monad to reflect and,
+by reflecting, to think of simple notions, the monad being an individual notion. But thinking of
+simple notions is not simply thinking about them; it’s to create Combinatories, to complete
+graphs, etc. It’s to undertake science. On what condition? On the condition that the monad is
+lifted up to a clear region of expression sufficiently large for it to encompass what a simple
+notion means.
+
+And animals don’t know what a simple notion is. Their region of clear expression is so tiny, so
+tiny, and lots of people among humans have no idea and will never enter into this tête-à-tête. So
+this will be our task: what is the relation designated by the reflection between individual notions
+and simple notions? There is one solution that we must exclude, although this comes from, I
+believe, one of the greatest commentators on Leibniz. Gueroult suggested that in this extremely
+complicated problem about which Leibniz’s texts are extremely rare, we could say that in the
+depth of each monad, in the depth of each individual notion, there’s a simple notion.23 I for one
+think that Gueroult absolutely did not himself believe in this solution that, in the end… fine, it’s
+no matter. In any case, for us, we see why it’s impossible since we have placed something else in
+the depth of each monad. We have placed in the depth of each monad a determinate or
+determinable number of singularities. And simple notions are not singularities. They are
+Identicals. So this solution is not feasible.
+
+So another answer to this problem that I lean toward more is that there is a relation between
+individual notions and simple notions to the extent that simple notions organize requisites of
+domains [Pause] and that the individual begins with its own requisites that are the singularities.
+
+                                                                                                   19
+
+Therefore, there is continuous development that causes us to pass from simple notions to
+individual notions and causes us to pass in the following way: there’s an individual notion when
+the requisites are singularities. [Pause] And fine, we’ve covered a great bit!
+
+But then, what emerges here? A problem obviously. This is in all your minds! It’s on all your
+lips! Fine, all that is very well, but then what? Monads that contain the world and God chose the
+world in which Adam sinned, and the sin is included in Adam since Adam expresses the world,
+and the sin is his clear region, can someone be so badly constituted to have in his clear region
+something as evil as sin? And furthermore, are we free? What does that mean? If there is
+inclusion of the predicate in the subject, if crossing the Rubicon is included in Caesar, if sin is
+included in the individual notion of Adam -- although you might tell me, of course, in this
+compossible world, not another -- the fact is that in this world, God caused sin to pass into
+existence as a predicate encompassed in the monad Adam; crossing the Rubicon is encompassed
+in the monad Caesar. As Leibniz says, if he hadn’t crossed the Rubicon, that would have been
+another Caesar. Fine, that is, we would return to our hypothesis of the indefinite proper name:
+but that Caesar, he had to cross the Rubicon. And that Adam, he had to sin. You yourself, you
+had to undertake all the horrors that you’ve committed [Laughter] and me, [I had to do] all the
+good works that I’ve never cease pursuing. [Laughter] This is an example; you can correct it for
+yourself. [Laughter] And well, yes, what is that? What is that?
+
+But what I would like to say, if you aren’t too tired, what I’d like to say is that Leibniz appears to
+me to be one of the most extraordinary philosophers of freedom, and that nonetheless, this seems
+to have begun poorly. Inclusion – understand -- inclusion of the predicate in the individual
+subject seems to completely forbid liberty to the extent that liberty seems suppressed by Leibniz
+even more than by Spinoza, about whom [Leibniz] stated that [Spinoza] suppressed it.24
+
+So well, what’s going to happen in Leibniz when he agrees to consider this, for he is so very
+clever, you know, for he spends his time saying, but I’m going to speak to you about the problem
+of freedom, I’m going to show you how I am saving it? And we realize with astonishment that
+[while] he’s in the process of speaking to us, he seems to be talking to us about our freedom, that
+is, something of great interest for us, whereas, he’s spending his time speaking to us of God’s
+freedom. So, one wants to say, ok fine, were God to be free, that would already create problems
+for us. Is God free, and in what sense is it free? You see why. God was free because God chooses
+between the worlds both of which are compossible, but they are incompossible with one another.
+So, we say, well yes then, it’s subject to the laws of incompossibility. No, because the laws of
+incompossibility, it’s [God’s] the one who created them! So that works out well for God. It’s not
+so complicated, God’s freedom. But how about ours ?! In what sense is Caesar free to cross the
+Rubicon? In what sense is Sextus free to rape Lucretia? There we have a real problem.
+
+And to my knowledge, there’s an enormous number of texts by Leibniz on freedom, but there are
+very few that don’t discuss God’s freedom. He tells us a very simple thing: Leibniz tells us, you
+understand that, 2 and 2 not to make 4 would be impossible. And in other words, it’s necessary
+for 2 and 2 to make 4. But were Adam to sin – here’s the vocabulary; I am trying to set the
+terminology – but that Adam sins or Sextus rapes Lucretia or Caesar crosses the Rubicon, that’s
+not necessary, only it’s certain and assured. [Laughter] So he says – you must pay attention – it’s
+not a mathematical necessity; it’s a moral certitude. See why [this is] a moral certitude since it’s
+the best of possible worlds, but from which I retain [that] it’s certain that Adam sins, has sinned,
+
+                                                                                                     20
+
+and will sin. Before the sin, it’s certain that Adam would sin. It’s certain that… Is it enough to
+say, does distinguishing certitude and necessity suffice in order to assure freedom? In my view,
+at first glance, that suffices to save God’s freedom. That doesn’t suffice to save our freedom.
+And yet, I am telling you [that] Leibniz is without doubt the philosopher who created such an
+extraordinary philosophy of freedom that it’s fully satisfying for all of us, but there as well, it
+seems to me, it hasn’t been, it hasn't been seen.
+
+And I see only two fundamental texts on… in which he doesn’t pull back: the first is the fifth
+letter to Clarke – Clarke was an English disciple of Newton – there was an extremely
+uncomfortable exchange of letters between Clarke and Leibniz, very tense, because there was
+such a settling of scores between Newton and Leibniz, very, very tense. But it’s in the final letter
+from Leibniz to Clarke that Leibniz tells us himself some extraordinary things about freedom.25
+And on the other hand, another longer text, New Essays on Human Understanding, book 2,
+chapter 21, that belongs to the greatest texts, … these two texts belong to the greatest texts of the
+philosophy on human freedom. Fine.
+
+So, at this point, I direct a question to you: I myself would like to begin. If you are no longer
+able, there’s not point then, no point. If you aren’t able to, those who are unable can leave
+without… I told you, you put me in such a state that I cannot release you and cannot give you a
+break. There we are. So, those who’ve had enough, they can leave, and those who have questions
+to ask on what we’ve done today, they can stay. Ehhhh… or else, then, I just continue, I can start
+on freedom if you feel lively enough mentally. Excuse me for proceeding this way. Who would
+like to continue on freedom?... Yes, you still can, this won’t last long. That way, I will pick this
+up again after vacation. [Pause]
+
+Well, I’m going to tell you, [Pause] I’m going to tell you, Leibniz tells us two things, in my
+view. This is very simple: everything rests on an astonishing psychology of the motive (motif), of
+the motive. When Leibniz wonders, but what precisely is a motive?26 A motive, a motive for
+acting, what is a motive? He’s going to tell us two things in the letters to Clarke, in the fifth letter
+to Clarke.27 Why? Because when we compare motives, for example, you see, do I leave or do I
+stay? Do I leave or do I stay? Do I cross the Rubicon or do I not cross it? Do I, Sextus, take
+power or do I not seize it? Or else, do I call my loved one or do I not call? That’s a problem, eh?
+Or else, do I go out to the movies or not go out at all? I am multiplying, but… cases.
+
+And well, and well, and well, when you consider motives like scales, like weights on a scale, the
+mind will go to the strong side where you discovered the weights. It’s simply that you don’t
+sense this immediately. With a perfect set of scales, we’d say in fact that artificial conditions are
+required: the plate has to be well balanced, all that. To follow the metaphor, resetting everything
+from zero would be needed, all that. We’d have to… Ok, fine. So when you do that, it’s obvious
+that you are objectifying the motives. You make of the motive an objective representation as if
+the motive was something existing outside the mind and that the mind represented for itself.
+
+In other words, the first error regarding the problem of freedom is an operation that we always
+observe consisting of objectifying the motive, as if the motive were some thing, any thing at all,
+a distinct representation of the soul whereas the motive purely and simply is an act of the soul
+and there is no motive and soul. There is the soul that projects itself in a motive. This is very
+
+                                                                                                     21
+
+close to a phenomenology; it’s a phenomenology of the motive. Here you have the first illusion
+not to hold onto, not to entertain.
+
+A second illusion: when you compare motives to weights and you have – I don’t know what; I
+don’t know what I’m saying – and you’ve objectified them, you complete that with a second
+error, specifically you must divide them, in fact, since you must invoke the motives in order to
+choose a specific motive. What [Leibniz] says there is very, very intelligent. You have to
+distinguish the motive, on one hand, and on the other, the inclinations, he says, the inclinations
+that cause you to prefer one particular motive to another. So therefore, you both objectify the
+motive and, having lost subjectivity, you divide it into an objective motive and a subjective
+inclination. [Pause]
+
+There’s the dual critique. From this point, he’s going to relate his vision, his splendid vision of
+the motive. It’s five in the evening; no, it’s seven minutes to noon, and I tell myself, well hey, I’d
+really like to go to the café, and you see my drama: it’s the two motives, so one could believe
+them to be weights on a scale: do I continue working on my course, or do I go to the café?28 I say
+this all the more lightly since I never go to cafés anymore, [Laughter] so don’t think that this is a
+living example. It’s an abstract example. Or else, some among you that are here, do I stay or do I
+leave? Fine.
+
+So, Leibniz says, if you objectify the motive, first, you are going to believe that you are
+considering for the first time – admire this! – that you are considering for the first time your two
+motives: go to the café, stay home and work. Good. And then, you leave off for a moment; you
+give yourself some time for reflection, and then you return to your two motives. When you have
+objectified your two motives, you have the impression that they haven’t changed, eh? You
+simply tell yourself that reflection is going to help you discover something hidden that you
+hadn’t seen the first time in the motive. In other words, you provide yourself with the following
+presentation: [Deleuze goes to the board, away from the microphone, creating certain audio
+difficulties] A and B, thus your objectified motives. There you are, and the first operation, you
+consider them closely. The second operation, you’ve had enough; [Laughter] you move on to
+something else, you reset your mind, and then you come back to your motives, and because
+you’ve objectified them, you think that they haven’t changed, eh, [Deleuze sits back down] that
+this is still A and B. And notice that this is required as a function of your screwed-up linear
+schema. [Pause] But that’s not it at all.
+
+So what’s the truth here? [Pause; Deleuze returns to the board] The truth is that, between the
+first deliberation and the second one, some time passes by, and the motives have been
+completely caught up in time, such that your true schema is what? First deliberation [Deleuze
+draws on the board], A, B; second deliberation, A prime, B prime. [Deleuze sits back down]
+From your first deliberation to your second deliberation, A has become A prime, B has become
+B prime. In other words, your motives have endured, and by enduring, they have changed. What
+have I done? What difference is there between my two schemas? I’d say that I have a linear
+schema and I have a curvilinear schema. I don’t need to make you notice that my second schema
+is an inflection. [Pause] Leibniz will confirm this by saying, the soul is inclined without being
+necessitated.29 But “inclined”, how do we not savor this word that we’ve seen following us from
+the start with our tales of the inflection? Inclination (inclinaison) of the soul or its preference
+
+                                                                                                   22
+
+(inclination), this is the inflection that it traverses in so-called voluntary events. Hence, my two
+motives haven’t at all remained immobile. They have followed the inflection.
+
+Let’s pass on to the other aspect that will completely confirm this, and then we will have
+finished. No more than movers (mobiles) [or] motives (motifs) remained identical to themselves
+from one deliberation to another, no more did they divide into objective motive and inclination
+since inclination was the very movement of the motive. And what is this movement of this
+motive? Well, this is obvious. It’s that a motive is not abstract. I made it abstract at first after
+having considered it as an object independent from the soul. First error. But I also made it
+abstract because I cut it off completely, and from what? I’d say, from the cloud surrounding it.
+Are you rediscovering this topic, the extent to which this is entirely coherent? You already sense
+that the motive is a singularity which, like any singularity, is surrounded by a cloud according to
+which it’s going to be able to be prolonged or not.
+
+What is this cloud? I’d really like to go to the café. Fine. But, wanting to go to the café is an
+abstraction. But Leibniz does, … he’s very, very concrete in what he says. You know, he says,
+wanting to go to a café – to the inn (auberge), they’d say back then… But consider the case of an
+alcoholic. We just have to see that it’s not simply about alcohol; it’s an entire dusting
+(poudroiement), an entire dust [layer] of tiny things: the odor of that place I like, if I am… -- this
+is an alcoholic speaking – the pals he will find there, the noise at the café, the café’s noise that’s
+without equal, that resembles no other noise, an entire infinite aggregate of tiny solicitations,
+such that if you don’t take them into account when you speak about an alcoholic, it would be
+better not to speak at all. One must not say, hey listen, just keep yourself from drinking, ok?
+[Laughter] It’s not at all about drinking a glass; it’s… People, they don’t understand a thing. It’s
+a world, it’s a world.
+
+And this world, one cannot live one’s there except that the alcoholic who likes it. He lives in this
+café noise. He lives in that dust in which we walk, half vomit, half spit, half cigarette butts, ashes
+and fog, and the folds of these ashes and this fog, all that, the voices through the folds, he notices
+his glass, [saying] ah yes, right. [Laughter] But drinking at home, that’s something completely
+different. It’s another case, drinking at home. That has no relation with the alcoholic at the café,
+no relation. And then necessarily, everything depends on the cafés he frequents; there are the
+local whores there, how are you doing, and all that, it’s great, it’s… One feels… In the end, one
+feels taken in by a welcoming humanity. Fine, you understand?
+
+And what does that mean? Well, you are going to complete it yourself. It’s not difficult. At each
+deliberation, I not only have my changing motives that do not stay like weights on the scale, but
+onto which an entire dusting of tiny solicitations congeals, from both sides, in fact, from both
+sides. At each deliberation, what increases? The amplitude, I’d say, the amplitude of the
+inflection, that’s what changes, the amplitude of the inflection.
+
+What is it to be free? It’s pushing your motives all the way to the maximum amplitude of which
+you are capable, that is, to cause them to conglomerate or coagulate the maximum of tiny
+solicitations passing under your nose. That’s what it is to feed your decision to the point of
+deciding when… what? When the act you choose expresses your full soul, at the maximum of its
+amplitude. And if you choose the miserable activity of going to drink a glass at the café, while
+turning your back on philosophy, what must we say? We must say that, with all your soul,
+
+                                                                                                    23
+
+you’ve chosen to be miserable; [Laughter] we have to say that you’ve chosen according to the
+clear portion of the world that you express. There you are. And if you say, no, no, I am staying
+in to read Leibniz [Laughter] – you must not believe that this is an abstraction. An abstraction
+has never had the least chance when faced by something concrete; this is equally concrete -- it’s
+that your soul has a sufficient amplitude so that – call it motive B, reading Leibniz – so that on
+the side of plan B, this amplitude will be maximum whereas, on the side of plan A, the amplitude
+will not at all fill up your soul.
+
+So, it’s a matter of your soul. Adam sins, yes; Sextus gets drunk; or else, I don’t know, someone
+goes and gets drunk. The act is free, but to what extent? To the extent that it expresses the entire
+amplitude of the soul at the moment he commits the act. So you can always regret that, at that
+moment, your region – as this happens a lot – what’s awful is when… These are daily variations.
+There’s an hour, for example, there’s an hour in which the greatest of philosophers tells himself,
+ah, if I were to go meet Julot at the café to discuss things for a bit. Fine. There are moments in
+which his soul has this tiny amplitude, and that expresses his soul. At that moment, he must go to
+the café; “must” is sad to say, but… [Laughter; pause] since it’s the act that expresses the
+amplitude of his soul at that moment.
+
+Or else then, there’s another solution fortunately. No, he doesn’t have to. It’s probable he’ll go to
+the café, but he doesn’t have to, he doesn’t have to. He only has to bide his time (gagner du
+temps). He only has to bide some time since all these desires animated by the tiny solicitations of
+which we aren’t even conscious – you sense this: these are unconscious solicitations that
+crisscross us from everywhere, the memory, no, not the memory, the noise that I like, the kind of
+noise that I like, all that – well then, that changes greatly according to the stage of the day. For
+example, alcohol, drugs, all that filth, it’s like at certain hours of the day, there are certain hours
+that are especially difficult. If you manage to pass beyond that moment – I’m not saying this for
+every case, but for alcohol, its periodic character is particularly clear – if you manage to bide
+your time, one has to bide time with oneself.
+
+We have such bad faith, we are so wretched (crapuleux) that we have to play tricks, right? We
+have to play tricks with our soul. If you gain a bit of time, good, that will cause your soul to open
+itself toward the other amplitude in the meantime, and where there isn’t the same problem.
+You’ll say, oh right, it’s too late; I should have gone out earlier. This method is infallible.
+Whatever the object is of your decision to be taken, apply this method of the soul’s amplitude.
+Never regret what you’ve done at a moment when your soul’s amplitude was particularly
+limited. You’ll get over it (Tant pis). Regret only not having an adequate amplitude of the soul.
+Work to increase the amplitude of your soul in whatever way you can. I don’t at all say that it’s
+only philosophy that succeeds, but it’s certain that, for example… [Interruption of the recording]
+[142:24]
+
+… a null amplitude, even in cafés, even in the cafés that I just described, there are strange things,
+and in a certain manner, there arise strange moments of generosity and understanding, and
+almost sometimes beauty; other times, no… no. All that, all that, it’s up to you to lead your life,
+but manage yourself or lead it in the manner of Leibniz.
+
+And on that note, go on out to the café, [Pause] and I will return to this after vacation since
+perhaps you’ve heard me: have you been struck by this, that another philosopher has taken up
+
+                                                                                                                     24
+
+some themes extremely close [to these], and yet people don’t usually connect them, and that
+other philosopher is Bergson, in his theory of freedom?
+
+Good… Oo là là.. What time is it? … [Various noises; a student asks a question about motives
+and movers (mobiles)] Leibniz says them, but they come down to the same thing, these are
+motive and inclination. Movers are still in the order of the motive, whereas the motive is in the
+order of inclination, if you will; it’s tiny perceptions and motives that Leibniz distinguishes,
+whereas movers, that … [End of the recording] [2:24:04]
+
+Notes
+
+  Following the hybrid class of 27 January (half Deleuze and half invited lecturer from mathematics, Marcel
+Maarek), this session marks the mid-point of the academic year and provides groundwork to develop discussion
+after the February semester break. The session begins in mid-sentence with Deleuze speaking prior to the actual start
+of class.
+  For a reference to Heidegger in this context, see The Fold (University of Minnesota Press, 1993), p. 30; Le Pli
+(Minuit, 1988), p. 42.
+  On Mallarmé and the fold, see The Fold, pp. 30-31; Le Pli, pp. 43-44.
+  Deleuze refers here to the poem “Un autre éventail de Mademoiselle Mallarmé”.
+  Deleuze refers obliquely to the poem, “L’Azur”, “The Azure”, and the verse: “Oh, fogs, arise! Pour your
+monotonous ashes down”.
+  Deleuze refers here to the poem, "Éventail de Madame Mallarmé".
+  Reference to the poem "Remémoration d’amis belges".
+  In fact, Mallarmé says “la pierre veuve” (the widowed stone), but uses the word “vétuste” to describe the
+atmosphere.
+  "Le pliage du journal avec le livre se dépasse vers le tassement": this citation is not an exact quotation; see the
+prose text "Divagations", particularly, "The Book, Spiritual Instrument”, in Stéphane Mallarmé. Selected poetry and
+prose, trans. Mary Ann Caws (New York: New Directions, 1982).
+   Deleuze refers here to the novel by Maurice Leblanc, La vie extravagante de Balthazar (Balthazar’s Extravagant
+Life), that he considered during the 27 January 1987 seminar. See also The Fold, pp. 62-63; Le Pli, pp. 83-84.
+   On this apparent paradox between ordinaries and singularities, see The Fold, pp. 60-61; Le Pli, p. 81.
+   On Leibniz’s position on space-time in contrast to that of the receptacle, see The Fold, p. 66-67; Le Pli, pp. 89-90.
+   See The Fold, pp. 49-50; Le Pli, pp. 65-66, and the discussion of sufficient reason in the sessions on 13 January
+and especially 20 January 1987.
+   See chapter 4 of The Fold, on sufficient reason and the discussions of these points during the sessions on 13
+January and 20 January 1987.
+   See in chapter 4, The Fold, p. 57; Le Pli, p. 77.
+   Deleuze published a book review in 1966 on Simondon’s book, L’individu et sa genèse physico-biologique (Paris:
+PUF, 1964); see Desert Islands and Other Texts (New York: Semiotext(e) 2004), pp. 186-189; L’île déserte et
+d’autres textes (Paris, Minuit 2002), pp. 120-124. The complete version of Simondon’s text will be published as
+L’Individuation à la lumière des notions de forme et d’information (Grenoble: Millon, 2005), translated as
+Individuation in Light of Notions of Form and Information, trans. Taylor Adkins (Minneapolis: University of
+Minnesota Press, 2020). See also the Painting seminar, session 5, 12 March 1981, for Simondon on the distinction of
+molding and modulating.
+   On the definition of the individual and the individual notion, see The Fold, pp. 63-64; Le Pli, pp. 86-89.
+   For several developments on the expression of clear regions, see The Fold, pp. 25, 50, and especially 60; Le Pli,
+pp. 35, 67, and especially 80.
+   On this distinction of definitions, see The Fold, p. 63; Le Pli, pp. 84-85.
+   On the remarkable and the ordinary, see The Fold, pp. 91-92; Le Pli, pp. 121-122.
+   On this question, and then on individuation and nominalism, see The Fold, pp. 64-65; Le Pli, pp. 85-87.
+   On the Sextus story, see The Fold, pp. 60-62; Le Pli, pp. 82-83, and the discussion in the 27 January 1987 session.
+   On Martial Gueroult, see The Fold, p. 63 and the index; Le Pli, p. 85.
+
+                                                                                                                    25
+
+   Deleuze makes the same comparison in The Fold, p. 69; Le Pli, pp. 93-94.
+   By referring below to the foundation of a psychology and a phenomenology of motives, Deleuze cites the two
+texts indicated here, in The Fold, p. 152, note 5; Le Pli, p. 94.
+   On motives, see The Fold, p. 69; Le Pli, pp. 94-95.
+   Deleuze returns to the topic of motive and to this letter to Clarke in the following session, on 24 February 1987.
+   Deleuze examines this choice and the errors that threaten it in chapter 5, The Fold, pp. 70-71; Le Pli, pp. 94-96,
+and continues this discussion in subsequent session, 24 February 1987.
+   Deleuze cites this statement from Leibniz’s text, Discourse on Metaphysics, paragraph 30, in The Fold, p. 70; Le
+Pli, p. 95.

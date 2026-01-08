@@ -1,0 +1,1234 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les principes et la liberté
+
+Séance 8, le 27 janvier 1987 : Les Principes et la liberté (3) Récits du compossible et de
+l’incompossible, et l’intervention d’un chercheur invité sur les voisinages et les singularités
+
+Transcription initiale, WebDeleuze ; transcription augmentée, Charles J. Stivale
+
+[Le texte, jusqu’à la minute 59, est la transcription disponible à Web Deleuze, suppléée avec
+quelques ajouts de l’enregistrement de la BNF et YouTube ; les 70 minutes ultérieures sont
+nouvellement transcrites et tirées entièrement de l’enregistrement de la BNF/YouTube]
+
+Partie 1
+
+… Il faudrait travailler d’autant plus que notre séance est courte parce que j’ai des réunions
+indispensables pour votre avenir. J’ai des réunions à partir de midi. Donc, ce sera une séance
+plus courte.
+
+Voilà où nous en sommes. La première chose que je voudrais… [Pause] Nous nous trouvons
+devant comme trois questions, trois questions à préciser. Puis il suffirait de les préciser pour que,
+moi, je sois content. C’est-à-dire qu’elles nous servent de conclusion, ces trois questions.
+
+La première question, c’est, nous l'avons vue la dernière fois, c'est la notion et l'extrême
+importance de la notion de singularité, [1 :00] et je crois que singularité ou point singulier, c'est
+une notion d'origine mathématique et qui apparaît avec les débuts de la théorie des fonctions. Les
+historiens des mathématiques considèrent, à juste titre, que la théorie des fonctions est, sans
+doute, la première grande formulation dont dépend ce qu'on peut appeler mathématiques
+modernes, la théorie des fonctions analytiques. Or Leibniz est à la base de cette théorie des
+fonctions. [2 :00] L'importance de Leibniz en mathématiques est sans doute que dans ses œuvres
+mathématiques, il élabore une théorie des fonctions à laquelle il n'y aura, je ne dis pas plus rien à
+développer, mais à laquelle il y aura très peu à changer. Donc c'est un acte mathématique
+fondamental qui oriente les mathématiques vers une théorie des fonctions.
+
+Or les points singuliers ou les singularités sont l'instrument essentiel de cette théorie. Seulement
+Leibniz ne se contente pas d'être sans doute le premier grand mathématicien à développer toute
+une théorie des fonctions, je ne dis pas qu'il l'invente. Evidemment, c'est au dix-septième siècle
+que se dessinent les rudiments d'une grande théorie des fonctions, [3 :00] mais non seulement il
+est cela, Leibniz, mais le concept de singularité va essaimer et devient chez lui un concept
+philosophico-mathématique, et en quel sens? Au sens exact ou -- en gros -- nous pouvons dire:
+les singularités – vous vous attendez bien à ce qu’il y en ait beaucoup ; on a déjà vu qu'il y en
+avait de plusieurs sortes -- et ce sera un objet pour nous que classer les singularités, au sens
+leibnizien du terme singularité.
+
+Or au premier sens du mot singularité, qu'est-ce qu'une singularité pour Leibniz? Je dirais là très
+sommairement qu'une singularité, c'est une inflexion, ou si vous préférez, c’est un point
+
+                                                                                                        2
+
+d'inflexion; or le monde est la série infinie des inflexions. Le monde est la série infinie des
+inflexions possibles. Tout ça, on l’a vu. Donc, [4 :00] ma première question-conclusion, c'est :
+qu'est-ce qu'une singularité, ou qu'est-ce qu'un point singulier, une fois dit que -- en gros -- nous
+pouvons dire, ben oui, qu'une singularité, c'est une inflexion, ou bien une singularité c'est là où se
+passe quelque chose dans une courbe ? Donc notre idée, depuis le début, de la surface à courbure
+variable qui est le thème fondamental qui nous a paru être celui de Leibniz, est inséparable d'une
+technique et d'une philosophie des singularités et des points singuliers. [Pause]
+
+Je n'ai pas besoin d'insister, je pense, sur la nouveauté du [5 :00] sens d'une telle notion, car bien
+sûr avant, la logique connaissait l'universel, le général, le particulier, le singulier. Mais la
+singularité au sens de point singulier ou ce qui arrive à une ligne, ça c'est quelque chose de tout à
+fait nouveau, et en effet, c'est d'origine mathématique. Alors dès ce niveau-là, je peux définir
+alors philosophiquement un événement comme un ensemble de singularités. [Pause] Je dirais à
+ce moment-là que la notion n'est même plus seulement d'origine mathématique, mais d'origine
+physique. Un point critique en physique -- [6 :00] évaporation, cristallisation, tout ce que vous
+voulez -- un point critique en physique se présente comme une singularité. Tout ça, vous le
+sentez ; c'est déjà tout un ensemble de problèmes, l'avènement de cette notion mathématicophysico-philosophique, le point singulier, faisons-en hommage à Leibniz.
+
+Voilà un premier groupe de questions qui, pour nous, sont bien lancées; mais vous sentez que
+c'est matière à développement, à recherche.
+
+Deuxième question, ou deuxième pressentiment que nous avons: peut-être que entre deux
+singularités, il y a un type de rapport tout à fait original, et une logique de l'événement exige
+[7 :00] que ce type de rapport soit spécifié. Qu'est-ce qu'un rapport, et de quel type sont les
+rapports entre singularités ? Et la dernière fois, j'ai avancé une hypothèse à partir de l'idée
+suivante : c’est qu’une notion aussi bizarre que celle que Leibniz instaure en nous disant, si vous
+prenez un ensemble de possibles, ils ne sont pas forcément compossibles, donc la relation de
+compossibilité et d'incompossibilité serait ce type de relation entre singularités. [8 :00] "Adam
+non-pécheur” est incompossible avec le monde où Adam a péché. Encore une fois, c’est ça qui
+m'importe, comprenez bien, "Adam non-pécheur " est contradictoire avec "Adam pécheur", mais
+il n'est pas contradictoire avec le monde où Adam a péché. Simplement entre le monde où Adam
+a péché et le monde où Adam ne pèche pas, il y a incompossibilité.
+
+Donc la situation de Dieu quand il crée le monde est très bizarre, vous voyez, et ça fait partie des
+idées les plus célèbres de Leibniz. La situation de Dieu quand il crée le monde c'est que Dieu se
+trouve [9 :00] dans la situation où il choisit entre une infinité de mondes possibles ; il choisit
+entre une infinité de mondes également possibles, mais qui ne sont pas compossibles les uns avec
+les autres. Dans l'entendement de Dieu, il y a une infinité de mondes possibles, et Dieu va
+choisir, parmi ces mondes possibles, qui ne sont pas compossibles les uns avec les autres, il va
+choisir l'un d'entre eux.
+
+Lequel ? Heureusement on n’a pas encore à s'occuper de cette question, mais c'est facile à
+deviner la réponse de Leibniz: il va choisir le meilleur, le meilleur. Il va choisir le meilleur des
+mondes possibles. Il ne peut pas les choisir tous à la fois ; [10 :00] ils sont incompossibles. Il va
+donc choisir le meilleur des mondes possibles, idée très, très curieuse, mais qu'est-ce que veut
+
+                                                                                                         3
+
+dire le meilleur, et comment est-ce qu'il choisit le meilleur? Il faut bien une espèce de calcul!
+Qu'est-ce que ce sera le meilleur des mondes possibles, et comment est-ce qu'il le choisit? Est-ce
+que Leibniz ne va pas s'inscrire dans une longue théorie de philosophes pour qui l'activité
+supérieure est le jeu? Seulement dire que, pour beaucoup de philosophes, l'activité supérieure ou
+divine est le jeu, ce n'est pas dire grand chose parce qu'il s'agit de savoir de quel jeu, de quel jeu
+il est question? Et tout change suivant la nature du jeu. Il est bien connu que déjà Héraclite
+invoquait le jeu de l'enfant-joueur, mais tout dépend à quoi qu'il joue, l'enfant-joueur. [11 :00]
+Est-ce que le Dieu de Leibniz joue au même jeu que l'enfant d'Héraclite ? Et est-ce que ce sera le
+même jeu que Nietzsche invoque? Est-ce que ce sera encore le même jeu que celui de Mallarmé?
+
+Il faudra peut-être, et Leibniz nous forcera à faire une théorie des jeux, même pas à faire une
+théorie des jeux, lui-même, ça le passionnait. Au dix-septième siècle commencent les grandes
+théories des jeux. Leibniz y prêtera son concours. Et j'apporte la remarque érudite suivante, c'est
+que Leibniz connaît le "go", c'est très intéressant ça. [Rires] Il connaît le go, et dans un petit texte
+très étonnant, il fait un parallèle entre le "go" et les échecs, [12 :00] et il dit que, finalement, il y a
+deux sortes de jeux. Il ne le nomme pas "go", il dit "un jeu chinois", et il dit que la grande
+différence entre le "go" et les échecs -- et il dit une chose très, très juste --, c'est que les échecs,
+ça fait partie des jeux où il s'agit de prendre, de prendre. On prend les pièces. Remarquez, on ne
+les prend pas de la même manière -- déjà, vous voyez déjà la classification des jeux qui
+s'esquisse -- on ne les prend pas de la même manière qu’aux échecs et aux dames, donc il y a
+plusieurs modes de capture; mais c'est des jeux de capture. Tandis que le "go", il s'agit d'isoler,
+de neutraliser, d'entourer, pas du tout de prendre, [mais] d'inactiver.
+
+Alors je dis "remarque érudite", c'est que dans les éditions [13 :00] de Leibniz du dix-neuvième
+siècle, le jeu de "go" est si peu connu que, à propos de ce texte de Leibniz, il y a une note, par
+exemple dans le Couturat, au début du vingtième siècle, Couturat qui est un très bon spécialiste à
+la fois des mathématiques et de Leibniz, il y a une note de Couturat qui met en note juste
+l'allusion de Leibniz à ce jeu chinois, et il renverrai à, il décrit un peu, et il dit "d'après ce que
+nous a dit un spécialiste de la Chine". Donc c'est très curieux puisque d'après la note de Couturat,
+le "go" n'était pas du tout connu à ce moment-là. C’est très récente son importation en France.
+Enfin bon, bref, je perds du temps. [Rires] C'était pour vous dire...pour vous dire quoi? Oui,
+[14 :00] à l'issu de quel calcul, de quel jeu, Dieu va-t-il choisir un monde déterminable comme le
+meilleur ? Bon, ça, on laisse de côté parce que, vous comprenez, ce n'est pas difficile, les
+réponses, elles ne sont pas difficiles, et pour le moment on nage dans le difficile.
+
+Ce que je dis, c’est : ce qui nous importe, et c'est ma seconde question : quel est le type de
+relation qui permet de définir la compossibilité et l'incompossibilité? Et la dernière fois, j'étais
+bien forcé de dire que les textes de Leibniz manquaient un peu à cet égard, mais qu'on avait le
+droit de tenter une hypothèse, et l'hypothèse que nous tentions était celle-ci: est-ce qu'on ne
+pourrait pas dire que il y a compossibilité entre deux singularités lorsque le prolongement de
+l'une [15 :00] jusqu’au voisinage de l'autre donne lieu à une série convergente, et au contraire,
+incompossibilité, lorsque les séries divergent ? Ce serait donc la convergence et la divergence
+des séries qui me permettraient de définir la relation de compossibilité et d'incompossibilité.
+Donc la compossibilité et l'incompossibilité seraient les conséquences directes de la théorie des
+singularités. C'est mon second problème, car j'insiste là-dessus, c'est des problèmes. C'est le
+second problème que l'on pouvait tirer de notre séance précédente.
+
+                                                                                                         4
+
+Troisième problème, et dernier problème, c'est que, dès lors, j'avais au moins [16 :00] -- avantage
+inappréciable, on va voir --, j'avais au moins une dernière hypothèse sur cette question
+fondamentale chez Leibniz : qu'est ce que l'individualité ou l'individuation? Pourquoi [est-ce]
+une question fondamentale chez Leibniz? On l'a vu, déjà. S'il est vrai que toute substance est
+individuelle, s'il est vrai que la substance, c'est la notion individuelle désignée par un nom
+propre, vous, moi, César, Adam, etc., la question "en quoi consiste l'individuation ?", "qu'est-ce
+qui individue la substance si toute substance est individuelle ?", devient fondamentale. Ma
+réponse [17 :00] ou mon hypothèse était celle-ci: est-ce qu'on ne peut pas dire que l'individu, la
+substance individuelle, c'est une condensation, c'est un condensé de singularités compossibles,
+c'est-à-dire convergentes ? Ce serait, ce serait enfin une définition de l'individu ; il n'y a rien de
+plus difficile à définir que l'individu. Donc on aurait fait… Si ça peut se dire, je dirais alors,
+presque, que les individus ce sont des singularités de seconde espèce.
+
+Qu'est-ce que ça voudrait dire, un condensé de singularités? Par exemple, l'individu Adam, je le
+définis par première singularité, et là, je reprends les textes des lettres à Arnauld : "premier
+homme"; deuxième singularité, "dans un jardin"; troisième singularité: "avoir une femme née de
+sa propre côte"; quatrième singularité: "avoir succombé à la tentation". Vous voyez toutes sortes
+de [Début de WebDeleuze lacune 1] problèmes : est-ce que, pour définir un individu, il faut un
+nombre infini de singularités ou pas ? Là c’est un problème. Autre problème : je ne peux définir
+l’individu comme un condensé de singularités que si la singularité n’implique pas déjà
+l’individu. Du coup, ça m’intéresse beaucoup. En effet, la singularité n’implique pas déjà
+l’individu. [19 :00] L’individu, c’est quoi ? C’est le sujet qui enveloppe des singularités ; c’est le
+sujet qui inclut des singularités. C’est l’âme, on l’a vu. [Pause] Mais, [Fin de WebDeleuze
+lacune 1] les singularités, elles préexistent au sujet, en quel sens? Il y a une expression parfaite
+pour nous, on dira des singularités qu'elles sont pré-individuelles.
+
+Dès lors, il n'y a aucun cercle vicieux, ce qui serait tout à fait fâcheux, à définir l'individu comme
+un condensé de singularités si les singularités sont pré-individuelles. "Condensé" signifie quoi?
+Toutes sortes [de textes] de Leibniz nous disent et nous rappellent que les points [20 :00] ont la
+possibilité de coïncider ; c'est même pour ça que les points ne sont pas des parties constituantes
+de l'étendue. Si j'ai un nombre infini de triangles, par exemple, ou d'angles, si j'ai un nombre
+infini d'angles, je peux faire coïncider leurs sommets. Je dirais que "condensé de singularités"
+signifie que les points singuliers coïncident. L'individu est un point, comme dit Leibniz, mais un
+point métaphysique ; le point métaphysique, c'est la coïncidence d'un ensemble de points
+singuliers. D'où l'importance -- et ça c'est ce qu'on a fait depuis le début, mais je tiens à le
+justifier perpétuellement --, il est bien entendu que Leibniz nous répète tout le temps: il n'y a que
+les substances [21 :00] individuelles. Finalement il n'y a de réel -- entendez -- il n'y a de réel que
+les substances individuelles. [Pause]
+
+Mais ça n'empêche pas, on l'a vu , et c'est ce qu'on a fait, il fallait partir du monde, c'est-à-dire: il
+fallait partir de l'inflexion. Il fallait partir de la série infinie des inflexions. Et c'est seulement en
+second lieu qu'on s'apercevait que les inflexions -- ou le monde lui-même -- n'existent que dans
+les substances individuelles qui l'expriment. [Pause] Mais ça n'empêche pas que les substances
+individuelles résultent du monde. [22 :00] C'est ce que je vous disais, il faut maintenir
+absolument les deux propositions à la fois: les substances individuelles sont pour le monde, et le
+monde est dans les substances individuelles. Ou, comme dit Leibniz: Dieu n'a pas créé "Adam
+
+                                                                                                        5
+
+pécheur" ; ça c'est le texte clef pour moi puisque, sans ce texte, tout ce qu'on a fait, notre ordre
+que nous avons suivi dans le premier trimestre, aller du monde à la substance individuelle, ne
+serait pas valable. Dieu n'a pas créé "Adam pécheur", il a créé le monde où Adam a péché, une
+fois dit que le monde où Adam a péché n'existe que dans les notions individuelles qu'il
+l’exprime, celle d'Adam et celles de nous tous qui vivons sous le péché originel. Bon. [23 :00]
+
+Alors vous voyez. Mon troisième point, mon troisième point, c'est toute cette sphère du problème
+de l'individuation où je crois que Leibniz est, là aussi, le premier. Si je résume les trois points, je
+dis que, parmi toutes les choses fondamentales que Leibniz apporte à la philosophie, il y a
+premièrement l'irruption de la notion mathématico-physico-philosophique de singularité, à quoi
+répond mon problème, "mais en fin de compte, qu'est-ce qu'une singularité ?" parce qu'on n’en
+aura jamais fini avec la singularité comme élément constituant des événements. Une logique de
+l’événement, une mathématique de l’événement, c'est une théorie des singularités. Or ça se
+confond en mathématiques avec la théorie des fonctions, [24 :00] mais nous réclamons non
+seulement une théorie des fonctions, mais nous réclamons aussi une logique de l'événement.
+
+Deuxième point: les types de relations d'une singularité à une autre, compossibilité,
+incompossibilité, séries convergentes, séries divergentes, et quelles sont les conséquences de cela
+pour l'entendement de Dieu, et pour la création du monde, et pour le jeu de Dieu, si Dieu crée,
+c'est-à-dire choisit le meilleur des mondes par une espèce de calcul ou de jeu ? Troisième point:
+qu'est-ce que l'individualité si l’on part de l'idée qu'elle condense un certain nombre de
+singularités, ou bien une infinité de singularités, etc., ces singularités étant dès lors
+nécessairement pré-individuelles ? [25 :00]
+
+Voyez, ça fait trois rudes problèmes qui sont … Alors, je voudrais juste – avant, là c'est tout
+facile, avant que nous passions… avant que je demande à ceux qui sont plus compétents que moi
+– je voudrais juste en tirer des conséquences reposantes de tout ça. Vous voyez cette situation
+très curieuse, le compossible, l'incompossible. Dans l’entendement de Dieu s'agite une infinité de
+mondes possibles. Et là, Leibniz y va à fond. Et je demande pardon à ceux qui étaient là, je crois
+bien, il y a deux ans, j'ai déjà parlé de ça à propos d'autre chose, qui était un problème concernant
+le vrai et le faux, et là, il faut de toute évidence que je le reprenne, mais je vais le faire assez vite.
+[26 :00] Mais je parle pour ceux qui n'étaient pas là. Il y a trois textes fondamentaux que vous
+devez considérer. [Il s’agit des textes – de Leibniz, Borges, et Leblanc – considérés longuement
+dans la séance 3 du séminaire Cinéma 3 (le 29 novembre 1983)]
+
+Le premier est très célèbre, c'est celui de Leibniz lui-même, dans La Théodicée. Et dans La
+Théodicée, troisième partie, paragraphes 413 [et] suivants. C’est un texte éminemment, pour
+reprendre notre thème, éminemment baroque. Qu'est-ce qu'on appelle un récit baroque? Par
+exemple, Gérard Genette, d'autres critiques, se sont occupé de ça, [27 :00] et en gros, ils sont
+tous d'accord pour nous dire ceci : ce qui caractérise les récits baroques -- à première vue,
+immédiatement --, ce qui caractérise les récits baroques, c'est avant tout l'emboîtement des récits
+les uns dans les autres. D’une part, l’emboîtement des récits les uns dans les autres, et d'autre
+part, la variation du rapport [Pause] narrateur/narration, les deux ne faisant qu'un. A chaque récit
+emboîté dans un autre, en effet, correspond un rapport narrateur/narration d'un type nouveau.
+
+                                                                                                        6
+
+Si vous prenez, à partir du paragraphe 413, l'histoire très curieuse que Leibniz raconte, et qui est
+belle comme tout [28 :00] -- dans La Théodicée --, vous verrez que c'est typiquement un récit
+baroque car il part d'un dialogue entre un philosophe de la Renaissance qui s'appelle Valla,
+[Début de la lacune 2 de la transcription WebDeleuze] un dialogue entre Valla et Antoine sur le
+thème, "Dieu est-il responsable du mal ?" [Pause] Et dans ce dialogue [Fin de WebDeleuze
+lacune 2] un personnage romain est invoqué, Sextus, Sextus, le dernier roi de Rome qui a montré
+de mauvaises passions, et qui notamment a violé Lucrèce. [29 :00] Certains disent que c'est son
+père qui a violé Lucrèce, mais enfin dans la tradition que Leibniz retient, c'est Sextus qui viole
+Lucrèce. Et la question est: est-ce que c'est la faute de Dieu ? Est-ce que Dieu est responsable du
+mal?
+
+Eh bien, à ce premier récit, le dialogue Valla-Antoine, dans ce premier récit s'emboîte un second
+récit qui est Sextus allant consulter Apollon, pour lui dire, mais enfin, Apollon, qu'est-ce qui va
+m'arriver? Puis se juxtapose [30 :00] un troisième récit : il est insatisfait, Sextus est insatisfait de
+ce que lui dit Apollon, et il va trouver Jupiter lui-même. Il s'adresse à Jupiter lui-même pour
+avoir une réponse de première main. Variations du récit. Là, dans l'entrevue Sextus-Jupiter, il y a
+un nouveau personnage qui est Théodore, le grand sacrificateur, Théodore le grand sacrificateur
+aimé de Jupiter. Et nouveau récit, c'est Théodore qui a assisté au dialogue de Sextus et de Jupiter,
+[31 :00] il dit à Jupiter: quand même, tu ne lui as pas bien répondu. Et Jupiter lui dit: va voir ma
+fille, Pallas. Donc c'est le dernier récit imbriqué dans les autres récits: Théodore va voir Pallas, la
+fille de Jupiter. Vous voyez que ça fait un emboîtement considérable. Et là! [Deleuze éclate de
+rire], il s'endort, Théodore! [Rires] C'est typiquement baroque. Les romans baroques sont
+complètement comme ça. Donc je ne peux pas ne pas croire que Leibniz... Il sait parfaitement ce
+qu'il fait; dans cette fin de La Théodicée qui est complètement folle, il sait parfaitement ce qu'il
+fait. Il fait… C'est une grande imitation baroque et, encore une fois, il le sait. [32 :00]
+
+Donc Théodore s'endort, mais il rêve, et il rêve qu'il parle à Pallas, et voilà que Pallas lui dit:
+viens et suis-moi! On n’a pas fini. Viens et suis-moi. Elle l'emmène voir une splendide pyramide
+transparente. C’est le rêve de Théodore. C'est le palais des destinées. Donc commence un thème
+architectural qui doit faire notre joie. Le palais des destinées, dont j'ai la garde, dit Pallas. Et elle
+dit que Jupiter vient parfois, il vient quelquefois visiter ces lieux pour se donner le plaisir de
+récapituler les choses [33 :00] et de renouveler son propre choix. Dieu vient visiter là, cette
+architecture, cette architecture transparente. Qu'est-ce que c'est que cette architecture
+transparente? C'est une immense pyramide, qui a bien un sommet, mais qui n'a pas de fin.
+
+Vous sentez tout de suite venir quelque chose. Ça, on retrouvera ce thème plus tard, mais ce n’est
+pas du tout facile. Ça veut dire que, dans l'infinité des mondes possibles, il y a bien un monde qui
+est le meilleur, mais il n'y en a pas qui soit le pire. Du côté du bas, on va à l'infini, mais pas du
+côté du haut. Il y a un maximum, mais il n'y a pas de minimum. Ça nous intéresse parce qu'il faut
+tout prendre mathématiquement. Ça veut dire, il me semble pour moi, étant donné qu’on verra,
+[34 :00] que dans les listes de tout ce qui est « point singulier », il y a un moment où surgira --
+pas du tout pour le moment ; pas du tout ; on n’a pas encore rencontré ça -- où surgir[a] l'idée
+qu'il y a des maxima et des minima. Je crois que les maxima et les minima ne sont pas de même
+sorte chez Leibniz. Au niveau des mondes, il y a bien un monde qui est le meilleur, mais il n'y a
+pas de monde qui soit le pire. Il y a un maximum ; il n’y a pas de minimum.
+
+                                                                                                    7
+
+Alors j'ai donc ma pyramide sans fin mais qui a un sommet, et tout à fait en haut... -- mais
+remarquez ça pose un problème; le texte est splendide, vous le lirez, j'espère, ça pose un
+problème parce que comment l'organiser, même si j'essaie de faire le dessin. J’ai ma pyramide --
+tout à fait en haut il y a un appartement -- "appartement" est le mot que Leibniz emploie. [35 :00]
+Vous vous rappelez nos histoires, l'étage d’en dessus, l'étage du dessous, tout ça, vous allez voir
+tout ça repris dans ce texte admirable. -- Eh ben, il y a un appartement qui se termine en points,
+si je comprends bien, il occupe toute la région supérieure de la pyramide. Et dans cet
+appartement vit un Sextus. Bon. Et puis, en-dessous, nous dit Leibniz, il y a d'autres
+appartements. Alors ça se complique. Je regarde tous ces appartements, mais ce n'est pas facile,
+comment ils s'organisent? Parce que, à mon avis, il n'est pas possible qu'il y en ait qui aient la
+tête en bas. En d'autres termes, saisissez: comment remplir une pyramide et avec quelles [36 :00]
+figures ? Je dirais : quelle est la figure des appartements? C'est un problème que les
+mathématiciens connaissent bien et qui est un problème passionnant.
+
+Au niveau le plus simple, une surface étant donnée… [Interruption de l’enregistrement
+BNF/YouTube ; texte de la transscription WebDeleuze] [36 :14]
+
+Partie 2
+
+[Lacune 1 de l’enregistrement BNF/YouTube] … comment la diviser de telle manière que il n'y
+ait aucune partie vide? Plus simplement comment paver un espace? Les problèmes de pavage, là
+aussi, c'est des problèmes d'architecture, mais aussi des problèmes de mathématiques. Par
+exemple, est-ce que vous pouvez paver un cercle avec des cercles, ou est-ce qu'il y aura des
+parties vides? Une surface étant donnée, avec quoi pouvez-vous la paver? Ça a l'air de rien, le
+métier de paveur, mais c'est un des plus beaux métiers du monde, hein. C'est une activité divine,
+le pavage. La preuve, c'est que [Fin de la lacune 1 de l’enregistrement BNF/YouTube] Leibniz,
+dans un texte célèbre intitulé De l'origine radicale des choses -- car il avait le génie des titres ;
+quoi de plus beau que d'écrire un livre intitulé: De l'origine radicale des choses, surtout quand ce
+livre a quinze pages ? [Rires] -- Eh bien, Leibniz évoque explicitement, à propos de la création
+du monde par Dieu, le pavage. C'est-à-dire qu'il suppose -- ce à quoi, d'ailleurs, il ne croit pas,
+mais peu importe -- il suppose que l'espace soit assimilable à une surface donnée, et il dit: Dieu
+choisit nécessairement le monde [37 :00] qui remplit le mieux et au maximum cet espace. En
+d'autres termes, Dieu choisit le monde qui pave le mieux l'espace de la création.
+
+Donc comment est-ce que je vais paver ma pyramide d'appartements de telle manière qu'il n'y ait
+pas de vide? C'est intéressant, et moi, je crois avec comme condition, s’il faut supposer, si ce soit
+des petites pyramides, qu’aucun appartement n'ait la pointe en bas, sinon ça ne va pas. Enfin
+vous voyez, c'est pour vous ouvrir des problèmes immenses que je dis tout ça.
+
+Mais alors dans les appartements plus bas, voyez chaque appartement, [38 :00] nous dit Leibniz,
+je ne sais plus où, mais croyez-moi, chaque appartement est un monde. – Je ne peux pas le
+trouver – chaque appartement est un monde – je n’arrive pas à la trouver, mais peu importe -- –
+chaque appartement est un monde [Deleuze cherche le passage exact, sans pouvoir le trouver
+d’abord] Non, bon, ça ne fait rien… -- Ah ! [Pause] Ah ! je retrouve le texte, hé hé : "Là-dessus
+la déesse Pallas mena Théodore dans un des appartements. Quand il y fut, ce n'était plus
+appartement, c'était un monde". J'ai l'impression que c'est l'entrée [39 :00] dans le baroque. Vous
+
+                                                                                                        8
+
+entrez dans la pièce baroque, et en même temps que vous y entrez, ce n'est plus une pièce, c'est
+un monde. Alors, vous avez un premier appartement où vous avez un Sextus, et puis vous avez
+un autre appartement, en bas, -- il n'y a pas d'étage assez bas, il y a toujours des étages plus bas,
+mais il y a un étage qui est le plus haut --. Donc à l'étage d'en haut, vous avez un Sextus, dans les
+étages suivants vous avez d'autres Sextus. Pressentez le problème: mais alors, pourquoi c'est des
+Sextus quand même ? Ça va être un problème pour nous.
+
+Alors là où ça se complique, mais tout m'importe dans ce texte qui est tellement gai, [40 :00] il
+dit: chacun des Sextus, dans les appartements, a un chiffre sur le front, un chiffre, alors 3000,
+10,000, alors comme c'est infini par le bas, vous avez un Sextus qui a comme chiffre 1,000,000.
+Celui de l'appartement d'en haut, il a 1. Pourquoi est-ce qu'il a un chiffre? C'est que en même
+temps, dans l’appartement -- vous vous rappelez le texte que je vous ai lu [Il s’agit sans doute
+d’une référence à Heinrich Wolfflin, Renaissance et baroque (1987) dans la séance 7, le 20
+janvier 1987] -- la pièce d'en haut était un cabinet de lecture, dans le baroque. Eh bien, il y a dans
+chaque appartement, il y a un grand volume d'écritures ; il y a un grand volume d’écritures :
+[Deleuze lit avec ferveur] "Théodore ne put s'empêcher de demander [41 :00] ce que ça voulait
+dire? Pourquoi qu’il y a un grand volume d'écritures? C'est l'histoire de ce monde, répond Pallas.
+C'est l'histoire de ce monde où nous sommes maintenant en visite, lui dit la déesse. C'est le livre
+de ses destinées. Vous avez vu un nombre sur le front de Sextus, cherchez dans ce livre l'endroit
+qu'il marque. Théodore le chercha et il trouva l'histoire de Sextus, toute l'histoire de Sextus.
+Pourtant je voyais déjà Sextus dans son appartement transparent," ah oui! Hé oui, je le voyais, et
+il mimait une séquence; par exemple, il violait Lucrèce, [42 :00] ou bien il se faisait couronner --
+mettons, plus convenable -- il se faisait couronner roi de Rome. Ça, je le voyais; théâtre, théâtre.
+Mais il n'y met pas tout. En d'autres termes: l'ensemble du monde auquel ce Sextus-là appartient,
+c'est-à-dire l'ensemble du monde avec lequel ce Sextus-là, celui qui viole Lucrèce et qui se fait
+couronner roi de Rome, avec lequel ce Sextus est compossible, je ne le voyais pas, je le lis dans
+le livre. Vous voyez la combinaison lire-voir propre au baroque, là aussi, qu'on a appelé la
+dernière fois l'emblème, en disant, oui, le baroque est emblématique, [43 :00] on le retrouve
+complètement ici.
+
+Revenons. Là je vagabonde – Alors le Sextus d'en haut, bon. Mais en bas, je vois un Sextus qui
+va à Rome, mais renonce à se faire couronner. Comme dit Leibniz, il s'achète un petit jardin et
+devient un homme riche et respecté. C'est un autre Sextus, il a un autre chiffre sur son front.
+Je dirais: ce Sextus numéro deux est incompossible avec l'appartement du haut, avec le monde
+plus haut, avec le monde 1. Et puis je vois un troisième Sextus, qui renonce à aller à Rome,
+[44 :00] vous voyez, il renonce à aller à Rome, et il va ailleurs, en Thrace, et il se fait couronner
+roi de Thrace. Il ne viole pas Lucrèce. Bon, supposons etc., etc. ... à l'infini. Vous voyez ? Tous
+ces mondes sont possibles, mais ils sont incompossibles entre eux.
+
+Ça veut dire quoi? Eh ben, ça veut dire qu'il y a divergence, il y a un moment où ça diverge.
+Pourquoi est-ce que c'est tous des Sextus? Là, on reprendra le problème parce que c'est très
+important, mais on peut déjà supposer que c'est parce que un petit nombre de singularités leurs
+sont communes. [45 :00] Tous sont fils de Tarquin, et successeurs du roi de Rome. Mais dans un
+cas, il succède à son père effectivement ; dans un autre cas, il renonce à la succession et quitte
+Rome ; dans un autre cas il renonce à la succession mais reste à Rome. Vous voyez que les
+divergences ne passent pas d'un monde à l'autre ; les divergences qui définissent
+
+                                                                                                       9
+
+l'incompossibilité ne passent pas nécessairement au même endroit. C'est ça qui est très important:
+j'ai un réseau de divergences qui ne commencent pas à la même singularité, ou qui ne
+commencent pas au passage de la même singularité avec une autre. Voilà, alors vous avez ce
+tableau extrêmement joyeux des mondes incompossibles, [46 :00] un ensemble de
+compossibilité, un ensemble de singularités compossibles définissant un monde, et Dieu choisit,
+il choisit le meilleur des mondes possibles dans tout ça.
+
+Alors là, je disais, c’est là où très vite je veux juste faire allusion à deux textes fondamentaux,
+vous trouverez littérateurs, deux textes littéraires typiquement leibniziens. L'un ne fait aucun
+problème puisque l'auteur en est extrêmement savant et a fait une version typiquement
+leibnizienne – qui est curieux d'ailleurs, sans… mais il n'a pas besoin de le citer -- c'est Borges,
+Borges, sous le titre, un célèbre texte de Borges "Le jardin aux sentiers qui bifurquent." [47 :00]
+[Rires] Vous voyez que le compossible… Qu’est-ce qu’il y a ?
+
+Hidenobu Suzuki (à côté de Deleuze) : Que ce texte est très génial.
+
+Deleuze : Quoi ?
+
+Suzuki : Ce texte est génial, quelqu’un a dit.
+
+Deleuze : Là, l’incompossibilité est devenue, sous la plume de Borges, la bifurcation, les sentiers
+qui bifurquent. Je lis juste… Vous vous rapporterez… C'est dans le volume intitulé Fictions, "Le
+jardin aux sentiers qui bifurquent." Voilà. [Pause] Je lis un passage. Il raconte un roman qu'a fait
+un mystérieux auteur chinois: [48 :00] "D'habitude, dans les fictions, chaque fois que diverses
+solutions se présentent, l'homme en adopte une et élimine les autres" -- Remarquez que c'est
+exactement la situation du Dieu de Leibniz: entre les mondes incompossibles, il en adopte un et
+élimine les autres – "Dans la fiction du presque inextricable Tsui Pen, il les adopte toutes" --
+Imaginez un Dieu Leibnizien pervers, il ferait passer à l'existence tous les mondes
+incompossibles. Pour Leibniz, qu’est-ce que dirait Leibniz? Leibniz dirait que c'est impossible!
+Mais pourquoi est-ce que c'est impossible? Parce que, à ce moment-là, Dieu renoncerait à son
+principe favori qui est le principe du meilleur. Choisir le meilleur. Supposez un Dieu qui n'ait pas
+le souci du meilleur, ce qui est impossible évidemment, impossible, [49 :00] mais supposez un
+tel Dieu, alors on tombe de Leibniz en Borges –"Il crée ainsi divers avenirs, divers temps qui
+prolifèrent et bifurquent. De là, les contradictions du roman" -- de l’inépuisable Tsui Pen -- "De
+là, les contradictions du roman. Fang, " -- c'est un personnage comme Sextus – "par exemple,
+détient un secret. Un inconnu frappe à sa porte. Fang décide de le tuer. Naturellement il y a
+plusieurs dénouements possibles. Fang peut tuer l'intrus; l'intrus peut tuer Fang", deux; "tous
+deux peuvent réchapper", trois; "tous deux peuvent mourir", [50 :00] quatre, etc.… etc… "Dans
+l'ouvrage de Tsui Pen, tous les dénouements se produisent. Chacun est le point de départ de
+nouvelles bifurcations".
+
+Je dirais que c’est exactement la même chose dans l'entendement de Dieu. Dans l'entendement de
+Dieu, tous les mondes possibles se développent. Simplement il y a un barrage: Dieu ne fait
+passer à l'existence que l'un de ces mondes. Mais, dans son entendement, il y a toutes les
+bifurcations; c'est une vision de l'entendement de Dieu comme on n’avait jamais eu. C’est très,
+
+                                                                                                      10
+
+très intéressant, mais c’est en quoi, je voulais juste dire en quoi Borges, là, en fait une pure
+application, un exercice de style, qui vient directement de la Théodicée. [51 :00]
+
+Mais ce qui m'intéresse plus, c'est ce roman que je vous signalais, que je voulais beaucoup que
+vous lisiez, et que je re-résume à nouveau parce qu’il est encore plus leibnizien, il est
+littéralement leibnizien. Ce roman vient de quelqu'un qu'on n’attendrait pas et qui se révèle être
+un grand philosophe, et qui est Maurice Leblanc, le grand romancier populaire du dix-neuvième
+siècle, et bien connu parce que c'est le créateur d'Arsène Lupin. Mais outre Arsène Lupin, il a fait
+des romans admirables, et bien plus beaux que celui de Lupin, et notamment un qui a été réédité
+– c’est une merveille ! -- dans le Livre de Poche et qui s'intitule: La vie extravagante de
+Balthazar. Vous allez voir à quel point ça nous concerne si je le [52 :00] résume rapidement.
+
+Il est très tortueux, c’est un roman très tortueux: il a pour héros Balthazar, et Balthazar – ça
+m’intéresse, cela va nous relancer – et Balthazar, c'est un jeune homme, c’est un jeune homme
+qui a comme métier professeur de philosophie quotidienne, [Rires] et la philosophie quotidienne
+est une philosophie très particulière mais très intéressante qui consiste à dire: rien n'est
+extraordinaire, tout est régulier, tout est ordinaire. Tout ce qui arrive est ordinaire ; en d'autres
+termes, [53 :00] il n'y a pas de singularités ; c'est très important ça. Il arrivera à Balthazar,
+pendant le roman, toutes sortes de malheurs effarants, et à chaque fois, il est poursuivi par une
+timide amoureuse qui s'appelle Coloquinte. Et Coloquinte lui dit: mais monsieur Balthazar, que
+dit la philosophie quotidienne, quand même ce n'est pas banal ce qui nous arrive ? Et Balthazar
+la gronde et lui dit: Coloquinte, tu ne comprends pas. Tout cela est très ordinaire comme nous
+allons le voir bientôt. Et les singularités se dissolvent. Vous vous rappelez tout mon thème: les
+singularités se développent comment? En se prolongeant sur une série d'ordinaires, jusqu'au
+voisinage d'une autre singularité.
+
+Or qu'est-ce qui l'emporte? Est-ce que les ordinaires dépendent des singularités [54 :00] ou est-ce
+que les singularités dépendent des ordinaires? Un texte de Leibniz auquel je tiens beaucoup, dans
+les Nouveaux essais, et que j'ai cité la dernière fois, ferait croire que la réponse est complexe,
+puisque Leibniz nous dit: "Ce qui est remarquable" (entendez la singularité) "ce qui est
+remarquable doit être composé de parties qui ne le sont pas." Ce qui est remarquable doit être
+composé de parties qui ne le sont, en d'autres termes une singularité est composée d'ordinaires.
+Qu'est-ce que ça veut dire? Je vous disais que ce n'est pas très compliqué. Prenez une figure
+comme le carré qui a quatre singularités, ces quatre sommets, enfin ces quatre je ne sais pas quoi,
+vous voyez, ces quatre machins où ça change de direction, ses quatre points singuliers; je peux
+dire A, B, C et D, [55 :00] je peux dire que chacune de ces singularités est un double point
+ordinaire, puisque la singularité B, c'est la coïncidence d'un ordinaire qui fait partie de AB, et
+d'un autre ordinaire qui fait partie de BC. [Pause] Bon. Alors est-ce que je devrais dire que tout
+est ordinaire, même la singularité, ou est ce que je devrais dire que tout est singulier, et même
+l'ordinaire? Balthazar a choisi à première vue et dit : tout est ordinaire, même les singularités.
+
+Et pourtant il lui arrive des drôles de choses, à Balthazar, car voilà, il ne sait pas qui est son père.
+Pas lui d’ailleurs, il n’y tient pas du tout, [56 :00] contrairement aux héros des romans modernes,
+ça lui est complètement égal de ne pas savoir qui est son père, [Rires] mais il se trouve qu'il y a
+un problème d'héritage où il faut qu'il le sache. Et Leblanc, l'immortel auteur de ce livre si beau,
+de ce grand roman, donne trois – quoi ? -- trois singularités qui définissent Balthazar: il a des
+
+                                                                                                         11
+
+empreintes digitales; c'est une singularité puisque ses empreintes ne ressemblent à celles de
+personne. Première singularité, les empreintes digitales qu'il a. Deuxième singularité, un tatouage
+qu'il porte sur sa poitrine et qui est fait de trois lettres: m comme Maurice, t comme Théodore, p
+comme Paul, [57 :00] mtp. Et d'autre part, troisième singularité, une voyante qu'il est allé voir,
+quand même, une voyante lui a dit – qu’est-ce qu’elle lui a dit, la voyante – "ton père n'a pas de
+tête." [Rires] Donc les trois singularités de Balthazar, c'est: avoir un père sans tête, avoir des
+empreintes digitales qui sont les siennes, et avoir comme tatouage mtp. Ça vaut les trois
+singularités d'Adam, être le premier homme, être dans un jardin, et avoir une femme née de sa
+côte. Bon. On peut partir de là.
+
+Là-dessus toute une série de pères lui arrive. Premier père, le comte de Coucy-Vendôme ;
+[58 :00] il répond assez bien aux conditions parce que il est mort, il est mort égorgé, égorgé par
+un bandit, la tête largement tranchée. Est-ce que Balthazar est le fils? Voyez, je veux dire, à
+partir des trois singularités données, est-ce que elles se prolongent sur et jusqu'au voisinage de
+cette singularité-là: être le fils du comte assassiné ? Sans doute oui, dans un monde. Dans un
+monde c'est ça. Ça marche à fond. Mais là-dessus, au moment où Balthazar va toucher l'héritage
+du comte de Coucy, il se fait enlever par un bandit [59 :00] qui lui dit : [Fin de la transcription
+Web Deleuze; ce qui suit est transcrit de l’enregistrement de la BNF/YouTube] "tu es le fils de
+notre ancien chef". L’ancien chef s’appelait Gourneuve; il était un bandit infâme, non seulement
+un bandit infâme, mais c’était lui qui avait coupé la tête au comte. Donc, c’est un second père qui
+a assassiné le premier. Donc il complique le réseau parce que dès lors, ils vont faire partie d’un
+monde compossible tous les deux, et pourtant ils vont être incompossibles.
+
+Mais on n’a pas fini, eh ? C’est un long calcul. Mais enfin, bon, Gourneuve, il n’a pas de tête ; il
+répond aussi à la condition. Il n’a pas de tête parce qu’il a été guillotiné. Et il présente un
+avantage supplémentaire car, vous avez peut-être remarqué que mtp n’a pas été justifié, tandis
+que Gourneuve, lui, dans le premier cas, Gourneuve, [60 :00] il est le chef de la bande des
+Mastropieds. Or la bande des Mastropieds, c’est la bande M-T-P, ce qui justifierait le tatouage.
+[Pause] Donc, là où il y a incompossibilité, c’est qu’on ne peut pas avoir pour père et l’assassin
+et l’assassiné. [Rires] Donc, c’est un autre monde. Ça diverge. Et pourtant, les deux pères font
+partie du même monde compossible, mais en même temps, il est incompossible.
+
+Mais, il n’y a pas à s’en faire tellement parce qu’au moment même où Balthazar va être intégré
+dans la bande des Mastropieds, il est enlevé. Il est enlevé par un Anglais qui l’emmène en Orient,
+qui l’emmène en Orient où il y a la guerre, [61 :00] et qui le livre à un chef appelé Revade Pacha.
+Bon. Et Revade Pacha lui dit, "tu es mon fils ; c’est toi mon fils. Tu es Mustapha," [Rires] M-TP, Mustapha. C’est un troisième monde, ça, un troisième monde. C’est un roman baroque
+splendide, quoi. C’est le type même du roman baroque, alors, avec les voyages, tout y est quoi !
+... Et puis, peu après, Revade Pacha se fait décapiter. Il y a tout, donc; il est aussi sans tête, mtp
+est justifié, tout va bien.
+
+Mais au moment où ça va mal tourner pour Balthazar, voilà qu’un poète nommé [62 :00]
+Beaumesnil, que le poète Beaumesnil le sauve. A Balthazar, il lui dit, "tu es mon fils !" C’est
+donc le quatrième. Seulement Balthazar a volé un peu son père précédent, Revade Pacha ; il a
+emmené le trésor de Revade Pacha. Et voilà que le nouveau père, Beaumesnil le poète, il tourne
+fou ! C’est-à-dire, il perd la tête ! [Rires] Il perd la tête, et il s’en va en volant l’argent de son fils,
+
+                                                                                                      12
+
+[Pause] et en s’écriant, "C’est compté, pesé, divisé !" C’est compté, pesé, divisé, vous avez tous
+reconnu la fameuse formule, Mane Thecel Phares. [63 :00] Mane Thecel Phares, c’est M-T-P, un
+nouveau monde qui diverge. Voyez, [il y a] quatre mondes qui sont tous possibles, mais
+incompossibles les uns avec les autres.
+
+Alors là-dessus, il va tout nous expliquer ensuite. Tout ça est une escroquerie. C’est le
+problème : le Dieu leibnizien est-il un escroc ? [Pause] Et là, ce que je voudrais que vous
+compreniez, c’est qu’en effet, Leibniz s’en tire, mais que son Dieu serait un escroc s’il était
+comme Borges ou comme Leblanc. C’est-à-dire si le Dieu faisait passer à l’existence les mondes
+incompossibles, là ça serait vraiment un escroc. [64 :00]
+
+Heureusement que le Dieu leibnizien est moral, c’est-à-dire ne fait pas passer ces mondes en
+existence. Pourquoi ? Parce que l’escroquerie, c’est la suivante : il vient un clochard qui est le
+cinquième père, clochard qui s’appelle Vaillant-Dufour. Et Vaillant-Dufour avait eu une idée
+quand il était jeune. C’était faire un pensionnat pour jeunes hommes riches éloignés des parents.
+Voyez ? Il avait un petit pensionnat d’enfants riches, quatre, quatre enfants riches plus le sien.
+Alors, il avait, en effet, le fils du comte, le fils du bandit, le riche bandit, le fils de Revade Pacha,
+et le fils du poète, plus son fils à lui. Le pensionnat comportait cinq enfants. Et puis, il y a eu une
+inondation, et il n’y a qu’un qui a survécu. [Rires, Deleuze aussi] Et le clochard ne sait même pas
+qui c’est le sien. [Rires] Il ne sait pas lequel a survécu. [65 :00] Et il se dit, c’est quand même
+bête alors parce que comment faire pour garder l’argent et pour faire que les parents donnent
+toujours de l’argent ? Alors, il fait un papier avec les empreintes du survivant, et il l’envoie aux
+quatre parents en disant, "Votre fils a survécu ; c’est votre fils qui a survécu". Voyez ? Ce n’est
+pas bête ! [Pause] Alors, il ne sait pas en même temps, [Pause] et enfin, est-ce qu’il est le vrai
+père, le clochard ? Est-ce que c’est lui le cinquième père, qui ferait le… et qui unirait tous les
+mondes incompossibles ? Ben, même pas parce qu’il ne sait pas. Il ne sait pas si c’est lui le père.
+Donc, à son tour, lui-même, ne fait partie que d’un des mondes. [66 :00] Et il est incapable de le
+dire sauf par escroquerie. Et enfin, à la fin, il est tellement alcoolique qu’il avait, lui-même aussi,
+perdu la tête. [Rires] Donc, voyez, c’est très bien. Chaque fois il y a des séries qui s’esquivent,
+divergentes, des séries, etc. C’est le mystère des mondes incompossibles, ou comme dit Leibniz,
+le ballet des destinées.
+
+Alors, je reviens à ça. Je voudrais que tout ça soit devenu plus concret, et je reviens à ma
+question, ou plutôt mes trois questions, mes trois questions étant : jusqu’à quel point est-ce qu’on
+pourrait développer une théorie mathématico-philosophique des points singuliers ? Deuxième
+question : jusqu’à quel point peut-on développer l’idée de relation originale, c’est-à-dire
+irréductible à tout autre type de relation, qui unirait, positivement ou négativement, une
+singularité à une autre, [67 :00] positivement dans le cas de la compossibilité ou de la série
+convergente, négativement, exclusion du point de vue des singularités divergentes, ou des séries
+divergentes ? Troisième question : est-il possible de définir l’individu comme condensé de
+singularités convergentes, et quel [est] la conséquence pour la notion même d’individu ou pour le
+principe d’individuation ?
+
+Alors, c’est sur ce point que, si tu le permets, je voudrais te demander sur ces trois points, ou sur
+d’autres, que je voudrais te demander si tu vois des directions de recherche pour nous tous,
+pour… ? [Pause] [68 :00] [Ce collègue mathématicien de Deleuze, Marcel Maarek, ne sera
+
+                                                                                                      13
+
+identifié par Deleuze (et seulement avec le nom de famille) que dans la séance du 3 février
+quand Maarek est absent et Deleuze se réfère à ce qu’il dit dans sa présentation. Chose
+curieuse : même dans le résumé de cette séance par Frédéric Astier (Les Cours enregistrés de
+Gilles Deleuze, 1979-1987 [Sils Maria, 2006]), Astier ne désigne ce collègue invité qu’avec le
+terme "un intervenant (mathématiques)" (p. 167). Il s’agit d’un collègue de Deleuze qui avait
+commencé l’enseignement Vincennes un an avant Deleuze, en 1969-70. Pour les renseignements
+et archives de Paris 8, voir Octaviana Bibliothèque numérique,
+https://octaviana.fr/items/browse?collection=633.]
+
+Maarek : J’avais préparé une intervention à l’instar de ton dernier cours, mais depuis, tu as
+bifurqué tellement que…
+
+Deleuze : Oh non, non, non, on peut très bien revenir en arrière, eh ?
+
+Maarek : Donc il faudrait que je bifurque, alors je vous demande beaucoup d’indulgence. Disons
+que mon intervention pourra être, par principe, latérale, ou si elle revient dans le centre, cela sera
+bien.
+
+Je voudrais revenir à une notion qui est essentiel, qui nous renvoie à une autre, dont on a parlé
+parfois, dont tu as parlé parfois, qui à mon avis est centrale. C’est la notion de singularité. Alors,
+je voudrais dire ceci : singularité, comment pourrait-on définir une chose pareille ? [69 :00] Une
+définition possible – je l’approche à [René] Thom, mais pourquoi pas ? – ce serait quelque chose
+qui se passerait différemment que dans tout voisinage possible, c’est-à-dire comme si tout d’un
+coup il se passe quelque chose qui est différent de tout ce qui se passe alentour. J’emploie
+volontairement des mots vagues, parce que comme vous allez voir, la difficulté est là : c’est
+comment définir le voisinage ? Donc, singularité renvoie à voisinage, c’est-à-dire renvoie aux
+rapports entre le point singulier et tout ce qui lui est sien, si près que ce soit immédiat. Il faut que
+quelque chose de différent se passe, si proche que cela soit. C’est peut-être le problème sur
+lequel les mathématiciens ont été au fond le plus troublés. [70 :00] Tu donnais tout à l’heure un
+exemple tout à fait frappant de la problématique pour les mathématiciens à la fin du dixneuvième siècle de ce problème de la singularité.
+
+En somme, si vous voulez, l’événement singulier doit être – peut-être faudrait-il le dire comme
+ça ; parfois les mathématiciens le disent – isolé, isolé, c’est-à-dire, au fond, être différent de son
+voisinage et peut-être même devrait-il être isolé dans l’espace, c’est-à-dire n’avoir pas de
+voisinage, de ne voir personne dans son voisinage. C’est intéressant d’ailleurs que tu ais parlé de
+Borges tout à l’heure, etc., parce que je peux citer un point de vue de ce genre. Au fond, [Henri]
+Poincaré a dit qu’une singularité, c’est une déformation ; c’est un point de vue de Poincaré, et on
+peut le montrer d’ailleurs assez simplement dans l’exemple [71 :00] – alors, je voudrais, quand
+même, excusez-moi, depuis Leblanc, Maurice Leblanc et Poincaré… Le passage est un peu
+brutal -- [Il va au tableau] mais je voudrais vous rappeler précisément pourquoi une inflexion est
+une singularité.
+
+L’inflexion – je ne dessine pas, mais enfin… -- Une inflexion, c’est ce qui serait comme ça.
+[Pause, pendant qu’il se déplace vers le tableau] Voilà l’inflexion, elle est là. Pourquoi est-ce
+une bifurcation, sans en avoir l’air ? Parce que, j’ai envie de dire, si tout se passait bien, la
+
+                                                                                                   14
+
+courbe aurait dû faire comme ça, c’est-à-dire elle aurait dû se comporter ici comme là, c’est-àdire d’être en tangente et monter au complément, et là elle aurait dû continuer comme ça, sans ce
+sens tout à fait, ce n’est pas une bifurcation anguleuse. Une bifurcation n’est pas nécessairement
+anguleuse, mais dès que je dessine cette partie-là, [72 :00] on comprend pourquoi l’inflexion est
+une singularité parce que, au fond, tout d’un coup, il s’est passé quelque chose : la fonction est
+partie dans une autre direction, pas la même direction, mais une autre. [Il reprend sa place] Voilà
+un exemple de la notion de bifurcation, c’est-à-dire Poincaré, à ce moment-là, au moment où la
+discussion se déroule, c’est-à-dire à la fin du dix-neuvième siècle, début du vingtième, Poincaré
+propose cette idée que la singularité est une bifurcation.
+
+Alors, pour que la singularité se définisse – et là je reviens au voisinage -- pour que la singularité
+se définisse, il faudrait – et là, on revient [mots pas clairs] – il faudrait que tout le reste autour
+soit régulier, c’est-à-dire qui si proche que je sois dans l’alentour – et là, maintenant, on va voir
+Leibniz revenir -- si proche que je sois dans l’alentour autour de ce point, [73 :00] c’est-à-dire
+dans le voisinage -- j’évite le mot voisinage parce qu’il a un sens mathématique très précis ; c’est
+pour ça que je mets un mot mal choisi, "alentour", qui n’est pas très clair, parce que le mot
+"voisinage" n’a pas un pareil sens, enfin a une définition précise -- Donc tout autour il doit y
+avoir une certaine régularité. Et c’est peut-être anecdotique, mais c’est quand même peut-être
+fondamental, une des idées qui a beaucoup agité les mathématiciens à la fin du dix-neuvième
+siècle, c’est que peut-il y avoir un système où il n’y a que des singularités, et comment
+reconnaîtrait-on un tel système ? C’est-à-dire un peu, est-ce qu’on peut décrire une situation où,
+au fond, tous les points sont singuliers, et comment seraient-ils singuliers en définitive s’ils sont
+eux-mêmes à côté d’un truc qui est lui-même singulier ? Ma définition, logiquement, ne tourne
+pas bien [74 :00] parce que singularité, voulant dire se comportant différemment de ce qui se
+passe autour à condition que le comportement de ce qui se passe autour soit lui-même régulier,
+s’il ne l’est pas, on est dans une singularité étrange.
+
+Alors, l’un des exemples, l’un des plus grands fabricants d’objets bizarres dans cette période,
+c’est tout de même [Georg] Cantor, et on peut lui rendre… C’est que lui qui a produit un objet
+singulier, autour de singuliers, tout en gardant certaines régularités. Je vous décris ce qu’on a
+appelé le discontinu de Cantor ; c’est un ensemble étrange, mais qui est tout à fait intéressant. Le
+système est tout à fait simple ; donc on peut vous le décrire. Maintenant, quant à l’analyser de
+plus près, malheureusement c’est un peu techniquement difficile. Mais en y réfléchissant, vous
+pouvez peut-être imaginer les choses.
+
+Voilà, la technique est simple. Cantor prend un segment, [Il se place au tableau] il le divise en
+trois, et il enlève la partie centrale. [75 :00] Il reste deux morceaux, on le divise en trois, on le
+divise en trois, et on enlève la partie centrale. [Pause, il dessine au tableau] On continue
+indéfiniment. Chaque fois, on enlève la partie centrale. Aux trous, aux trous, l’espace, on fait une
+chirurgie, comme dit Deleuze, et à ce moment-là, on obtient un ensemble qui, à la limite de cette
+production infinie de singularités, tous les bords deviennent des points singuliers, tout ce qui est
+au bord d’un trou. Et à la fin de cette technique, il reste ceci, quand on poursuit indéfiniment
+cette procédure. C’est que tous les points sont singuliers, et ils sont au bord d’une régularité
+parce que chacun se retrouve au bord de quelque chose, les points qui restent ; en quelque sorte,
+ils sont tous [76 :00] potentiellement singuliers. C’est-à-dire nous obtenons une espèce de
+situation de points singuliers au bord de points réguliers, et en fait, ils sont tous singuliers parce
+
+                                                                                                   15
+
+qu’ils deviendront à chaque instant au bord de quelque chose. Les morceaux complets de ce
+système sont plus complexes ; on est obligé de faire une petite présentation technique, donc vous
+m’excuserez, je ne pourrais pas parce que c’est … [Il ne complète pas la phrase]
+
+Le discontinu de Cantor fait rêver. Par la suite, il y a eu un autre exemple tout à fait étonnant, de
+régularités et de singularités, qui est tout à fait étrange, que l’on ne peut pas complètement
+décrire également. C’est une courbe qu’on appelle la courbe de Peano, mais il y a eu comme ça
+deux ou trois exemples. La courbe de Peano, c’est une espèce de… c’est une courbe tout à fait
+classique ; elle est continue. Elle se dessine à l’intérieur d’un carré, mais si vous la dessinez
+jusqu’au bout, elle remplit entièrement le carré. C’est-à-dire qu’elle est, en quelque sorte, si vous
+tentez de la dessiner, [77 :00] c’est-à-dire de la tracer point par point, on obtiendrait la chose
+suivante, au fond, des espèces d’arabesques qui, poussés jusqu’à la limite, remplissaient le carré
+tout entier.
+
+Deleuze : Mais ça c’est la même chose que Mandelbrot.
+
+Maarek : Oui, Mandelbrot a fait un usage de ça. Au moment où la courbe de Peano est publiée,
+autour des années 1900, à ce moment-là, c’est le problème central de la singularité dans un
+monde de singularités.
+
+Isabelle Stengers : [Propos difficilement audibles, à propos de l’introduction d’un livre de Jean
+Perrin, Les Atomes (1914), que Mandelbrot va citer]. [78 :00]
+
+Deleuze : Il dit même – alors, on se complète chacun tous, [Rires] c’est très bien, c’est tellement
+leibnizien ce que tu dis que c’est étonnant, quoi ; ça donne à Leibniz une telle présence dans les
+mathématiques modernes – qu’avant le texte de Perrin dont Isabelle parle, il est dit "infiniment
+caverneux" ou "spongieux”. Il dit que la matière n’est pas du tout continue, le nouveau
+vocabulaire de la discontinuité. On peut toujours faire des trous, et c’est l’idée d’une forme
+infiniment caverneuse, c’est la même chose que la courbe de corles, infiniment caverneux,
+infiniment spongieux. Alors il prend comme exemple les corles, comme les charbons de bois. En
+effet, pour que ceux que ça intéresse, c’est dans un livre de Mandelbrot [Deleuze l’épèle] chez
+Flammarion qui s’appelle L’objet fractal. [79 :00] Et Mandelbrot fait une longue citation d’un
+texte de Perrin qui est un grand physicien, et part de cette citation. [Deleuze s’est déjà référé à
+Mandelbrot à ce propos dans la séance 2 de ce séminaire, le 4 novembre 1986, et aussi dans le
+séminaire sur la peinture, la séance 3, le 28 avril 1981 ; voir Benoît Mandelbrot, Les Objets
+fractals (Paris: Flammarion, 1975; reed. coll. Champs, 2010)].
+
+Maarek : Je voudrais maintenant revenir en arrière. C’est-à-dire laissons de côté momentanément
+ces objets, ces points singuliers qui seraient eux-mêmes voisins immédiats de points eux-mêmes
+singuliers. Plaçons-nous momentanément dans la bonne situation qui est un peu celle que tu
+décrivais la dernière fois. C’est-à-dire le point singulier est entouré de points réguliers ; si ça se
+passe bien, un événement est isolé – le mot "isolé" d’ailleurs appartient au vocabulaire
+mathématique, mais comme ça, son interprétation est tout à fait simple, c’est-à-dire, disons,
+précisément repérable.
+
+                                                                                                    16
+
+Tout de même, il nous restera dans ce cas un problème [80 :00] qu’il faut aborder. C’est :
+comment se construisent les voisinages d’un point singulier ? Eh bien, cela nous renvoie au fond
+à la notion de voisinage, de ce qui se passe immédiatement après, c’est-à-dire au fond – et là, il
+faut renvoyer au Leibniz du calcul différentiel, c’est-à-dire à la notion de l’infini – parce que
+vous remarquez inévitablement aussi bien Deleuze les dernières fois que moi maintenant dans les
+exemples que j’ai donnés, nous utilisons toujours nécessairement une procédure mesurée, autant
+Deleuze faisait la dernière fois l’allusion aux séries convergentes et divergentes allant d’une
+singularité à l’autre – la notion de séries nous renvoie à l’infini [81 :00] en un certain sens. C’està-dire qu’il n’est pas question de faire [inaudible] mais de parler de ce que l’infini fait dans cet
+alentour. Tout à l’heure, on tentera de donner une définition de ce que Deleuze utilise depuis
+longtemps, en tout cas il l’a utilisée à sa manière, c’est la notion de séries convergentes et de
+séries divergentes, autour ou vers ou entre les singularités. Pour le moment, on reste à l’alentour.
+
+Alors, l’aventure principale, c’est que faire, comment, et pourquoi, et sous quelle forme avonsnous besoin de l’infini ? Alors, si vous me le permettez, je vais… c’est comme ça que j’ai un
+peu… je pense que cela sera plus clair et plus facile. Je vais aller très vite dans le temps et arriver
+à 1934 [82 :00] et reviendrai à Leibniz juste après, parce que l’aventure qui va se dérouler
+commencera en 1934 et se terminera sur Leibniz comme un retour en arrière. [Pause]
+
+Au début des années… Dans la première décennie du vingtième siècle, il y avait un
+mathématicien – c’est une aventure que tout le monde connaît mais je vais en parler très vite
+pour qu’il n’y ait pas de problèmes – il y a eu cette espèce de fièvre axiomatisante – pour des tas
+de raisons qui sont historiques et qui tiennent à la crise de géométrie et à une série d’événements
+comme ça – il y a eu une fièvre axiomatisante terrible. C’est-à-dire on a voulu axiomatiser des
+théories. Axiomatiser voulait dire donner les règles fondamentales indispensables permettant de
+bâtir telle ou telle théorie… [Interruption de l’enregistrement BNF] [1 :22 :51]
+
+Partie 3
+
+… c’est-à-dire des nombres entiers. Bien entendu, soyons clairs, les gens savaient compter
+depuis longtemps, c’est-à-dire qu’au quotidien on n’axiomatise pas une théorie [83 :00] – enfin,
+on a déjà donc… Regardez bien la situation comme elle se déroule : on a un univers qui est, par
+exemple, l’univers des nombres ; on sait déjà s’en servir, on savait compter depuis vingt-cinq
+siècles -- et Bourbaki en disait encore plus -- on savait déjà compter, on savait faire beaucoup de
+choses en arithmétique, et en 1910, on axiomatise. L’axiomatisation de la géométrie date de
+1890 où on savait déjà dessiner et faire des cours de géométrie. Donc axiomatiser, c’est donner
+l’ensemble des règles permettant de définir de manière explicite tout ce dont on a besoin. On
+verra tout à l’heure une théorie de Leibniz tout à fait surprenante, quoi.
+
+Alors donc, il y a tout ce long, long travail d’axiomatisation. C’est un problème complexe –
+enfin, tous ceux qui connaissent l’histoire des maths connaissent tout ce travail qui se déroule
+très, très précisément [84 :00] et qui aboutit en 1930 ou 1932 à un livre de [David] Hilbert, qui
+est le Grundlagen der Mathematik [1928] qui est la grande axiomatisation de l’ensemble,
+l’édifice pareil à ce moment-là à celui des… il est indiscutable. A ce moment-là, un
+mathématiciens au nom de [Thoralf] Skolem pose un problème tout à fait étonnant ; il dit… il se
+pose le problème inverse. Alors si vous voulez, je vais le raconter comme une anecdote.
+
+                                                                                                    17
+
+Imaginez que vous ayez axiomatisé une théorie et qu’un Martien arrive, et il ne sait rien de cette
+théorie, ni de l’axiomatisation – on supposera un Martien ou tout autre extra-terrestre qui sait
+lire. Donc il va faire ce que vous dites dans l’axiomatique ; il va l’appliquer et le régulariser. Il
+va les appliquer strictement, tout à fait régulièrement. Il sait lire le texte, [85 :00] et il sait
+comment ça fonctionne, et il va du coup engendrer, il devrait engendrer le modèle que vous avez
+axiomatisé au départ, c’est-à-dire il devrait retrouver – peut-être… mettons, faisons cette
+expérience parce que Skolem l’a fait ; son article est sur ce point d’ailleurs. Imaginons que l’on
+ait l’axiomatisation de l’arithmétique, c’est-à-dire on ait tous les axiomes de l’arithmétique. Petit
+à petit, l’extra-terrestre en question, qui sait lire cette axiomatisation, va créer des nombres. Peutêtre donnera-t-il aux nombres des noms différents de ceux que vous avez l’habitude de leur
+donner dans votre langue. Mais après tout, ce n’est pas inquiétant puisque d’un individu à l’autre
+de la terre, déjà on leur donne déjà des noms différents. Mais compter en anglais, en arabe, ou en
+chinois, ou en français, n’a jamais provoqué de problèmes ; les deux ensembles de nombres, chez
+les Chinois, les Arabes, etc., sont isomorphes, comme disent les mathématiciens. Ils ont les
+même formes, et ils ont les mêmes [86 :00] compositeurs. Donc, ils ne sont différents que par
+leurs noms, c’est ce qui se passe dans notre univers.
+
+Mais Skolem se pose le problème suivant : est-ce qu’il ne risque pas de trouver un autre univers
+de nombres, complètement différent et qui obéit à la même axiomatique ? Et alors, vous
+imaginez le résultat étrange de cet ordre ; c’est effectivement ce que Skolem montre, et c’est cet
+article de 1934 dont je vous parle : il montre qu’il peut trouver beaucoup d’autres systèmes de
+nombres qui ne sont pas du tout semblables aux précédents, à ceux que l’on connaissait. Il
+pousse plus loin cette démarche en montrant qu’on ne peut pas axiomatiser un ensemble comme
+celui des nombres de telle manière que le modèle obtenu soit toujours celui auquel on pensait
+auparavant. Les logiciens emploient une expression ; [87 :00] ils disent qu’un système d’axiomes
+qui ne produirait qu’un seul modèle est un système d’axiomes catégorique, et un système
+d’axiomes qui ne produirait pas toujours le même serait un système [mot pas clair]. Alors
+Skolem démontre dans cet article qu’il n’est pas possible de faire une axiomatisation
+catégorique.
+
+Et là, nous allons voir apparaître le problème du fini et de l’infini d’une manière stricte parce
+qu’on pense, et parce que au fond, ce que Skolem décrit, c’est la situation suivante : si le modèle
+dont vous êtes partis pour l’axiomatiser était lui-même infini, il n’y a pas d’axiomatisation
+catégorique. Il n’y a d’axiomatisation catégorique que si le modèle de départ était un modèle fini,
+et à ce moment-là, l’axiomatisation n’est pas du tout une opération savante. Elle revient à
+nommer les personnes, c’est-à-dire elle dit, je ne recevrais que cette personne, Monsieur Un Tel,
+Un Tel, Un Tel, Un Tel, et à ce moment-là, [88 :00] ce n’est pas une axiomatisation, c’est une
+règle restrictive tout à fait simple. Et la plupart du temps, le monde dont on parle et le monde des
+singularités et des voisinages, c’est un monde nécessairement infini, donc non axiomatisable, en
+tout cas, non axiomatisable de manière catégorique.
+
+Alors, où est le problème ? Vous allez voir pourquoi là Leibniz va revenir dans cette histoire.
+Skolem dit en définitive ceci : c’est que dans ce modèle qu’aura produit mon extra-terrestre, que
+se passera-t-il, et que je ne peux pas dans l’axiomatique lui interdire de faire ? C’est qu’en dehors
+des nombres -- appelons-les en français, 0, 1, 2, 3, 4, 5, etc., ce que vous connaissez – il peut en
+introduire des nouveaux, d’autres, et qui obéissent aux mêmes règles que l’arithmétique
+
+                                                                                                      18
+
+ordinaire. Bien entendu – là je situe bien ça parce que vous allez voir encore [89 :00] c’est
+important ; excusez-moi que ce soit un peu technique – bien entendu, il y a un des axiomes de
+Peano qui dit, zéro est un nombre qui n’a pas de prédécesseurs, donc c’est le premier des
+nombres. Alors, évidemment, comme il y a un axiome qui dit ça, mon extra-terrestre ne peut pas
+mettre un nouveau premier nombre. Il est bien obligé de prendre le même que nous. Seulement,
+les nouveaux nombres, il va pouvoir les placer, s’il en a envie, après, après tous les autres – pas
+après zéro puisqu’il y aura 1, pas après 1 puisqu’il y aura le même nombre que nous, mais il peut
+en placer un qui sera loin, et rien ne lui interdit dans l’axiomatique et rien ne peut dire qu’il est
+interdit d’introduire un nouveau nombre parce que, imaginez ce qui se passerait : pour introduire
+un nouveau nombre, il faudrait que vous connaissiez un axiome pour dire, "j’interdis de faire
+entrer un nombre en dehors de ceux que j’énonce et qui sont les suivants." Et comment les
+énonceriez-vous puisqu’il y a une infinité ? [90 :00] Vous n’êtes pas capable de les énoncer.
+
+Donc, vous voyez bien pourquoi : si le nombre est infini, vous ne pouvez pas faire d’axiomes qui
+interdisent des nombres, les étrangers. Et ce qui va se passer, c’est : imaginez comme mon extraterrestre, en plaçant un de plus, ce 1 va avoir des successeurs, il va avoir des prédécesseurs ; rien
+ne le lui interdit, au contraire. L’axiomatique le lui permet, et il va proliférer, et il y aura 1
+double, et il y aura 1 triple, et ainsi de suite. Pourquoi le lui interdire, etc. ? Il va proliférer. Par
+conséquence, on va voir apparaître à ce moment-là des nombres qui sont plus grands que tous les
+nombres que nous connaissons déjà, et ces nombres qui sont plus grands que tous les nombres
+que nous connaissons déjà, ce seront déjà des nombres infinis.
+
+Mais attention : il ne s’agit pas du tout – pour ceux qui aurait l’idée d’un malentendu – il ne
+s’agit pas du tout des infinis de Cantor ; [c’est] tout à fait une autre problématique. Il s’agit
+[91 :00] de nombres qui ont les mêmes propriétés arithmétiques que tout le monde. Ça veut dire
+où nous sommes, que nous restons dans l’univers de l’arithmétique, et il y en a des pairs, il y en a
+des impairs, après un pair il y a un impair, après un impair il y a un pair, etc., etc. Donc nous
+voilà dans un univers dans lequel il y a des nouveaux nombres qui sont plus grands que tous les
+autres – appelons-les les "infinis" entre guillemets, si vous voulez – mais qui sont des nombres
+entiers comme tout le monde. Nous verrons tout à l’heure -- je vous dirai le texte, parce que il a
+un intérêt plus loin – vous verrez que le premier qui en ait eu l’idée, c’est Leibniz, textuellement,
+[quelques mots inaudibles].
+
+Donc, nous serons dans un univers tout à fait proliférant, mais que l’on ne peut pas interdire, qui
+peut être très, très vaste, ou très réduit. Ça dépendra de mon extra-terrestre et de son envie, etc.
+Donc voilà quelque chose que nous construisons qui est [92 :00] – les logiciens l’appelle comme
+ça, mais la notion est assez simple à comprendre – ils appellent ça une extension de l’ensemble
+des entiers [bruit du changement de cassettes dans de nombreux magnétophones] ; donc c’est un
+ensemble plus vaste dans lequel évidemment on peut retrouver aux [mot pas clair] des entiers, et
+cette extension va comporter elle-même un certain nombre de nombres au sens banal du terme,
+mais qui ont la propriété d’être infinis comme [inaudible].
+
+Voilà le premier article, c’est l’article de Skolem. A partir de ce moment-là et dans les années
+soixante, un mathématicien américain au nom d’Abraham Robinson, qui est mort en 1974, se
+dit : est-ce qu’on ne pourrait pas faire la même chose, non pas seulement sur les entiers parce que
+les propriétés décrites par Skolem ne cessent de s’appliquer également [93 :00] aux nombres
+
+                                                                                                  19
+
+réels, c’est-à-dire aux nombres que vous connaissez, c’est-à-dire l’ensemble total. Nous en
+mathématiques, on appelle ça les nombres réels, c’est-à-dire l’ensemble de tout ce qui est, les
+nombres décimaux, les nombres rationnels, les irrationnels, etc., etc., l’ensemble complet des
+nombres, ce qu’on appelle habituellement l’ensemble de nombres. Le travail est relativement
+délicat parce que la théorie des nombres réels est une axiomatique un petit peu plus compliquée,
+vous vous en doutez, que l’axiomatique des entiers, et on va y revenir tout à l’heure, mais
+Robinson fait le travail et montre que cela est possible. On va obtenir à ce moment-là [Pause] un
+ensemble de nombres dans lequel il y aura des nombres infinis comme dans l’arithmétique, et il
+y aura leurs inverses [94 :00] qui seront les infiniment petits en tant que nombres cette fois-ci.
+C’est-à-dire ce ne sont pas des infiniment petits, alors là, comme je m’en suis servi tout à l’heure
+pour les séries ; ce ne sont pas des infiniment petits en tant qu’ils sont… ils deviennent très
+petits ; ce ne sont pas des infiniment petites limites, comme les mathématiques avaient l’habitude
+de les désigner. Ce sont de véritables nombres qui sont infiniment petits peut-être tout
+simplement parce que ce sont les inverses "in-sûrs", un infiniment grand, un infini entre
+guillemets. Alors si vous prenez un infini entre guillemets, vous allez avoir, en prenant son
+inverse, un nombre qui, lui, sera plus petit que tous les autres.
+
+Devant cet embarras, si vous voulez, de cette extension, il fallait donner un nom aux anciens
+nombres. Alors Skolem a trouvé le nom de "standard". Nous appellerons "standard" les nombres
+habituels, [95 :00] et nous appellerons "non-standard" les autres. Et le "non-standard" a une
+interprétation en anglais tellement vague que vous me permettrez peut-être cette [lacune]. Alors
+cette théorie s’appellera – donc elle était construite autour des années soixante – cette théorie
+s’appellera "analyse non-standard".
+
+Je voudrais rappeler un point que j’ai dit tout à fait en passant mais qui est tout à fait
+fondamental. C’est que ce nouvel univers avec des infiniment grands et des infiniment petits
+respecte strictement tous les axiomes et toutes les règles de l’ensemble des réels traditionnels.
+C’est-à-dire tout théorème qui a été démontré dans l’ensemble des réels est un théorème dans ce
+nouvel univers. On poussera plus loin en démontrant – mais c’est un problème peut-être un petit
+peu plus compliqué – que cette extension est conservative. [96 :00] C’est-à-dire tout ce qui peut
+être démontré dans ce nouvel univers est également vrai dans l’univers restreint. Actuellement,
+les mathématiques sont devant un petit cas particulier qui est un théorème que Robinson allait
+démontrer dans les années soixante-dix dans cet univers étendu. On devrait pouvoir trouver une
+démonstration dans l’univers restreint. C’est un théorème – et ça c’est une petite anecdote – que
+de toute façon, jusqu’à présent, on n’a pas trouvé. C’est assez embarrassant. Enfin
+théoriquement, ça doit être possible. Ce théorème dit de Bernstein-Robinson n’a pas pour le
+moment d’équivalent, enfin jusqu’à aujourd’hui, il n’a pas encore d’équivalent dans l’univers des
+réels.
+
+Donc, si vous voulez, maintenant je vais revenir à Leibniz. Nous voilà maintenant devant un
+nouvel univers dans lequel sans incohérence nouvelle, nous avons un langage dans lequel il y a
+des infinis et des infiniment petits, [97 :00] et des infinis et des infiniment petits qui se
+comportent comme des nombres et qui en ont exactement les mêmes propriétés, qui ne sont pas
+différentes, c’est-à-dire qu’on va pouvoir définir et dire ce qu’on a à dire dans ces univers-là qui
+sont des univers plus vastes. [Pause] Et c’est là que Robinson s’aperçoit qu’au fond, cette idée,
+c’est Leibniz qui l’a eue. Dans le dernier chapitre de son livre – parce que je crois que cette
+
+                                                                                                      20
+
+construction est écrite dans un livre publié en 1966 à Amsterdam qui s’appelle Nonstandard
+Analysis – dans le dernier chapitre de son livre, au chapitre 10, Robinson au fond cite la
+référence d’origine, [98 :00] et il cite au fond la théorie des infinitésimaux de Leibniz. Je signale
+parce que c’est intéressant qu’a paru il y a peu de temps, chez Blanchard, l’ensemble des œuvres
+de Leibniz concernant le calcul infinitésimal. Alors donc je vais revenir tout à l’heure à Leibniz,
+enfin je vais revenir presque maintenant. Mais Robinson cite une lettre, lettre en 1701… non, un
+mémoire de Leibniz touchant à son sentiment sur le calcul différentiel ; c’est un mémoire que
+Leibniz écrit en 1701, c’est-à-dire assez tardivement, et je vais vous dire pourquoi tout à l’heure
+j’insiste sur le fait que c’est un mémoire assez tardif. Et Leibniz écrit – le texte est en français, il
+est cité en français dans le livre :
+
+"On n’a pas besoin de prendre l’infini ici à la rigueur [99 :00] mais seulement comme lorsqu’on
+dit dans l’optique que les rayons du soleil viennent d’un point infiniment éloigné et ainsi sont
+estimés parallèles. Et quand il y a plusieurs degrés d’infini ou infiniment petits, c’est comme le
+globe de la terre est estimé un point à l’égard de la distance des fixes, et une boule que nous
+manions est encore un point en comparaison du semi-diamètre du globe terrestre de la sorte que
+la distance des fixes est un infiniment infini ou infini de l’infini par rapport au diamètre de la
+boule. Car au lieu de l’infini ou de l’infiniment petit, on prend des quantités aussi grandes et
+aussi petites qu’il faut pour que l’erreur soit moindre que l’erreur donnée, de sorte qu’on ne
+diffère du style d’Archimède que dans les expressions qui sont plus directes dans notre Méthode,
+et plus conformes à l’art d’inventer". [Cité en français dans Robinson, Non-Standard Analysis
+(North Holland, 1970), pp. 261-262] [Pause] [100 :00]
+
+Un peu plus loin, dans un autre texte, non, dans le même : "Et il se trouve que les règles du fini
+réussissent dans l’infini comme s’il y avait des atomes, quoiqu’il n’y en ait point, la matière étant
+actuellement sous-divisée sans fin ; et que vice versa, les règles de l’infini réussissent dans le fini
+comme s’il y avait des infiniment petits métaphysiques, quoiqu’on n’en ait point besoin ; et que
+la division de la matière ne parvienne jamais à des parcelles infiniment petites : c’est parce que
+tout se gouverne par raison et qu’autrement, il n’y aurait point de science ni règle, ce qui ne
+serait point conforme avec la nature du souverain principe." Même texte de Leibniz. [Cité en
+français dans Robinson, Non-Standard Analysis, p. 262]
+
+Enfin, je vous citerai une dernière phrase de Leibniz, je reviendrai sur ce passage ; c’est une
+lettre de Leibniz à Varignon, [101 :00] en 1702 : "Entre nous" – c’est Leibniz qui écrit – "je crois
+que Monsieur de Fontenelle, qui a l’esprit galant et beau, en a voulu railler lorsqu’il a dit qu’il
+voulait faire des éléments métaphysiques de notre calcul. Pour dire le vrai, je ne suis pas trop
+persuadé moi-même qu’il faut considérer nos infinis et infiniment petits autrement que comme
+des choses idéales et comme des fictions bien fondées. Je crois qu’il n’y a pas de créature audessous de laquelle n’ait une infinité de créatures ; cependant je ne crois point qu’il y en ait, ni
+même qu’il en puisse avoir d’infiniment petits, et c’est ce que je crois pouvoir démontrer." [Cité
+en français dans Robinson, Non-Standard Analysis, pp. 262-263]
+
+Remarquez dans ce texte que Leibniz est mal à l’aise. [102 :00] C’est pour ça que je insiste sur le
+fait que ces textes sont de la fin de sa vie. Dans les premiers textes de Leibniz sur le calcul
+différentiel, Leibniz au fond pense qu’il est possible qu’il y ait des infiniment petits au sens
+stricte. Vous savez que le calcul différentiel a été inventé presque simultanément par Newton et
+
+                                                                                                    21
+
+Leibniz – je n’y insisterai pas, c’est peut-être Newton qui l’a fait un peu avant – mais les deux
+présentations sont, disons, ils ont eu d’ailleurs une longue dispute entre eux qui ne s’est pas passé
+très élégamment. En dehors du problème de la primauté qui est secondaire, ce qui est intéressant
+à noter du point de vue stricte, c’est que Leibniz, quand il présente le calcul différentiel,
+[103 :00] il voudrait… il a l’air de dire, son vocabulaire qui est différent, et entre autres qu’il y a
+des objets infiniment petits, infiniment petits voulant dire plus petits que tout fini assignable –
+c’est ainsi qu’il le définit – et que ces objets infiniment petits sont utilisables parce qu’ils
+fonctionnent comme des nombres fonctionnels. Ce sont des infiniment petits dont on peut se
+servir clairement. Tout à l’heure je voulais présenter une autre citation du même mémoire.
+Newton, lui, a une présentation plus complexe parce qu’il utilise alternativement parfois un
+langage qui suggérait qu’il y a des infiniment petits, parfois un langage qui dit que c’est une
+limite, ou parfois un langage qui est plus proche de la description classique. [104 :00]
+
+Dans l’univers des mathématiciens, en 1790 comme en 1987, la réaction est la même, c’est-àdire introduire de nouveaux nombres est tout à fait gênant, et c’est insupportable, et les
+mathématiciens prétendent qu’ils sont assez sympathiques, et même devant le travail de
+Robinson, ils éprouvent une gêne. Je vous citerai à titre d’exemple une conférence d’un
+mathématicien tout à fait bien introduit dans l’institution qui s’appelle [Jean] Dieudonné, dans
+une conférence de 1980 ou ’82 à peu près, il dit qu’introduire de nouveaux nombres, c’est rendre
+les mathématiques vides et non-signifiantes. Et Dieudonné était à l’origine du groupe Bourbaki.
+Je signale en passant [105 :00] qu’un autre Bourbakiste, Claude Chevalley – un ancien
+professeur dans cette université même – Chevallay, dans un texte disait qu’au fond, faire une
+mathématique, un peu comme [René] Thom, faire une mathématique absolument rigoureuse,
+c’est la rendre insignifiante. Il m’est arrivé de demander à Chevalley de son point de vue idéal,
+aux antipodes du texte dont je vous parlais tout à l’heure. Bon.
+
+La question centrale : à l’époque, Leibniz rencontre la même difficulté ; c’est-à-dire, dire qu’il
+peut y avoir des infiniment petits comme objets et qu’ils obéiraient aux mêmes modes de calcul,
+aux mêmes modes d’approches, que les autres nombres apparaissaient comme insupportable.
+[106 :00] Et donc il y a eu immédiatement après une polémique. C’est l’allusion qu’il fait à
+Fontenelle ; c’est une allusion au Marquis de l’Hôpital un peu après qui, lui, a été assez séduit
+par des infiniment petits. [Voir une citation dans Non-Standard Analysis, p. 263] Donc, dans ce
+texte de 1702, Leibniz dit, j’y reviens, c’est une position polémique, une position de réplique,
+rappelons le texte, "[il faut dire] je ne suis pas trop persuadé moi-même qu’il faut considérer nos
+infinis et infiniment petits autrement que comme des choses idéales et comme des fictions bien
+fondées." Mais Leibniz, en dehors de ses doutes, il continue de défendre son idée des infiniment
+petits [107 :00] parce que c’est la seule manière de parler du voisinage. Et c’est là où je reviens à
+la remarque de Deleuze.
+
+Qu’est-ce qu’a démontré Robinson ? Tout simplement que cette idée n’est pas logiquement
+intenable, qu’il n’y a aucune contradiction possible entre elle et l’idée courante du réel-isme. Au
+fond, il a simplement fait ceci – c’est, je crois, l’essentiel de cette œuvre – c’est d’avoir montré –
+dont je vous dis la série des travaux – qu’on peut avoir un langage comportant ces objets, ces
+"fictions bien fondées" comme dit Leibniz, et que cela n’entraîne absolument aucune
+contradiction. Cette version-là du calcul infinitésimal [108 :00] n’aura jamais eu le droit de cité.
+Robinson, dans le livre Nonstandard Analysis, dans les chapitres centraux du livre, fait un
+
+                                                                                                     22
+
+véritable cours de maths, c’est-à-dire il décrit ce que serait la description d’un cours d’analyse
+ordinaire dans cet univers-là. Il y a un point qui est tout à fait séduisant dans cette lecture ; c’est
+que toutes les notions deviennent parfaitement simples grâce aux infiniment petits. Par exemple,
+si certains d’entre vous ont eu l’occasion de souffrir sous la définition d’une dérivée, lisez-la
+dans Robinson, et vous le comprendrez très bien. Vous vous demanderez comment ça se fait que
+vous ne l’ayez pas compris. C’est une notion qui devient immédiatement simple dans cet univers
+parce qu’au lieu d’avoir – vous vous rappelez peut-être, certains d’entre vous, en secondaire, la
+dérivée qui tendait vers zéro sur zéro, où on raconte une histoire de zéro sur zéro [A voix basse et
+parfois difficile à saisir, il raconte son expérience comme prof en secondaire, notamment
+l’expérience typique de souffrance des étudiants en secondaire avec les dérivées] [109 :00] Cette
+définition va mettre des siècles à venir. Faire une définition relativement précise en termes de
+limites mettra des siècles à venir. Et puisque Deleuze l’a cité la dernière fois, je signale que
+l’édifice est couronné par Weierstrass, un mathématicien dont tu as parlé la dernière fois, qui va
+faire une définition très complexe des angles purs.
+
+Si nous avions des infiniment petits, la définition de la dérivée, de la limite, d’une suite
+convergente, ça serait tout à fait simple. Que se passerait-il alors ? Tout simplement ceci :
+[110 :00] c’est que tout point va se trouver entouré d’une zone d’infiniment petits qui lui sont
+infiniment proches, au sens des infiniment petits. C’est-à-dire il va se trouver avec, autour de lui,
+un petit halo, un petit nuage, et ce nuage dont il s’entoure est formé de ceux qui lui sont
+infiniment proches. A cet ensemble, point plus son petit nuage autour, Robinson donnera le nom
+de "monade". [Pause] Et au fond – et la lecture du texte de Robinson le montre très bien, et de
+tout ce qui a été fait par la suite parce qu’il y a eu les travaux évidemment de l’Analyse
+nonstandard… -- La lecture du texte montre ceci : c’est que les rapports d’un point [111 :00] et
+ce qui l’entoure, c’est un rapport de cette monade avec l’univers qui l’entoure. Tout à l’heure, je
+donnerai un exemple qui va dans le sens de ce que disait Deleuze, à mon avis. [Pause]
+
+La monade donc, c’est un univers formé des points et de ce qui lui est infiniment petit. Cela
+oblige logiquement un petit travail un petit peu complexe qui est la définition de l’égalité. On ne
+peut plus avoir dans une théorie de ce genre, dans un univers de ce genre, une seule notion
+d’égalité, comme il y a eu dans l’univers classique. C’est-à-dire que l’on pourrait avoir deux
+définitions de l’égalité quand c’est strictement le même objet ou quand ce sont deux objets
+[112 :00] qui diffèrent d’un infiniment petit. Remarquez que cet exemple n’est pas exclu de la
+mathématique classique, eh ? Je vois signale en passant qu’on peut écrire sans risques – je vais
+l’écrire, cela sera plus facile pour vous à voir – A = 0,99999… parce que s’il n’y a aucune
+différence entre 0,99999…. – si vous prenez mes points de suspension jusqu’au bout – et 1, les
+deux nombres ne diffèrent en rien. Ce sont deux écritures du même nombre. L’un est présenté
+comme une approche infinie, c’est-à-dire que si vous êtes paresseux et vous arrêtez les 9 à un
+moment, l’égalité est fausse. Mais si vous la poursuivez jusqu’au bout, c’est la même chose.
+Donc, même dans l’égalité, nous avons un problème. Alors évidemment, dans l’univers
+leibnizien des infiniment petits, il faudra distinguer les deux aspects. Dans cet univers-là
+[113 :00] – je voudrais répondre à votre question – dire en passant que Leibniz donne un
+exemple de la même chose que je donne, dans le même texte que j’ai cité tout à l’heure de 1702.
+
+Je voudrais maintenant, enfin, pour terminer – je répondrai après tout à l’heure à des questions et
+à Deleuze, s’il y en a – décrire dans ce cas-là ce que peut être la notion de séries convergentes.
+
+                                                                                                     23
+
+Donc je ne choisis qu’un seul exemple dans cette description, c’est-à-dire je ferai très rapidement
+un parallèle entre la notion de série convergente dans l’univers mathématique classique et la
+notion de série convergente dans l’univers des infiniment petits. Une série convergente, c’est
+quoi ? Une série de triangles tendant – ou plutôt Deleuze emploie souvent le mot "série
+convergente", même [114 :00] dans Logique du sens il y a longtemps ; je pense que pour les
+mathématiciens, ce serait plus juste de dire "suite convergente", mais dans ce cas-là, ce n’est pas
+très grave, ce n’est pas grave. Appelons-le série si vous voulez.
+
+C’est une série dont les termes vont s’approcher d’un point donné, [Il va au tableau] c’est-à-dire
+qu’on va avoir un point – que je vais dessiner comme ça – qui probablement sera extérieur à la
+série, mais la série s’en approche. Que veut dire "s’en approche" ? Là je parle en termes
+classiques. En termes classiques, "s’en approcher", cela veut dire que chaque fois que je situe un
+cercle près de la série, il y a une intimité de termes dans le cercle et un nombre fini de termes qui
+sont à l’extérieur. Si je prends un cercle encore plus petit, [115 :00] il y en aura plus là [il indique
+le dessin] que pour le reste, c’est-à-dire il y aura une infinité. C’est ça cette idée de converger,
+c’est-à-dire si vous voulez, s’approcher indéfiniment, ou comme disaient les traités de
+mathématiques du début du [vingtième] siècle, être aussi proche de la limite que l’on voudra.
+Quand on lisait ces textes, ils faisaient toujours rêver les mathématiciens : qui est ce "on", qu’estce qu’il "veut" ? Enfin, ceci est une parenthèse. Mais enfin, il y avait écrit dans les doxa des
+vieux traités qu’on va aussi proche de la limite que l’on voudra. Ça veut dire, aussi proche de la
+limite que le cercle que j’ai indiqué. C’est comme ça que Weierstrass résume le problème en
+faisant des cercles de plus en plus petits, en montrant que la série est convergente s’il y a une
+infinité de termes dans le cercle et un nombre fini de termes à l’extérieur. Ceci est la définition,
+vous voyez, assez complexe parce qu’elle nous oblige à fabriquer des cercles. La solution,
+[116 :00] il y a un choix ; je vous la dessine là : elle dit, chaque fois que vous me donnerez un
+cercle, moi, je trouverai une infinité de points dans le cercle si c’est convergent, et un nombre
+fini à l’extérieur du cercle. Donc, la solution que proposera Weierstrass, c’est [il cite une
+formule], on pourra le trouver.
+
+Alors, plaçons-nous maintenant dans l’univers leibnizien avec les infiniment petits. La série
+convergente, c’est une série qui s’écrase, qui entre à un moment dans la monade de Leibniz,
+c’est-à-dire dont la différence des termes avec la limite deviendra à un certain moment et au bout
+d’un nombre fini de pas infiniment petite, et donc elle entre à ce moment-là dans la monade. Ce
+qui ne veut pas dire qu’elle est alors… Si vous voulez, à ce moment-là, j’ai un outil pour décrire
+ce trou, c’est la monade, cette espèce de réflexion [117 :00] de l’univers autour de ce point.
+C’est-à-dire qu’au fond, il va y avoir – et là on voit le rapport entre fini et infiniment petit, entre
+infini et infiniment petit – au fond, la monade est une espèce de réflexion de l’univers extérieur,
+à l’intérieur de l’alentour du point, et si c’est une singularité, autour du centre. Robinson
+démontre d’ailleurs, c’est assez étonnant, comme si il répondait à la question que Deleuze posait
+la dernière fois, il montre qu’il n’y a qu’un seul cas où cette procédure ne marcherait pas : c’est
+si le point en question est isolé parce que s’il est isolé, je veux dire s’il n’y a personne autour de
+lui, la monade serait réduite à elle-même, et ce cas est tout à fait particulier.
+
+Deleuze : Leibniz le dirait aussi, exactement.
+
+                                                                                                      24
+
+Maarek : Leibniz le disait aussi. C’est un théorème, si vous voulez, dans le livre de Robinson.
+[118 :00] Voilà, si vous voulez, ce que donnerait cet univers-là. Cette description est assez
+étrange parce qu’en lisant le livre, je dis ça parce que si on faisait un cours de maths avec
+Analyse Non-Standard, les notions paraîtraient tout simples [quelques mots pas clairs] parce
+qu’on a un ensemble de mots pour parler de la limite. Et cette idée qu’il y a dans ce mémoire de
+1701 de Leibniz, c’est-à-dire quand il dit, c’est un ensemble idéal, c’est une "fiction bien
+fondée", je vous dirais que j’ai presque envie de dire, mais si on pouvait, qu’il n’a pas montré
+que c’était bien fondé, mais la démonstration prendrait beaucoup de temps. De toute façon, une
+idée se retrouve là. Tout ce mémoire donc de 1701, qui s’appelle [119 :00] – je le re-cite, il est là
+dans le livre publié chez Blanchard – il s’appelle "Un mémoire de Monsieur Leibniz disant son
+sentiment sur le calcul différentiel" – il est là dans l’édition Guérard, page 350.
+
+Deleuze : [les œuvres] mathématiques ?
+
+Maarek : Oui, et là on a une traduction française. D’ailleurs il est écrit en français. Il faudrait lire
+au fond l’ensemble de cette construction.
+
+Alors, pour terminer, je veux vous dire un mot, c’est que dans l’histoire, antérieurement à
+Leibniz, il n’y a qu’un seul mathématicien qui ait approché de cette idée. Ce mathématicien – ce
+n’est pas un hasard parce que Leibniz le cite dans le texte – c’est Archimède. Et Archimède,
+aussi avec une extrême prudence, [120 :00] a approché de cette idée, mais j’ai presque envie de
+dire, de manière négative. C’est-à-dire qu’au moment où il l’approche, il la rejette, très
+clairement. Donc je voudrais terminer en parlant d’Archimède. Où est-ce que se situe ce rejet ?
+Dans un texte d’Archimède concernant le calcul des longueurs, le calcul des volumes, le calcul
+des surfaces. Il se trouve devant la situation suivante : si vous prenez une petite ligne et que vous
+ajoutez un point, est-ce que vous augmentez la longueur de la ligne ? Renvoyez la question
+autrement : Si on vous donnait des points, pourriez-vous faire une ligne avec deux points ? La
+réponse, c’est non ; en tout cas, la réponse d’Archimède, c’est non. [121 :00] C’est-à-dire que les
+infiniment petits ne peuvent pas fabriquer une ligne des infiniment petits points. De même qu’en
+empilant des lignes les unes à côté des autres, vous ne pouvez pas obtenir des surfaces ; il vous
+en manquera toujours. Il y aura des trous tout le temps ; il y aura des singularités tout le temps. Si
+on vous donnait, par exemple, des segments et que vous devriez faire un carré ou un triangle, je
+ne sais pas, en les empilant… De même qu’avec des surfaces, vous ne pourriez pas fabriquer des
+volumes. En disant cela, je cite presque textuellement Archimède parce qu’il reprend les trois
+exemples l’un après l’autre. Par conséquent, il bute devant une difficulté qui est, comment faire
+pour empiler les points pour faire des lignes ? Et il décide d’adopter la position de rejet, on ne
+peut pas le faire. Avec des points, on n’obtient pas de lignes, dit Archimède textuellement ; avec
+des lignes, on n’obtient pas de surfaces, et avec les surfaces, on n’obtient pas de volumes.
+[122 :00] Il y insiste en le répétant plusieurs fois.
+
+Comment ferait-on alors avec les infiniment petits, eh bien, à condition que l’on ait bien aussi
+des infinis, si l’on a des infinis, c’est-à-dire si je peux prendre une infinité ? Donc la fiction se
+retrouve aux deux bouts pour que ça puisse fonctionner. Il faut que je puisse prendre une infinité
+d’infiniment petits pour retrouver un objet classique standard, [quelques mots pas clairs]. Et tout
+le long du texte, Leibniz sent bien cette difficulté parce que chaque fois il y a une non-balance
+d’infiniment petits. [Pause] Et je crois qu’une des idées qui pourrait être, probablement, tenable
+
+                                                                                                     25
+
+et séduisant, c’est que ce que Robinson appelle la monade autour d’un point – et ce sera
+intéressant de le voir au niveau de la singularité [123 :00] – c’est ce qui, il me semblerait
+personnellement être tenable, c’est que cette idée, cela gère les rapports entre le point singulier et
+tout ce qui est autour de lui. L’exemple de la série convergente est tout à fait indicatif. Que ce
+serait une série divergente – je vais terminer sur ça – ça serait une série qui n’entre pas dans la
+monade, la monade au sens de Robinson. Voilà, je peux répondre aux questions… Je ne sais pas
+si ce que j’ai dit est très latéral.
+
+Deleuze : Oh, pas du tout, pas du tout. Alors, là, je trouve ça formidable. Je trouve ça formidable
+pour nous parce que c’est un tel apport. Vous comprenez, je prends un des thèmes qu’il a eus là :
+voilà un mathématicien moderne qui donc est amené à se servir [124 :00] mathématiquement de
+la notion de monade. Alors cela m’éclaire aussi parce que, eh ben, il fait partie aussi de ton
+département, Gilles Châtelet ne cesse en effet de faire du travail mathématique, où il a besoin de
+la notion de monade, c’est-à-dire un disciple de Robinson. Et ce qui m’intéresse, c’est la
+définition mathématique qu’il donne de la monade, alors qu’en effet, il n’y a pas de définition
+mathématique de la monade chez Leibniz. Et il nous dit, si j’ai bien suivi, la monade, elle est
+formée de points singuliers avec ce qui se passe autour, une fois dit – c’est-à-dire avec ce que tu
+as appelé le nuage autour – une fois dit que "le nuage" et "autour" sont définis strictement
+mathématiquement. [125 :00] Alors si on me dit et si j’apprends que c’est une notion
+mathématique et il y a une valeur actuelle là, voyez tout de suite ce que j’ai là : je dis, de telles
+monades mathématiques sont précisément des individus [Pause] parce que la définition – je ne
+sais pas si vous y êtes sensibles – ça coïncide tout à fait avec ce que je voulais dire : un condensé
+de points singuliers prolongeables, c’est-à-dire avec [mot pas clair] autour, défini par le
+prolongement dans toutes les directions, c’est exactement la définition de Robinson. Je ne le
+savais pas, mais c’est une joie pure.
+
+Alors, je dirais presque, non, c’est une intervention, pour moi, d’une richesse extraordinaire que
+tu as bien voulu faire par ce que cela nous apprend. Je voudrais juste revenir sur un point, le seul
+point où j’aurais des problèmes après avoir bien écouté. C’est le point [126 :00] sur ce que tu dis
+à propos des textes autour de 1700 chez Leibniz parce que – là, j’ouvre une parenthèse avant de
+passer très rapidement à ce point – tu montres très bien que chez Skolem, les nombres infinis
+sont soumis exactement aux mêmes règles, c’est-à-dire de l’axiomatique. Donc tu dis, surtout il
+ne faut pas les confondre avec les transfinis, si je comprends bien là, [Maarek : C’est ça] il ne
+faut surtout pas les confondre avec les transfinis de Cantor, parce que les transfinis, eux, ne font
+pas partie de la même axiomatique que… C’est ça, eh ? [Maarek : Oui] Donc, les nombres, il n’a
+pas un nom spécial pour empêcher la confusion ? Il dit nombres infinis.
+
+Maarek : Il dit nombres infinis non-standards.
+
+Deleuze : Ah oui, il y a non-standard. Je ne connais pas, ça s’écrit comment Skolem ? [Maarek
+l’épèle pour Deleuze] Il est de quand ?
+
+Maarek : Ses travaux sont surtout autour de 1924. En passant, d’ailleurs, il est l’auteur dans la
+même année [127 :00] dont je n’ai pas parlé, c’est un paradoxe, dit le paradoxe de Skolem
+[Deleuze : Ah, je ne connais pas] qui est tout à fait étonnant parce que l’une des idées qu’on a
+eue après l’article de Skolem, c’est de se dire – vous vous rappelez tout à l’heure j’ai dit qu’un
+
+                                                                                                   26
+
+extraterrestre aurait pu apprendre l’arithmétique ; alors évidemment on pourrait dire que le
+modèle de l’arithmétique que nous avons dans la tête – 0, 1, 2, 3,4, 5 – est plus petit parce que ce
+que ce que j’ai dit, l’extraterrestre peut étendre ce système. Alors une des réponses qu’avaient été
+faites à Skolem : oui, bon, enfin le modèle qu’on a dans la tête, c’est toujours le plus petit, et là
+où le système est paradoxal – et c’est ça ce qu’on appelle le paradoxe de Skolem – c’est que si on
+donnait à un extraterrestre l’axiomatique de la théorie des ensembles, le modèle qu’il fabriquerait
+n’est pas le plus petit. Le modèle qu’il fabriquerait peut être plus petit que celui qu’on a dans la
+tête. C’est-à-dire [128 :00] il y a le modèle plus petit que celui que nous connaissons, [Deleuze :
+Oui, oui, oui] c’est-à-dire il y a des modèles, enfin, là, j’irais même plus loin, des modèles nondénombrables qui contiennent des ensembles non-dénombrables, c’est un peu étonnant, c’est ce
+qu’on appelle actuellement le modèle minimal. Alors, c’est paradoxal, donc, c’est paradoxal ; la
+solution de ce paradoxe de Skolem n’est pas simple. Je citerai en passant que dans le livre La
+théorie axiomatique des ensembles, Jean-Louis Krivine – qui écrit, par ailleurs, un très, très beau
+livre [Dordrecht, Pays Bas : Springer, 1971] – résout le paradoxe de Skolem par une pirouette.
+C’est un paradoxe de plus.
+
+Deleuze : Il écrit en quelle langue, Skolem.
+
+Maarek : Skolem écrit en Allemand. L’article de 1934 est en allemand, mais lui est, je crois,
+scandinave [au fait, de Norvège].
+
+Deleuze : Alors moi, j’aurais envie de présenter les choses comme ceci à propos précisément
+surtout des textes de 1700. Les textes auxquels tu faisais allusion, [129 :00] en effet, Leibniz dit
+tout le temps, ou semble dire, vous savez, il ne faut pas exagérer, notamment contre
+Fontenelle. La question n’est pas de savoir s’il y a des infiniment petits ou pas. La question est
+par quel calcul les infinitésimaux marchent, fonctionnent. [Fin de l’enregistrement
+BNF/YouTube ; il est possible que Deleuze continue sa réponse] [2 :09 :18]

@@ -1,0 +1,58 @@
+project:
+  name: deleuze_graphrag
+  root: .
+
+input:
+  documents:
+    path: input/data
+    pattern: "**/*.txt"
+  # Additional metadata or prior knowledge files can go under input/knowledge.
+
+embeddings:
+  llm:
+    type: openai_embedding
+    api_key: ${OPENAI_API_KEY}
+    api_base: https://api.openai.com/v1
+    model: text-embedding-3-large
+    dimensions: 3072
+  text_splitter:
+    chunk_size: 2400
+    chunk_overlap: 180
+
+models:
+  default_chat_model:
+    type: openai_chat
+    api_key: ${OPENAI_API_KEY}
+    api_base: https://api.openai.com/v1
+    model: gpt-5-nano-2025-08-07
+    encoding_model: o200k_base
+    temperature: 0.2
+    max_tokens: 4096
+  default_embedding_model:
+    type: openai_embedding
+    api_key: ${OPENAI_API_KEY}
+    api_base: https://api.openai.com/v1
+    model: text-embedding-3-large
+    dimensions: 3072
+    encoding_model: cl100k_base
+
+prompt_tuning:
+  enabled: true
+  tuned_prompt_path: prompts/entity_extraction.txt
+
+search:
+  global:
+    enabled: false  # avoid arborescent path; rely on custom agent for traversal
+  local:
+    enabled: true
+
+output:
+  path: output
+  export:
+    format: parquet
+
+graph:
+  storage:
+    type: networkx
+  writer:
+    save_graphml: true

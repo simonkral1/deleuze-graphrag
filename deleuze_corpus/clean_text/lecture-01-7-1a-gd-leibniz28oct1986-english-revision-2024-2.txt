@@ -1,0 +1,1121 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque -- Leibniz as Baroque Philosopher
+
+Lecture 01, 28 October 1986: Introduction: Pleats and Folds
+
+Translation and Transcription, Charles J. Stivale 1
+
+Part 1
+
+Good, so we’re off. [Pause, room noises] This year, I am proposing the following topic:
+Leibniz as Baroque philosopher. So you will see if you will continue to come. Those who
+do continue to come, I am asking an assignment of them during this year … Well, it’s not
+even an assignment. It’s a way of following the reading selected from anything written by
+Leibniz, whatever you like. It’s fine if you don’t know what [to choose]; I am proposing a
+choice from two very short works – Leibniz wrote a lot of small works – either the
+Monadology, it’s quite small, you see? But I have a small edition; one from any publisher
+is fine. [Deleuze looks at one student’s edition] In one year, that’s readable, [Laughter]
+the Monadology, or else [try] something a bit larger, but not much, the Discourse on
+Metaphysics. There’s an edition from the Presses… no, from Vrin, I think, but no matter,
+one that includes both of them, for those of you who would like to read them both. But I
+especially emphasize that you might read other things.
+
+So today, I am again speaking with those who will continue to come in mind; if there are
+some among you who have the slightest mathematical background, read any of Leibniz’s
+works in mathematics. If there are some among you who have a musical background, you
+will see as we go forward how musical questions are very, very deeply inscribed in
+Leibniz’s system. Fine, so we will see all that.
+
+This course is abstractly or ideally divided in two parts, the first part being addressed to
+[students in] the first cycle [undergraduate level] and the second part to [students in] the
+second and third cycles [graduate level], but the line of separation is ideal, although
+completely functional and administrative. The separation will be indicated maybe by a
+recess, [Laughter] maybe by a light show. So let’s continue.
+
+But I would like to know who arrived here first today. Can you tell me? Was the room
+open or not? [Different answers, “we opened it”]
+
+Claire Parnet: We asked a guy from cleaning to open it, who refused to do so because, he
+said, the class didn’t start until nine AM…
+
+Deleuze: Aha, that’s it, that’s it.
+
+Parnet: … and clearly, he had orders not to open it.
+
+                                                                                              2
+
+Deleuze: And how did you persuade him? [Laughter] No, that’s fine, that’s fine, because
+let me tell you. In this university, if you haven’t yet seen this, there is an entirely strange
+procedure that has been forced on us following which, when I arrive, I am supposed to go
+see the guard; I give the guard my little token, and he gives me the room key and keeps
+the token. Afterward, I have to close the room and bring back the key, and he will return
+my token to me. So I was worried… It’s really grotesque and twisted as a solution. And
+do you know why? It’s because we have to prevent students from taking chairs into the
+other classrooms. So, I was surprised that the room was open, but I understand. You have
+to keep doing this every time. [Laughter]
+
+[A student responds]: And we have to put the room in order as well, because when we get
+here, the chairs are never like this [in order]. The first ones to arrive, Michel and a few
+others, it’s [inaudible] . . . and it’s been like this for years!
+
+Deleuze: Ah for years? [Laughter] That’s not right. You ought to go look around … Ok,
+let’s go.
+
+So, why this subject? I wanted to do “What is philosophy?”, and then I wasn’t ready, I
+just couldn’t, I just couldn’t. “What is philosophy?” is such a sacred subject that I didn’t
+dare to take it on. But this is nearly an introduction to “What is philosophy?”. Why?
+Leibniz’s life is rather simple: 1648-1716. I tell you that because this is all I have to say
+about his life. It’s just so you can situate yourself. So he is born nearly halfway through
+the seventeenth century and dies well into the eighteenth century. For any complementary
+information on his life, which is nonetheless quite interesting, you can refer to the usual
+introductions.
+
+What can we say about the tumultuous arrival of Leibniz into philosophy? We can say
+summarily that it’s the entry of German philosophy, that it’s the arrival of German
+philosophy. It’s the entry of German philosophy into Europe. [Pause] But how does it
+distinguish itself, this entry of German philosophy into Europe? It distinguishes itself
+through the arrival of the system. It’s with Leibniz that the word “system” is going to
+designate the entirety of philosophy, or the entirety of a philosophy, Leibniz’s. Before
+this, “system” was used in astronomy in the sense of world system; it was used in
+biology, in natural history, in the sense of the system of nature, but it did not designate
+philosophy as such. As a result, this will raise an important question: to understand what
+Leibniz means by “system” and how it identifies with philosophy as such. Fine.
+
+Would the "system" be the Baroque form of philosophy? We are told that such a word
+can be used only with many kinds of precaution, and that the very word "Baroque” raises
+more problems than it offers solutions. We are told that one would have to know if it’s an
+aesthetic category or if it’s an historical period. We are told that one would have to know
+what the exact relation is of “Baroque” with “Renaissance”, with “Classicism,” with
+“Gothic”, etc. We are told that one would have to know what [would be] the location,
+what era and location, a Spanish Baroque, and central European Baroque. We are told
+thousands of things that… We are even told [about] the term “Baroque”, if it’s used
+rigorously, what is it suited for? Perhaps for architecture, certain aspects of architecture,
+
+                                                                                              3
+
+in a particular location, in a particular era. But can we speak of a Baroque literature, a
+Baroque music? We are presented with all kinds of difficulties from the start.
+
+I am saying that these aren’t problems for us. I would just ask for us one small thing: to
+have a vague, or even a confused, idea about what “Baroque” might be called, a very,
+very simple idea that we might consider as a hypothesis, and then we would look for the
+consequences of this hypothesis. We would develop the hypothesis, and then we would
+see if that worked. We would need to have a functional hypothesis, I mean, not defining
+an essence of the Baroque, but defining something that the Baroque would be presumed
+to create, an operation. I believe we would get out of all these problems that wear us out
+from the start, that is, what does the word “Baroque” mean? Does it refer to this or to
+that? Under what conditions might it be legitimately used? If we have an operating
+hypothesis, what constitutes a Baroque man? And my hypothesis is very simple, but on
+the condition that this operation coincides neither with an operation that might be called
+Gothic, nor one that might be called Renaissance, nor one that might be called Classical,
+nor one that might be called Romantic, etc. On the operating level, we have to look for a
+certain specificity of the Baroque.
+
+If I am formulating a very general hypothesis, I already have the answer. I am not
+questioning myself about the location in which the Baroque did this or that – is it in
+music? Is it in architecture? Is it in literature? -- I am saying something quite simple: the
+Baroque creates folds, the Baroque creates folds. It’s a hypothesis. The fold is therefore
+the essential characteristic of the Baroque understood as an operating action. At least, for
+those who were here last year, this assures me as being the entirely natural transition from
+last year. We were speaking frequently about the fold, but from another viewpoint. For
+this year, we find ourselves faced with the necessity, perhaps, the necessity of
+confirming, of trying to construct a concept of the fold which, as concept, obviously, if all
+goes well, must follow all the sinuosity of Leibniz’s philosophy. In fact, if this
+philosophy is under the sign of the fold, it is normal that I speak of a sinuous philosophy.
+
+What does all that mean, that the Baroque is what creates folds? I cannot yet know. I am
+saying [that] the Baroque is located where matter does not cease being pleated, being
+pleated onto itself, or where the soul does not cease being folded, the pleats of matter (les
+replis de la matière) and the folds of the soul (les plis de l’âme).2 If I am saying the soul
+folds into itself, that matter pleats onto itself, sense at least [that] I don’t know if this is
+Baroque, but I know that it’s not about anything of interest to a Classic, nor is it about
+anything of interest to a Romantic. We are going forward by intuition. I don’t know; I’d
+like for this already to say something to you, I mean directly to your heart, the pleats of
+matter and the folds of the soul, and to say to you, yes indeed, someone who says this or
+does that, who folds the soul or pleats the body, well yes, that’s someone Baroque. I don’t
+at all know why yet, or how. It’s not easy to fold one’s soul. As a result, today and
+perhaps the next time again, we will proceed through a simple introduction, on this
+subject of “Leibniz as Baroque philosopher.” Notably, we are going forward with a group
+an aggregate of guideposts around the themes “pleats of matter” and “the folds of the
+soul”, so that in today’s session, we could place it under the sign of paragraph 61 in the
+Monadology, where in this paragraph from the Monadology, it ends in a truly splendid
+
+                                                                                               4
+
+way: "[A soul] could never bring out all at once everything that is folded into it because
+its folds go on to infinity." 3 That’s it! It’s not even explained, there’s nothing to be
+explained.
+
+First, try to get a sense of this; it’s a very strange statement. Can you imagine there being
+a similar expression in Descartes, however little you may know Descartes? No, it’s
+unimaginable: the folds of the soul. This expression is beautiful. You have to learn it by
+heart. Yes, it’s gotten lost. “It [the soul] could never bring out all at once everything that
+is folded into it because its folds go on to infinity." But this [expression] gives us
+something. The fold, the Baroque fold goes on to infinity. [Pause] The fold that goes on
+to infinity, it’s the pleat since it’s obvious that it’s not the Baroque that invented the fold.
+For example, in sculpture, there are always folds, if only through the presentation of a
+garment. A garment creates folds. Yes, certainly, a garment creates folds; every fold is
+not Baroque. Fine. So much the better. Our hypothesis is fine since we already have the
+differential characteristic of the Baroque. Yes, every fold is not Baroque, but not every
+fold goes on to infinity. When the fold goes on to infinity, then it’s Baroque.
+
+Oh, but what can that even mean, the fold going on to infinity? So, every fold is pleated;
+that doesn’t prevent us, for convenience’s sake – this is indeed what Leibniz says
+because, on the fold of the soul, he says: since they go on to infinity, that makes them
+pleated – that doesn’t prevent us, for convenience’s sake, from speaking particularly of
+the pleats of matter and the folds of the soul. Are there two levels, and should the
+Baroque thus be on two levels, one for the pleats of matter and one for the folds of the
+soul? This is already very important for us for then another question would be posed:
+what is the relation between the pleats of matter and the folds of the soul, and vice versa?
+You indeed sense that between the aggregates of folds, can a relation of causality be
+established? We can certainly establish bi-univocal kinds of correspondence. This will be
+a system – hey, a system! – a system of kinds of correspondence between the pleats of
+matter and the folds of the soul.
+
+But finally, all that is rather obscure, but this obscurity is so much more relaxed, easy,
+than if we approached Leibniz’s philosophy abstractly – for it’s not an abstract
+philosophy, no more than any philosophy. As a result, the first aspect [is]… I would like
+to establish a system of guideposts both in what is usually called the Baroque and in
+Leibniz’s philosophy.
+
+My first [aspect in the] system of guideposts concerns the pleats of matter.4 I would say
+that the Baroque is the presentation of a form of matter that does not cease creating folds
+or being pleated back and being unfolded. Under this first aspect, this means that the
+Baroque is defined in fact, as a treatment of matter, which means what? Which consists
+of what? I would say that the treatment of matter is a treatment in bulk [en masse]. The
+Baroque treats matter in huge masses, and the notion of mass will be fundamental within
+Baroque art. One of the best commentators and one of the first commentators on the
+Baroque is [Heinrich] Wölfflin, in a book that is without doubt, and remains, the best
+book or one of the best books on the Baroque, Renaissance and Baroque [1888]. Wölfflin
+[Deleuze spells out the name] emphasizes this first point, the treatment of matter in bulk
+
+                                                                                            5
+
+as a characteristic of the Baroque. And as Wölfflin tells us, this is how the Baroque
+operates within the colossal or the huge, and he says that its fundamental characteristic is
+gravitas, gravity, weight. And we recognize Baroque architecture not in a single
+characteristic, but among [several] characteristics, within the following characteristic: the
+increase of architectural dimensions, but in what form? We are going to locate… Let’s
+try to establish some guideposts.
+
+According to Wölfflin, the first characteristic is horizontal enlargement, a kind of
+enlargement that is located, for example, in the horizontal enlargement of facades in
+Baroque architecture. And this enlargement is confirmed by the lowering of the pediment
+– I am saying some very, very elementary things regarding Baroque architecture – the
+lowering of the pediment, or also the lower arch, henceforth elliptical, like a kind of
+gravitas, [or] the fullness of the wall that no longer allows the sight of articulations and
+that operates there as a kind of … that is covered over, with its articulations covered over,
+implying an enlargement effect, [or] the pillar instead of the column, [with] the same
+effect, [or] staircases with lowered steps that you find, for example, already in
+Michelangelo, not only lower steps on staircases, but as regards Michelangelo’s famous
+staircases, [Deleuze gets up and starts drawing on the board], I see it like this. Perhaps
+you sense the birth of the fold, and this swelling, this puffiness, with its lowered steps,
+this swelling, this puffiness produces a thrusting movement (mouvement en avant).
+[Deleuze sits down] Fine. Baroque staircases are the most delightful to climb, you know,
+the wide and low step. You hardly have the impression of climbing.
+
+Fine. The second characteristic connecting to this is a kind of treatment of matter not
+simply by enlargement, but – suddenly you sense that this is connected; I have no desire
+to undertake logical deduction; you sense that these are very natural passages – so
+henceforth the treatment of matter [is] through softening (amollissement). The masses are
+soft, [hence] the treatment of mass not only in bulk, but in soft masses. In other words,
+the softness of the form in Michelangelo’s staircase is obvious. At the extreme, we would
+have to speak of a tendency of matter toward the fluid, [Pause] a kind of turbulence of
+matter.
+
+And what does this position of soft masses imply? It implies something that is essential,
+that will be essential for us today and for the next time: a rounding off of angled forms.
+As Wölfflin says, repeating it at several points so that it seems to be something
+fundamental concerning the Baroque, the right angle is avoided. For example, the
+acanthus is a famous leaf. The acanthus leaf is a famous leaf in architecture since it
+served as decorative motif since the Greeks. But there are two kinds of acanthus, at least,
+right? There is the acanthus, in Latin, acanthus mollis, with rounded leaves, and the
+acanthus spinosus, meaning pointed, edged. There is the rounded leaf, mollis, and the
+serrated leaf. The Baroque was not the first to employ this. The Baroque undertakes on its
+own the substitution of the soft acanthus, mollis, for the serrated acanthus leaf that
+dominated before the Baroque.
+
+What does this mean, this tendency toward softness, toward the fluid, once again,
+represented by the rounding off of the angle, the avoidance of the right angle? At the
+
+                                                                                                 6
+
+extreme, this is like a conciliation of mass and water. There would be a lot to discuss
+about this softness of forms. For example, there’s Michelangelo who invented a curious
+procedure, creating architectural models (ébauches) not as sculptures, [but] his
+architectural models in clay. And once again, those who will read Wölfflin’s book, which
+is altogether beautiful, you’ll see the extent to which he insists on this tendency in the
+Baroque of avoiding the right angle, of rounding off the form, that allows precisely for a
+clay-like model.
+
+And at the extreme, I say that it’s a conciliation of mass and water. In fact, the Baroque is
+not only a kind of architecture, it’s an art of gardens, and the art of gardens entails a
+treatment of water. And Wölfflin himself, at the end of his book, insists on the art of
+Baroque gardens, with the three forms of treatment of water: the fountain, the waterfall,
+and the water feature, a lake or a pond. He shows that in all cases, the originality of the
+Baroque, of the Baroque garden, is that the water itself must act massively (faire masse),
+and in opposition to what? In opposition to clear streams, clear streams that, in contrast,
+dominate in all kinds of water structures. But the Baroque structure operates through
+massive forms of water, even in the fountain: the multiple water jets connect, constituting
+a mass. In the end, fluid is massive just as mass is fluid. [Pause] And at this level, we see
+that, henceforth, everything operates in bulk, the solid that is, in fact, a soft solid, the
+fluid that is, in fact, a massive fluid with turbulence, and that synchronize here again with
+other masses.
+
+Do you sense the birth of another theme coming to life? It’s that among the masses, there
+can only be harmony, harmony of masses, harmony as resonance of masses. Among the
+masses, there must be harmonies. And what does that mean? Well, it means that the
+masses of leaves and the masses of waters respond to one another, entering into
+counterpoint. And why into counterpoint? They are both audible (sonores). There are
+audible masses in correspondence with visual masses. The audible masses are called
+uproar (rumeurs), and the uproar of leaves must respond to the uproar of waters.
+
+And Wölfflin insists greatly on this, how precisely in Baroque art, the leaves are treated
+as mass, from which results the rounding off of leaves, and not treated leaf by leaf, [but]
+as an art of mass, an art of mass that is the Baroque. You understand, simply, if this is an
+art of mass, in fact, it’s an art of the soft, an art of the soft. Why is the mass soft? If that’s
+what creates mass, it’s a way of saying that mass cannot be engendered starting from
+individuals, from ultimate individuals. There are no ultimate individuals. The treatment is
+necessarily the mass treatment operating through softening, that is, through rounding off
+of angled forms. How to say what we are sensing here, that the angled form is the hard,
+that the rounding off of angled forms is the soft?
+
+Good. So let’s try to identify… We just created a few guideposts on the level of the
+Baroque, you see? We move forward just a bit. What does it mean to create folds? [Sound
+of Deleuze’s chair; he goes to the board] I can say – let’s have a break here -- you see,
+creating folds is what? Well, it’s rounding off angles, creating folds. We are not very far
+into this, but that’s it: to round off angles, but you sense that we have to load many things
+into this expression. Rounding off angles, hmm, this is whatever you want, but among
+
+                                                                                                7
+
+other things, it’s possible that this is a mathematical operation. It’s possible that this
+could have lots of outcomes. How… Can you round off angles in math? Perhaps you can.
+Perhaps Leibniz never stopped rounding off angles. He was a great mathematician, so
+perhaps he was capable of doing that. So, we just say, here we are, the Baroque, you see,
+how does it create folds? By undertaking a treatment in bulk, and this treatment in bulk
+undertakes this by rounding off angles, by constituting [forms of] soft matter.
+
+We have to see if Leibniz’s philosophy, even before you are familiar with it – I am
+looking for guideposts – if Leibniz’s philosophy is consonant with all that. Oh yes!
+Matter is treated so much in bulk by Leibniz that it is never separable from a term that
+Leibniz uses, the aggregate (l’agrégat). Matter proceeds through the aggregate, and the
+aggregate is the law of matter. The soul will have no less of a law as well, and the whole
+problem in Leibniz’s philosophy will be what the correspondence between these two laws
+is. I am saying immediately that the soul’s law is not the aggregate. It’s the series, but
+you sense perhaps that the series is also something very Baroque. Why? For the moment,
+that’s beyond us. Matter is divided into aggregates, and the aggregates are themselves
+divided into aggregates. An entire uproar of matter… On the level of matter, you will
+only find aggregates infinitely divisible and infinitely composable. So, I am just saying
+that aggregates ignore angles. Aggregates are curves. As they go all the way to infinity, a
+curve that goes to infinity is a fold. Aggregates create folds.
+
+Let’s look at the guideposts a bit better with Leibniz. [The sound of Deleuze paging
+through a book] In all of his physics – and Leibniz is also a great physicist – in all of his
+physics, what does Leibniz create? [He creates] a physics of bodies that he himself calls
+elastic. For Leibniz, elasticity – and he tells us this in print – is the degree of fluidity of a
+body; [it’s] a physics of the elastic body or of the fluid body, elasticity meaning a degree
+of fluidity of the body. He is opposed to Descartes and to Descartes’s physics, no less
+than to the physics of Atomists, whether it’s the Atomists from antiquity or the Atomists
+from the seventeenth century who conceive of physics above all as being about the hard
+body. For Leibniz, there is no hard body, and he will never stop criticizing Descartes
+because the entire Cartesian physics is a physics of the hard body to the extent that
+certain Cartesians drew the obvious conclusion from Cartesian physics, to wit, they
+returned to Atomism, the atom being the smallest hard body. But for Leibniz, there is no
+atom. Every mass is composed of mass, all the way to infinity, no more than there is a
+hard body, each body being elastic, its elasticity being equal to its degree of fluidity.
+[This is] a physics of the fluid or of the body’s elastic force – in Latin, vis elastica,
+Leibniz says.5
+
+And why? I would just like it a bit if you knew more, or perhaps some among you
+already know all this, but an essential point in Leibniz’s physics is what? Everyone
+knows this; we learn that in high school. It’s having substituted as the principle of
+conservation mv2 [squared] for mv. Descartes had stated mv; Leibniz says mv2: it’s his
+famous raising speed to the square. And we ask what this raising speed to the square
+might mean? It means a lot of things that we will see, that we will try to see much more
+precisely later, but here I am satisfied with simple guideposts. V2 refers us to
+acceleration, and in fact, Leibniz will center his entire study, or will center a large part of
+
+                                                                                           8
+
+his study on acceleration. And what is acceleration? It’s a difference; it’s a difference
+between the movement at a particular moment and the movement in the preceding state,
+in the preceding moment; or it’s between the movement at particular moment and the
+movement in the subsequent state. It’s a difference, or as Leibniz will say more precisely
+in mathematics, it’s a differential, a difference that can be, if you like, as small as you
+wish. To this differential, Leibniz gives a name: it’s the conatus of movement. 6 All this
+that I am saying is quite summary. We will see it later; we will see it much more
+precisely.
+
+As there is a possibility of infinite analysis between two moments, there is an infinite sum
+of conatus [Pause] which is like degrees through which the body passes when the speed
+of its movement increases or when the speed of its movement slows, or when it passes
+from a state of rest into movement. We will say that movement is like an integral or an
+integration of elementary solicitations that Leibniz calls tendencies, that is, some conatus,
+such that Leibniz pretends to assign a genetic element of movement. The genetic element
+of movement is the element of a series of increasing or decreasing speeds, the element of
+a series of increasing or decreasing speeds, whereas Cartesian physics limited itself to the
+following model: the actual element of a given speed, in consideration of an actual
+element of a given speed, such as it appears in Descartes, [and] is substituted by Leibniz,
+the element of a series of increasing or decreasing speeds, a demand (sommation) of
+conatus. That is, generally speaking, there is an infinity of degrees through which the
+mobile passes; there is an infinity of degrees through which the mobile passes when its
+speed increases or decreases. What is that? You understand? I just wanted to say this: this
+is the translation of the elasticity of the body in terms of movement. This regime of
+movement is what the elasticity of the body is. [Pause]
+
+Perhaps you are not far from understanding how, in a physics of the elastic body, no
+rectilinear movement is possible. One must always round off, and round off to infinity.
+Movement will occur following curves, with variable curvature. But in this, finally, we
+are getting too far ahead, going too fast, but I have said some things, in fact, just as part
+of the guidepost of our topic. So, if you don’t understand this or that point or theme, it’s
+enough for you to understand one or two [points] since you can already sense that
+everything is harmonized at one level or another: the status of movement, the status of the
+elastic body. All of that corresponds; it’s a system of correspondences, and perhaps that’s
+what the word “system” means. [Pause]
+
+And why… I would just link to insist: henceforth, why… We indeed see that the elastic
+body is a critique of the atom which is the very image of the hard body. But I say, “elastic
+body,” you can only think of it on a curve, with variable curvature. What does that mean?
+I am just saying… Well, I see how all of this connects; in fact, it connects quite well. You
+take an atom as hard body, hard body, indivisible (insécable)… [Interruption of the
+recording] [46:38]
+
+Part 2
+
+                                                                                                 9
+
+… Movement is nothing other than the correlation – this is how it is for Epicurus –
+nothing other than the correlation of the atom and the void. If there is movement, it’s
+because there are not only just atoms; as Lucretius said very well, there are atoms and
+there is the void; the correlation of the atom and the void is the movement as rectilinear
+movement. The atom falls into the void. [Deleuze goes to the board and draws] Straight
+lines, completely straight… Good… But there are atoms that fall into the void. All of that
+is annoying because they don’t meet. The solution from Epicurus, to explain the
+encounter, is famous, notably: incerto tempore… Here I speak Latin on purpose because I
+can’t do otherwise since I don’t know what that means. [Laughter; Deleuze continues
+drawing] “At one moment,” tempore, incerto, what is this? Fine. 7 Incerto tempore
+produces a small deviation, a tiny deviation to which Lucretius gives a famous name, the
+clinamen,8 a declination, that is, it leaves the straight line. Thanks to the clinamen, we
+understand that the atom encounters the atom and that atomic combinations occur,
+combinations of hard bodies. So I would say that the combinations [of hard bodies] here
+move off obliquely. The oblique is still a straight line. The compositions of hard bodies
+that are created are rectilinear.
+
+All of that, I would like to have you feel… All of that, it’s quite superficial (gros), but
+each time, I am trying to create a kind of… to indicate the logical complementarities. If
+you provide yourself with a hard element, I believe that something obvious emerges … If
+you provide yourself with a presumably absolutely hard element, you can only compose
+mixtures or combinations along a straight line. That is, you would have to engender
+curves through combinations of straight lines, which is quite possible, but this is a very
+special kind of mathematics.
+
+So, here we are. The atom taking incerto tempore, does it do so? At a given moment,
+starting in Antiquity, people have made fun of the Epicureans, saying oh yeh, so that’s
+easy to say! At one moment, there is the atom leaving the vertical and taking a deviation
+with a small angle in relation to the vertical. This small angle, the angle of declination,
+the angle of the clinamen -- that gave Cicero quite a laugh; he said, it’s not reasonable,
+it’s childish, all that -- but incerto, it’s not clear that this means “at any given moment
+whatsoever”, not necessarily, in any case. And in fact, you know… [Deleuze continues
+writing on the board] Let’s assume the atom to be the smallest body. This isn’t entirely
+true since for the Epicureans, or for Lucretius, the atom has numerous parts. It does not
+constitute the minimum, but that doesn’t keep it from being indivisible (insécable). So, I
+can say that, to some extent, it doesn’t have indivisible parts. It’s the smallest indivisible
+body.
+
+Fine. For Lucretius and for the Epicureans, the idea of the smallest body is obviously an
+eminent body, which is the smallest time, that is, the atom of time. What is this, the atom
+of time? It’s the smallest time thinkable – I have to think in time -- during which the atom
+is in movement in a given direction. The smallest time… There you are. [Deleuze
+indicates his drawing and notes on the board] You think of the falling atom. Have you
+got it, in your mind? You think of the falling atom, of its duration, of its drop. Fine. You
+do the opposite experiment. It’s a thought experiment. You try to think (in) the smallest
+time that you can, think as the time in which the atom falls. Beyond this time, it remains
+
+                                                                                              10
+
+[unclear word]. You’re following me, right? It’s quite simple. So, there is an atom of
+time, the smallest [time] during which the atom is thought of as falling, fine, falling in a
+straight line. Well then, you understand everything!
+
+Incerto means what? Incerto means… Incerto tempore means in a time smaller than the
+minimum of thinkable time. If there is a minimum of thinkable time in which I must think
+of the atom’s fall, I can think of it at rest. In order to think of the atom’s movement, I
+have to think of it in time, falling in time, its descent occupying a certain time, and there,
+a minimum beyond which the atom will be necessarily thought of as being at rest. If I
+say, let’s consider a time smaller than the minimum of thinkable time, you will tell me, I
+can’t think that. Fine, I can’t think that. I pose it; I don’t think it. I pose a time smaller
+than the minimum thinkable time. [Pause] I am saying the clinamen, the deviation, which
+occurs in this time. The deviation does not come on the vertical at any moment
+whatsoever; it is already presupposed through the entire rectilinear line. It affects the
+entire vertical. It launched an oblique, creating an oblique since incerto tempore means
+not in some arbitrary time whatsoever, but in a time smaller than the minimum thinkable
+time. So, there is a straight line, but it is always already oblique, such that the atom
+necessarily encounters the atom. [Deleuze may sit back down at this point]
+
+This comes down to asking: what does a physics of hard bodies consist of? It implies a
+rectilinear construction of components, and it implies oblique straight lines that are
+defined by the angle – these are angular formations – that are defined by the angle in
+relation to the vertical. In other words, the formations of hard bodies are rectilinear and
+angular.
+
+Fine. Understand, this works fine for us, Leibniz’s physics, a physics of elastic bodies,
+and henceforth, of curvatures, and henceforth, of curvatures. We still don’t yet
+understand what that means, but elasticity rounds off the angles. Curvature is the
+rounding off of angles. The Leibnizian aggregates are masses infinitely composed of
+masses. Henceforth, they are curves. We can’t get away from it: you repeat that to
+yourself enough for you to understand it. I can do no better, because if you don’t
+understand, it’s because you haven’t yet repeated it enough in your mind. Soft masses are
+necessarily curves; elastic masses are necessarily curves. The mobile, here, is on an
+infinitely variable curve. What is the fold that goes all the way to infinity? It’s the
+curvature with a variable surface. It’s the line with variable curvature or the surface with
+variable curvature. This is what all of Descartes’s physics and mathematics could not
+detect: a physics of elastic bodies was required. But what does that imply? [It implies]
+special mathematical tools. We will see how these mathematical tools… As if by chance,
+these are infinite series and differential calculus. Fine. [Pause]
+
+How are you doing? Still holding up? So a little later we are going… Today, this is a
+short session. [Here’s the] final point on this treatment in bulk. Let’s consider… You see,
+we are establishing guideposts. First, [there’s] the body in general (quelconque), good,
+with its enlargement and its lowering. And then, [there’s] the second guidepost, the
+elastic or even fluid body. And all that is a way of saying: what does it mean to create
+
+                                                                                              11
+
+folds? Matter creates folds; it doesn’t follow the angles. Understand? Good. That’s what
+Leibniz’s philosophy is. [Pause]
+
+Let’s confirm a third and final guidepost, the living body, the folds of flesh. It’s a
+constant theme. There is a poem; there’s a Baroque poet, English, a very great Baroque
+poet, John Donne (He spells the name). He wrote a beautiful poem; I don’t dare recite it
+to you in English, because… He speaks about a pair of lovers, and he says, "You are both
+fluid,” “You are both fluid.”9 [Donne’s poem “The Ecstasy”] But this is the Baroque
+conception of mass. Mass is fundamentally fluid, and you no longer have any angles.
+And in the same poem, he will add, “Your face flows…”10 The love poem is perpetually
+penetrated by metaphors of fluid. This is how one creates a Baroque poem, a great
+Baroque poem.
+
+Good, but I am saying [that] the living body… that in fact, it’s the least of things to say
+that the living body, or flesh, creates folds – folds and pleats of flesh. Fine, but why does
+it create folds? For two reasons, for two reasons, I believe, and here, we have to return to
+all sorts of ancient biological doctrines in which Leibniz participated. You have to place
+yourself with the initial astonishment at the discovery of the microscope, and you have to
+resituate all this philosophy of life under two expressions, which are not literally in
+Leibniz’s works, but the spirit is there. The first expression is: “All flies are within the
+first fly”; all flies are within the first fly. I cannot say that this is signed by Leibniz, or
+that Leibniz said it or repeated it, but it’s a commonplace of the philosophy of life at the
+end of the seventeenth century, one that comes to be confirmed by the discovery of the
+microscope. What does this mean, “all flies are within the first fly”? It means that the first
+fly that God created contained all the others, that is, contained the infinity of flies to come.
+It’s a lyrical expression to qualify what is called the pre-formation of germs, or the point
+of view of pre-formation. The primitive egg contains all the eggs to come, but that would
+mean nothing if we only said the primitive egg contains the organism. In other words, the
+primitive egg envelops the organism, and envelops as well as all the organisms to come
+of the same species. It’s the thesis of pre-formation.11
+
+It envelops: what does that mean? It means that there is something in mathematics called
+a kind of homothety, a homothety from small to large, or rather from large to small,
+however small it might be.12 The organism envelops organisms to infinity. Does the first
+fly contains all the flies to come? Yes, but in a miniscule state, and each fly, in turn,
+contains an infinity of flies, smaller and smaller flies. If you will, this is the simple vision,
+the vision that’s given when one doesn’t do science, the vulgarized vision of the theory of
+preformation of germs, at the level of the living. The organism contains an infinity of
+organisms, simply smaller and smaller, and what does that mean? [That means] that the
+whole concept of life is going to be encompassed starting from movements – here, I come
+again to operations – starting from the operations of envelopment and development.
+
+Envelopment: I am saying this because to envelop is to create folds; to develop is to
+unfold, and in Latin, the language spoken so often in that era, this is constant, the pairs
+implicare-explicare, to implicate-to explicate ; involvere-devolvere, to envelop-to
+develop ; involvere-evolv [Deleuze corrects himself] Evolvere… The three couples:
+
+                                                                                           12
+
+involver-evolver, are strictly synonymous.13 Impliquer-expliquer: that which is
+developed, is explained; that which is enveloped, is implicated, or inolves. As a result,
+when you find in a text from this era the word “evolution,” certainly don’t believe – I
+don’t even need to tell you this; it would be a kind of limitless stupidity – that you have
+discovered an ancestor of evolutionism. For in all these texts, the word “evolution” is
+used strictly in an opposite sense from what evolutionism will give it, since in
+evolutionism… What is the innovation in evolutionism at the end of the nineteenth
+century? It’s to tell us [that] evolution occurs through the production of some new thing,
+that is, through epigenesis. Evolution occurs through the production of a new thing.
+That’s the evolutionist idea: starting from the egg, the egg undergoes operations that will
+produce something new, that is, something that is not encompassed in the egg.
+
+But previously, before evolutionism, in what was called the preformation stage, the word
+“evolution” does indeed exist. The living being evolves. But what does that mean,
+“evolve”? It means, if you prefer, to increase [augmenter], just as involver means “to
+diminish”, or if you prefer once again, evolver means to unfold [se déplier], exactly as the
+butterfly unfolds.14 It unfolds, or rather it refolds into the cocoon, but the living being
+passes through alternation of folding and unfolding. To evolve is to unfold one’s parts.
+The organism unfolds when it unfolds its own parts and folds itself when it pleats its own
+parts. Pleating its own parts, it becomes smaller and smaller. Unfolding its own parts,
+placing them outside one another, it becomes larger and larger. Evolution is a matter of
+increase, with conservation of similarity, hence the homothety, you see? And involution
+is the reverse symmetry of evolution; it’s the diminution with conservation of similarity,
+such that – here I am saying that this is frequent, for example, in Malebranche and in
+Leibniz, all that – such that… But Leibniz is going to derive from this some very
+astonishing consequences. I am telling you immediately so that you will sense the extent
+to which, in the living body, the notion of the folds finds its importance.
+
+So there are rhythms of folds and unfolds that traverse the living being. That is what
+creates the flesh, the flesh that’s irreducible to infinity, on the contrary, expressible,
+unfolding its own parts. The organism folds and pleats its own parts, unfolds and again
+pleats its own parts. It’s very beautiful vision of the living being, since from this, Leibniz
+derives the idea that – and it is here that he becomes original – he derives a source for
+vitalism. What is his vitalism? His vitalism consists in saying: the living being is a
+machine. You will tell me that “the living being is a machine” is not a vitalist
+proposition; it’s a mechanicist proposition, that is, precisely the opposite. Well then,
+precisely not! For, as Leibniz says, and here he becomes quite brilliant – he is so all the
+time, always brilliant, but here particularly – he says: Do you know what the mechanistic
+lacks? What is missing in the mechanistic and the mechanicism is that they [mechanicist
+proponents] understand nothing about the machine. In fact, what is opposed to the
+mechanistic is the machinic. It’s a great, great idea. Why? Because something mechanical
+is indeed a machine, he says; only it’s a machine that refers to final parts that, in
+themselves, are not a machine. For example, it refers to a piece of steel that has taken a
+particular form, but this piece of steel is not in itself a machine. In other words,
+something mechanical is a finite machine; it’s a machine whose ultimate parts are not
+machines, whereas a machine, what is it? It’s a machine that goes on to infinity. It’s a
+
+                                                                                          13
+
+mechanism that goes on to infinity. It’s a machine in which all the parts to infinity are
+still machines. It’s a machine machined to infinity. In other words, vitalism equals
+machinism, the only way to show that the living being is not something mechanical is to
+say that the living being is a machine.
+
+Paragraph 64 of the Monadology, [Deleuze looks in his edition] this is really a beautiful
+text: "Every organized body of a living thing is a kind of divine machine or natural
+automaton." So we say, alright, this is a mechanicist proposition. But we await what
+comes next: "Because a man-made machine isn’t a machine in every one of its parts";
+because a man-made machine isn’t a machine in every one of its parts, not a mechanism,
+it's something mechanical; it’s not a machine. "For example, a cog on a brass wheel has
+parts or fragments which to us are no longer anything artificial and bear no signs of their
+relation to the intended use of the wheel."15 "But Nature’s machines”, that is, natural
+machines or living beings “– living bodies, that is – are machines even in their smallest
+parts, right down to infinity," an infinitely machined machine. Henceforth, they never
+cease being folded, so there is a homothety of the parts and the whole. And what is the
+whole if not the unfolded part? And what is the part if not the whole that is enveloped and
+pleated?
+
+[This development leads] to the point that Leibniz can ask – and you know, it’s not
+complicated, the story that has frightened pious souls – namely, what happens with
+death? But with death, it’s very simple. I am going to tell you what happens with death.16
+In fact, there is no soul without the body, so the idea that at death, our soul is separated
+from the body is an entirely stupid question just to simplify things. That’s not it; in fact,
+there is no soul without the body. Simply, at death, our body is enveloped to infinity,
+such that it becomes livable infinity. And although one might then have oneself cremated,
+incinerated, that changes nothing, for in the ashes, there will still be a body, however
+small it might be, something that is my body in the way it is enveloped to infinity. And
+God’s judgment? So, I still maintain a body at death; I maintain a body. Simply this body
+is infinitely enveloped, infinitely pleated onto itself. It’s such a beautiful idea, and what
+about God’s judgment? On the day of God’s judgment, there you have all the infinitely
+pleated bodies since death coming forth, exactly like a butterfly unfolds, leaving its
+cocoon; the butterfly unfolds. Well when the judgment of God sounds forth, our bodies
+will again unfold, and we will, in fact, discover the bodies that will have never left us,
+that simply had become like so many infinitely folded pinpoints. This is beautiful. This is
+the infinitely machined machine that you can grasp on these two levels: either infinite
+contractions – the body infinitely folded onto itself – or infinite extension – the body
+unfolded on itself, the glorious body of the final judgment. Right? That gives you
+something to ponder!
+
+So, what one must still hold against mechanicism is to have understood nothing about
+machines, and vitalism is the identity of the living being with an infinitely machined
+machine. So that is the first aspect that, if you will, concerns the organism. There is an
+infinity of organisms in the organism, that is, an infinity of organisms are folds into each
+organism. There are flies from flies from flies to infinity. And here we have the other
+aspect of vitalism – there’s another aspect -- which is that, henceforth… But organisms
+
+                                                                                            14
+
+themselves, where do they come from? They no doubt come from simple living beings
+since they are aggregates of organisms. They come from simple living beings, but I don’t
+yet know what that means. We will see later about “the Simple” in Leibniz, as this might
+exist, since everything goes on to infinity. Were there no simple beings… I say randomly,
+in any event, [that] the simple living beings would exist on another level than the one
+where we are.
+
+So if that is the case, what will the second aspect of vitalism be? It’s that an organism is
+always created from a portion of matter insofar as it is animated by simple elements. You
+see? The first aspect of vitalism is an organicism; the second aspect [is] what is the
+organism made of? [Of] simple elements insofar as they animate a portion of matter,
+however small it might be. This time, it’s no longer the viewpoint of the egg; it’s the
+viewpoint of the animalcule, and this is well known in all histories of life, of the notion
+of life. You will find arguments between schools in the seventeenth century, between a
+school called Ovism, the egg, the Ovists, and the other calling itself the Animalculists,
+partisans of animalcules. What counts most, the egg or, in the end, the spermatozoid? It’s
+a problem that will continue everywhere subsequently. These are the two points of view
+of vitalism.
+
+Leibniz brings both of them together quite well. What is an organism made of, that is, the
+organic material? What is it made of? Well, on the second level, it is said, organic
+material is made of simple elements animating a portion, however restrained it might be,
+of inorganic matter. You understand? We have passed from the egg to animalcules. And,
+this is the path of the microscope. Leibniz’s texts on the microscope are fundamental
+texts for all philosophy. And so, from this comes a new series of entirely brilliant
+formulae from Leibniz consisting in telling us about this second viewpoint on
+animalcules, you see, the simple elements that animate a portion of inorganic matter,
+however small it might be. What does that come down to saying? That comes down to
+saying that everything is not alive. Of course, everything isn’t alive! There is inorganic
+matter, material masses, that are not living. Everything is not alive, but everywhere there
+are living beings, and I know very few philosophies of life that are as beautiful, even
+among modern philosophies, as this idea of the diffusion of living beings in Leibniz. You
+see, this is something else.
+
+The first aspect of vitalism was increases and decreases, that is, envelopments and
+developments. The second aspect of vitalism is diffusion, the diffusion of animalcules in
+all portions, whatever they might be, of inorganic matter. And this is as if he was telling
+us – there are all sorts of Leibniz’s texts suggesting this – it’s as if he was telling us, you
+understand, in a pond, or in a lake – the treatment of waters in the Baroque – in a lake or
+a pond, everything is not a fish, but there are fish everywhere [in lakes or ponds].
+Everything is not a fish in the world, but there are fish everywhere. It’s the second aspect
+of vitalism. This time, it returns to the expression about simple elements diffused in every
+[kind of] portion of inorganic matter, however small it might be.
+
+And in the correspondence with Arnauld, Leibniz is going to undertake comparisons –
+here again [are] the rapports of harmony, consonances -- between two cases of matter, the
+
+                                                                                           15
+
+lake full of fish, on one hand, and on the other, the chaos of marble.17 His texts are
+sublimes, very, very beautiful. The chaos of marble appears to be the hardest body. And
+Leibniz is going to show that [Deleuze speaks quite loudly here, with emphasis] the chaos
+of marble does not differ in nature from the pond full of fish; and in the chaos of marble
+as well, there is an infinity of diffused animalcules. [Pause]
+
+So, good… Fine. Everything is not a fish, but there are fish everywhere. The world is a
+pond full of fish. I would say that this vitalism matters to us because it confirms … What
+does it confirm? The treatment in bulk. I am summing up our results: the treatment in
+bulk as a possible definition of the Baroque operates on all levels by folding and
+unfolding. [Pause] Second concluding proposition: the folds and unfolds go all the way
+to infinity. This is the difference of the Baroque from all other formations. Third
+conclusion: if this is so, then bodies are not hard bodies, but elastic bodies and, at the
+extreme, fluid bodies, and their paths are not rectilinear, but curved, [Pause] and their
+operation consists in perpetually rounding off angles, avoiding the angle, necessarily
+through a curvature, through a curve with variable curvature.
+
+There we are, the first aspect that we focused on: is there a treatment of matter that might
+be called Baroque? You are going to take a break, but not for very long. And then you
+can reflect a bit, and you can tell me if there are any difficulties or questions. [Short
+pause for a break] [1:26:48]
+
+So I’d like you to understand well that this is an introduction that has not at all opened up
+the philosophy of Leibniz. We are creating guideposts, some very general guideposts. All
+that we’ve considered during this first part was the treatment of matter according to
+Leibniz, and asked: is this a treatment that could be called Baroque, and in what sense?
+No problems? No questions? Good, [Pause] so let’s continue.
+
+We were dealing earlier with the level of matter, defined as the level of aggregates, if you
+will, the lowest level. Now, we are going to deal with a higher level, and in fact, we are
+following Wölfflin’s path who speaks about what exists above this first level of lowered
+and softened matter. And this second level that we are considering is now obviously that
+of form, or formal cause, or if you prefer, the genetic element of form. And just as earlier
+there was a status of matter, now we must expect there to be a certain status of the soul.
+Just as matter never ceased folding and unfolding, well, there are folds and pleats in the
+soul. As we saw in the Monadology, paragraph 61: there are folds and pleats in the soul.
+Everything suggests to us that perhaps, for Leibniz, these folds and pleats in the soul are
+like ideal elements of form. But here we will require lots of guideposts and explanations
+in order to understand what that might mean, ideal elements of form, genetic elements of
+forms. The souls would contain the genetic elements of forms, but it would contain the
+genetic elements of forms insofar as it creates folds and pleats, or at least insofar as there
+are folds and pleats within it. You sense that here as well, Leibniz is returning to find that
+Descartes’s conception of the souls is rather like a ridiculous summary. [Pause]
+
+Good, so what are these, the ideal elements? Folds would be ideal and genetic elements
+that would account for forms. And in other words, the genetic element of the fold is
+
+                                                                                            16
+
+what? I am saying that the genetic element of the fold, is the point that describes the
+curve, the point on a curve, the point on a curve with variable curvature. It’s the [unclear
+words] [Deleuze returns to the board]. A curve with variable curvature, I am offering a
+kind of drawing in a very general form. [Pause; he draws on the board] There. You
+recognize the curve with variable curvature. The simplest case is the curve with
+invariable curvature, I would say. [Pause as he sits down again] We can stop there
+because you have understood everything; I mean that all of our work this year solely
+concerns – over a long stretch of time – commenting on this figure. [See also the top
+figure in the drawing at the top of this session]
+
+What is this figure, the curve with variable curvature, or the curve with constant
+curvature? I would say that is an inflection, it’s an inflection.18 What is an inflection? An
+inflection – I am generally using language from mathematics – the inflection of a line is a
+singularity, that is – oh, it’s not complicated – a singularity is something that happens to a
+line; it’s an event, something that happens to a line, the curvature. We will call it point of
+inflection; it’s a singular point. Every singular point is not an inflection, but the point of
+inflection is a singular point, the singular point of this inflection. [A very brief gap in the
+recording is audible here with no apparent loss of material] In general, singularities are
+not independent from an axis of coordinates, but the inflection is independent of any axis
+of coordinates. It does not assume any coordinates.
+
+That’s what I want to ask: Can we say that there is a genetic irreducibility of the
+inflection? That is, we have to grasp the inflection as an element of an ideal genesis, as
+genetic element, that is, as the genetic element that endangers forms. There you are. It
+seems to me… I cannot say that… It seems to me that this is how it is in Leibniz. The
+element that engenders forms, the genetic element of forms, is not the rectilinear straight
+line. It’s the curve with constant variation, the curve with variable curvature, or
+inflection. [It’s the] irreducibility of the inflection; you still sense this first session’s
+obsessive theme, always rounding off angles. [Pause]
+
+So, if it’s that, I would then say, henceforth, from the point of view of form… From the
+point of view of matter, [in] the Baroque, we proposed the following idea: the Baroque is
+what treats matter in bulk, that is, through folds and pleats going on to infinity. Now, I
+would say that the Baroque is what treats form through the genetic element of inflection.
+[Pause] For the moment, I cannot say more on this, except that we already have to
+reflect. We have to stop each time, you know, we have to stop and then look for help.
+
+                                                                                           17
+
+Reaching out for help, when one speaks or when one writes, there are several things.
+When one speaks, you need to seek help, [from] you [students], but up to now, silence
+alone has answered me back. I can say, help me! Yes! Inflection might be, in the
+conditional, this might be the genetic element of forms.
+
+Good. We just saw that this is very special, inflection, but what does that mean? I am
+calling on you for help! And suddenly, by calling on you for help, something crossed
+through my memory, drawings, some drawings of a famous painter. That’s what flashed
+in my memory, yes, it’s in Paul Klee. Ah, I tell myself, yes, but [with] Paul Klee, I am
+going to get criticized: you give the term Baroque to anything at all, like that! Well
+obviously, not at all! I’m not the one doing it, fortunately; it’s Paul Klee. Paul Klee was
+enormously interested in the Baroque. He wrote about the Baroque. So, if he wrote on the
+Baroque and found merit in the Baroque, perhaps his own drawings… And in a small,
+marvelous book by Paul Klee, Theory of Modern Art, there is [Pause], there is a study of
+forms in movement. But the forms in movement assume an engendering of forms starting
+from a movement. And what does he tell us? That is, [there’s] a genesis of forms about
+which Klee speaks to us under the title “Pedagogical Outlines,” and his pedagogical
+outlines begin with the affirmation that “the point needs nothing other than its own
+spontaneity.” This you must retain since we will find it again in Leibniz; you will see in
+what sense this is mathematically, physically… all of that. It’s a key idea [clé = key,
+homonym to Klee] – hey, funny! [Laughter] – It’s a fundamental idea for Leibniz. The
+point needs only its spontaneity. The point’s spontaneity, what could that mean? Well,
+the point’s spontaneity is inflection. The point only needs its own spontaneity to follow a
+curve of inflection.
+
+If I insist on this regarding Klee, it’s because you will see that there is an anti-Klee who
+is no less a great painter, notably Kandinsky, and that everything… And that this has an
+impact on their paintings – these aren’t just theoretical stories from left field -- this is
+inscribed in their painting. For Kandinsky, on the contrary, the point can enter into
+movement only under external constraint, and as a result. Kandinsky conceived of all his
+painting as dealing with tension, the tension exerted on the point to make it move. And
+the whole conception of painting for Klee – if there ever was a painter that one could call
+spontaneous, on the condition of noting that spontaneous obviously does not being
+creating just anything – the point follows the curve of inflection through its own
+spontaneity.
+
+The point is therefore the genetic element by itself of what Klee calls, the “active line,”
+and the active line is this:19 the drawing on top, that is, an inflection. You see? Don’t look
+at anything but the top one! The active line. [Laughter; Deleuze’s book circulates among
+the students] What’s better than this?!
+
+The second figure… Henceforth we will follow… You understand, this is what a relay
+system is. So I was getting bogged down with my story: can the inflexion be the genetic
+element of form? Wouldn’t that be how things are in Leibniz? Since you cannot have me
+speak directly to Leibniz, since we don’t yet have those means… Since I’m speaking
+
+                                                                                            18
+
+outside Leibniz, so, I didn’t quite know how to proceed. And on this, it’s Klee that gives
+us the answer. Perfect! Very good! We have only to follow him.
+
+The second figure [Deleuze continues showing the book’s illustration]… It’s a bit far
+away. I could make a drawing on the board, but I’ve had enough of that. You see, the
+second figure, the one underneath the first, is all interconnected with another much more
+capricious line. Fine… It’s when folds… the fold of inflection gets cut across by a line
+that seems to be a random line, an uncertain (aléatoire) line. But it is precisely possible
+that the line of inflection offers us a kind of law of the uncertain line.
+
+The third figure – it’s odd that he doesn’t provide details in the captions very well… Oh,
+wait, yes he does, the details are fine, so I withdraw what I just said – the third, you see,
+is very interesting because what has he done? What has Paul Klee done? He doesn’t say
+it, but it is really interesting. [Pause] What he has done is to mark the shadows along the
+side of the inflection’s concavity. Henceforth, the cross-hatching changes around the
+inflection point. Eh? [Pause; one hears the chalk marks as Deleuze draws on the board]
+So what does that create that is innovative? [Deleuze sits down] It’s that each time, along
+the concavity, necessarily on the side of the concavity, a center of curvature is defined, a
+center of curvature, that is going to vary according to the portion of inflection that you’re
+considering on one side or on the other of the inflection point. And again here, I note the
+case of inflection with constant curvature. If I consider the case of inflection with
+constant curvature, the center of curvature will vary such that the center of curvature will
+be on one side as on the other of the inflection point, what we can call an enveloper (une
+enveloppante), a region corresponding to the curvature, [Deleuze again draws on the
+board] according to the convergent straight lines. I sense that this is getting complicated,
+but finally… Notice [that] the center of curvature is going to change directions -- it’s
+quite simple – and necessarily will not be a point but will be defined by an enveloper.
+Fine.
+
+We will leave it there for the moment, for Klee’s drawings, and I complicate things by
+saying how about Kandinsky? Kandinsky is entirely different. Why? Since for him, the
+point is normally at rest, there is no spontaneity of the point. Henceforth, the point only
+moves when a force is exerted on it, pulling it from rest. Henceforth, the line that the
+point travels along under an external effort will obviously be a straight line. This will be a
+straight line, and thus, in Kandinsky’s text, Point and Line to Plane, he passes from the
+point to the straight line under the influence of a force or tension, and tells us: There are
+three kinds of straight lines, other straight lines only being variants. The simplest straight
+line is the horizontal line. Opposite this line we fine at a right angle the vertical line. The
+third line is the diagonal, schematically seen at an angle identical to the two other
+preceding lines, thus having the same inclination of both, that is, as a bisector.
+
+Fine. What am I going to say? If I now say – will this be clear? -- if I say that [for]
+Kandinsky, this is a painting of the hard body, and what is so brilliant in Kandinsky?
+What was Kandinsky able to trace as no other person could trace, by introducing tension
+here? Anyone who has seen three paintings by Kandinsky would answer that it’s the
+angles, it’s the angles. This is a painting of the hard body in which movement is angled
+
+                                                                                           19
+
+and in which bodies are composed through rectilinear lines. It’s the most angles in
+composition ever accomplished in painting.
+
+If we try schematically to describe Klee, we would say [that] it’s a painting of the elastic
+body. Here, these elastic bodies in Klee, you would find some so admirable. It’s a
+painting of the elastic body in which the point travels spontaneously; it’s a painting of
+spontaneity, only it’s not Klee’s own spontaneity, but the spontaneity of the point on the
+canvas, where the point’s spontaneity is defined through the inflection that the point
+pursues. Henceforth, it’s a painting that does not cease taking the edges off angles,
+rounding off the angle, inflecting the angle. [Pause]
+
+Someone who worked here [at Vincennes-St. Denis], in fact, at some point several years
+ago, named Bernard Cache, and who is interested in the Baroque, recently published a
+study, or is currently preparing a very interesting study – because he has a background as
+an architect – a very interesting study precisely on the problem of inflections in
+architecture.20 And his departure point is a bit like Klee’s, so we come back to it: the
+variations of the inflection. So forget Klee now. We used him to confirm this kind of
+suspicion we had: can the inflection be treated as the genetic element of forms, and under
+what conditions, specifically the inflection considered as the point’s spontaneity?
+
+And all that is literally Leibnizian, that there would be a spontaneity of the point, that the
+point needs nothing other to enter into movement – all of these are constant themes in
+Leibniz’s physics, mathematics, and metaphysics, such that it’s entirely precise for me to
+say, yes, there is something Leibnizian in Klee. But then, these variations – I am speaking
+of an inflection – I can submit them to operations of symmetry, [Deleuze returns to the
+board] in which I would no longer have an inflection point, but a turning point (point de
+rebroussement) to produce this. [He indicates his drawing] Another symmetry can give
+me an ogive, or pointed arch. The first figure, [it’s] inflection; the second figure, [it’s]
+through returning (rebroussement);21 the third figure, no matter, by another symmetry,
+[it’s] an ogive. I can… These are figures that you can locate; you will locate them already
+in the Gothic [style]. If I multiply the ogive line, I would have a figure of liquid flowing.
+[Pause; Deleuze continues drawing] No longer through symmetry, a fourth figure…
+(one-two-three, yes)… but by prolonging the curvature, [Pause] and here’s what you
+have! This is becoming prettier and prettier! So, by prolonging the curvature… Why am I
+insisting on this? This is what a truly Baroque figure is. You see? Very often in Baroque
+architecture, in the decorative motifs… [Pause; he continues drawing] … the same things
+on this side… [Laughter] Do you recognize it? Thanks to simple decorative motifs, you
+say, hey, it’s a Baroque church! [Laughter] The enlargement, there it is. I have summed
+up today’s meeting: enlargement, the motif of inflection that opens you to the ideal
+genesis. Fine. On the other side, it’s the same… There you have a very beautiful
+decorative motif. [He continues drawing] You can also have a kind of starfish there – it’s
+possible – no longer through prolonging, but by rotation around an inflection point.
+[Deleuze returns to his seat] You can have a wave, a fluctuation through continuation to
+infinity. Eh?
+
+                                                                                            20
+
+So, we are advancing a little bit into the idea of the genetic element of forms, the genetics
+of forms. But why? I would say, look at how the inflection does not stop. It is itself a
+fold. That’s what is curious, the spontaneity of the straight line… [He corrects himself]
+the spontaneity of the point (not the straight line). The straight line is what? It’s when the
+point… it’s when the point… exactly, the straight line responds to the case in which the
+point undergoes an external causality. So yes, as Leibniz says, in a very beautiful text, if
+the point undergoing the external causality, if it is considered abstractly, if the point is
+considered abstractly, then what does it follow? It does not follow the curve; it follows
+the tangent to the curve, that is, a straight line. But if it is considered in its spontaneity,
+then it is presumed to travel along an inflection, and through this, it engenders forms or
+the form. As an inflection with variable curvature, it is probable that it engenders forms.
+
+But what does spontaneity of the point mean? I can give you the answer in advance,
+because Leibniz’s answer in advance is that the point’s spontaneity is what? It’s the point
+as point of view. But here, we are not yet ready to understand. It’s when the point is
+determined as point of view that the point’s spontaneity appears, and so the view is an
+inflection. This is just to tell you… It’s not so you will understand, but that you will feel
+this.
+
+So there we are. I would like to end today -- because this is enough -- on a final, difficult
+point. We have passed from one level of matter and treatment of matter in bulk to another
+level, the treatment or the genesis of forms. And why? Why did we have to join them? I
+would say, provided that I can justify this the next time, that just as the first level is
+constituted by aggregates going to infinity, so too the second level, the level of
+inflections, is constituted by series going to infinity. And the question remains: why must
+we go beyond the first level? That is, why isn’t it enough to speak of folds of matter, of
+pleats of matter? Why do we have to go all the way to pleats of the soul that can be
+considered as the genetic element of forms?
+
+There is a very important text by Leibniz, and rather difficult. [Deleuze consults his book]
+I would just like to read to you so that you might consider this. I am reading very slowly
+because our goal the next time will certainly be to comment on this text in detail. It’s a
+text on physics, in a letter that is an answer to [Pierre] Bayle, who was an 18th century
+author, very anti-Leibnizian and who criticized him a lot. There is a letter from Leibniz to
+Bayle where this is written:
+
+"Any point at all you take in the world," that is, movement from any point at all, "moves
+along a predetermined line which that point has adopted once and for all, and which
+nothing can make it abandon."22 This is a bit mysterious. Let’s hold on to: “any point at
+all,” “[a movement that occurs] along a predetermined line which that point has adopted
+once and for all,” understanding that this point [is] adopted once and for all as long as
+there is nothing else that makes it change. “It is true that this line would be straight…” –
+there are a lot of people who say, well, if you only have a point on a line, it’s necessarily
+a straight line that travels along the point. This is even an expression about inertia.
+Leibniz tells us entirely the same thing. "In fact, if the point were all alone in the world
+its line would be straight"; if this point could be alone in the world, the line would be
+
+                                                                                                 21
+
+straight, that is, what does that mean? It would be straight, straight being defined as a
+tangent to the possible curve, to the virtual curve, passing through the point. You sense
+that Leibniz wants to tell us: in fact, the point follows a curved line; in fact, the point
+follows a curved line. And it ought to follow a curved line if it were alone in the world.
+Notice that “alone in the world” certainly does not mean “spontaneous”; it means
+“abstract.” If the point is treated as an abstraction, then yes, it follows the straight line,
+notably, it follows a line that is always a tangent, so it follows a straight line.
+
+But it’s not alone in the world. Henceforth, it does not follow a straight line, and we can
+say that no point follows a straight line. Why? He tells us in the text: “Because there is
+the collaboration of all other bodies”; because there is the collaboration of all bodies, that
+is, there is an intersection of bodies. “Also it is by just that collaboration that the line is
+pre-established”, and the preestablished line through the collaboration of bodies is
+obviously a curve, and a curve with variable curvature since, following the neighboring
+bodies, it changes according to the movement and displacement of the point. [Pause] So
+the line is not straight by virtue of the mechanical laws since the movement occurs due to
+the movement of all the bodies. And it’s by this very collaboration that the line is preestablished and determined. And he says abruptly, brutally – this comes back to saying,
+ok, in the end, by virtue of the collaboration of all the bodies one upon the other, with one
+another, the point follows a curve; it follows a curve with variable inflection according to
+the kind of neighboring [bodies].
+
+It’s time. I sense that you are already tired, but it’s very important that you understand.
+Finally, so it’s like this, and then… [Pause] The question is why does Leibniz add [this] –
+there is no gap in the text – he just said that it’s the collaboration of all the bodies that
+determines, that pre-establishes the point as line of curvature, as curved line. So he
+continues abruptly, "So I claim that there is no real spontaneity in a mass." In fact,
+spontaneity is not properly in mass, you see what that means: the mass is the composite
+of the body considered with the other bodies under the regime of the collaboration of
+bodies. In this, one can say that there is a determination of a body by others; [thus] there
+is no spontaneity. Spontaneity can not be in the mass since the mass is an agglomerate of
+agglomerates, an aggregate of aggregates. So this is a regime of external determination.
+Thus, "So I claim that there is no real spontaneity in a mass," unless it grasped the entire
+universe, that is, unless it grasped the aggregate of all aggregates. For, if this point could
+begin by existing alone, if it were extracted from the mass, it would continue not at all in
+the pre-established line, in the curve, but in the straight tangent. This is clear. And on this
+point, he is going to become the most mysterious.
+
+Here we have precisely, it seems to me, what this indeed difficult text tells us for the
+moment: [first proposition] if the point were abstract and all alone, it would follow a
+straight line. Let’s say [that] Kandinsky places himself into the hypothesis of the abstract
+point; he would follow a straight line. It would be a tangent with virtual curvatures.
+Second proposition: in fact, the concrete point follows a curve with variable curvature,
+and these are concrete movements. Why? Because the line that it follows is preestablished through the variable collaboration of other bodies. Third proposition: the
+collaboration of bodies with a body defines a mass, and this is not yet spontaneity. The
+
+                                                                                              22
+
+concrete point must have a spontaneity that explains in the final instance that it follows a
+curve with variable curvature. And this spontaneity, it’s not the mass that can account for
+it. Moreover, bodies would not collaborate with each other; there would not be -- on the
+contrary, the mass demands, assumes this spontaneity – bodies would not collaborate
+with each other if there were not a spontaneity of the point that follows the curve with
+variable curvature. So, instead of the collaboration of bodies explaining the spontaneity
+of the inflection, the collaboration of bodies presupposes the spontaneity of the inflection.
+In other words, and this is all that I want to try to have us sense from this text, the
+treatment of matter refers to a genesis of forms and assumes a genesis of forms.
+
+And how is it going to express the spontaneity of the point that is located neither in the
+point all alone, nor in the mass? The spontaneity of the point, here is what [Leibniz] tells
+us about it: "So strictly speaking [it’s] in the substantial form,” the form, eh? “So strictly
+speaking [it’s] in the substantial form”, in parentheses, “of which this point is the point of
+view” – “that spontaneity is located”. We have something like three stages: the point all
+alone that would follow a straight line; the collaboration of other bodies, that is, the mass
+that predetermines a curved line; and the mass itself, [that] would remain
+incomprehensible if it did not refer to a superior spontaneity. This superior spontaneity is
+when the point is neither all alone, nor caught in a mass, but when it has become point of
+view. For the moment, this is unintelligible.
+
+So let’s take another step forward. If the spontaneity of the point is the point determined
+as point of view, what are the centers of curvature, of inflection? They’re the ones that
+trace an enveloper, in its variation, and that jump from one side to the other, back and
+forth at a point of inflection, but that the center of curvature on the side of the concavity
+is precisely a point of view. It’s the point as point of view; it’s the point as point of view,
+and its at the level of the point as point of view that the whole bundle of straight lines are
+going to meet, the convergent straight lines from the curvature all the way to the center of
+curvature.
+
+In other words, all that I wanted for you to feel is that the idea that there was a matter
+susceptible to folds and pleats was insufficient. This was a level that we necessarily had
+to go beyond toward another, deeper level, or rather, a higher level. It was not sufficient.
+In other words, matter does not account for folds and pleats that affect it. Here we are, I
+am again becoming clear, becoming limpid. Matter does not account for folds and pleats
+that affect it; that is, the collaboration of bodies accomplishes the curvature, but does not
+account for it. The curvature has to refer to a free spontaneity. This free spontaneity will
+be determined as the spontaneity of the point as point of view. But for the moment, we
+don’t even understand that. We can just say that this spontaneity is directly expressed in
+the inflection and the series that emerge from it. In other words, [it’s] that these are the
+folds of the soul [that] cite the inflection as free spontaneity – I assimilate it precisely into
+the folds of the souls or into the genetic element of the fold – I can say that it’s the folds
+of the soul that alone account for the ideal genesis of forms, and that the folds and pleats
+of matter presuppose this second region of folding (plissement) of folds and pleats. Sense
+that we are moving toward a kind of absolute transformation of the notions of subject and
+object.
+
+                                                                                                            23
+
+Good. This is, however, confusing. Have you understood somewhat, or not at all, because
+I have to grasp if I have to start over with this the next time? But if you say nothing to
+me, I won’t know if you have understood or not… It doesn’t matter to me, but I would
+like to know if… I mean, I have the impression that all that at the end was not very
+comprehensible, but… [A student answers] It’s just that I am in a bad situation; I am
+indeed forced to assume certain things about Leibniz, so I cannot manage it. I’m caught
+in [a bit of a bind]… [End of the recording and the session] [2:14:17]
+
+Notes
+
+  Deleuze planned the organization of this seminar in two segments: under the title “Leibniz as Baroque
+Philosopher,” he presents the initial operating concepts on Leibniz, and due to diverse events during the
+fall, this segment consists of four sessions (28 October, 4 November, 18 November, 16 December) and
+lasts into the start of the new year with the opening session of 1987 (6 January). For the second segment,
+Deleuze chose the global title “Principles and Freedom”, and this segment consists of fifteen sessions
+lasting to the final one on 2 June.
+Among the introductory comments below, Deleuze indicates that he would have liked to devote this
+seminar to the theme "What is philosophy?”, but that he “[didn’t] dare take it on” since “it’s such a sacred
+subject”. However, he indicates immediately that the seminar that he is undertaking on Leibniz and the
+Baroque “is nearly an introduction to ‘What is philosophy?’”, and all that follows in this annual seminar
+will have this dual reading, all the more significant in that, unknown to those listening to Deleuze (and
+perhaps to Deleuze himself), this will be the final seminar of his teaching career, his decision announced at
+the 19 May 1987.
+The transcriptions and corresponding translations were made possible through access to transcripts initially
+available from Web Deleuze (created by Richard Pinhas) and through access to the recordings available
+from the Bibliothèque Nationale de France (BNF), faithfully produced over a decade by one participant in
+Deleuze’s seminars, Hidenobu Suzuki. According to François Dosse in Gilles Deleuze, Félix Guattari:
+Intersecting Lives (Columbia University Press, 2011), Suzuki “becomes an institution all to himself”, to
+whom Deleuze would refer colleagues if they weren’t able to attend one of the sessions.
+  These expressions are the titles, respectively, of chapters 1 and 2 of Le Pli (Editions de Minuit, 1988); The
+Fold (University of Minnesota Press, 1993).
+  Cf. paragraph 61, https://www.earlymoderntexts.com/assets/pdfs/leibniz1714b.pdf (accessed 27 February
+2024)
+  This corresponds to chapter 1 of The Fold, pp. 3-8; Le Pli, 4-7.
+  Cf. Deleuze’s use of this term in Francis Bacon. The Logic of Sensation (University of Minnesota Press
+2003), p. 36.
+  Deleuze uses this term in this way in “Lucretius and the Simulacrum” in Logic of Sense (Columbia
+University Press, 1990), p. 269.
+  The Latin expression to which Deleuze refers here is paulum, incerto tempore, intervallo minimo, that he
+translates as "in a time smaller than the minimum of continuous, thinkable time,” in “Lucretius and the
+Simulacrum," in Logic of Sense, pp. 269-70.
+  See the reference in “Lucretius and the Simulacrum" for this term and the subsequent development here.
+  John Donne, “The Ecstasy”.
+   In fact, it’s the “soul” rather than the “face”: "That able soul, which hence doth flow", and "So soul into
+soul may flow".
+   On pre-formation and the following development here, cf. chapter 1 in The Fold, pp. 8-10; Le Pli, pp. 1316.
+   On homothety, cf. The Fold, pp. 16-17; Le Pli, p. 23.
+   In fact, it is not entirely clear from what Deleuze says here what the third pair is, i.e. the opposite of
+evolvere.
+   These precise etymologies would need additional verification.
+
+                                                                                                    24
+
+   Cf. The Fold, p. 143, note 17, for an alternate translation.
+   Deleuze refers to this point briefly in The Fold, p. 10; Le Pli, p. 16.
+   Cf. this comparison in The Fold, p. 9; Le Pli, p. 14.
+   On curvatures and inflections, cf. the start of chapter 2 in The Fold, p. 15; Le Pli, p. 21.
+   The three drawings taken from “Pedagogical Outlines” are located in The Fold, p. 15; Le Pli, p. 21.
+   On transformations according to Bernard Cache, see The Fold, pp. 15-17; Le Pli, pp. 21-23.
+   Cf. The Fold, p. 16; Le Pli, p. 22.
+   Cf. p. 29, https://www.earlymoderntexts.com/assets/pdfs/leibniz1697a_1.pdf (accessed 1 March 2024).

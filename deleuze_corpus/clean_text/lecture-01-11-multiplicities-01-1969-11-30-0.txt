@@ -1,0 +1,120 @@
+GILLES DELEUZE
+                                       Multiplicities
+                            SEMINAR AT THE UNIVERSITY OF PARIS,
+                                VINCENNES-ST. DENIS, 1969
+_____________________________________________________________________________________
+                                              LECTURE 1
+                                          30 NOVEMBER 1969
+                                 THEORY OF MULTIPLICITIES IN BERGSON
+
+                                       TRANSCRIBED BY WEBDELEUZE
+                                     TRANSLATED BY TIMOTHY S. MURPHY
+
+                                                         I
+
+             ... I wanted to propose to you an investigation [recherche] into the history of a word, a
+      still very partial, very localized history. That word is “multiplicity.” There is a very current use
+      of multiplicity: for example, I say: a multiplicity of numbers, a multiplicity of acts, a multiplicity
+      of states of consciousness, a multiplicity of shocks [ébranlements]. Here “multiplicity” is
+      employed as a barely nominalized adjective. And it's true that Bergson often expressed himself
+      thus. But at other times, the word “multiplicity” is employed in the strong sense, as a true
+      substantive, thus, from the second chapter of Time and Free Will onward, the number is a
+      multiplicity, which does not mean the same thing at all as a multiplicity of numbers.
+             Why do we feel that this use of multiplicity, as a substantive, is at once unusual and
+      important? (The concept of multiplicity, Time and Free Will 224-26) It's because, so long as we
+      employ the adjective multiple, we only think a predicate that we necessarily place in a relation
+      of opposition and complementarity with the predicate ONE: the one and the multiple, the
+      thing is one or multiple, and it's even one and multiple. On the contrary, when we employ the
+      substantive multiplicity, we already indicate thereby that we have surpassed [dépassé] the
+      opposition of predicates one/multiple, that we are already set up on a completely different
+      terrain, and on this terrain we are necessarily led to distinguish types of multiplicity. In other
+      words, the very notion of multiplicity taken as a substantive implies a displacement of all of
+      thought: for the dialectical opposition of the one and the multiple, we substitute the typological
+      difference between multiplicities. And this is exactly what Bergson does: throughout all his
+      work he continually denounces the dialectic as an abstract thought, as a false movement that
+      goes from one opposite to the other, from the one to the multiple and from the same to the
+      one, but which thus always lets the essence of the thing escape, that is the how many,
+      the poson [Greek term for “how much”]. That's why in chapter three of Creative Evolution he
+      will reject the question: is élan vital one or multiple? For élan vital is like duration, it's neither
+      one nor multiple, it's a type of multiplicity. Even further: the predicates one and multiple
+      depend upon the notion of multiplicity, and only agree precisely with the other type of
+      multiplicity, that is to say with the multiplicity that is distinguished from that of duration or
+      élan vital: “Abstract unity and abstract multiplicity are determinations of space or categories
+      of the understanding” (Creative Evolution 280-81).
+             Therefore there are two types of multiplicity: one is called multiplicity of juxtaposition,
+      numerical multiplicity, distinct multiplicity, actual multiplicity, material multiplicity, and for
+
+DELEUZE.CLA.PURDUE.EDU        GILLES DELEUZE, MULTIPLICITIES, LECTURE 1, 30 NOVEMBER 1969. PAGE 1
+
+      predicates it has, we will see, the following: the one and the multiple at once. The other:
+      multiplicity of penetration, qualitative multiplicity, confused multiplicity, virtual multiplicity,
+      organized multiplicity, and it rejects the predicate of the one as well as that of the same.
+      Obviously it's easy to recognize behind this distinction between two multiplicities the
+      distinction between space and duration; but what's important is the fact that, in the second
+      chapter of Time and Free Will, the space/duration theme is only introduced as a function of the
+      prior and more profound theme of the two multiplicities: “there are two quite different kinds
+      of multiplicity,” the numerical multiplicity that implies space as one of its conditions, and the
+      qualitative multiplicity that implies duration as one of its conditions. Note: Numerical
+      multiplicities have two dimensions: space and time; the others: duration and pre-spatial
+      extension.
+            Now Bergson begins with a study of numerical multiplicities. And his study, I believe,
+      includes a very original principle: not that there was a multiplicity of numbers, but each number
+      is a multiplicity, even unity [unité] is a multiplicity. And from this three theses flow [découle],
+      theses that I will only summarize:
+                1. The reduction of number to exclusively cardinal notions: the number as collection
+      of units [unités], and the ordinal definition of the number of a collection is purely extrinsic or
+      nominal, counting having no other goal than finding the name of the number that was already
+      thought.
+                2. Space as condition of number, even if only an ideal space, the time that arises in
+      the ordinal series arising only secondarily, and as spatialized time, that is to say as space of
+      succession.
+                3. The divisibility of the unit; for a number is a unity only by virtue of the cardinal
+      colligation, that is to say the simple act of the intelligence that considers the collection as a
+      whole; but not only does the colligation bear on a plurality of units, each of these units is one
+      only by virtue of the simple act that grasps it, and on the contrary is multiple in itself by virtue
+      of its subdivisions upon which the colligation bears. It's in this sense that every number is a
+      distinct multiplicity. And two essential consequences arise from this: at once that the one and
+      the multiple belong to numerical multiplicities, and also the discontinuous and the continuous.
+      The one or discontinuous qualifies the indivisible act by which one conceives one number,
+      then another, the multiple or continuous qualifying on the contrary the (infinitely divisible)
+      matter colligated by this act.
+            There we are, how numerical multiplicities are defined, and in a certain way these are the
+      ones that engender space: Time and Free Will, page 91-92. But there is something quite
+      odd. Time and Free Will appears in 1889. In 1891 Husserl's Philosophie der Arithmetik appears.
+      There Husserl also proposes a theory of number: he there explicitly affirms the exclusively
+      cardinal character of number, the colligation as synthesis of number and the divisible character
+      of the unit. If he differs from Bergson, it's only on the relation of the colligation to space,
+      Husserl thinking that the colligation is independent of spatial intuition; but even this difference
+      is seriously mitigated if one considers the notion of ideal space in Bergson, space being in no
+      way a property of things but a scheme of action, that is to say an original and irreducible
+      intellectual synthesis (cf. Matter & Memory 210-11). So there is an astonishing parallelism.
+      Furthermore, Husserl in turn considers number as a type of multiplicity.
+            Furthermore, Husserl opposes this type of multiplicity that is number to another type:
+      when I enter a room and see that there are “lots of people,” when I look at the sky and see
+      “lots of stars, or lots of trees in the forest,” or a line of columns in a temple. There, actually,
+      there is no numerical multiplicity: it's in its very looming up [surgissement] that a sensorial
+      aggregate presents a mark that makes it recognizable as a multiplicity, and as a multiplicity of
+      a totally different type than the numerical multiplicity, without any explicit colligation: this is
+
+DELEUZE.CLA.PURDUE.EDU       GILLES DELEUZE, MULTIPLICITIES, LECTURE 1, 30 NOVEMBER 1969. PAGE 2
+
+      an “implied” multiplicity, a qualitative multiplicity. Husserl speaks of “quasi-qualitative
+      characteristics,” or of an organized multiplicity, or of “figural factors.”
+            It's a property of the Whole, which, as it's too easy to say, is in no way independent of its
+      elements, but which has complex relations with its elements that are completely different than
+      those a numerical collection has with its elements. And Husserl doesn't fail to cite the example
+      of melody. It's quite evident that Husserl here agrees with the work of his contemporary
+      [Christian von] Ehrenfels who, in 1890, spoke of Gestalt qualities, distinct from the qualities
+      proper to the elements, of another order than those qualities, and above all and explicitly the
+      work of [Carl] Stumpf who, in 1885, invoked the notion of Verschmelzung to designate a sort
+      of passive (non-intellectual) synthesis, the apprehension of qualities of an order superior to
+      that of the elements.
+            Thus there we have what the non-numerical multiplicity is. Now this seems quite far
+      from Bergson. And yet it's not so: the strokes of the clock, in chapter two of Time and Free
+      Will, can enter into a numerical multiplicity, but when I am distracted, what happens? They
+      are based in a non-numerical qualitative multiplicity. Multiplicity of fusion, of interpenetration.
+      It's true that in Bergson it involves a fusion, but there's nothing of the kind in Husserl or
+      Stumpf, who observe that the more clearly the elements, the notes of a melody are perceived,
+      the more forcefully the quality of the set [ensemble] affirms itself.
+
+DELEUZE.CLA.PURDUE.EDU       GILLES DELEUZE, MULTIPLICITIES, LECTURE 1, 30 NOVEMBER 1969. PAGE 3

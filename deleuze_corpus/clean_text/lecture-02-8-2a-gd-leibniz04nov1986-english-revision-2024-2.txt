@@ -1,0 +1,1243 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz and the Baroque -- Leibniz as Baroque Philosopher
+
+Session 2, 4 November 1986: Review and Passage from the Fold to the Infinite Series
+
+Transcribed and translated by Charles J. Stivale (duration 2:39:00)
+
+Part 1
+
+So, those of you who are kind enough to come today have to be sure that Leibniz interests
+you, and that you draw the consequences of this, that is, that you are reading some
+Leibniz. On this point, I’d appreciate it at the next meeting if those of you registered for
+the course give me a note on which you tell me that you are enrolled at Paris VIII and
+especially state the cycle to which you belong – first, second or third – and specifics
+about what you are doing this year. Are there any first cycle students here? [Pause]
+Three… four, five… That’s fine because I need some [Laughter] since, you recall, the
+first part of our course is particularly devoted to students in the first cycle. So there you
+are. So, let’s continue. [Pause]
+
+So in sum, I would like to be more precise about our goal this year with the condition that
+this goal might be modest, I mean, something small that might strike you while reading
+Leibniz. What is immediately striking is a kind of proliferation of principles. One gets the
+impression, literally, that Leibniz never stops pulling principles out of his sleeve. It’s a
+rather odd impression, this proliferation of principles because, generally, while principles
+were known in philosophy a long time before Leibniz, philosophy claimed an economy
+of principles for itself. Leibniz is without doubt the first great philosopher who never
+stopped adding one principle to another. He pulls them out really in the mode “You want
+a principle? I’ve got it here!” And after all, inventing principles is not an insignificant
+matter.
+
+I am saying that philosophy has always known principles, notably the three logical
+principles: the principle of identity, the principle of contradiction, the principle of the
+excluded middle. A is A, principle of identity; A is not non-A, principle of contradiction;
+A is A or non-A, principle of the excluded middle. And then, perhaps, already at another
+level, philosophy was familiar with principles distinguished from purely logical
+principles, that one might call the principles of existence, for example, the principle of
+causality, the principle of finality.
+
+And about Leibniz, one gets the sense that he never ceased adding on to them. His
+philosophy is an overflowing invention of principles. This is odd, and why? I am saying
+that it’s an immediate impression from reading him. He never ceases circling around a
+principle to present it under several forms, or else he ceaselessly adds principles for ones
+already known. And I would almost say that in Leibniz, principles are teeming so much
+that they create propositions of a special type, the proposition that enunciates a principle
+
+                                                                                            2
+
+will be implicitly, not explicitly, it will be something like an exclamatory proposition,
+that is, to which one immediately wants to add an exclamation point. If we take that
+seriously, does this mean that we could consider the exclamation point as a special sign?
+Insofar as it’s a philosophical sign, one must say that when the philosopher enunciates
+and multiplies principles is the philosopher exclaiming.
+
+So are there philosophical exclamations, and what would that be, a philosophical
+exclamation? As a result, we readers, we perpetually get the impression from reading
+Leibniz that we ourselves are making exclamations, so that, concerning our goal this
+year, we derive a modest goal from this: to be able to discover, even when Leibniz does
+not provide us with the expression… There would be two cases: the cases in which
+Leibniz gives us the explicit expression, and then the other cases where we feel the need,
+with the possibility of justifying this need, to translate into an expression something that
+Leibniz does not directly provide us. But our task would be to accumulate the expressions
+of principles, that is, the great exclamatory expressions that cut through Leibniz’s
+philosophy. As a result, I could assign these expressions for each class, each of our
+meetings, the goal or the focus being to establish two, three or four of these. At the end of
+the year, if all goes well, we would have about a hundred, or if things go even better, two
+hundred exclamatory expressions, that crisscross Leibniz’s philosophy, and that we
+would learn by heart, and would write up in the final meeting.
+
+But why is there this proliferation of principles? Could we consider a hypothesis about
+why Leibniz’s philosophy can be presented as a proliferation of principles and derivatives
+of principles, axioms, laws, etc.? I believe that our previous meeting gave us a hypothesis
+on this point. Is it perhaps because he causes the principles to play into the infinite? But
+what does that mean? If this is right, ah well, we have to say: Leibniz causes the principle
+of identity to play into the infinite? But what could that meaning, placing the principle of
+identity in play into the infinite? Once again, the principle of identity is A is A, the thing
+is what it is. What could this operation be that carries identity into the infinite, and the
+same for the other principles? But it’s perhaps the milieu of infinity that assures this
+proliferation of principles. I have no reason to answer more precisely since this it the goal
+of our entire year: To see in what sense… But why is there an introduction into the
+infinite?
+
+This is where I would like to return to certain things discussed in the last meeting. And
+indeed, we saw why this presence of infinity at all levels of Leibniz’s thought or
+philosophy. Besides, it’s precisely for this reason, the presence of the infinite, which we
+had as a second hypothesis about Leibniz’s philosophy: that it was perhaps the very
+manner of a Baroque philosophy. [Pause] It’s the very manner of Baroque philosophy or,
+if you prefer, what does the manner of Baroque philosophy mean? What is the Baroque?
+The last time, we refused to look for an essence of the Baroque to the extent that such an
+essence was consisted of discussions and disputes, both useless and without interest, fine,
+namely, knowing what were the Baroque eras, what were the Baroque genres, etc. And
+we preferred taking a purely operative viewpoint, telling ourselves that whatever the
+Baroque might be, what interests us is: what does it create? What does it create that no
+
+                                                                                               3
+
+other form of agency (instance) would make? How does one recognize the Baroque? In
+something that it accomplishes, an operation.1
+
+Well then, what is the operation that deserves the name “Baroque”? Our first response
+was that it’s quite simple. It’s an operation consisting of creating folds, of folding.
+Folding is what the Baroque operation is. Under what conditions? Is every fold Baroque ?
+No, there are folds that don’t have these details. But I would say that the Baroque is the
+fold when the fold goes to infinity. The fold going to infinity -- [Pause; interruption]
+That’s it, you really shouldn’t press your back on the light switch [Laughter] -- The fold
+going to infinity is the Baroque operation par excellence. We saw this the last time. And
+henceforth, if I said that the fold goes to infinity and that this is what defines the Baroque
+operation, I already couldn’t stop myself, and so much the better. This was the sign that
+this operation was good. Why? Because immediately a doubling of the fold occurred. The
+fold going to infinity doubled into two directions: the pleats of matter and the folds in the
+soul. And the pleats of matter go to infinity just as the folds in the soul go to infinity,
+such that two texts by Leibniz seemed fundamental to us: a particularly clear text taken
+from Système nouveau de la nature [New System of Nature]. What does he tell us?
+[Deleuze looks in his copy] He tells us, “The organs,” the organs of a body, “are
+differently folded, and or more or less developed”; the organs are differently folded, and
+or more or less developed.2 And on the other hand, [there is] the text from the
+Monadology, paragraph 61, in which he tells us, “The soul could not develop suddenly all
+its pleats for they go in to infinity.” Thus, the pleats of matter and folds in the soul, these
+are the two forms of the fold.
+
+Why does the fold have two forms? This is what is already important, but we can only
+proceed little by little. At least we recognize a fundamental characteristic of the Baroque,
+a fundamental characteristic of the Baroque according to Wölfflin and of Baroque
+architecture, which is the distinction of two floors. Everything occurs as if there were a
+lower floor and an upper floor. If you will, this corresponds to a drawing of …, very
+schematic… [Deleuze goes to the board and draws] of the Baroque church, such as we
+saw this the last time. There is a lower floor, in which in some ways the mass is enlarged,
+and there’s the floor above.3 What is this duality? We could say that it’s one of matter
+and movement. However, there is movement in both cases, but on the lower floor, the
+movement is related to resistance, and on the upper floor, the movement is related to its
+own spontaneity. We could also say that it’s the body and soul, or indeed we could say
+that the lower floor is the Composite, and the upper floor is the Simple.
+
+For us, the lower floor is that of the pleats of matter that go on to infinity, and the upper
+floor is that of the folds in the soul that equally go on to infinity. What does this mean? If
+on the lower floor there are infinite pleats of matter, if above there are infinite folds in the
+soul – you notice, I am trying not to comment on my small difference, the “of” in pleats
+of matter, and the folds in the soul. I mustn’t do so until I’m able to discuss it later; I’ll
+mention nonetheless that the two expressions are not symmetrical. In any case, if my two
+Baroque floors are distributed in this way – [Heinrich] Wölfflin will say mass and
+movement – I can say that yes, everything is – and that’s the Baroque signature –
+everything is a labyrinth.4 The pleats in matter [sic] constitute a labyrinth, and the folds
+
+                                                                                              4
+
+in the soul constitute another labyrinth. The infinity of the fold is decomposed into two
+labyrinths.
+
+And still it is necessary that this be true, literally; ah yes. It is so true that Leibniz works
+through a Baroque philosophy or a Baroque conversion of philosophy. Everyone knows
+the importance of the labyrinth in Baroque architecture and Baroque thought. Well it is so
+true that Leibniz presents the entirety of philosophy under the auspices of two labyrinths.
+And there he calls it… And these two labyrinths no doubt have rapports of resonance or
+correspondence, of fundamental redoublings one by the other. And to these two
+labyrinths, Leibniz gives them a name, the lower labyrinth and the upper labyrinth. For
+the lower one, he doesn’t call it the “labyrinth downstairs”, he calls it the labyrinth of the
+continuous. For us, this is of enormous interest, even just this expression, one that we
+have to take literally, the labyrinth of the continuous. That means that the problem of the
+continuous cannot be adequately posed on the level of the straight line. That’s what he
+found, and it’s already a very great discovery. For example, in Descartes, continuity is
+posed on the level of the straight line. If Leibniz tells us that there is a labyrinth of the
+continuous, this means the problem of the continuous cannot be settled on the level of the
+straight line. Ah, but you realize, [with] such a proposition, what does it mean, that the
+continuous is not settled on the level of the straight line? We are just recording notes at
+the moment; we are acquiring things. I don’t know what this means yet; we cannot know.
+It’s the labyrinth of the continuous: you understand that it’s the state of matter insofar as
+it doesn’t cease pleating and unfolding to infinity, insofar as matter admits an infinity of
+pleats. So there is a labyrinth of the continuous.
+
+The other labyrinth, the labyrinth upstairs, is called the labyrinth of freedom. We see in
+fact here that it concerns the soul. And why he reproaches Descartes is for having
+understood neither one nor the other of two labyrinths. A particularly clear text in this
+regard about the two labyrinths is in a small work, On Liberty. I will read very quickly:
+“There are indeed two labyrinths. One concerns the composition of the continuous, the
+second [concerns] the nature of freedom. They find their source in this same infinity.”
+We cannot say it better. The infinite doubles over into two labyrinths, the labyrinth of the
+pleats of matter or composition of the continuous, [and] the labyrinth of freedom of the
+spirit, the freedom of the soul, or the infinite folds of the soul.
+
+And this same distinguished philosopher, this remarkable philosopher that I mentioned
+above, notably Descartes, not being able to decide either one way or the other, or not
+wanting to reveal his opinion – and this is quite treacherous! – preferred to cut through
+this with a blade. In other words, Descartes never understood anything about the
+labyrinths. Sometimes he considered a straight line and believed that the continuous was
+on this side. At that moment, considering the continuous on the level of the simple
+straight line, he confused the continuous with an infinite divisibility of matter, that is, the
+indefinite. [Pause] If he had understood that it wasn’t on the level of the straight line that
+the continuous is situated, he would have seen that the continuous can be resolved or can
+be composed only on the level of infinitely or actually divided matter. This is precisely
+all the pleats of matter.
+
+                                                                                             5
+
+And sometimes for freedom, this time without doubt he did not consider a straight line,
+but he equally missed the labyrinth because he only held onto two opposite points, the
+two points that make up a straight line’s segment, points that determine a segment of a
+straight line, specifically one pole, God’s prescience, and the other pole, man’s freedom.
+And he said that we could not understand how the two were reconciled, but it was
+necessary to reconcile them. In other words, on the level of the continuous, he only held
+onto the straight line, and at the level of liberty, he only grasped both ends of the line. In
+other words, for the labyrinth of liberty, he maintained only the entry and the exit. So it’s
+catastrophic in a labyrinth only to maintain the entry and the exit, [Laughter] since with
+this only, the entry and the exit, there would be no labyrinth. The labyrinth is what’s
+between the two, that is, the infinity of folds.
+
+So this text is very important for us, one that I did not quote in the previous class, and
+that determined our entire plan, in the beginning. We are still involved in an introduction
+to Leibniz’s philosophy. The plan that we settled on was, first, the examination of the
+lower floor or the pleats of matter, and secondly, the examination of the upper floor, or
+the folds in the soul, with the condition that there be a sufficient reason forcing us to pass
+from the lower floor to the upper floor. Because after all, why wouldn’t the lower floor be
+enough? Why does… Since already on the lower floor, the floor of matter, the fold is
+already going to infinity, why must this lower floor be joined to another floor that
+concerns the folds in the soul? Why wouldn’t the lower floor suffice? You understand?
+
+Hence, I have very rapidly summarized since this is what we did at the last meeting. I
+summarized as quickly as possible what we’ve acquired concerning the lower floor since
+we will need this the entire year. That is, those who will be in our meetings will have to
+have the gift of recall because each time, we will have to hold on to what we have
+acquired.
+
+And I am saying that the lower floor is defined by this: corresponding to the definition
+Wölfflin offered of the Baroque,5 [it’s] treatment of matter in bulk [en masse]. That’s
+deeply what the Baroque is, not only a manner of treating, its one of the characteristics of
+the Baroque. First characteristic: treatment of matter in bulk. Second characteristic: a
+tendency of matter to overflow its frame or its space. This is also very well detailed by
+Wölfflin on the level of Baroque architecture.
+
+So good, I am doing what I announced. This is where I find my first exclamatory phrase,
+my first exclamatory proposition, the grand expression 1: In bodies, there is something
+more than extension [l’étendue]. In matter, there is something more than extension,
+exclamation point! We could say it in Latin; this is something quite lovely! It’s a constant
+theme in Leibniz; he constantly says that. I say: let this be our exclamation. So, now
+we’ve got one. In fact, if matter overflows its frame or its space, there is something more
+in matter than the extension it occupies.
+
+Third characteristic, and I would like you to sense that these are linked, and that here
+again, Wölfflin indicated it very well on the level of Baroque architecture in general:
+tendency toward rounding off angles. Why? Because the masses in which matter is
+
+                                                                                              6
+
+decomposed are essentially soft and, at the limit, fluid. [There’s] a tendency toward
+fluidity in matter as is evident in the treatment of waters in the Baroque. We saw this
+already, the whole system of fountains, falls, etc. I won’t go back over this.
+
+Fourth characteristic: If mass is essentially soft and, at the limit, fluid, the physics of the
+body must be a physics of the elastic body, elasticity being what? [It’s] the measure of the
+degree of fluidity of the body. Hence Leibniz’s famous formula, MV2 [squared], which
+is concerned in the communication of movement – this isn’t MV, it’s MV2. V2 imposes
+the viewpoint of acceleration, that is, of the demand of small solicitations on movement,
+the demand of degrees or of what he calls the conatus, which implies the assimilation of
+the body in movement to an elastic body. The Leibnizian model… The model of
+Leibnizian physics will the spring (le ressort). And in the last class, we saw how this
+physics of the elastic body produced a great substitution in the atom relation as hard body
+on the oblique straight line – the descent of the atom following an oblique straight line –
+as trajectory. Leibniz’s physics substitute for this an elastic body, that is, there is no atom.
+There is no atom because there is no perfectly hard body. Elastic body on a curvilinear
+trajectory, this is what already is a first means of rounding off angles according to
+Wölfflin’s expression.
+
+Fifth characteristic: [It’s] the natural history of the organic body. The organic body is
+more than an elastic body. It is endowed with a capacity to fold itself to infinity and
+henceforth to unfold itself, from which we get expression two: All organisms [are] in a
+primary organism; all flies [are] in the first fly, exclamation point! All fly eggs [are] in
+the first fly egg. And the organic body is going to be traversed by movements that we can
+call as well – here, you’ll recognize words that were current in the seventeenth century –
+envelopment-development. The organism envelops its parts to infinity, and its parts are
+developed. Envelopment-development, or what comes down to the same, involutionevolution; or what also comes down to the same, implication-explication. To implicate is
+to envelop; to explicate is to develop, such that Leibniz can say that we are never
+separated from our body, or from a body, in any case. And when we die, it is simply our
+organic parts that are enveloped to infinity, that is, become infinitely small, but our soul
+is never separated from a body. To die is to involve; death is the involution of the body.
+
+Hence we get the idea, and this is the second grand exclamatory expression – so now we
+have two already: Yes, the organism is a machine, but the machine is infinitely machined!
+The machine is infinitely machined: that meant [that] all the parts of the machine are still
+machines such that the machine can fold itself to infinity. All the machine’s parts are still
+machines such that we must say, yes, the organic body, yes, the organic body is machinic.
+It’s a machine. And in one sense, Descartes was right to say “animal machines”. At the
+same time, Descartes understood nothing. He understood nothing because – this is
+Leibniz speaking – because he did not see that there is a difference in nature between
+machine and mechanism. A mechanism, insofar as it is created by man, is a finite
+machine, that is, it’s a machine in which the pieces are not machines going to infinity. A
+mechanism is a finite machine. An organism, yes, it’s a machine, but a machine
+irreducible to any mechanism. Why? Because it’s an infinite machine. It’s a machine in
+
+                                                                                                7
+
+which all the pieces are machines, that is, it’s a machine that pleats itself to infinity.
+[Pause]
+
+Finally, the final trait [sixth characteristic]: [It’s] the natural history, no longer only of the
+organism, of the organic body, but of the living. Why? Because what explains the
+organism? What explains the organism’s capacity to fold to infinity its own parts and to
+unfold them? Leibniz’s answer will be: it’s the diffuse presence, in organic matter, the
+diffuse presence of simple animals, of animalcules, what he sometimes calls spermatic
+animals. A diffuse presence in organic matter of simple animals, that is, there is always
+an infinity of simple animals in any portion of inorganic matter, however small that it
+may be. And he calls upon the microscope that shows the presence of such animalcules
+everywhere. And it’s true, he tells us, you recall, in some very beautiful texts, entirely
+admirable. It’s true! It’s true! It’s true for the block of marble no less than for the fish
+pond. Just as in the pond full of fish, where there are fish to infinity, so too in the block of
+marble, there are animalcules to infinity. There are simple animals to infinity. Why?
+Because the block of marble seems hard, but no body is absolutely hard. That is, the
+block of marble is no less fluid, within certain degrees, than the pond. If all bodies are
+elastic and fluid, the block of marble also responds to this physical nature of the body.
+There are no fewer simple animals in a portion of marble, however small the portion may
+be, than there are in a pond. So there are, if you will… He does not say simply [that] the
+organism includes an infinity of parts that fold themselves in and unfold themselves. He
+says [that] in inorganic matter, however small it might be, there is an infinity of simple
+animals.
+
+From this comes the third exclamatory expression, that we saw in the first class, that is
+one of Leibniz’s most beautiful: certainly, everything is not fish, but there are fish
+everywhere.6 In other words, Leibniz’s vitalism is a pluri-vitalism. It’s a very special
+vitalism since, literally, I could transform my third expression into another, equally
+exclamatory: matter is not lively [vivante], but matter is a life pool [un vivier]. All matter
+is a life pool. Everything is not a fish, but there are fish everywhere, a kind of nautical
+ballet. And what is the nautical ballet? It’s a very important element of the Baroque.
+Everything is fluid, and the dance of the living in the fluid… [Deleuze does not complete
+the sentence]
+
+There, I have summed up. You see, if you grasp this all together, it’s a commentary on
+matter that is organized in bulk, the masses that are soft and fluid by nature, the elastic
+body as model for the body and physics, elastic bodies on curves, that is, the elements of
+folding, the pleats of the organism, and finally the folds of matter around simple animals.
+Thus, since there is an infinity of simple animals in any portion of matter, the folds of
+matter, the pleats of matter go to infinity; all that turns around the same idea, notably: it’s
+the pleats of matter that constitute the first [ground] floor of Baroque architecture.
+[Pause] Henceforth, I would say [that] what is this whole floor? [It’s] a logic of masses, a
+logic of soft, elastic or fluid masses, Leibniz’s radical opposition to the atom, the hard
+body. There are no hard bodies in nature. Once again, everything is a life pool. [It’s] a
+logic of masses or aggregates; in other words, a logic of composites, the composite being
+
+                                                                                                 8
+
+infinitely composed. Infinite composition of matter, the infinite composition of matter is
+therefore the pleat.
+
+Fine, and from this the question explodes… We are quite fine on this floor. All is
+composed, all is composed to infinity. This is a possible position. We are on the first
+floor, the lower floor. Fine, all is good there, all is fine. We are even cozy and warm in
+the pleats of matter. At the extreme, we are simple animals around which matter makes
+an infinity of pleats. We are fish in the pond, all good. What could be better? Obviously.
+And what is God in all this? God is the great guardian of the life pool. It decides on the
+moment when each fish folds back up, that is, dies, provided that this fish might unfold.
+All this is such a satisfying; after all, this is an admirable world.
+
+So why are we forced to connect a second floor to this, or rather the first (upper) floor ?
+Why are we forced to join it to an upper floor? – And it’s here that at our last meeting, I
+was really obscure on this, and even worse, very confused, because we were already tired
+from all this. But now, this will become quite simple. In the meantime, we have gotten
+strong and refreshed, you as well as me. – My answer is that there are two reasons, the
+first being, natural history, and a reason related to pure physics, that are going to show us
+that, in fact, when we propose a lower floor with infinite pleats of matter, well then, one
+has to connect to it another floor, and not at all another floor where everything would be
+unfolded. On the contrary, one must overlay these pleats of matter with another type of
+fold. Why?
+
+The first reason, I maintain, is because of natural history. In fact, we saw that organic
+matter, in its capacity of folding, unfolding to infinity, its own parts which are themselves
+composed to infinity, implied a position of simple animals in matter, and diffused in
+inorganic matter. In other words, in scholarly terms borrowed from the history of natural
+history, I would say: Ovism -- that is, the envelopment of all the eggs in the egg of a
+given species, the envelopment of all flies in a first fly, all that – ovism is overcome by
+animalculism, that is, by the idea that organic matter has this capacity of folding itself
+and unfolding itself to infinity only because there is an infinite diffusion of simple
+animals in inorganic matter.
+
+But here I find that I am drawn to call upon the Simples. And you already sense Leibniz’s
+grand idea: the Composites imply the Simples. It’s true, it’s true. The Composites imply
+the Simples. Only, only, only, well there we are, [Various sounds of tape changes in the
+recorders] only, as composition goes toward infinity. … [End of tape; the break arrives
+towards the end of discussion of the “first reason,” and picks up toward the start of
+discussion of the “second reason”, already in progress]7 [46:37]
+
+Part 2
+
+. . . [First proposition] If a body or a point – it’s there, the text that I read to you [in the 28
+October meeting], so obscure, from the answer given to [Pierre] Bayle – Leibniz tells us,
+if a body or a point were alone in the world, it would follow the tangent. In its movement,
+it would follow the tangent, that is, it would follow a straight line. [Pause] Second
+
+                                                                                             9
+
+proposition: the fact is that the body does not follow a straight line. The elastic body
+follows a curve or an element of a curve. Third proposition: why? We will say that it’s
+precisely because it is not alone. If it were alone, it would follow a tangent, fine. But it
+follows the curve, and this is because it’s not alone. In other words, this is the action of
+converging bodies; it’s the action of ambient bodies on it that imposes the curvature of its
+trajectory. [Pause] Thus, the curve followed by the elastic body would be encompassed
+by the action of bodies converging on the body considered.
+
+New proposition [4]: But that isn’t enough, because just consider: If the curve was
+explained, if the curvature of the trajectory of the elastic body. … Leibniz offers a simple
+example; for example, you toss a stone into the air. It goes up, you see – it is a good
+example of the elastic body, of the spring-loaded body (corps à resort); what he means
+by “all bodies are elastic” is very simple – it goes up and passes through all the degrees,
+that he will call degrees of lateness (tardivité). And then it redescends and passes through
+a completion of all the degrees of speed. It de-accelerates and it re-accelerates. This is the
+very case of curved movement of a body called elastic, of a spring-loaded body. It’s
+really an elastic model, the opposite of a model from atomist physics.
+
+So, I think this: if you say that the elastic body follows a curve because the bodies around
+it exert their action on it and turn it away from the tangent, you are perhaps explaining it
+all, but by assuming that normal movement would be rectilinear. In fact, exterior bodies
+can only exert an external causality on the body considered. Henceforth, you say that it is
+turned from the tangent by the action of exterior bodies. Fine. That suffices to show that
+you are not taking account of the elastic essence of the body, for from the point of view
+of the body’s elasticity, the curve is not a turning away from the tangent; it’s not a
+detoured tangent. The curve is primary in relation to any rectilinear element. In other
+words, there must be spontaneity of the curve, [Pause] and without the spontaneity of the
+curve, the causality of exterior bodies would not be exerted. A spontaneity of the curve is
+required to account for this: that the curve is not a derivative of the tangent. [Pause]
+
+What is this spontaneity? You will obviously no longer find it, and you will not find it in
+the physical point or in the elastic body. What is necessary? We cannot escape this.
+Another point is necessary, hence the obscurity of Leibniz’s text as when he tells us, "and
+the physical point is only the point of view of this other point.” It’s a thing that we are for
+the moment unable to understand or comment on, but we have to find it, and perhaps we
+will find it today to the extent that we will be equipped for commentary: this idea that,
+henceforth, the point on the curve is only the point of view of another point, one that is
+endowed with spontaneity, that is, whose curvature expresses spontaneity.
+
+There you are. I am saying it is quite simple: on the level of natural history, [it’s] the
+necessary reference to simple animals; on the level of physics of the elastic body, [it’s]
+the necessary reference to a spontaneity of the curve, [and] both [references] precisely
+require another floor. The pleats of matter cannot explain… constitute the composition to
+infinity; they cannot explain the Simple. In other words, the Simple is on the upper floor.
+How can we avoid a paradox? But there is no reason to avoid one. The Composite is not
+composed of Simples since it is composed to infinity. In other words, the composite is
+
+                                                                                          10
+
+not simplified. And how to avoid the reciprocal? The Simples are not composed. A floor
+of Composites to infinity, that is, the Composites that are not simplified, these are the
+masses, s floor of Simples is not composed.
+
+So fine, the Composites are not simplified; the Simples are not composed. Each is on its
+own floor. What is going to occur? This is at the start of the Monadology, paragraphs 2
+and 3. [Paragraph 2] “There must be simple substances, because there are composites. A
+composite thing is just a collection of simple ones that happen to have come together,”
+there you are: There must be simple substances, because there are composites. A
+composite thing is just a collection of simple ones that happen to have come together.”
+[Paragraph 3] “Something that has no parts,” that is, where it is simple, “can’t be
+extended, can’t have a shape, and can’t be split up.” In other words, yes, the Composite
+refers to something simple provided that the Simple does not exist on the same level, on
+the same floor as the Composite. The Simple is no more composed than the Composite is
+simplified. Each on its own floor, what is going to occur? The Composites’s floor and the
+Simples’s floor: between the two floors, a fold is required. A fold is needed -- So, this
+gets complicated, but we have no choice -- It is necessary that a fold separate and bring
+each of them together, the pleats of matter and the folds in the soul. [Pause] It is
+necessary that a fold separate and bring each of them together, floor one and floor two.
+[Pause] Everything is folded, everything is fold, everything is… and no doubt it’s the
+fold that separates the two floors and no doubt distributes it onto each of the two floors.
+[Pause]
+
+So this becomes really beautiful. Why? Because this leads us quickly into a question that
+will complete this first [part of the] study. We tell ourselves, after all, and yes, we have
+the impression that something there, thanks to Leibniz, something appears to us perhaps
+concerning philosophy in general. Since… well, what? Either philosophy [is there], or
+else would it have to be poetry as well? What does that mean? The fold. Each of us
+believes to know that a recent great philosopher made the fold the armature of his
+philosophy: Heidegger,8 and Heidegger never stopped saying that we understand nothing
+of what I call “being” and what I call “the be-er” (l’étant) – this time, not Leibniz’s “beer” (étant), not the pond (étang), [Laughter, at the pun] but the “be-er”, that which is –
+we understand nothing of what I call “being” and “be-er” if we do not see that the
+essential is the fold that refers them to one another. And it refers them to one another as
+what? No doubt as the ontology of being and as the phenomenology of “be-er”, being as
+being of the “be-er”, the “be-er” as “be-er” of being. The “of” is the fold.
+
+And picking up these Heideggerian themes, Merleau-Pointy speaks to us of the fold that
+constitutes vertical being, the fold that constitutes vertical being. You see, it’s not
+complicated. I am doing this. [Deleuze folds a sheet of paper] I am doing philosophy
+when I do this, [Pause] the vertical being, here it’s the “be-er”. I have folded my sheet,
+“be-er” and being, vertical being; good, you will say fine, the fold, perhaps it’s something
+that… Only, here we are, we cannot stop; we don’t want to stop. We do not stop the fold.
+For the fold, we are bringing in Heidegger and all that. What I am saying is that in
+Heidegger, he underwent a very deep experience that we do not stop the fold. That is, the
+fold swarms in all directions since, on the side of being, what is the double movement,
+
+                                                                                            11
+
+the complementary dual dynamism, of veiling-unveiling? So I am saying some extremely
+rudimentary things. On the side of ontology, it’s this complementarity, this co-penetration
+of veiling and unveiling, in which we have to take the word “veil” with Heidegger’s
+requirements, that is, in an extremely effective sense of etymology. The veil, really, the
+veil as substance, the substance of the veil… veil oneself, unveiling, veiling… What is
+this precisely if not the fold? This time, it’s no longer the fold of being and of the “be-er”,
+but a kind of repercussion of the fold of being and of the “be-er” in being itself.
+
+And what is the status of the “be-er”? How does the “be-er” constitute the world. It
+constitutes the world in a phenomenological form, which is what? Which is – and this is
+well know, coming straight from Husserl – the envelopment of profiles, [Pause] such that
+the fold of being and of the “be-er” doubles over into being under the form of folds of the
+veil and into the “be-er” under the form of the envelopment of profiles. I am telling
+myself that it’s not at random that Merleau-Ponty draws on Leibniz in his notes. He says
+that the only one who understood something before Heidegger, certainly, the only one
+who understood something was Leibniz. It’s strange. And in the end, this tale of the
+fold… [Deleuze does not complete the sentence] because we are too ignorant. I don’t
+mean at all that we shouldn’t praise Heidegger, since it goes without saying that
+Heidegger conceived of the fold in a deeply original way. But I believe that we can say
+that a discovery by Heidegger was the very position of the fold as operating the most
+fundamental relationship between being and the “be-er”, or if you prefer, of the two
+floors.
+
+I think that in a certain way, it’s a philosophical-poetic idea running through [this]. Poetry
+has always started from the idea that there is no straight line in the world, that bodies
+were rubbery or cavernous, that everything is labyrinthine, and what does that mean?
+Last year [during the Foucault seminar, possibly 18 March 1986], we saw this a bit here
+and there, and it’s not the Heideggerians. [Henri] Michaux … Some among you pointed
+out to me a very beautiful text by Michaux. It’s very recent in Michaux, a very lovely
+collection by Michaux called Life in Folds. And this theme from Michaux, owing nothing
+to Heidegger, consists in explaining in a no doubt splendid poem that we are born with
+twenty-two folds – it’s a Chinese figure, twenty-two, surely; it’s a figure loaded with…
+eh? No? [Sound of students answering] It’s certainly a figure linked to the waterlily’s
+folds (plis du nénuphar), something like that – we are born with twenty-two folds and,
+Michaux says, when we have undone all our folds, we die. But to console us, he adds, it
+happens that we die before having undone all our folds. [Laughter] What does that mean?
+It’s what we call a premature death about which we must say that he didn’t do enough
+philosophy; he didn’t undo all his folds. Only the misunderstanding – and if one does
+enough philosophy, one knows this is how it is – [is] that the unfolding isn’t the opposite
+of the fold. And moreover, the unfolding is only the conduit corresponding to the fold.
+
+And it’s not only Michaux. I am mixing up everything; it’s in order to show the extreme
+variety of this thought. One of you pointed out to me the extent to which this theme is
+quite profound in [Stéphane] Mallarmé. The theme of the fold appears in a constant dual
+form in Mallarmé, and it’s infinitely more important, it seems to me, than the theme of
+silence. Moreover, silence is… We cannot understand silence according to Mallarmé if
+
+                                                                                             12
+
+we do not take account of the fold. And the fold is double in Mallarmé. It’s the fold of
+lace work, I would say; it’s the fold as phenomenological. There is always the fold of lace
+work. And then, it’s the fold of the book; that is the ontological fold. And the two never
+cease referring to each other, and there is a beautiful phrase in Mallarmé:9 "This pleat of
+somber lace which retains the infinite woven by a thousand,” we couldn’t say it any
+better, the fold goes all the way to infinity; the fold is what goes to infinity. "This pleat of
+somber lace which retains the infinite woven by a thousand, each according to the thread
+or the prolongation, its secret unknown” – if I understand correctly, this is an ablative
+absolute – “each according to the thread or the prolongation, its secret unknown,
+assembles distant interlacings where there sleeps some luxury to take account of – a
+ghoul, a knot, some foliage – and to present."10 In my opinion, this is very beautiful; it
+says everything. At the same time it says that the fold of somber lace work goes beyond
+toward another, deeper fold, and the folds, all the folds, all the way to infinity. …
+
+As a result, on this level, we again find… We see here exactly where I am. I ask that you
+grant me the lower floor consisting of this: matter is inseparable from pleats, and the
+pleats of matters go all the way to infinity, physically, organically, or inorganically.
+[Pause] But there is a reason for which the folds of matter are not enough. There are
+reasons for which the folds of matter are not enough and refer us to folds in the soul. The
+labyrinth of the continuous refers us to the labyrinth of freedom. Between the two
+labyrinths, each infinitely pleated into itself, there is a fold. [Pause; sound of Deleuze
+turning pages]
+
+From which follows the second part [of the class], the other floor, the upper floor, and I
+sum up, to come back to it this way. We will have run back through, I assume, I hope, in
+a new way, in a slightly different way, we will have run back through all that we did the
+last time, but also moving forward on certain points. I remind you that we began the
+study of the upper floor, in what form? Well, we just left the material side, I would say,
+the material data or the physical data. What is this? It’s the elastic body on such an
+irregular curve as possible, the elastic body on an irregular curve. Why irregular? Since
+the pressure of coexisting bodies varies itself with the variations in the neighborhood.
+Thus, on the other floor, that is not what we are going to find. On the other floor, we are
+going to find the ideal genetic element of a material given, that is, of the elastic body on
+its curve. What is the ideal genetic element? This is what is going to furnish the first
+[upper] floor. You see the difference? On the lower floor, I have the elastic body on a
+curve; on the upper floor, I ask, what is the genetic element of this materiality of the
+elastic body on a curve? And our answer, we saw it: this time, it’s the point, pure point,
+let’s say, the mathematical point.
+
+But I have hardly said this than problems arise. So we must get hold of this problem then
+or we will never move forward. But I tell myself that the theory of points in Leibniz is
+going to be something very interesting since there are all sorts of points. We saw on the
+lower floor the physical point. The physical point is a rubbery point, an elastic point. And
+here, on the first [upper] floor, we encounter an entirely different point, no longer the
+physical point. It’s the mathematical point, the point as mathematical point. There we
+have the ideal generic element. On what? As we saw, on an inflection. And you recall the
+
+                                                                                            13
+
+figure of the inflection – I’ve lost my chalk, where is it ? Oh, here! – [Deleuze goes to the
+board] Here we have an indubitable figure of inflection; it’s the genetic element, a
+mathematical point on inflection, with the inflection being defined how? By a singularity,
+a cherished expression in mathematics, specifically, the point of inflection, the point of
+inflection being defined as a singularity, by this: [Deleuze indicates the drawing] it’s an
+intrinsic singularity, that is, independent of a system of coordinates; an intrinsic
+singularity consisting in what? Well, the tangent to the point of inflection crosses the
+curve, crosses the inflection.
+
+And how elated we were in the last class to discover [that] this ideal genetic element, the
+mathematical point on the inflection, was the figure that Paul Klee named the “active
+line,” of which he undertook the genesis of everything he called forms in movement. And
+the active line, that is, the point on the inflection, from Paul Klee seemed to authorize for
+me every connection between Klee and the Baroque, a connection supported by Paul
+Klee himself, and allowed us to judge the opposition [of] Klee [and] Kandinsky, in
+which, to a certain extent, if I dare say, Kandinsky remains in some ways Cartesian, that
+is, he considers that the point is not spontaneously in movement, and that what is required
+is an exercise of exterior force to put the point in movement, and the henceforth, this
+movement is angular, that is, is first rectilinear, horizontal or vertical, but following the
+oblique. Thus, to Paul Klee’s active line that makes a claim on spontaneity of movement,
+notably the mathematical point on the inflection, is opposed in fact Kandinsky’s angular
+line. There is no basis for establishing a hierarchy, but there is a basis to establish a
+divergence in this, a difference in inspiration. And yet again, it’s very important for us
+that Klee constantly refers to the Baroque themes.
+
+So, if this is how it is, [Deleuze goes to the board], the ideal genetic element, the
+mathematical point that runs through an inflection, you see? [He draws on the board]
+There, I would say that this is the ideal fold, or idea-al, [a play on the word “idea” in
+ideal], or at least that’s what I would call the genetic element of the fold. The inflection is
+the genetic element of the fold. In other words, the genetic element of pleats of matter is
+the inflections traversed by mathematical points.
+
+But what can we draw from an inflection? Well precisely, it’s a genetic element because
+lots of things can be drawn from it. And I was telling you, according to a young
+philosopher who has undertaken some very astonishing work, there is an entire variation
+of the genesis of forms, what Klee called forms in movement. So, according to Bernard
+Cache,11 we saw that last time that, starting from the inflexion, there emerges an
+engendering of forms through symmetry – I won’t go back over this, I am only
+summarizing – through symmetry, through prolonging curvature – you remember? – the
+Baroque theme. The ogive was a transformation through symmetry, through prolonging
+the curvature, through rotations, which gave us the starfish figure, through orthogonal
+sliding – that yielded a kind of unhooking – [Deleuze returns to the board, then sits
+down] through rupture or, if you prefer – but this is too complicated, but that doesn’t
+matter – through oblique cuts, with the very question that I am quickly posing here – but
+this is of little interest; these are hypotheses; you can create geneses yourself of families
+of curves or families of forms: isn’t there a passage, a point of view from one genetic
+
+                                                                                            14
+
+method of inflection, if one proceeds or goes all the way to the oblique cut here [Deleuze
+traces on the board] that develops an effect of rupture in the inflection? Don’t we arrive
+at a genesis of the hyperbole? See, the hyperbole is a very special figure. It’s this curve
+constituted from two pieces with one going downward and the other upward, and with
+one getting infinitely closer to one of the two axes without ever reaching it, and the other
+approaching the other axis, with a kind of gap in the middle, that is, at the intersection of
+both axes that is represented by zero, for one simple reason: that there is no division
+possible by zero. So, we would go all the way to the genesis of the hyperbole. Fine.
+
+Immediately, if I am proposing to you this engendering, according to Bernard Cache, that
+immediately reminds us of the idea of a possible conjuncture with something known and
+greatly discussed today, with catastrophe theories by [René] Thom.12 Thom’s catastrophe
+theory proposes for us an interesting genesis, so is there something troubling in it? It’s
+just that in all Thom’s books, you find a drawing; I am going to show it to you from afar
+because it is quite lovely, this drawing, but finally, we won’t comment on it because we’d
+get… You wouldn’t see anything, but it’s just to say that it’s beautiful. And on this
+serialization of catastrophes, I am reading…. What’s bothersome is a small weakness,
+that can always be corrected… It’s just that he doesn’t speak about the fold. He provides
+a minimum of simples that are the straight line. But secondly, in this genesis, this
+catastrophic genesis, what is the second, that is, the true genetic element? I swear that I
+am not twisting this: it’s what he calls “the fold”. It’s written down, ok? [Laughter] “The
+fold.” And then, from the fold, he is going to derive – I am offering this just to inspire
+curiosity in some of you; you can take it or leave it, or just take what suits you – the
+genesis then yields the pucker or gather (la fronce) – this is kind of like something from
+Mallarmé – the fold yields the pucker or gather. After the gather comes the dovetail
+(queue d’aronde) which is an extremely interesting form. After the dovetail comes the
+butterfly; after that, the hyperbolic umbilical, the hyperbole; then, the elliptical umbilical;
+then, the parabolic umbilical – hyperbole, ellipsis, parabola. So hold on to this because
+we will certainly encounter this theme in Leibniz.
+
+Fine. All that I am saying is that you might see in what way I can say that the ideal
+genetic element is the mathematical point on an inflection, on any inflection whatsoever,
+and from this genetic element are derived all kinds of forms in movement. But, but, but,
+but – consider the consequence that seems to me enormous: it’s that we are tending
+toward a radical revision of the status of the notion of object. It’s a genesis of the object.
+Well, the object is going to emerge by taking on a form that it has never had in
+philosophy, and we must give all glory to Leibniz for having done so. In other words,
+what does the object become? It becomes entirely mobile insofar as it describes a series
+of inflections. In other words, the object is affected by a fundamental curvature, entirely
+mobile insofar as it describes a series of inflections. Why do I say a series of inflections?
+Well the series of inflections is all the figures that result from the primitive inflection,
+that result through symmetry, through prolonging, rotation, the oblique cut, etc. In other
+words, it’s the mobile form insofar as it describes a family of curves. That’s what the
+object is.
+
+                                                                                            15
+
+The object is the mobile form or point insofar as it describes a family of curves, but what
+constitutes a family of curves? It’s precisely the parameters that frame these curves, and
+the possibility of passing from one of these curves to the other through an operation that
+is always an operation of fold. What are these parameters? The parameters defining the
+curves, well, these are relations of proportion, intervals. You have seen this; for example,
+typically, I marked the formation of an interval starting from that inflection, [Deleuze
+points to the board] whatever you like. So, the object is inseparable from the movement
+through which it describes a family of curves. That’s the object’s constitutive curvature.
+In other words however, Leibniz invents lots of words, but here, he didn’t need to invent
+a word. It’s odd, but we can substitute for him. So we are saying that there is not an
+object. What is necessary? The object in Leibniz’s work is an objectile, as one might say
+projectile.13 It’s an objectile. [Laughter] Well, it’s not really that funny; it’s necessary,
+you understand? A somewhat bizarre word is needed to take account of this, that he
+creates a strange conception out of the object…. Fine. [Pause] That’s the first point. I
+organize it under the headings: genetic values of inflection and engendering of forms.
+
+A second, much more delicate points remain, and here I need all of your patience. I don’t
+make mathematical allusions very often because I read it in a very rudimentary and
+imprecise way, so it’s not that important. But today, I need certain things from
+mathematics since the second point on this upper floor would be: how is the inflection,
+you see, about which I can say that in itself, as genetic element, how is it an inflection
+with variable curvature, and not an inflection with constant curvature? It’s an inflection
+with variable curvature. Perhaps if you sense a bit what he [Leibniz] is in the process of
+placing into the concept of spontaneity, it’s that spontaneity is already the active line, as
+Paul Klee said, and [Leibniz] will say the spontaneous line. You see, we had to go
+beyond the collaboration of the body, the action of bodies on a body, going toward an
+idea of spontaneity, inflection as spontaneity of the mobile form or the mathematical
+point.
+
+What I would like to show is how the inflection with variable curvature, such as it is
+suitable to define it, is inseparable and can only be thought in relation with infinite series.
+Understand that it’s very important to see the logical progression of our work. By
+defining inflection on the first [upper] floor, I am giving myself the ideal fold, the fold
+from above. And now, I have to prove that the fold from above no less than the pleats
+down below, that the fold up above goes to infinity. I would have shown, if I mange to do
+so, something that isn’t easy: that the curvature of the fold, inflection, necessarily results
+in the infinite series. Eh? If we manage to show this, that would be perfect, unexpected,
+that is, you will be very pleased. [Pause] So there we are… It’s hot here, we’re dying…
+So, my question is…. Are there any questions? They need to be crystal clear… Yes?
+
+A student: [Nearly inaudible question; it concerns the spontaneity of points]
+
+Deleuze: Yes, yes, yes, I am going to tell you: if the semi-circle doesn’t turn all alone,
+that’s because it’s a semi-circle, that is, a constant curve. On the other hand, if you take a
+curve with variable curvature, its path indeed expresses a mode of spontaneity. Why? In
+one sense, this is quite good because it places us exactly where we need to be because
+
+                                                                                              16
+
+there will be an infinite series and the relation of inflection to the infinite series is going
+to be an expression of spontaneity. But the circle is a finite figure; there is no infinite
+series to draw from it except in something the circle possesses. But the circle itself as a
+figure with constant curvature, there is no reason to seek the slightest spontaneity there.
+So there’s no problem. Never… It’s not… Leibniz would say, but mathematics of the
+circle, geometry of the circle is worth absolutely no more than the geometry of the
+straight line. All that is the same. It’s Cartesian geometry.
+
+There’s a great physicist-mathematician-astronomer, whatever you like, that introduced
+the direct study of curvatures into mathematics, named [Christiaan] Huygens. His
+relations to the Baroque are fundamental. Huygens’s physics is really Baroque physics.
+And, I will limit myself to one very simple criterion for why it’s Baroque. As all the
+manuals of the history of physics say, it’s Huygens who introduced curvatures into
+physics, [Pause; sounds of cassettes being changed] and as a function of the study of
+curvatures, this introduces infinite series. And in the case of figures of the circle type, a
+kind of curve with constant curvature, they are expressible finally through proportions in
+a straight line, still leaving us to see if there isn’t something in the circle that goes
+precisely beyond… In this case, there is no basis for seeking spontaneity. You can only
+find spontaneity starting from the active line and what it offers. In the end, this is what I
+am going to try to explain.
+
+Do you want to take a little break? But please, no smoking, ok? … You can go outside to
+smoke… Yes? … Yes, yes, yes?
+
+Georges Comtesse: It seems to me that the points, the theory of points, the substantial
+points in Leibniz, which he proposed, are perhaps not simply physical points which
+concern the law of divisibility, therefore the influence of [unclear word] of bodies, and
+perhaps not simply mathematical points which are nevertheless exact points, as Leibniz
+says, and even real [some unclear words], but perhaps that the substantial points of life,
+of the monadic substance, in Leibniz can be called metaphysical points.
+
+Deleuze: Yes, he did do that, and here you are getting too far ahead of me. You need to
+save your comment for when we get there. At that point… For the moment, I have not
+said the word “monad” once.
+
+Comtesse: In that case, if we’re talking about metaphysical points, perhaps there is not
+only one metaphysical point, concerning precisely the mathematical point of bodies, but
+perhaps there are two… There is necessarily [unclear words] of the curve’s movement,
+but there is also the indivisible unity of elastic bodies that is a second metaphysical
+element of the body.
+
+Deleuze: On this, fine, agreed, but here, you are asking me, if I understand your problem
+correctly, it’s that I don’t want to introduce the idea of metaphysical point or monad
+without having shown in what ways it would be necessary, and for the moment, we don’t
+have the elements for showing this necessity. [Interruption of the recording] [96:00]
+
+                                                                                          17
+
+Part 3
+
+… [Deleuze reacts to a comment made during the pause] We are dealing with a very
+precise type of problem, and don’t take my comments badly. It’s as if you were drawing
+me out and taking me back to a huge problem, and by huge problem, I understand it as a
+false problem. I mean, the topic: are there relations at once of physics and metaphysics?
+Fine, this problem is know by virtue of a particularly stupid schema that we were taught
+at the time of the baccalauréat indicating that there was a time when philosophy was
+unified with the sciences, and then little by little, the sciences got separated from
+philosophy, a schema that is inept and historically false. The sciences have always been
+quite distinct from philosophy, from metaphysics, whatever you want, [and] there have
+always been relations [between them]. And then we are told that today, the sciences have
+won their autonomy, that they no longer have anything to do with metaphysics, a second
+equally false proposition. There is not a single physicist who can distinguish what is
+philosophical or scientific in his work, whether it’s Einstein or any of the great
+contemporary [unclear word], whether they are working on the physical cosmogony. In
+any case, everyone who counts in physics collides with problems of a philosophical
+nature. The idea that at one moment, there would be a kind of metaphysical-scientific
+accord and that now this no longer exists – and this isn’t directed at you, ok? It’s directed
+at this idea still hanging around everywhere – we absolutely have to get beyond this. If
+you take the Greeks, however far back you go, they never confused philosophy and
+physics. Those that were assigned… No doubt, each philosopher had his extremely
+complex approximation of this; once we admit that the philosophical plane and the plane
+of knowledge known as scientific are distinct, what is the relation between the two? How
+do they intersect? A second aspect of the question: has this changed today? It suffices to
+consider the discourse of a contemporary physicist to realize that it absolutely has not
+changed. We can at most say that relations are not the same; the relations have evolved at
+the same time that new forms of relation have been discovered.
+
+Thus, you mustn’t draw me back into this, you understand? The relation maintained by
+Leibniz between metaphysics and physics is a kind of … If I had started from this point,
+by details like that, but excuse me, for me, I would have, in my view created a
+disappointing course because this is an indeterminate question. In this, I am not actually
+wondering… On the contrary, we are almost in the process of distributing… For
+example, you sense well that with the entire lower floor for Leibniz, as I have pointed out
+adequately, he connects it to physics and natural history, and I don’t know yet what
+relation it [the floor] has with metaphysics since I don’t know what metaphysics is
+according to Leibniz. You sense perhaps that on the upper floor, mathematics is involved
+there, and there are also metaphysics. I don’t know about the relations; we will know
+them at the end of the year if we have a basis for it. But if you want me to apply a preexisting schema onto… Starting off by saying the physics-metaphysics relations at that
+era, I am saying that we are undertaking a false problem because we are going to get
+stuck within a completely and radically false schema, I mean, doubly false. We are told,
+on one hand, that at some point in the past, philosophy and science were more or less
+mixed up together, and this is historically false. So, I cannot take up a problem that I
+
+                                                                                             18
+
+judge doubly false. There you are. Excuse me, the violence of my answer was not
+directed at all at you, but at your schemas that seem to weigh on you, to weigh you down.
+
+So there you are, I ask you, and for the last time, we will do a bit of math, but basic math.
+I ask you for your complete attention, and there are some here who already were here two
+years ago. I recall that, from an entirely different perspective, I approached this aspect.
+So, this will be easy for some among you, but also for everyone. You see, my problem is
+– for the moment, my problem is quite localized within this first (upper) floor – my
+problem is, first, I tried to explain what was the ideal/idea-al fold, specifically this history
+of the mathematical point on the inflection and the family of curves that derive from it;
+and my second point is: how do we pass from the fold to the infinite series? There you
+are. It’s uniquely this segment; if I manage to finish this today, we will be so tired out
+that… There, this is what you must not lose; whatever I might say, you have to hold on to
+this problem.
+
+For I am going to begin by something that, apparently, is very far from this. Why would
+the continuous simply be rectilinear? Why can’t the continuous be presented under the
+simple form of a straight line? Well, if you take… At first glance, the continuous can be
+perfectly represented under the form of a straight line; why? Because what is the law of
+the straight line? It’s that, between two points, however close they may be, you can
+always insert a point. -- Is this good? When you have a problem, let me know. --
+Henceforth, if you hear this expression clearly, on a straight line, between two points and
+however close they may be, I can insert a point; it comes out straight. Between two points
+on a straight line, however close they might be, I can always insert an infinite number of
+points. Since I can insert one of them, but between the one I inserted and the original
+point, I can insert another, to infinity. So, between two points on a straight line, I can
+insert an infinite number of points. This comes down to saying that the series of points,
+on a straight line, is compact, as we say, and convergent, compact because I can always
+insert an infinite number of points between two points, convergent because the distances
+between the two points fall below any length, however small it might be. So I would say
+that the series of points on a straight line is compact and convergent. [Pause]
+
+Problem: is this an adequate definition of the continuous? [Pause] I am moving ahead.
+Between two points, however close they may be, I can always insert a third point, an
+intermediary point, to infinity. Why? As pure possibility because this point that I inserted
+between two points, can I consider it as the center of an inflection, as a point of
+inflection, the inflection going from A to B? The point C, intermediary between A and B,
+would be the center of an inflection, going from A to B. Eh? [Pause] At the point I’ve
+reached here, I am blocked. I say, yes, it’s possible, but it’s not necessary. You
+immediately understand my problem? Is there something that forces me to introduce
+inflections? Certainly, I can introduce it there by saying, [given] every point inserted
+between two points, [and] there is no point on the straight line that cannot be considered
+to be inserted between two point – every point on the straight line is a point of inflection.
+So the inflection… [Pause] From point A to point B, and the inserted point being [point]
+C, the center of an inflection, such that, at the extreme, I would compose my straight line
+
+                                                                                           19
+
+from an infinity of inflections. But there is no necessity. I can always say this as one says
+something else; it’s what we call an arbitrary hypothesis.
+
+I return to my straight line as a convergent and compact series of points. I can make it
+correspond to the series of so-called rational numbers, that is, whole numbers and
+fractional numbers. The series of rational numbers is itself compact and convergent.
+Henceforth, I can express any number in the form of an infinite series. [Pause] Example:
+I take a segment of a straight line equal to 2, that is, divided by 2…. Where’s my [chalk]?
+Ah! [Deleuze gets up] Oh là là là là là là. [He goes to the board and begins writing]
+There. [Pause] So, I’m calling each of these: A-C equals 1, C-D equals 1, and A-B equals
+2. Is this ok? [Laughter] I divide C-D, [and] I can still insert a point; I divide C-D into 2;
+I divide B-D into to; I divide A-B into 2; etc. etc. [He sits back down] I now have an
+infinite series, apparently. This infinite series, I would say, 2 equaling 1, plus ½, plus ¼ ,
+plus 1/8, to infinity. Are you following me? Certain commentators, whose names I won’t
+say since… They consider that this is an example of infinite series corresponding to
+Leibniz. I say that this is an absolute misstatement. Why? Because it’s not necessary; I
+am not forced to express 2 in this form of infinite series. I can always do it if that amuses
+me or if I have other reasons, but I have no reason for doing so at the moment. I can
+equally express 2 in the form of 2 equals 1 plus 1 plus 0 plus 0 plus 0, to infinity, which
+would be a series called periodic starting from its third term. So, there is no necessity for
+expressing 2 in the form of an infinite series.
+
+An irreducible fraction: can I … I can express it in the form of an infinite suite since, in
+fact, for example, for 7/3 (seven divided by three), I would have 2.333333 to infinity. I
+can… Is this necessary? No, since 7/3 means a relation such that the same unit is
+encompassed seven times in a dimension (grandeur) A and three times in a dimension B.
+That the fraction might be irreducible changes nothing in the matter; there is what is
+known as… Between two dimensions, between two lengths, 7 and 3, there is an adequate
+common part (partie adéquate commune), that is, there is a part that is common to two
+dimensions, a part that in one case is encompassed seven times, and in the other case is
+encompassed three times. Ok? There is an adequate common part.
+
+So, you can always express your irreducible fractional number in the form of an infinite
+series. You can do so; you don’t have to do so. It’s not necessary. This is what you have
+to understand because when, in while yet, we directly consider problems of the infinite in
+Leibniz, we will bump back into all of… a very important point for the history of
+philosophy and of mathematics combined, and that still has not changed. Here to come
+back to my earlier comment: as concerns the problem of the infinite, mathematicians
+necessarily find themselves in the situation of doing philosophy, whether they want to or
+not. Well – what did I want to say? – When we are confronted with this problem of the
+infinite, we will see a thesis through which Hegel, in his Logics, was violently opposed to
+Leibniz, and says: the series is a false infinite; the form of the series is not adequate for
+the infinite; it indicates a false infinite. Fine. Must we think that Leibniz wasn’t aware of
+this? Quite often, we realize that philosophers have so fully foreseen objections that will
+be made to them later, right, that it becomes quite discouraging for those who like to
+make objections, simply if one reads them. So it’s not against Hegel because yet again,
+
+                                                                                               20
+
+Hegel, he didn’t care; he gave his reasons for thinking that …, [Deleuze does not
+complete the sentence] but some reasons interior to his system. So it’s not about Leibniz
+that he is talking; it’s about Hegel through the objections of one philosopher or another.
+He is just clarifying these things, that’s all.
+
+But never did Leibniz consider that sequences of the kind 1 plus ½ plus ¼ plus 1/8 etc.
+really constituted an infinite series. For we can develop 2 in this way: I can develop two
+in this form, a pseudo-infinite form. But it’s not necessary. It’s not indispensable. I can
+just as well say and demonstrate that 2 equals 1 plus 1 since Leibniz demonstrated it in a
+completely, a very lengthy manner; it’s a very difficult and very interesting
+demonstration. You understand?
+
+So here’s where we are. I mean, sense that we are uniquely here: the straight line
+furnishes me with compact and convergent series, nonetheless assimilable to the compact
+and convergent series of rational numbers, that is, whole numbers and fractions.
+However, it does not provide the occasion for necessarily thinking of the infinite series.
+[Pause] We could just as well say, yes, fine, an indefinite sequence is sufficient. But an
+infinite series and an indefinite sequence are not the same.
+
+So there we have the first point. From this point explodes this question: can the
+continuous legitimately be presented by a straight line? Take note of this: if the
+continuous can legitimately be presented by a straight line, the expression “labyrinth of
+the continuous” would become unintelligible. We have to believe that Leibniz had
+reasons for thinking that the continuous cannot be represented by a straight line, but what
+reason could he have? [There’s] a reason already famous in the mathematics of his era,
+but a reason from which he is going to derive all its consequences, and this reveals all of
+Leibniz’s innovation: not discovering the reason but deriving from it all its consequences.
+What is it? It’s that although the straight line presents itself as a compact and convergent
+series of all rational numbers, this straight line is full of holes – there’s the painful
+revelation – and holes that cannot be seen, but that can easily be demonstrated. [Pause]
+Let’s do so: we have to do so, otherwise… I’d like to avoid it… Let’s prove this.
+[Deleuze goes to the board] Let’s consider a segment of a straight line that we assume is
+equal to 1, the unit – it matters little if I consider it as small n or the unit, since it changes
+nothing in the reasoning – I take my segment [He writes on the board] that [Pause] I
+consider -- the segment, being any segment of a straight line – as a compact and
+convergent series of whole and fractional numbers, since I can insert between each point
+on the straight line, etc. Fine, I am saying [that] this segment seems continuous, and yet it
+is full of holes. The reason is, and nothing opposes this, that it’s possible for me to
+construct – the drawing is not very pretty… oo là là [Laughter] … This isn’t so bad? –
+You see, I am constructing an isosceles triangle, that is, A-C equals C-B, rectangle, an
+isosceles right triangle. You see.
+
+It’s nearly done, but we still have the hardest part. You know that there is a famous
+theorem [Deleuze writes on the board; he refers to the Pythagorean theorem] that is A-B
+squared, the square of the hypotenuse, is equal to the square of the two other sides, that
+is, A-B squared equals A-C squared plus C-B squared. As C-B equals A-C, I am saying
+
+                                                                                              21
+
+that A-B squared equals 2-AC-2. Ok? That’s all, that’s all, I swear. [Laughter] A-B
+squared equals 2-AC-2 equals 1. Yes? One final effort. You take a compass; you put the
+point on A, and you trace a radius for A-C [Deleuze writes on the board] This circle is
+going to cut A-B at a point D. A-C equals A-D, eh? Because these are two radii of the
+circle. So, according to the famous theorem, A-B2 equals 2-AC2 equals 2-AD2 equals,
+by hypothesis, 1, and that A-O squared equals 1. Ok? Your suffering has come to an end?
+If 2-AD2 equals 1, A-D2 equals one half; if A-D2 equals one half, A-D equals the root of
+one half. This point is on the line A-B, and you already know the conclusion, the terrible
+conclusion: There is no whole number, nor any fractional number, whose square would
+be equal to one half. There is no whole number, nor any fractional number, whose square
+would be equal to one hal, which can be proven besides. We are proving that if there
+were such a whole or fractional number, it would have to be both even and odd.
+
+What does this mean? You recognized it, however little you may recall this. It’s what is
+called an irrational number, the root of 2, the root of one half, etc. What does irrational
+number mean? We especially must not confuse this with an irreducible fraction. This is
+where I am taking a giant step. 7 divided by 3: when you say seven thirds, as we say, that
+just doesn’t seem right. It goes to infinity, but as is said, it’s the false infinite. Why?
+Because there is the adequate common part; there is a length that presents seven units and
+a length that presents three units, whereas between the hypotenuse [Deleuze writes on the
+board] A-B and the side of the triangle A-C, there is no adequate common part. That is,
+you will find no subdivision of A-C that is contained a number of times in A-C and a
+number of times in A-B. There is no adequate common part that would allow you to offer
+a fraction of the 7/3 type, and with all the more reason of the 6/3 type, which is reducible
+to a whole number. There is no whole number or fractional number in A-D square that is
+equal to one half.
+
+Fine. You have here an irrational number that belongs neither to whole numbers, nor to
+fractional numbers. In other words, it’s indeed a point. I can show it now thanks to the
+demonstration. Thanks to the preceding demonstration, I can show it on A. And, when I
+have defined my straight line through the compact and convergent series of whole and
+fractional numbers, that is, rational numbers, I believe myself to have reached the
+continuous or the power of the continuous, and in fact, I found myself faced with a
+structure full of wholes. Why full? Well, understand, earlier, I stated Leibniz’s
+exclamatory expression, everything is not living, but there is life everywhere. I can revive
+the expression and say – and this delights me and renders me joyful, at first glance it’s
+not clear why, but… even I don’t see why, [Laughter] but it puts me into a state of
+absolute satisfaction – we must say, an exclamatory expression: every number is not
+irrational, but there are irrational numbers everywhere. And here, I believe myself to be
+absolutely faithful to Leibniz’s thought. Just as the pond isn’t fish, but is full of fish, so to
+the series of whole and fractional numbers, and obviously not irrational numbers, there
+are irrational numbers everywhere in this series. Why are they everywhere? [Deleuze
+goes to the board] It’s because however close are the two points you locate on a straight
+line, you can always construct your isosceles right triangle and discover between them,
+however small might be the portion of the straight line, a point that is not encompassed in
+
+                                                                                           22
+
+the series of corresponding whole or fractional numbers. You understand? If you
+understand, then that’s marvelous.
+
+You see where I want to go. Only the irrational number – and here, I believe it correct as
+well, because as I am saying that it’s satisfying for the mind, that it gives me satisfaction,
+but furthermore it has to be true – only the irrational number founds the necessity of an
+infinite series. [Pause] The other numbers can always be – they can – that is, they refer to
+a simple possibility of an infinite series, but they can be developed differently. The
+infinite does not impose itself on the series. Ah, but when the irrational number take the
+stage, well then, yes, the irrational number cannot be developed otherwise than by an
+infinite series. It is the source (fontaine) of infinite series. We must call the irrational
+number the source of the infinite series, and this is indeed what Leibniz did. Still we have
+to find an infinite series for each rational number received or located into an example.
+
+And, in a tiny text in his mathematical works, a very beautiful little text, you find
+Leibniz’s demonstration. You know that pi is an irrational number. Find the infinite
+series of pi. Is it 3.1416, etc.? No, that’s not a series ; there is no law of the series.
+Leibniz’s genius is to have demonstrated that pi over 4 equals 1 minus 1/3 plus 1/5 minus
+1/7 plus 1/9, to infinity, which is called an alternate infinite series, in which we alternate
+additions and subtractions. 1 minus 1/3 plus 1/5 minus 1/7 plus 1/9, it was necessary to
+wait long after Leibniz for the rigorous proof that pi over 4 was itself an irrational
+number, but Leibniz suspected as much.
+
+So there you have my entire thematic. I’m saying that infinite series can be said exactly
+to exist only when the development cannot occur in another form. [Pause] Henceforth,
+the only irrational numbers are in this case. They are what imposes the infinite series
+since they cannot be developed otherwise. Contrary to a number of the type 2, that can be
+developed in the form of a pseudo-infinite series (2 equals 1 plus 1), it’s when I have no
+choice, when the infinite series can exist only when the infinite series is necessarily
+established. And this case is satisfied when the limit is a rational number.
+
+Good, so then we have everything we wanted. Why? How has the irrational number been
+introduced onto the straight line? I hold everything here. If you have understood, you
+have grasped me completely. The dizziness of infinite mathematics opens before you
+because, listen well, how have you caused your hole to appear on the straight line which
+nonetheless is compact and seemed so full? You caused it to appear only by introducing
+curvature, that is, by having an arc of a circle cut through the line. [Pause] Otherwise,
+you could never have been able to show the holes in the appearance of the rectilinear
+continuity. [Pause] So it’s therefore necessarily the element of curvature that introduces
+infinite series. Eh? It enters into an infinite series since, however small might be the
+section considered [Deleuze goes to the board] – I come back to my little figure; those in
+the back don’t see it, it’s so small, you see? -- however small might be the section
+considered, and even smaller than this one, and even smaller than this one, etc., I could
+still construct a triangle, eh, whatsit, an isosceles right triangle [Students help him with
+the term] through which or starting from which I will trace a circle, which is a manner of
+rounding off the angle. And it’s by rounding off the angle in the construction triangle that
+
+                                                                                          23
+
+I unveil the invisible stroke in my segment, and I can say that it’s the curvature that
+introduces the infinite series and that establishes its necessity. Henceforth, I would say,
+there you have why the continuous is not a straight line, but a labyrinth. An infinite series
+of inflection, an infinite series of curvature, an infinite series of folds, such is the
+irrational number. I go from the fold to the infinite series. Eh? [Pause]
+
+Henceforth, I would say, in what sense can we speak of Baroque mathematics? I would
+say that Baroque mathematics… that we can call Baroque mathematics to be mathematics
+that are distinguished from classical arithmetic, which is an arithmetic of the rational
+number, and from classical geometry which is a geometry of the straight line and
+indirectly of the curve. Founded by Huygens to the extent that he introduced the study of
+curvatures, we will call Baroque mathematics to be mathematics defined by and as an
+arithmetic of the irrational number and as a geometry of inflections. In this sense and
+under these conditions, the word Baroque can be applied to mathematics, and we will
+conclude that yes, however little we have said about it, Leibniz’s mathematics are
+Baroque mathematics and, through this, they oppose Descartes’s mathematics. For when
+Leibniz himself tries to distinguish his conception of mathematics from Descartes’s, he
+says this:… [2:19:20]
+
+[There is a change of tape recorder, with lowered audio quality, but also a jump
+backward on the tape, i.e. a repetition of the preceding 2 1/2 minutes. The tape picks up
+here, at 2:21:33]
+
+Part 4
+… Descartes only considers algebraic equations and left aside equations of another nature
+known as transcendent, assigning them to the simple domain of the mechanical. And
+what are transcendent equations? Leibniz, on the other hand, declares that the
+mathematics he is creating must directly treat the transcendents. And, what is a
+transcendent equation such as it was defined by mathematicians of this era? The
+transcendent equation is the equation that corresponds to a curve engendered by two
+independent movements the relation of which cannot be exactly measured, that is, that
+cannot be measured either by a whole number or by a fractional number.
+
+You see? The continuous is not rectilinear. The continuous is a labyrinth because only the
+fold or the inflection takes account of the necessity of infinite series. If I define the
+continuous in a rectilinear manner, this would be a continuous still full of holes. I cannot
+define the continuous on the level of the straight line. [This is] another way of showing
+that it’s a means of rounding of angles, a theme ever-present in the entire Baroque. Just as
+I created the connection with [René] Thom, I remind you that in modern mathematics, a
+theme has met with great attention, a topic from a mathematician, a very interesting
+author named [Benoit] Mandelbrot, [Deleuze spells out the name] concerning what he
+calls fractal objects, fractal objects. Here I’m going very, very quickly; I am giving you a
+grotesque presentation of this, given how rudimentary this has been. You’ll see what its
+link is to what we were just discussing.
+
+                                                                                           24
+
+Having drawn a segment – I’ve lost my chalk; ah, here it is. [Deleuze goes to the board]
+[Pause] You will see how beautiful this is. – I take a segment. It’s not wavy like that one.
+It’s straight. [Here, given the change of recorder, part of this development at the board is
+inaudible] I take a segment, and I divide into… like that, I divide it into three. This
+assumes [inaudible words] … I construct a trilateral triangle. Ok? There, I have my first
+straight line. I took the central segment, and I constructed my trilateral triangle. And here,
+I’ll do the same thing, and here as well. I’ll divide this into three, and I construct the
+trilateral triangle. [Pause] Here, I’ll do the same thing, here the same thing, here the same
+thing. [Laughter] At the extreme, what do I have? At the extreme, as Mandelbrot shows
+this so well, I have a very special kind of curve in which all the angles are erased. I have
+an infinitely open curve, that is, that fills up the entire plane. As Mandelbrot said, it’s
+exactly the operation that occurs on a map when you increase the scale. If you extend the
+scale toward the scale named real, well then, each time you are going to construct onto a
+cape a cape, and on the cape, another cape, etc., to infinity. At the extreme, you will have
+an open curve that occupies the entire plane. Insofar as it’s an open curve, it has no
+surface and yet it occupies the entire plane. As Mandelbrot said, it’s very strange; it has
+dimensions at the intermediary of 1 and 2. In fact, in mathematics, calculations are
+logarithms, for logarithms, for those of you who know what these are, logarithms are
+connected to operations through which angles are rounded, and logarithms are very
+important in the mathematics of the seventeenth century, in all of Baroque mathematics.
+Logarithms must be linked to infinite series first of all. At the extreme, there is this curve
+that Mandelbrot discusses, a curve with the dimension logarithm 4 over logarithm 3;
+appreciate that logarithm 4 over logarithm 3 is an irrational number. Or rather, we have
+no basis for admiring this since there is an infinite series and there are irrational numbers
+at the limit of the infinite series.
+
+I can do the opposite, and instead of adding capes infinitely to the figure – this is what
+Mandelbrot says cleverly, noting that: How does one measure the coasts? How does one
+measure a country’s coasts? Well, you take a scale that allows you to define the capes
+and bays, and if you change the scale, you will perpetually have other capes on your cap
+or other bays in your bay. You can just as well subtract bays as add capes. You will arrive
+at the same coast, with the dimension 1.2, neither in the dimension 1, nor in the
+dimension 2, but it will be intermediary between a line and a surface. These are great, yet
+beautiful mysteries. At the extreme, you have this curve; it no longer has any tangents. As
+Mandelbrot says, it’s the infinitely cavernous body, or the infinitely spongy body. Hey!
+The infinitely elastic body, that suits us quite well.
+
+So we rediscover [this], and it’s about this that I would like you to reflect between now
+and the next class. What I believe to have done, I hope… I know that this has been
+difficult, and you have endured this very well. But that’s it now. This will be… We have
+finished with math, I dare say. What I want you to retain is the purely logical linkages:
+How did we go from the fold to the infinite series? That is, why can’t the continuous be
+rectilinear, but necessarily a labyrinth? Answer: the rectilinear continuous is only an
+apparition full of holes, these holes being marked by irrational numbers which
+themselves imply curvatures, elements of curvatures, such that they are the source of
+
+                                                                                            25
+
+infinite series. [Pause] What we have shown, if you will, is that we had to go from the
+fold as inflection to the infinite series through the intermediary of the irrational number.
+
+What’s left for us to do in order to complete this first floor, the upper floor? The second
+part of what I would like to demonstrate is that this time, it is not enough to go from the
+fold as inflection of the infinite series. We have to go from the infinite series to inclusion,
+which is quite a simple idea, to wit: folding, folding, it’s quite lovely. We fold, we fold to
+infinity. That’s what we have just shown: if you fold, you fold to infinity. Thus, the fold
+is the expression of the infinite. So, this is what you must dream about: the fold is
+infinite. The fold is the form of the infinite. [Pause]
+
+Fine, the fold is the form of the infinite, but why do we fold? Here I would like to say the
+most banal thing in the world, and it’s really great. One cannot do philosophy without
+going astray (fauter), and then I don’t know how to say it, from the greatest paradox to
+the most enormous banality, and it’s by seeking support from an enormous banality that
+we can again move back to something astonishing. At this point, we are strong in
+speaking to others, that is, to non-philosophers. What would you have us do? If you lean
+toward this banality, you have to go all the way, that is, all the way to the other side of
+the banality which is a nonsensical paradox. So, we discover the enormous banality
+immediately: what is the use of folding? Why do we fold? So this seems obvious to me,
+and this is a spatial intuition worrying Leibniz. He cannot do away with it: when you fold
+something, it’s to place it inside. You fold a piece of paper to put it inside an envelope.
+Folding is for putting inside, and this is the only way to put it inside. In other words, we
+go from the fold to inclusion. Inclusion is the final cause of the fold. I fold to place
+within. I want to make a package, so I fold. I fold the newspaper to put it in my pocket. I
+fold my handkerchief; it’s no stronger than that. The fold goes beyond itself toward
+inclusion, you see? So the two operations are: from the fold to the infinite series, from the
+infinite series to inclusion.
+
+If the continuous is a labyrinth, in the end it’s because it is inside. It’s inside what? It’s
+inside the soul such that, I would say, we pass continually from the labyrinth of the
+continuous to the labyrinth of freedom. The labyrinth of the continuous is: the continuous
+is not rectilinear; it implies the infinite series of inflections or the infinite series of the
+fold. The labyrinth of freedom is: what is the use of folding? It’s for placing with the soul
+so that each soul has within it an infinity of folds that it cannot unfold all at once. And
+what does it mean to be a soul? O how this becomes so twisted, how twisted this is. It
+means having twenty-two, forty, two thousand, an infinity of folds. And the pleats of
+matters are there only because they find their reason most profoundly in the final
+inclusions of the folds in the soul. Orthodoxy was greatly suspicious of Leibniz. This soul
+full of folds indeed appeared suspect, especially when we see what Leibniz will derive
+from his soul full of folds, and you see that he found that Descartes’s soul was truly too
+rectilinear. [Pause]
+
+Fine, I am launching a great appeal. I would really like that for the next time, which will
+be in a little while now since next Tuesday is the 11 November, so we have to… That
+comes at a good moment because you will need all that time to reflect. I would truly like
+
+                                                                                                          26
+
+for you to review all this because I am ready to start over, I don’t care, if it’s not entirely
+clear, because I would like… What I did here is the tale of the fold-infinite seriesirrational [number]; how these three notions are connected, and how from this we
+conclude that the continuous cannot be rectilinear, but is indeed a labyrinth. If you
+haven’t understood this, we will start over… Yes?
+
+A student: [Inaudible question]
+
+Deleuze: At the same level; I am saying that on this point, Leibniz can create a very
+original conception of the pleating onto oneself by virtue of all this. If you will, he is
+going to complicate all the ready-made expressions and understand them in a completely
+new direction, in Leibniz’s thought. [End of the recording] [2:39:02]
+
+Notes
+
+  In an essay from the late 1960s (but not published until 1972, Deleuze used the same construction, “A
+quoi reconnaît-on le structuralisme?” in L’Ile Déserte et autres textes (Minuit 2002); “How Do We
+Recognize Structuralism?” in Desert Islands and Other Texts (Semiotext(e) 2004).
+  In fact, this reference does not appear in the October 28 session.
+  This drawing is labeled “The Baroque House (an allegory)” in The Fold, p. 5; Le Pli, p. 7. See the
+drawing reproduced at the top of this translation.
+  On the importance of the labyrinth, cf. The Fold, p. 3; Le Pli, p. 5.
+  In Renaissance et la Baroque.
+  See this expression and the corresponding development in The Fold, p. 9; Le Pli, p.14]
+  Deleuze suggests in The Fold, “the primary reason for an upper floor is the following: there are souls on
+the lower floor, some of whom are chosen to become reasonable, thus to change their levels”, p. 12.
+  See The Fold, p. 10; Le Pli, pp. 15-16.
+  Deleuze pages through a Mallarmé text, from the “Divigations” collection, from the text “L’action
+restreinte”.
+   "Limited Action," Mary Ann Caws translation, 1982; in the French transcript, Deleuze omits “—and to
+present”.
+   On transformations according to Cache, cf. The Fold, pp. 15-17; Le Pli, pp. 21-23]
+   On transformations according to Thom, cf. The Fold, pp. 16-17; Le Pli, pp. 22-23.
+   On the objectile as term, borrowed from Bernard Cache, cf. The Fold, pp. 19-20; Le Pli, pp. 26-27.

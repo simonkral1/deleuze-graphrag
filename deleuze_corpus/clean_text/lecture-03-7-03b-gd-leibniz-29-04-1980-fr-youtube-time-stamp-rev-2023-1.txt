@@ -1,0 +1,1385 @@
+1
+
+Gilles Deleuze
+
+Leibniz : La Philosophie et la Création des Concepts, 1980
+
+3ième séance, 29 avril 1980
+
+Transcription originale et augmentée, à partir du vidéo YouTube,1 par Charles J. Stivale
+
+Partie 1
+
+Aujourd'hui, alors, nous avons à faire des choses à voir, à la fois amusantes, récréatives, mais
+aussi très délicates, tout à fait délicates. Donc il me faut toute votre attention pendant un certain
+temps. D’abord, on vient de me dire que l’un d’entre vous souhaitait poser une question sur
+quelque chose. C’est quoi, la petite question ?
+
+Un étudiant : La question, c’est lorsque l’on a connu, à la fin du 19ème siècle, on connaît le
+calcul infinitésimal en France et en Europe d’une manière générale, on a élevé un certain nombre
+d’objections qui portaient sur ceci, que certes ce calcul permettait de résoudre d’une manière
+plus simple à un certain nombre de problèmes de géométrie, par exemple, trouver la tangente à
+certaines courbes, [1:00] le parabole, par exemple, mais que ce calcul était très louche parce qu’il
+faisait un certain [mot inaudible] et quantité, il n’avait pas d’existence géométrique et n’avait
+qu’une existence virtuelle. A quoi les partisans du calcul infinitésimal, les partisans de Leibniz,
+les gens comme [deux noms indistincts] répondent que ce qui importe, ce n’était pas la quantité
+dx qui était effectivement une quantité évanouissante par rapport à x, ou dy par rapport à y, mais
+que ce qui importait, c’était le rapport dy sur dx. Alors, la question que je voudrais poser, c’est :
+est-ce que vous voyez un rapport entre cette manière de considérer un rapport qui porte sur des
+variables non-qualifiées, des variables abstraites ? Est-ce que vous avez dit il y a trois mois sur
+l’axiomatisation et le calcul différentiel comme reposant sur une fonction, c’est-à-dire une
+relation fonctionnelle qui porte également non pas sur des variables, mais sur des rapports entre
+variables qui dans ces rapports ne sont pas qualifiées [mots indistincts]. Est-ce que [2 :00] c’est
+clair ?
+
+Deleuze : Très claire, la question est très claire, [Pause]
+
+L’étudiant : Si vous voulez, j’ai la réponse.
+
+Deleuze : Ah bon ! [Gros rires] Ah, bon ! Ah, bon ! Eh ben, si tu répondais d’abord. [Pause] Je
+sens que ça ne va pas être la même. On pourrait répondre en même temps, chacun une phrase,
+comme tu veux, comme tu veux. [Pause] Alors, tu réponds, pour qu’on ne puisse pas dire que ta
+réponse n’était pas juste. Alors, tu réponds.
+
+L’étudiant : La réponse, c’est que, moi je dirais que, dans une certaine mesure, oui, mais
+qu’intervient avec ce que vous avez appelé axiomatique [mots indistincts], intervient quelque
+chose qui n’intervient pas encore dans le calcul infinitésimal [mots indistincts] et qui sera
+identification ou fusion de deux choses, la condition [3 :00] et la fonction, et qui s’opèrent à la
+fin du 18ème siècle de manière indépendante, que chez plusieurs auteurs [mots indistincts], chez
+
+                                                                                                         2
+
+deux auteurs, [mots indistincts], le statut de la fonction comme condition chez Kant, quoi qu’il
+dit qu’il y a autant de catégories qu’il y a de jugements dans l’entendement, et d’autre part, chez
+Cuvier, la conception de la fonction ou l’ensemble des [mots indistincts] comme condition
+d’existence d’un élément. C’est-à-dire, contrairement à ce qu’on raconte, Cuvier n’a jamais cru
+que, n’a jamais dit qu’il y a quatre plans dans [mots indistincts] ; il a toujours dit qu’il y a un plan
+abstrait, cette diversité entre quatre modes [mots indistincts], et ce plan abstrait, ça se dit de la
+fonction, contrairement d’un autre plan qui était [mots indistincts] à la même époque par d’autres
+[mots indistincts]. [4 :00] Moi, je dis qu’il manque quelque chose au calcul infinitésimal pour
+que ça soit vraiment un axiomatique fonctionnel, pour que ça porte vraiment sur variables [mots
+indistincts], sur des rapports entre variables, le quelque chose qui manque, c’est la fusion de
+[éternuement bruyant] comme dans la philosophie transcendantale, la fonction comme unité
+[mots indistincts], sur la condition de l’expérience. Pour que cette expérience est possible, pour
+que cette expérience soit possible, il faut admettre qu’il y a cet aspect transcendantal qui est
+défini par [mots indistincts] et par une table des fonctions. [Pause] Est-ce que c’est clair ?
+
+Deleuze : Très claire, très claire, très claire. Mais ta réponse me paraît plus large que la question,
+parce que ta réponse consiste à faire un concept très complexe ou très mélangé [5 :00] de
+fonctions. Sur le concept des fonctions lui-même, il est très difficile puisque tu as dans ta réponse
+à la fois une fonction logique du jugement à la manière de Kant, une certaine conception
+biologique de la fonction à la manière de Cuvier et des naturalistes, et tu sous-entends la fonction
+mathématique. Alors ça fait un drôle de concept.
+
+L’étudiant : [Réponse inaudible en gros, 5 :25-5 :55]
+
+Deleuze : Pourquoi pas ? Pourquoi pas ? [Deleuze dit cela d’une manière peu convaincue]…
+
+L’étudiant : [Quelques mots inaudibles]
+
+Deleuze : Quant à la question même, je dirais ceci… [Pause] Tu comprends… il me semble
+qu'on ne peut pas dire, à la fin du 17ème [6 :00] siècle et au 18ème siècle il y a des gens pour qui
+le calcul différentiel est un artifice et des gens pour qui le calcul différentiel représente, au sens
+quelconque de représenter, quelque chose de réel. On ne peut pas dire ça parce que la coupure, il
+me semble, n'est pas là. Elle n’est pas là ; je prends un exemple simple, quelqu’un qui croit que,
+en laissant dans le vague tout à fait, quelqu’un qui croit vraiment au calcul différentiel comme
+Leibniz. Leibniz n'a jamais cessé de dire que le calcul différentiel est un pur artifice, c'est un
+système symbolique. Donc sur ce point tout le monde est strictement d'accord. Là où commence
+le désaccord, c'est dans la compréhension de ce qu'est un système symbolique, [7 :00] mais quant
+à l'irréductibilité – ça, j’ai essayé de le dire la dernière fois -- quant à l'irréductibilité des signes
+différentiels à toute réalité mathématique, c'est-à-dire à la réalité géométrique, arithmétique et
+algébrique, tout le monde est d'accord.
+
+Là où se fait une différence c'est lorsque les uns pensent que, dès lors, le calcul différentiel n'est
+qu'une convention, et une convention très louche, et ceux qui pensent que, au contraire, son
+caractère artificiel par rapport à la réalité mathématique lui permet d'être adéquat à certains
+aspects de la réalité physique. D’accord ?
+
+                                                                                                          3
+
+L’étudiant : Ça, c’est très lourd de conséquence parce que, alors là… [les propos sont parfois
+difficiles à citer de manière juste ; en gros, l’étudiant indique la perspective de Leibniz a
+finalement bloqué pendant deux siècles la possibilité de penser le concept d’infini de manière
+plus ouverte que selon le calcul infinitésimal. L’étudiant cite quelques exemples et modèles d’une
+perspective plus actuelle en mathématiques.] [7 :45-9 :42]
+
+Deleuze : On peut imaginer ce que Leibniz dirait s’il entendait ça, parce que jamais Leibniz – je
+fais aussi cette précision qui paraît un pur fait – jamais Leibniz n'a pensé que son analyse
+infinitésimale, son calcul différentiel, à lui, tels qu'il les concevait, suffisaient à épuiser [10 :00]
+le domaine de l'infini tel que lui, Leibniz, le concevait. Par exemple, même au niveau du calcul,
+il y a ce que Leibniz appelle – on en parlera un peu aujourd’hui -- le calcul du minimum et du
+maximum qui n'est pas du tout une dépendance du calcul différentiel. Donc le calcul différentiel
+chez Leibniz correspond à certains ordres d'infini. Quand tu réclames un infini qualitatif ou la
+possibilité d’un infini qualitatif en disant que Leibniz a fermé la porte à une telle analyse, ça me
+paraît tout à fait inexact, ça, car s’il est vrai qu'un infini qualitatif ne peut pas être saisi, en effet,
+par le calcul différentiel, en revanche, Leibniz est tellement conscient de ça qu'il instaure d'autres
+modes de calcul relatifs à d'autres ordres d'infini. Et seconde remarque qui me semble purement
+de fait, ce qui a liquidé cette direction [11 :00] de l'infini qualitatif, ou même de l'infini actuel
+tout court, ce n'est pas Leibniz qui l'a bouché. D’après les exemples même que tu cites, la « lettre
+à Meyer » [de Spinoza], l’histoire du cône et du cercle, l’histoire de tout ce qu’on peut appeler
+l’histoire du minimum et du maximum, dans toute cette histoire, ce qui a bouché cette voie,
+c’est… au profit et davantage, c'est la révolution kantienne; c'est la révolution kantienne qui a
+imposé une certaine conception de l'indéfini et qui a mené la critique la plus absolue de l'infini
+actuel. Ça c'est la faute de Kant, ce que tu dis ; c’est n’est pas du tout la faute de Leibniz.
+
+L’étudiant : [Inaudible]
+
+Deleuze : … pour la raison qu’on vient de dire, le caractère diabolique du calcul différentiel.
+Comment est-ce qu’un artifice, comment est-ce qu’une convention peut être en même temps ce
+qui va [12 :00] nous permettre de pénétrer les secrets de la nature elle-même ?
+
+L’étudiant : [Inaudible]
+
+Deleuze : Évidemment, non ! Évidemment, non !
+
+L’étudiant : [Inaudible]
+
+Deleuze : Tu comprends, il faut, il me semble, pour comprendre ces problèmes, une fois de plus,
+ce n’est pas que je me sens tant en désaccord avec ce que tu dis, c’est que ça prend tout de suite
+une dimension très, comment dire, abstraite ce que tu dis. Il me semble que c’est juste, pas faux,
+là, ce que tu viens de dire. Mais, on ne peut pas le comprendre si on ne voit pas en même temps
+[13 :00] quel problème pratique ça sous-tend. Alors, quand tu poses la question, « qu’est-ce que
+[Girard] Desargues aurait dit ? », un mathématicien-géomètre qui a précédé donc Leibniz, et qui
+précède la découverte du calcul différentiel, qu’est-ce que Desargues aurait dit ? D’abord, le
+calcul différentiel.
+
+                                                                                                       4
+
+Et historiquement, j’attends ce genre de question parce qu’il n’y a pas le moment où il n’y a pas
+de calcul différentiel et le moment où il y en a un. Quand il n’y a pas…
+
+L’étudiant : [Il interrompt Deleuze ; inaudible]
+
+Deleuze : Quand il n’y a pas le calcul différentiel, ils ont un calcul qui sert la même chose, qui
+n’a pas la perfection symbolique, et qui existe depuis les Grecs.
+
+L’étudiant : [Il continue à faire des remarques en interrompant Deleuze ; Deleuze lui répond à
+voix très basse, mais l’étudiant continue] … a trouvé la tangente de la parabole selon la méthode
+leibnizienne, mais je suis persuadé que Desargues, Pascal ou [Philippe de] Lahire aurait eu la
+possibilité [14 :00] de résoudre le même problème suivant la méthode grecque en décrivant des
+rapports… [Inaudible]
+
+Deleuze : Non. [Pause] Non. [Pause] Non. Non, non, non. [L’étudiant continue, mais Deleuze
+l’interrompt] Avec quelle méthode ? Ecoute, tu es en train de dire n’importe quoi. C’est très
+simple, les problèmes de géométrie. Vous avez deux types de problème, enfin, à cette époque,
+qu’ils soient au Moyen Age, qu’ils soient chez les Grecs. Il y a deux types de problèmes, les
+problèmes où il est question de trouver des lignes dites droites et des surfaces dites rectilignes.
+La géométrie et l'algèbre classiques suffisent. Vous avez des problèmes, et vous obtenez les
+équations nécessaires; c'est ce qu’on appelle, Leibniz en parle, c’est la géométrie, si vous voulez,
+d'Euclide. Euclide, Apolonius, toute une direction [15 :00] de la géométrie. La géométrie n’a pas
+cessé de se trouver, déjà chez les Grecs, puis au Moyen-Age aussi parce que ça se complique de
+plus en plus, devant un type de problème d'une autre nature : c'est lorsqu'il faut chercher et
+déterminer des courbes et des surfaces curvilignes. Là où tous les géomètres sont d'accord : les
+méthodes classiques de la géométrie et de l'algèbre ne suffisent plus.
+
+Les Grecs, donc, déjà qui vont traiter ces problèmes, doivent inventer une méthode spéciale ;
+c’est ce qu'on a retenu sous le nom de la méthode d'exaustion, cette méthode d’exhaustion qui
+permet de déterminer les courbes et les surfaces curvilignes en tant qu'elles donnent des
+équations de degrés variés, à la limite infinie, une infinité de degré variés dans l'équation. C'est
+ces problèmes-là qui vont rendre nécessaire et qui vont inspirer [16 :00] la découverte du calcul
+différentiel, et la manière dont le calcul différentiel prend le relais de la vieille méthode
+d'exaustion. Si vous rattachez un système mathématique, un symbolisme mathématique à, déjà,
+une théorie, si vous ne le rattachez pas au problème pour lequel il est fait, alors à ce moment-là,
+on ne peut plus rien comprendre. C’est pour ça que j’insiste énormément sur le point suivant : le
+calcul différentiel n'a de sens que si vous avez et si vous vous trouvez devant une équation dont
+les termes sont à des puissances différentes. Il n’est pas question que si vous n’aviez des
+équations dont les termes sont à des puissances différentes, de type x2y, si vous n'avez pas ça,
+non seulement c'est un non sens de parler de calcul différentiel, il n’est même pas question que
+ce symbolisme [17 :00] soit créé ; ça serait un non-sens, ça serait un pur non-sens.
+
+Or, c'est très bien de considérer la théorie qui correspond à un symbolisme, ou est impliqué par
+un symbolisme, mais vous devez aussi considérer complètement la pratique. Quelle pratique ?
+Quand tu invoques Desargues, c’est évident que Desargues, il a besoin de quoi et par rapport à
+quoi ? Il a besoin, en effet, déjà d’un symbolisme que, lui, il est forcé de créer. C’est que la
+
+                                                                                                    5
+
+méthode d’exhaustion ne lui suffit pas. C’est précisément pour des problèmes de taille de pierres,
+des problèmes de, en gros, d’arrondissement, des problèmes de voûte, comment en faire une
+voûte ? Il y a toute une pratique, là. L’analyse infinitésimal aussi, on ne peut rien comprendre si
+on ne voit pas que précisément – c’est pour ça que j’essaie d’insister énormément là-dessus --
+que toutes les équations physiques [18 :00] sont par nature des équations différentielles. Un
+phénomène physique ne peut être étudié, et là, Leibniz sera très fort, vous comprenez, parce que
+tout le thème de Leibniz, ce sera : Descartes ne disposait que de la géométrie et de l'algèbre et de
+ce que Descartes lui-même avait inventé sous le nom de géométrie analytique. Mais si loin qu'il
+ait été dans cette invention, ça lui donnait à la rigueur le moyen de saisir les figures et le
+mouvement, et encore, les figures et le mouvement sous l'espèce rectiligne.
+
+Or l'ensemble des phénomènes de la nature étant finalement des phénomènes de type curviligne,
+ça ne marche pas. Descartes en reste aux figures et au mouvement. Leibniz traduira : c'est la
+même chose de dire que la nature procède de façon curviligne, ou de dire qu'au-delà des figures
+et du mouvement, [19 :00] il y a quelque chose, à savoir le domaine des forces, et au niveau
+même des lois du mouvement, Leibniz va tout changer, grâce précisément au calcul différentiel.
+Quand il dira – on verra ça plus tard – quand il dira que ce qui se conserve ce n'est pas MV, ce
+n'est pas masse et vitesse, ce qui se conserve, c'est MV2. A ne rien comprenez que là quand on
+retrouvera ce thème, la seule différence dans la formule, c'est l'érection de v à la puissance 2,
+c'est rendu possible par le calcul différentiel parce que c'est le calcul différentiel qui permet la
+comparaison des puissances et des rejets. Donc, il ne faut même pas dire à ce moment-là,
+pourquoi Descartes n'avait pas vu que ce qui se conservait, c’était MV2 ? Pourquoi est-ce qu’il
+avait cru que c’était MV ? Descartes, évidemment, n’avait pas le moyen technique de dire MV2.
+Ce n’était pas possible. MV2, du point de vue du langage, [20 :00] et de la géométrie, et de
+l'arithmétique et de l'algèbre est un pur et simple non-sens.
+
+Alors aujourd’hui, tout change. Avec ce qu'on sait en science aujourd'hui, on peut toujours
+expliquer que ce qui se conserve, c'est MV2 sans faire aucun appel à l'analyse infinitésimale. Ça
+se fait dans les manuels de lycée, mais pour le prouver, et pour que la formule ait un sens, pour
+que la formule soit autre chose qu’un non-sens, il faut tout l'appareil du calcul différentiel. Mais,
+enfin, voilà, bon.
+
+George Comtesse : [Intervention inaudible, 20 :45-23 :20] [Au début, Deleuze lui dit : Ah, oui,
+j’ai oublié ça]
+
+Deleuze : Ecoute, pourquoi pas ? Pourquoi pas ? Mais je fais un peu la même réclamation que
+tout à l’heure. C’est que tu fais un schéma théorique très intéressant, mais à charge pour toi de
+tenir compte que c’est un fait, dans le domaine du calcul différentiel et axiomatique, le fait sur
+lequel j’aurais tendance à insister, sur un fait historique, c’est ceci : c’est que le calcul
+différentiel et l'axiomatique ont bien un point de rencontre, mais ce point de rencontre est de
+parfaite exclusion. [24 :00] Je veux dire que, historiquement, c'est très tardivement que se fait ce
+qu’on appelle, ce que certains historiens des mathématiques appellent le statut rigoureux du
+calcul différentiel. Le statut rigoureux du calcul différentiel, ça veut dire quoi ? Ça veut dire que
+tout ce qui est convention ou du moins, tout ce qui, non, mettons, gardons le mot très vague de «
+convention », est expulsé du calcul différentiel. Or, qu’est-ce qui est convention, même pour
+Leibniz, qu'est-ce qui est artifice dans le calcul différentiel ? Ce qui est artifice, c'est tout un
+
+                                                                                                       6
+
+ensemble de choses : l'idée d'un devenir, l'idée d'une limite du devenir, [25 :00] l'idée d'une
+tendance à approcher de la limite, tout ça, c'est considéré par les mathématiciens comme des
+notions absolument métaphysiques. L'idée qu'il y a un devenir quantitatif, l'idée qu’il y a une
+limite de ce devenir, l’idée qu'une infinité de petites quantités s'approchent de la limite, tout ça
+c'est considéré comme des notions absolument impures, donc comme réellement non
+axiomatiques ou non axiomatisables.
+
+Donc, dès le début, je me dis, l'idée du calcul différentiel, que ce soit chez Leibniz, que ce soit
+chez Newton et chez leurs successeurs, n'est pas séparable et pas séparée d'un ensemble de
+notions jugées non rigoureuses et non scientifiques, et eux-mêmes sont tout prêts à le
+reconnaître. Alors, qu’est-ce qui se passe ? [26 :00] Il se passe qu'à la fin du 19ème siècle et au
+début du 20ème, le calcul différentiel ou l'analyse infinitésimale est dit de recevoir un statut
+rigoureusement scientifique. À quel prix ? On en chasse toute référence à l'idée d'infini; on
+chasse toute référence à l'idée de limite ; on chasse toute référence à l'idée de tendance à la
+limite. Qui c’est qui fait ça ? C’est-à-dire on va donner une interprétation et un statut du calcul
+qui est très curieux parce qu'il cesse d'opérer avec des quantités ordinaires, et on en donne une
+interprétation purement ordinale. Dès lors, ça devient un mode d'exploration du fini, du fini
+comme tel. Toute l’interprétation du calcul est changée. C'est un très grand mathématicien qui
+fait ça : c’est [Karl] Weierstrass. Mais c'est très tardif. [27 :00] Au point que, dans une
+axiomatique alors… Lui, il fait une axiomatique du calcul, mais à quel prix ? Il le transforme
+complètement. Au point que, aujourd'hui lorsque l'on fait du calcul différentiel, il n'y a plus
+aucune référence aux notions d'infini, de limite et de tendance à s'approcher de la limite, plus
+aucune référence à ces choses-là. Il y a une interprétation statique. Il n'y a plus aucun dynamisme
+dans le calcul différentiel. C’est la grande conquête de Weierstrass, une interprétation statique et
+ordinale du calcul. Vous trouverez, pour ceux que ce point intéresserait, il y a un livre qui, à la
+fin, comporte des appendices, il y a tout un appendice à la fin de ce livre, sur la manière dont
+l’interprétation actuelle du calcul différentiel se passe de toute référence aux notions d’infini ou
+d’infiniment petit. C’est le livre de [Jules] Vuillemin [Deleuze l’épèle] Philosophie de l'algèbre
+(1962). [28 :00]
+
+Alors, là, il me semble que ce fait est très important pour nous parce que ça il doit bien nous
+montrer que les rapports différentiels… Bien plus, ça, tous les mathématiciens étaient d'accord,
+même avant l'axiomatisation, pour dire que le calcul différentiel interprété comme méthode
+d'exploration de l'infini était une convention impure. Et encore une fois, je ne cesse pas de le
+dire, Leibniz était le premier [à dire ça], mais seulement, il faut savoir quelle est alors la valeur
+symbolique. Mais, du point de vue et dans le nouveau sens que l’axiomatique donne à
+symbolique, si on expulse tout ce domaine, tout ce domaine impur, je peux dire alors vraiment,
+l’axiomatique, les relations axiomatiques et les rapports différentiels, bien non. Ils doivent
+absolument… Je me souviens d’un mathématicien du 19ième siècle, par exemple, [29 :00] qui
+dit encore, c’est une expression qui… Il dit, oui, le calcul différentiel, ça a toujours été une
+hypothèse gothique, une hypothèse gothique. Il n’y a pas de pire injure pour un mathématicien,
+une hypothèse gothique, et sur ce point, jusqu’à ce que le calcul reçoive… [Deleuze ne termine
+pas la phrase] [A la lumière d’une référence presque identique dans le séminaire sur Spinoza,
+séance 10, le 10 février 1981, on peut risquer de considérer que dans le contexte de la discussion
+dans ce paragraphe – où Deleuze parle de l’hypothèse de l’infiniment petit vis-à-vis de la
+fondation du calcul infinitésimal – Deleuze nomme en fait celui qui a donné au calcul
+
+                                                                                                        7
+
+infinitésimal son statut définitif, Karl Weierstrass. Voir aussi Deleuze, Sur Spinoza, ed. David
+Lapoujade (Paris : Minuit, 2024), p. 363]
+
+Or, en ce sens, je dis, il y a opposition. Il y a opposition entre les rapports différentiels tels qu’ils
+sont interprétés jusqu’à la fin du 19ième [siècle], et les exigences d’une axiomatique. Alors, ça
+n’empêche pas qu’en effet,… pourquoi ? Parce que l'infini a complètement changé de sens, de
+nature et finalement, il est complètement expulsé, le calcul. Alors ce que tu dis est très possible,
+mais à condition, presque, que tu arrives à montrer, il me semble, le point sur lequel porte
+l’opposition entre un ensemble de relations axiomatiques et les rapports différentiels.
+
+Alors, moi, j’ai bien, j’ai bien [30 :00] juste là une vague idée, mais enfin… Si tu veux, il me
+semble qu’un rapport différentiel du type dy sur dx est tel qu'on l'extrait de x et y. Bon. En même
+temps, dy, ce n'est rien par rapport à y, c'est une quantité infiniment petite, dx, ce n'est rien par
+rapport à x, c'est une quantité infiniment petite. En revanche, dy sur dx, c'est quelque chose, mais
+c'est quelque chose de tout à fait autre que y sur x. Par exemple, si y sur x – comme tu as très
+bien dit – si y sur x désigne une courbe, dy sur dx désigne une tangente, et encore pas n'importe
+quelle tangente. Bon.
+
+Je dirais donc que le rapport différentiel est tel qu'il ne signifie plus rien de concret, [31 :00] il ne
+signifie rien de concret par rapport à ce dont il est dérivé, c'est dire par rapport à x et à y, mais il
+signifie autre chose de concret -- et c'est par là qu'il assure le passage aux limites -- il assure autre
+chose de concret, à savoir un z.
+
+L’étudiant : [Inaudible]
+
+Deleuze : Bien sûr que non. Oh, ne complique pas les choses. Je ne dis pas que c’est forcément
+[mot indistinct]. [Pause] Comprenez ? C'est exactement comme si je disais que le calcul
+différentiel est complètement abstrait par rapport à une détermination du type a sur b, mais en
+revanche, il détermine un c. Tandis que la relation axiomatique, non. La relation axiomatique est
+complètement formelle de tous les points de vue, de tous les points de vue. Si elle est formelle
+par rapport à a et b, elle ne détermine pas un c qui lui serait concret. [32 :00] Donc elle n'assure
+pas du tout un passage. Ce serait toute l'opposition classique entre genèse et structure.
+L'axiomatique, c'est vraiment la structure commune à une pluralité de domaines, une structure
+commune à une multiplicité de domaines. Le calcul différentiel, ancienne manière… [Deleuze
+est interrompu]
+
+L’étudiant : [Inaudible ; Deleuze répond pendant qu’il parle : D’accord, d’accord]
+
+Deleuze : … un peu comme, mais la différence est plus importante que la ressemblance, il me
+semble. [Pause] Bon, allez. On y va. [Pause]
+
+Eh bien, eh bien, eh bien, la dernière fois, vous vous rappelez, peut-être on en était juste à mon
+second grand titre, et ce second grand titre portait sur : Substance, Monde, et Compossibilité. [33
+:00] Et on avait vu la première partie de ce grand titre. Et la première partie essayait de dire,
+qu’est-ce que c’est que Leibniz appelle l'analyse infinie ? Et la réponse était ceci – notre réponse,
+mais on avait cherché beaucoup – notre réponse était ceci : l'analyse infinie a trait à ceci, ou bien
+
+                                                                                                       8
+
+remplit la condition suivante, elle apparaît dans la mesure où la continuité et les petites
+différences ou différences évanouissantes se substituent à l'identité. C'est lorsque l'on procède par
+continuité et différences évanouissantes que l'analyse devient proprement analyse infinie. Donc
+on avait essayé [34 :00] d’expliquer pourquoi et je ne reviens pas dessus.
+
+Et je tombe sur le deuxième aspect de la question ; dès lors, voyez, il y aurait analyse infinie, il y
+aurait matière à analyse infinie lorsque je me trouve devant un domaine qui n'est plus
+directement régi par l'identique, par l'identité, mais un domaine qui est régi par la continuité et
+les différences évanouissantes. On arrivait à une réponse relativement claire.
+
+D'où deuxième aspect du problème : qu'est-ce que c'est que la compossibilité ? Qu'est-ce que ça
+veut dire que deux choses sont compossibles ou non compossibles ? Et là, on voit bien en quoi le
+problème est lié. Encore une fois, Leibniz nous dit que Adam non-pécheur, un Adam qui n’aurait
+pas péché, c'est possible en soi mais ce n'est pas compossible [35 :00] avec le monde existant.
+Donc il se réclame d'une relation de compossibilité qu'il invente, et vous sentez que c'est très lié
+à l'idée d’analyse infinie. Bon, mais il faudrait le montrer, il faudrait … pourquoi, où est le
+problème ? Le problème c'est que l'incompossible à première vue, ça ne peut pas être le
+contradictoire ; ce n'est pas la même chose que le contradictoire. [Pause] En effet, et pourtant, et
+pourtant c'est compliqué parce que, encore une fois, vous retenez l’exemple. Adam non-pécheur,
+c'est incompossible avec le monde existant, il aurait fallu un autre monde. Bien. Je ne vois que
+trois solutions possibles ; si on dit ça, je ne vois que trois solutions possibles pour essayer de
+caractériser la notion [36 :00] d'incompossibilité.
+
+Première solution : on dira qu'il faut bien que d'une manière ou d'une autre, l'incompossibilité
+implique une espèce de contradiction logique. A la rigueur, on me consentira que, il faut bien,
+oui, ça veut dire qu’il faut qu'il y ait contradiction finalement entre Adam non-pécheur et le
+monde existant. [Pause] Est-ce qu’on peut bien aller dans cette voie ? Oui, à première vue, on
+peut toujours me consentir ceci, on peut toujours me consentir ceci, il y aurait contradiction
+logique entre Adam non-pécheur et le monde existant, seulement cette contradiction, on ne
+pourrait la dégager qu'à l'infini; ce serait une contradiction infinie. Alors qu'il y a une
+contradiction finie entre cercle et carré, il n'y a qu'une contradiction infinie entre Adam nonpécheur et le monde. [37 :00] On peut toujours dire ça.
+
+Certains textes de Leibniz vont dans ce sens. Mais encore une fois nous savons déjà qu'il faut se
+méfier des niveaux des textes de Leibniz. En fait, tout ce qu'on a dit précédemment impliquait
+que la compossibilité et l'incompossibilité soient vraiment une relation originale irréductible à
+identité/contradiction, identité contradictoire. Bien plus, on a vu, en vertu de notre première
+partie, on a vu que l'analyse infinie, ce n'était pas une analyse qui découvrait l'identique à l'issue
+d'une série infinie de démarches. En effet, tous nos résultats de la dernière fois c'était que, loin de
+découvrir l'identique à la fin d'une série, à la fin d’une série infinie, -- déjà, ça ne veut rien dire,
+c’est un non-sens -- à la limite d'une série infinie de démarches, loin de procéder ainsi, l'analyse
+infinie [38 :00] substituait le point de vue de la continuité à celui de l'identité. Donc c'est un autre
+domaine que le domaine identité/contradiction.
+
+Une autre solution -- mais alors que je dis très rapidement parce que là aussi certains textes de
+Leibniz aussi la suggèrent -- c'est que ça dépasse notre entendement parce que notre entendement
+
+                                                                                                        9
+
+est fini, dès lors la compossibilité, cette fois-ci, serait bien une relation originale, mais on ne
+saurait pas quelle est sa racine. La racine de cette relation nous échapperait. Le fondement de
+cette relation nous échapperait. Bon. Il va de soi que ni l’une ni l’autre des deux directions ne
+peuvent nous satisfaire. Donc, c’est très simple. Nous réclamons une spécificité de la relation de
+compossibilité et d’incompossibilité, une nature propre pour cette relation, qui soit liée en même
+temps à la nature de l’analyse infinie, c’est-à-dire à tout ce qu’on a vu précédemment sur le
+continu et les différences évanouissantes. [39 :00]
+
+Or, je me demande -- et c’est là, c’est là d’où je voulais partir -- on se demande dans quelle voie
+aller ? Qu’est-ce qu’il va nous fournir ? Mais ça devient intéressant, il invente un nouveau type
+de relation, le compossible et l’incompossible. Ça devient très riche parce qu’il peut … vous
+voyez, dès lors, tout l’éventail d’objections, de critiques qu’il peut se donner par rapport à les
+philosophies antérieures. Il dit, oh oui, les autres, qu’est-ce qu’ils ont vu ? Les uns, ils ont cru
+que tout était nécessaire ; les autres, ils ont bien vu qu’il y avait le possible et le nécessaire ; mais
+Leibniz, il dit, je vous apporte un nouveau domaine : il n'y a pas seulement le possible et le
+nécessaire et le réel. Il y a le compossible et l'incompossible. Il prétendait couvrir toute une
+région de l'être.
+
+Découvrir ça pour un philosophe, ça veut dire quoi ? Ça implique au moins que [40 :00] il ne se
+contente pas de nous dire, je ne sais pas d’où ça vient. Il peut le dire sans un texte, ah ben oui, ça
+dépasse notre entendement ; il peut le dire comme ça en passant. Mais il faut bien qu’il s’y mette
+pour une bonne fois. Alors là, ce qui me trouble, c’est que …voilà l'hypothèse que je voudrais
+faire : que, d’une part, Leibniz est un homme pressé parce qu’il écrit dans tous les sens, partout,
+il ne publie pas ou très peu de choses de son vivant. Leibniz a toute là, tous les éléments, toute la
+matière, tous les matériaux pour donner une réponse relativement précise à ce problème.
+Forcément puisque c'est lui qui l'invente, c'est lui qui a la solution. Et puis qu'est-ce qui a fait
+qu'il n'ait pas regroupé tout ça ? D’où est-ce que ça vient ?
+
+Voila l’hypothèse que je voudrais faire ; je le dis, j’essaie de la dépêcher parce qu’il faut
+procéder par ordre tellement c’est, encore une fois, délicate et amusante, cette histoire. Je crois
+que ce qui va donner une réponse à ce problème, [41 :00] et à la fois de l'analyse infinie et de la
+compossibilité, c'est une théorie très, très curieuse que Leibniz est sans doute, peut-être, le
+premier à introduire en philosophie, et qu'on pourrait appeler la théorie des singularités. Chez
+Leibniz, la théorie des singularités, qui est éparse, qui est partout – je ne peux pas vous citer un
+livre où elle ne soit … elle est partout – elle est partout ; on risque même de lire des pages de
+Leibniz et ne pas voir qu'on est en plein dedans tellement il est discret ou tellement qu’il l’habite
+à certains moments.
+
+La théorie des singularités me paraît avoir deux pôles chez Leibniz : il faudrait dire que c'est une
+théorie mathématico-psychologique d’où, vous voyez, notre objet aujourd’hui, notre travail
+aujourd'hui, ce serait, si j’essaie de bien numéroter, ce serait : qu'est-ce que c'est qu'une
+singularité au niveau mathématique ? [42 :00] Qu’est-ce que c’est que ce drôle de notion,
+singularité, singularité pour les mathématiciens ? [Pause] Et qu'est-ce que Leibniz vient faire làdedans, qu’est-ce qu’il crée là-dedans ? Est-ce que c'est vrai qu'il fait la première grande théorie
+des singularités en mathématiques ? Deuxième question : qu'est-ce que c'est que, alors quelque
+
+                                                                                                      10
+
+chose d’absolument nouveau, la théorie leibnizienne psychologique des singularités, des
+singularités psychologiques? [Pause]
+
+Et dernière question – ça nous fait donc trois questions pour aujourd’hui, c’est beaucoup –
+dernière question : en quoi la théorie mathématico-psychologique des singularités, telle qu'elle
+est esquissée chez Leibniz, nous donne-t-elle une réponse à la question : qu’est-ce que le
+compossible, qu'est-ce que l'incompossible, et en définitif, qu'est-ce que l'analyse infinie ?
+[Pause] [43 :00] Voilà. Eh bien, c’est tout ça que je voudrais bien qu’on fasse.
+
+Car en effet, donc, je commence par le premier point. Qu'est-ce que c'est que cette notion
+mathématique de singularité ? Et en quoi est-ce que c’est intéressant, et pourquoi est-ce que c'est
+tombé ? Il me semble, c’est dommage… Il faudrait voir ; en philosophie, c'est tout le temps des
+occasions comme ça : il y a quelque chose qui pointe à un moment, et puis ce sera lâché. Il me
+semble que c'est le très beau cas d'une théorie qui a été vraiment plus que esquissée par Leibniz,
+puis il n'y a pas eu de suite, comme si il y a eu une chance là, et puis… Est-ce qu’il y a un moyen
+aujourd’hui de la reprendre ; est-ce que… est-ce que ce serait intéressant pour nous, et pourquoi
+ça serait intéressant ?
+
+Je dis là que, moi, je suis toujours partagé entre deux choses quant à la philosophie : l'idée que la
+philosophie ne présuppose pas un savoir spécial, [44 :00] que vraiment en ce sens n'importe qui
+est apte à la philosophie, et en même temps que on ne peut pas en faire si l'on n'est pas sensible à
+une certaine terminologie de la philosophie, et que la terminologie vous pouvez toujours la créer,
+-- la bonne terminologie, elle est par nature créée, mais vous ne pouvez pas la créer n’importe
+comment. C’est pour ça que ce qui n’existe pas, à mon avis, bien qu’il y en ait en apparence, un
+dictionnaire de philosophie serait une chose très, très importante. -- Je crois que c’est très
+difficile de faire de la philosophie si vous ne savez ce que c'est que des termes comme :
+catégories, concept, idée, a priori, a posteriori, exactement comme on ne peut pas faire de
+mathématiques si on ne sait pas ce que c'est que a, b, x, y, etc., variables, constantes, équations; il
+y a un minimum. Or, je remarque que, de tout temps, la logique… Mais, il ne faut pas vous
+inquiéter ; en même temps, vous pouvez l’apprendre à fur et à mesure. C’est simplement [45 :00]
+vous ne ferez pas de la philosophie si vous n’attachez pas de l'importance à ces points-là.
+
+Singulier, ça vient d’où ? Singulier, ça existe de tout temps dans un certain vocabulaire logique.
+Seulement, ça se dit par rapport à quoi, singulier ? C’est déjà intéressant, là ; c’est à vous de
+réfléchir là-dessus. Singulier se dit par différence et, en même temps, en relation avec universel.
+Pourquoi j’éprouve le besoin de dire ça ? Parce qu’il y a un autre couple de notions, il y a un
+autre doublet, il y a un autre couple de notions, c'est particulier, qui se dit en référence à quoi ?
+Qui se dit en référence à général. Si vous confondez tout, vous emploierez particuler et singulier
+comme se valant, général et universel comme se valant. A ce moment-là, ce n’est pas mal, ce
+n’est pas mal, ce n’est pas difficile, tout ça, mais il faut y réfléchir sur [46 :00] le singulier et
+l’universel. C'est un rapport l'un avec l'autre; le particulier et le général, c'est en rapport. Qu'estce que c'est qu'un jugement de singularité, ce n'est pas la même chose qu'un jugement dit
+particulier, ce n'est pas la même chose qu'un jugement dit général.
+
+Voilà, en gros, peu importe ; je ne développe pas parce que ce n’est pas mon affaire, là. Je dis
+juste que, formellement, singulier était pensé, dans la logique classique, en référence avec
+
+                                                                                                        11
+
+universel. Et ça n'épuise pas forcément une notion ; quand les mathématiciens emploient
+l'expression de singularité, eux, ils la mettent en rapport avec quoi ? Là, il faut se laisser guider
+par les mots. [Fin de la cassette] [46 :39]
+
+Partie 2
+
+[Texte fourni par Web Deleuze] : Il y a bien une étymologie philosophique, ou bien une
+philologie philosophique. Singulier en mathématique se distingue ou s'oppose à] régulier. Le
+singulier, c'est ce qui sort de la règle. Bon, on n’a pas l’air de dire grand-chose. Il y a un autre
+couple de notions employées par les mathématiciens, et là, contrairement à ce que je viens de
+dire, [47 :00] mais pour des raisons évidentes, je vais les confondre : c'est remarquable et
+ordinaire. [Pause] Vous avez singuler-régulier, remarquable-ordinaire. Ce n’est pas tout à fait la
+même chose puisque les mathématiciens nous disent qu'il y a des singularités remarquables et
+des singularités qui ne sont pas remarquables. Mais nous, par commodité, accordez-moi ça parce
+que Leibniz ne fait pas encore cette distinction entre le singulier non remarquable et le singulier
+remarquable ; Leibniz emploie comme équivalents singulier, remarquable et notable. Si bien que
+quand vous trouverez le mot notable chez Leibniz dans un texte, même très rapide, dites-vous
+que nécessairement il y a un clin d'oeil, que ça ne veut pas dire bien connu. [48 :00] Quand il dit
+quelque chose de « notable », il engrosse, à la lettre, il engrosse le mot d'une signification
+insolite. Vous me direz, pourquoi il ne prévient pas ? S’il prévenait d’abord, il n’y aurait pas ce
+style ; ce n’est pas son affaire, prévenir. Quand il parlera d'une perception notable, dites-vous
+qu'il est en train de dire quelque chose.
+
+Quel intérêt pour nous ? Il faut que vous compreniez : voilà que les mathématiques représentent
+par rapport à la logique déjà un tournant. L'usage mathématique du concept de singularité oriente
+la singularité sur un rapport avec l'ordinaire ou le régulier, et non plus avec l'universel. On nous
+convie à distinguer ce qui est singulier et ce qui est ordinaire ou régulier. Quel intérêt pour nous
+? [49 :00] Comprenez, si quelqu’un me dit un jour, supposez quelqu'un – on pourra se demander,
+qui peut dire ça ? – mais supposez quelqu’un qui dise : dans la philosophie, ça ne va pas fort
+parce que la théorie de la vérité s'est toujours trompée. On s’est toujours trompé parce qu’on s'est
+avant tout demandé dans une pensée qu'est-ce qui était vrai et qu'est-ce qui était faux. Or, vous
+savez, suppose là cette voix anonyme, qui passe par la mienne, ce n’est pas ça qui compte. Ce
+n'est pas le vrai et le faux dans une pensée qui comptent, c'est le singulier et l'ordinaire.
+
+Qu'est-ce qui est singulier, qu'est-ce qui est remarquable, qu'est-ce qui est notable dans une
+pensée ? Ou bien qu'est-ce qui est ordinaire, [50 :00] et qu’est-ce que ça veut dire qu’il y aurait
+quelque chose d’ordinaire ? Je pense qui, lui, n’a rien à voir avec les mathématiques, qui vient
+bien plus tard, qui s’appelle Kierkegaard et qui, bien plus tard, dira que la philosophie a toujours
+ignoré l'importance d'une catégorie qui est celle de l'intéressant. Qu’est-ce qui est intéressant ?
+[Pause] Du coup, ce n'est peut-être pas vrai que la philosophie l'ait toujours ignoré. Il y a au
+moins un concept philosophico-mathématique de la singularité qui a peut-être quelque chose
+d'intéressant à nous dire sur le concept d'intéressant. Bon, c’est juste ça.
+
+Ce grand coup de mathématiques, [c’est que] la singularité n'est plus pensée par rapport à
+l'universel, elle est pensée par rapport à l'ordinaire ou au régulier. Le singulier, c'est ce qui sort
+de l'ordinaire et du régulier. Vous me direz, ça ne va pas loin. [51 :00] Si, le dire, ça va déjà très
+
+                                                                                                   12
+
+loin, puisque le dire indique que, dès lors, on veut faire de la singularité un concept
+philosophique, quitte à trouver les raisons de le faire dans un domaine qui est favorable, à savoir
+les mathématiques.
+
+Or, dans quel cas les mathématiques nous parlent-elles du singulier et de l'ordinaire ? [Pause] La
+réponse est simple, immédiatement -- je dis des choses très, très simples exprès -- à propos de
+certains points pris dans une courbe. Pas forcément dans une courbe, on va voir, tout à l’heure,
+mais notamment, à propos de certains points pris dans une courbe ou prélevés sur une courbe, ou
+bien, mettons, à propos de toute figure beaucoup plus généralement. [52 :00] Une figure pourra
+être dite, je crois que c’est nécessaire, mais on peut dire qu’une figure comporte par nature des
+points singuliers et d'autres qui sont réguliers ou ordinaires. Pourquoi ça, une figure ? Parce que
+une figure, c'est quelque chose de déterminé! Alors le singulier et l'ordinaire ça ferait partie de la
+détermination, tiens ça serait intéressant! Vous voyez qu'à force de ne rien dire et de piétiner, on
+avance beaucoup. Pourquoi pas définir la détermination en général ? C’est très difficile de définir
+la détermination en général. Je me dis, tiens, est-ce qu’on ne pourrait pas définir la détermination
+en général en disant que c'est une combinaison de singulier et d'ordinaire, et toute détermination
+serait comme ça ? Bon, peut-être, hein ?
+
+Mais alors en quoi… On va très, très doucement. Je prends une figure très simple : un carré.
+[Pause] [53 :00] Votre exigence légitime serait de me demander, qu'est-ce que c'est les points
+singuliers d'un carré ? Pas difficile, les points singuliers d'un carré, il y en a quatre, il y en a
+quatre. [Pause] Voyez, c'est les quatre sommets a, b, c, d. [Pause] Bon, On va chercher à définir
+une notion, à définir la singularité, mais on en reste à des exemples, pour que, vraiment… Là, on
+fait une recherche enfantine ; j’insiste là-dessus : on parle de mathématiques, mais on n'en sait
+pas un mot. On sait juste qu'un carré a quatre côtés, donc il y a quatre points singuliers que je
+peux appeler, pour employer un mot plus compliqué, qui sont des extremum, extremum. Il y a
+quatre extremum. -- Vous allez voir pourquoi ; je ne fais pas le clown [54 :00] en le disant parce
+que j’ai besoin de ce terme ; vous allez voir pourquoi -- C'est les points qui marquent
+précisément que une ligne droite est finie, et que une autre, d'orientation différente, à 90°
+commence. Qu'est-ce que ce sera, les points ordinaires ? Ce sera l'infinité des points qui
+composent chaque côté du carré; mais les quatre extrémités seront à ce qu’on dit des points
+singuliers. [Pause] D’accord ? Bon.
+
+Question : un cube, combien lui donnez-vous de points singuliers ? [Pause] Je vois votre stupeur
+peinée! [Rires] [55 :00] [Quelqu’un répond, inaudible] Voilà ! Très bien. – Je suis décu ;
+j’espérais que vous alliez dire douze – [Rires] Il y a huit points singuliers dans un cube. Voilà, si
+vous avez déjà compris ça, vous avez compris énormément. Voilà ce que, en géométrie la plus
+élémentaire, on pourra appeler les points singuliers : les points qui marquent l'extrémité d'une
+ligne droite là. Vous sentez que ce n'est qu'un début.
+
+J'opposerais donc les points singuliers et les points ordinaires. [Pause] Un effort : une courbe.
+[Pause] Ah bon, une courbe, une figure rectiligne – voilà ma question, et par là, on retrouve une
+remarque qu’on faisait [56 :00] tout à l’heure de ce qu’on disait en introduction -- une figure
+rectiligne, peut-être, il faudrait réfléchir, mais peut-être est-ce que je peux en dire d’une figure
+rectiligne que les points singuliers sont nécessairement des extremum ? Peut-être pas ; à vous de
+voir ; supposons, à première vue, je peux dire quelque chose comme ça. Pour une courbe, ça se
+
+                                                                                                     13
+
+gâte. Prenons l'exemple le plus simple : un arc de cercle, -- Là, j’en ai assez du tableau, je fais là,
+je fais les figures dans l’air… Vous me suivez bien. -- Je fais un arc de cercle, comme ça ; alors,
+ça dépend de où [57 :00] je placerais l’ordonnée, concave, à votre choix concave ou convexe. Et
+je fais un deuxième arc en dessous, convexe si l'autre est concave, concave si l'autre est convexe.
+Voyez ? Voyez, hein ? [Rires] Les deux se rencontrent en un point. Je trace une ligne droite en
+dessous que j'appelle, conformément à la nature des choses, -- je me trainerai jusqu’au tableau si
+vous voulez, mais c’est très cassant -- l'ordonnée. Je trace l'ordonnée. [Deleuze se tourne quand
+même au tableau] [58 :00] J'élève mes perpendiculaires à l'ordonnée, voyez. … [Pause, lorsque
+Deleuze se met au tableau ; commentaires et rires des étudiants] Il n’y pas de craie ! Il n’y a pas
+de craie… Oh, là, là… [Pause]
+
+Alors je l’écris en tout petit, hein ? Je veux bien faire un dessin mais à condition que [inaudible à
+cause des voix] [Pause] C’est pas mal, hein ? [59 :00] [Deleuze dessine en commentant] A-B, XY, vous voyez ? Compris ? A-B là, X-Y là, là, là, là. [Pause] A-B, A-B, A-B, par rapport –
+suivez-moi bien – A-B, où c’est ? C’est au point de rencontre des deux cercles [60 :00], des deux
+arcs de cercle à l’ordonnée. A-B, c’est le plus long segment par rapport à cet arc de cercle, et
+c’est le plus court par rapport à l’autre. [Pause] Comprenez ? Formidable. [Pause] Deuxième
+point : ça, c’est le plus court ou le plus long, au choix. Tout dépend de si vous avez pris l’arc
+concave ou l’arc convexe. [Pause] Deuxième caractère : c’est le seul qui soit unique, c’est le seul
+segment qui soit unique. [61 :00] C’est simple, on ne peut pas dire, mais c’est intéressant.
+
+Ici je précise, autrement j’aurais l’air de perdre votre temps, c'est un exemple de Leibniz, dans un
+texte dont le titre est exquis: “Tentamen Anagogicum”, un petit opuscule de sept pages qui est un
+chef d’oeuvre, et qui veut dire en latin « essais analogiques ».2
+
+Alors, je dis deux choses : AB a donc deux caractéristiques : c'est le seul segment élevé à partir
+de l'ordonnée à être unique ; tous les autres ont, comme dit Leibniz, un double, un petit jumeau,
+il va jusqu’à dire. En effet, xy a son miroir, son image dans x'y', [62 ;00] et vous pourrez vous
+rapprocher avec des différences évanouissantes de AB, il n'y a que AB qui soit unique, sans
+jumeau. Deuxième point : AB peut être dit également un maximum ou un minimum, [Pause]
+maximum par rapport à l’un des arcs de cercle, minimum par rapport à l'autre. Ouf, vous avez
+tout compris. Je dirais que AB est une singularité.
+
+Pourquoi est-ce que j’ai introduit cet exemple ? Pour compliquer un peu. J'ai introduit l'exemple
+de la courbe la plus simple : un arc de cercle. J’ai compliqué un peu en quoi ? Parce que ce que
+j'ai montré, [63 :00] c'est que point singulier n'est pas nécessairement lié, n'est pas restreint à
+l'extremum ; il peut très bien être au milieu, et dans ce cas-là il est au milieu, et c'est soit un
+minimum, soit un maximum, soit les deux à la fois. D'où l'importance, peut-être sentez-vous,
+d'un calcul que Leibniz contribuera à pousser très loin, et qu'il appellera le calcul des, en latin
+aussi, des maximis et des minimis, le calcul des maximum et des minimum, et puis encore
+aujourd'hui, il a une importance immense, par exemple, dans les phénomènes de symétrie, dans
+les phénomènes physiques, dans les phénomènes optiques. Dans les phénomènes optiques, le
+calcul des maximum [64 :00] et des minimum a une très, très grande importance. Je dirais donc
+voilà un point singulier ; mon point A est un point singulier; tous les autres sont ordinaires, déjà,
+ou réguliers. Ils sont ordinaires ou réguliers de deux manières : [Pause] c'est qu’ils sont en
+dessous du maximum et au-dessus du minimum, et enfin ils existent en double. Donc on précise
+
+                                                                                                     14
+
+un peu cette notion d'ordinaire. C'est un autre cas. J’étais parti du carré, là, et on est dans des arcs
+de cercle ; c’est un autre cas ; c'est une singularité d'un autre cas.
+
+Nouvel effort : prenez une courbe complexe. Une courbe complexe, ça sera quoi ? Là, aussi, [65
+:00] il ne faut pas que cela concerne des choses très, très difficiles. Qu'est-ce qu'on appellera des
+singularités ? Elle a des singularités ; une courbe complexe se définit par ses singularités. Les
+singularités d'une courbe complexe, c'est quoi au plus simple ? Au plus simple, c’est les points
+au voisinage desquels – tiens, c’est formidable ; à force de dire des choses simples et de dire des
+choses débiles, vous comprenez ? On est en train d’engranger quant à la construction d’un
+concept mathématico-philosophique beaucoup de choses – voisinage, un point singulier a un
+voisinage. Même si peu que vous connaissez en mathématiques, vous savez que la notion de
+voisinage est très différente de la notion de contiguïté, [66 :00] est une notion clé, par exemple,
+dans tout le domaine de mathématiques extrêmement riche, à savoir la topologie, et c'est la
+notion de singularité qui est capable de nous faire comprendre ce que c'est que le voisinage.
+Donc au voisinage d'une singularité quelque chose change, c’est-à-dire que la courbe croît ou
+décroît. [Pause] Une courbe a des moments… Vous voyez, je ne fais pas le dessin, elle croît ou
+elle décroît. Ces points de croissance ou de décroissance, je les appellerai des singularités.
+L'ordinaire, c’est quoi ? C'est la série, c'est ce qui est entre – vous voyez, on progresse –
+l’ordinaire, c’est ce qui est entre deux singularités; ça va du voisinage d'une singularité au
+voisinage d'une autre singularité, [67 :00] c'est de l'ordinaire ou du régulier. Essentiel, il me
+semble.
+
+Comprenez ? C’est un domaine complètement, par rapport à la philosophie classique,
+complètement … bon. J’en ai déjà trop dit ; j’en profite pour dire, du coup, pourquoi ? Dès lors,
+on saisit comme des rapports, comme des épousailles très étranges : la philosophie dite classique,
+est-ce qu’elle n'a pas son sort relativement lié, et inversement, avec la géométrie, l'arithmétique
+et l'algèbre classique, c'est-à-dire avec les figures rectilignes. Vous me direz, mais les figures
+rectilignes comprennent déjà des points singuliers, d'accord ; mais comprenez : une fois que j'ai
+découvert et construit la notion mathématique de singularité, je peux dire que c'était déjà là dans
+les figures rectilignes les plus simples. Jamais les figures rectilignes les plus simples ne
+m'auraient donné une occasion consistante, une nécessité réelle de construire la notion de
+singularité. C'est simplement au niveau des courbes complexes que ça s'impose. [68 :00] Une
+fois que je l'ai trouvé au niveau des courbes complexes, alors là oui, je reviens en arrière et je
+peux dire : ah, mais c'était déjà dans un arc de cercle ; ah, mais c'était déjà dans une figure simple
+comme le carré rectiligne, mais avant vous ne pouviez pas.
+
+L’étudiant en maths [du début de la séance] : [Bref commentaire inaudible]
+
+Deleuze [dans une voix qui râle] : ... pitié... mon Dieu ... il m'a cassé, puisque… [Rires] Vous
+savez, c’est fragile, parler, c'est fragile. [Pause ; la voix de Deleuze est presque au niveau d’un
+chutotement ; les étudiants sont très silencieux] Oui, enfin, autant répondre à ça avec la méthode
+d’exhaustion, et d’appliquer la méthode d’exhaustion qui était une méthode pré-différentielle.
+[Pause] [69 :00] Non, c’est … je ne sais plus.
+
+L’étudiant essaie de continuer, mais Deleuze l’arrête, en hurlant : Ah, pitié, pitié, pitié. Ah non,
+écoute, je te laisserai parler une heure quand tu veux, mais pas maintenant ... oh là, là … C'est le
+
+                                                                                                   15
+
+trou. [Pause, Deleuze doit se remettre un peu ; quelqu’un lui parle et il répond] Ah, non, ah, non,
+c’est ce qu’il y a dans ma tête …
+
+Deuxième type de singularité: les nœuds, les nœuds, où viennent se croiser une infinité de
+courbes définies par l'équation. Troisième type de singularité : les foyers autour desquels ces
+courbes tournent en s'en rapprochant [72 :00] à la façon d'une spirale. [Pause] Enfin quatrième
+type de singularité : les centres autour desquels les courbes se présentent sous forme de cycle
+fermé, les centres autour desquels les courbes se présentent sous forme de cycle fermé. Et
+Poincaré dans la suite du mémoire explique, et c’est un de ses grand mérites mathématiques
+selon lui, est d'avoir poussé la théorie des singularités en rapport avec la théorie des fonctions ou
+des équations différentielles.
+
+Pourquoi est-ce que je cite cet exemple de Poincaré ? C’est que déjà, les notions équivalentes,
+vous les trouveriez chez Leibniz. Là se dessine déjà tout un très curieux paysage, avec les cols,
+les foyers, les centres. C'est vraiment comme une espèce, on ne sait pas quoi vraiment dire,
+d'astrologie de géographie mathématique. Je cite cet exemple [73 :00] parce que, vous voyez, on
+est allé du plus simple au plus complexe : je veux dire, au niveau d'un simple carré, d'une figure
+rectiligne, les singularités c'étaient des extremum; au niveau d'une courbe simple, vous aviez des
+singularités encore très faciles à déterminer, dont le principe de détermination était facile, la
+singularité c'était le cas unique qui n'avait pas de jumeau, ou bien c'était le cas ou maximum et
+minimum s'identifiaient. Là vous avez des singularités de plus en plus complexes quand vous
+passez à des courbes plus complexes. Donc le domaine des singularités est à proprement parler
+comme infini.
+
+Quelle va être la formule ? Là, je supplie qu’on aille vite parce que vous allez voir en quoi c’est
+fait. Je reprends le thème de tout à l’heure. Tant que vous avez à faire à des problèmes dits
+rectilignes, c'est-à-dire où il s'agit de déterminer des droites ou des surfaces rectilignes, vous
+n'avez pas besoin du calcul [74 :00] différentiel. Vous avez besoin du calcul différentiel lorsque
+vous vous trouvez devant la tâche de déterminer des courbes et des surfaces curvilignes. Ça veut
+dire quoi ? Ce n’est pas par hasard. C’est que la singularité – c’est la seule chose que je dise
+quant au calcul différentiel -- en quoi est-ce que la singularité est liée au calcul différentiel ?
+C'est que le point singulier, c'est le point au voisinage duquel le rapport différentiel dy sur dx
+change de signe. Par exemple : sommet, sommet relatif d'une courbe avant qu'elle ne décroisse,
+avant qu’elle ne descende. Donc vous direz que le rapport différentiel change de signe. Il change
+de signe à cet endroit, dans quelle mesure ? Là, c’est très bien expliqué dans tous les manuels :
+dans la mesure où il devient égal, au voisinage de ce point, il devient égal à zéro ou à l'infini.
+C'est le thème du minimum et du maximum que [75 :00] vous retrouvez là. Peu importe.
+
+Je veux dire juste, voilà un ensemble, tout cet ensemble que je viens d’essayer de dire avec cet
+écoulement si fâcheux, consiste à dire : voyez l'espèce de relation qu’on a entre singulier et
+ordinaire, tel que vous allez définir le singulier en fonction des problèmes curvilignes en rapport
+avec le calcul différentiel, et dans cette tension ou cette opposition entre point singulier et point
+ordinaire, ou point singulier et point régulier. C'est ça, mettons, c’est ça que les mathématiques
+nous fournissent comme matériau de base, et encore une fois, si il est vrai que dans certains cas,
+les cas les plus simples, le singulier c'est l'extrémité, dans d'autres cas simples, c'est le maximum
+
+                                                                                                      16
+
+ou le minimum ou même les deux [76 :00] à la fois; les singularités-là développent des rapports
+de plus en plus complexes au niveau des courbes de plus en plus complexes.
+
+Voilà, supposons qu’il n’y ait rien d’autre, je retiens la formule suivante : une singularité est un
+point au voisinage duquel – ça, c’est presque, oui, ce qu’il faut en retenir – une singularité prise
+ou prélevée sur une courbe, ou déterminée sur une courbe, est un point au voisinage duquel le
+rapport différentiel change de signe, et la singularité, le point singulier a pour propriété de se
+prolonger sur toute la série des ordinaires qui en dépendent jusqu'au voisinage de la singularité
+suivante. Donc je dis que la théorie des singularités est inséparable d'une théorie ou d'une activité
+[77 :00] ou technique de prolongement.3 Alors, comprenez, ça va peut-être nous faire un grand
+pas en avant.
+
+Est-ce que ce ne serait pas dès lors une définition possible, ou des éléments pour une définition
+possible de la continuité ? Il ne serait pas facile de définir la continuité surtout en rapport avec
+des points. Je dirais que la continuité ou le continu – je dis ça comme ça, d’avoir … -- la
+continuité ou le continu, c'est le prolongement d'un point remarquable sur une série d’ordinaires,
+d’un point singulier sur une série d’ordinaires, jusqu'au voisinage de la singularité suivante. Du
+coup, je suis très content ! Je suis extrêmement content parce que j'ai enfin une espèce de
+définition, même si elle ne nous satisfait pas, même si on est amené à la remanier, j’ai une
+première définition hypothétique de ce qu'est le continu. [78 :00] Et remarquez que c'est d'autant
+plus bizarre que pour obtenir cette définition du continu, je me suis servi de ce qui en apparence
+introduit une discontinuité, à savoir une singularité où quelque chose change; or loin que ça
+s'oppose, c'est elle qui me permet cette définition approximative. Tant que je peux prolonger une
+singularité, c’est du continu. Bon, voilà. C’est tout pour le domaine mathématique.
+
+Je passe à l’autre domaine parce que, et en faisant semblant qu’il n’y a aucun rapport, et vous
+sentez bien que chez Leibniz, ce n’est pas comme ça, qu’il y a évidemment rapports entre les
+deux domaines. C’est le domaine cette fois-ci psychologique. [Pause] Et Leibniz nous dit, il
+nous dit finalement une chose déjà très curieuse. Il nous dit, ben oui, tout le monde, nous savons
+tous que [79 :00] nous avons des perceptions, que par exemple je vois du rouge, c’est du
+qualitatif, je vois du rouge ; j'entends le bruit de la mer, un thème qui revient constamment chez
+lui, j’entends le bruit de la mer ; assis sur la plage, j’entends le bruit de la mer. Et puis, je vois du
+rouge, et puis voilà, tout ça, quoi, et ce sont des perceptions. Bien plus, dit-il, on devrait leur
+réserver un nom spécial, on verra pourquoi, parce qu'elles sont conscientes. C'est la perception
+douée de conscience, la perception douée de conscience, c'est-à-dire la perception perçue comme
+telle par un moi, nous l'appelons aperception, comme apercevoir. Car en effet c'est la perception
+que j'aperçois. Donc réservons-lui un nom spécial, aperception ; [80 :00] une aperception, ça
+signifie une perception consciente.
+
+Et Leibniz nous dit la chose suivante, qui à première vue paraît quand même très bizarre, très…
+on se dit pourquoi pas, mais pourquoi : il faut bien -- et encore c’est le cri, c’est le cri qui anime
+alors le concept – il faut bien dès lors qu’il y ait des perceptions inconscientes dont nous ne nous
+apercevons pas. Ces perceptions inconscientes dont nous ne nous apercevons pas, on va les
+appeler « petites perceptions », petites perceptions ; nous ne nous en apercevons pas. Vous
+comprenez, c’est important, parce qu’alors, c’est des perceptions inconscientes. Pourquoi le fautil ? [81 :00] Pourquoi est-ce qu’il faut ?
+
+                                                                                                        17
+
+Bizarrement, Leibniz va donner deux raisons ; or c’est deux raisons, vous voyez, ça va tellement
+de soi, mais je voudrais faire la même chose, là, que pour les singularités, dire des choses
+tellement évidentes que… dans les textes parfois, il les donne ensemble, mais en fait, il y a deux
+raisons : c'est que nous nous apercevons, nos aperceptions, nos perceptions conscientes, sont
+toujours globales. Ce dont nous nous apercevons, c'est toujours d'un tout, que ce tout soit relatif,
+qu’il soit changeant. Ce que nous saisissons par la perception consciente, c'est des totalités
+relatives. Or il faut bien qu'il y ait des parties puisqu'il y a du tout, et ça c'est un raisonnement
+que Leibniz fait constamment, il faut bien qu'il y ait du simple [82 :00] si il y a du composé ; il
+l'érige à la hauteur de principe; et ça ne va pas de soi d’ailleurs ; vous comprenez ce qu'il veut
+dire ? Il veut dire qu'il n'y a pas d'indéfini, et ça va si peu de soi que ça implique l'infini actuel. Il
+faut qu'il y ait du simple puisqu'il y a du composé. Il y a des gens qui penseront que tout est
+composé à l'infini, ce seront les partisans de l'indéfini, mais Leibniz pour d'autres raisons pense
+que l'infini est actuel, donc il faut bien qu'il y ait dit ça. Dès lors, il faut bien, puisque nous
+percevons le bruit global de la mer quand nous sommes assis sur la plage, il faut bien que nous
+ayons des petites perceptions de chaque vague, comme il dit sommairement, et bien plus de
+chaque goutte, de chaque gouttelette d'eau. Vous me direz, pourquoi ? C'est une espèce
+d'exigence logique, et on va voir ce qu'il veut dire.
+
+Le même raisonnement, et voilà j’insiste, au niveau du tout et des parties, il le fait aussi bien au
+niveau, cette fois-ci, en invoquant [83 :00] non pas un principe de totalité, mais un principe de
+causalité : ce que nous percevons c'est toujours un effet, il faut bien qu'il y ait des causes. Et il
+faut bien que les causes soient elles-mêmes perçues sinon l'effet ne serait pas perçu. Cette fois-ci
+les gouttelettes ne sont plus les parties qui composent la vague, et les vagues les parties qui
+composent la mer, mais interviennent comme les causes qui produisent un effet. Vous me direz
+qu'il n'y a pas grande différence, mais je remarque juste que dans tous les textes de Leibniz, il y a
+toujours deux arguments distincts qu'il est amené perpétuellement à faire coexister : un argument
+fondé sur la causalité et un argument fondé sur les parties, pas la même chose. Rapport causeeffet et rapport partie-tout. Ça ne peut pas être tout à fait pareil ; on va voir les problèmes. Bien.
+
+Voilà donc que nos perceptions conscientes baignent dans un flux de petites perceptions, de
+petites perceptions inconscientes. [84 :00] Qu’est-ce que ça peut vouloir dire ? D'une part, il faut
+que ce soit comme ça, il faut que ce soit comme ça logiquement, en vertu de l’exigence des
+principes, mais les grands moments c'est lorsque l'expérience vient confirmer l'exigence des
+principes. Lorsque se fait la coïncidence, la très, très belle coïncidence des principes et de
+l'expérience, la philosophie connaît le moment de son bonheur, même si c'est le malheur du
+philosophe personnellement. Et à ce moment-là, le philosophe dit : tout est bien, tout est comme
+il faut. Alors il faudrait que l'expérience me montre que dans certaines conditions de
+désorganisation de ma conscience, les petites perceptions forcent la porte de ma conscience et
+m'envahissent. Quand ma conscience se relâche, je suis donc envahi par [85 :00] les petites
+perceptions qui ne deviennent pas pour ça des perceptions conscientes, elles ne deviennent pas
+aperceptions puisqu’elles n’envahissent ma conscience que lorsque ma conscience est
+désorganisée.
+
+A ce moment-là, un flot de petites perceptions m’envahissent, des petites perceptions
+inconscientes. Ce n'est pas qu’elles cessent d'être inconscientes, c'est moi qui cesse d'être
+conscient. Mais je les vis, il y a un vécu inconscient. Je ne les représente pas, je ne les perçois
+
+                                                                                                       18
+
+pas, mais elles sont là, elles fourmillent. Dans quels cas ? On me donne un grand coup sur la tête
+: l'étourdissement, c'est un exemple qui revient tout le temps chez Leibniz. Je suis étourdi, je
+m'évanouis, et un flot de petites perceptions inconscientes arrive : une rumeur, une rumeur dans
+ma tête. Ces textes de Leibniz, évidemment, ils font signe à des textes qu’ils ne peuvent pas
+connaître, mais [86 :00] c’est plutôt l’inverse. Rousseau connaissait Leibniz, Rousseau qui fera la
+cruelle expérience de s'évanouir ayant reçu un gros coup, raconte son retour – c’est la même
+chose, s’évanouir ou sortir de l’évanouissement -- et le fourmillement de petites perceptions.
+C'est un texte très célèbre de Rousseau dans les "Rêveries [d'un promeneur solitaire]", qui est le
+retour à la connaissance, alors cette espèce de fourmillement, là, un truc comme un
+gratouillement de petites perceptions. Bon.
+
+Leibniz, il dit l’étourdissement, bien ; cherchons, cherchons, on cherche ce qu’on appelle, ou ce
+que certains appelaient à la fin du 19ième siècle, des expériences de pensée. L’expérience de
+pensée, c’est qu’il n’y a même pas besoin de la faire, Dieu merci, on sait que c'est comme ça,
+alors on cherche par la pensée le type d'expérience qui correspond au principe :
+l'évanouissement. Leibniz va beaucoup plus loin ; il se dit : est-ce que ce ne serait pas ça la mort
+? Alors, ça va faire des problèmes en théologie. [87 :00] L’hypothèse de Leibniz, c’est que ça
+serait ça, la mort, ça serait ça, la mort, c’est-à-dire ce serait l'état d'un vivant qui ne cesserait pas
+de vivre, c’est-à-dire la mort ce serait une catalepsie, c'est du plein Edgar Poe, [Rires]
+simplement on est réduit aux petites perceptions.
+
+Et encore une fois, comprenez bien, non pas qu'elles envahissent ma conscience, mais c'est ma
+conscience qui s'étend, qui perd tout son pouvoir propre, qui se dilue parce qu'elle perd
+conscience de soi, mais elle devient très bizarrement conscience infiniment petite des petites
+perceptions inconscientes. Ce serait ça la mort. Très bien, c’est ça alors ; vous ne pouvez pas
+penser… Il ne faut pas contrarier ; il faut qu’on soit d’accord, mais ça pose de sacrés problèmes.
+En d'autres termes, la mort ce n'est rien d'autre qu'un enveloppement, [88 :00] les perceptions
+cessent d'être développées en perceptions conscientes, elles s'enveloppent en une infinité de
+petites perceptions. Ou bien, dit-il, encore le sommeil sans rêve ; le sommeil sans rêve est de ce
+type, il y a plein de petites perceptions. Bon. Continuons des exemples.
+
+Est-ce qu'il faut dire ça seulement de la perception ? Non. Et là à nouveau, le génie de Leibniz. Il
+y a une psychologie leibnizienne, une psychologie signée Leibniz. Ça a été une des premières
+grandes théories de l'inconscient, notamment. J'en ai presque assez dit pour que vous compreniez
+la différence et en quoi c'est une conception de l'inconscient qui n'a strictement rien à voir avec
+celle de Freud. Tout ça pour dire, pour dire tout à fait à l’avantage de Freud, qu’est-ce qu'il y a de
+nouveau dans Freud : ce n'est évidemment pas l'hypothèse d'un inconscient qui a été faite par de
+très nombreux auteurs, [89 :00] mais c'est la manière dont Freud conçoit l'inconscient. Ce n’est
+évidemment pas du tout la même manière dont Leibniz conçoit l’inconscient. Or, dans la
+descendance de Freud se trouvera des phénomènes très bizarres de retour à une conception
+leibnizienne ; enfin ça je le dirai tout à l'heure.
+
+Avant qu’on en arrive là, comprenez qu'il ne peut pas simplement dire ça de la perception, car en
+fait, l'âme selon Leibniz a deux facultés fondamentales : l'aperception consciente qui est donc
+composée de petites perceptions inconscientes, et ce qu'il appelle l'appétition, l'appétit, le désir.
+Et nous sommes faits de désirs et de perceptions. Or, l'appétition c'est l'appétit conscient. Si les
+
+                                                                                                    19
+
+perceptions sont faites, si les perceptions globales [90 :00] sont faites d'une infinité de petites
+perceptions, les appétitions, les gros appétits comme on dit, les gros appétits sont faits d'une
+infinité de petites appétitions. Et les appétitions, ce sont les vecteurs correspondant aux petites
+perceptions, ça devient un inconscient très bizarre avec toutes ces petites appétitions et ces
+petites perceptions, la goutte de la mer à laquelle correspond la goutte d'eau, à laquelle
+correspond une petite appétition chez celui qui a soif. Et lorsque je dis "mon Dieu, j'ai soif, j'ai
+soif", lorsque je dis ça, qu'est-ce que je fais ? J'exprime grossièrement un résultat global ; ah,
+j’exprime grossièrement un résultat global. Et quand je dis, « j’ai faim, j’ai faim », j’exprime
+grossièrement un résultat global ; résultat global de quoi ? [91 :00] Des mille et mille petites
+perceptions qui me travaillent, et des mille et mile petites appétitions qui me traversent. Ah, direz
+vous, comment ça ? Qu'est-ce que ça veut dire ?
+
+Je saute encore les siècles. Au début du vingtième siècle, un grand, grand biologiste espagnol, je
+crois, tombé dans l'oubli, s'appelait [Ramon] Turro [y Darder], il fit un livre traduit en français
+intitulé: "Les origines de la connaissance",4 traduit en français en 1914, et ce livre est
+extraordinaire. Il s’occupait beaucoup de la faim, Turro – comment prononce en espagnol ; ça
+s’écrit T-u-deux r-o… Comment ? … Enfin, je ne sais pas – [92 :00] Turro, il disait ceci : que
+quand on dit "j'ai faim" – à mon avis, à mon avis, vraiment, Turro, c’est de formation purement
+biologique ; je ne pense pas qu’il ait lu Leibniz ; Turro, en tout cas, ce n’est pas… et c’est
+d’autant plus intéressant parce que les textes pourraient être signés… c’est bien quand il y a sans
+influence directe, à des siècles de distance, une page, et on se dit, tiens, quand on se dit, quelle
+est l’actualité de quelqu’un, ça veut dire ça : deux siècles après, quelqu’un écrit un livre dans un
+tout autre domaine et on se dit, bon Dieu, c'est signé, c’est Leibniz qui a fait une visite, qui s'est
+réveillé, là, c’est bizarre, ça --.
+
+Car Turro dit que quand on dit "j'ai faim", ça ne va pas fort, tout ça, parce que c'est vraiment un
+résultat global, c'est ce qu'il appelle une sensation globale. Car enfin, dit-il, la faim globale, il
+emploie ces concepts, la faim globale et les petites faims spécifiques, les petites faims
+spécifiques. [93 :00] Il dit que la faim comme phénomène global c'est un effet, c’est un effet
+statistique. De quoi est… [Fin de la cassette] [93 :12] [L’enregistrement BNF omet tout le texte
+du paragraphe suivant ; nous profitons donc du texte fourni par Web Deleuze :
+
+Partie 3
+
+[De quoi est] composée la faim comme substance globale ? De mille petites faims : faim de sels,
+faim de substances protéiques, faim de graisse, faim de sels minéraux, etc. ... Quand je dis "j'ai
+faim", je fais, à la lettre, dit Turro, l'intégrale ou l'intégration de ces mille petites faims
+spécifiques. Les petites différentielles sont les différentielles de la perception consciente ; la
+perception consciente est l'intégration des petites perceptions. Très bien. Vous voyez que les
+mille petites appétitions, c'est les mille faims spécifiques. Et Turro continue car il y a tout de
+même quelque chose de bizarre au niveau animal : comment l'animal sait-il ce qu'il lui faut ?
+L'animal voit des qualités sensibles, il se précipite dessus et mange ça ; on mange tous des
+qualités sensibles. La vache mange du vert. Elle ne mange pas de l'herbe, pourtant elle ne mange
+pas n'importe quel vert puisqu'elle reconnaît le vert de l'herbe et qu'elle ne mange que le vert de
+l'herbe. Le carnivore ne mange pas de protides, il mange le truc qu'il a vu, il ne voit pas des
+protides. Le problème de l'instinct, au niveau le plus simple, c'est : comment est-ce que ça
+
+                                                                                                     20
+
+s'explique que les bêtes mangent à peu près ce qui leur convient ? En effet, les bêtes dans un
+repas mangent la quantité de graisses, la quantité de sel, la quantité de protides nécessaire à
+l'équilibre de leur milieu intérieur. Et leur milieu intérieur c'est quoi ? Le milieu intérieur c'est le
+milieu de toutes les petites perceptions et petites appétitions. Quel drôle de communication entre
+la conscience et l'inconscient. Chaque espèce mange à peu près ce qu'il lui faut, sauf les erreurs
+tragiques ou comiques qu'invoquent toujours les ennemis de l'instinct: les chats, par exemple, qui
+vont juste manger ce qui va les empoisonner, mais c'est rare. C'est ça, le problème de l'instinct.
+Retour à l’enregistrement BNF]
+
+Cette psychologie à la Leibniz invoque les petites appétitions qui investissent des petites
+perceptions; la petite appétition, c’est l'investissement psychique de la petite perception, et ça va
+faire quel monde ? On ne cesse de passer d'une petite perception à une autre, même sans le
+savoir. Nous, notre conscience en reste aux perceptions globales et aux gros appétits, "j'ai faim",
+mais lorsque je dis "j'ai faim", en fait, il y a toutes sortes de passages, de métamorphoses; ma
+petite faim de sel qui passe à une autre petite faim, petite faim de protides; petite faim de protides
+qui passe à petite faim de graisses, ou tout ça qui se mélange, c'est des hétérogènes. [94 :00] Et
+les enfants mangeurs de terre, qu’est-ce que vous en pensez, des enfants mangeurs de terre ? Par
+quel miracle est-ce qu'ils mangent de la terre alors qu'ils ont besoin de la vitamine que cette terre
+contient ? C’est ça, le problème de l'instinct. C’est curieux, ça. C'est des monstres, on dirait des
+enfants qui mangent de la terre ; mais oui, c’est des monstres ! Mais même Dieu a fait les
+monstres en harmonie. Voilà, voilà.
+
+Alors quoi, qu'est-ce que c'est que le statut de la vie psychique inconsciente ? Il est arrivé à
+Leibniz de rencontrer la pensée – je ne crois pas qu’ils se soient rencontrés parce que l’autre était
+en train de mourir – la pensée d’un philosophe anglais, qui s’appelait [John] Locke, et Locke
+avait écrit un livre intitulé "Essai sur l'entendement humain". Leibniz avait été très intéressé par
+Locke, surtout qu'il trouvait que Locke se trompait en tout. [Rires] Et lui s'était amusé à faire un
+gros livre qu'il [95 :00] avait appelé "Nouveaux essais sur l'entendement humain", et où, chapitre
+par chapitre, il reprenait et il montrait que Locke était un débile. Il avait tort, mais c'était une
+grande critique donc de Locke. Et puis il ne l'a pas publié parce que c’était très honnête de sa
+part, il a eu une réaction morale, parce que Locke est mort entre temps. Il s’est dit, publier quand
+même – voyez, je dis ça parce que, aujourd’hui, ça ne se fait plus, ça [Rires] – publier un livre
+contre un type qui est ou bien malade, ou bien mort, qui vient de mourir, ce n’est pas bien, ça, il
+y a quelque chose de moche là-dedans. Alors, il avait un gros livre ; il était fini, tout son gros
+livre-là, et il l'a laissé de côté, il ne l’a pas publié, il n’en a pas de maladie, il l'a envoyé à des
+copains, quand même, mais enfin, [Rires] on ne peut pas être parfait, quoi.
+
+Or, je raconte tout ça parce que Locke, dans ses pages les meilleures, construit un concept dont je
+vais dire le nom anglais, parce que je suis contraint et forcé, si bien que vous n’allez pas
+comprendre quel concept c’est, c’est le concept de "uneasyness". [96 :00] [Pause] Ce n’est pas
+mal… [Une étudiante, puis une autre répètent le mot pour les autres] Lui, il a un accent
+pakistanais, donc ce n’est pas mieux que moi… « Uneasy », « uneasy »… « Uneasy », c’est quoi
+? Et Leibniz, là, est très malin parce qu’il dit, « uneasy, » c'est, sommairement, on dirait, c’est le
+malaise, c’est le malaise, mal à l’aise. Et « uneasiness », c’est l'état de malaise. Et Locke essaie
+d'expliquer que c'est ça le grand principe de la vie psychique. Vous voyez que c'est très
+intéressant. Pourquoi c’est très intéressant ? Parce que ça nous sort des banalités sur la recherche
+
+                                                                                                      21
+
+du plaisir ou du bonheur. Locke, il dit quelque chose ; il dit, en gros, ben oui, recherche du
+plaisir, que l’on cherche son plaisir, c'est bien possible, que l’on cherche son bonheur, c’est autre
+chose. Peut-être que c'est possible, mais que ce n'est pas ça; il y a une espèce d'inquiétude du
+vivant. [97 :00] Inquiétude. C’est une inquiétude, vous voyez, ce n'est pas l'angoisse non plus. Il
+ne dit pas, c’est l’angoisse. L’inquiétude ; c’est un concept. Il lance le concept psychologique,
+l’inquiétude. On n’est ni assoiffé de plaisir, ni assoiffé de bonheur, ni angoissé, ce n’est pas ça,
+non. Lui, il a l'impression que ce n’est pas ça. Il pense qu'on est avant tout inquiet. On ne reste
+pas en place, on bouge.
+
+Et Leibniz, dans une très belle page, dit, vous voyez, on peut toujours essayer de traduire ce
+concept, mais Leibniz dit, il y a quelque chose de, non, c’est très difficile à traduire parce que ça
+marche bien en anglais, ce mot marche bien en anglais, un Anglais voit tout de suite ce que c'est.
+Ah, je dirais, quelqu’un qui ne se tient pas en place. Nous, on dirait quelqu'un de nerveux, un
+nerveux, qui serait « uneasy ». Bon, possible, [98 :00] qu’est-ce que ça veut dire ? Vous voyez
+comment, lui, il emprunte le concept à Locke et il va le changer complètement en se disant,
+évidemment, ce malaise du vivant, c'est quoi ? qui n'est pas du tout le malheur du vivant. C'est
+que, même quand il est immobile, qu’il a sa perception consciente bien cadrée, ça fourmille : les
+petites perceptions et les petits appétits, les petites appétitions qui investissent les petites
+perceptions fluentes, perceptions fluentes et appétits fluents ne cessent pas de bouger, et c'est ça.
+Alors, bien sûr, s’il y a un Dieu, et Leibniz est persuadé qu'il y a Dieu, cette « uneasyness » est si
+peu un malheur qu'elle ne fait qu'un avec la tendance à développer le maximum de perception, et
+le développement du maximum de perception [99 :00] définira une espèce de continuité
+psychique. On retrouve là le grand thème de la continuité, c'est-à-dire un progrès indéfini de la
+conscience. [Pause]
+
+Donc, il combine ça, simplement, en quoi est-ce qu'il y a malheur ? C'est qu'il peut toujours y
+avoir de mauvaises rencontres. Il dit, c'est comme la pierre lorsqu'elle tend à tomber: elle tend à
+tomber suivant une voie qui est la voie droite, par exemple, et puis elle peut rencontrer un rocher
+qui l'effrite ou qui la fait éclater. C'est vraiment un accident lié à la loi de la plus grande pente.
+Ça n'empêche pas que la loi de la plus grande pente, c'est le meilleur. On voit bien ce qu'il veut
+dire.
+
+Voilà donc un inconscient défini par les petites perceptions, et les petites perceptions, c'est à la
+fois des perceptions infiniment petites et les [100 :00] différentielles de la perception consciente.
+Et les petits appétits, c'est à la fois des appétits inconscients et les différentielles de l'appétition
+consciente. Vous voyez ? Il y a une genèse de la vie psychique à partir des différentielles de la
+conscience. D'où l'inconscient leibnizien, c'est l'ensemble des différentielles de la conscience.
+C'est la totalité infinie des différentielles de la conscience. Il y a une genèse de la conscience. Je
+dis alors, c’est vraiment un inconscient. L'idée des différentielles de la conscience, c'est
+fondamental. La goutte d'eau et l'appétit pour la goutte d'eau, les petites faims spécifiques, le
+monde de l'étourdissement, tout ça, ça fait un drôle de monde.
+
+J'ouvre une parenthèse très rapide. Alors, quoi, cet inconscient-là [101 :00], cet inconscient-là,
+vous le trouverez dans la philosophie ; il a une longue histoire. En gros on peut dire que c'est en
+effet la découverte et la mise en théorie d'un inconscient proprement différentiel. Vous voyez que
+cet inconscient est très lié – c’est pour ça que je disais un domaine psycho-mathématique – il est
+
+                                                                                                   22
+
+très lié à l'analyse infinitésimale. De même qu'il y a des différentielles de la courbe, il y a des
+différentielles de la conscience. Les deux domaines, le domaine psychique et le domaine
+mathématique symbolisent. [Pause] Alors, bon, je dis, si je cherche la lignée, -- à mon avis, quel
+qu’ils soient, il y a toujours des antécédents -- mais c'est Leibniz qui lance la première grande
+théorie de cet inconscient différentiel, [102 :00] ensuite ça ne cessera pas. Ça ne cessera pas, il y
+a une très longue tradition de cette conception différentielle de l'inconscient à base de petites
+perceptions et petites appétitions. Ça culminera notamment avec un très grand auteur qui a été
+toujours bizarrement méconnu en France, dont on n’a retenu que des choses très rudimentaires, à
+savoir un post-romantique allemand très bizarre qui s'appelle [Gustav] Fechner qui est un
+disciple de Leibniz et qui développera la conception de l'inconscient différentiel.
+
+Je dis, si on dit, eh ben, alors, Freud, « qu'est-ce qu’il apporté ? », c’est évidemment un non-sens.
+C’est évident que l’inconscient était une notion déjà très bien construite avant Freud. Mais ce qui
+est évident aussi, c’est que Freud rompt avec cette conception de l’inconscient [103 :00]
+différentiel. Et pourquoi ? Si j’essaie de le dire très grossièrement, ce n'est pas que pour Freud il
+n'y ait pas de perceptions inconscientes, il y a aussi des perceptions inconscientes, il y a aussi des
+désirs inconscients. Vous vous rappelez, dans Freud, il y a l'idée à la fois que la représentation
+peut être inconsciente et, en un autre sens, l'affect peut être inconscient. Ça répond à perception
+et appétition.
+
+Mais la nouveauté de Freud c'est qu'il conçoit l'inconscient dans un rapport -- et je dis là
+vraiment une chose élémentaire pour marquer une grosse, grosse différence --, il conçoit
+l'inconscient dans un rapport de conflit ou d'opposition avec la conscience, et non pas dans un
+rapport différentiel. C'est complètement différent de concevoir un inconscient qui exprime des
+différentiels de la conscience ou de concevoir un inconscient [104 :00] qui exprime une force qui
+s'oppose à la conscience et qui entre en conflit avec elle. En d'autres termes, entre la conscience
+et l'inconscient chez Leibniz, il y avait un rapport de différence à différences évanouissantes ;
+chez Freud il y a un rapport d'opposition de forces. Je pourrais dire, en effet, que l'inconscient
+attire des représentations, il les arrache à la conscience, c'est comme deux forces comme ça
+[Deleuze fait un geste d’opposition]. Je pourrais dire que philosophiquement Freud dépend de
+Kant et de Hegel, c'est évident. Ceux qui avaient orienté explicitement l'inconscient, et qui
+l’avaient orienté explicitement, dans le sens d'un conflit de volonté, et non plus de différentiel de
+la perception, c'était l'école de Schopenhauer que Freud connaît admirablement et qui descendait
+de Kant. Donc il n’y a aucun lieu de ne pas sauvegarder [105 :00] l'originalité complète de
+Freud, sauf qu'en effet Freud a bien une préparation dans certaines théories philosophiques de
+l'inconscient, mais ce n'est certainement pas le courant leibnizien ; ce serait le courant
+schopenhauerien. Mais enfin, voilà.
+
+Alors, pour en finir enfin, parce que… je voudrais dire ceci : bien, on a ce schéma. Notre
+perception consciente est composée d'une infinité de petites perceptions. Notre appétit conscient
+est composé d'une infinité de petits appétits. Qu’est-ce que ça veut dire? Mais c’est
+complètement différent. Il est en train de faire une opération très bizarre, Leibniz ; on a envie de
+protester ; si on ne se retenait pas, on protesterait tout de suite. On pourrait lui dire, mais
+d'accord, la perception a des causes ; par exemple, ma perception du vert, [106 :00] ou ma
+perception d'une couleur quelconque, elle implique toutes sortes de vibrations physiques. Mais
+ces vibrations physiques ne sont pas elles-mêmes perçues. Qu'il y ait une infinité de causes
+
+                                                                                                     23
+
+élémentaires dans une perception consciente, de quel droit Leibniz en conclut-il que ces causes
+élémentaires soient elles-mêmes objets de perceptions infiniment petites, pourquoi ? Et qu'est-ce
+qu'il veut dire quand il dit que notre perception consciente est composée d'une infinité de petites
+perceptions, exactement comme la perception du bruit de la mer est composée de la petite
+perception de toutes les gouttes d'eau ? C’est quand même… oui…
+
+Eh ben, si vous regardez de près les textes, c'est très curieux car ces textes disent deux choses
+très différentes, dont l'une est manifestement dite comme ça, par simplification [107 :00] et
+l'autre exprime la vraie pensée de Leibniz. En effet, je reprends mon thème. Vous pouvez
+regrouper ces textes, l’ensemble des textes sur la petite perception chez Leibniz, en deux
+rubriques : les unes sont sous la rubrique partie-tout, et à ce moment-là, ça veut dire que la
+perception consciente est toujours celle d'un tout ; cette perception d'un tout suppose non
+seulement des parties infiniment petites, mais suppose que ces parties infiniment petites soient
+elles-mêmes perçues. [Pause] Donc la formule : la perception consciente est faite de petites
+perceptions, je dis que dans ce cas-là, "être fait de" égale "être composé de", [108 :00] "être
+composé de", et Leibniz s'exprime très souvent ainsi.
+
+Je prends un texte que je cite, comme ça, mais il y en a beaucoup, [Pause ; Deleuze cherche dans
+le texte] "Autrement on ne sentirait point le tout" -- si il n'y avait pas toutes ces petites
+perceptions, on n'aurait pas conscience du tout. Là, je n’invente pas ; il ne dit que ça. – «
+L'organe des sens » -- vous voyez, c’est une approximation de l’organe des sens – « L’organe
+des sens opère une totalisation des petites perceptions. » L'œil, par exemple, c’est ce qui
+contracte, c'est ce qui totalise une infinité de petites vibrations, et dès lors compose avec ces
+petites [109 :00] vibrations une qualité globale que j'appelle le vert, ou que j'appelle le rouge, ou
+que j’appelle… Là, le texte est net, il s'agit du rapport tout-parties.
+
+Mais quand Leibniz veut vraiment dire… Et comprenez, ce n’est pas une manière d’être
+sournois. Quand il veut aller vite, quand il veut se faire comprendre vite, il a tout intérêt à parler
+comme ça, mais quand il veut vraiment expliquer les choses, -- voilà, oui, ça serait l’opposition
+entre se faire comprendre et expliquer – quand il veut se faire comprendre, il dit ça ; quand il
+veut vraiment expliquer, il dit autre chose, il dit que la perception consciente dérive des petites
+perceptions. Ce n'est pas la même chose « est composé de » ou « dérive de ». Dans un cas, vous
+avez le rapport [110 :00] parties-tout, dans l'autre cas, vous avez un rapport d'une toute autre
+nature.
+
+Alors, quelle autre nature ? Le rapport de dérivation : ça nous renvoie à l’analyse infinitésimal,
+ce qu'on appelle une dérivée. La perception consciente dérive de l'infinité des petites perceptions.
+A ce moment-là je ne dirais plus que l'organe des sens totalise. Remarquez que la notion
+mathématique d'intégrale réunit les deux : l'intégrale, c'est ce qui « dérive de », et l’intégrale,
+c'est ce qui opère une intégration, une espèce de totalisation, mais justement, c’est une espèce de
+totalisation très spéciale ; ce n'est pas une totalisation par additions ; c’est une totalisation d’un
+type très particulier. Alors là, ça devient intéressant. On peut dire sans risque de se tromper, que
+même, bien que Leibniz ne le signale pas, ce sont les seconds textes qui ont [111 :00] le dernier
+mot. Lorsque Leibniz nous dit, il y a là que la perception consciente est composée de petites
+perceptions, ce n'est pas sa véritable pensée. On a toute raison de le dire ; je viens de l’expliquer.
+
+                                                                                                     24
+
+En revanche, sa véritable pensée c'est que la perception consciente dérive des petites perceptions.
+Qu'est-ce que ça veut dire "dérive de " ?
+
+Ben, vous vous rappelez le texte que je viens de lire sur le tout. Voilà un tout autre texte : «
+Sinon » -- c’était sinon, on ne percevrait pas le tout – voilà un texte différent : [Pause ; Deleuze
+cherche dans le texte en chantonnant] [112 :00] "La perception de la lumière ou de la couleur
+dont nous nous apercevons » -- c’est-à-dire la perception consciente – « est composée de
+quantités de petites perceptions dont nous ne nous apercevons pas, et un bruit dont nous avons
+perception mais où nous ne prenons point garde devient aperceptible » - c’est-à-dire passe à l'état
+de perception consciente – « devient aperceptible par une petite addition ou augmentation".
+
+Ahhh… Vous comprenez ? Là, on prend à la lettre : il ne dit pas « par une totalisation » ; [Pause]
+On ne passe plus des petites perceptions à la perception consciente par totalisation comme le
+suggérait la première sorte de texte ; on passe [113 :00] des petites perceptions à la perception
+consciente globale par une petite addition. On se dit, du coup, on croyait comprendre et on ne
+comprend plus rien. Une petite addition, c'est l'addition d'une petite perception; alors on passe
+des petites perceptions à la perception globale consciente par une petite perception ? [Pause ;
+soupir d’exaspération] On se dit que ça ne va plus. [Soupir d’exaspération] Du coup, on a
+tendance à se rabattre sur l'autre sorte de texte, au moins c'était plus clair. C'était plus clair, mais
+c’était insuffisant. Les textes suffisants sont suffisants mais on n'y comprend plus rien.
+
+Situation délicieuse, sauf si on se rappelle ou si on tombe par hasard sur un texte voisin où
+Leibniz nous dit :"il faut considérer que nous pensons à quantité de choses à la fois » -- il paraît,
+pour lui – « il faut considérer que nous pensons à quantité [114 :00] de choses à la fois, mais
+nous ne prenons garde qu'aux pensées qui sont les plus distinguées ». Bon, vous me direz,
+alors… et alors… [Pause ; Deleuze cherche dans le texte] et alors… on continue, et on tombe sur
+un autre petit fragment.
+
+« Car ce qui est remarquable doit être composé de parties qui ne le sont pas » -- ahh -- « Car ce
+qui est remarquable doit être composé de parties qui ne le sont pas » -- là [Leibniz] est en train de
+tout mélanger, mais exprès, exprès. Formidable ! Nous qui ne sommes plus innocents, [115 :00]
+on a repéré le mot "remarquable", et on sait que chaque fois – encore une fois, je suis sûr d’avoir
+raison – chaque fois qu'il emploie « notable », « remarquable », « distingué », c'est en un sens
+très technique, et en même temps, il met de la bouillie partout, comprenez ? Il fait un coup
+diabolique. Car l'idée meme qu'il y a du clair et du distinct, depuis Descartes, c'était une idée qui
+courait partout. Lui, glisse son petit "distingué", dans le texte précédent : « nous ne prenons
+garde qu'aux pensées qui sont les plus distinguées ». Il aurait dit, nous ne prenons garde qu’au
+clair et au distinct ; il ne dit pas ça, il dit : « nous ne prenons garde qu'aux pensées qui sont les
+plus distinguées ». Comprenez « le distingué », « le notable », « le remarquable », [116 :00] « le
+singulier », voilà.
+
+Qu'est-ce que ça veut dire alors ? « Nous passons des petites perceptions inconscientes à la
+perception consciente globale par une petite addition », eh oui, évidemment. Ce n'est pas
+n'importe quelle petite addition. Ça serait stupide s’il voulait dire par l’addition… par une
+perception également inconsciente, également petite perception. Pourtant, s’il veut dire autre
+chose, alors il se contredit. Il ne peut pas dire non plus, en effet, on passe à la perception
+
+                                                                                                        25
+
+consciente par l’addition d’une perception qui serait elle-même consciente. Alors qu'est-ce qu'il
+veut dire ? Il veut dire que vos petites perceptions forment une série d'ordinaires ou une série dite
+régulière : toutes les petites gouttes d'eau, perceptions élémentaires, [117 :00] perceptions
+infinitésimales.
+
+Comment est-ce que vous passez à la perception globale du bruit de la mer ? Première réponse, si
+je récapitule tout ; première réponse : par globalisation-totalisation. Réponse du commentateur,
+c’est-à-dire de vous et moi : d'accord, c'est commode à dire, facile à dire, c’est bien. Alors, moi,
+je ne penserais jamais à vous faire une objection. Je ne veux pas dire, ça ne va pas. Il faut aimer
+juste assez un auteur pour savoir qu'il ne se trompe pas, que s’il parle comme ça, il a le droit
+d’aller vite.
+
+Deuxième réponse : je passe par une petite addition. Ça ne peut pas être l'addition d'une petite
+perception ordinaire ou régulière, ça ne peut pas être non plus [118 :00] l'addition d'une
+perception consciente puisque la conscience serait présupposée à ce moment-là. La réponse, c'est
+que j'arrive à un voisinage d'un point remarquable, donc je n'opère pas une totalisation, j'opère
+une singularisation. C’est par singularisation. C'est lorsque la série des petites gouttes d'eau
+perçues s'approche ou entre dans le voisinage d'un point singulier, d'un point remarquable que la
+perception devient consciente. C'est une vision tout à fait différente parce qu'à ce moment, toute
+les objections, une grande partie des objections qu'on fait à l'idée d'un inconscient différentiel
+tombe. Mais, vous me direz, qu'est-ce que ça veut dire ? Ça ne veut rien dire. Qu’est-ce que ça
+veut dire, ça ? [Pause] [119 :00] Voilà, vous avez compris ? [Pause] Oui, qu’est-ce que ça veut
+dire ? Il semble qu’on ne s’en sort pas, et en même temps, on est déjà sorti ; c’est le plus simple.
+Qu’est-ce que ça veut dire ?
+
+Alors, viennent les textes qui paraissent les plus complets de Leibniz. Vous vous rappelez ce
+qu’on traine depuis le début, en fait, l'idée que de petits éléments, c'est aussi une manière de
+parler car ce qui est différentiel, ce n'est pas les éléments, et là, vous avez trop raison de le
+rappeler tout à l’heure ; mais on peut s’exprimer comme ça par commodité, et c’est plus simple
+de le dire. En fait, ce qui est différentiel, c’est les rapports. Ce qui est différentiel, ce n'est pas dx
+par rapport à x, car dx par rapport à x, ce n'est rien. Ce qui est différentiel ce n'est pas dy par
+rapport à y car dy par rapport à y, [120 :00] ce n'est rien. Ce qui est différentiel, c’est… et ce qui
+travaille dans l’infiniment petit, c'est dy sur dx, c'est le rapport.
+
+Mais, quel rapport ? Vous vous rappelez qu'au niveau des points singuliers, le rapport différentiel
+change de signe. Formidable, ça ! [Leibniz] est en train d'engrosser Freud sans le savoir. Au
+niveau de la singularité, il y a des croissances ou des décroissances, le rapport différentiel change
+de signe, c'est-à-dire que le signe s'inverse. Dans ce cas de la perception, quel est le rapport
+différentiel ? Pourquoi est-ce que ce n'est pas des éléments mais bien des rapports ? Ce qu’il faut
+voir, c’est qu’en effet, ce qui détermine un rapport, c'est précisément un rapport entre les
+éléments physiques et mon corps, les vibrations et les molécules de mon corps. [121 :00] Vous
+avez donc dy-dx. C'est le rapport de l'excitation physique à mon corps biologique. C'est ça le
+rapport différentiel de la perception. Donc, on ne parlera plus, à ce niveau, vous comprenez, on
+ne peut plus parler exactement de petites perceptions. On parlera du rapport différentiel entre
+l'excitation physique et l'état biologique [Pause] en l'assimilant franchement à dy sur dx, peu
+importe, en l'assimilant franchement à dy sur dx.
+
+                                                                                                     26
+
+Or la perception devient consciente quand le rapport différentiel correspond à une singularité,
+c'est-à-dire change de signe. En d’autres termes, par exemple, quand l'excitation se rapproche
+suffisamment, [Pause] [122 :00] je dirais que, à la lettre pour faire du Leibniz – il ne dirait pas ça
+--, c'est la molécule d'eau la plus proche de mon corps qui va définir la petite augmentation par
+laquelle l'infini des petites perceptions devient perception consciente. Ce n'est plus du tout un
+rapport de tout-parties ; c'est un rapport de dérivation. C'est le rapport différentiel de l'excitant et
+de mon corps biologique qui va permettre de définir le voisinage de la singularité. Voyez en quel
+sens Leibniz pourrait dire que les inversions de signes, c'est-à-dire les passages du conscient à
+l'inconscient et de l'inconscient au conscient, les inversions de signes renvoient à un inconscient
+différentiel et [123 :00] pas à un inconscient d'opposition.
+
+Pensez à quand je faisais allusion à la postérité de Freud, dans Jung par exemple, avec la grande
+rupture Freud-Jung, je ne dis pas du tout qu’il n’y ait que ça dans Jung parce que c’est un tel
+mélange, Jung, mais Jung a tout un côté leibnizien, d’ailleurs, il connaît bien Leibniz, Jung, et ce
+qu'il réintroduit pour la plus grande colère de Freud, et c'est par là que Freud estime que Jung
+trahit absolument la psychanalyse, c'est un inconscient de type différentiel. Et ça, il le doit à qui ?
+Il le doit à la tradition du romantisme allemand ; l’inconscient des romantiques allemands est très
+lié aussi à l'inconscient de Leibniz.
+
+Voyez donc, j’ai pu donner un sens rigoureux à la phrase même de Leibniz : on passe des petites
+perceptions à la perception inconsciente par addition d'un [124 :00] quelque chose de notable,
+c'est-à-dire lorsque la série des ordinaires arrive au voisinage de la singularité suivante, si bien
+que la vie psychique tout comme la courbe mathématique sera soumise à une loi qui est celle de
+la composition du continu. Et pourquoi le continue est-il l’objet d’une composition ? Il y a
+composition du continu puisque le continu est un produit : le produit de l'acte par lequel une
+singularité se prolonge jusqu'au voisinage d'une autre singularité. Et que ceci travaille, non
+seulement l'univers du symbole mathématique, mais l'univers de la perception, de la conscience
+et de l'inconscient, et à partir de là, on n'a plus qu'une seule question : qu'est-ce que le
+compossible et l'incompossible ? Ça en dérive tout droit. [Pause] Quelle heure il est ? [Réponse
+inaudible] Bon, [125 :00] alors je termine là-dessus. Voilà. Vous en pouvez encore, parce que si
+vous ne pouvez plus, il vaut mieux arrêter. Vous pouvez ? Ben, je ne sais pas ce que vous avez…
+
+Voilà, la formule de la compossibilité, on la tient, on la tient. Supposez que je dise ceci : vous
+avez une singularité. Maintenant je peux dire : vous prenez le cas le plus simple ; je reviens à
+mon exemple du carré avec ses quatre singularités. Vous prenez une singularité, [Pause] et vous
+tracez… vous prenez cette singularité, ce point singulier, c'est un point; vous le prenez comme
+centre d'un cercle. Vous me suivez ? Je ne fais pas le dessin. Vous le prenez comme centre d'un
+cercle. Quel cercle ? Jusqu'au voisinage de l'autre singularité. En d'autres termes, vous prenez a,
+vous prenez grand A, dans le [126 :00] carré ABCD, vous prenez grand A comme centre d'un
+cercle qui s'arrête dans la périphérie au voisinage de la singularité B. [Avec] B, vous faites la
+même chose: vous prenez, vous tracez un cercle qui s'arrête au voisinage de la singularité A et
+vous tracez un autre cercle qui s'arrête au voisinage de la singularité C. Voyez, ces cercles se
+coupent. [Pause]
+
+Alors, vous allez comme ça construire, de singularité en singularité, ce que vous pourrez appeler
+une continuité. Le cas la plus simple d'une continuité, [127 :00] c'est une ligne droite, mais
+
+                                                                                                   27
+
+justement il y a aussi continuité des lignes non droites. En quoi ? Voyez, vous avez votre
+système de cercles qui se coupent, vous direz qu'il y a continuité lorsque [Pause] les valeurs des
+deux séries ordinaires, celles de A à B, et celles de B à A, coïncident. Lorsqu'il y a coïncidence
+des valeurs des deux séries ordinaires comprises dans les deux cercles, vous avez une continuité.
+Donc vous pouvez construire une continuité faite de continuité. [128 :00] Vous pouvez
+construire une continuité de continuité. Le carré serait une continuité de continuité. Si les séries
+des ordinaires qui dérivent des singularités divergent, alors vous avez une discontinuité. Bon, ça
+devient tout simple.
+
+Vous direz, un monde est constitué par une continuité de continuité, première définition. Un
+monde est constitué par une continuité de continuité, c'est la composition du continu. Une
+discontinuité est définie lorsque les séries d'ordinaires ou de réguliers [129 :00] qui dérivent de
+deux points singuliers divergent. Troisième définition : le monde existant est le meilleur.
+Pourquoi ? Parce que c'est le monde qui assure le maximum de continuité. Quatrième définition :
+qu'est-ce que le compossible ? Un ensemble de continuités composées. Dernière définition :
+qu'est-ce que l'incompossible ? Lorsque les séries divergent, lorsque vous ne pouvez plus
+composer la continuité de ce monde avec la continuité de cet autre monde. Divergence dans les
+séries d'ordinaires qui dépendent des singularités, à ce moment-là ça ne peut plus faire partie du
+même monde.
+
+Vous avez une loi de composition du continu [130 :00] qui est, vraiment, je reprends, psychomathématique. Pourquoi on ne le voit pas ? Pourquoi faut-il toute cette exploration de
+l'inconscient ? Pourquoi on ne le voit pas ? Parce que, encore une fois, Dieu est pervers. La
+perversité de Dieu, c'est que il a choisi le monde qui impliquait le maximum de continuité –
+voyez, calcul du maximum -- il a choisi le monde et fait passer à l’être, à l'existence le monde
+qui impliquait le maximum de continuité. Seulement, voilà, il a composé le monde choisi sous
+cette forme, seulement il a dispersé les continuités puisque c'est des continuités de continuités. Il
+les a dispersées.
+
+Ça veut dire quoi ? On a l'impression qu'il y a, dit Leibniz, dans notre monde, on a l’impression
+qu’il y a des discontinuités, des sauts, des ruptures, comme il dit dans un terme admirable, on a
+l'impression qu'il y a des chutes de musique, il y a des chutes de musique. [131 :00] Mais en fait
+il n'y en a pas. C’est simplement que, par exemple, on a l’impression qu’il y a un fossé… ou
+certains d'entre nous ont l'impression – au contraire, il y a certains qui ont l’impression qu’il n’y
+en a pas – mais certains d'entre nous ont l'impression qu'il y a un fossé entre l'homme et l'animal,
+une rupture. C'est forcé parce que Dieu, dans sa malice extrême, a conçu le monde à choisir sous
+la forme du maximum de continuité, donc il y a toutes sortes de degrés intermédiaires entre
+l'animal et l'homme. Mais il s'est bien gardé de les mettre sous nos yeux. Au besoin il les a mis
+dans d'autres planètes de notre monde. Pourquoi ? Parce que finalement c'était bon, c'était bon
+pour nous que nous puissions croire à l'excellence de notre domination sur la nature. Si on avait
+vu toutes les transitions entre la pire bête et nous, on aurait été moins vaniteux.
+
+Alors cette vanité est quand même bonne parce qu'elle permet à l'homme d'asseoir [132 :00] son
+pouvoir sur la nature. Finalement ce n'est pas une perversité de Dieu, c'est que Dieu n'a pas cessé
+de casser les continuités qu'il avait construites, pourquoi ? Pour introduire de la variété dans le
+monde choisi, pour cacher tout le système des petites différences, des différences évanouissantes.
+
+                                                                                                    28
+
+Alors il a proposé à nos organes des sens et à nos pensées débiles, il a présenté un monde au
+contraire très tranché. On passe notre temps à dire que, ah, les bêtes n'ont pas d'âme, comme
+dirait Descartes, ou bien qu'elles ne parlent pas, ou bien tout ça. Mais rien du tout, rien du tout :
+il y a toutes les transitions, il y a toujours toutes les petites différences, etc.
+
+Voyez, donc, la définition à laquelle on arrive, sur quoi je voulais terminer, là on tient quelque
+chose, une relation spécifique qui est la compossibilité ou l'incompossibilité. Je dirais encore une
+fois que la compossibilité, [133 :00] c'est lorsque convergent les séries d'ordinaires, les séries de
+points réguliers qui dérivent de deux singularités et lorsque leurs valeurs coïncident, sinon il y a
+discontinuité. Dans un cas vous avez la définition de la compossibilité ; dans l'autre cas, la
+définition de l'incompossibilité. Question, encore une fois : pourquoi Dieu a-t-il choisi ce monde
+plutôt qu'un autre, alors qu'un autre était possible ? Réponse de Leibniz qui, à mon avis, devient
+splendide : c'est parce que c'est le monde qui mathématiquement implique le maximum de
+continuité, et c'est uniquement en ce sens qu'il est le meilleur, qu’il est le meilleur des mondes
+possibles.
+
+Voilà, je voudrais juste que vous reteniez finalement : tout est construit autour de quoi ? Si vous
+voulez, voilà ce que c’est qu’un concept ; ça devient très, très… Vous voyez ? [134 :00] Un
+concept c'est toujours un complexe ; un concept c'est toujours quelque chose de très complexe.
+Notre séance d'aujourd'hui, on la met sous le signe du concept de singularité. Or le concept de
+singularité a comme toutes sortes de langages qui se réunissent en lui. Un concept est toujours, à
+la lettre, polyvoque ; il est polyvoque nécessairement puisque le concept de singularité, vous ne
+pouvez le saisir qu’à travers d'un minimum d'appareils mathématiques : les points singuliers par
+opposition aux points ordinaires ou réguliers, au niveau d'expériences de pensée de type
+psychologique : qu'est-ce que l'étourdissement, qu'est-ce qu'un murmure, qu'est-ce que la
+rumeur, etc. [Pause] Et au niveau de la philosophie comme concept, dans le cas de Leibniz, la
+construction [135 :00] de cette relation de compossibilité.
+
+Et il faudra que les trois… Ce n'est pas une philosophie mathématique, pas plus que les
+mathématiques ne deviennent philosophie, mais dans un concept philosophique, il y a toutes
+sortes d'ordres différents qui nécessairement symbolisent. Et déjà là, je dirais, c’est vrai pour tout
+concept philosophique, que c’est un concept philosophique qu’il a une tête philosophique, il a
+une tête mathématique, et il a une tête d'expérience de pensée, une tête psychologique. Et c'est
+vrai de tous [les concepts], c’est vrai pour tous.
+
+Alors je crois que ce fut un grand jour pour la philosophie lorsque quelqu'un a attiré son attention
+sur ce couple insolite, et c'est ça que j'appelle une création en philosophie. Je l’appelle « ce
+couple isolite, » je veux dire, ben oui, lorsque Leibniz a lancé ce truc -- vous savez, singulier,
+voilà exactement l'acte de création -- lorsque Leibniz nous dit [136 :00] vous savez, singulier,
+réfléchissez bien, il n'y a pas de raison que vous l'opposiez simplement à l'universel. C'est
+beaucoup plus intéressant si vous écoutez un peu ce que disent les mathématiciens qui eux, pour
+des raisons qui sont les leurs, au contraire pensent singulier non pas en rapport avec universel,
+mais en rapport avec ordinaire ou régulier. Alors [Leibniz] ne fait pas des mathématiques à ce
+moment-là.
+
+                                                                                                                       29
+
+Je dirais que son inspiration est mathématique, et il va faire une théorie philosophique,
+notamment toute une conception de la vérité qui est radicalement nouvelle puisque ça va
+consister à dire : ne faites pas trop attention à l'histoire du vrai et du faux ; vous ne demandez pas
+dans votre pensée ce qui est vrai et ce qui est faux, parce que ce qui est vrai et ce qui est faux
+dans votre pensée, ça découle toujours d’autre chose de beaucoup plus profond. Ce qui compte
+dans une pensée, c'est ce qui est remarquable, c’est les points remarquables et les points
+ordinaires. Il faut les deux : [137 :00] si vous n'avez que des points singuliers dans une pensée,
+vous n'avez pas de méthode de prolongement, c'est zéro; si vous n'avez que des points ordinaires,
+vous avez intérêt à penser autre chose, ça se vaut, tout ça. Et plus vous vous croyez vous-mêmes
+remarquable, moins vous pensez de points remarquables, forcément, forcément.
+
+En d'autres termes, la pensée du singulier, c'est la pensée la plus modeste du monde, c'est là que
+le penseur devient nécessairement modeste, parce que le penseur, c'est le prolongement sur la
+série des ordinaires, et la pensée elle, elle éclate dans l'élément de la singularité, et l'élément de la
+singularité, c'est le concept. Voilà. [Fin de l’enregistrement] [2 :17 :38]
+
+Notes
+
+  Voir https://www.youtube.com/watch?v=7baZ7Qlp_2Y&t=194s [Vérifié le 28 juin 2023]
+  Le titre entier est « Tentamen Anagogicum. Essai anagogique dans la recherche des causes ». Voir
+https://fr.wikisource.org/wiki/Essai_anagogique_dans_la_recherche_des_causes pour une image du dessin de
+Leibniz dans cet opuscule.
+  Deleuze va développer ces réflexions sur la perception et les différentiels dans le chapitre 7 de Le Pli, Leibniz et le
+Baroque, pp. 113-132.
+  Ramon Turro y Darder, Les origines de la connaissance (1914 ; Paris : Hachette Livre-BNF, 2018).

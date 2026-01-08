@@ -1,0 +1,117 @@
+1
+
+Théorie des multiplicités chez Bergson
+Cours du 30/11/1969
+
+... Je voulais vous proposer une recherche sur l'histoire d'un mot, et encore une histoire très
+partielle, très localisée. Le mot, c'est celui de multiplicité. Il y a un emploi très courant de
+multiplicité : par exemple, je dis : une multiplicité de nombres, une multiplicité d'actes, une
+multiplicité d'états de conscience, une multiplicité d'ébranlements. Ici, multiplicité est employé
+comme un adjectif à peine substantivé. Et il est certain que Bergson s'exprime souvent ainsi.
+Mais d'autres fois, le mot multiplicité est employé au sens fort, comme un véritable substantif,
+ainsi, dès le deuxième chapitre des Données immédiates [Essai sur les données immédiates de la
+conscience (Paris : Félix Alcan, 1889) ; abrégé DI ], le nombre est une multiplicité, ce qui ne
+veut pas dire du tout la même chose qu'une multiplicité de nombres.
+
+Pourquoi sentons-nous que cet emploi de multiplicité, comme substantif, est à la fois insolite et
+important ? (Le concept de la multiplicité : DI, page 169). C'est que, tant que nous employons
+l'adjectif multiple, nous ne faisons que penser un prédicat que nous mettons nécessairement en
+relation d'opposition et de complémentarité avec le prédicat UN : l'un et le multiple, la chose est
+une ou multiple, et même elle est une et multiple. Au contraire, quand nous employons le
+substantif multiplicité, nous indiquons déjà par-là que nous avons dépassé l'opposition des
+prédicats un-multiple, que nous sommes déjà installés sur un tout autre terrain, et sur ce terrain
+nous sommes nécessairement amenés à distinguer des types de multiplicités. En d'autres termes,
+la notion même de multiplicité prise comme substantif implique un déplacement de toute la
+pensée : à l'opposition dialectique de l'un et du multiple, on substitue la différence typologique
+entre des multiplicités. Et c'est bien ce que fait Bergson : il ne cessera dans toute son œuvre de
+dénoncer la dialectique comme une pensée abstraite, comme un faux mouvement qui va d'un
+opposé à l'autre, de l'un au multiple et du même à l'un, mais qui ainsi laisse toujours échapper
+l'essence de la chose, c'est-à-dire le combien, le poson [le terme grec pour ‘combien’. C'est
+pourquoi il refusera dans L'Energie créatrice, chapitre 3, la question : "l'élan vital" est-il un ou
+multiple? [Il s’agit sans doute L’Évolution créatrice (Paris : Félix Alcan, 1907)] Car l'élan vital
+est comme la durée, il n'est ni un ni multiple, il est un type de multiplicité. Bien plus : les
+prédicats un et multiple dépendent eux-mêmes de la notion de multiplicité, et ne conviennent
+précisément qu'avec l'autre type de multiplicité, c'est à dire avec la multiplicité qui se distingue
+de celle de la durée ou de l'élan vital : "Unité et multiplicité abstraites sont comme des
+déterminations de l'espace ou des catégories de l'entendement" (713).
+
+Il y a donc bien deux types de multiplicité : l'une est appelée multiplicité de juxtaposition,
+multiplicité numérique, multiplicité distincte, multiplicité actuelle, multiplicité matérielle, et elle
+a pour prédicats, nous le verrons : l'un et le multiple à la fois.
+
+L'autre : multiplicité de pénétration, multiplicité qualitative, multiplicité confuse, multiplicité
+virtuelle, multiplicité organisée, et elle refuse aussi bien le prédicat de l'un que celui du même.
+Evidemment il est facile de reconnaître sous cette distinction des deux multiplicités la distinction
+de l'espace et de la durée; mais ce qui est important, c'est que, dans le deuxième chapitre des
+Données immédiates, le thème espace-durée, n'est introduit qu'en fonction du thème préalable et
+plus profond des deux multiplicités : "il y a deux espèces bien différentes de multiplicité", la
+multiplicité numérique qui implique l'espace comme une de ses conditions, et la multiplicité
+
+                                                                                                      2
+
+qualitative qui implique la durée comme une de ses conditions. Note : Les multiplicités
+numériques ont deux dimensions : espace et temps; les autres : durée et extension pré-spatiale.
+
+Or, Bergson commence par une étude des multiplicités numériques. Et son étude, je crois,
+comprend un principe très original : non pas qu'il y ait une multiplicité de nombres, mais chaque
+nombre est une multiplicité, même l'unité est une multiplicité. Et de cela découle trois thèses,
+que je résume seulement :
+
+1/ La réduction du nombre à des notions exclusivement cardinales : le nombre comme collection
+d'unités, et la définition ordinale du nombre d'une collection est purement extrinsèque ou
+nominale, le dénombrement n'ayant d'autre but que de trouver le nom du nombre déjà pensé.
+
+2/ L'espace comme condition du nombre, fut-ce un espace idéal, le temps qui intervient dans la
+série ordinale n'intervenant que secondairement, et comme temps spatialisé, c'est à dire comme
+espace de succession.
+
+3/ La divisibilité de l'unité; car un nombre n'est une unité que par la colligation cardinale, c'est-àdire par l'acte simple de l'intelligence qui considère la collection comme un tout; mais non
+seulement la colligation porte sur une pluralité d'unités, mais chacune de ces unités n'est une que
+par l'acte simple qui la saisit, et au contraire, est multiple en elle-même par ses subdivisions sur
+lesquelles la colligation porte. C'est bien en ce sens que tout nombre est une multiplicité
+distincte. Et il en sort deux conséquences essentielles : à la fois que l'un et le multiple
+appartiennent aux multiplicités numériques, et aussi le discontinu et le continu. L'un ou le
+discontinu qualifient l'acte indivisible par lequel on conçoit un nombre, puis un autre, le multiple
+ou le continu qualifiant au contraire la matière "colligée" (infiniment dursible) par cet acte.
+
+Voilà donc comment se définissent les multiplicités numériques, et d'une certaine manière ce
+sont elles qui engendrent l'espace : Données immédiates, page 62.
+
+Or, il y a quelque chose de très curieux. Les Données immédiates paraissent en 1889. En 1891,
+paraît La Philosophie de l'arithmétique de Husserl. Husserl y propose aussi une théorie du
+nombre : il y affirme explicitement le caractère exclusivement cardinal du nombre, la colligation
+comme synthèse du nombre et le caractère divisible de l'unité. S'il diffère de Bergson, c'est
+seulement sur le rapport de la colligation avec l'espace, Husserl pensant que la colligation est
+indépendante de l'intuition spatiale; mais même cette différence est sérieusement atténuée si l'on
+considère la notion d'espace idéal chez Bergson, l'espace n'étant nullement une propriété des
+choses, mais un schème d'action, c'est à dire une synthèse intellectuelle originale et irréductible
+(cf. Matière et mémoire (Paris : Félix Alcan, 1896) 345]. Alors, il y a un étonnant parallélisme.
+Bien plus, à son tour, Husserl considère le nombre comme un type de multiplicité.
+
+Bien plus, ce type de multiplicité qu'est le nombre, Husserl l'oppose à un autre type : lorsque
+j'entre dans une pièce et que je vois qu'il y a "beaucoup de monde", lorsque je regarde le ciel et
+que je vois "beaucoup d'étoiles, ou beaucoup d'arbres dans la forêt", ou une ligne de colonnes
+dans un temple. Là, en effet, il n'y a pas multiplicité numérique : c'est dans son surgissement
+même qu'un agrégat sensoriel présente une marque qui le fait reconnaître comme une
+
+                                                                                                    3
+
+multiplicité, et comme une multiplicité d'un tout autre type que la multiplicité numérique, sans
+aucune colligation explicite : c'est une multiplicité "impliquée", une multiplicité qualitative.
+Husserl parle de "caractères quasi-qualitatifs", ou d'une multiplicité organisée, ou de "facteurs
+figuraux".
+
+C'est une propriété du Tout, qui n'est nullement, comme on dit trop facilement, indépendant de
+ses éléments, mais qui a, avec ses éléments, des rapports complexes tout à fait différents de ceux
+d'une collection numérique avec les siens. Et Husserl ne manque pas de citer l'exemple de la
+mélodie. Il est bien évident que Husserl, ici, rejoint des travaux de son contemporain [Christian
+von] Ehrenfels qui, en 1890, parlait des qualités-Gestalten, distinctes des qualités propres aux
+éléments, d'un autre ordre qu'elles, et surtout explicitement les travaux de [Karl] Stumpf qui, en
+1885, invoquait la notion de Verschmelzung pour désigner une sorte de synthèse passive (nonintellectuelle), appréhension de qualités d'un ordre supérieur à celui des éléments.
+
+Voilà donc ce qu'est la multiplicité non-numérique. Or ça semble très loin de Bergson. Et
+pourtant pas du tout : les coups d'horloge, dans le chapitre II des Données immédiates, peuvent
+entrer dans une multiplicité numérique, mais lorsque je suis distrait, qu'est-ce qui se passe ? Ils se
+fondent dans une multiplicité non-numérique qualitative. Multiplicité de fusion,
+d'interpénétration. Il est vrai que chez Bergson, il s'agit d'une fusion; pas du tout chez Husserl, ni
+Stumpf, qui remarquent que plus les éléments, les notes d'une mélodie sont clairement aperçues.

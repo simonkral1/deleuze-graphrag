@@ -1,0 +1,1338 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Principes et la Liberté
+
+Séance 14, le 7 avril 1987 : Les Principes et la Liberté (9) -- Logique de l’événement
+
+Transcription augmentée, Charles J. Stivale
+
+ [Comme Deleuze a annoncé à la séance du 17 mars que le cours ne reprendrait que le 31 mars,
+étant donné son absence de Paris mardi le 24, on peut s’étonner qu’il ait fallu attendre le 7 avril
+pour reprendre le séminaire (et non pas le 8 avril 1987 qui est la date attribuée à WebDeleuze et
+pour la séance et pour l’enregistrement). Bien que Deleuze ne s’adresse pas au hiatus prolongé,
+il n’en avait peut-être pas du tout besoin étant donné les événements qui ont eu lieu sur le
+campus de Vincennes-St. Denis le weekend du 27-30 mars, notamment les États-Généraux des
+Étudiants et l’arrivée d’entre 10 mille et 15 mille étudiants de toutes les régions de la France. Il
+est bien probable que les prolongements dans les lendemains de cette réunion a produit un
+certain désordre dont il fallait se remettre avant de reprendre l’emploi du temps régulier des
+cours.
+
+Cette séance alors sert autant comme une récapitulation de ce que Deleuze a présenté lors de la
+séance du 17 mars que comme une conclusion de ce qu’il désigne comme la dernière session de
+la deuxième partie du travail de l’année, tout en préparant les bases du travail qu’il
+entreprendra après la pause de Pâques le 28 avril]
+
+Partie 1
+
+… C’est ce qui reste à faire pour finir – on a déjà fait une première partie sur trois, il y a déjà
+longtemps qu’on l’a finie ; cela a fait un grand effort – et puis on touche à la fin de la seconde
+partie, qui en gros, ce que l’on pourrait appeler une théorie de l’événement spirituel. [Pause]
+Puis, il nous reste une troisième partie. Je dis tout ça pour que vous voyiez ce qui nous reste à
+faire, et il n’y a pas raison que ça s’arrête quand on n’a pas fini ; on s’arrêtera quand on aura fini.
+
+Ce qui nous reste à faire dans cette seconde partie, c’est bien nous y reconnaître dans cette
+théorie de l’événement comme événement spirituel grâce à cette comparaison que nous avons
+commencée, Whitehead-Leibniz. [1 :00] Et il me semble que c’est quelque chose de très
+important, non pas pour la philosophie en général, mais pour les possibilités de la philosophie,
+que nous ouvrir cette vision un peu insolite sur l’événement à base de tout, tout, tout est
+événement, comme si, suivant le choix du philosophe, choix toujours légitime, le concept d’un
+exposé d’une notion aussi peu habituelle. Je veux dire, nous pensons tous savoir créer un
+événement, mais rares sont ceux qui pensent que le monde est fait d’événements.
+
+Et pourtant, quelque chose répond dans notre tête lorsqu’on nous dit, mais qu’est-ce que c’est
+qu’un électron, par exemple ? Si peu que nous sachions dans les sciences, si on nous dit, qu’estce que c’est qu’un électron ? [2 :00] Vous prenez un électron pour quoi ? Vous le prenez pour
+une chose ou pour un événement ? Est-ce qu’on ne peut pas dire, en effet, quitte à voir où ça
+nous mène, tout est événement ? Mais, [si] il n’y a que des événements, et vous, vous vous
+
+                                                                                                   2
+
+prenez pour quoi ? Vous vous prenez pour des personnes ? Il y a des gens qui se prennent pour
+des personnes ; c’est très légitime, vous et moi, de leur retirer une pareille croyance qui surement
+les fortifient dans la vie. Mais, [est-ce que] vous vous prenez pour des personnes ou pour des
+événements ? Vous me direz, nous sommes modestes. Nous ne nous sommes pas des
+événements. Mais, il y a de tout petits événements ; il y a de minuscules événements. Un
+événement, à la lettre, ce n’est pas un événement. Il n’y a pas de quoi en faire un événement.
+[Rires] [3 :00] Et où est l’orgueil le plus grand, se prendre pour une personne ou se prendre pour
+un courant d’air ? Un courant d’air est un événement. Bon, tout cela.
+
+Et puis, nous devons en tirer des conclusions, et je vais dire tout de suite pourquoi, toujours dans
+cette seconde partie, sur la substance qui est un problème philosophique, lui, qui a traversé si
+longtemps la philosophie. Et après tout, pourquoi penser que ce soit une notion finie ? Et si c’est
+une notion finie et terminée qui ne renvoie plus qu’à l’histoire de la philosophie, encore faut-il
+dire pourquoi. Ou bien y a-t-il un moyen de la sauver ? On a tous encore besoin aujourd’hui ;
+tout ça n’est pas réglé ! Et enfin, j’avais dit que, comme j’étais à cheval finalement sur les deux
+sujets, on profiterait de la fin de cette deuxième partie pour tirer des [4 :00] conclusions sur
+qu’est-ce qu’on peut dire, en fonction de tout ça, sur, et de ce point de vue et pas n’importe quel
+point de vue, sur qu’est-ce que ça peut bien être la philosophie aujourd’hui, et qu’est-ce que c’est
+faire de la philosophie ou qu’est-ce que c’est alors, en prenant notre cas à tous de cette année,
+qu’est-ce que c’est réfléchir sur Leibniz aujourd’hui ? Qu’est-ce que… Bon. C’est ça qui nous
+restait.
+
+Et puis, et puis, il nous restera pour achever l’année quelque chose dont on n’a jamais parlé, et je
+veux dire immédiatement pour que vous compreniez l’ensemble de ce qu’on a fait. Je dis que
+tout ce qu’on a vu là ce trimestre, c’est l’événement comme événement spirituel. Ça veut dire
+quoi ? [Ici commence la transcription de WebDeleuze] Et en un sens tout événement est spirituel.
+Bien plus, quelque chose n'est un [5 :00] événement qu'en tant que porté à l'état de phénomène
+de l'esprit. La mort n'est événement comme phénomène de l'esprit, sinon ce serait l’événement, la
+naissance est événement, etc. Mais finalement, nous avons vu comment chez Leibniz
+l'événement renvoyait à l'inhérence dans la monade, c'est-à dire-que l'événement n'a d'existence
+actuelle que dans la monade qui exprime le monde, que dans chaque monade qui exprime le
+monde. L'événement existe actuellement dans la monade, dans chaque monade. Bon.
+
+Mais ce n'est qu'une dimension de l'événement, c'est la dimension spirituelle. [6 :00] Encore fautil que l'événement s'effectue. Là je distinguerais actualiser et effectuer. Je dirais que l'événement
+s'effectue dans un esprit [Il est possible, vu ce qui suit dans ce paragraphe, que Deleuze voulait
+dire ici "s’actualise dans l’esprit"], et que c'est ça l'appartenance la plus profonde de l'esprit à
+l'événement et de l'événement à l'esprit. L'événement s'actualise dans un esprit, ou, si vous
+préférez dans une âme. Il y a partout des âmes. Tout ça serait très conforme à Leibniz:
+l'événement s'actualise dans une âme et il y a partout des âmes, mais en même temps il faut qu'il
+s'effectue, qu'il s'effectue dans une matière, qu'il s'effectue dans un corps. [7 :00] Là nous avons
+comme un double système de coordonnées: l'actualisation dans une âme et l'effectuation dans un
+corps.
+
+Mais qu'est-ce que ça veut dire, avoir un corps? Puisque, précisément, tout ce trimestre nous
+l'avons consacré aux rapports de l'événement à la monade comme pur esprit, comme âme. Et
+nous sentons bien, encore une fois, que l'événement ainsi défini, comme ce qui existe
+
+                                                                                                      3
+
+actuellement dans l'âme, implique une autre dimension: s'effectuer dans une matière ou dans un
+corps. D'où notre question, et la question de départ de notre troisième partie, ce sera: [8 :00]
+qu'est-ce que signifie "avoir un corps"? Qu'est-ce que c'est que ça? Nous saurons ce que cela
+signifie "avoir un corps", ou du moins le corps même, c'est ce dans quoi l'événement s'effectue.
+Passer le Rubicon -- l'exemple éternel auquel revient Leibniz -- passer le Rubicon, c'est
+l'événement actuel, plutôt c’est l’événement qui s'actualise dans la monade César, et en effet, il
+faut une décision de l'âme. César aurait pu ne pas passer le Rubicon, on a vu en quel sens il y
+avait une liberté chez Leibniz. Mais ça renvoie aussi [9 :00] à un corps et à une rivière ; il faut
+que ce corps franchisse cette rivière. Alors là, c’est le point sur lequel… Que les monades aient
+des corps, que bien plus ces corps se trouvent dans un monde matériel, ça nous ne l'avons
+absolument pas abordé, et ce sera l'objet de notre troisième partie.
+
+Mais, donc, je reviens ainsi à la fin de cette seconde partie que je voudrais avancer au maximum
+aujourd'hui. Mon rêve, ça serait de la finir, mais je comprends le chemin. C’est qu'est-ce que
+c'est toute cette logique de l'événement qu'on essaie, depuis longtemps, depuis beaucoup de
+séances, qu’on essaie de construire?
+
+C’est parti et nous sommes partis [10 :00] de ceci, je vous le rappelle, qu’à travers tout ce
+trimestre pour nous, à savoir: Leibniz invente ou se réclame d'une inclusion du prédicat dans le
+sujet. Seulement il faut faire très attention car ce qu'il appelle prédicat, c'est toujours un rapport
+ou un événement. Et je m'appuyais très fort sur le texte de Discours de métaphysique, où comme
+en passant tellement ça va de soi pour lui, Leibniz dit: le prédicat ou événement. Voilà une chose
+que, à ma connaissance, ni Malebranche, ni Spinoza, ni Descartes n'auraient jamais dit ni même
+conçu. Le prédicat, ou événement. En d'autres termes, je dis, faites très attention parce que,
+contrairement… [11 :00] et là on était forcé de dire, non, il y a quelque chose qui ne va pas dans
+beaucoup de commentaires de Leibniz, puisqu'on fait comme si le prédicat chez Leibniz était
+comme chez les autres, un attribut.
+
+Et l’on voit même un auteur aussi important, aussi génial que [Bertrand] Russel, qui consacre un
+livre à Leibniz, dire: l'inhérence du prédicat dans le sujet implique que tout jugement soit un
+jugement d'attribution. Dès lors, comment Leibniz va-t-il rendre compte du rapport, de la
+relation? Je dis: il y a quelque chose d'effarant là-dedans, il me semble, puisque certainement
+Leibniz affronte des problèmes difficiles, mais pas celui-là. Pour une simple raison: c'est que…
+bien sur et c'est ça qui explique que très souvent, il parle d'attribution [12 :00] au même sens que
+prédication, mais jamais, jamais, jamais à ma connaissance, je pense, au moins j'espère, touchons
+du bois, presque jamais vous ne trouverez une identification du prédicat à l'attribut. Pourquoi?
+Pour une raison simple: il n'y a pas d'attribut chez Leibniz. C'est une bonne raison. Alors bien
+sûr, on peut trouver le mot, mais ça ne change pas grand-chose. Je veux dire: le prédicat est
+toujours événement ou rapport.
+
+Moi, je n'ai pas le sentiment que les problèmes de relation fassent la moindre difficulté à
+Leibniz ; toute sa philosophie est faite pour ça. Toute sa logique est faite pour ça. Ce serait quand
+même étonnant que ça lui fasse une difficulté particulière. Alors c'est très curieux que, voyez, à
+mon avis, c’est quand même drôle, la source des erreurs, [13 :00] c'est toujours très drôle, si j'ai
+raison de penser que c'est une erreur. Lorsqu' un homme comme Russel dit : chez Leibniz, les
+jugements sont ramenés aux modèles de l'attribution, il s'appuie sur quoi? Sur la formule: "Tout
+
+                                                                                                           4
+
+prédicat est dans le sujet". Il dit donc que tout est attribution. Mais "Tout prédicat est dans le
+sujet" implique, chez Leibniz, que le prédicat n'est pas un attribut. Qu'est-ce qui est dans le sujet
+alors? Ce qui est dans le sujet c'est, en effet, des rapports et des événements. En d'autres termes,
+Leibniz est un auteur pour qui la prédication, ou si vous préférez, si vous voulez, l'assignation
+d'un prédicat à un sujet, c'est un auteur pour qui la prédication [Pause] [14 :00] se distingue
+radicalement de l'attribution. Et c'est un auteur qui à la lettre, à la limite du moins, nous dirait: il
+n'y a pas d'attribution ; il n'y a que des prédications.
+
+La question du rapport et de la relation, pour Leibniz, elle a toujours été très simple, elle a
+consisté à dire: il y a un sujet de la relation. Vous voyez, ceux qui disent, ceux qui objectent à
+Leibniz, comme Russel, que une philosophie comme celle de Leibniz est incapable de rendre
+compte des relations, c'est ceux qui entendent ou qui croient entendre: la relation n'a pas de sujet.
+Donc, une philosophie qui, comme celle de Leibniz, affirme que tout jugement, que toute
+proposition est du type: "prédicat est dans le sujet" ne peut pas [15 :00] rendre compte de la
+relation puisque la relation, quand je dis: par exemple: "voici trois hommes" -- pour prendre un
+exemple de Russel --, "voilà trois hommes", où est le sujet? C'est une proposition sans sujet,
+"voilà trois hommes".
+
+Bon, je crois que la réponse de Leibniz serait extrêmement simple. La réponse de Leibniz, ce
+serait : dans tous les cas, quelque soit la proposition où vous le considériez, ce qui est sujet ne va
+pas de soi. Si vous vous trompez dans l'assignation du sujet, évidemment, c'est la catastrophe.
+Dans "voilà trois hommes", cherchons quel est le sujet. [Pause] On m'accordera que là, au nom
+de la logique même, je peux considérer la proposition "voilà trois hommes" comme une
+proposition [16 :00] renvoyant à la même fonction que "voilà trois pommes", ils ont la même
+fonction propositionnelle, voilà trois x. Quel est le sujet de: "voilà trois x"?
+
+La réponse de Leibniz: si vous posez bien le problème, vous le trouverez le sujet! Alors les
+raisonnements de Russel selon lesquels le sujet ce n'est pas tel homme, ni tel autre homme, ni
+l'ensemble des trois hommes. Et tout dépend quel est le prédicat aussi. On a vu la réponse de
+Leibniz. La réponse de Leibniz, c'est : "voilà trois x", la proposition correspondante, c'est 2 et 1
+sont prédicats de 3. Ça a l'air complètement insignifiant, 2 et 1 sont prédicats de 3; j'ai essayé de
+montrer que c'était une réponse extrêmement importante [17 :00] puisqu’il y avait bien
+assignation d'un sujet. Et chez Leibniz, ce sujet ne pouvait avoir comme prédicat que un rapport.
+Le rapport 2 - 1 est le prédicat du sujet 3. Encore une fois, pourquoi tout ça? C'est pour dire: le
+prédicat est toujours un rapport ou un événement ; ce n'est pas un attribut. Prédicat du sujet, c'est
+une logique de l'événement.
+
+Ma question immédiatement, c'est: qu'est-ce qui en découle quant à la substance? Parce que la
+substance c'est le sujet. Ce qu'on appelle en logique "sujet", c'est ce qu'on appelle en
+métaphysique "substance" : [18 :00] la substance est définie comme le sujet de ses propres
+déterminations. Les deux notions ont été longtemps équivalentes, et au 17ème siècle il y a
+équivalence parfaite entre la substance métaphysique et le sujet logique. C'est Kant et la
+philosophie postkantienne qui fera une différence dans la mesure où elle mènera une critique du
+sujet métaphysique, c'est-à-dire une critique de la substance, et dès lors, dissociera le destin du
+sujet logique et de la substance même. Est-ce qu'ils avaient raison ou pas? Tout dépend de quels
+genres de problèmes est-ce qu'ils posaient à ce moment là. Tout ça ce n’est pas notre affaire. Je
+
+                                                                                                     5
+
+dis: quelles conséquences quant à la substance? [19 :00] C'est essentiel. Voilà. C’est que la
+substance ne se définit plus et ne pourra plus se définir plus par l'attribut.
+
+Or, si vous considérez… Or je crois que, d’Aristote à Descartes, de manières, bien entendu,
+différentes, la substance est définie par l'attribut, c’est-à-dire par l'attribut, c'est quoi, là?
+L'attribut, c'est l'essence. L'attribut, c'est ce que la chose est, c'est-à-dire son essence. Et vous
+avez, si vous voulez, conformation, correspondance entre le schéma logique: "sujet est [e-s-t]
+attribut", [20 :00] et conformation métaphysique: "substance être essence". [On entend ici une
+baisse du son momentanée dans l’enregistrement qui indique un saut des deux phrases suivantes,
+présentes à WebDeleuze] Si la proposition n'est plus une attribution, c'est-à-dire ne se définit plus
+par l'attribut d'un sujet, qu'est-ce que devient la substance qui ne peut plus se définir par une
+essence? C'est par-là que tout ce point se rattache au thème le plus évident, le plus certain de
+notre recherche, cette année. [Retour à l’enregistrement BNF/YouTube] Il faudra dire que
+Leibniz rompt avec le schéma de l'attribution, et que du même coup, il rompt avec l'essentialisme
+de la substance, de la substance constituée par une essence. [Pause]
+
+A l'attribution, il substitue la prédication, le prédicat étant toujours rapport ou événement, et à
+l'essentialisme il va substituer quoi? Alors là on peut être tout heureux de trouver la justification
+d’un mot ; [21 :00] je le dis très vite, appelons ça: Maniérisme. Car, après tout, le Maniérisme,
+nous savons tous qu'il a des rapports très particuliers -- soit intérieurs, soit un peu avant, soit un
+peu après -- avec précisément le Baroque. Mais on peine pour les critiques qui ont l'air
+d'éprouver tant de peine à définir le Maniérisme. Autant tout changer, de lieu, de place et se dire:
+bon très bien, est-ce que la philosophie ne pourrait pas lui donner un coup de main, puisqu'il y a
+tant de peine à définir le Maniérisme en art, peut-être que la philosophie nous donne un moyen
+très simple de définir le Maniérisme? Et nous sentons bien que si la substance ne se définit plus
+une essence, [22 :00] elle va se définir par quoi? De toute manière, une substance ne peut pas se
+définir par les modes, par ses modes.
+
+Qu'est-ce que c'est que le mode d'une substance? Ce qu'on appelle mode d'une substance, c'est un
+quelque chose qui implique la substance sans que la substance l'implique. [Pause] Je dis par
+exemple: la figure implique de l'étendue, le triangle implique de l'étendue, le triangle implique de
+l'étendue. [23 :00] Mais l'étendue n'implique pas le triangle. La preuve, c'est qu'elle peut avoir
+une autre figure, et même, à la limite, elle peut n'avoir aucune figure du tout. Je dirais: la figure
+est un mode de l'étendue. Voyez ? Si a implique b sans que b implique a, alors [Pause] il y a
+mode, alors a est un mode de b. Vous voyez tout de suite comment on distingue par-là le mode et
+l'essence. L'essence, c'est ce qui implique la chose dont elle est l'essence, et qui inversement est
+impliquée par la chose. En d'autres termes, [24 :00] on dira que l'essence, c'est l'implication
+réciproque, et le mode, c'est l'implication unilatérale. Dès lors, il semblait très normal de définir
+la substance par l'essence, à condition que, oui, à condition qu'il y ait des essences.
+
+Qu'est-ce que c'est le Maniérisme? Supposez une pensée ; définissons-le comme pensée, d'abord,
+et puis vous n'avez qu'a vous demander en vous-même, et essayez en même temps que je parle,
+de vous, de le peindre. [25 :00] Vous déroulez une toile mentale là, et vous essayez de faire la
+peinture qui y correspond. Je dis, imaginez qu'un philosophe pense, pour des raisons
+indéterminées, que dans la substance il y a plus, il n'y a pas seulement des modes, mais il y a
+quelque chose qui est plus qu'un mode ou une modification, et qui pourtant n'est pas une essence;
+
+                                                                                                   6
+
+est autre chose qu'une essence. C'est plus qu'une modification, et ce n'est pas une essence, c'est
+autre chose qu'une essence. [Pause] La substance [26 :00] ne se définira plus par une essence ;
+reprenez votre toile mentale: je dis que l'homme est un animal raisonnable. Peignez l'animal
+raisonnable. Ça vous donne tout de suite un style, un style de peinture. Peindre l'être raisonnable,
+c'est déjà tout un style de peinture qui est peut-être des peintures sublimes. [Pause] Mais si je
+dis: non, bien sûr, dans la substance il y a des choses qui sont plus que les modes, mais ce n'est
+pas des essences, c'est autre chose que [27 :00] des essences.
+
+Je retiens un texte de Leibniz, Lettres au Révérend Père des Bosses, comme une bosse, Lettres
+au Révérend Père des Bosses, dans l'édition française, page 176: "Il vous semble, dites-vous" --
+dit Leibniz au révérend père -- "Il vous semble, dites-vous, qu'il peut y avoir un être
+intermédiaire entre la substance et la modification" -- entre la substance et le mode – "mais je
+pense moi que cet intermédiaire est justement se…" -- Je peux lire le reste mais nous ne sommes
+pas en mesure de comprendre – "est justement se substancier, un par soi"-- c'est-à-dire la
+substance composée. Peu importe là, ce qui compte c'est qu'il ne dise pas: cet intermédiaire est
+une essence. [28 :00] Je dis, pourquoi [est-ce que] nous ne sommes pas en mesure de comprendre
+ce qu'il va expliquer dans la lettre au révérend père des Bosses? C’est que ça fait partie de notre
+troisième partie, et ça fait appel à des données que nous n'avons pas encore. [Dans Le pli.
+Leibniz et le baroque, Deleuze note que : « Les lettres à Des Bosses sont traduites et commentées
+par Christiane Frémont dans L’être et la relation (Vrin, 1981) », p. 113, note 1.]
+
+Mais ce qui m’importe, peu importe là, ce qu’il est en train de dire, je retiens: il y a un
+intermédiaire entre la modification et la substance, et cet intermédiaire n'est nullement déterminé
+comme l'essence -- qui d'ailleurs n'est pas un intermédiaire. Car, qu'est-ce que c'est,
+l'intermédiaire entre la substance et la modification ? Ça ne peut être qu'une chose, quelque
+chose qui joue le rôle d'une source des modifications, une source des modifications. La substance
+ne se définit pas par une essence, [29 :00] elle se définit par et comme la source active de ses
+propres modifications, [Pause] source de ses propres manières. La substance n'a pas d'essence,
+elle est source de ses manières d'être. Une chose se définit par toutes les manières d'être dont elle
+est capable, la substance de la chose étant la source de ses manières d'être. [Pause] Ce qui
+implique, que vous le vouliez ou non, que la substance soit inséparable des manières d'être ellesmêmes. [30 :00] En d'autres termes, elle ne pourra pas être séparée de ses modes sinon
+abstraitement. [Pause] Et si vous tenez à garder le mot "substance", vous pouvez toujours, mais
+à ce moment-là, il faudra dire: la substance, c'est le tout.
+
+Et, dans un texte qui me semble très important [Pause ; Deleuze cherche dans son livre],
+Discours de métaphysique, Leibniz nous dit [Pause] quelque chose qui me parait tellement
+bizarre, tout ça, [31 :00] il faut le remarquer. Discours de métaphysique, paragraphe 15: "On
+pourrait appeler notre essence" – vous voyez, "on pourrait", le conditionnel est déjà très
+intéressant, ça prouve qu'il n'y tient pas tellement à cette notion -- "On pourrait appeler notre
+essence ce qui comprend tout ce que nous exprimons" -- or vous vous rappelez, la monade
+exprime le monde entier, la monade exprime le tout – Il ajoute, c’est un vocabulaire très spécial ;
+il a donc des raisons pour ça -- "Mais ce qui est limité en nous" – donc, on appellerait essence
+[32 :00] le tout de ce que nous exprimons; ce serait ça notre essence. L'essence, c'est le tout --
+"Mais ce qui est limité en nous" -- Et c'est quoi ce qui est limité en nous, vous vous rappelez
+peut-être? C'est la petite région que nous exprimons clairement, ce qu'il appelle si bien notre
+
+                                                                                                   7
+
+"département". Nous exprimons le monde entier, mais nous n'exprimons clairement qu'une petite
+région du monde -- "Mais ce qui est limité en nous" -- c'est-à-dire notre zone d'expression claire
+– "Ce qui est limité en nous pourra être appelé notre nature ou notre puissance". C'est curieux, il
+refuse le mot d'essence. Vous voyez son opération: l'essence, c'est le tout de ce que nous
+exprimons, et au contraire, on appellera nature et non pas [33 :00] essence, nature ou puissance
+la zone restreinte que nous exprimons clairement. [Pause]
+
+Je résume: la substance ne peut plus se définir par l'essence à ce niveau. On aura à revoir ça de
+plus prés, mais c'était mon thème général. Elle ne peut se définir que par rapport à ses propres
+manières d'être comme la source de ces manières. La monade leibnizienne est profondément
+maniériste et non pas essentialiste. [Pause] Je dirais presque que c'est une révolution dans la
+notion de substance, [34 :00] peut-être aussi grande que l'autre révolution qui consistera à se
+passer de la notion de substance, à savoir… Parce que qu'est-ce qui était important dans la notion
+de substance? Est-ce que c'était l'idée même de substance, ou est-ce que c'était le fait
+[Interruption du texte de WebDeleuze] de la définir par une essence ?
+
+Partie 2
+
+Chez Leibniz, [Retour au texte de WebDeleuze] elle ne sera plus définie par une essence. Elle
+apparaît sous un mode maniériste et non plus essentialiste. Et en effet, je crois que d'une certaine
+façon, si vous pensez à la peinture dite maniériste, c'est toute la philosophie de Leibniz qui est
+sans doute la philosophie maniériste par excellence. [Pause] Déjà chez Michel Ange, quand on
+trouve chez lui les traces d'un premier et profond Maniérisme, [35 :00] vous verrez une attitude
+de Michel Ange n'est pas une essence. C'est vraiment la source d'une modification, la source
+d'une manière d'être. [Pause] En ce sens, c'est peut-être la philosophie qui nous donne pour une
+fois la clef d'un problème de peinture, sous la forme: qu'est-ce que le Maniérisme?
+
+Et revenons quand même alors. [Pause] Ça revient à dire finalement quoi? Ben oui, pourquoi il
+n'y a pas d'essence? Encore une fois pour les mêmes raisons qu'il n'y a pas d'attributs mais il y a
+des prédicats. Les prédicats, c'est des événements des rapports. Tout est événement, [36 :00] c'est
+ça le Maniérisme. La production d'une manière d'être est événement. L'événement, c'est la
+production d'un mode d'être. Tout est événement, c'est la vision maniériste du monde : il n'y a
+que des événements. Bon.
+
+Revenons à notre comparaison très rapide. Vous avez vu, vous vous rappelez, j’espère que nous
+avions achevé un premier niveau, premier niveau quant à notre confrontation à ce niveau d'une
+logique et d'une métaphysique de l'événement. Notre comparaison Whitehead et Leibniz nous
+avait emmené à développer un premier niveau, à savoir: [37 :00] bien, prenez un événement
+quelconque. Une fois dit que tout est événement, quelles sont les conditions de l'événement?
+Quelles sont les conditions de l'événement? Je vous rappelle le point de départ valable aussi bien
+pour Leibniz que pour Whitehead: un événement, ce n'est pas simplement, comme dit
+Whitehead, "un homme est écrasé", mais c'est la vie de la Grande Pyramide pendant cinq
+minutes. On se demandait quelles étaient les conditions des événements? Et on pouvait parler les
+deux langages, les deux langages étaient si proches l'un l'autre. L'événement est vibratoire, y
+trouve sa condition [38 :00] dans la vibration. Finalement le dernier élément des événements sont
+les vibrations de l'air ou les vibrations d'un champ électromagnétique. Ou bien, ça nous rappelait
+
+                                                                                                      8
+
+quelque chose, l'évènement est de l'ordre de l'inflexion, [Pause] des inflexions comme
+événements de la ligne, les vibrations comme événements de l'onde.
+
+Et on avait vu comment, chez Whitehead, cette assignation vibratoire de l'événement se faisait
+sous forme de deux séries. [Pause] [39 :00] Premièrement [il y a] des séries extensives qui se
+définissent comme ceci: elles n'ont pas de dernier terme, elles sont infinies, elles n'ont pas de
+limite. Elles entrent dans des rapports de Tout-parties. Exemple typique de rapport Tout-partie, la
+vie de la pyramide pendant une heure, où je la regarde, pendant une demi-heure, pendant une
+minute, pendant une demi-minute, pendant une seconde, pendant un quart de seconde, pendant
+un dixième de seconde, à l'infini. La série ne tend vers aucune limite. La série est infinie, et les
+membres de la série entrent dans des rapports de Tout et de parties. Voilà, c'était le premier type
+de série. [40 :00]
+
+Remarquez, si vous vous rappelez, on avait trouvé l'équivalent chez Leibniz. Et pourtant je ne
+pense pas du tout que Whitehead emprunte à Leibniz. C'est dans des contextes tellement
+différents. Leibniz [Whitehead] parle au nom d'une physique moderne de la vibration, pardon,
+Whitehead, tandis que Leibniz parlait au nom d'un calcul mathématique des séries. Je crois
+beaucoup plus là à une rencontre, surtout que je force quand même un peu la ressemblance, mais
+enfin, c’est légitime. Je dis: chez Leibniz, vous trouvez un premier type de série infinie qu'on
+peut appeler les extensions. Les extensions, ce n'est pas simplement les longueurs, ce sont les
+longueurs commensurables, qui entrent dans les rapports de Tout-parties, mais ce sont aussi les
+nombres [41 :00] qui entrent dans les rapports de Tout-parties. Il nous avait semblé que c'était les
+extensions qui, chez Leibniz, étaient l'objet à la fois de définition et de démonstration. Voilà la
+première condition.
+
+La seconde condition, Whitehead nous la présente comme ceci: c'est que les premières séries
+n'en ont pas moins des caractères internes, des caractères intrinsèques, caractères intrinsèques qui
+entrent dans une nouvelle sorte de série, dans une seconde sorte de série, ou plutôt dans la
+mesure, dit-il, entrent dans une seconde sorte de série. [Pause] [42 :00] Cette seconde sorte de
+série, c'est quoi? Peut-être vous rappelez-vous? Ce sont des séries également infinies, mais qui,
+cette fois-ci, tendent vers des limites internes. Elles tendent vers des limites ; en d'autres termes,
+elles sont convergentes, au sens où l'emploie Whitehead. Ce sont des séries convergentes qui
+convergent sur des limites.
+
+Et je vous disais, c'est tout simple: prenons une onde sonore. L'onde sonore est première série.
+En quel sens? En ce sens qu'elle a une infinité, ou est supposée avoir une infinité d'harmoniques
+qui sont des sous-multiples [43 :00] de sa fréquence. Par-là, c'est une série du premier type.
+Mais, d'autre part, elle a des propriétés intrinsèques: [Pause] la hauteur, l'intensité, le timbre. Ces
+caractères intrinsèques entrent eux-mêmes dans des séries, simplement séries différentes de la
+série de premier type: cette fois-ci, ce sont des séries convergentes qui tendent vers des limites. Il
+y aura des rapports entre ces limites: [44 :00] toujours l'idée finalement chez Leibniz comme
+chez Whitehead que tout est rapports. Il y aura rapports entre ces limites, et vous sentez bien que
+ce sont ces rapports entre ces limites qui seront prédicats. Prédicats de quoi? Nous appelions
+extension le premier type de série, nous appelons intension – avec un ‘s’, pas avec un ‘t’ -- le
+second type de série. Ou si vous préférez: extensité et intensité.
+
+                                                                                                         9
+
+Les rapports entre limites définissent des conjonctions. Si vous prenez une onde lumineuse, vous
+aurez aussi les deux types de séries. Ce qui m'importe, c'est cette constitution, voyez, de deux
+types de séries superposées. [45 :00] Les limites internes du second type de séries, on a vu
+comment Leibniz les baptisait d'un nom extrêmement précieux: ce sont, nous dit-il, des réquisits.
+A cet égard, le parallélisme est très grand entre Whitehead et Leibniz. Ce sont des réquisits. Par
+exemple, le timbre, la hauteur, l'intensité, sont les réquisits du son. [Pause] Les harmoniques ne
+sont pas des réquisits, vous voyez. Les harmoniques, c'est l'ensemble des rapports parties-Tout
+qui définissent le premier type de séries. [46 :00] Les réquisits, ce sont les limites qui définissent
+le second type de séries, les séries convergentes.
+
+Bien plus, je pourrais dire que Leibniz ajoutait un troisième type de série, par rapport à
+Whitehead. Vous vous rappelez peut-être, le troisième type de série, chez Leibniz, c'était: des
+séries convergentes qui ont pour propriété supplémentaire de se prolonger les unes dans les
+autres, de manière à constituer un monde conjonctif, le monde qui sera exprimé par chaque
+monade. Donc les singularités prolongeables, ou les séries prolongeables les unes dans les autres,
+les séries convergentes prolongeables les unes dans les autres qui constituent un monde
+conjonctif exprimé par toutes les monades, ce serait un troisième type de série, [47 :00] qui n'a
+pas d'équivalent chez Whitehead, et qui permet à Leibniz de définir les individuations. Si bien
+que chez Leibniz, on aurait les trois séries, vous vous rappelez, puisque chaque monade
+individuelle contracte, concentre un certain nombre de singularités. Alors ce serait bien parce
+que chez Leibniz on aurait une échelle de trois séries les unes sur les autres: les extensions, les
+intensions et les individuations. Chez Whitehead, on n'aurait que deux séries. Mais ça serait déjà
+très bien, ça ne veut pas dire que... Pourquoi? Sans doute que chez Whitehead c'est plus tard, ce
+n'est pas au même niveau qu'il va découvrir le phénomène de l'individuation. [48 :00]
+
+Mais pour le moment nous n'avons répondu qu'à une chose, c'est: quelles sont les conditions de
+l'événement. Je dirais, les conditions de l'évènement c'est dans les séries infinies. C'est une
+réponse possible, les séries infinies, à une condition de les définir. A votre choix, deux types, je
+dirais: les conditions de l'événement, c'est les deux types de séries, ou les trois types de séries, à
+votre choix, dont l'événement est la conjonction, l'événement conjonction de deux ou trois types
+de séries.
+
+Mais ainsi j'ai défini les conditions de l'événement, je n'ai pas défini encore la composition de
+l'événement, et ce qu’on avait vu la dernière fois, c'était la composition de l'événement. [49 :00]
+Et on avait commencé à le voir chez Whitehead, et je vous rappelle qu'on avait dit oui, l'élément
+composant de l'événement c'est la préhension, c’est la plus loin préhension, selon Whitehead.
+Pour une notion aussi nouvelle que faire la logique de l'événement, il a évidement besoin de mots
+relativement nouveaux: l'élément constituant de l'événement, c'est la préhension. Une préhension
+constitue un événement. Ou plutôt, puisqu'un événement, c'est une conjonction qui renvoie à
+plusieurs conditions, il faudra dire que, dans sa composition, il est lui-même un lien, ou comme
+dit Whitehead, un nexus. L'événement, du point de vue de sa composition est un nexus de
+préhensions. Du point de vue de son conditionnement, c'est une conjonction de séries, du point
+de vue de sa composition, c'est un nexus [50 :00] de préhensions.
+
+Donc, il s'agit de savoir quels sont les différents aspects de la préhension, ou bien les parties de
+l'événement, qu’est-cce qui compose l'événement ? On avait vu cinq aspects. Cinq aspect, je vais
+
+                                                                                                10
+
+très vite, là, pour gagner du temps. Vous vous rappelez ? Toute préhension renvoie à un sujet
+préhendant. Mais le sujet préhendant, il ne préexiste pas, c'est la préhension, dans la mesure ou
+elle préhende, qui constitue quelque chose comme [51 :00] sujet préhendant, ou qui se constitue
+elle-même comme sujet préhendant. Le sujet préhendant sera le premier élément.
+
+Deuxième élément: le préhendé. La préhension constitue ce qu'elle préhende comme un
+préhendé. Là aussi, le préhendé ne préexiste pas. Vous me direz: d'accord, le préhendé n'existe
+pas, mais ce qui est préhendé préexiste. Non. Parce que qu'est-ce qui est préhendé? Une autre
+préhension. L'événement ne peut être que préhension de préhensions. C'est une autre préhension,
+c'est-à-dire que c'est un autre événement; l'événement est préhension d'autres événements. Quels
+autres événements ? Soit des événements préexistants, soit des événements coexistants. Tout
+événement préhende d'autres événements. [Pause] Exemple: la bataille de Waterloo est une
+préhension d'Austerlitz. Ce sont deux batailles différentes, mais je cherche exactement les
+événements, je cherche précisément des… Je pourrais trop facilement invoquer des événements
+psychologiques. Ce qui compte, c'est que ça marche hors de la psychologie, ce système. Ce n'est
+pas du tout de la psychologie ; [53 :00] c'est de quoi les choses sont faites!
+
+Ou revenons à notre exemple puisqu’on va le retrouver, le concert, le concert est un événement.
+Le piano est une préhension du violon ; le violon, à tel moment le violon est préhendé par le
+piano. Vous me direz: mais l'inverse aussi? Oui, mais à un autre moment. Il y a des moments où
+c'est le violon qui préhende le piano, il y a d'autres moments où... bon. C'est comme je vous
+disais, comme je dis, ce que je veux dire lorsque je dis: tel instrument répond à tel autre, et
+qu'est-ce que c'est que la page d'orchestration lorsque je distribue des sons à des instruments?
+L'orchestration, c'est cette répartition splendide d'après laquelle [54 :00] tel moment sera la
+préhension de telle autre préhension, etc. ... Comment organiser les préhensions ? C'est toujours
+une préhension qui est préhendante, mais c'est toujours une préhension qui est préhendée. Ça
+n'empêche pas que ce sont des aspects très différents.
+
+Sous l'aspect sous lequel une préhension est préhendée, on l'appellera selon Whitehead un datum,
+le datum. On dira que toute préhension préhende des data, c'est-à-dire des préhensions préalables
+ou préexistantes. [Pause[ On dira que les data, c'est-à-dire ce qui est préhendé dans une
+préhension, c'est l'élément publique de la préhension, [55 :00] c’est l'élément publique de la
+préhension. Curieux ce mot "publique". Je le souligne au passage parce que j'ai une raison que
+vous allez vite comprendre. Whitehead nous dit que l'élément publique de la préhension, c'est ce
+que la préhension préhende, et qui est lui-même une ancienne préhension. Alors, la préhension
+que je suis lorsque je préhende, je ne suis pas encore publique; mais lorsque je suis préhendé par
+quelqu'un d'entre vous -- lorsque je vous préhende vous, vous êtes mon publique. Lorsque vous
+me préhendez, moi, je suis votre publique. -- Ce qui implique que le préhendant est inséparable
+d'un élément privé. Mais toute préhension sera [56 :00] préhendée à son tour, c'est une des
+grandes leçons de Whitehead. Il n'y a pas de préhension qui ne sera préhendée à son tour, c'est à
+dire: il n'y a pas de préhension qui ne sera un datum pour d'autres préhensions à venir. Dès lors,
+je serai toujours le publique d'un quelqu'un qui lui sera privé pour lui-même et sera à nouveau le
+publique de quelqu'un d'autre. Il y aura toute une chaîne de privé-publique.
+
+Et alors, en effet, qu'est-ce que c'est l'élément privé par opposition aux data publiques, c'est-àdire aux préhensions préhendées? Vous vous rappelez, c'est ce qu'il appelle le "feeling'. Qu'est-ce
+
+                                                                                                      11
+
+que c'est que le "feeling", troisième partie de la préhension, après le sujet préhendant -- mais
+après, d'un point de vue purement logique – [57 :00] après le sujet préhendant et les data
+préhendés, "le feeling", c'est la manière dont le préhendant saisit le préhendé. C'est ça l'élément
+privé.
+
+Or, je me dis, c'est un emploi assez insolite de privé-publique, c'est rigolo ça, surtout qu'il y
+attache beaucoup d'importance dans Procès et réalité, cet emploi de privé-publique, ça fait assez
+bizarre. Et voilà qu'un jour – mais vraiment, il faut avoir des raisons, sinon on passe à côté -- je
+préparais, c’était à cause de nos séances, et je tombe sur un drôle de truc alors, dans le Discours
+de métaphysique, je me rappelle, je lisais ça, je regardais ça d'un œil très vague parce que je me
+le rappelais, je me disais: [58 :00] bon, c'était pour me le remettre dans la tête, et figurez-vous
+que je tombe là-dessus, mais que je ne vais plus le retrouver, bon Dieu de bon Dieu de bon Dieu
+! Si ! Discours de métaphysique – c’est juste pour vous dire, parce que ce n’est pas… je ne suis
+même pas sûr, est-ce qu’il l’a tiré de là, cet emploi ? – Dans le paragraphe 14, paragraphe 14,
+tout dépend de l’édition ; c’est le début, [Deleuze compte] le début du troisième paragraphe du
+paragraphe 14 : "Or il n'y a que Dieu qui soit cause de cette correspondance de leurs
+phénomènes" -- entre les monades, [59 :00] on ne peut pas le comprendre, cette histoire
+d’harmonies qu’on n’a pas encore vue – « autrement il n'y aurait point de liaison… On pourrait
+donc dire en quelque façon et en un bon sens" -- ah non, j’ai sauté, eh ? – « [Or il n'y a que Dieu]
+qui soit cause de cette correspondance de leurs phénomènes et donc il n'y a que Dieu qui fasse
+que ce qui est particulier à l'un" -- c'est-à-dire à une monade -- « que ce qui est particulier à l'un
+soit publique à tous". C'est marrant, c’est tout d’un coup, ce terme "publique". Alors j'ai cherché
+et je ne vois pas ailleurs dans Leibniz. Est-ce qu'il ne l'aurait employé qu’une fois? Voyez, il veut
+dire que toutes les monades expriment le même monde, c'est-à-dire que ce que l’une préhende est
+préhendé par une autre, [60 :00] c'est-à-dire, la préhension d'une monade est le datum de la
+préhension d'une autre monade. Et voilà que, [Pause], et voilà que, … que lui, il a son histoire
+particulière publique qui me semble très curieuse, cette histoire, c'est pour rêver, tout ça.
+
+Ce qui m'intéresse plus, c’est que Whitehead insiste beaucoup sur -- quant à l'histoire du
+"feeling", dans cette manière dont le sujet préhendant préhende le préhendé, le datum -- il insiste
+beaucoup sur la possibilité de "feeling" négatif. Et ça, ça m'intéresse énormément. C'est les
+phénomènes d'aversion, [61 :00] phénomènes de dégoût: Je rejette un événement! Ne me parlez
+pas de ça! Il faudrait étudier les "feelings" négatifs, les choses dont il ne faut pas parler, les
+monades qui craquent. Vous trouvez encore aujourd'hui des monades qui ne supportent pas
+qu’on leur parle de 1936. [Rires] C'est des monades très intéressantes. Elles ne supportent pas.
+C'est resté comme une espèce de plaie. Je dirais, là c'est le cas d'un "feeling" négatif. Là c'est un
+exemple psychologique, mais il y a des événements qui sont tout entier [62 :00] constitués pour
+l'expulsion d'autres évènements, ils sont tout entier faits pour recouvrir, pour vomir tel
+évènement.
+
+Et finalement, ça doit nous rappeler quelque chose. Je ne veux pas insister trop là-dessus, mais ça
+doit nous rappeler quelque chose. Vous vous rappelez le damné ? [Rires] Mais le damné, c’était
+quoi ? C'était l'homme qui avait la haine de Dieu. Et l'homme qui avait la haine de Dieu, et
+comme disait Leibniz, Dieu c'est le tout. Celui qui a la haine de Dieu, mais c'est la plus grande
+haine qui soit. C'est celui qui hait tout ! Car celui qui a la haine de Dieu, il a la haine de toutes les
+créatures de Dieu, que ce soit les hommes, les bêtes ou les plantes, et même les petits cailloux,
+
+                                                                                                     12
+
+[63 :00] qui n'ont rien fait à personne. Il hait tout. En d'autres termes il vomit tout. La définition
+du damné chez Whitehead, ce serait: l'homme du "feeling" négatif. [Pause]
+
+Et puis, on avait vu… Ça c'était donc le troisième élément. Mais on avait vu que le "feeling"
+assure le remplissement de la préhension par le préhendé. Le sujet préhendant, par le "feeling",
+se remplit de ce qu'il préhende, il se remplit des data, et de ce remplissement naît le "selfenjoyment". [64 :00] Et je ne reviens pas là-dessus. C'est bien comme une espèce de contraction.
+Si vous voulez, c'est dans la mesure où la préhension se retourne vers ce qu'elle préhende, qu'elle
+se remplit de soi-même. [Pause] [Interruption de la transcription de Web Deleuze] Et c’est cette
+étrange joie de soi qu’on a vue ; c’est si fréquent dans la philosophie anglaise. Et comme, à la
+limite… Si je dis, quels sont les data, quels sont les data comme limite ? Quel est le datum limite
+d’une préhension ? Je ne peux pas dire que c’est une préhension à l’infini. Je pourrais le dire, que
+c’est une préhension [65 :00] à l’infini, mais j’ai une autre réponse possible. Les data limites,
+c’est les vibrations comme condition des préhensions. [Pause]
+
+Les séries vibratoires, c’est [Fin de l’interruption de la transcription de WebDeleuze]
+précisément ça, le matériau du datum. Je peux dire même que tout datum est fait de matériau
+vibratoire. C'est dans la mesure où la préhension est une contraction des éléments vibratoires, et
+par-là, elle préhende des data, c'est la même chose, et elle préhende des data parce qu'elle
+contracte les éléments vibratoires qui conditionnent la préhension. [66 :00] Eh bien, dans cette
+mesure même, elle se remplit de cette joie de soi-même. Comme disait Samuel Butler -- je vous
+disait la dernière fois -- dans un livre splendide, très anglais, très philosophie anglaise, qui
+s’appelle La vie et l'habitude, le blé se réjouit d'être blé, mais il se réjouit d’être blé comment ?
+En contractant, et du fait qu'il contracte la Terre et l'humidité dont il est issu. [Brève interruption
+de l’enregistrement BNF] [1 :06 :43] C'est la version anglaise, c'est la version philosophique du
+lys chante la gloire des cieux, les plantes chantent la gloire de Dieu, les plantes témoignent.
+
+Pourquoi [est-ce que] ça m'importe tout ça? Leibniz dira exactement la même chose. Il dira la
+même chose à propos de la musique,
+
+Partie 3
+
+[Retour à l’enregistrement BNF] car qu'est-ce que c'est que le plaisir, au sens le plus précis et le
+plus profond du mot ? Le plaisir, c'est la contraction d'une vibration. [67 :00] Vous trouverez un
+beau texte de Leibniz sur la musique en ce sens, "comme étant le plaisir issu", comme il dit,
+"d'un calcul inconscient", le calcul portant sur la vibration de l'onde sonore. Dans Principes de la
+Nature: "La musique nous charme quoique sa beauté ne consiste que dans les convenances des
+nombres, et dans le compte dont nous ne nous apercevons pas". A la lettre, c'est en contractant le
+nombre que nous atteignons au plus haut plaisir, c'est-à-dire le plaisir d'être soi-même. Et qu'estce que nous sommes, nous vivants, dans notre organisme, je vous disais, au plus profond de notre
+organisme, [68 :00] et qu'est-ce qui fait que, même malade nous avons -- ou nous pouvons avoir
+si nous savons trouver, aller jusqu'à ce point de nous-mêmes -- cette joie d'être? Qu'est-ce que
+c'est cette joie d'être par rapport à quoi, [Pause ; Deleuze hésite en cherchant une citation] les
+pleurnicheries – je veux le citer d’un auteur – sont des misères? Cette joie d'être, ce n'est rien
+d'autre que ce qu'on appelle plaisir, c'est à dire l'opération qui consiste à contracter les éléments
+dont nous sommes issus.
+
+                                                                                                    13
+
+Et moi, corps, qu'est-ce que c'est avoir un corps? Alors si je préjuge de ce qui nous reste à faire,
+qu'est-ce que c'est d'avoir un corps sinon contracter ces séries vibratoires? Qu'est-ce que c'est
+qu'avoir un corps sinon contracter quoi? [69 :00] Des choses misérables ou grandioses, c'est-àdire des choses qui ont toujours été des Dieux, à savoir contracter l'eau, la terre, les sels, le
+carbone dont nous sommes issus. Et nous nous remplissons de nous-mêmes en nous retournant
+vers ces séries que nous contractons. C'est le "self-enjoyment". C'est ce qu'on appellera le calcul
+inconscient de tout être. En ce sens, nous sommes de la musique pure. Et si nous sommes de la
+musique pure, c'est sous cet aspect, c'est le "self-enjoyment". D'où nous nous apercevons peutêtre que dans l'histoire de "qu'est-ce qu'un évènement ?", le concert est tout ce que vous voulez
+[70 :00] sauf une simple métaphore.
+
+Or, c’est important pour en finir – si c’était possible ; on n’en finit jamais dans ce domaine, et
+puis il ne faut pas en finir non plus -- pour en finir avec les bêtises sur l'optimisme de Leibniz.
+Car il est bien connu et s'il y a une seule formule qui est passée dans la postérité concernant
+Leibniz, c'est l'idée que notre monde était le "meilleur des mondes possibles". Et vous savez ce
+qui s'est passé: il est arrivé que Lisbonne subit, à une certaine date, un célèbre tremblement de
+terre, et que ce tremblement de terre, si bizarre que ce soit [71 :00] – et là, il faudrait rechercher
+que ce soit un phénomène naturel qui ait servi -- a eu un rôle dont je ne vois d'équivalent dans
+l'Europe, dont je ne vois d'équivalent, que dans les camps de concentration nazi, à savoir la
+question qui a retenti après la guerre: comment est-il possible de croire encore en la raison une
+fois dit qu'il y a eu Auschwitz ? Et qu’un certain type de philosophie devenait impossible, qui
+avait pourtant fait l'histoire du dix-neuvième siècle, qui semblait faire l'histoire du dix-neuvième
+siècle. Il est très curieux qu’au dix-huitième siècle, ce soit le tremblement de terre de Lisbonne
+qui assumait quelque chose de cela, [72 :00] où toute l'Europe s'est dite: comment est-il encore
+possible de maintenir encore un certain optimisme fondé sur Dieu ? Vous voyez, après
+Auschwitz retentit la question : comment est-il possible de maintenir le moindre optimisme sur
+ce qu'est la raison humaine ? Après le tremblement de terre de Lisbonne, comment est-il possible
+de maintenir la moindre croyance en une rationalité d'origine divine?
+
+[Interruption, un étudiant qui commence à poser une question, peut-être sur la date du
+tremblement de terre à Lisbonne] Alors là, écoutez, si tu me fais une question pour me faire la
+honte ; tu sais bien que je ne sais bien aucune … [Rires ; l’étudiant continue] … J’ai l’air de
+quoi maintenant ?... Ah ! "Catastrophe" !... Ah non, mon Dieu, personne n’a un petit Larousse ?
+Personne n’a… C’était dans ces années-là que… [73 :00] Aie, aie, aie [Discussions parmi les
+étudiants] Ah, non, il me demande si c’est l’année… oh la la… [A une suggestion marrante d’un
+étudiant :] Ah oui, c’était bien avant la guerre ! [Rires] Rapportez-vous à votre Larousse
+ordinaire.
+
+Un autre étudiant : Si je vous pose cette question, c’est parce que…
+
+Deleuze : Ah la la, ça va un temps enferré… Oui, pourquoi ?
+
+L’etudiant : Je voulais savoir si c’était avant le clivage entre les Catholiques et les Protestants …
+
+Deleuze : Ah, après, bien après. C’est après Leibniz, en tout cas. Leibniz n’a pas connu, à mon
+avis… Vous savez ? [Un autre étudiant rapporte la date : 1755 ; Deleuze continue en chantant
+
+                                                                                                    14
+
+la date] Dix-Sept-Cent Cinquante-Cinq… Alors, ça va, alors, très bien ! Tu es sûr ? 1755, eh ? A
+Lisbonne ? [Rires] [74 :00] Ah, bien entendu, je le savais. [Rires] J’ai fait semblant ! Alors, ça
+m’a coupé, cette date… Ah, fatal ! eh bien, vous voyez ? Comme ça, quoi…
+
+Et ça donnera, je voulais dire, ça donnera le texte célèbre de Voltaire contre Leibniz, à savoir le
+petit roman Candide, où il y a le jeune niais endoctriné par un professeur de philosophie, et tous
+les malheurs lui arrivent: guerres, viol de sa fiancée, abominations de toutes les espèces, c'est un
+catalogue de toutes les abominations humaines, et il y a le professeur qui explique à Candide
+toujours, que tout va pour le mieux dans le meilleur des mondes possibles. [75 :00] Ce texte de
+Voltaire est un véritable chef d'œuvre. Donc il ne s'agit pas de dire que Voltaire s'est trompé,
+parce que comprenez, la grandeur du livre de Voltaire, c'est qu'il est en train de remanier un
+certain nombre de problèmes, y compris en passant par ce roman, tel que le problème du bien et
+du mal, ne peut plus être posé comme il l'était encore un siècle avant. Je crois que c'est la fin des
+heureux et des damnés. Il faut bien dire que jusqu'à Leibniz, y compris, le problème du bien et du
+mal a été posé dans les termes: les heureux et les damnés. Avec Voltaire, avec le dix-huitième
+siècle, donc à partir de 1755 [Deleuze insiste sur cette date], ce n’est plus comme ça ; ça sera
+posé autrement. Alors qu'est-ce qui mettra un nouveau mode [76 :00] de pensée quant au mal et à
+l'existence du mal?
+
+Donc je ne veux pas du tout dire que Voltaire, c'est de la littérature, pas du tout. Je crois que
+Candide fait partie des œuvres à la fois de littérature et de philosophie ayant la plus grande
+importance. Ce que je veux chercher, c’est juste, et ça n'exclut rien de l’importance de Candide,
+c'est : qu'est-ce qu'il en était de l'optimisme de Leibniz? Et c'est vrai que c'était un optimisme
+fondé sur une rationalité divine; ça, il n'y a pas à revenir là-dessus. Mais ce qui m'intéresse, c'est
+que, même de ce point de vue, il ne faut pas penser que les théologiens de l'époque se disaient:
+ha bien oui, tout ce qui se passe de mal, les morts d'innocents, les guerres, les atrocités, ils en
+avaient… [il ne faut pas penser qu’] ils avaient leur compte. Ils n'ont pas attendu [77 :00] le
+tremblement de terre de Lisbonne. Ce qui est très curieux, c'est que le tremblement de terre de
+Lisbonne plutôt est arrivé à un moment ou la pensée, et sa manière de considérer la question du
+mal, était déjà en train de changer. Alors il a donné tout son effet. Mais auparavant, les
+catastrophes et abominations à la fois et de Dieu et de l'homme étaient bien connues.
+
+Si bien que dans l'histoire de l'optimisme de Leibniz, j'insiste sur ceci, c'est que l’optimisme, il
+faudrait distinguer deux optimismes corrélatifs, un optimisme objectif et un optimisme subjectif.
+Je veux dire l'optimisme objectif, c'est: ce monde est le meilleur des mondes possibles,
+pourquoi? Ça renvoie à la compossibilité. Je ne reviens pas là-dessus. Ça renvoie à la notion
+objective de compossibilité, [78 :00] à savoir: il y a des séries de singularités qui se prolongent
+les unes dans les autres, si vous vous rappelez, et puis il y a des points de divergence. Il y aura
+donc autant de mondes que de divergences, tous les mondes étant possibles, mais ils sont
+incompossibles les uns avec les autres. Donc Dieu a choisi l’un de ces mondes. Et la réponse,
+c'est que Dieu ne pouvait choisir que le meilleur, [il] ne pouvait choisir que le meilleur. Ça ne va
+pas plus loin: c’est l’optimisme. Bien plus, il y a la formule de Leibniz, vous comprenez ? Tout
+se retourne, est-ce qu'il faut dire: ce monde est parce qu'il est le meilleur ? [79 :00] Certains
+textes de Leibniz vont dans ce sens. Ou est-ce qu'il faut dire le contraire: ce monde est le
+meilleur puisqu’il est et parce qu'il est et parce que c'est lui qui est. Mais l'optimisme objectif ne
+peut recevoir, il me semble, ne contient pas sa raison en lui-même. Il implique une raison venue
+
+                                                                                                     15
+
+d'ailleurs et qui ne peut être donnée que par l'optimisme subjectif. Et je dirais, qu'est-ce que c'est
+l'optimisme subjectif? C'est le "self-enjoyment".
+
+Quelque soit l'abomination du monde, quelque soit l'abomination du monde, il y a quelque chose
+qu'on ne pourra pas vous retirer et par quoi vous êtes invincible. [80 :00] Ce n’est pas votre
+égoïsme ; c’est-à-dire, là aussi, c’est plein de… Ce n'est surtout pas votre égoïsme, ce n'est pas
+votre petit plaisir d'être "moi". C'est quelque chose de bien plus grandiose que précisément
+Whitehead appelle le "self-enjoyment", c'est-à-dire, cette espèce de cœur vital où vous contractez
+des éléments, que ce soit les éléments d'une musique, les éléments d'une chimie, des ondes
+vibratoires, etc., et devenez vous-mêmes en contractant ces éléments et en vous retournant vers
+ces éléments. Ce sera ce type de joie, de joie du Devenir soi, c'est cette joie du Devenir soi que
+vous trouvez dans toutes les pensées de type vitaliste. [81 :00]
+
+Or, vous vous rappelez – je rappelle juste pour faire comme des coutures nécessaires -- "que
+cette joie grandisse!", voilà la formule de l'optimisme subjectif, "et que cette joie grandisse !",
+c'est-à-dire qu'elle devienne la joie de plus en plus de gens. Et ça ne veut pas dire que le monde
+ira mieux, ça ne veut pas dire qu'il y aura moins d'abominations. C'est autre chose. Il s’agit
+d’autre chose. Il ne s'agit pas de dire que les abominations vont me laisser indifférent. Sur tous
+ces points. Leibniz s'est merveilleusement exprimé dans le texte auquel je vous renvoie et qu'on a
+déjà beaucoup utilisé: La profession de foie du philosophe. Etre content du monde, nous dit-il; ça
+ne veut pas dire du tout: soigner son égoïsme. Ça ne veut pas dire du tout… [82 :00] Ça veut dire
+précisément plutôt trouver en soi la force de résister à tout ce qui est abominable, et trouver en
+soi la force de supporter l'abominable quand il vous arrive.
+
+En d'autres termes, le "self-enjoyment", c'est: être digne de l'événement. Savoir ou arriver à être
+digne de l'événement. [Voir à ce propos le développement de ce même thème dans Logique du
+sens, séries 21, "Sur l’événement"] Qui peut, qui peut dire d'avance: je serais digne de
+l'événement qui m'arrive ? Quel que soit l'évènement, que ce soit une catastrophe ou que ce soit
+un amour, il y a des gens qui sont indignes des événements qui leur arrivent, même quand ce
+n'est pas des événements prodigieux. Etre digne de ce qui arrive! C'est un thème qui courre la
+philosophie. Si la philosophie sert à quelque chose, [83 :00] c'est à ce genre de chose: nous
+persuader, pas nous apprendre, nous persuader que c'est un problème, qu'il faut savoir, qu'il vaut
+mieux savoir être digne de ce qui vous arrive, que ce soit un grand malheur ou que ce soit un
+grand bonheur. Parce que si vous arrivez à être digne de ce qui vous arrive, à ce moment-là, vous
+saurez très bien ce qui est inimportant dans ce qui vous arrive, et ce qui est important dans ce qui
+vous arrive. En d'autres termes, qu'est-ce qui est important dans un événement? Qu'est-ce qui n'a
+aucune importance dans un événement? Ce n'est pas forcément ce qu'on croit. Il faut déjà toute
+cette Éthique de la dignité. Etre digne de ce qui arrive, c'est ça le vitalisme. Chez Leibniz, prenez
+toute la fin de La profession de foi du philosophe, c'est ça. [84 :00]
+
+Or vous vous rappelez l'idée de Leibniz, c'est que : Dieu merci qu'il y a des damnés, car les
+damnés ayant rétréci la région qui leur est dévolue, ayant rétréci leur département -- vous vous
+rappelez, la petite région claire qu'ils exprimaient -- parce qu'ils ont vomis Dieu, dès lors, ils ont
+renoncé à cette région claire. Les damnés étant tombés dans une extrême confusion par haine de
+Dieu, c'est une idée qui, encore une fois, me paraît sublime, celle du damné: ça donne envie de
+l'être. [Rires] Ils ont fait ça, et c'est grâce à eux que, dès lors, ils ont laissé de fantastiques
+
+                                                                                                     16
+
+quantités de joie virtuelle inutilisées. Emparons-nous [85 :00] de ces joies, emparons-nous de ces
+"enjoyments" vides, non remplis. Il faut se les approprier. Alors les damnés seront furieux de
+voir que leur damnation nous sert, et sert à quelque chose. Oui, la damnation sert à augmenter la
+quantité totale de "self-enjoyment" de l'ensemble de ceux qui ne sont pas damnés ou pas encore
+damnés. C'est ça le quatrième élément.
+
+Et puis, il y a encore un cinquième élément. Vous sentez bien qu'il y a un cinquième élément
+nécessaire, que je dis très vite. C'est que il est réclamé par tout, il est réclamé par le "feeling": le
+"feeling" réclame [86 :00] qu'il y ait comme une espèce de conformation d'un "feeling" à l'autre
+dans un même sujet préhendant, une espèce de conformité des "feelings". Conformité, ça veut
+dire: appartenance à une même forme, à une même forme subjective. Le préhendé réclame autre
+chose qu'une présentation instantanée ou immédiate. [Pause] Le "self-enjoyment" se présente
+lui-même comme l'affect d'un pur Devenir de soi, d'un devenir soi-même. [87 :00] Tout ça
+implique comme une sorte de durée dans laquelle l'événement plonge, et dont le minimum est la
+jonction d'un passé tout proche et d’un futur… d’un passé immédiat et d'un futur tout proche
+aussi. Je vous disais: c'est finalement ça, l'optimisme, la persuasion que ça va durer, la persuasion
+que, au battement de mon cœur va succéder un autre battement. Et si cette persuasion finit par se
+dire ou par atteindre au point que, peut-être, il n'en sera pas toujours ainsi, mais qu'il y aura
+quand même un autre cœur, bon, peut-être qu'il y a un lien des "self-enjoyments". [88 :00]
+
+En d'autres termes, ce que je saisis et ce que j'éprouve, y compris le "feeling", etc., ne se réduit
+jamais à une présentation immédiate. Il est saisi par un sujet préhendant, qui d'une manière ou
+d'une autre, plonge dans le passé et tend vers un avenir. C'est ce qu’il appelle le dernier élément,
+le cinquième élément ou le dernier élément qu'il appelle: la visée subjective, la visée subjective.
+Il donne un très bon exemple: ce que nous percevons, nous le percevons comme immédiat et
+instantanée, par exemple: je tourne la tête et je perçois la fenêtre, bon. Mais cette fenêtre que je
+perçois quand je tourne la tête, je la perçois avec des yeux, je la touche avec des mains qui eux
+[89 :00] plongent sans un passé immédiat. Or vous remarquerez comment ça va faire l'unité de
+tout, car qu'est-ce que c'est qu'un organe des sens, Ou si vous préférez un organe de préhension?
+C'est un processus de contraction, et uniquement ça. C'est une plaque de contraction, c’est un
+processus de contraction. Mes oreilles sont des plaques à contracter les ondes sonores, et dans
+certaines conditions, qui expliquent ce que j'entends et ce que je n'entends pas de l'onde sonore.
+Quelqu'un qui a les oreilles malades, par exemple, peut très bien contracter encore ce qu’on
+appelle les graves et ne plus contracter les aigus: elle n'entend pas les aigus. [90 :00]
+
+J'aimerais que vous rajoutiez de vous-même toutes sortes de choses, et ça c'est une idée de
+Whitehead, et qui me semble très, très importante: c'est avec des organes issus du passé, si
+proche soit-il, issu d'un passé même très proche, que je saisis l'immédiatement présent. Et là, il
+va sans doute y avoir la base de la visée subjective. Pourquoi est-ce que je ne peux pas continuer
+à ce niveau? Parce que vous sentez, la visée subjective va engager et la continuité et la causalité.
+Continuité et causalité, nous ne pourrons faire l'analyse, chez Leibniz aussi bien que chez
+Whitehead, dont nous ne pourrons faire l'analyse que dans la troisième partie.
+
+Mais alors, résumons vite, ben oui. [91 :00] J'ai le sentiment que chez Leibniz comme chez
+Whitehead, vous avez non seulement les trois séries qui conditionnent l'événement, mais les cinq
+parties de l'événement. Maintenant, je dis très vite au niveau de Leibniz. Je dirais: le sujet
+
+                                                                                                  17
+
+préhendant, c'est vraiment l'équivalent de la monade. La monade, elle est préhension du monde.
+[Pause] Le datum, c'est le monde lui-même, et je dirais alors, au besoin, vous comprenez, ça ne
+se correspond pas, et c'est encore mieux. C’est-à-dire, il y a des notions qui n'ont pas d'équivalent
+chez l'autre. Je dirais, ben oui, pour Leibniz, vous voyez, [92 :00] chaque monade préhende le
+monde entier, mais ne préhende clairement que une petite portion. Le monde entier est public,
+puisque c'est lui, en même temps, que préhendent les autres monades. Ma petite portion, elle
+m'est privée, pourquoi? Parce que, sans doute, elle est préhendée par les autres, mais les autres ne
+la préhendent que confusément. Il y a une portion du monde que moi je préhende, que j'exprime
+clairement ; les autres ne l'expriment que confusément. Si restreinte soit-elle, ne m'ôtez pas mon
+bien à moi, mon bien privé. Les préhensions, il leur donne un nom, ce sont les perceptions.
+[93 :00] Et [Leibniz] fera une théorie qu’on verra dans notre troisième partie, une splendide
+théorie des petites perceptions, au point que sur ce point Whitehead n'a strictement rien à ajouter.
+Et personne n'aura... Si, d’ailleurs je retire ce que j'ai dis ; [Pause] il n'y aura presque rien à
+ajouter à une théorie aussi belle, que la théorie des petites perceptions inconscientes chez
+Leibniz, qui sont vraiment les préhensions non conscientes. [Pause] On a vu enfin comment le
+"self-enjoyment" avait son rapport dans la joie et l'optimisme leibnizien.
+
+Et enfin, la visée subjective, [94 :00] c'est exactement, il me semble, ce que Leibniz appelle
+l'appétition. Il nous dira finalement pour résumer tout: quels sont les caractères les plus profonds
+de la monade? Les caractères les plus profonds de la monade, c'est: la perception et l'appétition.
+Et il définira la perception par le détail de ce qui change, la perception c'est le détail de ce qui
+change; et l'appétition, c'est le principe interne du changement. Et commence, Monadologie,
+paragraphe… [Deleuze cherche la référence] [95 :00] paragraphe… oh la la, paragraphe… : "Il
+s'ensuit de ce que nous venons de dire" -- paragraphes 11 et suivants – "que les changements
+naturels des monades viennent d'un principe interne; mais il faut aussi, qu'outre le principe du
+changement il y ait un détail de ce qui change, qui fasse pour ainsi dire la spécification et la
+variété des substances. Ce détail doit envelopper", etc., et voilà, [96 :00] il les baptisera
+perception et appétition. [Interruption de la transcription Web Deleuze] dans les paragraphes 14
+et 15. [Paragraphe 15] “L’action d’un principe interne qui fait le changement ou le passage
+d’une perception à une autre peut être appelée appétition."
+
+Bon, ça, je n’en dis pas plus puisque ça entame largement sur la troisième partie. Je dis juste,
+voilà, le critère psychologique de la substance. Chez Leibniz, le critère psychologique de la
+substance, ça va nous lancer dans notre dernier problème. Le critère psychologique de la
+substance, c’est : perception et appétition sont des éléments de la substance. La substance est un
+moi ; c’est ça le critère psychologique, la substance est un moi dont les éléments composants
+sont la perception et l’appétition, confrontés avec la substance est un [97 :00] "je pense" de
+Descartes. Je crois que sur ce point, on va être amené à faire l’opposition entre elles. Bien.
+
+Si bien que, avançons toujours, il faut tirer maintenant les conclusions… Oui, est-ce qu’il y a des
+points alors… Ah, mais non, oo la la… Oh, mais non, j’ai oublié quelque chose d’essentiel. Aie,
+aie, aie, aie… Revenez à un dernier effort. Oui, ça c’est essentiel, sinon je m’en voudrais d’avoir
+oublié cela. Comment ça se fait que… Ah oui, je sais pourquoi je l’ai oublié ; c’est parce que je
+ne voulais pas vous en parler, oui. [Rires] Oh, c’est idiot, mais non, parce que c’est un effort de
+plus, alors… Je voulais vous ménager, mais après tout, il n’y a pas… Il reste un problème là.
+[98 :00] -- [Pause ; interruption, Deleuze s’adresse à quelques étudiants] Je suis sûr que vous
+
+                                                                                                   18
+
+pouvez être mieux en glissant… Oui, installez-vous mieux, eh ?... Oui, on peut faire d’ailleurs…
+Vous ne partez pas, eh, parce que quand vous partez, j’ai remarqué que vous ne revenez que
+d’une manière incertaine, [Rires] mais on peut s’arrêter deux minutes si vous avez des questions
+à poser, à condition que ces questions n’impliquent pas de réponses, [Rires] et ne soient pas du
+type "Quand est-ce que [ce truc-là]… [1 :38 :47] [Bruits des mouvements dans la salle ;
+interruption de l’enregistrement BNF, puis reprise, avec le son des grognements successifs de
+Deleuze, en rappelant les étudiants à l’ordre]
+
+Partie 4
+
+[1 :39 :00] Bon, alors, [Pause] c'est bien connu que la philosophie de Whitehead repose sur deux
+grandes notions ; il a deux grand concepts – il n’en pas que deux mais… -- Les deux grands
+concepts sont les occasions actuelles et les objets éternels. Or les objets éternels, on n’en a pas
+dit un mot. Je procède très vite ; les occasions actuelles, vous vous rappelez ce que c'est, c'est les
+événements, C'est les événements en tant que, à la fois, ils sont conditionnés par des séries, par
+des séries vibratoires, et composés par les éléments préhensifs, [100 :00] les éléments de
+préhension, et c'est ça ce qui nous donne l'événement. Mais c'est curieux parce que, constatez, làdedans il n'y a rien qui – quel mot employer ? -- il n'y a rien qui subsiste. Les vibrations, [Pause]
+les vibrations, elles ne cessent pas de passer. [Pause] Si je pense à ce que je ne peux pas encore
+penser, puisque c'est notre troisième partie, si je pense au corps, là je saute de Whitehead à
+Leibniz, mais je vous implore, puisque nous parlons de leur communauté. [Pause] [101 :00]
+
+Paragraphe 71 de la Monadologie: "Il ne faut point s'imaginer avec quelques uns qui avaient mal
+pris ma pensée" -- il dénonce un contresens sur sa pensée, donc on n’a plus aucune raison de le
+faire, nous – " Il ne faut point s'imaginer avec quelques uns qui avaient mal pris ma pensée que
+chaque âme a une masse, ou portion de matière propre, ou affectée à elle pour toujours". En
+d'autres termes, quand je vous parlerai des corps, nous dit Leibniz, n'allez pas croire que chaque
+âme a un corps qui lui appartient. Et pourquoi? "Car tous les corps [102 :00] sont dans un flux
+perpétuel comme des rivières" -- il connaît la phrase d'Héraclite – "et des parties" -- des
+corpuscules – "y entrent et en sortent continuellement", ne cessent pas d’en sortir. Les ondes
+vibratoires, c'est pareil. Mais bien plus: les perceptions de la monade, détails de ce qui change, ça
+ne cesse pas de changer. Vous me direz: bien, mais tout ça on l'a prévu puisqu'on a introduit le
+facteur de durée comme dernière composante, avec la visée subjective, quelque chose qui dure et
+qui fait une synthèse du présent avec le proche passé et le proche avenir. [103 :00]
+
+Mais durée, qu'est-ce que ça veut dire? Ça peut durer cent ans, ça ne répond pas du tout à la
+question. La Grande Pyramide, elle dure. Oui, mais rapport à quoi? Elle dure plus longtemps
+qu'une mouche, c'est tout, c’est tout. Il ne faut pas confondre un quelque chose qui dure avec une
+véritable permanence, ou si vous préférez, avec quelque chose d'éternel. Je peux dire qu'une
+montagne dure, mais une montagne, c'est un évènement autant qu'une mouche, pas plus ni
+moins. C'est un événement, pas à la même échelle. Pour saisir la montagne comme événement,
+c'est-à-dire comme plissement incessant, qui ne cesse de se plisser [104 :00] et de se replisser,
+puisqu'elle perd ses molécules a chaque instant, elle aussi, elle renouvelle ses molécules. Donc
+elle recommence éternellement son propre plissement, tout ça. Je n'ai que de la durée, d’accord,
+c'est tout.
+
+                                                                                                     19
+
+Or la durée, ça me donne à la rigueur le semblable. Une onde succède à une onde. Une vibration
+succède à une vibration ? Qu'est-ce qui me fait dire: c'est la même. Le problème du même n'est
+en rien épuisé par la durée, si longue soit-elle. Le même, ce n'est pas le continu. Qu'est-ce que
+c'est le problème du même? [105 :00] Qu’est-ce qui me fait dire: c'est la même onde? Vous me
+direz: la généralité? Non, puisque je le dis au niveau de l'individu. C'est le même Pierre que j'ai
+vu hier ; bien plus, c'est la même note dans le concert. Je disais, je prenais l’exemple : Ha oui,
+c'est le "si" de [Alban] Berg. Ha oui, c'est telle couleur. Ha oui c'est le vert de tel peintre. [Pause]
+Tout cela, voilà que Whitehead va l’appeler les objets éternels. L'objet éternel, c'est [106 :00] ce
+que je reconnais comme le même – voyez sa différence -- à travers une pluralité d'évènements ou
+d'occasions actuelles. Je dis: c'est la Grande Pyramide. Ha oui, voilà la Grande Pyramide! Vous
+sentez qu'il y avait quelque chose que les événements, les occasions actuelles n'expliquaient pas.
+Comment est-ce que je peux dire que c'est la même Grande Pyramide? Ha c'est la Grande
+Pyramide ! Hé oui, elle n'a pas bougé! Ha, t'as pas vieilli, Pierre! Pierre, tu n'as pas vieilli, c'est
+toi. Je te reconnais. Je ne dis pas: une onde succède à une autre onde ; je ne dis pas: Pierre
+succède à Pierre. Je dis: c'est toi, Pierre. Je dis: salut O Grande Pyramide! C'est tout ce type de
+propositions dont il faut rendre compte, [107 :00] objets éternels et non plus occasions actuelles.
+
+Et le vocabulaire de Whitehead va se faire très beau, très, très poétique. Il a défini l'événement
+comme une concrescence. A votre choix, c'est une concrescence de séries qui le conditionnent,
+ou concrescence de préhensions qui le composent. Tout événement est une concrescence. Mais
+les objets éternels, il va les définir comme des ingressions : l'objet éternel fait ingression dans
+l'événement. Et c'est dans cette ingression de l’objet éternel que je peux dire: c'est la Grande
+Pyramide! [108 :00] C'est un "la"… ou c’est un "si"! Ha le "si", tu l'as entendu, le "si" là ?! Ou
+bien, tu as vu ce bleu de Prusse! ce bleu très particulier qui n'est même pas du bleu de Prusse, ce
+bleu qu'on ne trouve que… , tu l'as vu ? Voilà l'objet éternel qui fait ingression dans et qui fait
+que les ondes succédant aux ondes, vous dites: mais c'est la même chose. Seulement vous ne
+dites pas "c'est la même chose" de l'onde qui n’est complètement plus la même. Vous dites c'est
+la même chose d'un certain type d'objet que vous allez appeler les objets éternels en tant qu'ils
+font ingression [109 :00] dans les événements. Et vous voyez que non sans coquetterie que
+Whitehead pourra se réclamer de Platon en disant: ha bien oui, les objets éternels, c'est à peu près
+ce que Platon appelle les Idées. Seulement chez lui les objets éternels ne sont rien d'autre que les
+composantes de l'événement en tant qu'elles font ingression dans l'évènement.
+
+Alors, qu'est-ce que ce sera ces objets éternels? Il en distingue trois sortes, à première vue ; dans
+les textes les plus simples, il en distingue trois sortes : Les sensibles: ce vert! Cette teinte de
+couleur, cette teinte! Inutile de dire: la couleur, elle aussi est un objet éternel, mais ce n'est pas
+simplement des généralités. Ce bleu! Ce vert! Cette note de musique! Ce groupe de notes! Et, en
+effet, repensez là à mon exemple : Nous sommes [110 :00] au concert, nous entendons la
+musique de Vinteuil, et voilà, et Charlus préhende la petite phrase, la fameuse petite phrase de
+Vinteuil. Il la préhende et il la regarde, il l'écoute d'un air ému. C'est Morel qui la joue. C'est son
+amant qui est en train de la jouer. Bon. Elle est composée d'un certain agrégat de notes très
+individualisées que Proust détaille – si Morel l’a jouée au piano, je suppose qu’elle a dû être
+faite, la petite phrase ; elle est très, très bien analysée -- et là, c'est une préhension de la petite
+phrase, mais que Charlus a entendue des milliers de fois portée par d'autres ondes sonores.
+[111 :00]
+
+                                                                                                    20
+
+Vous voyez, l'objet éternel, c'est le même qui fait ingression dans une pluralité d'occasions
+actuelles. Tous les concerts où j'ai entendu cette petite phrase, au point que j'attends le moment
+où elle va surgir et où je dis: ha oui, c'est bien elle! Ou bien je dis: ho, le salaud, il l'a raté!
+[Rires] Et si je dis, ho le salaud, il l’a raté, j’aurais l’équivalent… Ne vous étonnez pas, dès lors,
+que Whitehead emploie le terme : il y a des "feelings" conceptuels. Le "feeling" conceptuel, c'est
+le rapport de la préhension, non plus à d'autres préhensions, mais aux objets éternels qui font
+ingression dans l'événement. Et s’il y a des "feelings" conceptuels, il y a des "feelings"
+conceptuels négatifs, [112 :00] du type de ceux que je viens d'exprimer: comment peut-on
+massacrer une telle œuvre? Il peut arriver qu'on se dise, devant un chef d'orchestre: mais, mon
+Dieu, comment est-ce qu'on peut massacrer une telle œuvre? J'aurais un "feeling" négatif,
+[Deleuze rit à quelque chose que dit un étudiant près de lui] un "feeling" conceptuel négatif. Si
+c’est au contraire, je l’attends, je l’attends, elle vient.
+
+Alors, elle varie ; ce n’est pas, bon, elle a ses variations, mais je suppose qu'un objet éternel a sa
+frange de variations, mais il est complètement individualisé. Ce n’est pas une généralité. C'est
+vraiment: tel agrégat sonore ! Voilà l'exemple d'un objet éternel sensible. Et vous pouvez
+imaginer [113 :00] mille et mille et mille événements "concert", mille concerts, et ce sera
+toujours cet objet éternel qui fera ingression à tel moment. Donc c'est bien quelque chose de très
+différent des occasions actuelles, les objets éternels avec leurs ingressions.
+
+Et puis il y a des objets éternels scientifiques: atomes, électrons, triangles etc. Voyez ? Mais on
+sent bien… Il me semble évident, il y a de rares textes de Whitehead allant dans ce sens, il faut
+aussi qu'il y ait des objets éternels de "feelings". Les "feelings" aussi ne garantissent pas leur
+identité. Il faut bien qu'il y ait un objet éternel "colère", pourquoi? Ou bien est-ce qu'il ne faut
+pas? [114 :00] Tu fais ta colère, ou voilà qu'il va faire sa colère. Oh, il va faire sa colère,
+attention, c'est le temps de se tirer, il va faire sa colère. "Sa colère" c'est quoi, ça? Ce n’est pas
+moi qui … Comme si la colère était individuable. En effet, une haine, une colère sont
+parfaitement individuées. Les gens, ils ont un style de colère, et généralement c'est même pour ça
+qu'on ne les reconnaît pas. Il y a de grands colériques dont on ne saura jamais à quel point ils
+sont colériques parce qu'ils ont un style de colère qui précisément n'a pas – comment le dire ? –
+n’a pas l'espèce de tempo. Il y a des gens où on voit tout de suite quand ils vont se mettre en
+colère, il y a des cas plus compliqués. [115 :00] Quel est le secret de leur colère ? Mais "ta
+colère", c'est un objet éternel, ta colère… A condition que… ah oui, est-ce que c'en est un? Si
+elle fait ingression dans une pluralité d'événements, dans des événements divers: imaginez une
+femme très colérique, pour changer parce qu’on donne toujours l’exemple… Pour le mari d'une
+femme très colérique, quand il dit: "ho la la, elle va faire sa colère", c'est certain que la colère de
+cette femme, et non pas la colère en général, est un objet éternel.
+
+Donc il y aurait des "feelings" d'objets éternels. Tout comme il y a la Grande Pyramideévénement, voyez, et il y a la Grande Pyramide-objet éternel, l'une est concrescence, l'autre est
+ingression. Est-ce que pour les "feelings" ce n'est pas la même chose, mes problèmes plus
+[116 :00] importants, je veux dire, définir les objets éternels ? Comment est-ce qu'il les définit,
+Whitehead? Il dit: ce sont des déterminabilités ou des potentialités. Pourquoi? Parce que en effet,
+ils ne s'actualisent que dans les événements: la petite phrase de Vinteuil n'est qu'une potentialité
+qui ne prend une existence actuelle que dans une occasion actuelle, c'est-à-dire lorsqu'elle est
+exécutée. Sinon c'est une pure potentialité. N'empêche que, comme potentialité, elle a une pleine
+
+                                                                                                     21
+
+existence individuelle. C'est très important tout ça. Il faut que vous jouiez autour… Je veux dire,
+ça, il n’y a aucune difficulté, mais pour vous habituer à ce mode de pensée, il faut que vous
+jouiez avec lui: "ce vert!" est une pure potentialité. [117 :00] Imaginez: le monde est hanté de
+potentialités. Qu'est-ce que c'est un fantôme? Combien de petites phrases se baladent, combien
+de petites phrases se baladent dans le monde, [phrases] qui n'ont pas été actualisées et ne le
+seront peut-être jamais. Et quel est leur mode d'existence, est-ce qu'il y en a? Est-ce qu’il y a un
+mode d’existence d’elles ? Peut-être ; il faudrait rêver là-dessus.
+
+De toute façon, c'est très insuffisant. On ne peut pas définir l’objet éternel comme de simples
+formes de recognition. Pour le moment, il faut tenir compte de ceci – [Deleuze se tourne vers un
+étudiant] C’est toi qui manges ? [Rires] Tu le fais, tu le fais d’un coup, tu vois ? Voilà… Si les
+gens qui arrivent, ils arrivent toujours [118 :00] quand quelqu’un prend des précautions par
+gentillesse, c’est dix fois plus catastrophique que [Rires] … -- Alors, je dis, [comme de simples]
+formes de recognition, ils définissent souvent l’objet éternel comme ça, ça ne suffit pas, ça ne
+suffit pas. Heureusement, on a de quoi… Et ça, c’est presque, je ne veux pas dire qu’il s’en
+tienne là, surtout que comme [Whitehead] est avant tout physicien-mathématicien, évidemment il
+ne s'en tient pas là. Un électron, ce n'est pas une forme de recognition, c'est tout à fait autre
+chose. Encore une fois il y a l'électron, particule portée par une onde, ça c'est l'électron-occasion
+actuelle. Puis il y a l'électron-objet éternel. Curieux, du coup, les choses sont dédoublées chez
+lui. Vous avez l'objet éternel qui fait ingression dans l'événement [119 :00] et l'évènement avec
+ses composantes.
+
+Alors je dis, évidemment non. Leibniz nous donnerait tout ce qu'on veut. Je dirais: les objets
+éternels … Si vous vous rappelez ce qu’on a fait… Pour moi… A l’issue de nos analyses
+précédentes, si vous ne vous rappelez pas, pas de problème ; cela n’a aucune importance. Si vous
+vous rappelez, c’est encore mieux. Les objets éternels, il y en a trois sortes. Pour mon compte, ou
+à la manière de Leibniz, je les définirais comme ceci. Il y a première sorte d'objets éternels: les
+définissables ou démontrables. Les objets définissables ou démontrables: c'est tout ce qui entre
+dans des rapports Tout-partie. C'est des extensités. [120 :00] Deuxième sorte d'objets éternels: les
+réquisits ou limites et rapports entre limites, tout ce qui rentre dans les intensités. Lorsque je dis:
+le son a une hauteur, une intensité, un timbre, ce sont trois objets éternels. Et enfin, troisième
+sorte d'objets éternels: les singularités. Vous voyez que les individus qui sont des composés très
+spéciaux de singularités n'entrent pas pour moi dans les objets éternels. Les individus sont
+porteurs, [121 :00] ils condensent, ils contractent des singularités, des objets éternels, c'est-à-dire
+que les objets éternels font ingression dans les individus. En revanche, les objets éternels sont
+parfaitement singuliers, mais ce ne sont pas des individus. Voilà, c'est donc ça que… Oui ?
+
+Richard Pinhas: Juste une question précise qui rentre dans le cadre de tout ce développement.
+
+Deleuze : Ouais, ouais, ouais, ouais!
+
+Pinhas : Si on prend le cas du costume vert, enfin du vert de ce costume, on a d'un côté la
+potentialité, et de l'autre côté son effectuation. Par exemple, il y a ce vert, et puis quelque chose
+est vert. Dans le cas de l'écriture d'une pièce musicale, il s'avère qu'on a d'une part, et j'aimerais
+bien savoir comment tu le place, parce que ça m'intéresse, l'œuvre musicale pensée par le
+compositeur, d’accord, c'est le stade 1, dans sa tête, deuxièmement l'écriture de la partition de la
+
+                                                                                                      22
+
+musique, c'est à dire l'œuvre écrite, [122 :00] mais non jouée, et troisièmement l'œuvre jouée par
+l'orchestre, c'est-à-dire effectuée et audible. Voilà la façon justement que c'est trois domaines,
+donc une multiplicité de domaines.
+
+Deleuze: Oui, je pense que c’est très intéressant ; oui, ta remarque est complètement juste. C’est
+que dans un tel processus d'ingression, pour parler comme lui [Whitehead], dans une ingression,
+il faut parler de plusieurs niveaux. Si l’on dit une potentialité s'actualise, par nécessité
+l'actualisation n'est pas un processus homogène. Une chose qui s'actualise, s'actualise à des
+niveaux successifs, et parfois pour court-circuiter tel niveau. Par exemple, en effet, on prend
+l'exemple d'une pièce musicale. Alors, ça commence par quoi ? Qu'est-ce qu’on pourrait appeler
+le noyau, avant même que la pièce n'existe? C'est quoi? [123 :00] Je dirais, ce qu'il y a, mais là je
+m'avance pour mon compte, je dirais: vous savez, à la base de tout dans la musique il y a la
+ritournelle, une petite ritournelle. La base, c'est une petite ritournelle. On me dira où elle est la
+petite ritournelle? Elle peut être absolument dans l'air. Elle n'est pas humaine, elle peut être
+cosmique. Ça peut être une petite ritournelle là-bas, dans une galaxie lointaine. Une petite
+ritournelle, tout commence par là.
+
+Supposons que cette petite ritournelle, elle soit captée, elle est captée, par exemple, par… -- Oh,
+merde, je n'ai plus de mémoire, c'est très curieux. Chaque fois que je veux un nom propre précis,
+il s'en va. C'est l'âge, ça, c'est terrible. [124 :00] Les chants de la Terre, Mahler, ah voilà ! -- Elle
+est captée par Mahler. J'y tiens, parce que lui, c'est vraiment un capteur de ritournelles, mais
+enfin ce n'est pas le seul ; capté par Mahler, les chants. Déjà, rien que sa préhension de l'objet
+éternel -- vous voyez la préhension elle n'est plus préhension de préhension, elle est préhension
+d'un objet éternel. Sa préhension d'un objet éternel, quand c'est Mahler qui préhende la petite
+ritournelle, ce n'est pas la même chose que quand c'est vous ou moi. Pourquoi ? Parce que, sans
+parler de son génie propre, il appréhende déjà à travers toute une armature technique, en tous cas
+que certains d'entre vous ont, mais que moi je n'ai pas. Déjà ses préhensions sont différentes. On
+peut préhender là, ou bien air populaire, [125 :00] au café Hongrois du coin, je prends un apéritif
+à côté de – voilà un autre nom propre… -- à côté de Bartok. C'est évident que dans le petit air
+populaire hongrois que l’on entend, la préhension de Bartok est différente. Mais je dis une petite
+ritournelle, ça peut être d'abord non sonore, et le musicien la saisit comme une ritournelle sonore.
+Par exemple, un mouvement, vous voyez deux enfants qui marchent d'une certaine façon, ils
+n'ont pas besoin de chanter pour que ce soit une petite ritournelle.
+
+Voilà, c'est ça. L'objet éternel, si vous essayé de définir son noyau, c'est la petite ritournelle. Et
+puis qu’est-ce qui se passe donc ? Préhension, c'est un premier niveau d'actualisation,
+préhension, [126 :00] non pas de la préhension, mais de l'objet éternel. Car voyez, à chaque fois
+c'est fourchu: ma préhension de la petite ritournelle renvoie à d'autres préhensions, ça c'est
+l'aspect occasion actuelle. Et d'autre part, elle est préhension de l'objet éternel, de la petite
+ritournelle qui se ballade dans l'air. Mais si vous me dites: mais d'où elle vient? Je ne vous le
+dirais pas. Personne n'a envie de demander ça! Il y a des philosophies où il y a des raisons de
+demander ça, mais pas là, il n'y a aucune raison de demander: d'où vient la petite ritournelle ? A
+ce moment là on répond par des injures, un coup de bâton. Un coup de bâton c'est aussi une
+petite ritournelle. Donc on aura répondu comme il fallait. [Fin de la transcription de
+WebDeleuze]
+
+                                                                                                        23
+
+Bien, eh bien, alors, c’est Mahler qui lui donne évidemment… voilà, préhendant, préhendant son
+objet éternel, cette espèce de potentialité pure, [127 :00] qui lui donne un niveau d’actualisation.
+Il rentre chez lui, et il écrit ; il prend son papier à musique et il écrit, il écrit quelque chose. C’est
+un nouveau niveau d’actualisation. Il va composer vraiment ; il note là la petite phrase comme
+sans doute Vinteuil a noté sa petite phrase. Il aurait pu le faire sur son… sur sa manchette,
+[Pause] et il compose vraiment, nouveau niveau d’actualisation. Et pourtant, c’est encore de la
+potentialité. Il faudra qu’il orchestre. Qu’est-ce que la musique [qui n’est] pas orchestrée ? C’est
+important déjà à un haut niveau d’actualité. [128 :00] Mais voilà qu’il faut l’orchestrer. Oui, j’en
+passe.
+
+Donc, pour tous les exemples que vous avez, tant qu’elle n’a pas été jouée, d’une certaine
+manière, il faut que ça soit joué comme si le processus d’actualisation réclamait cette dernière
+chose, à savoir l’ingression ne sera pas définitive tant qu’elle ne se fera pas dans une occasion
+qui réunit tous les caractères de l’événement. Car je pourrais montrer peut-être qu’à chaque
+niveau, il n’y a que certains caractères de l’occasion actuelle qui sont effectués. Mais seule
+l’exécution en concert pour la musique donnera, quoi, ce qu’on appellait au Moyen Age, l’acte
+ultime, [129 :00] l’acte ultime de la forme, l’élément ultime de l’actualité. Et alors, pour d’autres
+disciplines, cela ne sera pas la même chose. Je n’ai pas l’impression, par exemple, [que] montrer
+dans une exposition de peinture ait le même sens dans l’actualisation picturale qu’exécuter pour
+l’actualisation musicale. C’est autre chose. Ce n’est pas… Ecrire, c’est encore autre chose. Où se
+termine, quel est l’acte ultime de l’écriture ? Il y a beaucoup d’auteurs qui pensaient finalement
+qu’il fallait la lecture, c’est-à-dire qu’il fallait qu’ils lisent. Heureusement, c’est une idée qui a
+disparu parce que… parce que… [130 :00] oui, enfin. Bien, vous voyez ? Tout ça, c’est des
+problèmes en effet à poser pour nous-mêmes.
+
+Si bien que qu’enfin, j’en arrive à ces conclusions nécessaires sur… Dès lors, s’il est vrai que
+tout est événement et que même les objets éternels font ingression dans les événements, [Pause]
+tout nous ramène toujours à cette nouvelle conception. Qu’est-ce que c’est dès lors que la
+nouvelle théorie de la substance telle que Leibniz nous la propose, théorie dont on a prévu
+d’avance qu’on pourrait la dire maniériste ? Et là, je voudrais vous raconter – on n’en aura pas le
+temps, on n’en a jamais assez, je ne sais pas, je n’y arriverai jamais, moi, si ça continue – je veux
+vous raconter comme je vois les choses.
+
+On pourrait [131 :00] dire – c’est juste pour vous donner des idées ; il ne faut pas y croire à ce
+que je dis. -- Je me dis, les Grecs, vous savez, les Grecs dans la philosophie grecque, une chose
+qui me frappe, [c’est qu’] ils ont pensé… Qu’est-ce qui pourrait définir l’esprit grec ? Et je dirais
+que c’est une manière prodigieuse de penser en fonction de tout un jeu d’oppositions, et que la
+philosophie grecque, elle a commencé comme ça : construire le jeu des oppositions principales,
+peut-être. Et ça ira jusqu’à Aristote, [Pause] [132 :00] bien qu’il y ait eu un autre élément qui
+déjà s’introduisait, qui déjà, à partir de Platon, s’introduisait, mais enfin… Ils ont de l’opposition
+une notion extraordinairement souple. Si vous pensez, exemple typique, je donnerai comme
+point de repère, deux points de repère : les philosophes qu’on appelle les grands physiciens, les
+premiers, dont le grand problème c’est d’établir les oppositions entre les éléments premiers : le
+sec et le humide, le chaud et le froid, l’eau et la terre, etc., et dès lors, les transformations, les
+transformations cycliques.
+
+                                                                                                    24
+
+Deuxième point fondamental, pour moi, c’est la théorie aristotélicienne [133 :00] des
+oppositions. C’est quelque chose qu’il faudrait savoir par cœur, mais enfin je n’ai pas le temps de
+vous l’apprendre, la théorie des opposés chez Aristote. Et toute la pensée grecque me paraît… Je
+dis qu’il y a un autre élément, oui, je crois que cet autre élément, c’est celui qui se dégage sous
+un terme assez différent, c’est – je viens de le dire – c’est le thème de la différence. Et c’est
+curieux comme chez Platon, peut-être de la différence pointe en fonction et dans des rapports très
+complexes avec la structure des oppositions. [Pause] [134 :00] Chez Aristote aussi, c’est sur la
+structure des oppositions que s’établit tout le thème des différences spécifiques, le thème de la
+différence.
+
+Et puis, avec les néo-Platoniciens, je dis, c’est presque la fin du monde grec, et vous le
+reconnaissez à ceci, ce que le thème de la différence l’emporte, l’emporte parce qu’il a triomphé
+à partir de Plotin. Cela me paraît évident sur le thème de l’opposition. [Pause]
+
+Je fais vraiment du vol d’oiseau. C’est si… uniquement je parle là pour ceux à qui ça donne des
+idées, mais surtout ne me croyez pas ! Ça ne va pas du tout de soi ; ça ne sera bon que si vous
+savez en tirer quelque chose. Je veux dire que ce n’est pas du tout, … [135 :00] C’est dit comme
+ça, dit comme je le dis, c’est même stupide, c’est même arbitraire, c’est comme, c’est, prenez
+cela comme pures hypothèses, comme impressions.
+
+Je me dis, tout le Moyen Age -- vous vous rendez compte, parler comme ça, "tout le Moyen
+Age" -- qu’est-ce qu’on voit ? Et à condition que je puisse… Tenon-nous-en au Gothique.
+Qu’est-ce que la grande pensée gothique ? Je crois que, bien sûr, le Christalisme est passé làdessus. Mais le Gothique, on pourrait dire, est un foisonnement ; bien sûr, c’est connu, le
+Gothique est un foisonnement, mais c’est un foisonnement de quoi ? C’est curieux que… Ce
+n’est pas la question de l’opposition ; bien sûr, on trouve des grands textes sur l’opposition au
+Moyen Age, et ce n’est plus ça qui est central. La question n’est plus : comment les choses
+s’opposent-elles de telle manière que l’une puisse sortir de l’autre ? Et vous sentez bien
+pourquoi. [136 :00] C’est que ces histoires de transformation, les Chrétiens n’aiment pas
+tellement ça. Qu’une chose puisse sortir d’une autre, cela ne leur dit rien du tout, aux Chrétiens.
+Ça, c’est une idée grecque, que les choses sortent, qu’une chose puisse sortir d’une autre.
+
+Les Chrétiens, ils préfèrent que chaque chose reste à sa place ; il ne faut pas trop qu’elles sortent.
+Bien sûr, ils ne peuvent pas éviter une physique des éléments et de leurs transformations, mais
+c’est par là qu’ils sont les plus forts. Ce n’est pas par hasard qu’ils vont faire du mouvement, du
+mouvement local, quelque chose de plus en plus affirmé parce que le mouvement local s’oppose
+à l’altération, c’est-à-dire aux changements qualitatifs. Je n’aime pas tellement… si il y a un tel
+rapport entre le christianisme et le mécanisme, c’est évidemment que le christianisme, il n’a
+jamais bien aimé les mouvements autres que locaux, c’est-à-dire [137 :00] les mouvements de
+l’altération, l’altération qualitative.
+
+Mais enfin, ça foisonne, Qu’est-ce qui foisonne dans le Gothique ? Je dirais ce qui foisonne,
+c’est tous les types, mais alors, les plus déments, tous les types de distinction, et ça, c’est ça leur
+jeu. Là, je ne serais pas d’accord avec – enfin, "je ne serais pas d’accord", c’est des propositions
+stupides -- Il y a [Wilhelm] Wörringer qui est un critique fondamental qui a écrit sur le Gothique,
+puis [Erwin] Panofsky aussi. Ils sont d’accord pour, ils tendent pour dire, oui, regardez bien,
+
+                                                                                                    25
+
+entre le Gothique architectural et la syllogistique en philosophie, il y a des rapports extrêmement
+profonds. [Pause] Alors, bon ben, oui, je ne vais pas dire qu’ils ont tort, non, pas question, pas
+question. Mais, moi, [138 :00] ce n’est pas ça qui me frappe, ce n’est pas ça qui me frappe. Je me
+dis, ah ben oui, c’est sûr, mais pour moi, ça n’épuise pas… Je ne dis pas du tout que… Non, je ne
+prétends pas dire quelque chose de mieux ; je prétends dire autre chose, ce qui n’exclut pas
+que…
+
+Moi, ce qui me frappe, c’est que le Gothique n’est pas seulement l’art du syllogisme ; ce n’est
+pas le syllogistique. C’est un art très étonnant, un art d’inventer des modes de distinction qui est
+dans tous les sens. Ça fourmille, là, ça foisonne en modes de distinction. Et les disputes entre
+grands philosophes au Moyen Age, ça me paraît moins du type "et ton syllogisme à toi ?" que du
+type "et toi, comment [est-ce que] tu distingues ceci et cela ?" [139 :00] C’est-à-dire, bon, Dieu,
+c’est trois personnes en une. Quel type de distinction ? Qu’est-ce que c’est ? Quelle est la
+distinction des personnes en Dieu ? [Pause] Quelle est la distinction entre la forme et la matière ?
+Vous me direz, mais ça, c’est du pur Aristote, la question, "Quelle est la distinction entre la
+forme et la matière ? Voir… voir si chez Aristote la question, Quelle est la distinction entre la
+forme et la matière ?" si ce n’est pas forcément [posé] par, d’abord, en quoi la matière et la forme
+sont-elles opposées pour que la question de distinction puisse se poser, tandis que, au contraire,
+l’opposition forme-matière qui existe parfaitement au Moyen Age et qui existe également, mais
+c’est la question de la distinction qui est devenue première. Quelle distinction y a-t-il entre ceci
+et cela ? Quelle distinction y a-t-il entre le monde… [140 :00] Et vous sentez que pour le
+christianisme, c’est forcément un problème de la distinction, qu’ils ne vont pas dire, par exemple,
+que le monde est l’opposé de Dieu. Ils le diront à certains égards ; le monde est fini et Dieu est
+infini, le monde est mauvais et Dieu est bon. Ils diront tout ça, mais s’ils poussaient l’opposition,
+les Chrétiens, s’ils poussaient l’opposition, ils vont la résilier immédiatement.
+
+Leur problème, c’est le problème de la distinction. Quelle distinction y a-t-il entre Dieu et le
+monde ? Est-ce que Dieu est dans le monde ? Est-ce que le monde est en Dieu ? Est-ce que l’un
+est extérieur à l’autre ? De toute manière, il ne faudra pas confondre Dieu et le monde. Mais si je
+dis, le monde est en Dieu, ou si je dis, Dieu est dans le monde, ou si je dis Dieu et le monde sont
+extérieurs l’un à l’autre, ce sont trois types de distinction différents. [141 :00] Quels sont ces
+types de distinction ? Réfléchissons aux types de distinction. Ils n’arrêteront pas de multiplier les
+distinctions.
+
+Et si vous prenez les deux plus grands philosophes du Moyen Age, à savoir Saint Thomas et
+Duns Scot, avec une préférence que vous avez tous pour Duns Scot, [Rires] vous verrez ! Scot,
+c’est celui qui n’arrête pas de surenchérir sur les tas de distinctions. Oh, il faut en ajouter
+encore ! Il n’y a personne qui ait compris dans les nouveautés de Duns Scott ; il y a des pages
+admirables, admirables sur la nécessité d’introduire un nouveau type de distinction. Il va inventer
+les mots ; il va falloir qu’il invente les mots pour ses nouveaux types de distinction. [142 :00]
+Enfin, je crois que fondamentalement, cette pensée est un foisonnement créateur sur les modes
+de distinction et leur distribution à travers Dieu, le monde, et les créatures. Et peut-être, après
+tout, le syllogisme en dépend ; ça, il faudrait voir, je ne sais pas. Je ne sais pas si les deux idées,
+celle que je vous propose et celle de Wörringer, sont facile à concilier ou bien si… eh bien, je ne
+sais pas, et peu importe, d’ailleurs.
+
+                                                                                                        26
+
+Et alors, je dirais, en toujours allant vite, le Classique, c’est quoi ? -- [Il y a un bruit qui gêne
+Deleuze] Oh, qu’est-ce qu’ils me font chier, alors… Ce n’est pas humain ! – Le Classique, c’est
+quoi ? C’est une remise en ordre. Vous savez le Classique, c’est forcé, et je ne dis pas que ce soit
+mal, c’est bien. Peut-être qu’il en faut, et puis les Classiques sont créateurs. Mais il n’y a pas de
+doute que vous reconnaissez les auteurs classiques [143 :00] en quoi il y a une espèce de remise
+en ordre sévère. Et c’est fini, eh ? Fini, les Gothiques ! Fini de rigoler comme ça ! [Rires] Non,
+non, non, non, ça ne peut pas durer, on ne peut pas inventer comme ça. Ça ne peut pas foisonner
+comme ça. On va remettre de l’ordre. Il n’y a pas de petit x modes de distinctions. Et vous ne
+savez pas penser parce que vous distinguez n’importe comment, et vous distinguez n’importe
+comment parce que vous inventez vous-même des tas de distinctions, et c’est proprement idiot !
+
+Et c’est Descartes, et bien sûr, Descartes est celui qui dit "Je pense, donc je suis", mais c’est
+surtout aussi celui qui dit "Voyons-y dans le problème de distinctions". Il y a trois types de
+distinction, et pas une de plus, et à la lettre, et je vous emmerde, c’est-à-dire, à ce ton ! Pourquoi
+[est-ce que] le Moyen Age est abominable ? Parce qu’on ne sait plus ce qui est distinct de quoi et
+sous quelle forme ! C’est une urgence dans la logique [144 :00] de faire et imposer une nouvelle
+logique qui sera la logique de la distinction. Il n’y aura que trois distinctions. L’une sera dite
+"réelle", la distinction réelle ; l’autre sera dite "de raison", la distinction de raison ; et la troisième
+sera dite "modale", et toutes les autres distinctions seront rasées et tenues pour nulles. [Pause]
+
+Exemple : heureusement, heureusement, vous savez que les Méditations de Descartes – il y a un
+livre de Descartes qui s’appelle les Méditations – et ce livre a suscité, avec l’accord de Descartes
+tout à fait, les objections, c’est-à-dire un certain nombre de penseurs très importants de l’époque
+l’ont lu et ont fait des objections à Descartes, [145 :00] et Descartes a répondu aux objections. Et
+je ne veux pas dire que les deux et troisième sortes de textes sont plus importants, mais je dis que
+tout n’est également pas important, et qu’en fait, les Méditations comportent deux autres livres,
+dont elles sont inséparables ainsi que les objections faites à Descartes et les réponses de
+Descartes à ces objections.
+
+Or, bonheur de bonheur ! Un disciple de Scot a fait partie de ceux qui faisaient les objections à
+Descartes, c’est-à-dire [Johannes] Caterus, le grand Caterus, le très grand Caterus, et Caterus est
+très mal traité dans ses réponses par Descartes [qui] le traite, je n’ose pas vous dire, c’est une
+abomination. [Rires] Et Caterus n’a pas sans lui dire – et c’est pour ça que je m’y réfère – mais
+vous savez, la vieille distinction formelle, [146 :00] ce que Duns Scot appelait "distinction"
+formelle, c’est bien mieux que ce que vous nous dites, et c’est très gênant pour vous
+[Descartes] ! Et alors là, Descartes devient très, très désagréable, [Rires] extrêmement
+désagréable, et dit que ce sont des superstitions du Moyen Age, la distinction formelle n’est rien
+d’autre qu’avoir mal compris la distinction réelle, et tout autre il refuse, eh ?
+
+Et finalement, je pense que si Descartes peut faire cette remise en ordre du point de vue des
+distinctions, c’est parce qu’il a deux modèles qui vont le lui permettre, les deux modèles dont il
+est parfaitement l’inventeur, un modèle géométrique et un modèle [147 :00] arithmétique. --
+[Deleuze se tourne vers quelqu’un près de lui, peut-être bien son collègue en mathématiques,
+Marcel Maarek] Je ne dis pas le contraire de toi, mais l’algèbre est précisément en ce cas une
+espèce de combinaison, c’est-à-dire je ne dirais pas l’algèbre, il fait la géométrie et
+l’arithmétique qui vont être la combinaison précisément, la nouvelle combinaison de la nouvelle
+
+                                                                                                  27
+
+arithmétique et de la nouvelle géométrie. Ça, peu importe, j’essayerai plus de l’expliquer ou je
+n’explique pas… -- Accordez-moi que peut-être cette remise en ordre est sévère dans les
+problèmes, dans le fouillis des distinctions au Moyen Age, les distinctions d’une scolastique, [et
+cette remise en ordre] est rendu possible par les critères arithmétiques et géométriques de
+Descartes.
+
+Et qu’est-ce qui se passe après ? … Et toute la théorie cartésienne de la substance est fondée sur
+l’utilisation des trois distinctions. [148 :00] On ne peut rien là… – il me semble, à mon avis ;
+c’est toujours mal de dire ça, vous le corrigez de vous-mêmes – ça me paraît difficile de
+comprendre la théorie cartésienne de la substance si on ne tient pas compte de l’exercice des trois
+types de distinctions retenus par Descartes.
+
+Mais qu’est-ce qui se passe après ? Après, il va y avoir une opération assez diabolique, opération
+diabolique, il me semble, c’est celle-ci. C’est que Descartes s’est suffisamment imposé,
+notamment scientifiquement, il a une position, il n’est pas question, impossible de faire une
+réaction contre Descartes directement, pas possible. Alors, les successeurs de Descartes vont s’en
+tenir : d’accord, surtout on ne restaure pas Aristote ; [149 :00] on ne revient pas aux Grecs, oh
+non ! On ne revient pas au Gothique, au Moyen Age, oh non, non, non, pas question d’y revenir !
+Et sous le nom des distinctions cartésiennes, ils vont, en fait, ramener tout le Moyen Age et tous
+les Grecs, ou pire parfois, [Rires], pire parfois, c’est-à-dire Spinoza [Pause] et Leibniz. Qu’est-ce
+qu’ils vont faire ? Et c’est ça que j’appellerai le Baroque, la reprise du mouvement, par delà du
+monde cartésien classique, la reprise du processus des distinctions, dans des espèces de
+retrouvailles avec les Grecs, avec Aristote, [150 :00] avec le Moyen Age, [Pause] mais sans que
+ce soit un retour à, si vous voulez… comme on dépassait, comme en gros, on dépassait
+Descartes, sans revenir à Aristote et à Duns Scot. La réponse, c’est presque Leibniz.
+
+Et c’est par-là que je voudrais déjà introduire la troisième partie, ce qui nous reste à faire. C’est
+que, qu’est-ce qu’il va faire ? Comment est-ce qu’il va retransformer tous les problèmes des
+distinctions, de recréer toutes les distinctions, avec la philosophie de Leibniz, et toutes les
+distinctions qui se recréent, sans pourtant que ce soit un retour au Moyen Age ? [Pause] Et
+pourtant, il y met tout du sien. Vous verrez, on verra la prochaine fois [151 :00] comment
+Leibniz, dans sa théorie de la substance, réactive tout Aristote contre Descartes, comment il
+réintroduit toutes les distinctions du Moyen Age, avec l’air de dire, il se contente de dire – lui
+alors, il pousse la malice très loin – il dit que Descartes a complètement raison, simplement il n’a
+jamais bien compris ce qu’il fallait entendre par distinction réelle ! Et avec cet argument
+impitoyable – Descartes a raison de nous dire qu’il y a trois distinctions, seulement Descartes n’a
+rien compris à ces trois distinctions – [Rires] Leibniz refoule les distinctions les plus
+prodigieuses de la pensée scolastique, mais en les renouvelant grâce à quoi ? Grâce à ses
+mathématiques à lui. C’est ça qui lui donne les moyens, et ces mathématiques à lui, vous pensez
+que je vais dire à nouveau, [152 :00] ah, c’est le calcul différentiel ou bien c’est les séries. Non,
+il y a quelque chose qui est plus important que tout, à savoir – cherchons le domaine.
+
+Je disais, la théorie cartésienne des distinctions, elle repose finalement sur l’instrument
+arithmétique et géométrique que Descartes forge à la même époque. Eh ben, Leibniz, lui, si c’est
+l’homme des séries infinies et si c’est l’homme du calcul différentiel et du calcul infinitésimal,
+c’est pour une raison beaucoup plus simple – je vais dire des choses enfantines là – pour une
+
+                                                                                                 28
+
+raison beaucoup plus simple qui lui rend possible ses découvertes extrêmement complexes en
+mathématiques. C’est parce qu’il découvre l’harmonique. [153 :00]
+
+Le domaine, je dirais presque pour finir ce trimestre, le domaine de Leibniz, c’est l’harmonique
+dans sa double différence avec l’arithmétique et le géométrique, si bien qu’à nouveau, je plaide
+pour vous convaincre de quelque chose : il est stupide, mais il est désespéré, il est sans aucune
+raison de croire qu’on peut comprendre Leibniz, et notamment une théorie célèbre chez Leibniz
+qui s’appelle la théorie de l’harmonie préétablie et qui est au centre de toute la philosophie de
+Leibniz -- et que nous verrons dans notre troisième partie -- si l’on ne s’interroge pas au niveau
+le plus simple et si l’on ne prend pas au sérieux le mot "harmonie". Leibniz est, à ma
+connaissance, le premier philosophe qui, au niveau des exemples [154 :00] les plus rudimentaires
+des mathématiques, se sert de l’harmonie, c’est-à-dire du rapport harmonique ou des moyennes
+dites harmoniques par différence avec les moyennes arithmétiques ou les moyennes
+géométriques.
+
+L’objet pour notre trouvaille, ce sera que vous me renseignez un peu. Si j’ai demandé à plusieurs
+ici qui sont compétents en musique de s’occuper particulièrement de ce problème de l’harmonie,
+c’est parce que j’ai cette idée en tête comme devant occuper l’essentiel de notre troisième
+trimestre, mais c’est évidemment à partir d’une conception de l’harmonie et du rapport
+harmonique qu’on sera en mesure de faire l’ensemble de, ou de réunir tous les éléments qu’on a
+sur la philosophie de Leibniz. [155 :00]
+
+Alors ce que je veux dire, c’est que nous en sommes là. La prochaine fois, il me reste toujours
+encore deux choses ; j’ai juste un peu avancé. Pour la rentrée, il me reste à résumer une espèce
+de présentation, la substance chez Leibniz, de très rapides conclusions qui seront de plus en plus
+rapides, sur ce qu’il faut dès lors en tirer quant à la philosophie, et puis nous fonçons sur cette
+question de [qu’est-ce que la philosophie ?] [La coupure de l’enregistrement omet la fin de la
+phrase, mais nous ajoutons ce sujet puisque la séance suivante contiendra les grandes lignes du
+dernier livre qu’il publiera avec Guattari] [Fin de l’enregistrement] [2 :35 :30]

@@ -1,0 +1,1201 @@
+1
+
+Gilles Deleuze
+
+Seminar on Leibniz: Philosophy and the Creation of Concepts
+
+Lecture 01, 15 April 1980
+
+Translation and supplementary additions from transcript completed from the YouTube
+audio,1 Charles J. Stivale2
+
+Part 1
+
+So, as I told you, we are going to be involved for a short while in a series on Leibniz. And my
+goal is very simple: for those who don’t know him very much at all, I want to try to present and
+to have you love this author, to inspire in you a sort of desire to read his works. For specific texts
+to read, I advised you to look at one of the three little pamphlets that I mentioned the last time.
+
+Let me point out that there is a working instrument in order to start reading Leibniz, an
+incomparable research instrument. This is the life work, a very modest work, but a very profound
+one. It is by a woman philosopher named Madame [Lucy] Prenant, who had long ago published
+selected excerpts by Leibniz.3 Usually a collection of excerpts is of doubtful value, but this one is
+a work of art, for a very simple reason: Leibniz had writing techniques which no doubt were
+rather frequent during his era, that is, the 18th century, the very start of 18th century, but that he
+pushed to an extraordinary extent. Of course, like all philosophers, he wrote huge books. But one
+might almost be tempted to say that these huge books did not constitute the essential part of his
+works, since what was essential was in the correspondence and in quite tiny memoirs. Leibniz’s
+great texts often ran 4 or 5, 10 pages, or were in letters. He wrote to some extent in all languages
+and in some ways was the first great German philosopher. He constitutes the arrival in Europe of
+German philosophy. His influence was immediate on the German Romantic philosophers in the
+19th century; moreover, it continued – and is still continuing now -- particularly with Nietzsche.
+
+So, I am asking a very general question because, no doubt for me, Leibniz is a philosopher who
+best helps us understand a possible answer to this question: what is philosophy? Or rather, what
+does a philosopher do? What does philosophy grapple with? If you think that definitions like
+search for the true or search for wisdom are not adequate, is there a philosophical activity? I want
+to say very quickly how I recognize a philosopher in his activity. I would say that for a
+philosopher, one can only confront these activities as a function of what they create and of their
+mode of creation. One must ask, what does a woodworker create? What does a musician create?
+For me, a philosopher is someone very simple, someone who creates concepts. This obviously
+implies many things, namely that the concept is something to be created, that the concept is the
+product [terme] of a creation.
+
+But I would say, at the extreme, if someone were to ask me what a scientist is, I see no
+possibility of defining science if we do not indicate something that is created by and in science.
+And, it happens that what is created by and in science, I’m not completely sure what it is, but not
+
+                                                                                                       2
+
+concepts properly speaking. What is created in art, art, the domain that is most familiar to us
+because the concept of creation, correctly or incorrectly, has been much more linked to art than
+to science or to philosophy, -- perhaps there isn’t so much reason for this – if I am asked, “what
+does a painter create?” he creates lines and colors. That suggests that lines and colors are not
+givens but are the product [terme] of a creation. What is it that’s a given? Let’s assume, for
+example, that what is given, I’d say, at the extreme, could always be called a flow. Flows are
+what are givens, and creation consists in dividing [découper], organizing, connecting flows in
+such a way that a creation is drawn or made around certain singularities extracted from flows.
+
+Well, I would say that a concept is not at all something that is a given. Moreover, a concept is
+not the same thing as thought: one can very well think without concepts, and even everyone who
+does not do philosophy still thinks, I believe, they think quite completely, but they do not think
+via concepts, if you accept the idea of a concept as the product [terme] of an activity or of an
+original creation.
+
+I would say that the concept is a system of singularities appropriated [prélevé] from a thought
+flow. A philosopher is someone who invents concepts. Is he an intellectual? No, in my opinion.
+For a concept as system of singularities appropriated from a thought flow, a thought flow that
+can be thought of as continuous. I can speak of a thought flow since there has been a thought
+flow since, I don't know, since prehistoric man, the thinker, Rodin, and then the first tiny spark
+of thought, well, this is the start of a flow; just as there is a biological flow, there is a vital flow,
+there is a flow of thought. So the philosopher is the one who would know or who would propose
+to create concepts appropriated from the flow of universal thought. Imagine the universal thought
+flow as a kind of interior monologue, the interior monologue of everyone who thinks. Philosophy
+arises with the action that consists of creating concepts. For me, there are as many creations in
+the invention of a concept as in the creation by a great painter or musician. For a great musician,
+one can also conceive of a continuous acoustic flow – perhaps that is only an idea, but it matters
+little if this idea is justified -- that traverses the world and that even encompasses silence. What is
+a musician? A musician is someone who creates, for example, and who appropriates something
+from this flow that we will call what? You already sense that there is creation. Can I say that
+he/she creates notes? Perhaps. But are notes really what music is involved in, or rather
+aggregates of notes? What will be all a sound, a musician’s new sound? You indeed sense that it
+is not simply a question of the system of notes, do-re-mi-fa-sol. Well, I am saying it’s the same
+thing for philosophy; it isn’t simply about creating sounds; it is a matter of creating concepts.
+
+And it is not a question of defining philosophy by some sort of search for the truth, for a very
+simple reason: this is that truth is always subordinate to the system of concepts of which one
+disposes. What is the importance of philosophers for non-philosophers? It is that although nonphilosophers don’t know it, or pretend not to be interested, whether they like it or not, they think
+through concepts which have proper names.
+
+I recognize Kant’s name not by his life, but by a certain type of concepts signed Kant, exactly as
+I recognize a great painter not by his life, but by a certain tonality, a certain line, that are signed
+by this proper name. Henceforth, one can very well conceive of being the disciple of a
+philosopher. If you are situated so that you say that such and such a philosopher signed the
+concepts for which you feel a need, then you become Kantian, Leibnizian, etc.
+
+                                                                                                     3
+
+All this, I would just like to make you feel the stupidity of the ordinary remark which comes
+from the flow of non-philosophical thought according to which philosophy is a strange thing
+because the philosophers never agree with each other. And here the situation of philosophy is
+contrasted with the situation of science, which is at least twice as stupid since scientists do not
+agree with each other more and that does not at all mean that they are arguing. It is indeed
+inevitable that two great philosophers might not agree with each other to the extent that each
+creates a system of concepts that serves as his point of reference. Thus, that isn’t the only thing
+to be judged. But I have just said that these disciples, whether globally or locally -- one can very
+well be a disciple only locally, only on one point or another, [for] philosophy is detachable; you
+can indeed select a particular point, if one has to – so you can very well be a disciple of a
+philosopher to the extent that you consider that you personally need this type of concepts.
+Concepts are spiritual signatures, but that does not mean it’s in one’s head because concepts are
+also ways of living – creating a concept is necessarily staking a position, and to do so is not
+through choice or reflections; the philosopher reflects no more than does the painter or musician.
+Reflection only occurs through [inaudible word]. Things are defined or activities are defined by
+a creative dimension and not by a reflexive dimension. So, to the question, “what does the
+philosopher create?”, it’s concepts, and concepts do not pre-exist.
+
+Henceforth, what does it mean to say: to need this or that concept? I wonder… – This is a kind of
+introduction; you are going to see why I feel the need to say all this in order to get to Leibniz --
+in some ways, I tell myself that concepts are such living things, that they really are things with
+four paws, that move, really. It’s like a color, like a sound, it’s like… It’s something else, but it’s
+at the same level of creation. Well, I tell myself in this way, it seems to me that concepts really
+are such living things that they are not unrelated – only, one would have to create a theory, that
+is, a concept in order to account for what identity is -- unrelated to something that would,
+however, appear the farthest from the concept, namely the scream [le cri].
+
+In some ways, the philosopher is not someone who sings, but someone who screams. And what
+does he/she scream? Each time that you need to scream, -- this isn’t always from pain; it could
+be from anger, it could be… -- I think that you are not far from a kind of call of philosophy.
+What would it mean for the concept to be a kind of scream or a kind of form of scream? That’s
+what it means to need a concept; to need a concept means having something to scream! What can
+one have to scream? It could be many things, many things. So, what would the scream be?... You
+think, well, I’m not going there, it’s just so that… One can scream, in fact; that can be “ou-youyou” [Deleuze attempts to wail]. There you don’t have a concept. Precisely to find the concept of
+that scream, there you are perhaps doing philosophy. But so, fine, to cry, one can scream
+thousands of things. Imagine someone who screams: “Well really, all that must have some kind
+reason to be.” It’s a very simple scream. In my definition, the concept is the form of the scream,
+we immediately see a series of philosophers who would say, “yes, yes”! I am thinking of some
+philosophers, precisely, philosophers of passion, philosophers of pathos, in contrast from
+philosophers of logos. For example, Kierkegaard based his entire philosophy on some
+fundamental screams.
+
+But Leibniz comes from the great rationalist tradition, and no doubt, no philosopher, even Hegel,
+has taken rationalism this far. What can the rationalist’s scream be? I do not believe that the
+rationalist is someone seeking an ideal, nor an idealist, as they say. [The rationalist] is someone
+
+                                                                                                         4
+
+who screams as much as others; just that his screams are not the same. What can a man who
+believes in reason scream? There is only one thing he can scream: No matter what happens or
+what he observes, it has to be for a reason. And it is very simple. [Pause] But that’s the scream
+signed Leibniz; you will tell me, you don't have to be smart to say that. If we live at a certain
+level, to see why everything will depend on a crazy creation of concepts that will express this
+scream at all levels: there must be a reason for all of this, wars that occur, children who die, etc.,
+etc. All of this has to have a reason. It's a scream as passionate as the scream that consists in
+saying, nothing has a reason, everything is absurd. That’s another scream. It is as a function of
+your cries that you are a philosopher.
+
+So, fine, imagine Leibniz. So, with all that is happening here, there is something frightening. He
+is the philosopher of order, and moreover, of order and policing, in the sense… in every sense of
+the word “policing.” In the first sense of the word “policing” especially, namely, good
+organization, the regulated organization of the city. This is a philosophy of order. He only thinks
+in terms of order. In one sense, today we’d say that he is extremely reactionary, he’s a friend of
+order. But very oddly in this taste for order and to establish this order, he yields to the most
+insane, the craziest creation of concepts that we have ever witnessed in philosophy. Disheveled
+concepts, the most exuberant concepts, the most disordered, the most complex in order to justify
+what is. Very strange. Each thing must have a reason. Fine.
+
+In fact, there are two kinds of philosopher; if you accept this first definition by which philosophy
+is the activity consisting of creating concepts, there are all kinds of philosophers, but there are
+perhaps two poles: there are those who engage in a creation – and one has no advantage over the
+other – there are those who engage in a very sober creation of concepts; they create concepts on
+the level of a particular singularity well distinguished from another, and I dream finally of a kind
+of quantification of philosophers in which they would be quantified according to the number of
+concepts they have signed or invented. If I say: Descartes! That’s the philosopher type with a
+very sober creation of concepts. The history of the cogito, historically one can always find an
+entire tradition, precursors, but that doesn’t prevent there being something signed Descartes in
+the cogito concept, notably (a proposition can express a concept) the proposition: “I think
+therefore I am,” to the extent that it has a very odd, very astonishing sense, it’s a truly new
+concept. It’s the discovery of subjectivity, of thinking subjectivity. It’s signed Descartes.
+
+So, we could always look in St. Augustine’s works, if there were something that had prepared to
+so; of course, there is a history of concepts, but that doesn’t prevent it from being signed
+Descartes. It’s not that we’ve made rather quick work of Descartes, but that we could assign to
+him five or six concepts, an enormous feat to have invented six concepts, but it’s a very sober
+creation. And then there are others like that, some sober philosophers, and then there are
+exasperated philosophers, and [indistinct word] philosophers. For them, each concept covers an
+aggregate of singularities, and then they always need to have others, always other concepts. One
+witnesses a mad creation of concepts. The typical example is Leibniz. He never finished creating
+something new. It’s all this that I would like to explain to you.
+
+And to explain him, I’ll say quickly, just so you have some reference points, that he’s a German
+philosopher. He is the first philosopher to reflect about this, about the possibilities, the power of
+the German language as regards the concept, as regards philosophy, how German is an eminently
+
+                                                                                                         5
+
+conceptual language, and it’s not by chance that it can also be a great language of the scream.
+Multiple activities, he attends to all, a very great mathematician, great physics scholar, very good
+jurist, many political activities, always in the service of order. He does not stop; he does not stop.
+He goes out to see people; he is very suspicious [louche]. If needed, he claims that he didn’t go
+see them; there is a Leibniz-Spinoza visit (Spinoza being the anti-Leibniz); there is a famous
+visit by Leibniz to Spinoza during which Leibniz is made to read some manuscripts, and one
+imagines Spinoza very exasperated, wondering what this guy wants. [Laughter] Following that,
+when Spinoza is attacked, Leibniz said that he never went to see him, that it’s not true; when it’s
+proven that he indeed did go visit him, [Leibniz] says that it was to monitor [surveiller] him.
+[Laughter] Abominable, he is abominable. There we are; this isn’t the only example. It’s not
+because he is abominable that there is this crazy creation. His dates, nonetheless, his dates: 16461716. So, that’s a long life, straddling plenty of things.
+
+So, there we are; in the end, he had a kind of very strange humor. I see only Leibniz in this way,
+having this diabolical humor that consists in this, and that belongs to his style. I’ll try to explain
+that his system is rather like a pyramid. Leibniz’s great system has several levels. None of these
+levels is false, these levels symbolize with each other, and Leibniz is the first great philosopher
+to conceive of activity and thought as a vast symbolization.
+
+So, all these levels symbolize, but they are all more or less close to what we could provisionally
+call the absolute. And that is part and parcel of his very body of work. I mean that, you recall that
+lots of things are in letters or, in that period, lots of things are directed in writing to one group or
+another. Depending on Leibniz’s correspondent or on the public to which he addressed himself,
+he presented his whole system at a particular level. Imagine that his system is made of levels
+more or less tightened or more or less relaxed; in order to explain something to someone, he goes
+to situate himself on a particular level of his system. Let us assume that the someone in question
+was suspected by Leibniz of having a mediocre intelligence: very well, he is delighted, he
+situates himself on one of the lowest levels of his system, and if he addresses someone of higher
+intelligence, he jumps to a higher level. As these levels belong implicitly to Leibniz’s own texts,
+that creates a great problem of commentary. In fact, it’s a rather complicated case because, in my
+opinion, one can never rely on a Leibniz text if one has not first discerned the level of the system
+to which this text corresponds.
+
+For example, there are texts in which Leibniz explains what, according to him, is the union of
+soul and body, fine, and it’s to one particular correspondent; to another correspondent, he will
+explain that there is no problem in the union of soul and body since the real problem is that of the
+relation of souls to one another. The two things are not at all contradictory, it’s two levels of the
+system. The result is that if one does not evaluate the level of a Leibniz text, then one will get the
+impression that he constantly contradicts himself, when in fact, he does not contradict himself at
+all.
+
+So, I would already like to start with the most… with a madman’s idea; since this is quite
+complicated, I would almost like to propose, Leibniz is a very difficult philosopher. I would like
+to give titles to each part of what I have to propose to you. So, the first part, my principal number
+1, I would call “a strange kind of thought” [une drôle de pensée]. Why do I call it “a strange kind
+of thought”? Well, because among Leibniz’s texts, there is a small one that Leibniz himself calls
+
+                                                                                                      6
+
+“a strange kind of thought.” Thus, I am authorized by the author himself. And since Leibniz
+dreamed a lot about… he imagined, he has a whole science-fiction side that is absolutely
+amazing, all the time he imagined institutions. In this little “strange kind of thought” text, he
+invents a very disturbing institution – I find this to be a very charming text -- that would be as
+follows: an academy of games would be necessary. At that era, as well as with Pascal, certain
+other mathematicians, and Leibniz himself, there developed a great theory of games and
+probabilities. Leibniz is one of the great founders of game theory. He was impassioned by
+mathematical game problems; he must have been quite a games player himself. He imagined this
+academy of games as necessarily being at the same time – why at the same time? Recall this
+because we will have to come back to it -- depending on the point of view in which one is
+situated to see this institution, or to participate in it – this would be at the same time a section of
+the academy of sciences, a zoological and botanical garden, a universal exposition, a casino
+where one gambled, and an enterprise of police control. That’s not bad if he creates all that, a
+casino. So, he explains, he establishes this little institution; he calls that “a strange kind of
+thought.” A very lovely text.
+
+Assume that I am relating a story to you. This story consists in taking up one of the central points
+of Leibniz’s philosophy, and I tell it to you as if it were the description of another world, and
+there I also number the principal propositions that go into forming a strange kind of thought. And
+I am saying, little a) – it’s very important for me to number this to make it very clear. So these
+are aspects of this “strange kind of thought” that I am going to relate to you now, at the center of
+Leibniz’s philosophy.
+
+Little a) We all know that, up to here, Leibniz has created nothing. I would say he only
+contemplates the thought flow. The thought flow, eternally, carries forth, brings with it a famous
+principle that has a very special characteristic because it is one of the only principles about which
+one can be certain, and at the same time one can not see at all what it offers to us. It is certain, it
+is clear, but it is empty. This famous principle is the principle of identity. The principle of
+identity has a classical formula – indeed, it’s not Leibniz who invented it – there’s a classical
+formula: A is A. So, fine, that’s clear; that is certain. If I say blue is blue or God is God – with
+this, I am not saying that God exists – God, in parentheses (if it exists) is God, blue is blue, the
+triangle is a triangle, in one sense, I am within the sure, I am within certainty. Only there we are,
+what does that cause me to think? Am I thinking something when I say A is A, or am I not
+thinking? [Pause] Let us nonetheless try to say what results from A is A, this well-known
+principle, certainly, this principle of identity. [Pause]
+
+How is it presented? It is presented in the form of a reciprocal proposition. A is A means: subject
+A, verb to be, A attribute or predicate. There is a reciprocity of subject and predicate. Blue is
+blue, a triangle is a triangle, or I could say: the triangle has three angles; three angles or triangle
+is the same thing. So. there we have some empty and certain propositions. Is that all? An
+identical proposition is a proposition such that the attribute or the predicate is the same as the
+subject and reciprocates with the subject. Is that all? This would still be weak in speaking about
+the principle of identity were we to leave it there.
+
+No, I see that there is a second case just a bit more complex, notably that the principle of identity
+can determine propositions which are not simply reciprocal propositions. There is no longer
+
+                                                                                                       7
+
+simply reciprocity of the predicate with the subject and subject with the predicate. Suppose that I
+say: “The triangle has tree sides,” this is not the same thing as saying, “The triangle has three
+angles.” “The triangle has three angles” is an identical proposition because it is reciprocal. “The
+triangle has three sides” is a little different, it is not a reciprocal proposition. There is no identity
+of subject and predicate. In fact, “three sides” is not the same thing as “three angles”. And
+nonetheless, there is a supposed logical necessity. This logical necessity is that you cannot
+conceptualize three angles composing a single figure without this figure also having three sides. I
+would say, there is no reciprocity; what is there? There is inclusion. Three sides are included in
+the triangle. Inherence or inclusion. – It’s words that constitute logic, vocabulary; as in all
+activities, there’s a terminology. If you haven’t familiarized yourself with this terminology, I
+think you cannot understand sufficiently. --
+
+Likewise, if I say that matter is matter, matter is matter, this is an identical proposition in the
+form of a reciprocal proposition. The subject is identical to the predicate. If I say that matter is in
+extension [étendue], this is again an identical proposition. Why? Because I cannot think of the
+concept matter without already introducing an extension. Extension is in matter. This is not a
+reciprocal proposition; this is even less a reciprocal proposition since, inversely, perhaps,
+perhaps – this is not moving us forward – but perhaps, I really can think of extension without
+anything filling it in, that is, without matter. This is therefore not a reciprocal proposition, but it
+is a proposition of inclusion; when I say “matter is in extension,” this is an identical proposition
+by inclusion. Do you follow me? If you understand that, you’ve already understood a lot.
+
+I would say therefore that there are two kinds of identical propositions: there are reciprocal
+propositions in which the subject and predicate are one and same, and propositions of inherence
+or inclusion in which the predicate is contained in the concept of the subject. Do you follow me?
+No, I am asking you a question to be certain that you’ve fully understood.
+
+If I say, “this page has a front side and a back side,” -- ok let’s leave that, I withdraw my
+example…
+
+A woman student: I have a question.
+
+Deleuze: Already. Ah…
+
+The woman student: [Inaudible remarks; these concern the triangle example]
+
+Deleuze: If it [the figure] is open; obviously, if it’s open… So, you are adding “closed”. That’s
+not an objection.
+
+The woman student: [Inaudible]
+
+Deleuze: No, I was hinting at the definition of the triangle and of three angles constituting a
+closed figure, with three sides. So, you are adding that; it’s not an objection. It’s complementary.
+Fine, do you see that?
+
+                                                                                                       8
+
+Henceforth, if I am looking for a more interesting statement of the identity principle represented
+by A is A, it’s an empty form. If I am looking for a statement of the principle of identity, I would
+say in Leibnizian fashion, the identity principle is stated as follows: every analytical proposition
+is true; every analytical proposition is true. [Pause] Every analytical proposition is true.
+
+What does analytical mean? According to what we have just seen, here we have a very strict
+definition of “analytic”; according to the examples we have just seen, an analytical proposition is
+one in which either the predicate or the attribute is identical with the subject, for example, “the
+triangle is triangular,” reciprocal proposition, or proposition of inclusion such as “the triangle has
+three sides.” The predicate is contained in the subject to the point that when you have conceived
+of the subject, the predicate was already there. So, you need to have an analysis; it’s enough for
+you to have an analysis in order to find the predicate in the subject. There we are, fine. Up to this
+point, Leibniz as original thinker has yet to emerge.
+
+Little b) Leibniz emerges. [Laughter] He arises in the form, once again, of this very bizarre
+scream. This very bizarre scream, there I am going to give it a more complex expression than I
+did earlier. This very bizarre scream, it means that Leibniz – so, at the same time, if you will,
+what I am doing here is only pre-philosophy. One cannot say that there’s any philosophy in all
+this. It’s the ground on which an extremely prodigious philosophy will be constructed -- Leibniz
+arrives and says: Ok, the identity principle gives us a certain model. Why a certain model? We
+saw this. In its very statement [énoncé], an analytical proposition is true, if you attribute to a
+subject something that constitutes a unity [ne fait qu’un] with the subject itself, or that overlaps
+with or is already contained in the subject. You risk nothing in being wrong. Thus, every
+analytical proposition is true.
+
+Leibniz’s stroke of pre-philosophical genius is to say: well then, let’s consider reciprocity! If any
+proposition – and here, something absolutely new and nonetheless very simple starts there -- this
+had to be thought. And what does it mean to say, “it had to be thought through”? It means that
+one absolutely needed it, it means it related to something quite urgent for him. What is the
+reciprocity of the identity principle in its complex statement, “every analytical proposition is
+true”? Reciprocity poses many more problems. Leibniz emerges and says: couldn’t one also say,
+and inversely, every true proposition is analytical?
+
+If it is true that the identity principle gives us a model of truth, why are we stumped by the
+following difficulty, specifically: it is true, but it doesn’t cause us to think anything. The identity
+principle will force us to think something; it is going to be reversed, be turned around. You will
+tell me that turning A is A around yields A is A. Yes and no. That yields A is A in the formal
+formulation which prevents the reversal of the principle. But in the philosophical formulation,
+which still amounts to exactly the same thing, “every analytical proposition is a true
+proposition”, if you reverse the principle: “every true proposition is necessarily analytical,” what
+does that mean? Each time that you formulate a true proposition, it must be analytical -- and this
+is where there is the scream! – it has to be, whether you want it or not, and this is already the
+official seal, Leibniz’s signature, it has to be, you’ll have no choice, it has to be analytical, it has
+to be analytical, that is, several thing: it has to be reducible to a proposition of attribution or of
+predication, S is T, subject is [unclear word], “the sky is blue,” and not only does it have to be
+reducible to a judgment of predication or attribution, “the sky is blue”, but it has to be analytical,
+
+                                                                                                        9
+
+that is, the predicate must be either reciprocal with the subject or contained in the subject,
+contained in the concept of the subject. [Pause]
+
+Does that go without saying? You sense already that he is getting himself into a strange
+undertaking [drôle de truc]; it’s quite fine to say that, “it has to be”, [but] he has to get himself
+out of this, and it is not by preference that he says that, rather he needs it. But he undertakes an
+impossible task; in fact, he needs some totally crazy concepts in order to complete this task that
+he is in the process of giving himself, a very simple task that consists in, and there, we don’t…
+that consists in saying: fine, if every analytical proposition is true, well then, I’ll select an
+expression: every true proposition certainly must be analytical. That is, in fact, I mean, this does
+not go without saying, this does not go without saying at all that every judgment is already
+reducible to a judgment of attribution. It’s not going to be easy to show. Among his virtues,
+Leibniz is one of the greatest logicians; he throws himself into formal logic, into a combinatory,
+as he calls it himself, into a combinatory analysis that is fantastic. Fine.
+
+Why doesn’t it go without saying? Here we have some types of judgement. [Pause] “The box of
+matches is on the table,” I’d say that this is a judgment, you know? “On the table” is what? It’s a
+spatial determination. I could say that the matchbox is “here.” “Here,” what’s that? I’d say that
+it’s a judgment of localization. Again, I am repeating some very, very simple things, but they
+always have been fundamental problems in logic. It’s only to suggest that in appearance, all
+judgments do not have as form predication or attribution. When I say, “the sky is blue,” I have a
+subject, sky, and an attribute, blue. [Pause] When I say, “the sky is up there” or “I am here,” is
+“here” – spatial localization – assimilable to a predicate? Can I formally link the judgment “I am
+here” to a judgment of the kind “I have brown hair” [je suis brun] or “I am blond” [je suis
+blond]? It’s not certain that spatial localization is a quality, not certain at all. [Pause]
+
+If I say, another example, if I say “2 + 2 = 4”, it’s a judgment that we ordinarily call a relational
+judgment. Or if I say, “Pierre is smaller than Paul,” “Pierre is smaller than Paul,” this is a relation
+between two terms, Pierre and Paul. No doubt I orient this relation onto Pierre: if I say, “Pierre is
+smaller than Paul,” I can say “Paul is larger than Pierre.” Fine. Where is the subject, where is the
+predicate? Can I treat – that’s exactly the problem that has disturbed philosophy since its
+beginnings; here again, Leibniz’s not the one who invented this; we’ll see what he invents; but
+since the beginning, ever since there was logic, they have wondered to what extent the judgment
+of attribution could be considered as the universal form of any possible judgment, or rather one
+case of judgment among others -- “Pierre is smaller than Paul,” can I treat “smaller than Paul”
+like an attribute of Pierre? It’s not certain. So, I am saying nothing more because we’d get
+sidetracked. This is not at all obvious. Perhaps we have to distinguish very different types of
+judgment from each other, notably: relational judgment, judgment of spatio-temporal
+localization, judgment of attribution, and still many more. What other ones? For example,
+judgments of existence. If I say, “God exists,” can I formally translate it in the form of “God is
+existent,” existent [Interruption of the recording] [45:56] [The following text is provided by Web
+Deleuze: being an attribute? Can I say that God exists is a judgment of the same form as “God is
+all-powerful”? Undoubtedly not, since I can only say “God is all-powerful” by adding “yes, if he
+exists”. Does God exist? Is existence an attribute? End of added text] Not certain.
+
+                                                                                                       10
+
+Part 2
+
+So you see that by proposing the idea that every true proposition must be in one way or another
+an analytical proposition, that is, identical, Leibniz already gives himself a very hard task; he
+commits himself to showing in what way all propositions can be linked to the judgment of
+attribution, notably propositions that state relations, that state existences, that state localizations,
+and that, at the outside, exist, are in relation with, can be translated as the equivalent of attribute
+of the subject. Fine. In your mind there must be arising the idea of an infinite task. Fine, so let’s
+continue.
+
+Here we are; let us assume that Leibniz achieves it: what world is going to emerge from it? What
+very bizarre world? What kind of world is it in which I can say “every true proposition is
+analytical”? You recall certainly – we can no longer understand anything without that -- that
+analytical is a proposition in which the predicate is identical to the subject or else is included in
+the subject. That kind of world is going to be pretty strange. For the moment, I am finishing this
+little b) by saying, well then, what is the reciprocity of the principle of identity?
+
+The identity principle is thus, any true proposition is analytical; no, shit, the reverse, any
+analytical proposition is true. Leibniz says that another principle is necessary, another principle
+is necessary, it’s reciprocity: every true proposition is necessarily analytical. He will give to it a
+very beautiful name – the expression already existed, but it was never used in this extension – he
+will call it the principle of sufficient reason. Why “of sufficient reason”? Why does he believe
+himself fully immersed in his very own scream? Everything must surely have a reason. It’s
+because the principle of sufficient reason must be expressed or can be expressed as follows – this
+would be another formulation but it would be the same thing --: whatever happens to a subject,
+be it determinations of space and time, of relation, event, whatever happens to a subject, what
+happens, that is, what one says of it with truth, everything that is said of a subject must be
+contained in the notion of the subject. Everything that happens to a subject must already be
+contained in the notion of the subject.
+
+Obviously, the notion of “notion” is going to be essential. It is necessary for “blue” to be
+contained in the notion of sky. Why is this the principle of sufficient reason? Because if it is this
+way, each thing has a reason, each thing has a reason, reason is precisely the very notion insofar
+as it contains all that happens to the corresponding subject. Henceforth, henceforth, everything
+has a reason. Reason equals the notion of the subject insofar as this notion contains everything
+said with truth about this subject. [Pause]
+
+Here we have the principle of sufficient reason which is therefore just the reciprocal of the
+identity principle. Here we have my first question; I am not trying to work all that out; notice that
+he has tasks that he is facing, he has lots to do; he has to justify all that. He justifies precisely by
+creating his system. So, I am just asking, rather than looking for abstract justifications, what
+bizarre world is going to be born from all that? A very bizarre world, a world with very strange
+colors if I return to my metaphor of painting, which will result in a painting signed Leibniz.
+Every true proposition must be analytical, that is, once again, everything that you say with truth
+about a subject must be contained in the notion of the subject. You sense, you sense that this is
+already getting crazy; he’s got a lifetime of work ahead of him because that implies a certain
+
+                                                                                                     11
+
+theory of the notion. What does that mean, the notion of a subject? It’s signed Leibniz, the notion
+of a subject. No one spoke of a notion of a subject. That’s very, very odd as notions go. That
+implies a concept of a concept, a very special idea of the notion. Just as there is a Hegelian
+conception of the concept, there is a Leibnizian conception of the concept. Fine, let’s wait.
+
+[c)] Again, my problem is what world is going to emerge, and in this little c), I would like to
+begin to show that, from this point, Leibniz is going to create some hallucinatory concepts, truly
+hallucinatory. Indeed, this isn’t wrong; this is truly a hallucinatory world. If you want to think
+about relations between philosophy and madness, for example, there are some very weak pages,
+it seems to me, some very weak pages by Freud on the intimate relation of metaphysics with
+delirium. This is a very interesting subject, but I believe that one can only grasp the positivity of
+these relations through a theory of the concept, and notably, the direction that I would like to
+take would be the relationship of the concept with the scream, well yes, I tell myself, there is
+indeed something there. I would like to make you feel this presence of a kind of conceptual
+madness in Leibniz’s universe as we are going to see it be born. For this little c), fine, whether
+you like it or not, one has to… So, this is a gentle violence, let yourself go. It is not a question of
+arguing. Understand the stupidity of people who say “why is he saying all that because made a
+whole… a comment”; understand the stupidity of objections.
+
+I will add a parenthesis to complicate things. If you are learned, you know that there is a
+philosopher after Leibniz who said that truth is one of synthetic judgments. It’s Kant. He is
+opposed to Leibniz. Ok! How does that concern us? It’s Kant. This is not to say that they do not
+agree with each other. When I say that, even if I don’t explain myself, I credit Kant for having
+invented a new concept which is synthetic judgment. This concept had to be invented, and it was
+Kant who did so. To say, “he doesn’t agree with Leibniz,” philosophers contradict one another is
+a feeble statement; it’s like saying that Velasquez did not agree with Giotto, right! It’s a nonsense, not even true, it’s nonsensical. It means nothing. So, let’s return to this bizarre world that
+ought to commit [inaudible words].
+
+Every true proposition must be analytical, that is, such that it attributes something to a subject
+and that the attribute must be contained in the notion of the subject. Let us consider an example.
+What does that mean? I am not asking myself if it is true, I ask myself: what does that mean? Let
+us take an example of a true proposition. A true proposition can be an elementary one concerning
+an event that took place. There, that’s true. Let’s take Leibniz’s own examples; no matter if you
+believe in these things or not: “Caesar crossed the Rubicon”, he crossed the Rubicon, Caesar.
+It’s a proposition. It is true or we have strong reasons to assume it’s true. Or else, “Adam
+sinned”; there we have a highly true proposition. “Adam sinned”; what do you mean by that?
+Well, yes, he sinned. [Pause] There we are. “Alexander did this or that.”
+
+You see that all these propositions chosen by Leibniz as fundamental examples are event related
+[événementielles] propositions, so he does not give himself an easy task. He is going to tell us
+this: since this proposition is true, it is necessary, whether you want it or not, the is still his
+scream, it is necessary that the predicate “crossed the Rubicon” – in parentheses, we immediately
+react; an objection arises, but we have to hold these objections in; we have to wait for the
+moment that he provides an answer to this objection; “crossing the Rubicon” is a predicate; we
+indeed see that in “the sky is blue”, blue at the extreme is a predicate; fine, and yet we’ll still
+
+                                                                                                      12
+
+have to see, but it appears to be a predicate; but “crossing the Rubicon”, that’s a predicate;
+[whether] it’s an attribute of the same type as “the sky is blue”, that’s not certain. Fine, so we’re
+told – it is necessary for “crossing the Rubicon” to be an attribute or a predicate of the subject
+Caesar; this attribute must indeed be -- if the proposition is true, and it is true -- this predicate
+must be contained in the notion of Caesar, not in Caesar himself, but in the notion of Caesar, if in
+the proposition, it would not be true.
+
+Good, we start off from there. This is a very simple idea. The notion of the subject contains
+everything that happens to a subject, that is, everything that is said about the subject with truth.
+So, “Adam sinned”, sinned at a particular moment belongs to the notion of Adam. That gives one
+pause, right? Crossing the Rubicon belongs to the notion of Caesar, very good. I would say that
+there, Leibniz proposes one of his first great concepts, the concept of inherence. Everything that
+is said with truth about something is inherent to the notion of this something. So, this is the first
+aspect of sufficient reason, it’s the development of sufficient reason. Fine. Only here we are, we
+can no longer stop, and when we say that, listen to me closely.
+
+Little d), and I would precisely like these headings to be very, very simple so that you don’t lose
+the thread. You are indeed grasping the idea: the notion of Caesar must encompass, contain
+everything that happens to Caesar, that is, everything that you attribute to him with truth. Little
+d), Leibniz says, there we are, I’ve begun, I can no longer stop, and that is also a philosopher’s
+scream, don’t stop this. When one has started into the domain of the concept, we cannot stop,
+except for certain ones, except for the careful one, except for the sober philosophers.
+
+In the domain of screams – I would like to create a painting of the cries of philosophy – in the
+domain of screams, there is a famous scream from Aristotle, the great Aristotle who, let us note,
+exerted an extremely strong influence over Leibniz, at one point proposed in the Metaphysics a
+very beautiful expression: “it is indeed necessary to stop”, it is indeed necessary to stop; it’s even
+more beautiful in Greek, so I’ll say it for those who have studied some Greek, ananké mê stênai,
+ananké mê stênai. This is a great scream. “It is indeed necessary to stop,” This is the philosopher
+facing the chasm of the interconnection of concepts, “it is indeed necessary to stop somewhere.”
+Leibniz could care less, he does not stop, he does not stop; that’s how it is; he feels the need.
+There are people who feel the need to stop who are no less brilliant. There are others who never
+stop. So, why can’t he stop? Because come back to the proposition little c), we have our little c)
+here; everything that you attribute to a subject must be contained in the notion of this subject.
+But what you attribute with truth to any subject whatsoever in the world, whether this be Caesar,
+any subject [unclear words], it suffices that you attribute to it a single thing with truth in order
+for you to notice with fright that, from that moment on, you are forced to cram into the notion of
+the subject not only the thing that you attribute to it with truth, but the totality of the world.
+
+Why? By virtue of a principle that is not at all the same one, which is the well-known principle
+that is not at all the same – here, we will see that later -- as that of sufficient reason; by virtue of
+a much duller principle which is the simple principle of causality. For in the end, the causality
+principle stretches to infinity, that’s its very characteristic. And this is a very special infinity
+since, in fact, it stretches to the indefinite. Specifically, the causality principle states that every
+thing has a cause, which is very different from every thing has a reason. Reason and cause are
+not the same. If there are two words, that’s because these are not the same thing; a cause is not a
+
+                                                                                                       13
+
+reason. [Pause] Every thing has a cause, fine, agreed. But the cause is a thing, and in its turn, it
+has a cause, etc. etc. I can do the same thing in the opposite direction, [Pause] namely every
+cause has an effect and then this effect is, in its turn, the cause of effects. This is therefore an
+indefinite series of causes and effects.
+
+What difference is there between sufficient reason and cause? We understand very well. Cause is
+never sufficient. One must say that the causality principle poses a necessary cause, but never a
+sufficient one. We must distinguish between necessary cause and sufficient reason. What
+distinguishes them in all evidence is that the cause of a thing is always something else. [Pause] A
+thing’s cause is always something else. The cause of A is B, the cause of B is C, etc.…. An
+indefinite series of causes. Sufficient reason is not at all something else than the thing. The
+sufficient reason of a thing is not something else than the thing, we saw this; it’s the notion of the
+thing. Thus, sufficient reason expresses the relation of the thing with its own notion whereas
+cause expresses the relations of the thing with something else. There we are, this is crystal
+clear… Yes?
+
+A student: So, if I understood this, [inaudible question]
+
+Deleuze: … that the principle of identity is empty? Well yes, it’s going to expand… Absolutely,
+this isn’t over yet.
+
+So, little d) [Deleuze’s ordering; he seems to continue the same point here] If you say that a
+particular event is encompassed in the notion of Caesar, “crossing the Rubicon” is encompassed
+in the notion of Caesar. You can’t stop yourself in which sense? From cause to cause and effect
+to effect, it’s at that moment the totality of the world that must be encompassed in the notion of a
+particular subject. That becomes very odd, there’s the world passing by inside each subject, or
+each notion of subject. In fact, crossing the Rubicon has a cause; this cause itself has multiple
+causes, from cause to cause, into cause from cause and into cause from cause from cause. It’s the
+whole series of the world that passes there, at least the antecedent series. And moreover, crossing
+the Rubicon has effects. If I limit myself to the largest ones, [there’s] the commencement of a
+Roman empire. The Roman Empire in its turn has effects, we follow directly from the Roman
+Empire. In it turn, the Roman Empire has effects. We are directly answerable to these effects, we
+who are children of the Roman Empire. From cause to cause and effect to effect, you cannot say
+a particular event is encompassed in the notion of a particular subject without saying that,
+henceforth, the entire world is encompassed in the notion of a particular subject.
+
+A student: Don’t you get the impression that you are doing precisely the opposite of what Henri
+Bergson did, when is spoke about [inaudible], for example?
+
+Deleuze: Yes, yes, yes ... but you have to ask yourself ... Henri Bergson is not a philosopher with
+the same breadth as Leibniz, but one has to ask, on the other hand, when Henri Bergson does
+something, based on what system of concepts is he doing it? And he has a very simple system of
+concepts; he is one of the most succinct philosophers in the world. The conceptual framework
+scheme is very, very simple in Henri Bergson. You have to understand that he is not Leibnizian;
+he is not Leibnizian. But, there, I am speaking out of I don’t know what hope that some of you
+will find yourself Leibnizian, well, [several indistinct words] from your own preference, from
+
+                                                                                                   14
+
+your own preference [à votre goût]. But “your preference” does not mean tastes and colors like
+that; it's your scream, based on what you need. And here, there’s a characteristic that’s not
+eternal, but that’s indeed a trans-historical characteristic of philosophy. Leibniz’s concepts, quite
+certainly, it’s necessary for there to be a contemporary Leibnizian. What does it mean to be
+Leibnizian in 1980? Well, there certainly are some; or rather, it’s possible they exist. Well, I
+believe that it’s impossible to find an answer [to] why and how someone today could be
+Leibnizian, in what manner of rebirth, etc.
+
+So, little d), that’s where we are. In conformity with the principle of sufficient reason, if you
+have stated that what happens to a particular subject and what personally concerns it, what you
+attribute for it with truth, having blue eyes, having blond hair, crossing the Rubicon, etc., belongs
+to the notion of the subject, that is, is encompassed in this notion of the subject; you cannot stop,
+one must say that this subject contains the whole world. It is no longer the concept of inherence
+or inclusion that corresponded to our little c); it’s the concept of expression which, in Leibniz’s
+work, is a fantastic concept and that he expresses in the form: the notion of the subject expresses
+the totality of the world; the notion of the subject expresses the totality of the world [Pause]
+because, finally, a bit more must be said about this.
+
+This is beginning to get crazy because, at that point, “the notion of the subject expresses the
+totality of the world”, fine, agree, here we have Caesar expressing the totality of the world
+because, you see, his property, his very own “crossing the Rubicon” stretches to infinity
+backward and forward by the double interplay of causes and effects. But then, it is time to speak
+for ourselves, and it matters little what happens to us and the importance of what happens to us.
+We must say that each of us, or at least it is each notion of the subject that contains or expresses
+the totality of the world. That is, each of you, me, expresses or contains the totality of the world.
+Just like Caesar, no more, no less. That gets complicated; why does this get complicated?
+Because at that point, A great danger: if each individual notion, if each notion of the subject
+expresses the totality of the world, that means that there is only a single subject, a universal
+subject, and the you, me, Caesar, would only be appearances of this universal subject. It would
+be quite possible to say: there would be a single subject that would express the world.
+
+Why would that be disastrous? Why couldn’t Leibniz say that? Why is it that once one enters
+into concepts, you now, there are choices? There are moments of choices, and then there are
+moments when one has no choices, [so] he can’t say that. He absolutely cannot say that. It would
+mean repudiating himself. Why? Because all that he had done before with the principle of
+sufficient reason, everything we have seen, all the preceding paragraphs, all these headings, a, b,
+c, d, in what direction were they going? They were going into an extraordinary thing if one were
+to be speaking abstractly. In my opinion, this was the first great reconciliation of the concept and
+the individual. Leibniz was in the process of constructing a concept of the concept such that the
+concept and the individual were finally becoming adequate to one another. [Pause]
+
+You’ll ask me why? That the concept might extend into the individual, why is this new? It’s new
+because never had anyone dared that, or at least, it was done quite timidly when an author was
+risking that. Why? Because for everyone, what is the concept? It is defined by the order of
+generality. There is a concept when there is a representation which is applied to several things.
+But identifying the concept and the individual with each other, never had that been done, never.
+
+                                                                                                  15
+
+Never had a voice reverberated in the domain of thought to say that the concept and the
+individual were the same thing. What had always been distinguished was an order of the concept
+that referred to a generality and an order of the individual that referred to a singularity.
+
+Even more, it was always considered as going without saying that the individual as such was not
+comprehensible via the concept. It was always understood that the proper name was not a
+concept. Indeed, “dog” is certainly a concept, but “Fido” is not a concept. There is certainly a
+dogness about all dogs, as certain logicians say in a splendid language, but there is no Fido-ness
+about all Fidos. Leibniz is the first to say that concepts are proper names, that is, that concepts
+are individual notions. There is a concept of the individual as such.
+
+So, you see that Leibniz cannot – [Pause] he cannot, he has no choice here – he cannot fall back
+on the solution: since every true proposition is analytical; the world is thus contained in a single
+and same subject which would be a universal subject. He cannot since his principle of sufficient
+reason implied that what was contained in a subject – thus what was true, what was attributable
+to a subject – was contained in a subject as an individual subject. [Pause] So, he cannot give
+himself a kind of universal mind. He has to remain fixed on the singularity, on the individual as
+such. And in fact, this will be one of the truly original points for Leibniz; this is the perpetual
+expression in his works: substance – for him, there’s no difference between substance and
+subject for him; for other philosophers, there is a difference, but for him, there is a difference,
+but for him there is none – substance is individual.
+
+So, the question, the urgent question in my sub-category d) since he blocked the path for
+invoking a universal spirit/mind in which the world will be included … other philosophers will
+invoke a universal mind. There is even a very short, very lovely text by Leibniz entitled
+“Considerations on universal mind,” in which he goes on to show in what way there is indeed a
+universal mind, God, but that does not prevent substance from being individual. Thus,
+irreducibility of individual substances.
+
+So, what is it that distinguishes…? Since each substance expressed the world, or rather, as he
+says, each substantial notion, each notion of a subject – the notion of Caesar, the notion of etc. --
+since each one expresses the world, you express the world, in all times, do you grasp this? We
+notice that this isn’t over; in fact, he has a lifetime of work because everyone objects to this. So
+what? So what? And the objection he encounters immediately is: but what about freedom? If
+everything that happens to Caesar is encompassed in the individual notion of Caesar, if the entire
+world is encompassed in the universal notion of Caesar, then Caesar crossing the Rubicon
+merely acts to unroll [dérouler] – an odd word, which occurs all the time in Leibniz’s works; in
+Latin, it’s quite lovely: devolvere, unroll, or explicate, you see? These are very rich words;
+explicate, unroll, devolvere, explicare, what is this? Literally, this means to unfold [déplier];
+explicare, that had always meant something very, very simple. It’s to unfold; you unfold a rug. A
+rug is rolled up, you unfold it; you explicate it. It’s the same thing: explicate, develop,
+unfold/unroll. So, crossing the Rubicon, the event of crossing the Rubicon, only acts to unroll
+something that was encompassed eternally in the notion of Caesar. You see that this is quite a
+real problem.
+
+                                                                                                   16
+
+Caesar crossed the Rubicon in a particular year; so there, it’s true, crossing in a particular year.
+But whether he crosses the Rubicon in a particular year, it was encompassed for all time in his
+individual notion. Fine, where is this individual notion? It is eternal. There is an eternal truth of
+dated events. So, how about freedom? What do you do with freedom? Everyone jumps on him.
+Freedom is very dangerous under a Christian regime. What do you do with freedom? So,
+Leibniz will write a little work, “On freedom,” in which he explains what freedom is. Freedom is
+going to be a pretty funny thing for him. But we’ll leave that aside for the moment.
+
+What distinguishes one subject from another? That point, we can’t leave aside for the moment;
+otherwise our current gets cut off. What is going to distinguish you from Caesar since each one
+of you expresses the totality of the world, present, past, and future? It’s odd, this concept of
+expression. Well, there we are, it’s there that he proposes a very rich notion.
+
+So here, I must create a little e), a little e) since this is a new concept. So, he says, what
+distinguishes an individual substance from another is not very difficult. To some extent, it has to
+be irreducible. It’s that each one, each subject, for each individual notion, each notion of subject
+has to encompass this totality of the world, has to express this total world, but from a certain
+point of view, and there begins a philosophy that we have to call by its name, “perspectivism”.
+And it’s not inconsiderable. You will tell me: what is more banal than the expression “a point of
+view”, than “my point of view”? There you have it: creating philosophy, I believe, that’s it. If
+philosophy means creating concepts, what does “create concepts” mean? Generally speaking, I
+believe that it’s these banal formulations. Great philosophers each have banal formulations, or in
+relation to which they are winking. A wink from a philosopher is, at the extreme, means taking a
+banal formulation and having a ball [se marrer]; you have no idea what I’m going to put inside
+it. One hears that constantly; ah, you understand, from my point of view, from my point of view,
+well then, I’d to this. That doesn’t go very far.
+
+To create a theory of point of view, what does that imply? Could that be done at any time at all?
+Is it by chance that it’s Leibniz who created the first great theory of point of view at a particular
+moment? At the moment in which the same Leibniz created a particularly fruitful geometry
+chapter, called projective geometry. Is it by chance that it’s out of an era in which are elaborated,
+in architecture as in painting, all sorts of techniques of perspective, [Pause] and a thousand other
+things? But, ee retain simply these two domains that symbolize with that: architecture-painting
+and perspective in painting on one hand, and on the other hand, projective geometry.
+
+Understand what Leibniz wants to achieve with them. He is going to say that each individual
+notion expresses the totality of the world, yes, but from a certain point of view.
+
+What does that mean? Philosophically, this is not just nothing; as much as it’s of little import
+banally, pre-philosophically, it’s simply impossible henceforth for him to stop. That commits
+him to showing that what constitutes the individual notion as individual is point of view. And
+that therefore, point of view is deeper than whoever places himself there. At the basis of each
+individual notion, there has to be a point of view that defines the individual notion. If you prefer,
+the subject is second in relation to the point of view. And after all, to say that is not a piece of
+cake, it’s not inconsiderable.
+
+                                                                                                      17
+
+He established a philosophy that will find its name in the works of another philosopher who
+stretches out his hand to Leibniz across the centuries, specifically Nietzsche, when Nietzsche
+will say: my philosophy is a perspectivism. So, you understand that this does not at all mean
+perspectivism; you already understand the extent to which that can become idiotic; it becomes
+idiotic or it becomes truly banal to whine oneself to death if that consists in saying, ah well,
+everything is relative to the subject. “Everything is relative to the subject,” well, no one needs a
+philosopher to say that; no, that’s just not right, saying everything is relative. Everyone says it;
+people can say it, why not? It belongs to propositions that hurt no one since it is meaningless.
+Fine, people can always say that, one has to, one has to talk, one has to say something, one has to
+engage in conversation. One can be led to say that everything is relative, that everything depends
+on a viewpoint. So long as I take the formulation as signifying everything depends on the
+subject, I’ve said nothing; I’ve chatted, as they say, I have answered; I have held up my end of
+the conversation.
+
+If we are doing philosophy, there are always setbacks in philosophy. Where Leibniz finds
+himself, it’s not that point of view refers to the subject; it’s point of view that is defined by the
+deepest subject. So, we cannot define point of view by the subject. It’s the subject that must be
+defined in its irreducible character, that is, singular character, in its singularity, in its own
+individuality – it’s the subject that refers to a point of view. What creates me, making me = me,
+is a point of view on the world. Leibniz cannot stop. He has to go all the way to a theory of point
+of view such that the subject is constituted by the point of view and not the point of view
+constituted by the subject.
+
+Consider that, at that point, we can make some comparisons with this, perhaps rather arbitrary,
+but still, I don’t really know. Several centuries later, well into the nineteenth century, one of the
+greatest famous American novelists, named Henry James, conceptualized the novel and renewed
+its techniques through a perspectivism, through a mobilization of points of view, there too in
+James’s works, it’s not points of view that are explained by the subjects, it’s the opposite,
+subjects that are explained through points of view.
+
+An analysis of points of view as sufficient reason of subjects, that’s the sufficient reason of the
+subject. The individual notion is the point of view under which the individual expresses the
+world. It’s beautiful and it’s even poetic. Why is this poetic?
+
+[Interruption, comments from a student about the merits of point of view in police novels]
+
+Deleuze: Why not? Which police novels?
+
+The student: I don’t know. [Inaudible name], for example.
+
+Deleuze: Yes, but it’s James who…
+
+The student: Ah, yes, fine, [Inaudible comments] … It’s connected to a point of view; everything
+is a technique of point of view.
+
+Deleuze: Yes, agreed.
+
+                                                                                                   18
+
+The student: You are saying, “yes, agree”, but [Inaudible].
+
+Deleuze: But understand, there are quite a number of novels that have subsequently been created
+in the form of the point of view of several characters around the same event. This often leads to
+some extremely mediocre novels. What difference is there between these weak novels and a
+novel by James? I believe it has to do in part with this; it’s because James – and here, this is not
+at all abstract, Henry James has sufficient techniques in order for there to be no subject; what
+becomes one subject or another is the one who is determined to be in a particular point of view.
+It’s the point of view that explains the subject and not the opposite.
+
+And why is this very poetic? Here’s what Leibniz tells us, [Deleuze reads and comments while
+reading] This is a beautiful text [Discourse of Metaphysics]: “Every substance” -- understand
+“Every individual substance”, since substance is individual for Leibniz – “Every substance” --
+that is, Caesar, but you as well, each of you -- “Every substance is like an entire world” – in fact,
+it expresses the entire world; so, every substance contains it – “is like an entire world and like a
+mirror of God or of the whole universe” – each substance is a mirror of the entire universe –
+therefore, “each substance is like an entire world and like a mirror of God or of the entire world
+that [each substance] expresses in its own way” – you see the individuation, “in its own way”,
+“each one in its own way,”; so this is where occurs the very beautiful metaphor that will be such
+a success, that will have a great legacy – “kind of like a very city” – an architectural metaphor” –
+“kind of like a very city is diversely represented depending on the different situations of
+someone looking at it” – you see, it’s so much the point of view that creates the subject that one
+has to comment on Leibniz’s words literally; he shifts from the plural to the singular, “someone
+looking at it,” “someone looking at it” truly changes the subjectivity depending on the changes of
+point of view; it’s like a city that “is diversely represented depending on the different situations
+of someone looking at it”; so, in the flow of this, he continues splendidly – “In this way, the
+universe is seemingly multiplied as many times as there are substances” – in fact, if each one
+expresses a universe and from its points of view, there is, at the extreme, a multiplication of
+universes according to the aggregate of all points of view -- “In this way, the universe is
+seemingly multiplied as many times as there are substances, and the glory of God is redoubled
+equally by as many completely different representations of his/her/its image.” Here, he is
+speaking like a cardinal. It’s not a village priest who would say these kinds of things; it’s a
+cardinal -- “One can even say that every substance bears in some ways the characteristic of
+infinite wisdom and of all God’s power, and limits as much as it is able to.” Yes, this is quite
+evident. This is certain.
+
+So, in all this little point e), I maintain that the new concept of point of view is deeper than even
+the concept of the individual and of individual substance. It is point of view which will define
+essence, individual essence. One must believe that to each individual notion corresponds a point
+of view. But understand, that gets complicated because this point of view would valid [vaudrait]
+from birth to death for an individual. What would define us is a certain point of view on the
+world. Fine.
+
+I was saying that Nietzsche will return to this idea and will draw from what he himself called his
+“perspectivism,” and he stated that he is following Leibniz on this. He was very, very familiar
+with Leibniz. He didn’t like him, but that’s what grabbed him. So, he said he was following
+
+                                                                                                   19
+
+Leibniz on this. Earlier, I pointed out that the metaphor of the city considered from several points
+of view is located, is a great idea from the Renaissance, the theory of point of view. Notably, we
+discover that there’s a very, very interesting, very odd author, a cardinal, named cardinal
+Nicholas of Cusa, cardinal Nicholas of Cusa, a very great Renaissance philosopher, and this
+philosopher created a theory -- Leibniz knew him very well; he had read [Nicholas of Cusa]
+extensively – and in [Nicholas of Cusa’s] works, he goes farther in this metaphor; he referred to
+a portrait, a Baroque, Mannerist portrait of a pope from that era. You know, the kind of portraits
+that changed according to the point of view, but this kind of portrait, I recall that during the era
+of Italian fascism, there were these all through Italy, there was a very odd portrait: there was a
+portrait that when looked at directly from the front – here again, we still see these; they belong to
+gadgets – looking at it directly, it represented Mussolini; from the right side, it represented his
+son-in-law, and if one stood to the left, it represented the king. You see? This is the method of
+points of view.4
+
+The analysis of points of view in mathematics, also, this indicates the extent to which point of
+view is much more important than merely subjective; it’s the sufficient reason of the subjective
+[Interruption of the recording] [92:15]; the following text is provided from Web Deleuze: – and
+it’s again Leibniz who caused this chapter of mathematics to make considerable progress under
+the name of analysis situs [aka topology] (end of the added text)] --,
+
+Part 3
+
+… and it is evident that it is connected to projective geometry. Otherwise, this is not at all about
+saying that everything is subject, on the contrary. There is a kind of essentiality, of objectity of
+the subject, and objectity is the point of view.
+
+Fine, given this, we haven’t said what these points of view were. This is a review of a very, very
+bizarre world. And in the end, I have to take it in small [indistinct word, steps?] because the
+metaphor… ah, no, I’ll continue anyway. My point of view, the point of view, we must
+nevertheless develop it exactly.
+
+A student: [He requests the reference of the Leibniz text Deleuze read]
+
+Deleuze: Discourse of Metaphysics, paragraph 7… no, not 7… ah, 9… All this is quite
+enjoyable.
+
+Fine, so what does that mean concretely, everyone expresses the world, yes, but from his own
+point of view? This is becoming quite bizarre; Leibniz did not retreat from the strangest
+concepts. Because here we are, here is what that means, each subject expresses the world from a
+certain point of view. Understand, I can no longer even say “from his own point of view.” If I
+said, “from his own point of view,” I would make this depend on a pre-established point of view.
+And it’s the opposite, it’s the subject that depends on the point of view. So, I can say, each
+subject expresses the world from a point of view, from a determined point of view. But what
+determines this point of view?
+
+                                                                                                   20
+
+And here we find how the great Leibniz is going to get himself out of this. He is going to tell us,
+understand, each of us, whether it’s Caesar or you yourself, each of us expresses the totality of
+the world, only he expresses it obscurely and confusedly. [Pause] “Obscurely and confusedly”
+means what in Leibniz’s vocabulary? That means that the totality of the world is really in the
+individual, but in the form of the concept that Leibniz creates, in the form of minute perceptions.
+And what are these minute perceptions? Here we have something very bizarre. I am continuing
+my analogies. Is it by chance that Leibniz is one of the inventors of so-called differential
+calculus? These are infinitely minute perceptions, in other words, unconscious perceptions. The
+totality of the world is in me in the guise of unconscious perceptions. Very, very strange. Fine. I
+express the entire world, but obscurely, confusedly, like a… -- he constantly appeals to this
+beautiful expression -- like a distant sound [rumeur], like a roar [clameur]. Right? So, fine. And
+then, what does that produce?
+
+What is a point of view? We’re not making progress. Yes, we are, we’re making progress. Why I
+was referring to differential calculus, we’ll see; later, we’ll see in detail why this is linked to
+differential calculus, but notice that the little perceptions of the unconscious is like differentials
+of consciousness, it’s minute perceptions without consciousness. For conscious perceptions,
+Lebiniz uses another word: apperception. Apperception – [Deleuze spells out l apostrophe a] –
+apperception, perceiving [l’aperception, apercevoir], is conscious perception, and minute
+perception is the differential of consciousness which is not given in consciousness. Fine. There
+we are. I express the totality of the world obscurely and confusedly, but this is true for all
+individuals. So, what distinguished a point of view from another point of view? On the other
+hand, there is a small portion of the world that I express clearly and distinctly, and each subject,
+each individual has his/her own minute portion, but “his/her own”, in what sense? “His/her
+own”, [It’s] in this very precise sense: that this portion of the world that I express clearly and
+distinctly, all other subjects express it as well, but confusedly and obscurely.
+
+What defines my point of view is like a kind of, how to say this? A projector it’s a projector that,
+in the murmur of the obscure and confused world, carves out a limited zone of clear and distinct
+expression. However stupid you might be, however insignificant we all may be, we have our
+own little thing. Take the vilest vermin, it has its little world: it does not express much clearly
+and distinctly, but it has its little portion. So, if you allow me all the comparisons and even those
+that are the most arbitrary, well the, we see that Beckett’s characters are individuals. There we
+are, everything is confused, everything is a murmur [rumeurs], they understand nothing, they are
+in tattered beings [loques]; fine, there is the great murmur [rumeur] of the world. That’s all; no,
+it’s not all. However pathetic they may be in their garbage can, they have their very own little
+zone. What the great Molloy calls “my properties”, he has a little hook, this is Beckett
+nonetheless, he has a little hook, he is indeed unable to move, he no longer gets up, he has his
+little hook, and he draws in his tiny properties, four or five pieces, my properties. This is the
+clear and distinct zone that he expresses, that he expresses in the world. We are all the same. So,
+our zone has a greater or lesser size, and even then, it’s not certain, it’s not the same; it’s never
+the same. What is it that determines the point of view? Now I can almost define point of view
+according to Leibniz. I would say it’s the proportion of the region of the world expressed clearly
+and distinctly by an individual in relation to the totality of the world expressed obscurely and
+confusedly. This is perfect; he should have said this. That’s what point of view is.
+
+                                                                                                  21
+
+To make this comprehensible, I return to the metaphor of that thing – why are words constantly
+eluding me? – projectors, Leibniz’s projectors. Leibniz has a metaphor that he constantly returns
+to and that is quite beautiful. He says, there you are, you are very close to the sea, and you listen
+to the sound of the sea, and you hear the sound of a wave. I hear the sound of a wave, that is, I
+have an apperception: I distinguish a wave, the sound of a wave. And Leibniz says: you would
+not hear the wave if you did not have a minute unconscious perception of the sound of each drop
+of water that slides one over and through the other and that creates the object of minute
+perceptions. You see, how [indistinct word] this is. There is the murmur [rumeur] of all the drops
+of water, and you have your little zone of clarity, you clearly and distinctly grasp one partial
+result from this infinity of drops, one partial result of this infinity of drops, of this infinity of
+murmuring, and from it, you create your own little world; you create from this your very own
+property.
+
+Beckett's hero in his garbage bin, what does the garbage bin delineate, where he lowers himself
+more and more until he puts [indistinct word] on his head and then, what do we have? He goes
+all the way; he would maintain all the way, but getting narrower and smaller, he will maintain his
+little area of clear and distinct expression. He cannot do otherwise. He moans; he would like to
+be done with this. So, on the contrary, a hero of progress, you understand, heroes of progress
+never stop expanding their area of clear and distinct expression. And I can say at least what this
+point of view is. Fine.
+
+A student: [Inaudible]
+
+Deleuze: You'll see how that occurs… you'll see. It’s more and more beautiful. So, each one,
+well, like that, understand? Yes, you are points of view, I am a point of view, all that. Each one
+has his/her own little zone. So, what happens, in fact, when ... to conceive of that, already you
+have to conceive of that full of ... it has to elicit all kinds of your own circumstances
+[présentations]. For example, I have my little zone of expression area that is clear and distinct.
+There are, for example, people who don't understand anything about what I'm saying, right?
+[Laughter] Fine. And conversely, me too, there are people who can talk to me, they can tell me
+things, and for me, what are they saying, what ...? Nothing, I understand nothing in what they're
+saying. I say, it's nice outside, it's nice today. He says, what? What is happening? On the other
+hand, people, each of us is like that; there is a number of friends who have a common language.
+Fine, it’s marvelous [c’est la fete] when there's someone with whom we share a common
+language. When you are choosing courses, when you take courses, what does that mean? That
+means something very simple: it means that there is a minimum of at least virtual language in
+common with the guy you are going to listen to. Otherwise, you’ll go look for another, and you’ll
+have no peace until you find him. What does that mean? Well, it’s not complicated.
+
+Each individual notion has its point of view, that is, from this point of view, it extracts from the
+aggregate of the world that it expresses a determined portion of clear and distinct expression.
+Given two individual substances, given two individuals, you have two cases: either their zones
+do not communicate in the least, and create no symbols with one another – there aren’t merely
+direction communications, one can conceive of there being analogies, -- and in that moment,
+they have nothing to say to each other; or it’s like two circles that overlap: there is a little
+common zone; so, there one can do something together. Yes, yes, there are large expanses [pans]
+
+                                                                                                        22
+
+that are not at all shared. You see, these are therefore all kinds of circles; they are clear and
+distinct zones of expression for which some intersect, and others remain outside one another.
+
+As a result, in fact, Leibniz thus can say quite forcefully that there are not two identical
+individual substances, because there are no… there are no two individual substances that have
+the same point of view or exactly the same clear and distinct zone of expression. And finally,
+Leibniz’s stroke of genius to complete this conception of point of view: what is it that will define
+the clear and distinct zone of expression that I have? I express the totality of the world, but I only
+express clearly and distinctly a reduced portion of it, a finite portion. What I express clearly and
+distinctly, and here, this is like a deduction of the notion, what I express clearly and distinctly,
+Leibniz tells us, is what relates to [qui a trait à] my body. This is the first time that the body
+notion intervenes. We will see why; we will see how; we will see what this body means, but
+what relates to my body, what I express clearly and distinctly is that which concerns my body,
+that which affects my body.
+
+So, it’s inevitable that I do not express clearly and distinctly the crossing of the Rubicon -- that
+concerned Caesar’s body. That doesn’t concern my body. So, out of devotion, I can go place my
+feet into Caesar’s feet, that is, cross the Rubicon, but in the end, my crossing the Rubicon won’t
+create the Roman Empire. [Laughter] That would be a way of… That would be if I were to paint
+Caesar in the act of crossing the Rubicon. It’s in the domain of images. But, on the other hand,
+there is something that concerns my body and that only I express clearly and distinctly, against
+the backdrop of the murmur that covers the entire universe. This is beautiful, right? – Are you
+completely worn out? --
+
+Little f) and we’ll stop there; little f) this is going to be the final great concept of this strange
+world. It’s that… [Interruption in the classroom; Deleuze says: No, no, no] It’s that, it’s that…
+understand –
+
+[Deleuze speaks in a low voice to someone nearby him, then says:] What time is it?... One
+twenty-five?
+
+A woman student: Twelve twenty-five. [Laughter]
+
+Deleuze: So, understand, in this tale of the city, there is still a problem because, in the end – this
+is just a final effort – because the city is seen from different points of view, fine. The stroller
+traverses the city and sees it from different points of view. Very good. These points of view
+preexist the subject who is placed there; that’s very well, in a pinch. At that point, the secret of
+the point of view is mathematical; it’s geometric. This is a geometrical aspect [un géométral],
+and it’s not a psychological aspect [un psychologique], or obviously, at least, it’s a psychogeometrical aspect. [Pause] Leibniz is a man of notions, not a man of psychology, but that
+doesn’t prevent that, in a certain way, I can say, and even everything urges me to say that the city
+exists outside points of view. But in my story of the expressed world, in the way we started off,
+there was a problem from which we started off: the world has no existence outside the points of
+view that express it – that express it [Deleuze emphasizes the direct object “it”, l apostrophe] --
+the world does not exist in itself. The world is uniquely the expressed – here is what one must
+say, and Leibniz says it often – the world is the expressed common for all individual substances,
+
+                                                                                                       23
+
+but the expressed does not exist outside that which expresses it, outside that which expresses it,
+outside that which expresses [apostrophe l] it. [Pause] So, these are other things than gazes onto
+the city.
+
+In fact, the entire world is contained, the entire world is contained in each individual notion, but
+it exists only in this inclusion. It has no existence outside. It’s in this sense that Leibniz will be,
+and not incorrectly, placed alongside the idealists: there is no world in itself, the world exists
+only in the individual substances that express it. It’s the expressed common to all individual
+substances. This is going to be a tough problem. It’s the expressed of all individual substances,
+but the expressed does not exist outside the substances that express it. You see? What
+distinguishes these substances? It’s that they all express the same world, but they don’t express
+the same clear and distinct portion. That’s how it works out; it’s like a chess game. – Leibniz
+never stops comparing the world to a chess game; this belongs to his game theory. – Fine, so the
+world does not exist. Understand, this is an expression such that what it expresses does not exist
+outside what expresses it. This is the complication of the concept of expression for Leibniz.
+
+Fine, so, what will be the outcome of this final difficulty? [Pause] See, it is still necessary for all
+individual notions to express the same world. Fine; this world does not exist outside the
+individual notions that express it. Fine, but they do not express different worlds. They express
+clearly and distinctly different portions of the world, but they express the same world. So, it’s
+odd, it’s odd because by virtue of the principle of identity – through this, we find our start – by
+virtue of the principle of identity, I could say that [Pause] the principle of identity allows me to
+determine what is contradictory, that is, what is impossible, what is impossible once we state that
+the principle of identity is A is A; what is impossible is A is not A. That’s contradictory.
+Example: the squared circle. A squared circle is a circle that is not a circle. The principle of
+identity reminds me that a circle is a circle. [Pause]
+
+So, starting from the principle of identity, I can have a criterion of contradiction. [Pause] 2 + 2
+equals 5; I can demonstrate according to Leibniz – there are many other authors that think the
+this isn’t the domain of demonstration – but according to Leibniz, I can demonstrate that 2 + 2
+cannot make 5; I can demonstrate that a circle cannot be squared. Whereas, on the level of
+sufficient reason, such as we have just followed it through all sorts of levels, it’s much more
+complicated. Why? Because Adam non-sinner, Caesar not crossing the Rubicon, is not like the
+squared circle. Adam non-sinner is not contradictory. Caesar not crossing the Rubicon is not
+contradictory. Feel how he’s going to try to save freedom, once he has placed himself in a bad
+situation in order to save it. This is not at all contradictory; this is not at all impossible: Adam
+could have not sinned; Caesar could have not crossed the Rubicon, whereas a circle cannot be
+squared; in this, there is no freedom.
+
+Fine, again he’s stuck; again Leibniz has to find another concept and, of all his crazy concepts,
+this will undoubtedly be the craziest. Adam could have not sinned, so in other words, the truths
+administered [régies] by the principle of sufficient reason are not the same type as the truths
+administered by the principle of identity; why? Because the truths administered by the principle
+of identity are such that their contradictory status [leur contradictoire] is impossible, whereas the
+truths administered by the principle of sufficient reason have a possible contradictory status:
+Adam non-sinner is possible.
+
+                                                                                                    24
+
+It’s even all that distinguishes, according to Leibniz, the truths called truths of essence and truths
+of existence. The truths called of existence are such that their contradictory status is possible. So,
+how is Leibniz going to get out of this new and final difficulty? Adam could have not sinned, so
+how is he going to be able to maintain at once that all that Adam did, sinning, or Caesar, crossing
+the Rubicon, all that Adam did, namely sinning, is contained forever in his individual notion, and
+nonetheless Adam non-sinner was possible? He seems stuck; once again, these are delicious,
+these moments in a system because here, from this perspective, philosophers are somewhat like
+cats: it’s in the moments when they are stuck that they free themselves, or like fish, conceptually
+these are strange things: it’s the concept becoming a fish. Well, yes.
+
+He is going to tell us, he’s going to recount the following thing: that Adam non-sinner is
+perfectly possible in itself, like Caesar not having crossed the Rubicon, or else like you, finally,
+choose, for each thing, all that is possible, but there we are, what is not contradictory, what is it?
+Why didn’t that happen? That did not happen because it’s possible in itself, but it’s
+incompossible. That is when he created the very strange logical concept of compossibility. On
+the level of existences, it is not enough for a thing to be possible in order to exist; one must also
+know with what it is compossible. Compossible means “being possible with,” compossibility.
+
+Compossible, in other words, with what isn’t Adam non-sinner compossible, whereas he is
+possible in himself? He is incompossible with the world that exists. In other words, Adam could
+have not sinned, yes, provided that there was another world. You see that [with] the inclusion of
+the world in the individual notion, and the fact that something else is possible, he reconciles the
+world with the notion of compossibility, Adam non-sinner belongs to another world. This other
+world could have been possible. That’s not the one which was chosen. Adam non-sinner could
+have been possible, but this world was not chosen. It is incompossible with the existing world. It
+is only incompossible with other possible worlds that have not passed into existence.
+
+That’s odd. So, you see that gets complicated in the end. And so, the world that passes into
+existence, what is it? Why is it that world rather than another one? Leibniz explains what is, as
+he would have it, the creation of worlds by God, and we see well how this is a theory of games:
+God, in his understanding [entendement], conceives an infinity of possible worlds, only these
+possible worlds are not compossible with each other, and necessarily so since it’s God who
+chooses the best. He chooses the best of possible worlds. And it happens that the best of possible
+worlds implicates Adam as sinner. Why? Why? That’s going to be awful [affreux]. What is
+interesting logically is the creation of a proper concept of compossiblity to designate a more
+limited logical sphere than that of logical possibility. In order to exist, it is not enough for
+something to be possible, this thing must also be compossible with others that constitute the real
+world.
+
+So, on that level, there is almost a mystery in remaining on… but you must understand it with
+everything that precedes. In a famous expression from Monadology, Leibniz says that individual
+notions have neither doors nor windows; this is a beautiful expression, with neither doors nor
+windows. That comes to correct the metaphor of the city and of the point of view onto the city.
+No doors or windows means that they are closed, that there is no opening. Why? Because there is
+no exterior. The world that individual notions express is interior, it is included in individual
+notions. So, individual notions have no doors or windows, everything is contained in each one,
+
+                                                                                                                    25
+
+and yet there is a world common to all, [Pause] there is a world common to all individual
+notions: it’s what each individual notion includes, to wit the totality of the world, the notion
+includes it necessarily as a form in which what it expresses is compossible with what the others
+express.
+
+As a result, this is a marvel, this strange world. It’s a world in which there is no direct
+communication between subjects. Between Caesar and you, between you and me, between me
+and you, there is no direct communication, and as we’d say today, each individual notion is
+programmed in such a way that what it expresses forms a common world with what the other
+expresses. It’s one of the last concepts from Leibniz, one of the strangest, that he will call preestablished harmony. Pre-established, it’s absolutely a programmed harmony. This is the idea,
+another very beautiful metaphor that we find again in another context in Spinoza, the spiritual
+automaton, and at the same time, it’s the grand age of automatons at this end of the seventeenth
+century. Each individual notion is like a spiritual automaton, that is, what it expresses is interior
+to it, it’s without doors or windows; it is programmed in such a way that, quite simply, what it
+expresses is in compossibility with what the other expresses. So, there are indeed other possible
+worlds, only they are incompossible with our own.
+
+So here I am summing up: it’s uniquely this that I have done today; it was uniquely a description
+of the world of Leibniz, and even only one part of this world. Thus, the following notions have
+been successively laid out: first, sufficient reason, a properly Leibnizian concept; second,
+inherence and inclusion, or inclusion; third, expression or point of view; [Pause] and fourth, I
+don’t know what any more,… finally, incompossibility. So, we will continue the next time, but
+above all, the next time, try to see if there are things that we have to go back over, you will let
+me know.5 [End of the session] [2 :03 :37]
+
+Notes
+
+  Cf. https://www.youtube.com/watch?v=VGSYIqypxs8
+  We have to indicate that this translation is based on a transcript that we have completely transformed from the text
+that has been available for some twenty years on Web Deleuze, since we have scrupulously followed here, without
+edits or unforeseen omissions, the audio recording available on several platforms (YouTube, Web Deleuze, Paris 8,
+and here on The Deleuze Seminars). We have therefore expanded the text of this first session on Leibniz by
+approximately forty minutes, that is, in addition to the approximate equivalent of about eighty minutes contained on
+the earlier transcript. We have benefitted, however, from Web Deleuze’s alternate transcription in order to fill in two
+specific gaps that occurred when the recording was interrupted for cassette changes, at the end of parts 1 and 2.
+  Lucy Prenant, ed. G.W. Leibniz, Oeuvres choisies (Paris : Garnier, 1940).
+  Deleuze will return to the general topic of point of view and to this specific example in the longer Leibniz seminar,
+in the session of 18 November 1986.
+  Deleuze will develop these concepts in chapter 2 (inherence, inclusion, point of view), chapter 4 (sufficient reason)
+and chapter 5 (incompossibility) of The Fold. Leibniz and the Baroque (Le Pli).

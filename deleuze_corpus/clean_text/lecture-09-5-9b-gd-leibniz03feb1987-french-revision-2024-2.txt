@@ -1,0 +1,1195 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Principes et la Liberté
+
+Séance 9, le 3 février 1987 : Les Principes et la Liberté (4) - De l’incompossible et des
+singularités à la liberté
+
+Transcription, Charles J. Stivale
+
+Partie 1
+
+… Voyez, je parle du genre animal, espèce homme, sous-espèce homme… homme blond [Saut
+dans l’enregistrement] … C’est encore pire, mais là, la traduction est très bonne, donc pour ceux
+que ça intéresse…
+
+Bien, continuons. [Un étudiant parle à Deleuze] Ah, les congés. C’est notre dernière séance du
+semestre, heureusement. [L’étudiant ajoute quelque chose] La rentrée – arrête, toi ! [Deleuze
+s’adresse à cet étudiant] -- [Pause] ah là là… [Deleuze désigne un autre étudiant, peut-être bien
+Hidenbu Suzuki] Il vient d’un pays où il n’y a pas de vacances. [Rires] [1 :00]
+
+L’étudiant (peut-être Hidenobu Suzuki) : C’est pour ça que je l’ai quitté, vous savez ?
+
+Deleuze : … Ah oui, alors, il quitte ce pays où il n’y a pas de vacances et on tue les vieux [Rires]
+pour assister au cours d’un vieil homme qui ne demande que des vacances. [Rires]
+
+Un étudiant : J’ai entendu que les "senior citizens" du Japon sont demandés qu’ils partent en
+Espagne…
+
+Deleuze : Oui ? Oui, oui, oui, déjà ils veulent les mettre dans une île lointaine, avec un volcan, si
+possible. [Rires] Terrible. Oui, alors, je me demande tu feras de moi dans quelque temps. [Rires]
+[Quelques propos inaudibles d’un autre étudiant]
+
+Après [2 :00] ces très gaies plaisanteries, je signale que les vacances donc ont lieu à partir de ce
+soir, comme d’habitude – c’est toujours après les cours – donc le 3 février, du 3 au, je ne sais
+plus, au 22, c’est-à-dire je reprends le mardi le 24 février. [Un étudiant : Le 24 février] Donc…
+
+Mais pendant ces vacances, vous avec beaucoup à faire. Car voilà ce qui s’est passé : à la suite
+de la séance de la dernière fois où je vous ai dit à quel point j’ai été frappé par l’intervention de
+Maarek (il s’agit du collègue de Deleuze du département des mathématiques, Marcel Maarek), il
+y a eu [3 :00] des développements, à savoir Isabelle Stengers m’a mis, comme elle ne pouvait
+pas être là aujourd’hui, elle m’a mis une lettre où ça relance beaucoup de choses sur les
+problèmes de prolongement, de prolongement à partir d’une singularité, où elle essaie de
+distinguer plusieurs cas, et ça me paraît très intéressant. Ça me convient parce qu’on n’a fait, en
+effet, que le début d’une esquisse d’une théorie des singularités. Donc, ce point, il n’est pas
+terminé ; ne vous dites pas, ça y est ! On aura besoin de le poursuivre, et puis moi j’y tiens
+
+                                                                                                     2
+
+beaucoup parce que je crois à la richesse d’une possibilité de concept de singularités, comme
+concept philosophique et non plus mathématique. [4 :00]
+
+Notamment, sentez que ça change tout quant au problème et quant à la notion d’universel, notion
+qui n’est pas sympathique. La notion de singularité est très importante philosophiquement. Bon,
+ça, c’est un point qu’on va avoir à développer à la rentrée. Si Isabelle est là, on reviendra sur tout
+ça parce qu’on aura progressé aujourd’hui, et on aura l’occasion de faire une espèce d’ensemble
+dans la confrontation que je voudrais entre Whitehead et Leibniz. Ça, c’est un point.
+
+Les autres points où j’ai déjà demandé à certains d’entre vous de s’en occuper, mais ce n’est
+jamais exclusif, le plus… -- C’est-à-dire, j’ai demandé à certains d’entre vous [5 :00] lorsqu’il
+faut un type de compétence technique que je n’ai pas, ou que j’ai moins qu’eux – le second point
+qu’on retrouvera, à part Whitehead et Leibniz, ce sera concernant, je l’ai dit depuis le début,
+l’harmonie. Car encore une fois… Si vous voulez, cette année, moi, je voudrais que vous soyez
+sensible à mon effort, pas du tout parce que c’est un gros effort, mais à ce qu’il a de particulier.
+Ce que je veux dire, tout mon travail de cette année, ça consiste à dire que c’est quand même
+étonnant – je ne prétends pas du tout que ce soit étonnant, qu’il n’y ait que moi qui comprenne
+Leibniz ; ça, quand même, il ne faut pas exagérer – mais ce qui me paraît étonnant, c’est des
+choses évidentes qui ne me paraissent pas faites. Alors, c’est presqu’au niveau du bout du travail
+comme quand on dit, oh, ben, non, [6 :00] ce n’est pas du boulot, ça. Moi je vous disais que c’est
+quand même incompréhensible que… il y a eu beaucoup de commentateurs de Leibniz qui, à ma
+connaissance, aucun, quand ils se trouvent devant le texte fameux de la monade sans porte ni
+fenêtre, ne disent, bon Dieu, c’est exactement le module architectural qu’on rencontre
+constamment dans le Baroque.
+
+Et puis, pour l’harmonie, je dis la même chose. Je dis, Leibniz emploie l’harmonie à toutes sortes
+de niveaux, entre autres arithmétique, musical, et architectural. Et à ma connaissance, tous les
+commentateurs parlent de l’harmonie dont il fait une théorie sous le nom d’harmonie préétablie,
+dont Leibniz fait une théorie sous le nom d’harmonie préétablie, mais ne cherchent pas à unifier
+[7 :00] dans un concept philosophique tous ces domaines de l’harmonie, l’harmonie au sens
+arithmétique, l’harmonie au sens musical, l’harmonie… Pourtant il y a surement quelque chose à
+dire là-dessus, surement, un concept philosophique à former. D’où je disais à tous ceux qui ont
+une formation musicale, ce que j’attends d’eux, c’est qu’ils réfléchissent beaucoup à ces notions
+d’harmonie, à commencer par [Pause] la période ou les musiciens qu’on a pu appeler, à tort ou à
+raison, les musiciens baroques, et aussi des architectes baroques. Ce qui, évidemment, nous
+ouvrira de telle manière dans le Baroque l’architecture devient telle musique. [8 :00] Bon, ce
+n’est surement pas la même chose que dans d’autres périodes ou que dans d’autres conceptions
+de l’architecture.
+
+Enfin, je vous rappelle que tout notre travail de cette année part – là aussi, c’est pour ça que je
+dis, on s’étonne des choses qui sont pourtant… -- partait d’une chose comme où je disais, ben
+oui, essayons de définir le Baroque, mais surtout n’essayons pas de nous flanquer dans les
+difficultés de ceux qui soulèvent des questions préalables. Et ceux qui soulèvent des questions
+préalables, c’est ceux qui disent, oh, attention, eh ? Une notion comme Baroque, ça n’a de valeur
+qu’en architecture, c’est-à-dire la question des genres où le concept de Baroque serait adéquat,
+serait valable ; ou bien ceux qui raffinent sur les périodes quand, à quel moment, [9 :00] ou
+d’après quel pays, et puis à force de raffiner, alors on va distinguer le Maniérisme et le Baroque,
+
+                                                                                                          3
+
+tantôt le Baroque sera avant le Classique, tantôt il sera après le Classique, et puis le Baroque de
+telle région ne sera pas le Baroque de telle autre. Le Baroque d’Europe centrale ne sera pas le
+même que l’espagnol, et à la limite – mélancolie de tous ceux qui terminent après avoir fait une
+œuvre importante sur le Baroque en se disant, Bon Dieu, est-ce que ça existe, le Baroque ?
+[Rires]
+
+Alors, je vous disais, si on ne veut pas entrer là-dedans, ni questions de date, ni de genre, il nous
+faut une définition qui ne prétend pas à l’essentiel, mais qui prétend à une activité opératoire. Et
+c’est pour ça que depuis le début, je vous ai dit, il ne faut pas s’en faire, nous. On va dire, le
+Baroque, c’est le pli quand le pli va à l’infini. [10 :00] Et je dirais il y aura du Baroque dans
+quelque genre que ce soit si je peux justifier l’idée d’un pli qui va à l’infini. Bon. Alors au moins,
+j’ai mon critère. Mon critère, il ne présuppose rien, eh ? Vous voyez, je peux à ce moment-là
+esquiver toute question sur les genres et les époques, et puis je pourrais restreindre mon concept
+de Baroque ou l’étendre suivant qu’elle sera vérifiée ou non vérifiée, cette opération du pli qui va
+à l’infini.
+
+Alors, vous me direz, mais qu’est-ce que ça veut dire en musique, le pli qui va à l’infini ? Bon, je
+ne dis pas que ce soit un musicien … baroque, mais il se trouve que [Pierre] Boulez, il écrit Pli
+selon pli, et c’est de la musique, mais il écrit [11 :00] Pli selon pli – et j’en viens à ma troisième
+demande auprès de vous – il y a toutes sortes d’auteurs. Alors je me dis, mais si on parle de cette
+idée, c’est marrant, eh ? Parce que viennent les choses inattendues qui, dès lors, prennent une
+évidence ou devraient prendre une évidence immense, à savoir que des auteurs qui ont attaché à
+cette notion bizarre de pli une importance fondamentale, mais du coup on se dit il y en ait
+beaucoup plus qu’on ne croyait.
+
+Aussi, en second semestre on aura à confronter, par exemple, Heidegger, à se confronter
+Heidegger. Il est bien connu que Heidegger invoque sans cesse le pli et que, bien plus, la
+différence de l’être et de l’étant est nommée le pli. [12 :00] Est-ce qu’il sera un Baroque,
+Heidegger ? Ben oui, mais ce n’est pas de ma faute ; ce n’est pas arbitraire. Si j’appelle baroque
+tout auteur qui plie et fait aller le pli à l’infini, je peux dire, ben oui, c’est un Baroque,
+Heidegger. Ben oui, ça m’avance au moins, dire c’est un Baroque, au moins ça m’avance. Ça
+m’avancerait en quoi ? C’est un Baroque, mais c’est un drôle de Baroque peut-être ; c’est peutêtre qu’il faut distinguer les espèces : c’est un Baroque un peu gothique, [Rires] parce que le pli,
+lui, il tombe dur, le pli, il est dur, il tombe dur ; ce n’est pas le pli à inflexion ; ce n’est pas le pli
+de Leibniz, mais au moins ça me permettrait de dire – vous savez, il connaît très bien Leibniz,
+Heidegger ; il n’en parle pas trop – mais ça me permettrait de dire, peut-être qu’il connaît
+Leibniz encore mieux qu’il en a l’air. [13 :00] Peut-être là il y a quelque chose. Mais, surtout ce
+n’est pas tant Heidegger qui m’intéresse, mais certains d’entre vous pourraient alors, à ce
+moment-là, ça serait à eux de parler ; moi, j’en parlerai très peu. C’est pour vous esquisser tout le
+programme du second semestre.
+
+Mais il y a un auteur qui me touche, qui m’émeut immensément, et voilà qu’en le relisant ce
+trimestre, parce que j’avais une vague idée. Je me dis, mais, mais ça joue, et puis il y a quelqu’un
+ici, Giorgio Passerone, qui travaille, pour de tout d’autres raisons, qui rencontre, qui s’attache à
+cet auteur-là, qui est [Stéphane] Mallarmé. Et je me dis tout d’un coup, mais enfin, c’est bizarre.
+Il ne s’agit pas d’interpréter. Je ne veux pas du tout interpréter Mallarmé. Il faut laisser [14 :00]
+toutes les interprétations que vous voulez, oh tout est bon, tout est mauvais, mais ce n’est pas de
+
+                                                                                                        4
+
+l’interprétation, c’est l’acte opératoire. Bien plus, Mallarmé se voulait opérateur. Le mot est en
+toutes lettres. Il ne se veut pas auteur ; il se veut opérateur. Eh ben, je me dis, quelle est
+l’opération de Mallarmé, l’opération clé ? Ouvrez Mallarmé au hasard, je vous le conseille ; lisez
+ou relisez Mallarmé. Vous verrez constamment la hantise du pli, à plusieurs niveaux : un niveau
+célèbre, l’éventail. [Pause] Mallarmé, si j’ose dire, c’est l’éventail. Or, l’éventail, c’est le pli par
+excellence. [15 :00] "L’unanime pli," "l’unanime pli”, dit-il. [Il s’agit du poème "Un autre
+éventail, de Mademoiselle Mallarmé"]
+
+Et puis, qu’est-ce qui se passe ? Qu’est-ce qui est encore le pli ? Oh, beaucoup de choses. Ce qui
+est encore pli, c’est la poussière et la cendre, l’inanité. Comprenez, ça me permet de dire, bon,
+oui, on ne va pas partir du néant chez Mallarmé. Ça, c’est des interprétations, mais le pli, ce n’est
+pas une interprétation. C’est quelque chose qui fait. Il vivait dans son châle, Mallarmé ; il parle
+aussi du pli de la dentelle, et puis Madame Mallarmé, sa femme, et puis Mademoiselle Mallarmé,
+sa fille, avaient des éventails pour aller au théâtre, eh ? [Deleuze rit] Ça ne se fait plus. Et lui,
+mettait des vers [16 :00] sur les éventails de Madame Mallarmé, de Mademoiselle Mallarmé, et
+puis de toutes les amies de Madame et de Mademoiselle ; il y avait quelques vers sublimes de
+Mallarmé. Bien. L’éventail se plie ; en se pliant, [Deleuze rit] l’éventail, plutôt en s’agitant,
+l’éventail fait descendre dans un miroir, fait descendre dans un miroir des grains de poussière qui
+sont comme des grains de la matière. [Pause] Cendres au brouillard, mais la cendre et le
+brouillard, ils font des plis. [Il s’agit du poème "L’Azur" de Mallarmé, dans lequel se trouve le
+vers : "Brouillard, montez ! Versez vos cendres monotones"]
+
+J’ai le pli de l’éventail, [17 :00] voilà que l’éventail pourchasse en chaque grain la poussière et la
+cendre, et la poussière et la cendre retombent sous l’aile de l’éventail, ça fait des plis, plis de
+poussière, plis du brouillard. [Référence au poème "Éventail de Madame Mallarmé"] Et peut-être
+que le sensible – ce serait très intéressant, ça, car ça rejoindrait peut-être une idée de Leibniz –
+peut-être que le sensible, nous ne le voyons qu’à travers les plis d’un brouillard perpétuel,
+suivant que le brouillard fait et défait ses plis. Et je saute alors à un autre poème de Mallarmé,
+Bruges, [Référence au poème "Remémoration d’amis belges] la ville belge, [18 :00] où Bruges,
+au petit matin, aperçu à mesure que le brouillard laisse voir la pierre, la pierre "vétuste", dit-il, la
+pierre "vétuste", [Au fait, il dit "la pierre veuve", mais il emploie le mot "vétusté" pour décrire
+l’atmosphère] que le brouillard découvre, "pli selon pli". "Pli selon pli" est une formule dont
+Boulez emprunte à ce poème de Mallarmé sur Bruges. Voilà, je v… [Interruption de
+l’enregistrement] [18 :34]
+… vers les plis de la poussière. Et ces choses, c’est sans doute, bon, c’est la cendre, c’est à
+travers la cendre, et c’est le monde de l’inanité ; c’est le monde du sensible, c’est le monde du
+sensible que je vois à travers les replis de la poussière. [19 :00] Autant dire que c’est le monde du
+journal, le monde des circonstances. Et qu’est-ce qu’un journal ? C’est le plié par excellence. Ce
+n’est pas moi qui le dis. Chaque fois que Mallarmé parle du journal, il le désigne comme ce qui
+est plié. [Pause]
+
+Alors, j’attire votre attention sur cette série d’opérations, quand même, surtout qu’elles
+continuent car il nous dira, qu’est-ce que c’est l’infériorité du journal par rapport au livre ? Tous
+deux sont pliés. C’est pour ça que le journal … D’où le problème fameux de Mallarmé : quand
+est-ce que commence la littérature ? Où commence-t-elle ? Est-ce que l’article de journal est de
+
+                                                                                                     5
+
+la littérature ? Est-ce que quatre vers écrits [20 :00] sur l’éventail de Mademoiselle Mallarmé est
+de la littérature ou pas ? [Pause] Et puis ? Eh bien, quoi ? Qu’est-ce que c’est la supériorité ?
+Qu’est-ce qui est supérieur au journal ? Le livre, LE Livre. Pourquoi faut-il que ce soit ceux qui
+n’ont jamais fait un livre consistant qui puisse nous parler avec tant de force et d’autorité et de
+persuasion du livre, LE Livre ? Et le Livre de Mallarmé, en quoi… Ça dépasse le journal, il le dit
+explicitement : Il dit, le pliage du journal avec le livre se dépasse vers le tassement, [21 :00] le
+tassement cubique. [Le texte de Mallarmé, dans la section de "Divagations" intitulée "Le Livre,
+Instrument Spirituel", est ceci :"Le pliage est, vis-à-vis de la feuille imprimée grande, un indice,
+quasi religieux : qui ne frappe pas autant que son tassement, en épaisseur, offrant le minuscule
+tombeau, certes, de l’âme", Œuvres complètes (Paris : Gallimard, 1945) p. 379] Rappelez-vous
+un de nos acquis, comment l’inflexion, c’est-à-dire le pli, se dépasse vers l’inclusion. Le Livre,
+c’est l’inclusion ; le journal, c’est seulement le pli, mais le pli inclus dans le Livre, ça c’est la
+forme supérieure. Je dirais, à la lettre, le Livre, c’est la monade. [Pause]
+
+Ça en fait des choses autour… Alors qu’est-ce que cette idée ? Je dirais que ce n’est pas, ce n’est
+pas, cette idée … Comprenez, qu’est-ce que… il voit, il vit des choses comme ça, le pli de
+l’éventail qui va distribuer, [22 :00] comme deux pôles, les plis des cendres et le pli du journal,
+et l’autre pôle, le pli du Livre qui se tasse dans une unité active, LE Livre. [Pause] Relisez
+Mallarmé, à cet égard ; je suis sûr qu’il y a quelque chose à chercher, quelque chose à trouver sur
+ce statut du pli et que, après tout, il n’y aurait pas… C’est possible que Mallarmé et que Leibniz
+nous aident l’un et l’autre, que l’un nous aide à comprendre l’autre, et je vous disais [que]
+Leibniz, qui n’a pas [23 :00] cessé d’écrire par petits opuscules ou qui n’a pas cessé d’écrire dans
+des journaux, est-ce que lui aussi, d’une certaine manière, n’est pas auteur DU Livre avec un
+grand L, une espèce de livre qui serait un livre total comme le voulait Mallarmé, mais comme le
+veut aussi Leibniz chaque fois qu’il pense à ce qu’il appelle la Combinatoire ? Surtout que, alors
+j’essaie de sauter de l’un à l’autre là, surtout que le Livre de Mallarmé sera conçu comme une
+sorte de Combinatoire puisque l’on peut combiner, suivant toutes les séries possible, les feuillets
+intérieurs. Bien.
+
+Cherchez… Alors, je dis que certains d’entre vous cherchent du côté de Mallarmé, que d’autres
+cherchent du côté de l’harmonie en architecture et en musique, [24 :00] que d’autres cherchent
+au niveau des fonctions mathématiques et de la théorie des singularités, même si ça c’est peu
+mathématique.
+
+Alors, nous, nous continuons notre chemin là, comme ça, et vous voyez ce qu’on a gagné la
+dernière fois grâce à Maarek. Je dis bon ben, il faut presque rester très, très modeste et se dire,
+disons le minimum parce que Maarek était trop, trop gentil, vous l’avez bien senti, il n’a
+absolument pas voulu faire la moindre réserve sur mes schémas mathématiquement douteux.
+Mais il m’a donné une espèce de bénédiction qui pour moi est précieuse -- je n’en ai demandé
+pas plus -- qui est du type, oui d’accord, ça peut se dire. Si ça peut se dire mathématiquement, je
+ne demande pas plus parce que ce qui m’intéresse, c’est [25 :00] ce qui, en revanche, doit se dire
+philosophiquement. Alors, il me suffit d’un peu qui peut se dire mathématiquement pour que ça
+me suffise, ça.
+
+Alors je résume le peu qui peut se dire mathématiquement : je disais qu’on ne peut pas en rester
+à cette notion où la compossibilité et l’incompossibilité seraient déclarées des mystères enfouies
+
+                                                                                                      6
+
+dans l’entendement de Dieu. Il nous faut une certaine formule qui explique que "Adam nonpécheur" sans doute est le contraire d’Adam pécheur, mais n’est pas contradictoire en soi, c’està-dire si vous préférez, n’est pas contradictoire avec le monde où Adam a péché. "Adam nonpécheur" n’est pas contradictoire avec le monde où Adam a péché. Tandis que vous vous
+rappelez, dans 2 et 2 égalent 5, là il y a une contradiction absolue et qui peut être démontrée par
+l’absurde. Tandis que "Adam non-pécheur", il n’y a pas contradiction. Simplement c’est
+incompossible avec notre monde, c’est-à-dire avec le monde où Adam a péché.
+
+Et donc, ma question – je résume notre peu d’acquis – c’était : eh bien, il faut essayer de donner
+à cette relation de compossibilité et d’incompossibilité, il faut essayer de lui donner un statut à
+tout prix, et même si Leibniz nous abandonne à ce moment-là, eh bien, il faut faire un bout de
+chemin à condition [27 :00] qu’il soit possible en fonction de l’ensemble de Leibniz. Et ce que je
+vous proposais, c’est uniquement ceci : c’est, nous partons des singularités. Les singularités,
+qu’est-ce que c’est ? C’est un quelque chose qui arrive dans le monde. Plus précisément, c’est
+quoi ? On a vu qu’un quelque chose qui arrive dans le monde, c’est une inflexion. Je dis qu’une
+singularité, c’est un point d’inflexion. Voilà. Je dis bien que c’est le premier sens de singularité,
+nous verrons, et c’est pour ça que Isabelle Stengers a raison dans sa lettre de me dire que c’est
+bien plus compliqué que ça. Mais ça, on verra. On commence par le plus simple.
+
+Il y a donc des singularités, je peux me donner cette… [28 :00] Vous remarquez -- là je ne
+saurais trop insister, ça, c’est essentiel – je ne parle pas de monade. Alors de quel droit [a-t-on]
+de parler de singularité avant que je parle de monade, c’est-à-dire les sujets qui incluent les
+singularités ? C’est que, on l’a vu, et je dis et je répète qu’à mon avis, on ne peut rien
+comprendre à Leibniz, au moins de sa théorie de l’existence, si on ne se rappelle pas
+perpétuellement ce principe : le monde est premier par rapport aux monades qui l’expriment. Le
+texte de Leibniz est absolument indiscutable : Dieu, encore une fois, n’a pas créé Adam pécheur ;
+il a créé le monde où Adam a péché. Les monades résultent du monde, [29 :00] elles ne sont pas
+principes du monde.
+
+D’accord, le monde est inclus dans les monades ; le monde existe dans les monades, mais les
+monades existent pour le monde. Le monde n’existe pas hors des monades ; il n’existe que dans
+les monades. En revanche, les monades ne sont que pour tel ou tel monde. Les monades sont
+pour le monde, on l’a vu. J’avais fait mon petit dessin qui montrait cette double proposition : le
+monde n’existe que dans les monades, mais en même temps, les monades ne sont que pour le
+monde. J’avais fait le petit schéma qui m’autorise à parler d’une antériorité du monde par rapport
+aux monades. Quand Dieu crée, il a en [30 :00] vue le monde. Donc je peux parler des
+singularités qui sont constitutives de ce monde. Ce sont : le monde, c’est une série infinie
+d’inflexions ; chaque inflexion correspond à un état du monde. Dès lors, je peux très bien dire
+que le monde est un ensemble infini de singularités.
+
+Alors qu’est-ce qui va définir la compossibilité ? On l’a vu : c’est lorsque, dans le prolongement
+d’une singularité jusqu’au voisinage d’une autre singularité, la série est convergente. La série, le
+prolongement, c’est quoi ? Il y a en mathématiques deux couples de notions [31 :00] : singulier
+qui s’oppose en toute rigueur à régulier, point singulier, point régulier ; et un autre couple qui
+n’est pas tout à fait équivalent, remarquable qui s’oppose à ordinaire. Pour le moment, j’identifie
+les deux couples pour une raison simple : c’est que je crois, philosophiquement, c’est seulement
+
+                                                                                                    7
+
+à un autre niveau que celui où nous sommes, ce n’est pas encore maintenant, que je pourrais faire
+la distinction. Je précise pour que ce soit dans votre esprit quant à notre avenir, la distinction
+devra être faite. Pour le moment, je n’ai [32 :00] aucune raison de la faire car j’en suis à un
+niveau où le singulier et le remarquable, d’une part, et le régulier et l’ordinaire, d’autre part,
+peuvent être encore traités comme des synonymes.
+
+Je dis donc que le prolongement d’une singularité au voisinage d’une autre singularité se fait sur
+une ligne d’ordinaires ou de réguliers. Par exemple, voyez le côté d’un carré. Bon, vous avez A
+et B qui sont deux sommets du carré. Ces deux sommets, vous les traitez de points singuliers, et
+A se prolonge jusqu’au voisinage de la singularité B, c’est-à-dire s’étend sur une ligne
+d’ordinaires, la ligne [33 :00] qui va de A à B. Pas compliqué.
+
+Je dis donc des singularités seront compossibles… Alors, j’ajoute, je peux dire trois choses, et là
+je reprends, ça, les points que Maarek a très bien dégagés la dernière fois. Je peux dire, vous
+savez, dans le monde, tout est ordinaire, tout est régulier, comme disait le professeur de
+philosophie quotidienne dans le roman de Leblanc. [Deleuze se réfère au roman de Maurice
+Leblanc, La vie extravagante de Balthazar, qu’il a considéré lors du séminaire du 27 janvier
+1987. Voir aussi Le Pli, pp. 83-84; The Fold, pp. 62-63] Pourquoi? Parce que, finalement,
+qu’est-ce que c’est qu’une singularité ? C’est la coïncidence de deux ordinaires. Je reprends mon
+exemple du carré : Si vous vous mettez au sommet B, vous pouvez dire que [Pause] [34 :00] B
+comme point singulier est la coïncidence du dernier ordinaire de la ligne A-B et du premier
+ordinaire de la ligne B-C. Voyez, donc, en ce sens, je peux dire que tout est ordinaire. D’autre
+part, vous vous rappelez la loi du monde comme série infinie : entre deux points, si voisins
+soient-ils, je peux toujours en faire intercaler un troisième point par lequel passe une inflexion.
+En ce sens, je dirais que tout est singulier. Il n’y a que des singularités. Ce sera deux passages à
+la ligne ; je peux les opérer, ces deux passages à la ligne, enfin dans les mathématiques lâches
+que je me propose.
+
+Ce que je fais là [35 :00] pour me parer de toute critique mathématiques, c’est une espèce
+d’axiomatique ; chacun peut faire ce qu’il veut à condition que ça débouche sur quelque chose.
+
+Et puis, donc, je peux dire -- troisième proposition -- je peux dire que tout est ordinaire, je peux
+dire que tout est singulier, tout est remarquable, et puis je peux dire, entre mes deux passages à la
+limite, comme disait Maarek, une singularité n’existe que comme entourée d’une nuée
+d’ordinaires, c’est-à-dire elle est prolongeable sur des lignes d’ordinaires jusqu’à quoi ? Ben, pas
+infiniment prolongeable, du moins la série est infinie, mais elle est prolongeable jusqu’au
+voisinage d’une autre singularité [36 :00] ce qui, comme disait Maarek très justement, me
+forcerait à définir un voisinage, mais enfin, on ne peut pas tout faire. Peu importe. Mais dans une
+axiomatique, le rapport d’une singularité à une autre passerait par une définition du voisinage.
+Voilà, je dis deux singularités sont compossibles lorsque la série de développement qui va de
+l’une au voisinage de l’autre et de l’autre au voisinage de l’une est une série convergente.
+[Pause] Il y a incompossibilité lorsque la série est divergente, c’est-à-dire lorsqu’elle ne passe
+pas par les mêmes valeurs. Bien. [37 :00] Ça, ce n’est pas compliqué, je veux dire, il n’y a pas…
+des mathématiques, c’est des propositions de…, des définitions. J’aurais donc au moins une
+définition de compossible et d’incompossible.
+
+                                                                                                     8
+
+Dès lors, voyez la situation de Dieu. Je vous convie à prendre la place de Dieu.
+
+Un étudiant : [Commentaire inaudible]
+
+Deleuze : Quoi ? Encore ? Mais on ne s’en lasse pas, de prendre la place de Dieu. Dieu, pour
+créer le monde, il se trouve devant quoi ? Il se trouve devant des mondes possibles. [Pause] Il se
+trouve [38 :00] devant des mondes possibles, mais qui ne sont pas compossibles les uns avec les
+autres. Voyez, il va nécessairement choisir – c’est par là que la création est un choix selon
+Leibniz – il va choisir une monde possible, mais il sera bien forcé d’exclure les mondes
+incompossibles avec celui-là. Ça va être le principe de la limitation ; voyez que la compossibilité
+et l’incompossibilité, ce n’est pas du tout quelque chose que Dieu subit. C’est simplement
+l’identité du créé avec le limité. Il y a une limitation fondamentale dans la création qui veut dire :
+[39 :00] si Dieu, en effet comprenez, si Dieu pouvait créer tous les mondes à la fois, eh bien,
+conséquence devant laquelle Leibniz recule avec horreur, pourquoi a-t-il monté toute cette
+histoire de compossibilité et d’incompossibilité ? Pour ne pas être spinoziste. La terreur des
+philosophes honnêtes, c’est d’être spinoziste. [Rires]
+
+Et l’idée de Spinoza est tout simple : c’est que Dieu crée nécessairement le monde, mais pour un
+philosophe chrétien, c’est très fâcheux, Dieu crée nécessairement le monde. C’est très embêtant
+parce qu’à ce moment-là, la création n’est pas une création. Il faudra dire qu’il produit le monde
+et que le monde est un mode de Dieu. [40 :00] Ça voudra dire aussi que le monde est nécessaire.
+Pour un philosophe chrétien, ce n’est pas possible. Mais c’est très important pour Leibniz de
+montrer que Dieu ne peut pas créer tout le possible à la fois, c’est-à-dire il ne peut pas faire
+exister tout le possible. Pourquoi ? Parce que les possibles sont pris dans des rapports
+d’incompossibilité. Donc, il faudra bien que Dieu choisisse un des mondes. Il fera passer à
+l’existence un des mondes compossibles.
+
+Quelle sera dès lors la loi ? Est-ce qu’il va choisir arbitrairement ? Evidemment non. Je résume
+beaucoup, je vais très vite ; vous savez la réponse de Leibniz : Dieu choisit [41 :00] et fait passer
+à l’existence le meilleur des mondes possibles, le meilleur des mondes possibles. Alors ça n’en a
+pas l’air, il n’est pas idiot, Leibniz. Il sait que ce monde que Dieu a choisi est plein de
+catastrophes, de tortures, de morts innocents, etc. Il aura à s’expliquer avec tout ça. Mais il nous
+dit, presque là à la manière d’un mathématicien, Dieu choisit le meilleur des mondes possibles.
+Je ne sais pas ce que sont les autres mondes incompossibles que Dieu n’a pas choisis. Il faut
+croire qu’ils sont encore pires. [Rires] Eh, qu’est-ce que ça veut dire, ça ?
+
+Alors c’est là que je vous disais, il faut que vous fassiez très attention, il nous propose le schéma
+suivant pour nous expliquer ce que c’est que le choix [42 :00] de Dieu. J’ajoute que le schéma
+n’est pas exact. Il le sait bien, Leibniz, puisqu’il fait appel… il suppose une conception de
+l’espace qui n’est pas la sienne. Il nous dit, supposons que l’espace soit un réceptacle. Or, pour
+Leibniz, l’espace n’est pas un réceptacle. L’espace est là, et le problème de Dieu, ça va être quel
+monde choisir, c’est-à-dire faire passer dans l’espace. [Pause] Et la réponse, c’est : c’est le
+monde qui remplira au maximum l’espace donné. C’est une pure métaphore ; c’est pour nous
+faire comprendre [43 :00] que l’espace n’est pas un réceptacle. Ensuite, cela impliquerait que
+l’espace soit fini, qu’est-ce que ça veut dire, tout ça ? N’[y] attachez pas d’importance. Essayez
+juste de comprendre à titre métaphorique.
+
+                                                                                                        9
+
+Il y a un réceptacle ; eh ben, tous les mondes sont aptes à peupler leur réceptacle, mais à des
+degrés de remplissement différents. Il y a une seule combinaison qui leur remplit au maximum.
+Supposez que cet espace-réceptacle soit donc un jeu d’échecs, une table d’échecs. Bien. Je dirais,
+à chaque moment du jeu, vous n’avez, [44 :00] ou supposons que nous n’avons qu’une seule
+combinaison qui fait que l’ensemble des pièces couvrent le maximum de cases, une fois dit que –
+voyez la variété qui s’introduit – une fois dit que chaque pièce a, comment dirais-je ? sa
+puissance, sa puissance de se prolonger dans l’espace suivant une démarche – par exemple, la
+démarche du cavalier, ce n’est pas la même que celle du fou, qui n’est pas la même que celle de
+la dame, etc. etc. Vous avez une combinaison qui vous permet de remplir au maximum les cases
+de l’échiquier. [Pause]
+
+Vous me direz, ça se complique parce qu’il y a deux partenaires, [45 :00] mais compte tenu les
+deux partenaires, il y a une combinaison qui permet à chacun, compte tenu de l’autre, de remplir
+le maximum de cases. C’est cette combinaison-là que Dieu fait passer à l’existence, le meilleur
+des mondes possibles. C’est-à-dire, ça veut dire, comme [Leibniz] le dit, le meilleur des mondes,
+c’est celui qui a, qui possède la plus grande quantité de réalité ou de perfection, une fois dit que,
+philosophiquement, au dix-septième siècle, réalité et perfection sont strictement synonymes. Une
+perfection, c’est quelque chose de réel. Le réel et le parfait s’opposent non pas à l’imparfait, mais
+à l’imaginaire. Donc, la combinaison compossible [46 :00] que Dieu fera passer à l’existence, ce
+sera celle qui présente la plus grande quantité de perfection.
+
+D’où la distinction très curieuse chez Leibniz entre deux volontés de Dieu : d’une part, ce qu’il
+appelle – ça ne vient pas de lui, ces termes traînent dans la théologie, mais avec Leibniz, ils
+viennent prendre un sens très particulier – les volontés ou la volonté antécédente de Dieu et la
+volonté conséquente. La volonté antécédente de Dieu, c’est le mouvement par lequel ou la
+tendance par laquelle chaque possible, quel qu’il soit, tout ce qui est possible tend à l’existence.
+[47 :00] Voyez le texte De l’origine radical des choses où cette thèse est développée. Dans
+l’entendement de Dieu, tous les possibles, chaque possible tend à l’existence. [Pause] Cette
+tendance à l’existence, cette tendance à passer… [Interruption de l’enregistrement] [47 :26]
+
+Partie 2
+
+… à toutes sortes d’étages. Je reviens toujours à mon idée des appartements. Il y a beaucoup
+d’appartements dans l’entendement et dans la volonté de Dieu. Il faut parler de l’entendement de
+Dieu en distinguant les régions car si vous vous rappelez ce qu’on a déjà fait bien avant, il y a
+une première région de l’entendement de Dieu qui [48 :00] se définit par et qui contient les
+absolument simples, les notions absolument simples, c’est-à-dire les pures Identiques, les formes
+infinies dont chacune [Deleuze tousse assez violemment] est identique à elle-même.
+
+Deuxième région de l’entendement de Dieu, [Pause] les relations, [Pause] lorsque les notions
+entrent en relation les unes avec les autres, et cette fois-ci, ce n’est plus les Identiques, ce sont les
+Définissables, ce qui nous avait paru [49 :00] d’un autre type d’inclusion.
+
+Troisième des régions de l’entendement de Dieu : les réquisits ; c’est encore autre chose. Je ne
+reviens pas là-dessus. C’est des leçon, c’est des cours, c’est des séances qu’on a vues.
+
+                                                                                                     10
+
+Quatrième région : [Pause] les singularités en tant qu’elles tendent toutes à passer à l’existence.
+Cette sphère de l’entendement divin fait appel déjà à la volonté de créer un monde sous forme de
+volonté antécédente.
+
+Cinquième région : les relations de compossibilité et d’incompossibilité qui fait que seule la
+meilleure des combinaisons passera à l’existence [50 :00] sous l’action de la volonté
+conséquente. C’est un entendement à cinq régions au moins et une volonté à deux régions au
+moins. C’est intéressant parce que les autres philosophes, ils ont vite fait de parler de la volonté
+de Dieu et tout ça, mais c’est bien, chez Leibniz, ça se multiplie ; ça ne se complique pas, ça se
+multiplie.
+
+Alors, si je résume encore, vous vous rappelez, je reviens, je tire les conclusions sur la grande
+distinction, les propositions d’essence et les propositions d’existence. Toutes deux sont sous le
+régime de l’inclusion [51 :00] du prédicat dans le sujet. Vous vous rappelez, le prédicat n’est pas
+un attribut, c’est un événement. [Pause] L’inclusion d’un prédicat dans le sujet, c’est la raison
+suffisante. En quel sens ? Parce que l’inclusion donne la raison du prédicat même. Si le prédicat
+peut être dit "du sujet", c’est parce qu’il est dans la notion, c’est parce qu’il est inclus dans la
+notion du sujet, c’est là sa raison suffisante. Je peux simplement dire pour le moment qu’il y a
+toujours raison suffisante, mais dans les propositions d’essence, [Pause] l’identité [52 :00] fait
+office de raison suffisante et suffit de faire office de raison suffisante. Ce qui revient à dire quoi ?
+
+Là j’hésite à employer à nouveau des termes mathématiques, mais je dirais -- par commodité –
+on a vu qu’on ne pouvait pas distinguer les deux types de vérités d’essence et d’existence, les
+deux types de propositions, en disant, dans le cas des propositions d’essence, l’analyse est finie
+et, dans le cas des propositions d’existence, l’analyse est infinie. Pourquoi ? Parce que l’infinie
+est partout, donc cela nous a paru une très, très mauvaise interprétation. Il y a séries infinies, de
+toute façon. Mais je dirais que dans les propositions d’essence, la série est – et là je me servirai
+d’un terme là aussi mathématique, mais quitte à… pas beaucoup – [53 :00] je dirais, la série, il
+suffit qu’elle soit compacte, comme disaient les mathématiciens, c’est-à-dire qu’entre deux
+termes, on puisse toujours en insérer d’autres, une série compacte, tandis que, au niveau des
+propositions d’existence, c’est très différent : la série est convergente ou divergente. Pour moi, ce
+serait ça la grande différence entre les deux types de propositions. [Pause]
+
+Voilà un premier point. Finalement, j’ai regroupé, résumé tout un ensemble de choses. Ceux qui
+n’ont pas encore bien compris, [54 :00] on en aura l’occasion d’y revenir quand on fera tout le
+tableau de l’ensemble des principes de Leibniz. Notamment, je glisse entre parenthèses, vous ne
+vous étonnerez pas qu’il y a chez Leibniz un principe qu’il appelle "le principe du meilleur", à
+savoir, Dieu choisit le meilleur des mondes, "le meilleur" voulant dire celui qui présente le
+maximum de quantité de réalité. Il y aura un principe du meilleur, et tout ça, on le verra plus
+tard.
+
+Voilà, j’en ai fini avec cette histoire, plutôt avec cette première espèce de singularité que sont les
+inflexions. Les singularités qui sont des inflexions, c’était d’ailleurs des états du monde, et je
+disais bien, vous voyez – [55 :00] et sinon, tout tomberait dans ce que je dis – il faut bien d’un
+certain point de vue que les singularités soient premières par rapport aux individus. [Pause]
+
+                                                                                                    11
+
+Qu’est-ce que c’est que les singularités ? Ce n’est pas des individus ; c’est des événements. Si
+j’ai à définir un événement, maintenant je dirais que c’est tout simple ; c’est l’ensemble de
+singularités prolongeables. [Pause] C’est ça un événement. Que la logique doive être une logique
+de l’événement, ça revient à dire, eh bien oui, la logique est une logique des singularités ou des
+points singuliers, dans leur rapport [56 :00] avec les ordinaires, dans leur rapport avec les
+réguliers. Et encore une fois, c’est toujours à une échelle que le régulier est régulier ; si à
+l’échelle suivante, la plus basse échelle, vous faites passer une inflexion, l’ordinaire est devenu
+singulier. Il y a toutes les transformations que vous voulez au point qu’à la limite, un événement
+ne comporte que des singularités, mais d’après votre perception, c’est d’après votre perception,
+d’après la finesse ou la lourdeur de votre perception, il y aura plus ou moins de singularités dans
+un événement. Ça va déjà nous engager – non, je ne veux pas dire [57 :00] tout de suite, mais ça
+va nous engager à une théorie de la perception qui va être évidemment très, très bizarre, comme
+tout ce qui sort de Leibniz.
+
+Comprenez, par exemple, une mouche. D’abord ce n’est pas les mêmes événements. Quand je
+suis dans la même pièce qu’une mouche, [Rires] pensez à ce qui est un événement pour la
+mouche et ce qui est un événement pour moi. [Rires] Par exemple, la mouche est un événement
+pour moi. Moi, je ne suis pas un événement pour la mouche. [Rires] Ce qu’elle saisit, c’est
+d’autres événements dont je suis peut-être la cause. Mais il est évident que l’évaluation des
+événements ne peut pas être les mêmes puisque la mouche et moi, nous ne sommes pas au
+voisinage des mêmes singularités. Faire une théorie de la perception, [58 :00] ça implique toute
+une conception différentielle de la perception où les êtres vivants perçoivent sous les conditions
+des singularités qu’ils saisissent et des prolongements de ces singularités sur des lignes
+d’ordinaires. [Pause] Pensez au parcours de la mouche et à l’infinité de singularités que
+marquent à chaque instant les inflexions dans le chemin de la mouche.
+
+Alors, qu’est-ce qui va constituer une perception ? Ça aussi, c’est un problème. Il faut bien
+s’attendre à ce qu’il nous tombe dessus, ce problème-là. [59 :00] Il dérivera tout droit. En tout
+cas, pour le moment dans mon souci d’aller lentement et de ne pas trop mélanger les problèmes
+différents, je dis ben oui, vous voyez, je reviens à : les singularités précèdent l’individu.
+Pourquoi ? Exactement comme le monde, d’un certain point de vue, préexiste à la monade. Dieu
+créé le monde ; alors maintenant que le monde n’existe que dans les monades, ça c’est autre
+chose. Mais Dieu, il crée le monde. Encore une fois, il crée le monde où Adam a péché, vous
+voyez ce que ça veut dire : il crée ce compossible là. Il crée l’ensemble du compossible. Il crée le
+monde où Adam a péché, il ne crée pas Adam pécheur. Il crée Adam pécheur parce qu’il choisit
+le monde où Adam a péché. [60 :00] Mais, la singularité, l’événement, le péché d’Adam, je peux
+dire d’une certaine manière, préexistent à l’individu Adam. Il n’y a d’individu Adam péchant que
+parce que Dieu a choisi le monde qui a pour singularité le péché et que le péché va être inclus
+dans Adam. Mais il a fallu que Dieu choisisse ce monde et pas Adam particulièrement. Il a choisi
+le monde où Adam a péché.
+
+Donc, et dans toutes mes définitions-là de la singularité comme étant l’élément de l’événement,
+je n’ai rien supposé de l’individu. [Pause] [61 :00] D’où, comme je le disais, qu’est-ce qu’un
+individu ? Ah, la seule solution, encore une fois, c’est : je ne crois pas qu’il y ait de définition
+satisfaisante et même possible de l’individu qui est la chose la plus difficile à définir. Je ne crois
+pas qu’il y ait une définition même concevable si on ne se donne pas des singularités pré-
+
+                                                                                                  12
+
+individuelles. Il y a un livre important, et là aussi qui ne cite pas Leibniz mais qui me paraît
+d’une inspiration leibnizienne, un livre important sur l’individuation, donc, qui a paru il y a
+quelques années de [Gilbert] Simondon sur l’individuation, parle précisément de cette notion
+[62 :00] qu’il étudie d’un point de vue physique, de physique mathématique, les singularités préindividuelles. Alors on n’a pas besoin de reprendre les thèmes de Simondon là, puisqu’on a ceux
+de Leibniz qui nous suffisent. [Deleuze publie en 1966 un compte-rendu du livre de Simondon,
+L’individu et sa genèse physico-biologique (Paris : PUF, 1964) ; voir L’île déserte et d’autres
+textes (2002), pp. 120-124 ; Desert Islands and Other Texts (2004), pp. 186-189. La version
+complète du texte de Simondon paraîtra sous le titre L’Individuation à la lumière des notions de
+forme et d’information (Grenoble: Million, 2005).]
+
+S’il y a en effet des singularités pré-individuelles comme autant d’inflexions et d’inflexions
+d’inflexions constituant les états du monde, je peux dire [que] l’individu en découle. Qu’est-ce
+que ça sera, l’individu ? L’individu, encore une fois, ça sera, je dis, c’est une condensation de
+singularités. [63 :00] [Pause] J’appelle "événement" un ensemble de singularités prolongeables
+et convergentes ; j’appelle "individu" une condensation, concentration ou accumulation de
+singularités. [Pause] Est-ce que ça répond à quelque chose à la lettre chez Leibniz ? Oui.
+Réponse à M. [Pierre] Bayle : "Chaque monade est une concentration de l’univers." Or, encore
+une fois, qu’est-ce c’est que l’univers ? Vous ne devez pas oublier que l’univers, [64 :00] c’est la
+série infinie des états, c’est-à-dire des inflexions définissables comme singularités. Une
+accumulation de singularités, une condensation de singularités, c’est une monade, c’est-à-dire un
+sujet individuel.
+
+Seulement ça va nous poser des problèmes ; ça va nous poser même beaucoup de problèmes. Là
+il faut être très, très concret. Fini ou infini ? Si j’ai défini l’individu par une condensation de
+singularités, [est-ce qu’] il s’agit d’un nombre fini ou d’un nombre infini de singularités ? Moi, je
+réponds : pour une définition de l’individu, je réponds évidemment un nombre fini, [65 :00] un
+nombre fini de singularités. Pourquoi ? Ça paraît bizarre. On s’attendrait à … Vous vous
+rappelez ce que c’est qu’un individu, ce que c’est qu’une monade, peut-être. Une monade
+exprime le monde, c’est-à-dire elle comporte toutes les singularités compossibles. Mais – et ça
+va être essentiel pour son avoir aujourd’hui, si on y arrive – mais elle n’exprime clairement
+qu’une petite partie du monde. [66 :00] Et ça, c’est une idée tellement belle, et d’une certaine
+manière, c’est bien comme ça qu’un individu se distingue d’un autre individu. [Pause] Voyez ?
+Alors moi, j’exprime le monde entier depuis son début et jusqu’à sa fin. On verra, ça c’est des
+choses qu’on n’a pas encore vues, mais tout le passé, tout le futur de l’univers est inclus dans la
+monade puisque je suis une monade, je suis une notion individuelle. Donc, j’exprime le monde
+entier, seulement voilà, je n’exprime qu’une portion, je n’exprime clairement qu’une portion
+finie, [67 :00] [Pause] celle qui me concerne. Bien.
+
+Et sans doute, même je l’exprime différemment, je l’exprime… Même si vous prenez… Il y a
+des empiètements, et c’est pour ça que vous retrouverez à ce niveau vos constructions de séries
+convergentes. Par exemple… Mais ça sera des convergences et des divergences secondaires,
+c’est-à-dire qui seront à l’intérieur du même monde compossible. Je suppose deux personnes de
+la même génération. Moi, je peux dire que j’exprime parmi, dans ma région d’expression claire,
+il y a la guerre d’Espagne, [68 :00] Hitler, la dernière guerre. Bon. Mais déjà il faut le nuancer :
+la guerre d’Espagne, je l’exprime clairement, mais beaucoup moins clairement que quelqu’un qui
+l’a faite et qui s’est battu là-bas. Donc il y a déjà des degrés de clarté. [Pause] Bon. Donc, dans
+
+                                                                                                   13
+
+une même génération, vous, vous n’exprimez pas clairement la guerre d’Espagne. Ce n’est pas
+votre faute. Vous ne pouvez l’exprimer [69 :00] ou bien que par tradition familiale, ou bien par
+ouï-dire, que vous connaissez quelqu’un qui l’a faite, ou bien par ce que Leibniz appellera d’une
+très belle formule, par "connaissance aveugle", quand vous avez lu des livres sur la
+guerre d’Espagne. Ce n’est pas pareil. Car vous sentez bien la petite portion que j’exprime
+clairement, la petite portion du monde que j’exprime clairement, c’est celle qui a trait à mon
+corps.
+
+Oh yoo yoo yoo yoo, dirais-je. [Rires] Qu’est-ce que je viens de dire là puisque "corps", on n’en
+a encore jamais parlé ? Aussi, il faut renverser. Ce n’est pas parce que ça concerne mon corps
+que je l’exprime clairement. Mais je n’ai un corps que parce que [70 :00] j’ai ma petite région
+claire d’expression, et mon corps, c’est simplement ce qui dérivera de cette expression claire.
+C’est parce que, en tant que monade, en tant que notion individuelle, j’exprime le monde entier,
+mais je n’exprime clairement qu’une petite région de l’univers, que dès lors, j’ai un corps qui va
+être la condition matérielle sous laquelle j’exprime clairement cette région. Et je dirais, dès lors,
+ce que j’exprime clairement, la petite portion que j’exprime clairement, oui, ici ça concerne mon
+corps, mon corps étant la condition matérielle.
+
+Voyez, chacun de nous exprime clairement une petite région, celle qui concerne son corps, mais
+que ça concerne son corps, c’est une conséquence, ce n’est pas un principe puisque, encore une
+fois, nous, on ne sait pas du tout [71 :00] encore ce que c’est qu’un corps. Mais nous savons juste
+que – ce n’est pas étonnant – que les monades aient des corps, que chaque individu ait un corps.
+Chaque individu a un corps puisqu’il exprime clairement une région de l’univers et que son
+corps est la condition sous laquelle il exprime cette région, condition encore une fois matérielle.
+César exprime le Rubicon ; moi aussi, j’exprime le Rubicon, mais je ne l’exprime pas du tout
+distinct et clairement, pas du tout. Je l’exprime comme j’exprime l’ensemble infini de l’univers,
+oui, mais César, lui, lui, il exprime clairement le Rubicon en tant qu’il a mouillé ses pieds dans le
+Rubicon. Et sans doute, ce n’est pas une affaire de pieds, [Rires] [72 :00] et c’était une affaire
+d’esprit. Allait-il franchir le Rubicon, c’est-à-dire allait-il mettre les pieds dans le Rubicon ?
+C’est ce qu’on appelle le problème des événements volontaires. Bon.
+
+Alors, en fait, je suis en train de vous proposer une déduction à trois échelons. [Pause] Je vais de
+bas en haut, et pas de haut en bas. Dernier échelon : j’exprime clairement une partie du monde,
+une partie finie du monde, sous la condition de mon corps. [Pause] [73 :00] Au-dessus :
+pourquoi [est-ce que] j’ai un corps ? Il ne faut pas dire que j’exprime clairement parce que j’ai un
+corps ; il faut dire, j’ai un corps parce que j’exprime clairement une région finie de l’univers. Dès
+lors, cette région finie, je l’exprimerai, comme dit Leibniz, sous le rapport de mon corps, mais il
+ne faut surtout pas renverser l’ordre de causalité. C’est parce que vous exprimez clairement une
+petite région finie de l’univers que vous avez un corps. [Pause]
+
+Voyez quelle immensité de progrès s’ouvre devant vous ! Votre région d’expression claire, elle
+est finie. Et encore une fois, [74 :00] qu’est-ce que c’est votre tâche ? L’agrandir le plus que vous
+pouvez, l’agrandir le plus que vous pouvez. Je veux dire là, croyez, c’est traduire en termes
+leibniziens des problèmes extrêmement concrets, mais tels que Leibniz les énonce, c’est très
+concret : la meilleure âme, ça sera celle qui sera capable d’agrandir sa région d’expression claire.
+Quand je suis enfant, j’ai une petite expression claire, c’est-à-dire il est entendu que chaque
+
+                                                                                                       14
+
+monade finalement a une portion réduite d’expression claire, mais largement variable entre
+certaines limites.
+
+Quand on dit de quelqu’un, oh, qu’est-ce qu’il aurait pu, [75 :00] qu’est-ce qu’il n’aurait pas pu
+faire ? Il s’est gâché. Qu’est-ce qu’on veut dire quand on dit généralement les enfants, c’est
+mieux que les adultes ? Parce qu’avec les enfants, il y a toujours un peu d’espoir, [Rires] tandis
+qu’avec les adultes, on sent bien que c’est foutu. [Rires] Avec les enfants, vous comprenez, il y a
+encore… Ce n’est pas toujours vrai ; il y a des enfants, là, où on est sûr que ça ne va pas aller,
+[Rires] bon, et que leurs petites régions claires, eh bien, ça ne va pas s’agrandir fort. [Rires]
+Enfin si, ça va s’agrandir, sa portion de l’univers, mais quand on dit d’un adulte, il aurait pu
+quand même donner mieux, il aurait pu faire mieux, [Deleuze rigole] comme on dit, oui, il aurait
+pu faire mieux, ça veut dire ça [76 :00] [qu’] il n’a pas du tout agrandi…
+
+Il y a des gens, il y a des gens d’un âge très mûr qui ont gardé, mais, la portion d’expression
+claire d’un enfant de cinq ans. On les appelle "débiles", débiles. [Rires] Ils ont une petite région
+claire. Alors là, il faut la chercher, eh ? Et si on leur dit, je ne sais pas, la guerre d’Espagne, si on
+leur dit Hitler, si on leur dit le racisme, non, ça ne les concerne pas, ça ne les concerne pas. Ça
+veut dire, c’était comme s’ils étaient leibniziens, ils diraient : oh, pardon, non, ce n’est pas dans
+ma région claire, [Rires] ce n’est pas dans ce que j’exprime clairement. Sentez qu’il y a tout un
+problème là, eh ? [77 :00] Est-ce qu’il suffit de dire, Dieu, il m’a fait comme ça ? Dieu m’a fait
+crétin ? [Rires] Ou bien est-ce ça convient de dire, mais oh monade – parce qu’il faut appeler les
+gens monades – dis donc, la monade là-bas, tu aurais pu quand même agrandir ta région claire.
+
+Alors ça c’est le second [échelon]… Voyez, l’histoire du corps découle de ça. Mais dernier point
+encore : il ne faut pas croire que je suis un individu parce que j’ai une petite région claire car que
+j’aie une région claire dans mon expression de l’univers, c’est ma définition nominale. [78 :00]
+Dis-moi ce que tu exprimes clairement et qui ne se confond avec rien de ce qu’un autre individu
+exprime clairement. Voyez pourquoi Leibniz pourra dire [qu’] il n’y a pas deux individus
+semblables, bien que tout individu exprime l’univers et le même univers. Et quand il dit, mais ce
+n’est pas du même point de vue – on l’a vu, tout ça – ça signifie [que] deux individus n’ont pas la
+même région claire d’expression.
+
+Et je dis, pourquoi ? De même que je remontais d’avoir un corps à avoir une région d’expression
+claire, d’où vient cette région d’expression claire ? C’est-à-dire, quelle serait la définition réelle
+de l’individu, [79 :00] puisqu’avoir une région d’expression claire, ce n’est qu’une définition
+nominale ? Eh bien, je le tiens. On avance beaucoup, eh ? Quelle consolation ! La définition
+réelle de l’individu, c’est condensation de singularités. C’est parce que je suis… parce que
+chaque moi est une condensation de singularités [Pause] et d’un nombre fini de singularités qu’il
+exprime une portion d’univers claire, une portion finie d’univers, celle où ses singularités
+s’incarnent en événements. [Pause] [80 :00] C’est donc ça ma dernière définition de l’individu,
+un condensé de singularités pré-individuelles. [Pause]
+
+Mais ça va nous relancer des problèmes ; là, je ne voudrais pas vous fatiguer trop, alors je les cite
+juste. Il faut dès lors concevoir qu’une monade est construite autour d’un petit nombre de
+singularités. C’est ce que Leibniz appelle parfois les prédicats primitifs de la monade. Alors, je
+vous disais, bon, pour Adam -- Alors, bien sûr, j’entends bien ; il ne faut pas me chercher des
+difficultés [81 :00] qui n’en sont pas. Bien sûr, ce petit nombre de singularités finies, il peut être
+
+                                                                                                    15
+
+déployable à l’infini. En plus, on peut toujours faire passer de nouvelles inflexions en sens d’un
+ensemble infini. Ça n’empêche pas que ça compose une région finie de l’univers. Donc, ça, sur
+ce point, il faut me laisser tranquille, pas de difficultés.
+
+Et je disais, Adam, vous, vous prenez… faisons la liste ! Et pour chacun, je disais, faites votre
+liste, que tout ça vous sert à quelque chose dans votre vie même. Faites votre table… Leibniz, il
+pense en termes de tables ; ce n’est pas des fenêtres. S’il n’y a pas de fenêtres, c’est parce qu’il y
+a des tables chez Leibniz. La monade est sans porte, ni fenêtre, mais elle a beaucoup de tables,
+[Rires] forcément. C’est des tables où s’inscrit toute la Combinatoire, la Combinatoire. [82 :00]
+Alors, vous faites votre table de singularités. Je disais Adam, bon : premier homme, ça c’est une
+singularité d’Adam. C’est un prédicat primitif. Vivre dans un jardin, deuxième prédicat primitif,
+deuxième singularité. Avoir une femme formée de sa côte, troisième singularité. Quatrième
+singularité, dans le monde choisi par Dieu, c’est-à-dire la meilleure des mondes, il pèche. C’est
+un événement, et c’est une singularité. Je dirais que tout ça, ça fait partie et ça circonscrit la
+région claire exprimée par Adam qui, pourtant, exprime le monde entier, c’est-à-dire il exprime
+et ce qui arrivera à César et ce qui arrivera au Christ, [83 :00] mais il l’exprime obscurément et
+confusément. Qu’est-ce que ça veut dire exprimer obscurément et confusément ? Tout ça, c’est
+pour plus tard. C’est impossible à dire actuellement. Bien.
+
+Alors vous, il faut faire pareil. Qu’est-ce que c’est que vos singularités à vous, et aussi bien
+intérieures qu’extérieures ? Bien… Moi, je peux faire la liste des miennes. Il faudrait alors… oh,
+mais en gros, on peut toujours multiplier à l’infini, mais… Par exemple, si certains d’entre vous
+en ont encore… oh, tout dépend de leur importance. Peut-être vous ressentez venir le
+remarquable et le pas remarquable. Je veux dire, lorsque l’individu condense les singularités, à
+ce moment-là, les singularités prennent [84 :00] l’aspect du remarquable. Qu’est-ce qui est
+remarquable dans votre vie ? Il y a des vies qui se croient être formidables et pourtant il n’y a
+rien de remarquable. Il y a des vies qui sont extrêmement monotones et qui sont très, très
+remarquable. Il y a des vies agitées de véritables vides fous, et c’est des vies de la banalité
+même. Méfiez-vous de la notion du remarquable. Il ne suffit pas d’aller dans les îles pour
+atteindre à du remarquable. Il ne suffit pas de faire de grands voyages pour atteindre à du
+remarquable. Vous pouvez faire le monde entier et plus que le monde et la tour du monde, etc.,
+[85 :00] et votre portion d’univers claire reste aussi étroite que celle d’un cheval, [Rires] un
+cheval de fer, avec ses [inaudible à cause des rires]. En revanche, en revanche, vous pourrez ne
+pas bouger et atteindre à une zone, à une portion claire d’expression qui sera fantastique. Mais ce
+n’est pas une loi non plus. Il y a ceux qui bougent et qui en profitent pour étendre énormément
+leur portion. Il n’y a aucune loi. Chaque fois, c’est à vous de voir ce qui a été succès ou échec
+chez vous, lorsque vous avez fait naître du remarquable et de l’important, ne serait-ce que pour
+vous.
+
+Je dirai des choses très simples, alors passons au domaine amoureux. Bien, un grand amour,
+qu’est-ce que vous voulez ? C’est remarquable, ben oui. [86 :00] Le remarquable, ça ne veut pas
+dire… euh, méfiez-vous du pseudo-optimisme de Leibniz. Ça ne veut pas dire que ça tourne
+bien, [Rires] ça peut être remarquable. Les gens qui ne savent pas aimer, normalement ce n’est
+pas très brillant, les gens qui ne savent pas aimer. C’est un sens qui leur manque. Généralement,
+ils se croient malins ; comme disait Nietzsche, ils clignent de l’œil. Cligner de l’œil, ça veut dire
+amour, on ne le fait pas. Mais des gens à qui, à eux, on ne le fait pas, vous savez, il y a des gens
+qui ont une débilité certaine, eh ? Ce n’est pas à force de malice qu’on ne le leur fait pas. C’est
+
+                                                                                                    16
+
+parce qu’ils sont cons, c’est tout, eh ? [Rires] Faites donc votre table, les occasions manquées,
+tout ça à côté de quoi je suis passé. [Pause] [87 :00]
+
+Vous savez, quand on veut faire de la philosophie, on s’aperçoit très vite, et c’est vrai aussi du
+reste, que vrai/faux sont des formules dénuées de tout sens, et que ce n’est pas comme ça que les
+choses se passent, et que ce qui se passe dans les événements de la pensée, ce n’est pas vrai/faux,
+mais c’est remarquable ou ordinaire, important ou in-important. Et que c’est vrai même pour les
+sciences. Des axiomatiques, vous pouvez en faire autant que vous voulez, que vous ayez juste
+assez de technique. Vous faites une axiomatique formidable comme vous voulez, [Deleuze rit] la
+question, ce n’est pas de voir si elle est vraie ou fausse ; la question, c’est de voir si elle a
+[88 :00] le moindre intérêt. Et c’est comme ça que les mathématiciens parlent. Des théorèmes, si
+vous êtes assez bon mathématicien, vous pouvez en créer, vous pouvez inventer des théorèmes.
+Oh, on ne vous dira pas qu’il est faux ; on vous dira, monsieur, cela n’a strictement aucun intérêt.
+
+Alors vous pouvez toujours discuter, mais vous comprenez, c’est pour ça que les discussions sont
+tellement, sont tellement inutiles. Alors, ça c’est du temps perdu. C’est du temps perdu parce que
+comment voulez-vous discuter sur l’important et l’in-important, le remarquable ou l’ordinaire ?
+Vous comprenez, quand un prof corrige une dissertation… Je me souviens du temps du lycée,
+j’ai corrigé des dissertations. Eh bien, [89 :00] je ne me trouvais jamais devant des choses
+fausses ou si rarement que c’était une traite, quand je pouvais mettre "faux", [Rires] vous vous
+rendez compte ? Si quelqu’un disait, Aristote est disciple de Descartes, là je pouvais mettre
+"faux". [Rires] J’étais content, mais ça ne m’arrivait pas. Ça n’arrive pas. Qu’est-ce qui arrive ?
+Ce qui arrive, c’est qu’on lit des tonnes de papiers qui n’ont aucune importance ou aucun intérêt.
+Expliquer à quelqu’un que ce qu’il écrit n’a aucun intérêt, d’une part, est une insolence, donc il
+ne faut pas le faire, et en plus, il faut être très sûr de soi. Moi, je n’en sais rien si ça n’a pas un
+intérêt ; je ne vois pas l’intérêt, je me dis, il n’y a pas d’intérêt, mais peut-être ça prendra de
+l’intérêt dans trois ans [90 :00] quand le type aura un peu agrandi sa région. Mais, qu’est-ce que
+vous voulez dire ? Qu’est-ce que vous voulez dire ?
+
+Alors… ou bien dans une discussion, c’est épatant : on n’a pas la même région d’expression ; on
+n’est pas dans le même domaine. Alors évidemment, on peut discuter à l’infini, mais c’est du
+temps perdu. Ça met du brouillard dans le domaine de l’autre et inversement. Ce n’est pas la
+peine, pas la peine. C’est tellement difficile de penser seul que quand il faut s’y mettre à
+plusieurs, vous savez, ce n’est pas rien. Alors, il y a les cas formidables où, en effet, il y a les
+interférences, où il y a une série convergente à l’intérieur du monde. Deux types – j’ai vécu ça
+donc, je le vis toujours donc, mais je ne suis pas le seul. Travailler avec quelqu’un, ça veut dire,
+[91 :00] c’est deux régions très différentes, mais qu’elles ont… elles ont… comment on appelle
+ça… une zone commune, et qu’à partir de cette zone commune, ça va irradier dans les deux
+autres, et c’est des cas extrêmement complexes que tous les gens qui ont travaillé en commun…
+C’est ça, le travail d’équipe. Mais, à ce moment-là, on s’aperçoit qu’il ne s’agit pas de discuter.
+On ne discute pas ; on ne discute jamais, jamais. Il n’y a que les imbéciles qui discutent, ou bien
+s’il s’agit de passer une heure autour d’un Pernod, allez, on va discuter un coup. [Rires] Mais en
+tout cas, ça n’a rien à voir avec une activité qu’on pourrait appeler de près ou de loin
+philosophie. Ça a à voir avec l’activité qu’on peut appeler opinion, du type est-ce que tu crois
+que Dieu existe ?, etc. Mais enfin, [92 :00] ça n’a aucun intérêt, et aucune importance surtout.
+Voila ce que je voudrais vous faire sentir.
+
+                                                                                                   17
+
+Alors, qu’est-ce qui se passe là-dessus ? Il nous reste quand même pas mal de problèmes. C’est
+que… Prenez deux monades, deux sujets individuels. Ils peuvent avoir un petit nombre de
+singularités en commun. [Pause] Alors, est-ce que ça sera le même individu, ou est-ce que cela
+ne sera pas le même individu ? Et puis voilà ce qui nous tombe sur la tête : de quel droit nommer
+Adam deux individus, celui qui a péché, le premier homme qui a péché dans tel monde
+compossible, et celui qui n’aurait pas péché [93 :00] bien qu’il fût le premier homme, donc il
+mérite le nom Adam parce qu’il est le premier homme et qu’il vit dans le jardin ? Là-dessus, l’un
+des deux pèche, l’autre ne pèche pas. Pourquoi les nommer Adam tous les deux ? Est-ce que j’ai
+le droit de les nommer Adam tous les deux ? Dans sa correspondance [avec Leibniz], Arnauld,
+là, ne lâche pas Leibniz, et lui dit : mais, qu’est-ce que c’est que ça ? Pourquoi [est-ce que] vous
+l’appelez Adam, même celui qui n’a pas péché dans l’autre monde, par l’autre monde qui était
+possible ? Voyez, c’est un petit problème, ça. Ou Sextus dans le texte de la Théodicée que je
+vous ai lu, qui a un Sextus qui reste à Rome et prend le pouvoir ; il y a un autre Sextus qui se tire
+à Corinthe ; et un autre Sextus qui va cultiver son jardin : trois Sextus, [94 :00] mais au nom de
+quoi méritent-ils le même nom propre ? [Pause]
+
+Il faudrait suggérer ceci ; voilà ce que je voudrais dire : je veux dire que Leibniz, quand il pense
+le problème de l’individuation – [A un étudiant près de lui] Oh, je vais aller vite, eh ? C’est des
+détails, vous verrez, rapportez-vous à la correspondance Arnauld-Leibniz – d’abord, quand il
+pense le problème de l’individuation, Leibniz, il me semble ne pas prendre le chemin que
+j’indique. Je préviens pour que vous ne soyez pas en colère contre moi. Car il me semble poser
+un tout autre problème. Il dit, "Donc, si loin que vous alliez dans la spécification," c’est-à-dire
+dans la détermination [95 :00] des espèces de plus en plus petites, "si loin que vous alliez dans la
+spécification, vous n’atteindrez jamais à l’individu." L’individuation n’est pas une spécification,
+même ultime. "Si loin que vous alliez dans la spécification, vous aurez toujours sous l’espèce, si
+petite qu’elle soit, une infinité d’individus au moins possibles." Voyez, l’irréductibilité de
+l’individu à la spécification, ce qu’on exprime en disant l’individu n’est pas une dernière espèce,
+ou en Latin, l’individu n’est pas une ultima species. Comprenez ? [Pause]
+
+On dit que St. Thomas – mais là, bon – on dit que St. Thomas faisait une exception pour les
+anges, [96 :00] [Rires] pour les anges. Vous comprenez tout de suite pourquoi : les anges, ils ont
+un corps glorieux, c’est-à-dire qu’ils ne sont pas soumis aux accidents de la matière. Donc, pour
+les anges, il faut que l’individu soit ultima species ; il faut que leur dernière espèce soit en même
+temps leur individuation. Intéressant tout ça, eh ? [Pause] Et Leibniz, il le met beaucoup en joie,
+ce texte. Mais vous voyez, eh ? Eh ben, pour moi, c’est tout le monde. On est tous des anges. Si
+vous poussez assez loin la spécification, vous arriverez à l’individu. En d’autres termes,
+l’individu est infima species. [Pause] [97 :00]
+
+Je complète pour que vous appréciiez ce qu’il ya de complètement nouveau dans cette idée de
+Leibniz, l’individu comme infima species, l’individu comme dernière espèce. Si vous continuez
+à l’infini la spécification, vous arriverez à l’individu. L’individuation est une spécification
+continuée à l’infini. Pour que vous compreniez ce qu’il y a de profondément nouveau dans une
+telle thèse, je dis, voilà, il existe tout un courant de philosophie qu’on appelle nominalisme. Le
+nominalisme, c’est ceux qui disent qu’il n’y a que les individus et les concepts ne sont que des
+mots, des mots bien entendu qui sont leurs règles d’usage. Mais ce qui existe, [98 :00] seul existe
+dans les individus ou des choses particulières ; les concepts sont des mots, et le problème de la
+logique, c’est les règles d’usage de ces mots. Voyez ? Un tel nominalisme existait parfaitement –
+
+                                                                                                   18
+
+qui abonde aujourd’hui encore – existait parfaitement du temps de Leibniz. Par exemple, vous en
+trouvez des éléments chez un très grand philosophe qui s’appelle Hobbes.
+
+Eh bien, eh bien, eh bien, Leibniz dirait la même chose en partie ; il dirait, bien sûr, seuls les
+individus existent, seulement comprenez – et là, c’est très, très fort, la pensée de Leibniz – il
+n’est pas nominaliste pour ça, parce que l’idée de Leibniz, c’est que s’il n’y a que des individus
+[99 :00] comme le disent très bien les Nominalistes, c’est pour une raison contraire à celle que
+les Nominalistes croient, à savoir ce n’est pas parce que les concepts sont des mots. C’est parce
+que les concepts ont le pouvoir d’aller à l’infini, c’est-à-dire de se spécifier jusqu’à l’infini. En
+d’autres termes, c’est en raison de la puissance du concept qu’il n’y a que des individus. [Pause]
+Il y a de quoi faire pâlir de jalousie Hegel, [Rires] d’ailleurs qu’il ne lui est jamais arrivé à
+trouver une pareille vérité : c’est en vertu de la puissance du concept que le concept va jusqu’à
+l’individu, que l’individu, c’est le concept. On l’a vu avec la notion individuelle, avec cette idée
+de notion individuelle [100 :00] de Leibniz.
+
+Mais, du coup, je vous signale que – alors là je prends un tout petit peu de risque – c’est
+seulement en apparence que Leibniz parle du genre et de l’espèce. En fait, l’individu, ce n’est
+pas une spécification infiniment continuée. La vraie ligne – et on va voir pourquoi – la vraie
+ligne de Leibniz, encore une fois, c’est l’individu comme condensation de singularités. [Pause] Il
+ne parle pas du genre et puis de l’espèce, et puis de l’espèce et puis de la spécification infiniment
+continuée qui irait jusqu’à l’individu. Il parle des singularités pré-individuelles et définit
+l’individu comme condensé de singularités, [101 :00] comme une condensation de singularités,
+de singularités, encore une fois, prolongeables suivant des séries convergentes. Je dirais, dans ce
+sens – vous devriez comprendre ce que ça veut dire – je dirais, les singularités sont les réquisits
+de l’individu, une fois dit que, pour Leibniz, toute chose a des réquisits, c’est-à-dire des
+conditions. Les réquisits de l’individu – ça, c’est un contresens là aussi à ne pas faire -- les
+réquisits de l’individu, ce ne sont pas des genres et des espèces ; ce sont des singularités. Ah, si
+vous comprenez ça, vous comprenez tout.
+
+Mais du coup, ça va vous expliquer [102 :00] pourquoi Leibniz invoque les genres et les espèces
+car je dis, alors, qu’est-ce que c’est un genre et une espèce ? D’où [est-ce que] ça vient ? Là je
+me risque un peu, mais ça, oh, ça doit marcher. Ça ne peut pas ne pas marcher. Supposez que ces
+singularités, elles se condensent dans un individu à une condition, on l’a vu, c’est d’être
+prolongeables suivant des séries convergentes, d’être prolongeables au voisinage les unes des
+autres suivant des séries convergentes. C’est ça l’opération concrète qui va rendre possible la
+concentration. Supposez maintenant que par une abstraction de l’esprit, vous considériez les
+singularités séparées les unes des autres. Vous les coupez de leur prolongement. [103 :00] A ce
+moment-là, les singularités, je dirais, deviennent indéfinies. Au lieu de dire Adam qui a péché vit
+dans tel jardin, vous allez abstraire une singularité en la coupant de son prolongement. Vous
+allez faire, si vous voulez, une chirurgie de singularités. Vous extrayez une singularité pour la
+considérer en elle-même. A ce moment-là, elle devient une singularité indéfinie, UN jardin.
+[Pause] Bon, à ce moment-là, c’est un genre. Lorsque vous coupez les réquisits de leur
+prolongement, [104 :00] lorsque vous coupez les singularités de leurs séries convergentes, vous
+n’avez plus que des singularités indéfinies qui, dès lors, se présentent comme des concepts
+généraux. C’est cette opération qui va vous permettre de dire, UN Adam, un Adam dans UN
+jardin, est commun à ce monde où tel Adam pèche et à tel autre monde où Adam ne pèche pas, et
+on emploiera le même mot "Adam" au sens d’UN Adam. [Pause] Voyez, je dirais que ça
+
+                                                                                                    19
+
+permettrait – ça serait épatant -- du point de vue d’une logique du nom propre, ça permettrait de
+fixer les conditions sous lesquelles un nom propre peut être précédé d’un article indéfini.
+[105 :00] Ça serait beau ça, et on aurait l’ensemble de la théorie de l’individuation chez Leibniz.
+Bon.
+
+J’achève… j’achève, j’achève. Eh ben, sur quelles problèmes on reste ? Si je reprends
+l’ensemble de ce qu’on a fait depuis beaucoup, beaucoup de séances, vous vous rappelez qu’on a
+fait au niveau des propositions d’essence, des propositions de type mathématique, on a fait toutes
+sortes de considérations depuis les Identiques jusqu’aux définitions, jusqu’aux réquisits,
+[106 :00] et on a dit, la tâche des propositions d’essence, c’est fixer les réquisits d’un domaine.
+Et puis, on a pris les propositions d’existence, et on a vu l’inclusion dans les monades, c’est-àdire on a vu les notions individuelles, alors que de l’autre côté, on a vu des notions dites simples,
+soit la notion d’absolument simple, les Identiques, soit la notion de relativement simple, les
+Réquisits.
+
+Avec les propositions d’existence, on découvre un autre type de notion, les notions individuelles.
+Première question : où se fait la jonction des deux domaines ? Réponse : [107 :00] au niveau des
+Réquisits. La singularité appartient au domaine de l’existence, mais elle est justement réquisit de
+l’individu. [Pause] Donc, si il y a aussi un enchaînement coudé des propositions d’essence aux
+propositions d’existence, c’est par la notion de réquisit lorsque le réquisit, le réquisit de
+l’individu, c’est-à-dire, est une singularité, une singularité pré-individuelle. Je peux dire que – et
+ça je crois que c’est [Deleuze hésite] relativement, c’est très important pour la philosophie de
+Leibniz – je suppose que les deux domaines [108 :00] des essences et des existences se
+prolongent continument par les réquisits. Vous allez de réquisit en réquisit jusqu’aux réquisits
+constitués par les singularités.
+
+Voilà, voilà comment s’articulerait… Et un deuxième problème. Sur quoi restons-nous ? Alors
+ça, c’est un problème pour l’avenir. Nous restons dans un tête-à-tête, un prodigieux tête-à-tête
+entre deux sortes de notions, les notions individuelles d’existence ou monades, et les notions
+simples d’essence, à savoir les Identiques ou les Réquisits. Le rapport de l’un et de l’autre, le
+rapport de la notion individuelle aux notions simples [109 :00] s’appelle réflexion. Il appartient à
+la monade de réfléchir et, [en] réfléchissant, de penser des notions simples, elle qui est une
+notion individuelle. Mais penser des notions simples, ce n’est pas simplement les penser ; c’est
+faire les Combinatoires, c’est remplir les tables, etc. C’est faire la science. A quelle condition ? A
+condition que la monade est sus-élevée à une région claire d’expression suffisamment grande
+pour qu’elle comprenne ce que veut dire notion simple.
+
+Et les animaux ne savent pas ce que c’est qu’une notion simple. Leur région d’expression claire
+est si petite, si petite, [110 :00] et beaucoup de gens parmi les humains n’ont aucune idée et
+n’entreront jamais dans ce tête-à-tête. Donc ce sera notre tâche : quel est ce rapport désigné par
+la réflexion entre les notions individuelles et les notions simples ? Il y a une solution que nous
+devons exclure, quoi que ce soit, je crois, d’une des plus grands commentateurs de Leibniz.
+Guéroult suggérait que dans ce problème extrêmement compliqué où les textes de Leibniz
+semblent très rares, on pouvait dire qu’au fond de chaque monade, au fond de chaque notion
+individuelle là, il y aurait une notion simple. Moi, je crois que Guéroult n’y croyait absolument
+pas lui-même à cette solution [111 :00] qui finalement… bon, peu importe. En tout cas, pour
+nous, on voit pourquoi elle est impossible puisque nous avons mis au fond de chaque monade
+
+                                                                                                      20
+
+quelque chose d’autre. Nous avons mis au fond de chaque monade un nombre déterminé ou
+déterminable de singularités. Or, les notions simples ne sont pas des singularités. Ce sont des
+Identiques. Donc cette solution, on n’en pourra pas.
+
+Je tiens plus à l’idée, alors qui est une autre réponse à ce problème, qu’il y a un rapport entre les
+notions individuelles et les notions simples dans la mesure où les notions simples organisent les
+Réquisits de domaines [Pause] [112 :00] et que l’individu commence avec ses propres Réquisits
+que sont les singularités. Il y a donc développement continu qui nous fait passer des notions
+simples aux notions individuelles et qui nous fait passer sous la forme suivante : il y a notion
+individuelle quand les Réquisits sont les singularités. [Pause] Eh bien, on a fait un grand bout !
+
+Mais alors, qu’est-ce qui surgit ? Un problème évidemment ; il est dans toutes vos têtes ! Il est
+sur vos lèvres ! Bon, tout ça, c’est très bien mais alors, quoi, les monades qui contiennent le
+monde, et Dieu a choisi le monde où Adam pèche, et le péché est inclus dans Adam [113 :00]
+puisque Adam exprime le monde, et que le péché est dans sa région claire, mais est-ce qu’on
+peut être si mal constitué pour avoir dans sa région claire quelque chose d’aussi mal que le
+péché ? Et bien plus, est-ce qu’on est libre ? Qu’est-ce que ça veut dire ? S’il y a inclusion du
+prédicat dans le sujet, si franchir le Rubicon est inclus dans César, si péché est inclus dans la
+notion individuelle d’Adam, on a beau me dire, "bien entendu, dans ce monde compossible, pas
+dans un autre", le fait est que dans ce monde, Dieu a fait passer à l’existence [que] le péché est
+un prédicat compris dans la monade Adam ; franchir le Rubicon est compris dans la monade
+César. Comme le dit Leibniz, [114 :00] s’il n’avait pas franchi le Rubicon, ça aurait été un autre
+César. Bon, c’est-à-dire, on reviendrait à notre hypothèse du nom propre indéfini, mais ce Césarlà, il devait franchir le Rubicon. Cet Adam-là, il devait pécher. Vous, vous deviez faire toutes les
+horreurs que vous avec faites, [Rires] moi, tout le bien que je n’ai cessé de faire. [Rires] C’est un
+exemple ; vous le corrigez de vous-mêmes. [Rires] Eh bien, oui, qu’est-ce que c’est que ça ?
+Qu’est-ce que c’est ?
+
+Mais ce que je voudrais dire, si vous ne vous êtes pas trop fatigués, ce que je voudrais dire, c’est
+que Leibniz me paraît un des plus extraordinaires philosophes de la liberté, [115 :00] et que
+pourtant, et que pourtant, ça semblait partir mal. L’inclusion, comprenez, l’inclusion du prédicat
+dans le sujet individuel semble tout à fait interdire la liberté au point que la liberté semble
+supprimée par Leibniz encore plus que par Spinoza, dont on dit qu’il la supprimait.
+
+Eh bien, qu’est-ce qui va se passer chez Leibniz quand il consent à traiter, car il est tellement
+malicieux, vous savez, qu’il passe son temps à dire, mais je vais vous parler du problème de la
+liberté ; je vais vous montrer comment je la sauve, moi. Et on s’aperçoit avec stupeur qu’il est en
+train de nous parler, il a l’air de nous parler de notre liberté, c’est-à-dire de ce qui nous intéresse,
+[tandis] qu’il passe son temps à nous parler de la liberté de Dieu. Alors, on a envie de dire,
+[116 :00] bon d’accord, que Dieu soit libre, ça va nous poser déjà des problèmes. Est-ce que
+Dieu est libre, et en quel sens [est-ce qu’] il est libre ? Vous voyez pourquoi. Dieu était libre
+parce que Dieu choisit entre des mondes dont chacun est compossible, mais qu’ils sont
+incompossibles les uns avec les autres. Alors, on dit, ben oui alors, il est soumis aux lois
+d’incompossibilité. Non, puisque les lois d’incompossibilité, c’est lui qui les avait faites. Donc,
+ça va bien pour Dieu ; ce n’est pas tellement compliqué, la liberté de Dieu. Mais, la nôtre ! En
+quel sens César est-il libre de franchir le Rubicon ? En quel sens Sextus est-il libre de violer
+Lucrèce ? Çà, c’est un vrai problème.
+
+                                                                                                   21
+
+Or, à ma connaissance, il y a énormément de textes de Leibniz sur la liberté, [117 :00] mais il y
+en a très peu qui ne débitent pas sur la liberté de Dieu. Il nous dit une chose très simple, Leibniz ;
+il nous dit : vous comprenez, que 2 et 2 ne fassent pas 4, ça c’est impossible. En d’autres termes,
+que 2 et 2 fassent 4, c’est nécessaire. Mais, qu’Adam pèche – voilà le vocabulaire ; j’essaie de
+fixer de la terminologie – mais qu’Adam pèche ou que Sextus viole Lucrèce ou que César
+franchisse le Rubicon, ça n’est pas nécessaire, seulement c’est certain et assuré. [Rires] Alors il
+dit – il faut faire attention – ce n’est pas une nécessité mathématique ; c’est une certitude morale.
+Voyez pourquoi [c’est] une certitude morale, puisque c’est le meilleur des mondes possibles,
+[118 :00] mais dont je retiens, il est certain qu’Adam pèche, a péché, et pèchera. Avant le péché,
+il est certain qu’Adam pèchera. Il est certain que… Est-ce que ça suffit de dire, est-ce que
+distinguer la certitude et la nécessité suffit pour assurer notre liberté ? A mon avis, à première
+vue, ça suffit pour sauver la liberté de Dieu. Ça ne suffit pas à sauver notre liberté. Et pourtant je
+vous dis Leibniz est sans doute le philosophe qui a fait une philosophie de la liberté tellement
+extraordinaire qu’elle est pleinement satisfaisante pour nous tous, mais que là aussi, il me
+semble, elle n’a pas été, elle n’a pas été vue.
+
+Et je ne vois que deux textes fondamentaux sur… [119 :00] où, là, il ne recule plus : le premier,
+c’est la cinquième lettre à Clarke – Clarke était un disciple anglais de Newton – il y a eu un
+échange de lettres Clarke-Leibniz extrêmement désagréable, très tendu, parce qu’il y avait un tel
+règlement de comptes entre Newton et Leibniz, très, très tendu, mais c’est dans le dernier écrit de
+Leibniz à Clarke que Leibniz nous dit des choses extraordinaires sur la liberté lui-même. [En se
+référant à la fondation d’une phénoménologie des motifs, Deleuze cite les deux textes signalés
+ici, Le Pli, p. 94 ; The Fold, p. 152, note 5] Et d’autre part, autre texte plus long, Nouveaux essais
+sur l’entendement humain, livre 2, chapitre 21, qui fait partie des plus grands textes, … ces deux
+textes font partie des plus grands textes de la philosophie sur la liberté humaine. Bien. [120 :00]
+
+Alors, là-dessus, je vous lance une question : moi, je veux bien commencer. Si vous n’en pouvez
+plus, ce n’est pas la peine, pas la peine. Si vous n’en pouvez plus, ceux qui n’en peuvent plus
+peuvent sortir sans que… Je vous l’ai dit, vous m’avez mis dans un tel état que je ne peux pas
+vous lâcher, que je ne peux pas vous donner de récréation. Voilà. Alors, ceux qui en ont assez,
+qu’ils sortent, et ceux qui ont des questions à poser sur ce qu’on a fait aujourd’hui, ils restent.
+Ehhhh… ou bien, alors, je continue, je commence sur la liberté si vous vous sentez assez vif de
+l’esprit. Pardon de procéder comme ça. Qui souhaite qu’on continue sur la liberté ?... Oui, vous
+pouvez encore, ça ne va pas d’ailleurs durer très longtemps. Comme ça, [121 :00] je
+recommencerai après les vacances. [Pause]
+
+Ben, je vais vous dire, [Pause] je vais vous dire, Leibniz nous dit, à mon avis, deux choses ; c’est
+très simple : tout repose sur une étonnante psychologie du motif, du motif. Lorsque Leibniz se
+demande, mais qu’est-ce que c’est au juste qu’un motif ? Un motif, un motif d’agir, qu’est-ce
+que c’est un motif ? Il va nous dire deux choses dans les lettres à Clarke, dans la cinquième lettre
+[122 :00] à Clarke. Il dit, on a tort de croire et d’assimiler les motifs à des poids sur une balance.
+Pourquoi ? Parce que quand on compare les motifs, par exemple, vous voyez, j’y vais ou je n’y
+vais pas ? J’y vais ou je n’y vais pas ? Je le franchis ou je ne le franchis pas, le Rubicon ? Je
+prends le pouvoir ou je ne le prends pas, Sextus ? Ou bien, je téléphone à l’être aimé ou je ne
+téléphone pas ? Ça c’est un problème, eh ? Ou bien je sors et je vais au cinéma ou je ne vais pas
+au cinéma ? Je multiplie, mais… les cas.
+
+                                                                                                       22
+
+Eh bien, eh bien, eh bien, [123 :00] quand vous considérez les motifs comme des balances,
+comme des poids sur une balance, l’esprit ira du côté du poids que vous aurez découvert le plus
+fort. Simplement vous ne le sentez pas tout de suite. On dirait, dans une balance parfaite, en
+effet, il faut des conditions artificielles : il faut que les plateaux soient bien équilibrés, tout ça,
+pour poursuivre la métaphore ; il faut au besoin faire le vide, tout ça. Il faut que… oui, bon.
+Alors quand vous faites ça, c’est évident que vous objectivez les motifs. Vous faites du motif une
+représentation objective comme si le motif était quelque chose qui existait hors de l’esprit,
+[124 :00] et que l’esprit se représentait.
+
+En d’autres termes, la première erreur quant au problème de la liberté, c’est une opération que
+nous faisons toujours et qui consiste à objectiver le motif, comme si le motif était quelque chose,
+un quelque chose, une représentation distincte de l’âme alors que le motif est purement et
+simplement un acte de l’âme et qu’il n’y a pas le motif et l’âme. Il y a l’âme qui se projette dans
+un motif. C’est très proche d’une phénoménologie ; c’est une phénoménologie du motif. Voilà la
+première illusion à ne pas faire, [125 :00] à ne pas avoir.
+
+Deuxième illusion : lorsque vous comparez les motifs à des poids et que vous avez – je ne sais
+plus quoi, je ne sais plus ce que je dis – et que vous les avez objectivés, vous complétez ça avec
+une deuxième erreur, à savoir vous devez les dédoubler, en effet, puisque vous devez invoquer
+les motifs pour choisir un tel motif. Très, très intelligent ce qu’il dit là. Vous devez distinguer le
+motif, d’une part, et d’autre part, les inclinations, dit-il, les inclinations qui vous font préférer tel
+motif à tel autre. Donc, à la fois, vous objectivez le motif et, ayant perdu la subjectivité, vous le
+dédoublez en motif objectif et inclination subjective. [126 :00] [Pause]
+
+Voilà la double critique. Là-dessus il va nous raconter sa vision, sa splendide vision du motif. Il
+est cinq heures du soir, non, il est midi moins sept, et je me dis, ah tiens, j’ai envie d’aller au
+café, et vous voyez mon drame, c’est les deux motifs, donc, on pourrait croire que ce sont des
+poids dans une balance : continué-je à faire mon cours, ou vais-je au café ? Je dis ça d’autant
+plus légèrement que je ne vais plus jamais aux cafés, [Rires] [127 :00] alors ne croyez pas que ce
+soit un exemple vivant. C’est un exemple abstrait. Ou bien, certains d’entre vous qui sont là, estce que je reste ou est-ce que je me tire ? Bon.
+
+Alors, Leibniz, il dit, si vous objectivez le motif, d’abord, vous allez croire que vous regardez la
+première fois – admirez ! – vous regardez la première fois vos deux motifs : aller au café, rester
+au travail. Bon. Et puis, vous abandonnez un instant ; vous vous donnez le temps de réflexion. Et
+vous revenez à vos deux motifs. Quand vous avez objectivé vos deux motifs, [128 :00] vous avez
+l’impression qu’ils n’ont pas changé, eh ? Simplement vous vous dites que la réflexion va vous
+faire découvrir un quelque chose de caché que vous n’aviez pas vu la première fois dans le motif.
+En d’autres termes, vous vous donnez la présentation suivante : [Deleuze va au tableau, plus loin
+du micro, d’où une certaine difficulté d’écoute] A et B, donc vos motifs objectivés. Vous êtes là,
+et première opération, vous les regardez bien. Deuxième opération, vous n’en pouvez plus ;
+[Rires] vous passez à autre chose, vous faites le vide, et vous revenez à vos motifs, et parce que
+vous les avez objectivés, [129 :00] vous croyez qu’ils n’ont pas changé, eh, [Deleuze reprend sa
+place] que c’est toujours A et B. Et remarquez que c’est bien forcé en fonction de votre foutu
+schéma linéaire. [Pause] Mais ce n’est pas ça du tout.
+
+                                                                                                      23
+
+Qu’est-ce que c’est en vérité ? [Pause ; Deleuze revient au tableau] C’est que, entre la première
+délibération et la seconde, il y a eu du temps, et les motifs, ils ont été complètement pris dans le
+temps, si bien que votre vrai schéma, c’est quoi ? Première délibération [Deleuze dessine au
+tableau] A, B, [130 :00], deuxième délibération, A prime, B prime. [Deleuze reprend sa place]
+De la première à la seconde délibération, A est devenu A prime, B est devenu B prime. En
+d’autres termes, vos motifs ont duré, et [en] durant, ils ont changé. Qu’est-ce que j’ai fait ?
+Qu’est-ce qu’il y a comme différence entre mes deux schémas ? Je dirais que j’ai un schéma
+linéaire, et j’ai un schéma curviligne. Je n’ai pas besoin de vous faire remarquer que mon second
+schéma, c’est une inflexion. [Pause] Leibniz le confirmera en disant, [131 :00] l’âme est inclinée
+sans être nécessitée. Mais "incliné", comment ne pas savourer ce mot pour nous qui se voit
+traînant depuis le début avec les histoires d’inflexion ? L’inclinaison de l’âme ou son inclination,
+c’est l’inflexion qu’elle parcourt dans les événements dits volontaires. Donc mes deux motifs ne
+sont pas du tout restés immobiles. Ils ont suivi l’inflexion.
+
+Passons à l’autre aspect qui va être tout à fait confirmé, puis on en aura fini. Pas plus que les
+mobiles, les motifs ne restaient identiques à eux-mêmes d’une délibération à une autre, [132 :00]
+pas plus ils ne se dédoublaient en motif objectif et inclinaison car l’inclinaison était le
+mouvement même du motif. Et qu’est-ce que c’est ce mouvement de ce motif ? Mais, c’est
+évident. C’est qu’un motif n’est pas un abstrait. Je l’ai fait d’abord abstrait à force de le traiter
+comme un objet indépendant de l’âme. Première erreur. Mais j’en ai fait aussi un abstrait parce
+que je l’ai complètement coupé, de quoi ? Je dirais, de la nuée, du nuage qui l’entoure. Est-ce
+que vous retrouvez le thème, à quel point tout ça est cohérent ? Vous sentez déjà que le motif est
+une singularité qui, comme toute singularité, est entourée d’un nuage [133 :00] suivant lequel
+elle va être prolongeable ou pas.
+
+Et qu’est-ce que ce nuage ? J’ai envie d’aller au café. Bon. Mais, avoir envie d’aller au café,
+c’est une abstraction. Mais Leibniz, il fait, c’est très, très concret ce qu’il dit. Vous savez, il dit,
+avoir envie d’aller à un café – à l’auberge, on disait dans ce temps-là… Mais prends le cas d’un
+alcoolique. Mais il faut voir, ce n’est pas simplement l’alcool ; c’est tout un poudroiement, c’est
+toute une poussière de petits trucs : l’odeur de là-bas que j’aime, si je suis… -- c’est l’alcoolique
+qui parle – les copains qu’il va trouver, la rumeur du café, [134 :00] la rumeur du café qui est
+sans égal, qui ne ressemble à aucune autre rumeur, tout un ensemble infini de petites
+sollicitations, si bien que si vous ne tenez pas compte de ça quand vous parlez à un alcoolique, il
+ne faut pas lui parler. Il ne faut pas lui dire, écoute, eh ? Empêche-toi de boire un verre. [Rires]
+Ce n’est pas du tout boire un verre ; c’est… les gens, ils ne comprennent rien. C’est un monde,
+c’est un monde.
+
+Alors ce monde, on ne peut pas y mener une vie sauf que l’alcoolique qui l’aime. Il vit dans cette
+rumeur du café. Il vit dans cette poussière-là dans laquelle on marche, moitié vomissures, moitié
+crachats, moitié mégots, cendres, cendres et brouillard, [135 :00] et les plis des cendres et des
+brouillards, tout ça, les voix à travers les plis, il aperçoit son verre, ah bon, d’accord. [Rires]
+Mais boire chez soi, c’est tout à fait autre chose. C’est un autre cas, boire chez soi. Cela n’a
+aucun rapport avec l’alcoolique du café. Aucun rapport, et puis au besoin tout dépend des cafés
+qu’il fréquente ; il y a des putains du coin, ça, alors comment tu vas, et tout ça, c’est formidable,
+c’est… On se sent… On se sent, enfin, pris dans une humanité chaleureuse. Bien, vous
+comprenez ? [Deleuze poursuit cette discussion du choix et les erreur qui le menace dans la
+séance suivante, le 24 février 1987, et il en parle aussi dans Le Pli, pp. 94-96]
+
+                                                                                                   24
+
+Alors qu’est-ce que ça veut dire ? Mais vous allez le compléter vous-mêmes. Ce n’est pas
+difficile. A chaque délibération, j’ai non seulement mes motifs changeants qui ne restent pas
+comme des poids dans la balance, mais auxquels s’agglutine [136 :00] toute une poussière de
+petites sollicitations, des deux côtés d’ailleurs, des deux côtés. A chaque délibération, qu’est-ce
+qui augmente ? L’amplitude, je dirais, l’amplitude de l’inflexion. C’est ça qui change,
+l’amplitude de l’inflexion.
+
+Qu’est-ce que c’est être libre ? C’est pousser vos motifs jusqu’à l’amplitude maximale dont vous
+êtes capables, c’est-à-dire leur faire conglomérer ou faire coaguler le maximum de petites
+sollicitations qui passent sous le nez. C’est ça qui va alimenter votre décision au point que vous
+décidez lorsque quoi ? [137 :00] Lorsque l’acte que vous choisissez exprime votre âme entière,
+au maximum de son amplitude. Et si vous choisissez l’activité misérable d’aller boire un verre au
+café, en tournant le dos à la philosophie, qu’est-ce qu’il faut dire ? Il faut dire que vous avez
+choisi avec toute votre âme à être misérable, [Rires] il faut dire que vous avez choisi d’après la
+portion claire du monde que vous exprimez. Voilà. Et si vous dites, non, non, je reste à lire
+Leibniz [Rires] – il ne faut pas croire que c’est une abstraction ; jamais une abstraction n’a eu la
+moindre chance devant quelque chose de concret, [138 :00] c’est également concret -- c’est que
+votre âme a une amplitude suffisante pour que – appelons-le le motif B, Leibniz – pour que du
+côté de B, cette amplitude sera au maximum tandis que, du côté de A, l’amplitude ne remplira
+pas du tout votre âme.
+
+Alors, c’est [une] affaire de votre âme. Adam pèche, oui ; Sextus va se saouler ; ou bien, je ne
+sais pas,, n’importe qui, quelqu’un va se saouler. L’acte est libre, en quelle mesure ? Dans la
+mesure où il exprime toute l’amplitude de l’âme [139 :00] au moment où elle fait l’acte. Alors
+vous pouvez toujours regretter qu’à ce moment-là, votre région – car ça arrive beaucoup – ce qui
+est terrible, c’est lorsque… c’est les variations journalières. Il y a une heure, par exemple, il y a
+une heure où le plus grand des philosophes se dit, ah, si j’allais retrouver Julot au café pour
+discuter un coup. Bien. Il y a des moments où son âme n’a que cette petite amplitude, et ça
+exprime son âme. A ce moment-là, il doit aller au café ; "doit" c’est triste à dire, mais… [Rires]
+[Pause] puisque c’est l’acte qui exprime l’amplitude de son âme à ce moment-là.
+
+Ou bien, alors, il y a une autre solution heureusement. [140 :00] Non, il ne doit pas. Il est
+probable qu’il va au café, mais il ne doit pas, il ne doit pas. Il n’avait qu’à gagner du temps. Il
+n’avait qu’à gagner du temps car toutes ces envies animées par les petites sollicitations dont nous
+ne somme pas conscients – vous sentez, c’est des sollicitations inconscientes qui nous traversent
+de partout, le souvenir, non, pas le souvenir, la rumeur que j’aime, le type de rumeur que j’aime,
+tout ça – eh bien, ça change beaucoup d’après l’étape de la journée. Par exemple, l’alcool, la
+drogue, toutes ces saletés-là, c’est, c’est comme à des heures de la journée, il y a des heures
+particulièrement dures. Si vous arrivez à passer le moment – je ne dis pas dans tous les cas
+[141 :00] mais pour l’alcool, c’est particulièrement net, son caractère périodique ; là, ça
+répondrait bien aux positions d’amplitude – si vous arrivez à gagner du temps, il faut gagner du
+temps avec soi-même.
+
+On est de tellement mauvaise foi, tellement crapuleux, qu’il faut ruser, eh ? Il faut ruser avec son
+âme. Si vous gagnez un peu de temps, bon, ça fera que là votre âme s’est ouverte à l’autre
+amplitude entre temps, et qu’il n’y a même plus de problème. Tu diras, ah bon, c’est trop tard ;
+j’aurais dû y aller avant. Cette méthode est infaillible. Quel que soit l’objet de votre décision à
+
+                                                                                                    25
+
+prendre, appliquez cette méthode de l’amplitude de l’âme. Ne regrettez jamais ce que vous avez
+fait à un moment où [142 :00] votre amplitude d’âme était particulièrement restreinte. Tant pis.
+Regrettez seulement de ne pas avoir une amplitude d’âme suffisante. Travaillez à augmenter
+l’amplitude de votre âme de quelque manière que ce soit. Je ne dis pas que seule la philosophie
+réussisse, mais il est certain que, par exemple… [Interruption de l’enregistrement] [142 :44]
+
+... amplitude nulle, même dans les cafés, même dans les cafés que je viens de décrire, il y a
+d’étranges et, d’une certaine manière, se lèvent d’étranges moments de générosité ou de
+compréhension, et presque parfois de beauté. D’autres fois, non… non. Tout ça, tout ça, c’est à
+vous de mener votre vie, mais menez-vous ou menez-la à la manière de Leibniz.
+
+Là-dessus, allez bien au café, [Pause] [143 :00] et je reprendrai ça après les vacances car peutêtre vous m’avez entendu : avez-vous été frappés de ceci, qu’un autre philosophe a repris les
+thèmes extrêmement voisins et pourtant on ne les rapproche pas d’habitude, et que cet autre
+philosophe, c’est Bergson, dans sa théorie de la liberté ?
+
+Bon…. Oo la la… Il est quelle heure ? … [Bruits divers ; question d’un étudiant sur les motifs et
+les mobiles] Leibniz les dit, mais ça revient au même, c’est motif et inclination. Les mobiles sont
+encore de l’ordre du motif tandis que le motif, c’est de l’ordre de l’inclination, si tu veux, c’est
+des petites perceptions et les motifs que distingue Leibniz, alors que les mobiles, ça se … [Fin de
+l’enregistrement] [2 :24 :04]

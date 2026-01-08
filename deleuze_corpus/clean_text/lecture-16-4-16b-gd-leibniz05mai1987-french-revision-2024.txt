@@ -1,0 +1,1273 @@
+1
+
+Gilles Deleuze
+
+Leibniz et le baroque: Les Prinicipes et la Liberté
+
+Séance 16, le 5 mai 1987 : Les Principes et la Liberté (11) -- La théorie de substance chez
+Aristote, Descartes et Leibniz
+
+Transcription, Charles J. Stivale
+
+[Cette séance semble commencer en medias res, mais Deleuze reprend évidemment la discussion
+où il l’avait laissée à la fin de la séance du 28 avril, notamment avec la théorie de la substance
+en considérant comment Leibniz la développe en répondant à la théorie proposée par
+Descartes.]
+
+Partie 1
+
+… et que, avec une grande souplesse, il [Leibniz] saute tout le temps d’un critère à l’autre. [Il
+est] inutile de dire que ces critères sont tout à fait cohérents. Je distinguerais pour mon compte un
+critère logique, [Pause] un critère épistémologique, un critère physique ou -- pour parler savant -
+- technique ou physicaliste, et un critère psychologique. [Voir la discussion de la théorie de la
+substance et la liste de critères qui s’y trouve (à laquelle Deleuze en ajoute un cinquième, un
+critère métaphysique) dans Le Pli, pp. 73-76 ; The Fold, pp. 54-56.]
+Alors, qu’est-ce qui complique la situation ? C’est que c’est à la fois – pour ça, c’est très, très
+subtile, tout ça ; il faut que vous soyez presque sensible… -- [Leibniz] veut à la fois faire quoi ?
+D’une part, [1 :00] à la fois il y a deux problèmes qui sont constamment, mènent les choses à
+porter de nouveaux critères de la substance en général et, en même temps, faire en sorte qu’au
+nom de ces nouveaux critères, apparaisse en toute évidence que l’étendue ne peut pas être une
+substance. [Pause] Et les deux problèmes sont très intriqués, vous comprenez ? Mais, d’autre
+part – [Pause ; on tend le grincement d’une porte qui gêne Deleuze] Qu’est-ce qui… ? [Un
+étudiant : C’est la porte de la salle d’à côté] Eh… Je pensais qu’il y avait une porte dans le mur
+même, et que… -- D’autre part, vous comprenez, [2 :00] il veut réactiver Aristote -- j’allais dire,
+ne serait-ce que pour, à la lettre, provoquer les Cartésiens -- il veut réactiver Aristote dans sa
+propre théorie de la substance, mais en même temps, garder contre Aristote certains acquis du
+Cartésianisme. [Le bruit de porte s’entend ; un grognement de Deleuze : Ce n’est pas possible,
+ça]
+
+Donc, on va essayer de se débrouiller là-dedans, et je vous disais, bon ben, ce dont il faut partir,
+c’est de l’acquis cartésien. Si vous voulez comprendre un peu ce que Descartes et comment
+Descartes a pu apparaître comme fondateur d’une logique nouvelle, je crois qu’il faut s’adresser
+moins [3 :00] aux textes explicites de Descartes, que aux conséquences de ce qu’on appelle les
+"petits Cartésiens" en ont tiré. Car tirer la logique d’une philosophie, c’est peut-être l’affaire des
+philosophes qui sont plutôt des commentateurs, et je vous disais, ils ont très bien vu. Ce que
+Descartes apporte, c’est une logique de la distinction. Qu’est-ce qu’il y a de nouveau dans une
+logique de la distinction ? C’est qu’elle rompt avec la logique aristotélicienne qui est --
+
+                                                                                                       2
+
+j’essayerai d’expliquer en quoi – qui est avant tout une logique de l’opposition. Si bien que –
+encore une fois, ça, je tiens beaucoup à ce point, ne serait-ce qu’il ne faut pas trop faire de la
+mauvaise histoire de la philosophie – il y a un schéma de l’histoire de la philosophie qui est que
+le dix-septième siècle ignore l’opposition, ignore l’opposition réelle, [4 :00] et c’est Kant qui la
+découvre dans le texte fameux, dans le petit texte qui est une merveille d’ailleurs, "l’Essai pour
+introduire les grandeurs négatives en philosophie", où il découvre et oppose les oppositions
+réelles qui ensuite amèneront tout le postkantisme, y compris Hegel, ça va de soi.
+
+Et je dis juste, non, ce n’est pas comme ça, ce n’est pas comme ça. Ce n’est pas comme si le dixseptième siècle avait ignoré l’opposition. Il n’ignore pas l’opposition. C’est en toute volonté, en
+toute conscience, qu’il rompt avec une logique de l’opposition pour y substituer une logique de
+la distinction. Et lorsque les Kantiens retrouveront l’opposition, ce ne sera évidemment pas là
+aussi un simple retour à tout Aristote. Ça sera sous une forme nouvelle, à savoir l’opposition
+infinie, [5 :00] ce qui n’existait pas chez Aristote où l’opposition est toujours finie. Donc, il faut
+être très prudent dans ces évaluations d’une évolution historique en philosophie.
+
+Eh bien, logique de la distinction chez Descartes, c’est ce que j’avais fait la dernière fois. On
+avait terminé sur ce point, et je veux juste le reprendre parce qu’il faut que vous le compreniez
+absolument, et que vous compreniez d’abord le principe suivant : la distinction, l’opération de
+l’esprit qui consiste à distinguer, ne porte pas sur les choses, mais sur les représentations. Toutes
+les distinctions logiques sont des distinctions qui concernent la représentation [6 :00] ou l’idée.
+Ça ne concerne pas les choses elles-mêmes. Il y aura, bien sûr, des conséquences pour les choses,
+mais aucune distinction ne porte sur les choses. Elle porte sur les idées que nous avons des
+choses en fonction de quoi Descartes nous dit, il y a trois petites distinctions : la distinction de
+raison, la distinction modale, et la distinction réelle. Et comprenez -- là aussi, ça serait un
+contresens catastrophique – que même la distinction réelle porte sur les idées, et ne porte que sur
+les idées.
+
+En quel sens ? Vous vous rappelez l’ordre des trois distinctions ; c’est là-dessus, encore une fois,
+qu’on a terminé la dernière fois. Il y a distinction réelle entre [7 :00] deux choses – j’ai l’air de
+me contredire, et vous allez voir que non – il y a distinction réelle entre deux choses lorsque je
+peux me faire une idée de l’une – lorsque je me fais une idée de l’une – [Pause] tout en niant ce
+qui appartient à l’autre. [Pause] En d’autres termes, deux choses sont réellement distinctes
+lorsque je conçois l’une non seulement indépendamment de l’autre parce que indépendamment
+de l’autre, je peux, par exemple, concevoir un triangle sans concevoir que ses deux, [8 :00] que
+ces trois angles sont égaux à deux droits. Mais ce que je ne peux pas faire, c’est concevoir un
+triangle en niant que ces trois angles sont égaux à deux droits. Donc, il n’y a pas distinction
+réelle. Mais, selon Descartes, je peux concevoir la pensée en niant tout ce qui appartient, en niant
+de la pensée tout ce qui appartient à l’étendue. Je dirais que la pensée et l’étendue sont
+réellement distinctes, c’est-à-dire conçues comme réellement distinctes. C’est strictement
+synonyme.
+
+Pour aller plus vite, on dit que deux choses sont réellement distinctes, mais que vous devez
+comprendre que ce sont leurs idées qui sont réellement distinctes, c’est-à-dire les deux choses
+sont conçues comme réellement distinctes [9 :00] au point que le raisonnement cartésien
+d’habitude est celui-ci – et il nous importait beaucoup pour Leibniz ; oui, aujourd’hui, il faudrait
+concevoir ça comme une leçon un peu pénible, car une leçon, là encore, de terminologie –
+
+                                                                                                        3
+
+Descartes nous dit exactement, deux choses qui sont réellement distinctes sont séparables, c’està-dire deux choses conçues comme réellement distinctes peuvent être séparées. Maintenant, estce qu’elles sont séparées ? Pour le moment, on n’en sait rien. Est-ce qu’elles sont effectivement
+séparées ? Je dirais, est-ce qu’elles sont vraiment distinguées, en tant que choses ? On n’en sait
+rien.
+
+Prenez le cheminement des Méditations chez Descartes. [10 :00] Il va montrer dès le début des
+Méditations, ou du moins assez vite, il va montrer que la pensée est conçue comme réellement
+distincte de l’étendue, c’est-à-dire que je peux concevoir la pensée en niant tout ce qui appartient
+à l’étendue. Donc, la pensée et l’étendue sont conçues comme réellement distinctes, mais comme
+il le dit lui-même, il ne peut pas en tirer encore la conclusion que la pensée et l’étendue soient
+vraiment distinguées, il ne peut pas en tirer la conclusion que la pensée et l’étendue soient
+séparées. Et comme il dit, peut-être c’est le corps qui pense ; ce n’est pas son affaire à ce niveau.
+Son affaire à ce niveau, c’est montrer que la pensée [11 :00] peut être conçue en niant tout ce qui
+appartient à l’étendue, rien de plus. Elles sont donc séparables, mais pas forcément séparées.
+
+Pour conclure que ce sont deux substances séparées dans les choses – jusqu’à là il a juste conclu
+que c’était des attributs, que c’était des attributs distincts -- pour conclure que ce sont deux
+substances séparées dans les choses, il lui faudra un pas de plus, à savoir que Dieu se conforme
+nécessairement aux idées distinctes qu’il nous donne. Voyez l’argument cartésien qui est très
+simple : c’est que si Dieu nous donnait des idées distinctes et quand même ne s’y conformait pas,
+c’est-à-dire s’il rendait non séparé ce qu’il nous fait penser comme séparable, [12 :00] ce serait
+un Dieu menteur, il nous tromperait. Or il est bien connu que Dieu ne peut pas nous tromper,
+donc, bien.
+
+Mais, peu importe cette fin d’argument. Ce qui m’intéresse, c’est que la distinction réelle se
+définit au niveau de la représentation. Encore une fois, deux choses sont réellement distinctes
+lorsque vous pouvez penser l’une en niant tout ce qui appartient à l’autre, un point, c’est tout,
+lorsque vous pouvez penser, c’est-à-dire lorsque vous vous faites de l’une une idée [Pause] qui
+nie tout ce qui appartient à l’autre. [Pause] Voilà. [Pause] Je dirais, il y a distinction réelle
+lorsque vous pensez a sans b, et b sans a. Dès lors, il y a distinction réelle entre a et b. [Pause]
+[13 :00]
+
+Il y a distinction modale lorsque vous pouvez penser a sans b, mais vous ne pouvez pas penser b
+sans a. Voyez, la distinction modale, c’est une distinction unilatérale. [Pause] Exemple :
+l’étendue et le mouvement. Selon Descartes, je ne peux pas penser le mouvement sans une
+étendue ; en revanche, je peux très bien penser une étendue immobile sans mouvement. [Pause]
+
+Distinction de raison, enfin, qui concerne également, ou ce qu’on appelle autrement abstraction,
+la distinction de raison, c’est abstraction. [14 :00] Or l’abstraction est une opération qui concerne
+la représentation, qui concerne les idées, qui ne concerne pas les choses. C’est lorsque vous ne
+pouvez pas penser a sans penser confusément b, sans penser au moins confusément b, et vous ne
+pouvez pas penser b sans penser au moins confusément a. Je dirais qu’entre le corps et la pensée,
+entre le corps et l’esprit, il y a distinction réelle ; entre le corps et le mouvement, il y a distinction
+modale ; entre le corps et l’étendue, il y distinction de raison. [15 :00] Pourquoi ? Parce que je ne
+peux pas penser à un corps, c’est-à-dire je ne peux pas former l’idée d’un corps, sans penser au
+moins confusément à de l’étendue, et je ne peux pas penser étendue sans penser au moins
+
+                                                                                                       4
+
+confusément à un corps quelconque. Vous me direz, si, je peux peut-être penser une étendue sans
+corps ; Descartes pense que non. Si confusément que ce soit, vous avez l’image d’un corps quand
+vous pensez, donc, même si les limites de ce corps sont très vagues, etc. Mais ça, supposons ; il
+ne s’agit pas de discuter. Bien.
+
+Alors, comme tout dépend de ça, est-ce que c’est bien compris, ça ? Pas de… questions ?
+[Pause] [16 :00] S’il vous arrive un jour de lire Descartes, et pour ceux qui l’ont lu, évidemment,
+c’est un contresens catastrophique de penser que quand il parle de deux choses réellement
+distinctes, il veut parler de deux choses vraiment distinguées. Il arrive que ça coïncide, mais le
+vraiment distingué a de tout autres critères que le réellement distinct. Bon alors, là-dessus,
+allons-y.
+
+J’interroge le critère que l’on pourrait appeler "logique de la substance". Eh bien, chez Descartes,
+il y a bien un critère logique de la substance, [Pause] et Descartes le donne, il le donne dans des
+textes de réflexion. Je vous ai déjà dit que les Méditations ne comporte que des objections qu’on
+fait à Descartes, [17 :00] qu’un certain nombre de penseurs de l’époque font à Descartes, et les
+réponses de Descartes à ces objections. C’est beaucoup plus dans les objections et les réponses
+que l’on trouve ces discussions sur la logique supposée par les Méditations de Descartes. Et au
+moins, il me semble, il me semble que tous les textes de Descartes sont convergents. Le critère
+de la substance, c’est la simplicité. En d’autres termes, une substance, le critère logique, ça veut
+dire que c’est un critère de pensée. [Pause] La substance, c’est quelque chose de simple, qui est
+pensé comme simple. Qu’est-ce que ça veut dire "être pensé comme simple" ? Et en effet, il
+identifiera très volontiers… [18 :00]
+
+-- [Le bruit de la porte d’à côté continue] Pourquoi est-ce que ça ne faisait pas ça les autres fois ?
+[Des étudiants offrent des réponses] Ça le faisait de temps en temps ? [Un étudiant : Oui.] Alors
+pourquoi [est-ce que] je ne le saisissais pas ? [L’étudiant : Ça empire.] Ah, ah… [Rires] Alors ça
+va être très bon pour nous pour Leibniz. Oh, retenez cet exemple ! Retenez cet exemple ! On va
+pouvoir en tirer partie ; ça va vous rendre tout clair. Mais hélas pour Descartes, ça ne nous sert
+en rien parce que pour Descartes, peu de choses servent. [Rires] – Alors, c’est la simplicité…
+[Un très bref saut dans l’enregistrement]
+
+… et vous êtes déjà armés pour comprendre. Ça ne veut pas dire sans éléments ; ça veut dire
+quelque chose est simple lorsque ses éléments éventuels [Pause] ne sont distingués que par une
+distinction de raison, [19 :00] c’est-à-dire ne sont distingués ni par une distinction modale, ni par
+une distinction … [Un étudiant : réelle] réelle, mais par une distinction de raison, c’est-à-dire par
+abstraction. Quelque chose est simple lorsque ses éléments sont distingués par abstraction.
+Exemple : le corps et l’étendue. [Pause] Exemple : l’esprit et la pensée. [Pause] Vous voyez tout
+de suite la conséquence. Là, je saute parce que la conséquence éclate tout de suite. Je cherche
+uniquement à tirer une espèce de logique de la théorie de la substance chez Descartes, et [une]
+logique très simple.
+
+Je dirais, [20 :00] chez Descartes, dès lors, la substance est nécessairement déterminée par un
+attribut qui sera nommé l’attribut essentiel. Pourquoi est-ce que la substance est déterminée par
+l’attribut essentiel ? Précisément parce qu’elle n’a avec cet attribut qu’une distinction de raison.
+[Pause] L’attribut essentiel est la détermination de la substance comme substance simple,
+comme notion simple. [Pause] Voilà. Pourquoi est-ce que l’étendue est une substance ? Parce
+
+                                                                                                         5
+
+que l’étendue est, en fait, l’attribut essentiel du corps. Pourquoi est-ce qu’il est l’attribut essentiel
+du corps ? [21 :00] Il est l’attribut essentiel du corps parce qu’il n’a avec le corps qu’une
+distinction de raison. Donc, il forme avec le corps une notion simple. Dès lors, c’est une
+substance, la substance étendue. [Pause]
+
+Ça a l’air très simple, [mais] ça ne va pas de soi. Il faut encore avoir constitué une logique des
+distinctions, et une logique des distinctions, ça ne va pas du tout de soi. Encore une fois, ça c’est
+proprement cartésien, la logique des distinctions. Non pas avant ; tout le Moyen Age s’est servi
+des notions de distinction, mais ce n’était pas au nom d’une logique des distinctions. Et en effet,
+chez Descartes, elle ne fait qu’une, la constitution d’une logique des distinctions et l’épuration
+des distinctions réduites à trois. [Pause] [22 :00] Bien.
+
+Là-dessus, ce n’est pas Descartes donc. Nous ne retenons de Descartes que ce qui nous est
+nécessaire pour Leibniz. Si on lit Leibniz, on s’aperçoit d’une drôle de chose, même une lecture
+comme ça [Deleuze feuillette un texte de façon distraite]. Si on tourne les pages, on dit, c’est
+curieux. Pendant longtemps, il n’y avait jamais le mot "simple" chez lui à propos de la substance.
+Jamais vous ne trouvez "la substance simple" ou "la substance est simple". Vous allez me dire, il
+ne faut pas exagérer. Il suffit, comme vous l’avez tous fait puisque ça fait partie de notre pacte, il
+suffit d’ouvrir la Monadologie, et l’on lit au paragraphe 1, pour ne pas aller bien loin, [23 :00]
+"La monade, dont nous parlerons ici, n’est autre chose qu’une substance simple." Oui. Ce n’est
+pas gênant car la Monadologie, c’est un texte très tardif. A partir d’un certain moment, il est
+exact que Leibniz consent à parler de substance simple. Je demande, quand ? Et je demande,
+pourquoi [est-ce qu’] il n’en parlait pas avant ? On va voir, dès lors, que ça a déjà un certain
+intérêt pour nous. Il se met à parler de la monade comme substance simple quand il avance de
+plus en plus dans un problème que nous ne sommes pas encore en mesure de comprendre et qui
+concerne les substances qu’il appelle [24 :00] des substances composées. Donc, s’il y a des
+substances composées, il tient à distinguer les substances simples et les substances composées.
+Dès lors, c’est que toute substance n’est pas simple, que dès lors la simplicité continue à ne pas
+être un critère de la substance. [Pause]
+
+Ensuite, [Pause] quand il ne parlait pas encore de substance simple, alors comment [est-ce qu’] il
+définit que c’est la substance ? Comment [est-ce qu’] il l’a caractérisée d’un point de vue
+logique ? Par l’unité. Il disait, la substance est une. Il ne disait pas, [25 :00] elle est simple.
+[Pause] Dans les Lettres à Arnauld, dans les Discours de métaphysique, vous ne trouverez pas
+une seule fois l’ensemble "substance simple". Vous trouverez "la substance une". Vous me direz,
+d’accord, d’accord, vous vous intéressez aux mots, mais une ou simple… Il faut voir. André
+Robinet, qui a beaucoup travaillé dans le dix-septième siècle, vous savez, se sert d’ordinateurs
+sur les occurrences de textes, appliqués aux lexiques. Pour la philosophie, cela n’est pas sans
+intérêt, et donc, il peut très bien marquer [26 :00] le moment où apparaît le groupe, le groupe
+nominal, "substance simple", dont il a pu dater et, en effet, c’est très tard. Avant, il n’en est pas
+question. Je dis, j’ajoute, lorsque Leibniz parlera de substances simples, c’est pour distinguer un
+type de substances d’un autre type de substances qui sont les substances composées, mais les
+deux types de substances, qu’est-ce qu’ils ont en commun ? Non pas la simplicité. Ils ont en
+commun l’unité. Ce sont des unités. [Pause]
+
+Alors, essayons d’avancer. On a deux solutions : se dire, oh, il n’y a peut-être pas une si grande
+différence entre unité et simplicité ; et puis, se dire, de toute évidence, [27 :00] la différence est
+
+                                                                                                       6
+
+énorme. Pourquoi [est-ce que] la différence serait énorme, avant qu’on ne connaisse même ces
+différences ? Eh bien, la différence est énorme parce que déjà il y a un coup, il est en train de
+faire un coup, Leibniz. Qu’est-ce que c’est le coup de Leibniz ? C’est que, comme je vous disais,
+il réactive en plein Aristote. Qui est-ce qui définissait la substance par l’unité ? C’était Aristote.
+Lorsque Descartes définit la substance par la simplicité, on peut penser qu’il règle un compte
+avec Aristote, que la vraie thèse de Descartes, c’est : vous ne définirez pas la substance par
+l’unité. Vous devez la définir par la simplicité, et ce n’est pas la même chose. Et quand Leibniz
+définit la substance par l’unité, il faut comprendre [28 :00], il faut revenir de toute urgence à
+Aristote et restaurer une définition de la substance par l’unité pour échapper au critère
+radicalement insuffisant que Descartes a pu inventer, à savoir la simplicité.
+
+Et un passage très curieux de la correspondance avec Arnauld affirme tout ce que je dis. Il parle
+beaucoup de la substance là dans un échange de lettres où Arnauld se fait, après avoir été…
+Arnauld, il est à la charnière, car il a fait partie des penseurs qui ont objecté à Descartes, et dans
+sa correspondance ultérieure [29 :00] avec Leibniz, il se fait comme le défenseur de Descartes
+qu’il avait pourtant attaqué précédemment ; il se fait le défenseur de Descartes, et il dit à Leibniz,
+mais finalement, vous donnez de la substance une définition paradoxale, sous-entendu une
+définition non-cartésienne. Il lui dit, et le texte exact d’Arnauld est celui-ci, contre Leibniz ; il lui
+dit, "Vous tenez à définir" – contrairement à ce qu’on fait d’habitude – "vous tenez à définir la
+substance par l’unité au lieu de l’opposer [30 :00] au mode."
+
+Le texte n’est pas simple ! Traduisons. Classiquement on oppose la substance au mode, puis
+c’est vrai, la substance, c’est ce qui est, le mode, c’est une manière d’être. Mais dire qu’on
+oppose la substance au mode, c’est dire quoi ? C’est dire qu’on l’a définie non pas par le mode,
+mais par l’attribut, l’attribut essentiel. Le corps se définit par l’attribut étendu. [Pause]
+
+Donc Arnauld dit à Leibniz : vous définissez la substance par l’un ; dès lors, vous ne pouvez plus
+[31 :00] la définir par l’attribut essentiel. On va voir pourquoi. Et puis, Leibniz répond, et là, il
+rigole franchement – mais enfin, franchement, ça ne se voit pas tellement, [Rires] surtout qu’il
+prend des précautions avec Arnauld, qui n’est pas homme à plaisanter. -- Il lui dit, mais c’est très
+curieux ce que vous me dites parce que, moi, je définis la substance comme tout le monde l’a
+fait, sous-entendu voyez Aristote. L’autre lui disait, vous définissez la substance comme
+personne ne le fait, et ça sous-entendait, vous ne suivez pas notre grand Descartes. Leibniz
+répondait, moi, je la définis absolument comme tout le monde l’a toujours fait ; la substance est
+ce qui est un par soi, [Pause] [32 :00] unam per se, ce qui est un par soi, c’est ça la substance. Et
+il dit, tout le monde l’a toujours fait comme ça.
+
+Alors on bute… Tout ça, c’est pour vous faire sentir qu’on n’en est plus déjà, vous voyez ? On
+n’a plus… Au point où nous en sommes, j’ai beaucoup parlé, mais quel est le petit gain qu’on a
+opéré ? Tout à l’heure, on risquait de se dire, bon ben, simple ou un, c’est pareil. Il n’y a pas
+grande différence de dire quelque chose de simple ou quelque chose d’un. Là, on est en train de
+découvrir que pas du tout, que ce n’est pas pareil. Pourquoi ? On retient bien ceci : quelque chose
+de simple, nous pouvons dire maintenant, c’est quelque chose qui est déterminé par un attribut
+dit essentiel, [33 :00] sous-entendu avec lequel la chose n’a qu’une distinction de raison. Voilà,
+quelque chose de simple, c’est quelque chose qui est déterminé par un attribut dit essentiel.
+Conséquence immédiate : il n’y a pas une chose qui ait deux attributs essentiels. Pourquoi ?
+Parce que l’attribut essentiel n’a qu’une distinction de raison avec la chose. S’il y a deux attributs
+
+                                                                                                     7
+
+essentiels, il y a deux choses. Donc, une substance aura un attribut essentiel et un seul. [Pause]
+Par là, elle est quelque chose de simple ; elle est quelque chose de simple en tant que déterminé
+par un et un seul attribut essentiel. Bon.
+
+On saute. [34 :00] Voilà Leibniz qui nous dit : la substance, c’est quelque chose d’un, [Pause]
+c’est l’un par soi. [Pause] Descartes nous disait, c’est le Simple en soi ; l’autre nous dit, c’est
+l’un par soi. Ils se regardent l’un l’autre et comprennent l’abîme de leurs différences. Pourquoi ?
+Qu’est-ce que c’est l’unité par soi ? Cherchons. [Pause] Je dirais, unité par soi, c’est ce qui par
+soi-même unifie un quelque chose. L’un par soi, [35 :00] c’est l’unité en acte. [Pause] L’un ne
+peut pas être pensé par soi, indépendamment de l’acte par lequel il unifie un quelque chose.
+[Pause] En d’autres termes, l’un par soi, c’est l’unité active. [Pause]
+
+Qu’est-ce qu’il unifie ? Nous pouvons donner des réponses différentes qui quand même doivent
+se raccrocher à des choses qu’on a vues précédemment, c’est-à-dire là, on n’a pas le temps de
+revoir, qu’on a vues dans, avant Pâques. [36 :00] Je dirais, c’est l’unité active interne d’un
+événement, [Pause] d’un mouvement, d’un changement. L’unité en acte pend nécessairement sur
+un événement qu’elle unifie, sur un mouvement qu’elle unifie, sur un changement qu’elle unifie.
+[Pause] Si vous voulez, [37 :00] qu’est-ce qui renvoie, qu’est-ce qui réclame une unité ? [Pause]
+
+Essayons de comprendre. Quel est le corrélat de l’unité ? Tout à l’heure, on nous disait [que] la
+substance en tant que quelque chose de simple a un corrélat, c’est l’attribut essentiel. Si je définis
+la substance comme unité, son corrélat, ce n’est pas l’attribut essentiel. C’est quelque chose que
+l’un en acte unifie. Alors, que ce soit un événement, un mouvement, un changement, qu’est-ce
+que ça veut dire, ça ? [38 :00] Un mouvement, un mouvement, ben oui, un mouvement a besoin
+d’une unité. Pourquoi est-ce qu’un mouvement a besoin d’une unité ? [Pause] Est-ce que
+Descartes savait qu’un mouvement avait besoin d’une unité ? [Pause] Bon.
+
+Dans un très beau texte, un petit traité qui s’appelle De la nature en elle-même, [Pause ; Deleuze
+cherche dans son livre] Leibniz nous dit ceci – le titre complet, c’est De la nature en elle-même
+ou de la force immanente et des actions des créatures – [39 :00] De la nature en elle-même :
+"L’argument suivant que l’illustre auteur" – c’est Descartes [Rires] – "que l’illustre auteur tire de
+la nature du mouvement n’apporte pas plus de nécessité à sa conclusion. Il dit" – Descartes [Au
+fait, Leibniz répond à un traité de Johann Christopher Sturm, un philosophe allemand, dont la
+référence nous manque] – "Il dit que le mouvement n’est que l’existence successive du mobile
+dans des lieux divers". [Ici, Deleuze tousse assez violemment, et dit, "Pardonnez-moi"] Il dit que
+le mouvement n’est que l’existence successive du mobile dans des lieux divers. [40 :00] --
+"Cependant, accordons-lui même cela." – Accordons-lui que le mouvement ne soit que
+l’existence successive du mobile dans des lieux divers – "Accordons-lui cela même si nous n’en
+sommes pas entièrement satisfaits, et s’il exprime plus" – c’est-à-dire si cette définition exprime
+plus – "ce qui résulte du mouvement que la raison formelle elle-même". C’est ce texte alors,
+vous comprenez ? On peut s’arrêter dessus parce qu’on le mérite. On a passé tant, tant, tant de
+temps à attendre un tel texte. Qu’il nous vient maintenant – [Le bruit de la porte continue et
+Deleuze réagit] Oh… quelle merde !... Enfin, non, ça sera très bien tout à l’heure. [Rires]
+[41 :00]
+
+Comprenez, je faisais pour vous faire comprendre un rapprochement avec Bergson parce que je
+crois que, à cet égard, il y a un assez profond Leibnizianisme de Bergson. Tout le monde se
+
+                                                                                                      8
+
+rappelle, là, la distinction que Bergson fait entre le mouvement une fois fait et le mouvement en
+train de se faire, et Bergson dit, on ne peut pas comprendre le mouvement si l’on substitue à
+l’acte du mouvement en train de se faire le résultat du mouvement une fois fait, c’est-à-dire la
+trace dans l’espace. Je relis pour essayer de vous persuader que ce rapprochement n’était pas
+[42 :00] exagéré. Je relis le texte : "Descartes" – en le corrigeant à peine, en le résumant –
+Descartes définit le mouvement par l’existence successive du mobile dans des lieux divers. Nous
+ne sommes pas entièrement satisfaits de cette définition parce qu’elle exprime plus ce qui résulte
+du mouvement que la raison forme, elle, du mouvement lui-même. Elle exprime ce qui résulte du
+mouvement ; accordez-moi que je ne traduis pas, que je ne déforme rien, si je dis, elle exprime le
+mouvement une fois fait. C’est une fois que le mouvement est fait que je peux dire que le mobile
+a changé de lieu.
+
+En d’autres termes, [43 :00] si je considère le mouvement en train de se faire, il a besoin d’une
+unité qui ne lui est absolument pas donnée dans cette définition, changement de lieu. Il y a
+nécessité : c’est le principe de raison suffisante. Si vous vous rappelez qu’on a vu le principe de
+raison suffisante, il y a nécessité que le mouvement en train de se faire renvoie à une unité. Si
+vous ne tenez pas l’unité, vous ne pouvez jamais saisir que du mouvement une fois fait. En
+d’autres termes, Descartes n’a pas saisi le mouvement en train de se faire, et c’est pour ça que
+toute sa physique a raté le mouvement. [Pause] A une dynamique du mouvement, il a substitué
+une statique du mouvement déjà fait. [44 :00]
+
+Et alors, qu’est-ce que c’est l’unité du mouvement en train de se faire ? [Pause] Un peu plus loin,
+dans le texte De la nature en elle-même, Leibniz continue. Rappelez la définition ; il s’en prend
+toujours à la définition de Descartes, l’existence successive du mobile dans des lieux divers. Il
+dit, "Car le corps… Car le corps n’est pas seulement dans le moment présent de son mouvement"
+– Voyez ? quand le mouvement est en train de se faire – "Car le corps n’est pas seulement dans
+le moment présent de son mouvement ce qui occupe une place égale à soi-même" – c’est-à-dire,
+ce qui occupe une place égale à sa masse, [45 :00] petit m -- "Car le corps n’est pas seulement
+dans le moment présent de son mouvement ce qui occupe une place égale à soi-même, mais il
+comprend aussi un effort ou une poussée" -- mais il comprend aussi un effort ou une poussée –
+"pour changer de place" – mais il comprend aussi, voilà ce que c’est le mouvement en train de se
+faire ; à chaque moment que vous aurez déterminé, à chaque moment finalement abstrait, eh
+bien, il faut tenir compte de l’effort ou de la poussée pour changer de place – "de façon que l’état
+suivant sorte de lui-même" – retenez le "de lui-même" dont nous allons avoir énormément besoin
+– "sorte de lui-même du présent par une force [46 :00] naturelle."
+
+En d’autres termes, si je veux parler en termes plus savants, mathématiques ou physiques
+empruntés à la terminologie de Leibniz, le mouvement en train de se faire implique une
+différentielle, une différentielle du mouvement. L’unité du mouvement en train de se faire est en
+premier lieu la différentielle du mouvement, c’est-à-dire, la différence entre le mouvement qui
+vient de se faire et celui qui se fait, ou entre celui qui se fait et celui qui va se faire. Cette
+différentielle, on peut l’appeler effort ; en latin, on l’appellera conatus, c’est-à-dire effort,
+poussée, ou avouez que Bergson n’est pas loin lorsque lui [47 :00] l’appelle tendance. [Pause]
+
+Donc, à chaque instant supposé du mouvement, le mouvement ne peut pas être conçu comme
+succession de places à des instants différents car le mouvement en train de se faire implique à
+chaque instant une unité qui est la différentielle du mouvement ou le conatus, c’est-à-dire l’effort
+
+                                                                                                     9
+
+pour passer d’un lieu à un autre de telle manière que l’état suivant sorte de l’état précédent. Il n’y
+a pas une succession de l’état suivant et de l’état précédent. Il y a une poussée par laquelle l’état
+suivant sort de l’état précédent. Accordez-moi, là aussi, qu’est-ce que Bergson appellait une
+durée sinon cette poussée elle-même ? [48 :00] Mais ce n’est pas tout. Ou bien il dira dans
+d’autres textes, il n’y a pas de mouvement si vous ne concevez pas un ressort intérieur au corps,
+au corps qui se fait. Et vous vous rappelez, c’est là, c’était tout à fait à notre début. Tout à fait à
+notre début, on a vu que la physique de Leibniz est présentée comme une physique de l’élasticité,
+et la physique de l’élasticité comme un physique du ressort.
+
+Et en effet, je cite quand même dans un autre texte de la même époque, un texte très beau, cette
+fois-ci tiré de Système nouveau de la nature, paragraphe 18 : "On peut dire que dans le choc des
+corps" [49 :00] – c’est-à-dire, le mouvement où deux corps se choquent – "On peut dire que
+dans le choc des corps, chacun ne souffre" – c’est beau, cette expression – "chacun ne souffre
+que par son propre ressort." C’est pour ça qu’il reproche à Descartes d’avoir conçu que des corps
+durent et de n’avoir rien compris au mouvement, à la communication du mouvement puisqu’il
+n’a pas saisi que le mouvement renvoyait à la force élastique ou au ressort intérieur au corps.
+"On peut dire que dans le choc des corps, chacun ne souffre que par son propre ressort," virgule,
+"cause du mouvement qui est déjà en lui." [Pause] Eh bon.
+
+Voilà mon premier acquis. Le mouvement [50:00] à chaque instant que vous pourrez déterminer,
+quel que soit cet instant, si voisin soit-il de l’instant donné, réclame une unité, réclame une unité
+interne sans laquelle il n’y aurait jamais un mouvement en train de se faire, sans laquelle il n’y
+aurait [pas] des mouvements déjà faits. En d’autres termes, il n’y aurait pas de mouvement du
+tout, et c’est ce qu’il explique longuement dans De la nature en elle-même. Il explique une chose
+très intéressante : "le mécanisme veut tout expliquer par le mouvement" -- Ça va être sa grande
+critique du mécanisme – "le mécanisme veut tout expliquer par le mouvement." Seulement, c’est
+bizarre, lui-même n’arrive absolument pas à expliquer le mouvement. [51 :00] Il ne peut
+atteindre qu’à des mouvements déjà faits. Il est forcé de supposer le mouvement. Et bien plus, si
+vous reprenez la définition, changement de lieu, si vous reprenez la définition qu’on vient de
+voir, dans De la nature en elle-même, "existence successive du mobile dans des lieux divers",
+mais nous n’aurions aucun moyen de distinguer un corps en mouvement et un corps en repos.
+Cela n’a aucun moyen de distinguer les deux puisque [si] vous prenez à un moment donné
+l’existence d’un mobile en un lieu, aucune différence n’est assignable entre les distances d’un
+mobile en un lieu et l’existence d’un immobile en un lieu. En d’autres termes, vous ne pourrez
+même pas distinguer deux lieux s’il n’y a pas de mouvement en train de se faire ; vous ne
+pourrez pas distinguer deux corps. [52 :00] Le mécanisme veut tout distinguer par le mouvement,
+voilà, mais il est incapable de distinguer le moindre mouvement en train de se faire. [Pause]
+
+Et encore, ceci ne vaut que pour un instant quelconque du mouvement. Un mouvement en train
+de se faire à un instant quelconque réclame une unité. Cette unité, ce sera ce que Descartes a
+ignoré, le conatus, c’est-à-dire la différentielle du mouvement. Mais, à plus forte raison – [Un
+étudiant indique qu’il veut intervenir] Oui, tout de suite, je termine ce point, et vous dites – mais,
+à plus forte raison, comme les instants prélevés sur le mouvement sont des abstraits, l’ensemble
+d’un mouvement réclame évidemment [53 :00] une unité interne, un acte. [Pause] Quelle est
+cette unité interne ? Quel est cet acte ? Leibniz le déterminera de plusieurs manières ; là, on
+anticipe sur l’avenir. Je dis qu’il peut lui donner une détermination physique, et ce sera l’action
+motrice. [Pause] Il pourra lui donner une détermination métaphysique, et ce sera la substance, la
+
+                                                                                                10
+
+monade, la monade elle-même. Pourquoi est-ce qu’il ne peut pas lui donner, [54 :00]
+directement, là, une détermination métaphysique ? On verra, on verra.
+
+On verra parce que là, on s’en tient uniquement à ceci : si vous considérez et si vous distinguez
+le mouvement en train de se faire et le mouvement déjà fait et le mouvement tout fait, vous
+voyez que le mouvement en train de se faire renvoie et exige une unité intérieure, soit d’abord
+une unité instantanée, soit plus profondément, une unité pour l’ensemble de sa durée, [Pause] si
+bien que le mouvement est le prédicat d’une substance définie par l’unité active, [55 :00] ou si
+vous préférez, il y a une spontanéité du mouvement, en appelant spontanéité le rapport du
+mouvement à l’unité active qui le produit, l’unité active intérieure qui le produit, et c’est là
+qu’apparaît spontanéité, toujours à deux étapes, spontanéité unité active qui produit
+spontanément le mouvement ou qui produit un mouvement spontané, peu importe, toujours à
+deux étapes, comme l’unité dans l’instant et comme unité pour l’ensemble de la durée du
+mouvement.
+
+Unité dans l’instant, je reprends mon texte, que j’ai le temps, là, De la nature en elle-même,
+tellement qu’il est beau, ce texte. [56 :00] [Pause ; Deleuze cherche dans le texte] "Car le corps
+n’est pas seulement dans le moment présent de son mouvement ce qui occupe une place égale à
+soi-même, mais il comprend aussi un effort ou une poussée pour changer de place de façon que
+l’état suivant sorte de lui-même du présent par une force naturelle," "par une force naturelle",
+"que l’état suivant sorte de lui-même du présent par une force naturelle." Comment dire en latin,
+comment traduire en latin, pour ceux qui ont fait un peu de latin ? On traduirait exactement "par
+une force" par sua sponte, par sa propre spontanéité. [Pause] Il ne faut pas s’étonner qu’on
+trouve perpétuellement le terme "spontané" chez Leibniz, [57 :00] unité active du mouvement
+aussi bien, encore une fois, au niveau de l’instant que de l’ensemble du temps pris par un
+mouvement déterminé.
+
+Voilà un premier point. Vous sentez que je ne me trouve plus devant substance – attribut
+essentiel égalent Simple. Je me trouve devant substance – mouvement égalent unité intérieure,
+qui produit spontanément le mouvement. [Pause] [58 :00] Nous sommes en train de confirmer
+que le Simple n’a strictement rien à voir avec l’un par soi. [Pause] Au rapport de simplicité –
+substance, attribut essentiel constant – se substitue le rapport d’unité – substance, mouvement
+changeant, dont l’unité nous donne la raison active ou spontanée. [Pause] Vous sentez tout de
+suite la conclusion. Comment voulez-vous que l’étendue soit substance ? L’étendue est incapable
+de produire le moindre mouvement. [59 :00] Il est incapable de dire, même entre deux corps – et
+Leibniz regardera là-dessus mille fois – l’étendue est incapable de dire entre deux corps lequel se
+meut. Est-ce que c’est mon train ou le train d’à côté qui se meut ? Si je ne dispose que de repères
+d’étendue, je ne peux pas assigner le mouvement à un corps plutôt qu’à l’autre pour une simple
+raison : l’étendue ne me donne aucune raison suffisante pour distinguer le repos et le
+mouvement. Et vous voyez pourquoi puisque l’étendue ne reconnaît le mouvement que comme
+mouvement déjà fait. [Pause] Voilà. Donc, notre première conclusion, c’est que le mouvement
+en train de se faire, c’est le mouvement en train de se faire qui réclame une unité par soi aussi
+bien dans l’instant que dans l’ensemble de sa durée. Voilà, c’est tout. [Pause] Oui, à vous,
+[Deleuze indique l’étudiant qui avait parlé] qui vouliez dire quelque chose ! [60 :00]
+
+Un étudiant [Inaudible ; il s’agit d’une comparaison de Descartes et de Leibniz surtout quant à
+la spontanéité et la causalité] [61 :00] Est-ce que c’est clair ?
+
+                                                                                                      11
+
+Deleuze : Elle est très claire, mais elle est multiple. Je dirais, sur des points, elle me paraît fausse,
+mais là, c’est parce que je n’ai pas eu le temps, et puis je ne sais pas si vous, dans votre état de
+connaissance de Descartes… Il n’est pas exact de dire que Descartes n’a pas les moyens de
+définir la vitesse. Il définit parfaitement la vitesse, mais là, ça serait trop long. Il faudrait que
+j’essaie d’exposer un peu la physique de Descartes, mais il n’a aucune peine à définir la vitesse.
+Ça, il n’y a aucun problème pour lui, même en fonction de cette définition du mouvement.
+Ce qu’il y a, là où vous avez plus raison, [62 :00] c’est, est-ce que c’est la même conception de la
+causalité chez Descartes et chez Leibniz ? Je dirais, par évidence, évidemment non, ce n’est pas
+la même distinction de la causalité. Alors, bien plus, une fois dit que dans le mouvement,
+quelque chose se conserve, est-ce que c’est la même conception, je dis, pas seulement de ce qui
+se conserve, mais la même conception de la conservation même à travers un mouvement ? Ça, ce
+n’est ni la même chose qui se conserve, c’est bien connu chez Descartes, et chez Leibniz, mais
+pourquoi là [est-ce que] l’on dit – si on a le temps, on essaiera de voir, sur ce point – mais votre
+question devance. Vous marquez un problème juste ; en tout cas, ce que je retiens, c’est qu’en
+effet, Leibniz… Je ne dirais pas que Descartes ignorait la vitesse, lui ; je dirais que Leibniz est
+déjà engagé [63 :00] à nous proposer de la vitesse une conception nouvelle et de nous présenter
+de l’unité du mouvement une conception qui fasse appel à des notions tout à fait nouvelles par
+rapport à Descartes, et par rapport aux Cartésianisme puisque je veux juste, je veux juste
+indiquer des choses en disant, vous comprenez, une telle conception du mouvement… Il ne faut
+pas trop se demander pourquoi Descartes n’y est pas. [Le bruit d’un toux couvre partiellement la
+voix de Deleuze]
+Le peu que j’ai dit, il devrait vous faire se dire -- vous savez, encore une fois, on a toujours les
+solutions qu’on mérite en fonction des moyens qu’on a -- il me semble que le peu que j’ai dit sur
+cette conception du mouvement chez Leibniz, ça doit suffire à vous persuader qu’il n’était pas
+question de pouvoir la concevoir [64 :00] sans un calcul, mettons, infinitésimal. Est-ce qu’il faut
+dire que Descartes ne connaissait pas ce calcul ? Oui et non, parce que des équivalents ou des
+antécédents du calcul infinitésimal qui permettaient de conclure d’un instant à un autre instant, si
+rapprochés soient-ils, vous le trouvez déjà au Moyen Age. Mais justement, tout ça, Descartes
+n’en veut pas. Il n’en veut pas d’ailleurs pour des raisons mathématiques. Et si Leibniz peut le
+ramener, c’est parce que lui, il a forgé une nouvelle arme qui était le calcul infinitésimal dont on
+ne peut pas nier à ce moment-là la puissance mathématique et qui va lui permettre de parler du
+conatus comme d’une différentielle du mouvement. [Pause] [65 :00] Mais, [il n’est] pas
+question, pas question de pouvoir même concevoir une pareille chose si on n’a pas les moyens, et
+les moyens symbolisent… [Interruption de l’enregistrement] [1 :05 :11]
+Partie 2
+… de mouvement dans l’étendue qui réclame une unité active, alors on voit bien que cette unité
+active, c’est en dernier lieu, la substance, la monade. Bon. Mais le mouvement, on ne l’a pas. On
+ne sait pas d’où il vient. Là on vient de faire un pari sur l’avenir. On n’en a pas parlé jusqu’à
+maintenant. On n’a parlé que de toute la série, le monde, la monade, mais pas du mouvement
+comme réalité physique. On n’a pas parlé de la physique.
+Donc, disons que le mouvement même dans l’étendue qui réclame une unité d’une autre nature
+que l’étendue, on vient de le voir, [66 :00] il renvoie finalement à des changements qui ne sont
+pas de simples mouvements. Le mouvement, c’est ce qu’on appelle le changement local, le
+changement de lieu ; on vient de le voir. Mais il y a d’autres types de changement, et pas pour
+
+                                                                                                    12
+
+Descartes, peut-être. Mais classiquement, c’est-à-dire venus d’Aristote, il y a d’autres types de
+changement. Le mouvement est un changement, c’est-à-dire n’est qu’un cas de changement.
+C’est aussi ce que dit très bien [Pause] Leibniz toujours dans De la nature en elle-même. [Pause]
+[67 :00] "Aristote, plus profond à mon avis que beaucoup ne pensent" – voyez, on est toujours là
+– "jugea que, outre le changement local, il est besoin d’altération" [Pause] "et que la matière
+n’est pas partout semblable à elle-même de façon qu’elle ne demeure pas invariable. Or, cette
+diversité qualitative et, par conséquent, altération, n’est pas assez expliqué par Descartes",
+pardon, "par Aristote." Ce qu’il retient d’Aristote, c’est que le changement local renvoie luimême à un changement d’une autre nature qui est un changement qualitatif. [68 :00] Quand vous
+dites, par exemple, une chose qui était noire devient blanche, c’est une altération ; elle ne change
+pas de lieu, elle change de qualité.
+Voilà un autre changement, et qu’est-ce que c’est l’idée de Leibniz ? Vous le pressentez. On a
+commencé, vous voyez, c’est très complexe, et en même temps très facile à comprendre :
+mouvement comme changement local, on monte à unité nécessaire du mouvement en train de se
+faire dans l’instant. Un pas de plus : unité nécessaire du mouvement en train de se faire pour
+l’ensemble de sa durée. [69 :00] Un pas de plus : non plus le mouvement local, non plus le
+changement local, mais le changement qualitatif. Pourquoi est-ce que ça nous change au
+changement qualitatif ? Parce que le changement qualitatif, lui, est intérieur à la substance,
+intérieur à la monade. [Pause] Et on commence le même raisonnement, mais de plus en plus
+profond : c’est le changement qualitatif qui exige une unité active qui va le produire
+spontanément, la substance alors définie comme l’unité active du changement qualitatif. [Pause]
+[70 :00]
+La substance, voilà qu’elle a comme deux définitions qui s’enchaînent l’une l’autre : unité
+intérieure du mouvement en train de se faire dans l’instant ou sur l’ensemble de sa durée,
+[Pause] unité active du changement intérieur ; unité intérieure du mouvement en train de se faire,
+unité active du changement lui-même intérieur. En effet, vous vous rappelez, la monade, la
+substance individuelle ne cesse pas de changer d’état, d’état qualitatif. [71 :00] Et d’une certaine
+manière, il faudra que les états par lesquels passe la monade renvoient à une spontanéité de la
+production, exactement comme le mouvement en train de se faire implique une spontanéité de sa
+production. [Pause] Il faudra que la monade contienne le principe actif de ses propres
+changements. Bon.
+Qu’est-ce qui nous arrive comme changement ? Prenons un exemple, cherchons un exemple. Et
+voilà que Leibniz affronte un exemple qui lui est lancé par quelqu’un pour lequel [72 :00] il a un
+très, très grand estime, un des ses contemporains, avec lequel il aura une longue correspondance,
+de longs entretiens, et avec qui il ne parlera pas, je crois, sur le même ton qu’avec les autres. Et
+ce contemporain s’appelle [Pierre] Bayle. [Deleuze épèle le nom] Et Bayle est un personnage très
+bizarre au dix-septième, dix-huitième siècle. Il fait le plus bizarre dictionnaire du monde. Il fait
+des articles sur tel ou tel thème, et puis, dans les marges de ces articles, il fait d’autres articles.
+C’est une méthode qui se…, des notes qui finalement s’allongent. Dans les notes, il y a des notes
+de notes. C’est un livre très bizarre, très beau, [73 :00] très intéressant, et où Bayle, dans son
+dictionnaire, à l’article Rorarius, qui étudie… peu importe, à l’article R, dans les notes qui
+prennent finalement plus d’importance que les textes mêmes, s’en prend à Leibniz et fait un
+exposé de l’étrange philosophie de Monsieur de Leibniz.
+
+                                                                                                   13
+
+Et Leibniz est très intéressé par la manière dont Bayle le présente, et ça part de ceci ; enfin, ça
+comporte ceci : "Monsieur de Leibniz prétend qu’une monade change d’état d’après une espèce
+de spontanéité". [74 :00] Voyez, il suffit de décalquer. Je reprends là simplement la phrase [de
+Leibniz] parce que, pour le mouvement, "de façon que l’état suivant sorte de lui-même du
+présent par une force naturelle." Je dirais, l’unité du mouvement, voyez, il y a une double
+spontanéité, en fait : l’unité du mouvement produit spontanément le mouvement, c’est l’unité du
+mouvement en train de se faire ; et l’état suivant du mouvement découle de l’état précédent
+spontanément, sua sponte. C’est la première spontanéité qui garantit la seconde. [Pause]
+Si vous vous placez maintenant dans la substance individuelle dans la monade, -- [75 :00] je
+change d’état -- c’est la même chose. Il faut que je prouve, que je montre deux choses si je suis
+Leibnizien. Il faut que je montre que la substance est raison spontanée de la production du
+changement, et que l’état suivant sort de l’état précédent spontanément. Les deux s’impliquent
+absolument. [Pause] Eh ? Vous me suivez ? C’est un dernier effort avant de nous reposer ; il va
+être très dur, cet effort.
+Et Bayle lui dit, voilà, expliquez-moi quand même ce qui se passe. Voilà un chien qui mange sa
+soupe [76 :00] – on ne peut pas dire que les philosophes ne parlent pas avec des exemples
+concrets [Rires] -- Voilà un chien qui mange sa soupe. Il a du plaisir, état de la monade du chien,
+car le chien est une monade tout comme vous et moi, et une monade qui exprime l’univers,
+simplement il ne l’exprime pas de la même manière que nous. Elle est, c’est un point de vue de
+chien. On verra ce que c’est. Ça sera un problème pour nous, d’ailleurs. Qu’est-ce qu’un point de
+vue de chien, et qu’est-ce qu’un point de vue de cheval, puisque toutes les monades expriment le
+monde, y compris la monade de cheval et la monade de chien ? Bon, mais avant d’atteindre de
+tels gouffres, supposons : eh, vous êtes un chien, bon, et vous recevez votre coup de bâton quand
+vous êtes en train de manger votre soupe, eh. Vous changez d’état ; c’est un changement
+qualitatif. Vous passez de l’état du plaisir à la douleur, [77 :00] changement qualitatif.
+Bayle dit, quand même, où est la spontanéité ? Je reçois un coup de bâton sur la tête, tout d’un
+coup, eh ben, alors qu’est-ce qui, dans la monade, dans ma monade, [est-ce qu’] il y a quelque
+chose qui produit le coup de bâton ? Mais non, quoi, il ne faut pas exagérer. En quoi [est-ce qu’]
+il est spontané ? En quoi [est-ce que] le passage… Il prend le meilleur exemple, Bayle. Il dit, à la
+rigueur, on peut dire, quand vous passez de la douleur au plaisir, il y a une tendance au plaisir, il
+y a une poussée vers le plaisir qui explique que vous y passez spontanément. Mais lorsque vous
+recevez un coup de bâton, lorsque vous passez du plaisir à la douleur, là, non, il ne faut pas dire
+des choses comme ça. Il ne faut pas plaisanter. Vous ne pouvez pas dire que vous passez
+spontanément du plaisir à la douleur. C’est une objection importante. [78 :00]
+Et Leibniz y ajoute, on va voir un autre exemple encore plus émouvant. C’est toujours la monade
+César, et il dit, il n’y a pas de doute que la même chose, on peut concevoir la même chose pour
+César. Alors, il nuance quand même l’exemple, et ça donne ceci : Un insecte, une guêpe rôde, et
+pendant que César enfant s’allaite, elle va venir piquer la joue de l’empereur enfant. C’est la
+même chose, vous voyez ? C’est comme un coup de bâton sur la tête qui le fait passer d’un
+extrême plaisir, le petit César, qui est content de…, [Rires] il est passé d’un extrême plaisir. Et il
+[Leibniz] dit, c’est comme ça dans toute la vie de César. Il y aura toujours des passages comme
+ça. Bon, passons. En quoi peut-on parler [79 :00] de spontanéité ? Voila.
+Alors, mettons-nous… Nous ne sommes plus dans le cas du mouvement. Nous sommes dans le
+cas du changement interne à la monade. Mais Leibniz dit, qu’est-ce que veut dire exactement
+
+                                                                                                    14
+
+changement interne ? Je vous lis le texte parce que, je crois… On peut l’expliquer après si, …
+mais, mais ce n’est même pas la peine de l’expliquer. [Deleuze cherche dans son livre] Eh, bon
+Dieu ! Ah, non, j’ai cru que je m’étais trompé de tome, alors, [que] je ne l’avais pas, mon texte,
+qui est si beau. [Pause] Voilà. La réponse de Leibniz s’engrosse, et faites attention, quand je dis
+spontané, je ne veux pas dire volontaire. [80 :00] Ça va de soi qu’on ne choisit pas une douleur,
+qu’on ne préfère pas une douleur, qu’on ne veut pas une douleur. Quand on est en train de
+manger sa soupe, on ne veut pas recevoir un coup de bâton sur la tête. Spontané n’a jamais voulu
+dire volontaire.
+Mais, alors, qu’est-ce que ça veut dire ? Voilà : "Chaque homme est miroir vivant, représentant
+l’univers suivant son propre point de vue, et surtout par rapport à son corps." Remarquez, on n’a
+pas vu ça. On n’avait pas encore les moyens de le voir. Voilà, la monade exprime l’univers,
+"surtout par rapport à son corps", puisqu’on ne sait même pas ce que c’est un corps. On vient de
+l’aborder avec l’histoire du mouvement, mais on ne sait pas. [81 :00] Ce n’est pas évident
+encore. Donc, on retient, on comprend vaguement ce qu’il veut dire. Par exemple, moi, j’exprime
+l’univers, mais j’exprime de préférence qui concerne mon corps ; je n’exprime le reste que de
+loin en loin, dans la mesure où ça affecte mon corps. Je n’exprime le soleil que dans la mesure
+où le soleil affecte mon corps. C’est assez simple ce qu’il veut dire.
+Il enchaîne ainsi : "Les causes qui font agir le bâton" – eh, pour le pauvre chien – "Les causes qui
+font agir le bâton" – c’est quoi ? Il donne la liste, et cela devient extrêmement émouvant, que le
+bâton, il n’arrive pas tout seul, ce n’est pas comme ça. [82 :00] Ce qu’il est en train de répondre à
+Bayle, c’est : vous faites comme si la situation était telle, le chien mange sa soupe, et puis il y a
+un bâton comme ça qui arrive et qui lui tombe sur la tête. [Rires] Mais Leibniz dit, vous êtes
+abstrait, [Rires] c’est de la pure abstraction. Et lui, alors, il va se lancer dans une idée de fou,
+comme vous allez voir, complètement fou, ce texte, mais tellement concrète. Il aura une raison,
+comme tous les fous, il aura une raison par le concret, et c’est nous, avec notre pauvre raison, qui
+serons abstraits, déplorablement abstraits. On est abstrait parce que Bayle, eh, oui ? Non, mais, et
+ce bâton ? [Deleuze frappe la table avec quelque chose] Vous me direz, ça peut être un pot de
+fleurs qui lui tombe sur la tête. Mais non ! Ça ne peut pas être un pot de fleurs qui lui tombe sur
+la tête. C’est abstrait, aussi ça. Pourquoi ? Parce qu’il n’y a pas de pot de fleurs qui tombe sur la
+tête sans qu’il y ait, par exemple, du vent. Bayle oublie ça. Qu’est-ce qu’il oublie ? [83 :00] Il
+n’y a pas de coups de bâton qui vous arrivent sur la tête. Si !
+Ecoutons Leibniz : "Ainsi les causes qui font agir le bâton, c’est-à-dire l’homme posté derrière le
+chien" : voyez ? Il a fallu que le chien vienne manger sa soupe, mais il y a un type qui, au besoin,
+étouffe ses pas pour [les] éliminer, qui arrive derrière le chien, animal très, très auditif, le chien,
+mais il est tellement dans sa soupe que [Rires] il n’y fait pas attention. "L’homme posté derrière
+le chien, qui se prépare à le frapper pendant qu’il mange" – eh ? Ça, j’aime ce texte parce que
+cela, c’était mon rêve, arriver [84 :00] à donner un coup de bâton sur la tête d’un chien qui
+mangeait sa soupe. [Rires] Oui ! Jamais, jamais je n’ai su y arriver parce que… [Inaudible, à
+cause des rires] J’aurais préféré un chat, mais alors là, un chat, vous savez, atteindre un chat qui
+mange son ron-ron, ça, [Rires] [c’est] très difficile parce que c’est tellement mauvais, ils sont aux
+aguets. Les causes qui font agir le bâton, c’est-à-dire "l’homme posté derrière le chien, qui se
+prépare à le frapper pendant qu’il mange, et tout ce qui dans le cours des corps contribue à y
+disposer cet homme". C’est quand même, on ne donne pas de coup de bâton sur la tête d’un
+chien qui mange sa soupe si on n’a pas eu assez avec ce chien, [Rires] ou bien si c’est en des
+
+                                                                                                  15
+
+conditions où c’est… Le chien, par exemple, je suis à la campagne, et c’est le chien du voisin qui
+a mangé mes moutons. Mais tout ça, [85 :00] c’est tout un ensemble très concret.
+Bayle, il dit, expliquez-moi comment le passage du plaisir à la douleur est spontané, et il nous
+flanque dans une situation complètement abstraite. Voilà la force de la réponse de Leibniz. Il
+annule tout saut ; il extrait plaisir de la soupe, douleur du coup de bâton, mais il dit : Montrezmoi qu’il y a un passage. Mais il a commencé par supprimer les passages. Ce passage, c’est
+quoi ? C’est que -- je reprends l’exemple, je le complète, mais convenez-moi, dans la littéralité
+de Leibniz : "Le chien est dans ma ferme en train de manger sa soupe. Le voisin arrive à pas de
+loup, [86 :00] qui a un lourd contentieux avec ce chien et avec moi. Il a son bâton sous le bras."
+Bon. Le chien, il entend vaguement des crissements ; mettons, même, qu’il se dise, "ooo, c’est
+un coup de bâton", mais à quel niveau ? "Il y a quelque chose dans mon dos, je n’aime pas ça",
+se dit le chien. C’est ça les petits passages. Mais il est englouti dans sa soupe. Il n’y fait pas
+attention, il n’y fait pas assez attention.
+Bien. Alors, continuons : "Les causes qui font agir le bâton," c’est-à-dire, "l’homme posté
+derrière le chien, qui se prépare à le frapper pendant qu’il mange, et tout ce qui dans le cours des
+corps contribue à y disposer cet homme sont aussi représentés d’abord dans l’âme du chien."
+C’est-à-dire l’âme du chien en a de petites [87 :00] perceptions, simplement des perceptions si
+petites qu’il ne les remarque pas. Elles sont comme noyées dans son gros plaisir de la soupe qui
+envahit toute sa conscience. Mais il a des petites perceptions insensibles, de minuscules bruits du
+gravier, d’un quelqu’un qui approche derrière son dos. Il sent à la démarche de ce quelqu’un que
+ce n’est rien de bon. Tout cela, c’est aussi représenté, d’abord, dans l’âme du chien, mais
+faiblement, par des perceptions petites et confuses et sans aperception. Ce qu’il appelle
+"aperception", c’est la perception consciente, c’est-à-dire, sans que le chien le remarque parce
+qu’aussi le corps du chien n’en est affecté qu’imperceptiblement. [88 :00]
+"Et comme, dans le cours des corps, ces dispositions" -- c’est-à-dire, et de même que – "dans le
+cours des corps, ces dispositions produisent enfin le coup bien serré sur le corps du chien," eh ?
+"de même les représentations de ces dispositions dans l’âme du chien produisent enfin la
+représentation du coup de bâton, laquelle étant distinguée et forte, le chien s’en aperçoit alors
+bien distinctement, et c’est ce qui fait sa douleur." [Rires] Ah, c’est un beau texte, alors rendons
+hommage à César parce que ce texte-là, oui, c’est encore plus émouvant que s’il s’agit d’un
+bébé, comprenez ? [89 :00] "On ne saurait comprendre," dit-il à Bayle ; il ne faut pas s’en tenir à
+l’animal, "On ne saurait comprendre que Dieu ait pu mettre dans l’âme de Jules César le principe
+de ce que je m’en vais dire. Il lui arriva sans doute plusieurs fois d’être piqué d’une épingle" –
+moi, j’ai dit "une guêpe", mais c’est parce que la guêpe intervient à la page suivante ; là, cela est
+arrivé tout le temps qu’un bébé soit piqué d’une épingle de sa nourrice – "Il lui arriva sans doute
+plusieurs fois d’être piqué d’une épingle même pendant qu’il tétait." Voyez, [pour] l’événement
+"César passe le Rubicon", je peux dire "César est piqué d’une épingle", c’est pareil, tout ça.
+"Il fallut donc, suivant l’hypothèse qu’on examine ici, que son âme se modifiât d’elle-même d’un
+sentiment de douleur immédiatement après les [90 :00] perceptions agréables de la douceur du
+lait. Par quel ressort" – il sait très bien ce qu’il fait en employant le même mot ; bien sûr, c’est
+une métaphore dans le cas de l’âme, mais ce n’est pas par hasard qu’il nous a expliqué que
+physiquement, que physiquement le passage d’un instant à l’autre dans le mouvement impliquait
+un ressort intérieur au corps, de même il y a une espèce de ressort dans l’âme. "Par quel ressort
+fut-elle déterminée à interrompre ses plaisirs et à se donner tout d’un coup" – tout d’un coup – "à
+
+                                                                                                   16
+
+un sentiment de douleur" – mais, qu’elle ne se donne pas tout d’un coup – "sans que rien lui ait
+averti de se préparer au changement, ni qu’il ne se fût rien passé de nouveau dans la
+substance ?".
+Mais, il dit, bien sûr [91 :00] il s’est passé quelque chose, et là, il introduit la guêpe, mais pour
+l’épingle, c’est pareil. On peut supposer que l’épingle à peine, à peine avait commencé à
+l’effleurer avant de le piquer pour une fois pour de bon. La guêpe, mais, c’est comme l’homme
+qui arrive avec son bâton derrière. Il a entendu le mouvement, tout ça, simplement c’est resté à
+l’état de petites perceptions. Qu’est-ce qui s’est fait ? A la lettre, je dirais que la douleur, comme
+perception remarquée, [Pause] comme perception distinguée, qu’est-ce qu’elle fait ? Elle intègre,
+elle découle, si vous préférez, [92 :00] par… Elle découle d’une série de petites perceptions nonremarquées qui la préparent, [Pause] et elle en découle comme par une force naturelle, l’épingle
+qui s’approche de plus en plus de mon corps, et qui entre dans mon corps, l’homme avec son
+bâton qui s’approche de plus en plus de moi jusqu’à ce que le bâton me touche violemment.
+En quel sens est-ce qu’il y a spontanéité dans la production de la douleur ? C’est que la douleur
+ne vous arrive pas comme ça. La douleur vous apparaît, vous arrive comme intégrale, si j’ose
+dire – mais vous prenez pour le moment tous ces mots [93 :00] comme des métaphores – comme
+intégration de toute une série de petites perceptions non-remarquées dont vous ne pouvez pas
+dire comme ça, "le coup de bâton est arrivé tout d’un coup". Ce n’est pas vrai. Le coup de bâton
+n’est qu’une transformation de mouvement, à savoir le mouvement par lequel le bâton
+s’approchait, se levait, qui se transforme en coup de bâton donné sur moi. C’est un mouvement
+en train de se faire dans son ensemble.
+Qu’on ne me dise pas que le coup de bâton ne naisse de rien. Il est lui-même l’intégral de toute
+une série [94 :00] de conatus, de tous les moments par lesquels un mouvement est passé. Et dans
+mon âme au niveau du changement qualitatif, des changements qualitatifs, c’est la même chose.
+Ma perception du coup de bâton, c’est-à-dire la douleur, intègre la somme des petites perceptions
+que je n’avais pas remarquées, des petites perceptions insensibles ou inconscientes, si bien que je
+peux dire, le coup de bâton découle sua sponte, spontanément, du mouvement du bâton amené
+d’abord, ensuite levé, ensuite abaissé violemment. [95 :00] Le coup de bâton exactement découle
+sua sponte de ce mouvement dans son ensemble, et des instants de ce mouvement, et des
+différentielles de ce mouvement, exactement comme, d’autre part, dans mon âme, c’est-à-dire
+dans ma monade, la douleur découle sua sponte de toutes les étapes précédentes non-remarquées.
+[Pause]
+Si bien que ce que je disais tout à l’heure pour le mouvement, il faut le dire maintenant pour le
+changement interne. De même – encore une fois, si je résume cet ensemble – de même que le
+mouvement renvoie à [96 :00] l’unité intérieure d’une substance seule capable d’en rendre
+compte, le changement qualitatif renvoie à l’unité active, le changement qualitatif intérieur à la
+substance, cette fois-ci, le changement qualitatif intérieur à la substance renvoie à l’unité active
+d’une substance qui le produit. Qui le produit comment ? En faisant l’intégration des petites
+perceptions. Or, rappelez-vous, elle représente, elle exprime l’univers. [Pause] Bien. Qu’est-ce
+que je viens d’essayer de montrer ? C’est que [97 :00] la théorie de la substance, la théorie de
+l’Un, de l’unité par soi, impliquait chez Leibniz une spontanéité du mouvement comme
+événement, une spontanéité du changement comme prédicat. [Pause]
+Qu’est-ce que je peux… Je voudrais vite conclure parce que peut-être que vous n’en pouvez plus
+déjà. J’ai l’impression que c’est un grand effort ; essayer de comprendre cette théorie, en
+
+                                                                                                    17
+
+apparence si bizarre, c’est un grand effort. Mais je voudrais tout de suite en tirer des conclusions
+qui, pour moi, sont essentielles parce que c’est vraiment les conclusions près de tout notre
+travail, au point où nous en sommes aujourd’hui.
+Je dirais, voila… Je n’ai pas de soucis dans cette histoire du Baroque avec les distinctions, la
+complication des distinctions, [98 :00] par exemple, entre le Classique, le Baroque, le
+Maniérisme, où tantôt on nous dit [que] le Maniérisme, c’est une partie du Baroque ; non, c’est
+quelque chose avant le Baroque ; non, c’est autre chose qui… Tout ça, c’est… Tout ça c’est
+parce que [Pause] les gens, ils n’ont pas les concepts nécessaires. Je dis simplement que ce n’est
+pas compliqué. La conception classique de la substance, c’est comme, pour moi, réfléchissez-y,
+c’est Descartes. J’appellerai conception classique de la substance une conception qui fait de la
+substance… qui répond au critère de simplicité, c’est-à-dire qui définit la substance par un
+attribut constant, lequel attribut s’en distingue par une distinction de raison. Vous avez tous les
+éléments là du Classicisme : l’utilisation de la raison, la constance de l’attribut, la détermination
+de la substance par l’attribut, tout ça, [99 :00] la simplicité classique. Je dirais, l’essentiel de la
+conception classique de la substance, c’est quoi ? C’est essence-forme, ce qui veut dire quoi ? Ce
+qui veut dire [Pause] la seule forme de la substance, c’est son attribut essentiel. L’attribut
+essentiel, c’est la forme de la substance ; l’étendue est la forme de la substance-corps, de la
+substance corporelle ; la cogitatio, la pensée, est la forme de la mens, ou de l’esprit. C’est ça, le
+Classicisme. [Pause] [100 :00]
+Là, voyez, à première vue, unité, simplicité, nous semblaient des notions pas tellement
+différentes. Au point où nous en sommes, nous pouvons dire que vraiment un abîme les sépare.
+Pourquoi ? Parce que l’unité par soi, c’est l’unité qui produit des manières d’être, les manières
+d’être étant [Pause] soit des mouvements comme événements, soit des changements comme
+prédicats. [Pause] [101 :00] La substance est unité active des prédicats, ou l’unité intérieure des
+événements. [Pause] Nous retrouvons un point qui est le point essentiel de tout notre travail de
+cette année. Contrairement à tout ce qu’on fait pour ne pas comprendre Leibniz, il est évident
+que la prédication chez Leibniz n’a rien à voir avec une attribution et est même le contraire de
+l’attribution. L’attribution ou bien est un mot employé sans aucun sens, ou bien désigne la
+détermination d’un quelque chose par un attribut. Chez Descartes… [Deleuze se corrige] Chez
+Leibniz, jamais quelque chose n’est déterminé [102 :00] par un attribut, mais quelque chose se
+détermine comme unité de prédicat. Qu’est-ce qui se détermine comme unité de prédicat ? C’est
+quelque chose qui est capable de jouer le rôle d’unité par soi par rapport à des prédicats qui se
+présentent comme changement dont seule cette unité peut rendre compte, unité active, unité en
+acte. L’unité en acte, c’est le critère de la substance.
+Dès lors, si l’unité en acte est le critère de la substance, je dis que la conception de Leibniz de la
+substance est une conception qui mérite éminemment le nom de maniériste. Et s’il est difficile de
+définir le Maniérisme en peinture, il est très facile de le définir en philosophie, doit être facile de
+le définir en… [Deleuze coupe la phrase] si bien que la philosophie [103 :00] pourrait bien servir
+à ce moment-là à éclaircir cette question du Maniérisme dans les arts. Est maniériste une
+conception de la substance qui nous dit, la substance, c’est l’unité par soi de manière d’être, et
+non pas la détermination d’un quelque chose par un attribut essentiel. Est maniériste une
+conception de la substance qui nous dit, c’est l’unité intérieure du mouvement en train de se
+faire, événement, ou ce qui revient au même, l’unité active du changement intérieur, prédicat. Le
+prédicat n’est pas un attribut ; le prédicat est, à votre choix, un rapport ou un événement,
+
+                                                                                                   18
+
+[104 :00] ne serait-ce que – on vient de le découvrir – un rapport à mon corps, mais
+précédemment, on l’a vu, sous forme de d’autres rapports. Le prédicat n’est jamais un attribut.
+En d’autres termes, le Maniérisme dans la théorie de la substance chez Leibniz se présente de la
+manière suivante : le couple spontanéité-fond, spontanéité-fond, le fond de l’âme. C’est avec
+Leibniz qu’apparaît constamment cette expression, le fond de l’âme. L’âme tire de son fond tout
+le temps, tout le temps. Je prends un exemple pour vous convaincre que c’est tout le temps.
+Lettres [de Leibniz] à Des Bosses, [105 :00] il me semble important parce que… [Pause] "Les
+monades tirent tout de leur propre fond," et ça, j’ai pris un exemple, je me contente d’un
+exemple, mais croyez-moi, il y a mille, il y a le mot fond… Le fond de l’âme surgit avec
+Leibniz. Je dirais à la lettre, parce que c’est vrai, l’âme a un fond à partir de Leibniz. "Les
+monades tirent tout de leur propre fond, mais non pas comme la chaleur chez les Scholastiques
+produit ses effets de façon cachée." Il ne fait pas appel à des forces cachées ; il fait au contraire
+appel à un mécanisme parfaitement analysable et visible qui est celui de l’intégration des petites
+perceptions. Elles tirent tout de leur propre fond. En d’autres termes, [106 :00] le couple
+maniériste, c’est spontanéité-fond par opposition au couple classique qui est essence-forme.
+[Pause]
+Je ne cesse de me répéter : ce qui, ce qui, ce qui est maniériste, ce sont les mouvements en tant
+que et comme saisis en train de se faire, c’est-à-dire en tant que renvoyant à une unité intérieure,
+aussi bien chacun de leurs instants que pour l’ensemble de leur durée. Ce qui est maniériste, ce
+sont les changements, les passages, [107 :00] d’une position à une autre, d’une disposition à une
+autre en tant que renvoyant à une unité active. Et ils sortent dès lors, tout ce qui change sort d’un
+fond, et ce qui le fait sortir, c’est que son tour est venu, idée du tour qui est venu, par rapport à
+quoi ? Qu’est-ce qui décide que le tour, que le moment est venu ? Ce qui décide que le moment
+est venu, c’est précisément le développement d’une unité active. En ce sens, la prédication est le
+contraire de l’attribution puisque le prédicat est fondamentalement mouvement ou changement.
+Dès lors, la substance, c’est l’unité par soi.
+Alors, je termine en disant, bon, reprenons cette histoire [108 :00] du bruit qu’il y a là. [Deleuze
+se réfère au bruit de la porte qui s’entend constamment pendant la séance] Voilà, je me suis…,
+tout d’un coup, je me dis, il a fallu que j’attends pendant deux trimestres. Deux trimestres, il y
+avait ce bruit, mais j’étais dans le plaisir, dans le plaisir de vous parler. Et ce plaisir de vous
+parler était si vif que c’était dans mon âme la seule perception remarquable. Et c’était, bien sûr,
+une petite perception ; de temps en temps, ça me gênait, mais je ne savais même pas ce qui me
+gênait. Il y avait quelque chose qui me gênait, alors je me disais, qu’est-ce que c’est ? Et, au pire,
+j’ai peut-être fait des reproches à des innocents [Rires] en disant… mais non, je ne savais pas, je
+ne savais pas. Et puis, un jour vient où, sans doute, ça a grossi. Le bruit est devenu plus fort,
+[109 :00] et là, il s’impose à mon âme. Mais, on ne dira pas… Bayle me dirait, ah, mais tu as
+changé d’état, enfin ! Ce n’est pas spontané, le bruit, tout ça. Si ! Il y a une spontanéité dans mon
+passage. Quelque chose m’a troublé tout d’un coup ; tout d’un coup ? Pas du tout ! J’ai mis le
+temps nécessaire à faire l’intégration des petites perceptions que je traînais derrière moi depuis
+des temps et des temps, [Rires] ce petit bruit, ce petit bruit, qui taquinait mon âme et que je
+n’avais pas remarqué.
+Et c’est la même chose pour le chien. Vous sentez dès lors sur quoi il a l’air, là qui vous devance
+infiniment. Mais quand on saura ce que c’est que le corps, il ne faudra pas trop s’étonner que ce
+corps et l’âme soient, comme il dit, en harmonie préétablie puisque [110 :00] – et que ce soit
+
+                                                                                                   19
+
+comme deux séries – puisqu’il y aura la série du corps qui ne cesse ps d’instant en instant de
+faire que le moment suivant du mouvement découle du mouvement précédent et fasse
+l’intégration des différentielles. Alors [il y a] le bâton qui se transporte, mouvement-translation,
+qui se lève, mouvement ascensionnel, et qui retombe sur moi, pauvre chien. Et dans la série de
+l’âme du pauvre chien, les petites perceptions – voyez, il n’y a aucune communication, comme
+dira Leibniz, il n’y a aucune communication de l’âme et du corps -- chacun d’après sa série
+exprime une seule et même chose. [111 :00] C’est comme deux projections de la même chose.
+Bon, voilà.
+Mais je crois que réellement, à ce niveau, dans notre premier critère, c’était la recherche d’un
+critère logique. Vous vous rappelez, le critère logique, c’était chez Leibniz, c’était simple :
+qu’est-ce que veut dire l’inhérence ou l’inclusion du prédicat dans le sujet ? On l’avait vu. Ce
+qu’on n’avait pas vu, c’était en quoi c’était une formule absolument nouvelle. On n’avait vu que
+le prédicat chez Leibniz, malgré des apparences, ne pouvait pas être un attribut. Mais aujourd’hui
+seulement, on a à mesurer les conséquences de l’opposition du prédicat leibnizien à l’attribut
+cartésien, et comme, en un mot, la substance cartésienne est tout entière sous le signe classique
+de la simplicité, tandis que la substance leibnizienne est sous le signe maniériste [112 :00] de
+l’unité par soi… [Interruption de la séance] [1 :52 :02]
+Partie 3
+… Vous comprenez, ce qui me gêne un peu aujourd’hui, c’est que j’ai dû mordre sur des choses
+qu’on n’a pas faites du tout encore puisque je me suis donné l’existence de corps déjà, dont on ne
+sait pas d’où ils viennent, ces corps. Ça… [Pause] Alors, à votre choix, là, ça dépend vraiment
+de l’état dans lequel vous êtes, ou bien je continue dans [ce qu’on fait], une fois dit que c’est
+difficile, mais pas très, ou bien je développe plus une généralité, une généralité facile mais…
+Moi, je préfère continuer plus si vous n’êtes pas trop… Il n’y a pas de questions sur là-dessus ?
+[113 :00] ... Oui ?
+Une étudiante : Une question sur un mot. Quand vous dites qu’une aperception est une
+perception non-remarquée…
+Deleuze : Aperception, avec a-p-e-r, c’est une perception consciente, au sens de "apercevoir",
+s’apercevoir. … Pour le texte, tu le trouveras dans Monadologie, la distinction des petites
+perceptions et de l’aperception. [Pause]
+Alors continuons dans le un peu difficile. On vient de voir le critère logique, comparé de la
+substance chez Descartes et chez Leibniz. Chez Descartes, encore une fois, ce que j’ai dit est
+évidemment honteux dans la mesure où cela n’était pas mon sujet. Je veux dire, je n’en ai dit que
+très insuffisamment. Eh bien. Je dis, il y a un tout autre critère aussi, [114 :00] un autre jeu de
+critères, qu’on pourrait appeler épistémologique. Qu’est-ce que c’est cette fois ? Je dirais, chez
+Descartes, si vous prenez Descartes, de même que tout à l’heure, il définissait la substance par un
+Simple, eh bien, il lui arrive dans d’autres textes de définir la substance par le Complet en disant
+non plus que la substance est quelque chose de simple, mais en disant que la substance, elle est
+quelque chose de complet. [Pause]
+Alors qu’est-ce que ça veut dire ? Là aussi, il donne un sens très précis, et il dit surtout – et
+Arnauld ne comprend pas. Arnauld ne comprend pas bien ce qu’il veut dire. [115 :00] Dans les
+objections qu’Arnauld fait à Descartes, il revient beaucoup sur ce thème du Complet, et il force
+
+                                                                                                       20
+
+Descartes à s’expliquer heureusement. Et Descartes dit, faites bien attention ; ne confondez pas
+le Complet avec l’Entier. Je ne dis pas que la substance soit quelque chose d’entier. Je dis que,
+en effet, pour Descartes, elle n’est pas entière puisqu’il y a des modes, et que les modes ne sont
+pas de la substance. L’Entier, c’est la substance plus tout ce qui lui appartient, [Pause] c’est-àdire la substance avec ses modes. Mais le Complet, c’est tout à fait autre chose. [Pause]
+[116 :00]
+ Le Complet, c’est un quelque chose que, premièrement, je peux penser comme réellement
+distinct d’une autre chose petit b, [Pause] et deuxièmement, quand je la pense ainsi, je la pense
+comme distincte de toute autre chose, et elle est complète en ce sens. Je la pense comme
+réellement distincte d’une autre chose petit b, mais en la pensant comme réellement distincte
+d’une autre chose petit b, je la pense comme réellement distincte de [117 :00] toute autre chose.
+Exemple… c’est-à-dire, elle se suffit comme pensée. Exemple : cette fois-ci, le critère, je vous
+disais, le critère de simplicité s’appuie sur la distinction de raison, vous vous rappelez ; le critère
+de complétude s’appuie sur la distinction réelle. [Pause] L’esprit est substance, ça veut dire
+quoi ? Du point de vue de la complétude, ça veut dire, je le conçois comme réellement distinct de
+l’étendue, [118 :00] c’est-à-dire, je peux en nier tout ce qui appartient à l’étendue, [Pause] et
+dans la mesure où je le fais, je la distingue de toute autre chose.[Pause] En ce sens, la même
+chose pour l’étendue, je dirais, l’étendue et la pensée sont réellement distinctes. Le raisonnement
+de Descartes est exactement, deux choses réellement distinctes, c’est-à-dire conçues comme
+réellement distinctes, peuvent être entendues, peuvent être conçues l’une sans l’autre. [119 :00]
+Deuxième proposition : deux choses entendues l’une sans l’autre sont séparables. [Pause] Voilà.
+[Pause]
+Et Leibniz s’introduit entre ces deux propositions, avec violence, en disant qu’il y a quelque
+chose qui ne va pas. Descartes, une fois de plus, c’est toujours l’objection que Leibniz fait à
+Descartes : il va trop vite. Une fois de plus, il est allé trop vite. Il n’avait pas le droit de conclure
+de la première la seconde proposition. Pourquoi ? C’est que deux choses entendues l’une sans
+l’autre [120 :00] sont séparables, c’est très vrai, dit Leibniz. Mais qu’est-ce que ça veut dire,
+deux choses entendues l’une sans l’autre ? Ça veut dire que les réquisits de l’une – vous vous
+rappelez cette notion de réquisits – les réquisits de l’une sont distincts des réquisits de l’autre.
+[Pause] Alors si on revient à la première proposition, deux choses réellement distinctes peuvent
+être entendues l’une sans l’autre. Non, non, ce n’est pas vrai. Deux choses réellement distinctes,
+c'est-à-dire conçues comme réellement distinctes, peuvent être entendues l’une sans l’autre, oui,
+mais à condition, à condition qu’elles n’aient pas les mêmes réquisits. Or deux choses entendues
+l’une sans l’autre… Deux choses réellement distinctes peuvent très bien avoir les mêmes
+[121 :00] réquisits. Pourquoi ? Parce que les réquisits ne font pas partie de l’idée des deux
+choses, ou d’une certaine manière, n’en font pas partie. En effet, vous vous rappelez, ce sont des
+limites ; les réquisits sont des limites et des rapports entre limites. [Pause]
+Réponse des Cartésiens… Ah, ça risque de ne pas s’arranger parce que – voyez, là, il y a matière
+à discussion, et ça donne quoi, la discussion ? – Réponse des Cartésiens : il n’a rien compris,
+Leibniz, parce qu’il oublie qu’on parle de substance, c’est-à-dire de choses simples. Or, les êtres
+simples n’ont pas de réquisit. [Pause] Donc, [122 :00] Descartes a raison. [Pause] On ne risque
+pas de s’entendre ; ils ne parlent plus de la même chose. Réponse de Leibniz : Les substances ne
+sont pas des êtres simples. Elles se définissent non par la simplicité, mais par l’unité. Or ce qui
+est Un par soi a parfaitement des réquisits. [Pause] En d’autres termes, le deuxième critère de la
+substance, je l’appelle par commodité, critère épistémologique, ce qui consiste cette fois-ci à
+
+                                                                                                   21
+
+définir la substance, selon Leibniz, la définir par l’assignation de ses réquisits, une fois dit que
+même la substance a des réquisits, étant non pas un être simple, mais un être un par soi. [123 :00]
+Ce thème des réquisits et de la discussion entre le point de vue de Descartes et le point de vue de
+Leibniz se trouvent dans la correspondance Leibniz-Malebranche. [Pause] Ouais ? Ça va jusqu’à
+là ?
+Donc on est dans un tout autre domaine. Maintenant, c’est l’histoire de définir la substance par
+les réquisits. Il faut s’attendre à ce que l’on obtienne de la substance une tout autre définition que
+la première. La première définition, c’était l’unité par soi, c’est-à-dire l’unité intérieure du
+mouvement en train de se faire ou unité active du mouvement intérieur. Eh ben, voilà. Il faut
+faire… C’est là qu’il faut faire un petit détour par Aristote, car celui à avoir dit dans son langage
+[124 :00] à lui, la substance est une, et se définit par l’unité, c’était déjà Aristote. Seulement, il
+ne comprenait pas l’unité, ni le changement, ni le mouvement, comme Leibniz. Et je reviens à
+mon thème de la dernière fois, parce qu’il va devenir très important, et je voudrais que vous ne
+l’oubliiez pas. Lorsque Leibniz réactive Aristote, je vous disais, il ne fait pas de la résurrection
+sans raison parce que, en fait, il change complètement Aristote. Il se sert d’Aristote, mais pour
+faire quoi ? [Pause] [125 :00] Ça correspond tout à fait à ce que je vous disais. Je vous disais que
+pour moi, la dernière fois quand on parlait un peu de la philosophie, de ce que c’est que faire de
+la philosophie, je vous disais, pour moi, jamais la philosophie n’a consisté à réfléchir, par
+exemple, sur la science, mais elle a consisté à faire la métaphysique de la science. Et ce n’est pas
+du tout une réflexion sur la science, mais une métaphysique qui donne les concepts
+correspondants aux fonctions de la science, une condition qui ne donne pas de concepts, mais qui
+découvre des fonctions. Et je vous disais, ben, c’est tout simple. C’est parce qu’il y a une
+certaine conception moderne du mouvement en physique que Bergson élabore son concept
+philosophique de durée. [Pause]
+Je trouve tout à fait le même thème chez Leibniz. Leibniz dit, [126 :00] en très peu de temps, la
+physique a changé. Descartes, notamment, sa physique du mouvement ne tient plus. Il y a une
+toute nouvelle physique du mouvement qui est en train de se dessiner – c’est le thème constant
+de Leibniz – avec moi-même, Leibniz, et avec Newton, qui sont contemporains. Newton et
+Leibniz sont en train de faire une nouvelle physique comme une nouvelle mathématique, qui
+rend, ils disent, où il y a des acquis cartésiens, on s’appuie sur des acquis cartésiens, mais c’est
+une mutation, une mutation de la physique et des mathématiques. Et Leibniz dit, mais c’est la
+moindre des choses. Chaque nouvelle physique et chaque nouvelle mathématique réclament une
+nouvelle métaphysique. [127 :00] Et c’est cette nouvelle métaphysique qui aura besoin de
+ressusciter quelque chose d’Aristote. Elle n’aura pas besoin de revenir à Aristote ; ce ne sera pas
+un retour à Aristote. Elle aura besoin des choses qu’Aristote avait découvertes -- et que Descartes
+n’a pas su conserver --, qu’il avait découvertes en fonction de sa physique à lui, à savoir
+notamment que la substance avait des réquisits. Alors, c’est pour ça qu’il nous faut un petit
+détour par Aristote.
+Et comment procédait Aristote, lui, dans sa théorie de la substance, une fois qu’il nous avait dit,
+la substance est l’unité du mouvement et l’unité du changement ? Il faudra voir, il va falloir voir
+en quoi ce n’était pas du tout du Leibniz. [128 :00] Mais il y avait quand même ce point en
+commun, ce qui fait qu’ils ont une affinité, ils ont quelque chose à faire l’un avec l’autre. Leibniz
+manifestement a pour Aristote une admiration ; il ne supporte pas la manière dont Descartes a
+traité Aristote. Et ils coïncident, si vous voulez, au moins verbalement, dans les formules, oui, la
+substance est l’unité du mouvement en train de se faire, et la substance est l’unité du changement
+
+                                                                                                    22
+
+intérieur. Alors, sur ce point, ils sont d’accord, quitte à concevoir mouvement et changement
+d’une manière tout à fait différente. Mais justement, pourquoi est-ce une manière différente ? Et
+je vais essayer de vous raconter le concept de substance chez Leibniz, mais je vais vous le
+raconter comme une histoire … d’Aristote ; je mélange tous !
+Aristote, il dit, oui, le changement, le changement, c’est quoi ? [129 :00] Le changement, c’est
+un drôle de chose ; c’est le passage d’une qualité à une autre. Seulement, il y a beaucoup de
+philosophes avant moi, dit Aristote, qui ont cru que ce qui changeait était une qualité, que la
+qualité passait dans son contraire, le chaud devenait froid, le froid devenait chaud. Aristote dit, la
+physique, telle qu’il l’a faite, exclut tout à fait ça. On n’a jamais vu le chaud devenir froid, ni le
+froid devenir chaud. Ce n’est pas vrai ça, ça, que dit Aristote, non qu’il y ait déjà d’autres…
+[Deleuze ne termine pas la phrase] Il dit, [Pause] c’est quelque chose qui devient, qui de froid
+qu’il l’était, devient chaud. En d’autres termes, [130 :00] il y a un tiers. Il y a trois termes, pour
+le moment.
+Pourquoi [est-ce que] ça me contente ? Vous vous rappelez – alors là, je veux vraiment tout
+mélanger – vous vous rappelez quand j’ai insisté, toujours dans notre séance dernière, quand j’ai
+essayé de parler de la philosophie en général, où je vous ai dit [qu’] un concept, un philosophe,
+c’est quelqu’un qui crée des concepts. Ce n’est pas quelqu’un qui réfléchit sur quoi que ce soit. Il
+crée des concepts comme un peintre crée un quelque chose, comme un savant crée des fonctions,
+etc. Un philosophe, ça crée des concepts. C’est son métier, bon. Quelqu’un qui ne crée pas de
+concepts, il peut être tout ce que vous voulez, il n’est pas philosophe. Donc, il y a aujourd’hui
+beaucoup de gens, et je n’y vois aucun inconvénient d’ailleurs, qui se disent philosophes et qui
+n’ont jamais fait un mot de philosophie parce qu’ils seraient incapables de signaler le moindre
+concept qu’ils ont créé, une fois dit qu’on ne peut pas considérer que les droits de l’homme
+soient un concept qui aient été créés par ces philosophes-là. [Rires] Donc, ils sont très
+estimables, mais ça n’a rien à voir, ni de près, ni de loin, [131 :00] avec la philosophie. [Comme
+dans la séance précédente, il s’agit ici des soi-disant "Nouveaux philosophes", contre qui
+Deleuze avait écrit dans un texte paru en 1977, repris dans Deux régimes de fous et autres
+textes, pp. 126-134.]
+Si on me dit, en quoi Descartes est [-il] philosophe, je peux le dire. Si on me dit, en quoi Leibniz
+est [-il] philosophe, en quoi Whitehead l’est, tout ça, je peux répondre à de pareilles questions. Il
+y a un certain nombre de cas où on peut dire qu’ils sont, que c’est très intéressant. Je ne sais pas
+bien ce qu’ils sont [ces philosophes-là], mais en tout cas, ils ne sont pas philosophes si ils ne
+peuvent pas le dire, eh ben oui, si ils ne peuvent pas le dire -- ça n’empêche pas la plus grande
+modestie – si ils ne peuvent pas le dire avec beaucoup de modestie, j’ai essayé de créer tel
+concept, bien. Même le grand Albert Camus, je n’ai jamais vu qu’il fut philosophie en quoi que
+ce soit. Mais enfin, tout ça, c’est, c’est pour permettre, je voudrais arriver à un sens de la
+philosophie qui permet, non pas de dire que la philosophie, c’est mieux que le reste -- tout au
+contraire, que ce n’est pas mieux -- mais qu’il ne vaut pas la… que, tout comme on n’appelle pas
+peinture n’importe quoi, on n’appelle pas philosophie n’importe quoi. Encore, en revanche ça
+n’empêche pas les gens de penser. Un peintre pense ; [132 :00] mieux, ma concierge pense.
+Penser, ce n’est pas forcément de faire de la philosophie. Les gens pensent parfaitement sans
+faire de la philosophie.
+
+                                                                                                      23
+
+Bon, alors, tout ceci dit, je dis… Je vous disais, vous comprenez, un concept, inventer un
+concept, c’est constituer un certain ensemble de singularités. C’est le moment de le vérifier.
+D’une certaine manière, est-ce qu’on ne peut pas dire que le concept de substance est un concept
+que crée Aristote ? Alors là, il faudrait beaucoup de discussion. Qu’est-ce qu’on appelle créer un
+concept, parce que le mot même [substance], par exemple, est-ce que le mot et la chose… Est-ce
+que le mot existe chez Platon ? Eh bien, peut-être bien qu’il existe, mais est-ce que c’est un
+concept platonicien ? Ça consisterait à dire qu’il a une certaine position dans le système de
+Platon et qu’il réunit [133 :00] un certain nombre de singularités propres à Platon. Moi, je
+pencherais pour l’idée, non, ce n’est pas un concept platonicien bien qu’on puisse trouver, en
+tout cas qu’on trouve le mot ουσία ou qu’on trouve [mot grec] chez Platon, mais ce n’est pas
+pareil … [des bruits de changement de cassettes bloquent la fin de la phrase]. Supposons, je dis
+– je n’y tiens pas, c’est une idée – si on me dit, moi j’ai le sentiment que c’est Aristote qui
+invente le concept de substance, ça fait partie de, si je dis, si je dis à Aristote, qu’est-ce que tu as
+apporté, toi, à la philosophie ? Pourquoi tu es un grand philosophe ? Sa réponse, il me répond,
+mon petit gars, j’ai au moins inventé le concept de substance, [Rires] et puis bien d’autres. Alors,
+si j’ai dit, oh qu’est-ce que ça peut faire au monde ? Il dit, mais, pour vous, c’est tout simple ; ce
+n’est pas à moi à d’en décider. Bien.
+Alors, eh, quelles singularités ? Je dis, voilà, [134 :00] immédiatement, je peux grouper sous le
+terme "substance" chez Aristote trois singularités, à première vue, eh ? Il n’y en a plus deux,
+c’est-à-dire, il n’y a pas une qualité qui devienne une autre qualité ; il y a une chose qui reçoit
+deux qualités contraires ou qui passe d’une qualité à l’autre qualité. Il y a donc la chose et les
+deux qualités, une chose et deux qualités. Une chose et deux qualités, voilà ce qu’il faut pour
+faire de la substance. [Pause] Voyez, c’est donc trois points. Evidemment on ne peut pas en
+rester là.
+Seconde analyse assez extraordinaire d’Aristote : qu’est-ce que c’est que les deux qualités ?
+[135 :00] – Ah, oui, je précise. A ce niveau, donnons-leur des noms. On dira que la chose qui
+passe d’une qualité à l’autre, la chose qui reçoit et qui est apte à recevoir les qualités contraires,
+on l’appellera matière. [Pause] C’est logique. Il n’y a pas besoin de l’expliquer. Ça convient
+bien. Matière, en effet, c’est ce qui est apte à recevoir le chaud et le froid, le blanc et le noir, ça
+va. On s’y retrouve. Mais, à ma connaissance, personne n’avait dit ça avant Aristote. Je distingue
+une matière et deux qualités, et la matière, c’est la puissance de recevoir les deux qualités
+contraires et de passer l’une à l’autre. [136 :00] Vous sentez, on est déjà en pleine philosophie
+parce qu’on est en train de grouper trois singularités.
+Deuxième moment de la réflexion, parce que ce n’est pas assez ; l’on sent bien que ce n’est pas
+assez. Deuxième moment de la réflexion : le contraire ne passe pas dans son contraire. C’est la
+matière qui passe d’un contraire à l’autre. Mais alors, quel est le rapport des deux contraires ?
+Vous voyez que c’est une logique de la contrariété. Ça confirme ce que je vous disais, et on sent
+déjà que les distinctions existeront chez Aristote, mais qu’elles seront subordonnées à des
+processus de contrariété. C’est une logique de l’opposition, la contrariété étant un cas, [137 :00]
+un cas privilégié d’ailleurs. Peu importe pourquoi ; il faudrait expliquer toute la théorie de
+l’opposition chez Aristote, dont vous me la passez, vous me l’épargnez, pas une question
+ennuyeuse, mais de ce que j’en parlerais trop. Donc acceptez l’idée que la contrariété et
+l’opposition comme la plus parfaite.
+
+                                                                                                    24
+
+Mais, dans son goût de la perfection en tant que philosophe, Aristote se demande, et quelle est la
+forme la plus parfaite de la contrariété ? Est-ce qu’il y a une contrariété parfaite ? Oui, dit-il,
+c’est la contrariété de la possession et de la privation, [Pause] [138 :00] c’est la contrariété de la
+possession et de la privation. Ça c’est la contrariété parfaite. Vous me dites, pourquoi les autres
+contraires, quelles sont les autres contrariétés ? Epargnez-le-moi aussi, parce que il faudrait
+qu’on y mette trois heures, donc. Mais c’est très bon ; faites-moi confiance, c’est très, très bon,
+tout ça.
+Exemple : on voit bien ce qu’il veut dire. Qu’est-ce qu’il veut dire ? Parce qu’on ne va pas le
+commenter de manière savante. On cherche de manière très, très intuitive. C’est très simple.
+Voilà deux contraires, la mort et le vif ; ils ne se valent pas. L’un est plus parfait que l’autre. Il
+vaut mieux être vivant que mort. [Pause] Mort, c’est une qualité selon la privation, là sans vie.
+Mais, la vie, [139 :00] c’est une qualité suivant la possession. [Pause] Voilà mes trois termes
+déjà. J’ai fait un progrès. Mes trois termes, ce n’est plus matière et deux qualités contraires ; c’est
+matière, privation, possession. Je meurs ; ça signifie [que] mon corps passe de la possession à la
+privation. Je nais, etc. C’est le passage inverse.
+De même le chaud et le froid. Dans la physique d’Aristote, il montre que le froid n’est qu’une
+privation du chaud. C’est le chaud qui est la qualité suivant la possession et le froid [140 :00] est
+la qualité suivant la privation. [Pause] Dans un texte splendide, Aristote montrera que le vin est
+une qualité de l’eau, et que la qualité selon la privation correspondante, c’est le vinaigre. [Rires]
+Ça répond à toute une physique. Si on nous dit que cette physique est dépassée, la remarque n’a
+strictement aucun intérêt car, en revanche, ce qui n’est pas dépassé, c’est le concept. [Pause]
+Voilà qu’il nous dit donc, voyez que maintenant, les trois singularités réunies par la substance,
+ça, c’est matière, privation, [141 :00] possession ; l’un est qualité selon la privation, l’autre est
+qualité selon la priva… selon la p… Enfin, je ne sais plus ce que je dis là ; vous les suppléez
+vous-mêmes.
+Troisième degré de la réflexion : la matière dès lors n’est pas seulement la puissance de recevoir
+des contraires. Elle n’est pas seulement puissance de recevoir les deux qualités contraires.
+[Pause] En tant qu’elle est seulement puissance, elle est elle-même privation. Privation de quoi ?
+Ben, elle ne possède pas [142 :00] encore la qualité selon la possession. [Pause] Elle l’est
+seulement en puissance ; le bronze est statue en puissance. [Pause] Et la qualité selon la
+possession, qu’est-ce qu’elle est dès lors ? Elle est forme. [Pause] Ce que la possession possède,
+c’est la forme, ou ce qui possède la possession, c’est la forme. [Pause] Mes trois points
+singuliers, c’est matière, [143 :00] privation de la forme, forme. Forme qui quoi ? Forme qui se
+réalise ou non dans la matière. [Pause] Forme qui se réalise dans la matière quand la matière
+prend, est en possession de la forme, le bronze devenu statue, [Pause] ou qui est en privation de
+forme lorsque la statue est tassée ou lorsque la statue n’est pas encore faite. [Pause] Je définirais
+donc la forme comme ce qui s’actualise [144 :00] dans la matière, et je dirais ce que la forme est
+en acte, la matière l’est en puissance. [Pause] Ce qui me donne alors quel complexe de
+singularités pour la notion de substance ? Maintenant, matière, privation, possession, [Pause]
+[145 :00] forme, acte, la forme étant précisément l’acte qui s’actualise dans la puissance. [Pause]
+Pour le moment, j’ai donc… [Un étudiant chuchote : Cinq] cinq singularités. [Pause]
+Il en découle enfin deux autres singularités, et ce sera tout. Si la matière en elle-même, en tant
+que matière, est privation de la forme, j’appellerai matière première celle qui n’a en acte aucune
+
+                                                                                                    25
+
+forme, [Pause] [146 :00] quelle qu’elle soit, matière première, c’est-à-dire c’est une pure
+matière. [Pause]
+Mais est-ce qu’il y a de la pure matière ? Toute matière, sans doute, a une forme, tout en étant
+privation par rapport à une autre forme. Exemple : je sais bien que les organes sont faits de
+tissus. C’est la biologie d’Aristote. Mais les tissus, c’est déjà une matière [147 :00] informée,
+c’est déjà une matière qui a une certaine forme. Mais elle est encore en privation d’organe.
+[Pause] Pour l’homme qui travaille le fer, le fer est une matière informée. C’est une substance.
+C’est une matière et une forme. C’est une pure matière là, comme à extraire. C’est une pure
+matière dans la mine. Et lui, il lui donne déjà une forme, mais pour un stade ultérieur, c’est une
+privation de forme. [148 :00] Par exemple, pour l’artiste qui veut en faire une coupe, qui veut en
+faire une potiche, ça manquera encore de forme. En d’autres termes, toute matière informée est
+encore une matière par rapport à une forme plus élaborée, eh ? On appellera matière seconde
+l’ensemble matière-forme en tant qu’il manque d’une forme plus parfaite. [Pause] Je dis que
+toute forme, quelle qu’elle soit, actualise la puissance d’une matière. [Pause] [149 :00] En ce
+sens, toute forme est unité active. [Pause]
+Je récapitule. J’ai, dans l’ordre alors, puissance… Maintenant, dans l’ordre final : puissance,
+quelque chose qui est en puissance, et c’est défini par la puissance de recevoir des contraires,
+c’est 1. Deux : le contraire suivant la possession, c’est la forme ; [Pause] [150 :00] Trois :
+[Pause] la forme actualise la puissance, c’est-à-dire la forme est unité active. [Pause] – [Est-ce
+que] j’ai déjà parlé de la privation, oui ? Non ? [Voix des étudiants : Oui ! Non, non…] Non,
+alors ça ne va pas aller…– Quatre, mais je ne sais plus où la mettre, je la mettrai… ? Oh, je ne
+sais pas. Vous la mettrez quelque part, la privation, et matière première et matière seconde
+suivant la hiérarchie des formes. [Pause] [151 :00] Enfin, quelques sens que ça doit pouvoir
+tourner, d’ailleurs : matière, puissance, acte, forme, … matière, possession, privation, matière
+première, matière seconde [Voir ci-dessus pour cette hiérarchie : matière, privation, possession,
+forme, acte, matière première et matière seconde]. Voilà l’ensemble des singularités qui définit le
+concept de substance chez Aristote.
+Voyez ce qu’il y a de commun avec Leibniz. La substance est toujours appréciée par rapport au
+changement. Voyez ce qu’il y a de commun avec Descartes : la forme suivant la possession, et la
+préfiguration d’un attribut essentiel. C’est un drôle de truc qui se fait là, si bien que, d’Aristote à
+Descartes, il y a toutes sortes de courants qui essayeront de définir déjà la substance par quelque
+chose semblable à l’attribut essentiel qui sera la forme suivant la possession [152 :00] d’Aristote.
+Il y a toutes sortes de passages, tout ça.
+Mais l’autre aspect, unité, unité du changement interne, il y a forme comme unité du changement
+interne. Ça sera en pleine direction que va reprendre Leibniz, à quelle charge ? Il ne faut pas
+s’étonner que Leibniz restaure aussi. Il dit, vous savez, je n’ai pas fini de restaurer plein de
+choses d’Aristote. Il va restaurer l’idée de matière première et de matière seconde, et d’une
+manière complètement nouvelle. Tout ça, on se trouve dans, dans l’histoire.
+Et qu’est-ce qu’il veut, Descartes, lui ? Sentez, l’épuration que fait Descartes, qu’il fait par
+rapport à Aristote. Il supprime ; qu’est-ce qu’il supprime ? [153 :00] Il supprime la puissance
+puisqu’il considère que c’est une espèce de notion non-scientifique ; tout est en acte. Donc,
+parler de choses qui sont en puissance, de virtualité, tout ça, c’est le paganisme, c’est le Moyen
+Age. Donc, [il n’est] plus question qu’il y ait puissance. Est-ce qu’il peut y avoir ? Non. [Alors]
+suppression de la puissance. Voilà, ça y est, chez Descartes, pas de problème. Il n’y a plus rien
+
+                                                                                                       26
+
+qui ressemble à une puissance. L’étendue est parfaitement actuelle ; elle ne peut pas être une
+puissance de recevoir des formes, non. Donc, suppression de la puissance.
+Deuxièmement, suppression de la privation. Il n’y a pas de privation. Qu’est-ce qui va remplacer
+la privation ? Ça va être la grande thèse, et c’est ça qui lui autorise la théorie des distinctions. Il
+n’y a pas de privation ; il y a une délimitation. [154 :00] Il y a une délimitation. Une chose n’est
+que ce qu’elle est. Elle n’est jamais privée de quoi que ce soit. Elle est limitée. Et ce sera une
+thèse que vous trouvez partout. Ou vous trouvez très souvent le mot "privation" dans les textes
+du dix-septième [siècle], mais vous y trouvez toujours un contexte qui dit, ou bien explicitement,
+ou bien sous-entend, car toute privation doit être entendue comme une simple limitation, la
+limitation de la créature qui remplace toute privation. C’est même pourquoi Dieu n’est pas
+responsable du mal. C’est la limitation de la créature. Bien plus, on verra, on verra que, pourquoi
+c’est très important chez Leibniz, ça. Donc, plus de privation. [155 :00] Vous êtes à : plus de
+matière, plus de puissance, plus de privation. Donc, qu’est-ce qui reste ?
+Il reste, oui, d’une certaine manière, il dirait ceci : il reste la forme et la matière. Plus d’actes, il
+n’y a plus d’actes. Il reste la forme et la matière, mais tellement transfigurées, tellement
+changées, puisque la forme, ce sera quoi ? Ce sera l’attribut essentiel, l’essence, [Pause] et la
+matière, ce sera la chose, la res, qui possède cet attribut essentiel et qui ne peut pas en être privé.
+Vous ne pouvez pas priver un corps d’une étendue quelconque. Simplement, le corps est limité,
+[156 :00] un point, c’est tout. Vous ne pouvez pas priver l’esprit d’une pensée quelconque.
+Voyez, le concept de… Je ne dis pas que le concept de substance chez Descartes soit moins
+riche. Je dis qu’il est fait avec deux singularités, deux singularités. Il n’est pas moins riche parce
+que ces deux singularités, nouvellement disposées, impliquent toute une critique des autres
+singularités. Et les deux singularités, c’est la matière qui n’est plus qu’une chose, et l’attribut
+essentiel qui n’est plus qu’une essence.
+Dès lors, quelle est la différence entre la forme et la matière ? Ce n’est pas acte-puissance. Il va
+falloir qu’il trouve un nouveau type de rapport. Ce n’est pas la forme qui est acte et la matière
+qui est puissance. [157 :00] C’est la forme qui est [Pause] idée dans l’esprit, idée dans l’esprit
+qui la pense, [Pause] et la matière qui est position de la chose hors de l’esprit. Quelle est la
+différence entre la substance et l’attribut essentiel ? Quelle est la différence entre l’étendue et le
+corps ? Entre la pensée et l’esprit ? Ce n’est pas difficile. L’étendue, c’est l’attribut essentiel,
+c’est-à-dire l’idée que vous vous formez dans votre esprit, et la substance ou la chose même, ce
+qu’il appelle la res, c’est uniquement la position de l’attribut hors de l’esprit qui le pense, c’est-àdire la position dans l’existence. [158 :00] [Baisse momentanée du volume de l’enregistrement]
+Qu’est-ce qui va se passer chez [Descartes] ? Inutile de dire, matière première et matière seconde
+disparaissent, avec quels problèmes, quelles conséquences pour Descartes ? Eh bien, avec des
+conséquences que ceux qui ont un peu lu Descartes connaissent, c’est le problème formidable
+dans lequel il va se trouver lorsqu’il va s’agir de rendre compte de la réunion de l’âme et du
+corps, c’est-à-dire est-ce qu’il faut réintroduire une troisième substance qui sera le mélange de
+l’âme et du corps, et quel serait le statut de cette troisième substance ? Et est-ce que, avec la
+troisième substance, ne se réintroduisent pas toutes sortes de trucs qu’il avait cru éliminer dans
+une réaction contre Aristote ? Peu importe.
+Et voilà que Leibniz, lui, il va surgir -- [159 :00] il faudrait juste terminer là-dessus – et que lui
+aussi, va nous dire, comme Aristote, la substance a un certain nombre de réquisits -- ça, laquelle
+on ne peut pas connaître -- et ces réquisits n’ont rien à voir avec l’attribut essentiel dont
+
+                                                                                                      27
+
+Descartes se contentait. Bien plus, les substances ont des réquisits communs si bien qu’il n’y a
+rien de séparé dans la nature. Voyez là, directement contre Descartes, il n’y a rien de séparable
+même dans la nature, mais comme disent les Stoïciens, tout conspire. Vous me direz, mais si !
+Les monades, elles, sont séparées, puisque chacune contient l’univers, elles n’ont rien de
+commun, et rien ne passe de l’une à l’autre. Mais, il y a l’idée prodigieuse et une formule très,
+très belle dans une lettre de [160 :00] Leibniz, une très, très belle formule, où il dit, ça ne peut
+pas se traduire, alors… Les substances individuelles sont des monades, mais ne sont pas, sed non
+monacheia, [Pause] mais ne sont pas des cellules, des cellules monacales, c’est-à-dire elles sont
+séparées les unes des autres, d’accord, elles ne communiquent pas les unes avec les autres,
+d’accord, mais elles expriment le même monde, elles expriment le même monde chacune de son
+propre point de vue. Ce ne sont pas des cellules de moines. [Pause]
+Bien, alors, qu’est-ce que ça va être, les réquisits de la substance ? Je vais les donner en vrac
+parce qu’on verra la prochaine fois comment [161 :00] les organiser. Voilà que lui, il va faire son
+analyse où il va prendre Aristote comme de revers, c’est très curieux. Il va garder de Descartes
+un point fondamental : il n’y a pas de privation, il y a des limitations. Par là, il est vraiment
+cartésien, il appartient au dix-septième siècle. Seulement voilà, tout est puissance. Finalement, il
+n’y a que de la puissance. Il n’y a que de la puissance parce que loin que la puissance et l’acte
+s’opposent, [Pause] l’acte est une puissance, [Pause] et l’autre puissance, c’est la limitation.
+[162 :00] Il y a une puissance, la limitation, qu’on appellera puissance passive, [Pause] et il y a
+une autre puissance qu’on appellera puissance active. L’acte est lui-même puissance. Toute
+puissance est en acte. La puissance active est acte. En d’autres termes, la forme est devenue
+sujet ; elle a cessé d’être essence. Elle est devenue l’un par soi. [Pause] Donc, nous avons
+puissance primitive active, puissance primitive passive. La puissance primitive passive, c’est la
+limitation ou [163 :00] matière première. Il en découlera nécessairement, ce qu’il montrera, c’est
+très, très curieux, il en découlera nécessairement une matière seconde. [Pause]
+Donc, il va y avoir tout un complexe de singularités proprement leibniziennes, puissance active,
+puissance passive, matière première, matière seconde, qui vont s’organiser en fonction d’une
+nouvelle physique et d’une nouvelle mathématique. A chaque fois, si je peux dire, il y a un
+concept original de substance chez Aristote, il y a un concept original de substance chez
+Descartes, il y a un concept original de substance chez Leibniz. C’est en fonction, il me semble,
+de ces points singuliers qu’il groupe [164 :00] sous le concept. Pourquoi avoir gardé le même
+mot ? C’est évident, qu’à certains égards, il est appelé à remplir la même fonction, une fonction
+semblable, une fonction, je veux bien.
+Alors, bon, je voudrais que vous réfléchissiez un peu à tout ça et où on en est, et à la prochaine
+fois, j’essayerai d’en expliquer la répartition leibnizienne. [Fin de l’enregistrement] [2 :44 :26]

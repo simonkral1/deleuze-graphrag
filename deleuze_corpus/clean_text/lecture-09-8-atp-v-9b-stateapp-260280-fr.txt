@@ -1,0 +1,1168 @@
+1
+
+Gilles Deleuze
+
+Séminaire du 26 février 1980
+
+Appareils de Capture et Machines de Guerre
+
+St. Denis, Séance 09
+
+Transcription : Annabelle Dufourcq (avec le soutien du College of Liberal Arts, Purdue
+University), transcription augmentée, Charles J. Stivale
+
+Partie 1
+
+D’autre part… euh… nous allons bientôt… nous allons bientôt avoir fini la première partie de
+notre travail, hein ? Alors je fais très vivement appel à vous, à un certain nombre d’entre vous,
+parce que, moi, je concevrais la fin de l’année, la seconde partie… euh… sous forme de : moi,
+me mettant un peu à votre disposition, c’est-à-dire faisant des choses séparées en fonction de
+l’état du travail de certains d’entre vous… Que ce soit des précisions… par exemple, vous
+pouvez très bien me demander… euh… d’après votre travail à vous, de faire une séance sur un
+auteur ou bien sur… euh… un sujet… Tout ça, on ferait des choses très… euh… découpées,
+hein ? Alors, c’est à vous de voir.
+
+Alors, il y en a déjà quelques-uns qui m’ont demandé de faire… mais, là, ça me paraît plus gros,
+c’est-à-dire c’est si… de faire quelque chose qui serait comme une espèce [1 :00] de… comme
+une présentation d’un très grand philosophe, mais un philosophe très difficile qui s’appelle
+Leibniz. Alors je pourrais, en effet, à moins qu’il y ait… mais… si vous avez, vous, des sujets
+que… dont vous aimeriez… – à charge pour moi de dire « je peux » ou « je ne peux pas »,
+évidemment – si vous avez des sujets ou des problèmes liés à vos propres travaux, on peut, hein,
+on peut voir. Donc réfléchissez-y d’ici la prochaine fois et l’autre fois, à moins qu’il y ait déjà
+des… euh…
+
+Ou bien… comme… je pense, mais, là, ça dépend beaucoup de vous aussi, il y en a un certain
+nombre ici qui… euh… qui travaillent avec moi depuis… euh… longtemps, depuis beaucoup
+d’années, et tout ce qu’on a fait depuis quatre ou cinq ans, je crois que ce sont quand même des
+choses très diverses, mais c’est des choses qui [2 :00] tournent autour des mêmes notions. Alors
+il peut y avoir utilité de reprendre certaines notions sur lesquelles on a travaillé depuis plusieurs
+années… Enfin tout est possible, c’est à vous de… vous me direz, ou dès maintenant, ou la
+prochaine fois, ou l’autre fois encore. Sinon, je ferai quelque chose sur Leibniz s’il n’y a pas
+de… demande spéciale.
+
+Un étudiant : [Inaudible]
+
+Deleuze : Lichtenberg ? Ce n’est pas gros, hein…
+
+L’étudiant : [Inaudible]
+
+                                                                                                      2
+
+Deleuze : Si, mais … euh… ce pour quoi il est connu…
+
+L’étudiant: [Inaudible] ça m’a illuminé !
+
+Deleuze : ouais, ouais, ouais… ça je ne peux pas. Je ne connais pas assez. Ouais, c’est…
+
+Un autre étudiant : [Inaudible] Jakob Böhme ?
+
+Deleuze : Ouais… je suis imprudent parce que je ne me vois pas en faire quelque chose sur
+Böhme, j’en serais incapable… [3 :00] euh… ouais. Enfin on ne sait jamais, oui… Ouais, ouais.
+
+Un autre étudiant : [Inaudible]
+
+Deleuze : [Alois] Riegl, oui.1 Oui, oui, oui, oui. Mais, ça, on y reviendra peut-être un tout petit
+peu sur…
+
+L’étudiant : [Inaudible]
+
+Deleuze : oui, oui ! oh ben, oui. Oui, oui, oui, oui, oui… oui. Ça, on pourra, oui, [Henri]
+Maldiney, oui.2 Oui…
+
+L’étudiant : [Inaudible]
+
+Deleuze : Bon ! Voilà. Je voudrais que vous acceptiez toujours cette convention sur laquelle nous
+étions restés il y a quinze jours [à vrai dire, trois semaines] : j’essaie… On oublie vraiment le
+point où on en est dans notre analyse de l’Etat. Et je fais une très longue parenthèse qui consiste
+à demander : [4 :00] qu’est-ce que c’est au juste qu’une axiomatique ? Je dis : c’est une longue
+parenthèse puisqu’une axiomatique, ça n’a rien à voir avec le problème de l’Etat. Une
+axiomatique, c’est un certain type de système ou de discours propre aux… aux mathématiques.
+Bon. Euh… Juste… juste ce point, vous n’oubliez pas que l’hypothèse qui nous fait passer par ce
+détour, c’est l’hypothèse d’après laquelle il ne serait pas inexact – je ne m’avance pas plus, c’està-dire je pèse relativement mes mots, je mets des conditionnels – il ne serait pas inexact de traiter
+la situation politique dite moderne comme une axiomatique.
+
+Donc… mais… provisoirement nous oublions ce souci qui rattache ce thème à notre sujet. Et
+nous considérons [5 :00] pour soi-même, pour elle-même, la question : mais qu’est-ce que c’est
+qu’une axiomatique ? D’abord parce que ça peut toujours servir, mais surtout parce que… euh…
+ça me paraît poser beaucoup de problèmes pour comprendre même, non seulement ce qu’est la
+science, mais ce qu’on peut appeler « une politique de la science ». Et, la dernière fois, j’avais
+juste pris un exemple extrêmement simple pour essayer de vous faire sentir ce que c’était qu’une
+axiomatique. Et je rappelle cet exemple, parce que, si vous ne l’avez pas un peu… euh… mais…
+je le rappelle en schématisant encore plus, cet exemple que j’avais déjà moi-même simplifié, je
+le simplifie encore plus en disant : voilà un exemple d’axiomatique. [Pause]
+
+Vous définissez [6 :00] une relation purement fonctionnelle entre éléments quelconques.
+Eléments quelconques, ça veut dire quoi ? Ça veut dire : vous ne spécifiez pas la nature des
+
+                                                                                                      3
+
+éléments que vous considérez, vous déterminez une relation fonctionnelle entre éléments
+quelconques en tant que quelconques. Vous allez me dire : c’est très bizarre, ça, quoi. Qu’est-ce
+que ça veut dire ?
+
+Prenons la forme symbolique xRy. xRy, grand R est la relation fonctionnelle entre deux éléments
+quelconques en tant que quelconques, x et y. Vous me direz : avec ça, on ne va pas loin. Vous
+déterminez… [7 :00] – on laisse de [côté] pourquoi vous déterminez… comment vous
+déterminez… on va voir, ça, tout à l’heure – et je suppose que nous déterminions des axiomes,
+des axiomes qui vont correspondre à la relation fonctionnelle xRy, x Relation y. Premier axiome
+que vous déterminez -- je n’en prends que deux, vraiment, pour rester au plus simple, hein --,
+eRx = xRe = x. [8 :00] eRx = xRe = x. Voilà, vous traitez cette proposition, cette équation
+comme un axiome, c’est-à-dire comme une proposition première qui ne dérive d’aucune autre.
+
+Deuxième axiome : xRx’ = x’Rx = e. Bon. Pourquoi est-ce un deuxième axiome ? Parce que
+cette seconde proposition [9 :00] est supposée ne pas pouvoir être démontrée à partir de la
+première. Elle introduit quelque chose d’irréductiblement nouveau. Si je me trouve devant une
+proposition qui peut être démontrée à partir des axiomes précédemment déterminés, je dirai que
+c’est non pas un axiome mais un théorème. Donc un ensemble d’axiomes est un ensemble de
+propositions indépendantes qui ne supposent rien d’autre et dont les théorèmes découleront.
+
+Je reprends mes deux axiomes. Qu’est-ce que c’est que ça ? Ben, une axiomatique renvoie… et
+c’est la seconde notion essentielle – la première notion essentielle, [10 :00] c’est l’idée de
+relation uniquement fonctionnelle entre éléments quelconques en tant que quelconques – la
+deuxième notion fondamentale d’une axiomatique, c’est celle, on l’avait vu, de modèle de
+réalisation. On dira qu’une axiomatique, comme ensemble de relations fonctionnelles entre
+éléments quelconques en tant que quelconques, renvoie à des domaines, à des modèles de
+réalisation dans lesquels elles s’effectuent. Qu’est-ce que ça veut dire qu’elles s’y effectuent ?
+Cela veut dire que, dans ces domaines, dans ces modèles de réalisation, les éléments prennent
+une nature qualifiée. Les éléments quelconques prennent une nature qualifiée. [11 :00] Une
+axiomatique, dès lors, là, si on faisait une axiomatique de l’axiomatique, je crois qu’il ne serait
+pas difficile de démontrer – ce serait un théorème – que une axiomatique comprend
+nécessairement plusieurs modèles de réalisation, ne serait-ce que des modèles de réalisation
+possibles ou virtuels, au point que serait contradictoire la notion d’une axiomatique n’ayant
+qu’un seul modèle de réalisation… modèle de réalisation.
+
+Mais, bon… Je dis : une axiomatique a des modèles de réalisation, prenons toujours dans
+l’exemple, là, l’exemple minimum que je viens d’utiliser : l’axiomatique que je viens de définir,
+avec deux axiomes, avec deux axiomes ; en m’en tenant, en m’en tenant à deux axiomes,
+[12 :00] cette axiomatique a un premier modèle de réalisation, qui est quoi ? Qui est le
+domaine…, ou plutôt non, pas le domaine, qui est l’addition, l’addition des nombres réels. En
+quoi ? Je relis mon premier axiome : il y a un élément e tel que, pour tout élément x, on ait : eRx
+= xRe = x. Dans le cas de l’addition des nombres réels, cet élément e, c’est zéro. [Pause] Vous
+pouvez écrire [13 :00] en effet : 0 + (addition des nombres réels), ça vous donnera, dans le
+modèle de réalisation « addition des nombres réels », ça vous donnera : 0+x = x+0 = x. Essayez
+pour la division, la multiplication, ce n’est pas comme ça. Donc ça vous a permis de circonscrire
+l’addition des nombres réels. Deuxième axiome : pour tout élément x, il existe un élément x’ tel
+
+                                                                                                   4
+
+que xRx’ = x’Rx = e. Pour l’addition des nombres réels, x’, c’est le nombre négatif, -x. [Pause]
+[14 :00] Bien.
+
+Mais alors pourquoi avoir cherché… euh… une axiomatique ? On a cherché une axiomatique
+précisément parce que l’addition des nombres réels n’épuise pas la relation fonctionnelle. Il y
+aura, virtuellement ou réellement, il y aura d’autres modèles de réalisation. J’avais donné un
+autre modèle de réalisation de cette axiomatique à deux axiomes, à savoir la composition des
+déplacements dans l’espace, dans l’espace euclidien à trois dimensions, ce qui, en soi, est un
+ensemble tout à fait différent de l’addition des nombres réels. [15 :00] Et, cette fois-ci, mon
+premier axiome ne sera plus effectué par e=0, mais, dans le cas de la composition des
+déplacements dans l’espace, mon premier axiome sera effectué par : e égale ce que l’on appelle,
+justement, dans ce modèle de réalisation, « le déplacement identique », c’est-à-dire le
+déplacement qui laisse fixe chaque point de l’espace. Et, deuxième axiome, x’ ne sera plus
+effectué par le nombre négatif, mais par ce qu’on appelle, dans ce modèle de réalisation, dans ce
+second modèle de réalisation, par ce qu’on appelle « le déplacement inverse ».
+
+Du coup, si j’ai redéveloppé cet exemple, c’est pour une raison très simple, c’est qu’il me semble
+que l’on voit, à partir d’un exemple aussi simplifié, [16 :00] ce qu’il y a d’extraordinairement
+original dans une axiomatique. Je dirais qu’elle… [Deleuze ne termine pas] Vous voyez que, en
+effet, l’axiomatique en elle-même ne comprend que des relations fonctionnelles entre éléments
+quelconques en tant que quelconques. Vous comprenez, notre objet ce n’est pas de faire des
+mathématiques là ; c’est vraiment avoir ce minimum qui nous permet de… de comprendre ce
+qu’ils ont voulu faire, les… les gens qui ont fait de l’axiomatique. L’axiomatique elle-même ne
+comprend que ça : relations fonctionnelles entre éléments quelconques en tant que quelconques.
+Il ne faut même pas demander de quoi… de quoi une axiomatique parle : la question n’a pas de
+sens puisqu’elle parle d’éléments quelconques en tant que quelconques, et elle définit des
+relations fonctionnelles entre ces éléments comme tels.
+
+Mais alors c’est… c’est important pour quoi ? C’est intéressant pour quoi ? Parce que
+l’axiomatique me paraît vraiment la seule chose… euh… le seul discours qui permette une
+comparaison [17 :00] directe, un affrontement direct, une comparaison directe entre ensembles
+ou domaines hétérogènes en tant qu’hétérogènes. Ce seront les mêmes relations fonctionnelles
+entre éléments quelconques que vous découvrirez dans l’ensemble « addition des nombres
+réels » et dans l’ensemble « composition des… euh, composition des déplacements dans
+l’espace euclidien ». Je demande : est-ce qu’il y a une autre méthode qui nous…euh… Là je dis
+beaucoup de bien de l’axiomatique, donc pour…, mais on verra que… que… euh… on verra
+aussi qu’il y a des problèmes, hein. Mais, pour le moment, c’est… c’est une méthode assez
+étonnante qui ne va pas du tout de soi. Elle nous donne le moyen – et je ne vois pas d’autre
+moyen, à première vue… à première vue… euh… [18 :00] -- à première vue, on ne voit pas
+d’autre moyen pour comparer des domaines hétérogènes en tant qu’ils sont hétérogènes et les
+comparer directement, c’est-à-dire sans passer par une homogénéisation. Voilà. Alors, ça, il
+faudrait que vous compreniez, parce que sinon…euh… Alors je veux bien, même, tout
+recommencer, si vous ne comprenez pas, mais… euh… Faudrait, parce que, sinon… Il faut que
+ou bien que vous compreniez, ou bien que vous partiez pour cette fois, parce que, sinon, tout…
+tout dépend de ça, hein. Voilà. Alors réfléchissez bien… Vous comprenez ?
+
+                                                                                                      5
+
+Quelques étudiants : [Inaudible]
+
+Deleuze : Très bien, formidable !
+
+Une étudiante : [Elle fait référence à l’élément e qui est défini dans l’axiome 1, mais aussi dans
+l’axiome 2, ce qui semble remettre en cause l’indépendance des axiomes de l’axiomatique]
+[19 :00]
+
+Deleuze : Ce n’est pas qu’ils n’aient pas… Oui, en ce sens, oui ! Oui, oui. Mais l’un ne peut pas
+être déduit de l’autre, c’est là ce que j’appelle l’indépendance…, ou ce qu’on appelle
+l’indépendance des axiomes. En d’autres termes, l’un n’est pas un théorème qui dépend de
+l’autre. Bon.
+
+Alors si vous avez compris ça, je demande immédiatement, parce que c’est un sujet qui traîne
+dans… un peu dans tout... à la fois dans l’histoire de toutes ces choses et aussi… euh… qui se
+pose directement, et qui, en même temps, ne paraît jamais, enfin chez les auteurs que j’ai lus, ça
+ne me paraît pas… euh… pas convaincant, alors raison de plus pour se dire, pour sauter sur
+l’occasion, se dire : est-ce qu’on a le moyen d’apporter juste un… un essai de précision làdedans ? On nous dit toujours : attention, quand même, ne confondez pas la formalisation
+logique et l’axiomatisation. [20 :00] Alors, même au niveau historique, ça s’est rencontré, c’est à
+la même époque que se font les grandes axiomatiques avec, entre autres, un très grand
+mathématicien qui s’appelle [David] Hilbert et que se fait une formalisation logique qui recevra
+le nom de logistique, et donc également un grand logicien et grand mathématicien, mène et
+pousse la chose jusque … euh… à un point inégalé, à savoir [Bertrand] Russell. Or, il suffit de
+lire, même sans… en comprenant très mal, vous comprenez, ne faut pas… ce n’est pas nécessaire
+de tout comprendre, hein. Euh… Il suffit de lire une page de Russell et une page de Hilbert, on
+voit bien que, à la lettre, ce n’est pas le même monde. La formalisation logique, ce n’est pas du
+tout la même chose qu’une axiomatique, que l’axiomatisation.
+
+Et tout ce que je voudrais dire, c’est : alors, bon, quelle différence ? [21 :00] Quelle différence ?
+En quoi une axiomatique, telle que je viens d’essayer de la définir et telle que vous l’avez si bien
+compris, se distingue d’une formalisation ? Je dirais, une formalisation, voilà ce que c’est : c’est
+le dégagement et la détermination de relations formelles entre éléments spécifiés d’après tel ou
+tel type. Je retiens chaque mot, hein. Vous voyez au moins, même avant que je me sois expliqué,
+que ce n’est pas la même chose. « Relation fonctionnelle » s’oppose à « relation formelle » ;
+« élément quelconque » de l’axiomatique s’oppose à « éléments spécifiés » de la formalisation.
+Mais, alors, si les éléments sont spécifiés, c’est-à-dire sont définis comme tel ou tel, en quoi y at-il formalisation ? Et qu’est-ce que c’est que des relations formelles [22 :00] par différence avec
+des relations fonctionnelles ?
+
+C’est là que la notion de type intervient de manière fondamentale et a toujours été présente dans
+les formalisations, bien que… il est notoire que l’auteur particulier d’une théorie qu’on appelle,
+dans le domaine de la logistique, « la théorie des types », soit Russell lui-même, c’est-à-dire que
+cette théorie ait été constituée tardivement. Ça n’empêche pas que, d’une certaine manière, on
+s’en servait avant que ça ait été théorisé. Et la théorie des types, elle consiste à déterminer
+comme condition sous laquelle on peut énoncer des propositions la distinction de : une pluralité
+
+                                                                                                            6
+
+de types d’après lesquels les propositions sont susceptibles de s’emboîter les unes dans les
+autres. [23 :00] Quel est, en effet, le principe de la théorie des types ? C’est tout simple, c’est
+que : un ensemble ne se contient pas lui-même comme élément. [Pause]
+
+Qu’est-ce que ça veut dire « un ensemble ne se contient pas lui-même comme élément » ? Ça
+veut dire une chose très, très simple. Je prends un exemple qui est donné par Russell lui-même.
+Voici la proposition : « Napoléon a toutes les qualités qui font un grand général » ; « Napoléon a
+toutes les qualités qui font un grand général », bien. Russell constate que « avoir toutes les
+qualités qui font un grand général » ne peut jamais [24 :00] être traité comme une des qualités
+nécessaires pour faire un grand général. Si vous définissez… Ou bien, autre exemple donné par
+Russell, si vous définissez « français typique », si vous dites « ah, ça, c’est un français typique »,
+« typique » ne fait pas partie des caractères qui permettent de définir un français typique. En
+d’autres termes « typique » et les caractères qui permettent de définir un français typique ne sont
+pas du même type. [Pause]
+
+Bon. Prenons un exemple, alors, je prépare, là, hein… euh… je prépare mon retour à notre
+problème. J’ai essayé de dire qu’un certain appareil d’Etat, [25 :00] que j’appelais l’appareil
+archaïque, d’une certaine manière reposait sur le surcodage de communautés agricoles. On a vu
+en quel sens ça pouvait être dit, en quel sens c’était discutable, etc. Mais prenons cette
+proposition : l’appareil d’Etat archaïque surcode des communautés agricoles. Je dirai, c’est tout
+simple, là ; si je fais une application très arbitraire de la théorie des types, je dirais : cet appareil
+d’Etat ne peut pas être une communauté agricole. Vous me suivez ?
+
+Pourquoi la théorie des types fut-elle … euh… fut-elle faite et poussée par Russell -- là je dis
+vraiment les principes élémentaires, mais c’est une théorie prodigieuse, prodigieuse… [26 :00] et
+très amusante…euh… -- pourquoi est-ce que, pourquoi est-ce que Russell a éprouvé le besoin de
+la formaliser ? Pour trouver une solution à ce qu’on appelait les fameux paradoxes logiques.
+Vous savez, les paradoxes du type « je mens ». Vous voyez, hein. La proposition « je mens »,
+est-ce qu’elle est vraie ou est-ce qu’elle est fausse ? Ce n’est pas difficile de montrer qu’il est
+impossible qu’elle soit vraie, il est impossible qu’elle soit fausse. La réponse de Russell est toute
+simple : c’est que la proposition « je mens » n’est ni vraie ni fausse. En effet, si elle est vraie, elle
+est fausse et si elle est fausse, elle est vraie, hein ? Bon, enfin, vous savez ça, c’est dans tous
+les… dans tous les journaux pour s’amuser, quoi. Mais ça a beaucoup agité les logisticiens, ces
+choses-là. [27 :00] Eh ben, Russell, la réponse de Russell est très simple : la proposition « je
+mens » n’est ni vraie ni fausse, parce que c’est un non-sens.
+
+Et je voudrais que vous compreniez, là -- je fais à nouveau une parenthèse dans ma parenthèse…
+euh… -- ce n’est pas par hasard que ce sont les Anglais qui ont trouvé et qui ont tellement poussé
+aussi cet… euh… ce concept de non-sens, là, et qui ont tellement travaillé là-dedans. Et c’est très
+important parce que… si vous voulez, dans l’expérience concrète, moi, il me semble que… on ne
+peut pas faire de philosophie, d’ailleurs, si on ne vit pas cette expérience, mais il y a très peu de
+choses vraies ou fausses … euh… ce n’est pas le vrai et le faux qui comptent. Jamais ce n’est ça
+qui a compté. C’est les jours de fête qu’on rencontre, qu’on bute sur une proposition fausse.
+C’est très, très rare une proposition fausse.
+
+                                                                                                        7
+
+Qu’est-ce qui fait notre malheur à tous ? [28 :00] Notre malheur à tous, ce n’est jamais de vivre
+dans le faux, pas du tout… pas du tout. C’est que…, notre malheur à tous, c’est que nous ne
+cessons pas soit de rencontrer, soit – horreur ! - d’émettre nous-mêmes des choses qui sont de
+purs et simples non-sens. Mais c’est merveille, je vous l’assure, c’est un jour de fête le jour où
+vous dites quelque chose de faux. Ce n’est pas ça, sinon on dit des conneries et ce n’est pas la
+même chose, hein, ce n’est pas des erreurs, hein ? Des trucs qui n’ont pas de sens, quoi… Oui,
+pourquoi pas… On ne cesse pas… ah bon… C’est du domaine du « ni vrai ni faux », ça n’a pas
+de sens. Le vrai et le faux, c’est encore ce qui a un sens. Mais c’est rare, rare, vous savez, qu’on
+arrive même à la possibilité du vrai et du faux. [29 :00] Prenez un discours ordinaire ; on ne peut
+pas dire, on ne peut même pas dire : c’est faux. Prenez les livres. Mais il y a énormément de
+livres… on lit ça, mais on se dit vraiment…, c’est évident que la question, ce n’est pas « est-ce
+que c’est vrai ou faux… ce que dit le… le monsieur ? », c’est : « est-ce que ça a le moindre
+sens ? ».
+
+J’ai toujours été frappé par le problème suivant, pour rejoindre le problème des mathématiciens.
+Les mathématiciens, ce n’est pas des enfants à l’école, hein… Je veux dire : quand des
+mathématiciens ne sont pas d’accord l’un avec l’autre, il n’y en a pas un qui dit à l’autre : tu t’es
+trompé, ce que tu dis est faux. Je veux dire… euh… et c’est ça qui me troublait beaucoup, moi…
+euh… J’ai l’impression que toute la théorie de la [30 :00] vérité… euh… en philosophie
+classique a toujours posé tellement de problèmes en catégories de vrai et de faux, que c’était
+toujours des situations… euh… puériles, invraisemblables, fictives. Dans la théorie classique du
+vrai et du faux, mais, on nous traite comme des enfants à l’école. Là, il y a toujours un instituteur
+qui peut dire à Toto : non, Toto, 2 et 2, ce n’est pas 5. Et vous ne me direz pas que c’est de ça
+qu’on meurt. Ce n’est pas parce que nous disons trop souvent : 2 et 2, c’est 5. On meurt, là, d’un
+virus beaucoup plus… euh… beaucoup plus agressif, à savoir le poids de notre bêtise, et ce n’est
+pas le poids de nos erreurs, pas du tout… pas du tout… C’est le poids de toutes les choses qu’on
+dit et qu’on [31 :00] pense et qui n’ont strictement, mais, aucun sens. D’où la question « qu’estce que le non-sens ? », c’est une question infiniment plus importante et urgente que la question
+« qu’est-ce que le faux ? ». Et, encore une fois, le faux, ça n’existe pas.
+
+Or, quand des mathématiciens… Encore une fois, sauf dans des conditions extraordinairement
+abstraites, celles de l’enfant à l’école, celle du monsieur à qui je demande l’heure dans la rue,
+alors, en effet, il peut me dire quelque chose de faux, il peut me dire « il est trois heures » quand
+il est deux heures et demie… bon, ça me fait rater le train, à la rigueur, mais… euh… Ah… un
+homme politique dans ses discours, il nous dit pas des choses fausses ; il fait une opération
+beaucoup plus pernicieuse qui est de manier le non-sens à un point sans égal.
+
+Bon… Je dis : quand deux mathématiciens se disputent, ça arrive… la science, [32 :00] elle est
+faite de polémiques ; c’est en ce sens, aussi, que c’est de la politique, la science. Quand deux
+mathématiciens se disputent, ce n’est pas la situation d’un instituteur par rapport à un enfant ; ce
+n’est pas l’un qui dit à l’autre : ah, tu as cru que 2 et 2 ça faisait 5. Ah ça, non. L’un dit à
+l’autre ou suggère : très bien ton truc, mais aucun intérêt, c’est-à-dire pas de sens. Aucun… il
+emploie des mots, à ce moment-là, très flous, ça indique bien l’état de la question et que c’est làdessus qu’il faudrait réfléchir. Qu’est-ce qu’on veut dire quand on dit « mais cette proposition
+n’a strictement aucun intérêt », « cette proposition n’a aucune importance » ? C’est des trucs qui
+tournent autour du sens et du non-sens. Pas de sens… pas d’importance, pas d’intérêt.
+
+                                                                                                   8
+
+Qu’est-ce que c’est que l’intérêt mathématique d’une proposition ? Dans les jurys [33 :00] de
+thèse, par exemple, on voit très bien des types, ils démontrent… ils démontrent des théorèmes,
+hein, on peut toujours inventer des théorèmes si on a la culture mathématique suffisante. Voilà,
+pourquoi pas ? Aucun intérêt ! On peut toujours tenir des propositions d’un type philosophique,
+encore faut-il qu’elles aient un intérêt. Qu’est-ce que c’est que l’intérêt proprement
+philosophique d’une proposition ? Qu’est-ce que c’est que l’intérêt proprement mathématique
+d’une équation ? Il y a des propositions dénuées d’intérêt, c’est-à-dire dénuées de sens. Bien.
+
+Alors vous voyez où allait la théorie des types, elle consistait à dire : une des formes – en tout
+cas, là, je ne veux pas aller trop loin – une des formes du non-sens, une des formes de ce qui n’a
+pas de sens, donc c’est pire que le faux, c’est ce qui ne peut être ni vrai ni faux. C’est lorsque,
+dans une proposition, on contamine [34 :00] des éléments de proposition de types différents,
+c’est-à-dire on construit un ensemble qui se contient lui-même comme élément. Lorsque je dis
+« je mens », la proposition porte sur elle-même, dans des conditions où elle ne pourrait pas porter
+sur elle-même, donc elle est dénuée de sens. Donc, à ce moment-là, c’est forcé qu’elle ne soit ni
+vraie, ni fausse, puisqu’elle n’a pas de sens.
+
+Vous voyez, je reviens, alors, à mon thème plus simple : qu’est-ce que c’est qu’une formalisation
+logique ? Je dis, pour reprendre mon exemple, l’appareil d’Etat archaïque surplombe ou surcode
+les communautés agricoles. Donc il est d’un autre type que les communautés agricoles, il n’est
+pas lui-même une communauté agricole. Je dirais : la proposition « l’appareil d’Etat archaïque »
+est d’un autre type que la proposition « les communautés agricoles », [35 :00] exactement
+comme Russell nous disait : la proposition : « Napoléon a toutes les qualités d’un grand
+général » n’est pas du même type que la proposition « untel a telles qualités d’un grand
+général ». Je veux dire : la formalisation – je reprends ma formule ou la définition que je
+proposais – la formalisation logique ou logistique est la détermination de relations formelles
+entre éléments spécifiés d’après le type de proposition qui leur correspond. [Pause] En ce sens,
+la formalisation érige [36 :00] un modèle à réaliser. [Pause]
+
+Je reviens – mais, là, j’en ai presque fini avec ce… ce … ce… avec ce premier point – je reviens
+à ma définition de l’axiomatique : l’axiomatique détermine des relations uniquement
+fonctionnelles entre éléments quelconques en tant que tels. [Pause] En d’autres termes : elle
+procède plus par le chemin des formalisations qui s’emboîtent d’après les types de propositions,
+mais elle assure une espèce de mise en contact de relations universelles en tant que telles, entre
+éléments quelconques, relations universelles avec des domaines… avec… des... des champs,
+[37 :00] des domaines de réalisation les plus hétérogènes, tandis que dans la formalisation vous
+deviez passer toujours par une homogénéisation au niveau du type supérieur. Les ensembles de
+type 1 ne pouvaient être comparés, du point de vue de la formalisation, ne pouvaient être
+comparés que dans la mesure où ils étaient homogénéisés par un ensemble du type 2. Les
+ensembles de type 2 ne pouvaient être comparés que dans la mesure où ils étaient homogénéisés
+par un ensemble de type 3.
+
+Alors, là, il me semble que c’est très curieux. On voit bien la nouveauté de la démarche
+axiomatique. Je dirais que, l’axiomatique, c’est précisément les relations fonctionnelles qui
+renvoient à des modèles de réalisation. La formalisation, c’est les relations formelles [38 :00] qui
+constituent des modèles à réaliser. Or, tout ce que j’ai essayé de montrer la dernière fois, c’est
+
+                                                                                                        9
+
+que, dans le cas qui nous occupe – là je fais à nouveau une parenthèse – c’est que, dans le cas qui
+nous occupe, on pourrait dire par hypothèse, mais on ne l’a pas encore bien justifié, que,
+contrairement à l’Etat archaïque, l’Etat moderne a cessé d’être un modèle à réaliser, il est devenu
+modèle de réalisation par rapport à une axiomatique. [Pause] Bon. C’est rudement difficile, tout
+ça, mais enfin… Quoi ?
+
+Un étudiant : [Inaudible]
+
+Deleuze : Qu’est-ce qu’il y a ?
+
+Un étudiant : [Inaudible]
+
+Deleuze : Oh ben oui, oh ben ça… comme on va y revenir, ça n’a aucune importance, cela. Non,
+c’est juste… alors, je voudrais… Quoi ?
+
+Une étudiante : [Inaudible]
+
+Deleuze : C’est la formalisation, ah ben, oui… euh… La formulation ? Euh, oui, je disais… Oui,
+je viens d’essayer [39 :00] de montrer, très vite, que, si vous voulez, l’Etat archaïque, ce qu’on a
+appelé pendant toute notre recherche précédente, l’Empire archaïque, en tant que surcodage de
+communauté, était, d’une certaine manière, une formalisation. En ce sens, il est bien modèle à
+réaliser. [Pause] Il est modèle transcendant, n’est-ce pas ? Les Etat modernes, on l’avait vu,
+semblent tout à fait différents. Or en quoi sont-ils tout à fait différents ? C’est parce que, cette
+fois-ci, ce n’est plus du tout des modèles à réaliser ; c’est des modèles de réalisation. Vous voyez
+que le mot « modèle » a complètement changé de sens, c’est-à-dire : ce sont les champs
+d’effectuation par rapport à une axiomatique générale qui est quoi ? Qu’on a essayé de
+déterminer comme étant l’axiomatique du capital. [Pause] [40 :00] Mais enfin, là, je devance ce
+qui nous reste à faire.
+
+Georges Comtesse : [Inaudible]… dans le modèle de réalisation e = par exemple 0, il faut
+supposer qu’il n’y a qu’une axiomatique, par exemple, celle de Hilbert, qui justement énonce la
+possibilité à la fois du zéro et du successeur de zéro. Donc, là, il y a un autre problème ; c’est le
+modèle de réalisation de la définition formelle de l’axiomatique suppose une axiomatique qui
+rend possible justement l’assignation d’une [41 :00] série de nombres entiers au modèle de
+réalisation come remplissage de la …de la définition formelle. Là, il y a un problème de
+l’axiomatique…
+
+Deleuze : A mon avis, pardon, il me semble qu’il y a deux points dans ce que tu dis. Il y a, d’une
+part, l’exigence de, précisément, ce que les axiomaticiens appellent non pas, d’ailleurs, une
+formalisation, mais une méta-mathématique, ça serait rempli par une méta-mathématique,
+l’exigence que tu dis, et, d’autre part, dans l’exemple très juste que tu donnes toi-même, il me
+semble que la nécessité de définir le successeur fait plutôt partie et constitue… euh… elle-même
+un axiome, axiome qui intervient dès l’axiomatique des nombres entiers.
+
+Comtesse : C’est ça. C’est-à-dire que, avant de dire que [42 :00] [Inaudible]
+
+                                                                                                  10
+
+Deleuze : Oui, qu’il faut un axiome de succession. [Comtesse continue à parler, propos quasiinaudibles] Complètement d’accord, ça. Complètement d’accord, ça. Il faut un axiome, oui.
+
+Comtesse : Il faut plusieurs axiomes [Inaudible]
+
+Deleuze : D’accord.
+
+Comtesse : Au moins quatre axiomes.
+
+Deleuze : D’accord, ouais, d’accord. Oh, d’accord !
+
+Comtesse : [Inaudible] l’important chez Hilbert, c’est que, contrairement à toute philosophie
+classique, à tous les philosophes classiques, Descartes, Leibniz et tous les autres et même avant,
+qui croyaient que la série des nombres entiers était naturelle, eh bien justement il faut la fonder
+axiomatiquement. On n’est pas assuré que, si 0 est un nombre comme, par exemple, [Inaudible]
+axiomatique de Hilbert, on ait un successeur de 0, il faut fonder axiomatiquement la possibilité
+[43 :00] d’un successeur.
+
+Deleuze : Oui, oui, oui.
+
+Comtesse : C’est un des plus grands problèmes de l’axiomatique, et également un des plus
+grands problèmes, ça fait un autre niveau de la conjugaison dans le [Inaudible] le plus
+hétérogène.
+
+Deleuze : Ah oui ! Oui, oui ! Ah, je vois ce que tu… veux dire, oui. Toi, tu donnerais… c’est
+possible, ça. Je dis juste que tout le monde a compris, je pense, que, dans l’exemple même que
+j’ai cité, m’en tenir à deux axiomes ne signifiait pas du tout que l’axiomatique que je…
+définissais là euh… se suffisait, était elle-même consistante, hein. La remarque de Comtesse, à
+savoir que ça suppose d’autres axiomes, ça c’est… c’est sûr. Et toi... ah oui, tu… tu replaçais là
+l’histoire d’un axiome de successibilité parce que tu penses qu’il y en aura un usage particulier
+au niveau de… [44 :00] euh… au niveau d’une théorie… euh… du capital ? C’est possible, oui.
+C’est possible.
+
+Comtesse : On est complètement hanté par l’idée qu’il faut nécessairement un successeur de zéro
+et que zéro est un nombre. Toute la polémique c’est de dire… par exemple [Inaudible] si on
+pense que zéro est un nombre, on ne peut pas [Inaudible] un successeur de zéro, sauf à affirmer
+que…
+
+Deleuze : Ouais, ouais
+
+Comtesse : [Inaudible] … absurdité incroyable en mathématiques, que pour qu’il y ait un
+successeur de zéro, il faut énoncer que zéro égale un.
+
+Deleuze : Ouais… oui, oui, oui, d’accord. Oui, oui. Tout à fait d’accord. [Pause] Ben, alors on
+retrouvera ça, au niveau de la succession, hein, tu diras, oui, bon. Voilà. Vous avez compris ? Je
+continue ou… on arrête ? Vous voulez… vous en avez assez ?
+
+                                                                                                    11
+
+Claire Parnet : Non, non on continue.
+
+Une étudiante : Pourquoi c’est les [45 :00] Anglo-Saxons qui… [Inaudible]
+
+Deleuze : Euh… ben, pourquoi c’est les Anglais qui ont… ? Ah ben, ils n’ont pas… Non,
+l’axiomatique, ça ne leur a jamais beaucoup plu, aux Anglais. Vous savez, on retrouve là… moi,
+mon rêve que … euh… parce que -- ce n’est pas mon rêve personnel -- je me dis : il y a cette
+voie dans Nietzsche qui n’a jamais été reprise, parce que c’est une voie très dangereuse, il
+faudrait être Nietzsche pour… pour réussir des choses comme ça, cette espèce de typologie des
+nations. Pourquoi tel problème est lié à tel… euh… à tel pays ? Hein. C’est très net en
+philosophie, mais c’est très net aussi en mathématiques, tout ça, c’est très net… Pourquoi tel
+pays fournit-il… euh… ? Très curieux lorsque Nietzsche se met à délirer sur l’esprit anglais,
+l’esprit allemand, l’esprit français, tout ça. Alors pourquoi c’est les Anglais qui… dont
+l’affaire… un problème, ce n’est jamais… ce n’est jamais abstrait. Je crois que les théorèmes
+c’est abstrait, hein, mais les choses concrètes de la pensée, les vrais événements de la pensée, ce
+n’est jamais abstrait. [46 :00] Euh… ça ne veut pas dire non plus que ce soit historique ; il
+faudrait inventer de tout autres catégories. Mais pourquoi les problèmes sont-ils signés ? [Fin de
+la cassette] [46 :08]
+
+Partie 2
+
+C’est curieux, quand même… euh… Bon… est-ce que… euh… ? Je dis bien que c’est follement
+dangereux, c’est-à-dire on risque de tomber dans les pires platitudes… de… en disant : mais… il
+faudrait avoir la méthode pour bien parler de ça. Alors, les Anglais, pourquoi c’est la
+formalisation, la logistique qui les a fascinés, et qu’ils ont eu des génies là-dedans, d’incroyables
+génies ? Ça me paraît évident, là, il faudrait penser à, dans tous les domaines, alors, la vocation
+de l’Angleterre pour penser le non-sens, pour penser le problème du sens et du non-sens. Les
+Anglais, c’est de tout temps des types qui ont dit … euh… finalement je résume, un de leurs
+apports philosophiques, c’est … euh… ils sont assez… ils sont assez drôles, hein, les anglais. On
+dit toujours : oh pfff… ils ne vont pas loin, c’est… Ils rigolent plutôt ; [47 :00] ils rigolent devant
+la philosophie française, allemande, tout ça. Ils disent : c’est bien, mais qu’est-ce que ça veut
+dire, tout ce… ? Qu’est-ce que ça veut dire ? Qu’est-ce que ça veut dire la question « qu’est-ce
+que ça veut dire ? » ? Chez les Anglais, on voit très bien, ils disent : oh, c’est des gens qui nous
+parlent du vrai et du faux, seulement, voilà … euh… ils n’oublient qu’une petite chose, encore
+une fois, c’est que, le vrai et le faux, ça suppose que ce qu’on dit a déjà un sens ; nous, ce qui
+nous intéresse, c’est : à quelles conditions quelque chose a… une proposition a un sens.
+
+Alors, c’est dans tous les domaines que les Anglais ont perpétuellement été attirés par la question
+du sens et du non-sens. Que vous preniez leur littérature : Pourquoi est-ce que le non-sens est un
+truc qui anime, qui parcourt la littérature anglaise des débuts à la fin ? Pourquoi est-ce que,
+quand vous trouvez une page de non-sens, vous savez que c’est anglais ou américain ? Ou juif ? -
+-- Encore que le non-sens juif ne soit pas la même chose, mais enfin … euh… [48 :00]
+généralement il ne sera pas difficile à ce moment-là de montrer que c’est plutôt … euh… Sauf
+justement Lichtenberg, lui… il y a toujours des… des petites exceptions, comme ça. -- Mais
+pourquoi est-ce que la pensée anglaise, américaine est pénétrée par ce problème du sens et du
+non-sens ? Alors que les Français, ils ont toujours été très lourds, très patauds, dans la question
+
+                                                                                                 12
+
+du sens et du non-sens. Ils ont beau s’efforcer… Ils ont beau s’efforcer de faire les légers, ça ne
+marche guère, hein. Ça ne marche guère, à côté des non-sens anglais, si vous pensez… même le
+cinéma, si vous pensez à … euh… alors à la fois à ceux qui sont américains et juifs … euh… les
+[frères] Marx , bon, les Marx comme art du non-sens….
+
+Bon. Que ce soit en littérature de Lewis Carroll à [Edward] Lear à… toute la tradition du nonsens, bon : est-ce que c’est par hasard, je dis, que leurs philosophes font la même chose en
+philosophie ? C’est-à-dire que Russell, c’est effectivement une espèce de grand Lewis Carroll de
+la philosophie. Bon. Alors, [49 :00] là, il y a des mystères qui nous échappent… Bon…
+pourquoi ? Oh, il y aurait… il y aurait des trucs à trouver, ah ouais. A ce moment-là il faudrait,
+en effet, bien... arriver à bien définir ce que c’est qu’un non-sens. Du coup on comprendrait peutêtre pourquoi ça intéresse particulièrement les Anglais et pourquoi les Français sont toujours
+passés à côté, que les Allemands, c’est encore autre chose, encore autre chose, ce n’est pas…
+[Deleuze ne termine pas la phrase] Ouais, bon, enfin.
+
+Alors voilà, je voudrais faire une deuxième remarque. Ça, c’est ma première remarque sur
+l’axiomatique. Je voudrais faire une seconde remarque sur l’axiomatique, car elle nous sera, je
+crois, très utile plus tard. A partir de tout ce qu’on vient de dire, on pourrait croire, euh, une
+axiomatique c’est comme une espèce de procédé d’automasticité dans le discours mathématique.
+[50 :00] C’est comme une espèce de construction d’un automate spirituel – « automate spirituel »
+étant une expression célèbre en philosophie – ou, à la limite, même plus, d’une véritable
+automation.3 A la lettre, c’est les règles d’un discours où vous ne savez pas de quoi vous parlez,
+puisque vous énoncez des relations entre des éléments quelconque dont vous ne spécifiez pas la
+nature. Non seulement vous n’avez pas besoin de savoir ce dont vous parlez, mais il est
+recommandé de ne pas savoir ce dont vous parlez.
+
+Alors, bon, on peut avoir cette impression que -- et ça a été très souvent dit -- l’axiomatique tend
+et même se propose d’expulser non seulement toutes les images au profit d’un pur symbolisme,
+mais toutes les ressources de l’in… de l’intuition, [51 :00] de la construction pour y substituer
+l’énonciation de l’ensemble des axiomes. [Pause] Et, en fait, il suffit de regarder pour bien voir.
+Je veux dire, au point où on en est, on voit très bien que l’axiomatique est inséparable d’un type
+d’expérimentation, sans doute d’un type d’expérimentation très particulier, mais impossible de
+définir en fait l’axiomatique comme l’expulsion de l’expérimentation ; c’est plutôt la constitution
+d’un mode d’expérimentation tout à fait nouveau. Car, j’insiste là-dessus, rien ne me dit
+d’avance, si je fais de l’axiomatique, rien ne me dit d’avance quels axiomes je dois choisir, et
+dans quelle mesure mon axiomatique sera consistante [52 :00] ou non, non-contradictoire, dans
+quelle mesure elle sera saturée ou non. Je vous rappelle qu’une axiomatique est dite saturée
+lorsque je ne peux pas ajouter un axiome aux précédents sans que l’ensemble ne devienne
+contradictoire. Donc il peut y avoir des contradictions dans une axiomatique et des contradictions
+qui, au besoin, ne se voient pas immédiatement, ne se voient qu’au niveau des théorèmes que
+j’en déduis, mais, bien plus, à quel moment mon axiomatique est saturée ?
+
+Tout ça, c’est vraiment…, il y a une inventivité en axiomatique. Avant de dire du mal de
+l’axiomatique, je crois que il faut… il faut marquer ce qu’il y a d’assez extraordinaire dans…
+dans cette aventure de l’axiomatique. Très difficile de… il y a une espèce de… oui d’invention,
+de création des axiomes. Là, alors, je reprends complètement ce que vient de dire Comtesse,
+
+                                                                                                     13
+
+[53 :00] euh… Si vous proposez une axiomatisation de l’arithmétique, ben… oui, il vous en
+faudra et puis jusqu’à quel point elle sera contradictoire ou pas, à quel moment elle sera saturée ?
+Or, ça consiste en quoi, cette espèce… ? Donc ce n’est pas du tout un truc où… euh… un
+mécanisme remplacerait, hein. Je crois que c’est, en effet, un mode d’expérimentation qui est luimême s… sujet à des échecs, à des succès. A la limite, je dirais la même chose que pour la
+formalisation ; il y a des axiomatiques qui n’ont aucun sens, qui n’ont aucun intérêt. Alors,
+bon… [Pause]
+
+Si bien que on ne peut pas se faire de l’axiomatique l’idée de… d’une espèce de constitution
+d’un savoir automatique infaillible. [54 :00] J’insiste là-dessus parce que, dans notre
+comparaison que nous ferons plus tard, tout à l’heure, entre l’axiomatique et la politique, on ne
+pourra plus tenir comme une objection l’idée que, en politique, on se trompe tout le temps, si en
+axiomatique aussi… ce n’est donc pas la question. Si j’essaie de définir le mot, euh, le niveau de
+l’axiomatique, je dirai quoi ? Alors je reprends les quatre catégories qu’on a… qu’on a
+ébauchées. Les catégories qu’on a ébauchées, je dirais que, finalement, il ne faudrait en dégager
+que trois et bien marquer par commodité que nous ne confondons pas ces trois concepts.
+
+Le premier concept c’est : les conjonctions topiques entre [55 :00] flux. Vous vous rappelez : ce
+que nous appelions des « conjonctions topiques entre flux », ça, c’est dans le cas où les flux sont
+décodés. C’est les formes sous lesquelles le mouvement des flux est comme arrêté, ligaturé, sous
+telle ou telle forme, et c’est tout le domaine, on avait vu, qu’on avait appelé le « domaine des
+dépendances personnelles ». Il y avait donc des conjonctions topiques.
+
+Avec le capitalisme, dans notre analyse précédente, on a cru voir qu’on arrivait dans un élément
+très différent. Il ne s’agissait plus…. Il ne s’agissait plus de conjonctions topiques entre flux, il
+s’agissait d’une conjugaison [56 :00] généralisée des flux décodés. [Pause] Et, à ce moment-là, il
+n'y avait plus de rapports de dépendances personnelles entre sujets ; il y avait finalement une
+seule subjectivité, on a vu : la subjectivité du capital. Mais on avait défini, précisément, le
+capitalisme comme la formation de cette conjugaison généralisée qui se distinguait des
+conjonctions topiques.
+
+Notre question, maintenant, ça pourrait être : est-ce qu’il n’y a pas autre chose, encore ? Pure
+hypothèse, hein, parce que, là, je… je … c’est juste pour avoir mes repères terminologiques. Je
+dirais : oui, il y a peut-être encore autre chose, c’est les connexions de flux, les connexions de
+flux qui ne se rapporteraient… qui ne se ramèneraient ni à des conjonctions topiques, [57 :00] ni
+à une conjugaison généralisée. Pourquoi ? Pourquoi il y aurait besoin de cette notion ?
+
+C’est ça que je voulais dire avec le caractère expérimentateur de l’axiomatique, c’est que,
+l’axiomatique, c’est encore une manière d’arrêter les flux, dans ce cas les flux de science. C’est
+encore une manière d’arrêter. Pourquoi ? Moi il me semble que c’est frappant dans l’histoire des
+mathématiques, ou dans l’histoire de la physique, puisque la physique a été très axiomatisée.
+L’axiomatique, elle a toujours fonctionné comme une espèce d’arrêt… comme une espèce
+d’arrêt, là. C’est par là que je disais « politique de la science », où il s’agit de dire aux gens « ah
+non, hein, faut… N’allez pas plus loin, parce que… », « N’allez pas plus loin », à la lettre…, ces
+flux de scientificité, ces flux de mathématiques, ces flux de physique… etc. euh… il faut
+remettre un peu d’ordre dans tout ça. [58 :00] Ça… ça file de partout, ça fuit de partout, tout ça,
+
+                                                                                                   14
+
+où vous allez, où vous allez. Je dis que l’axiomatique, au début du XXème siècle, dans la
+première moitié du XXème siècle, en mathématiques, mais également en physique, a fonctionné
+comme un moyen de bloquer, d’arrêter.
+
+Eh bien, voilà la proposition… voilà l’hypothèse que je ferais en second lieu, dans ce second…
+dans cette seconde remarque : c’est que, quand des flux se décodent, par exemple, des flux de
+science, ben… ils échappent à leurs conjonctions topiques. Mais est-ce qu’ils ne débordent pas
+encore ? La conjugaison généralisée, conjugaison généralisée des flux, c’est encore une manière
+de les bloquer, de dire : non, euh… [59 :00] Par exemple, imaginez, quand est-ce que
+l’axiomatique de la physique a eu son grand, grand rôle ? C’est lorsque, vraiment, là je crois, les
+savants eux-mêmes ont commencé à s’inquiéter par et sur les voies et les chemins que prenait la
+physique dite indéterministe. Et, à ce moment-là, il y a vraiment eu besoin d’une remise en ordre.
+Tout se passe comme si pas seulement des savants s’étaient dit -- il y avait aussi des savants,
+mais pas seulement des savants -- tout se passe comme si euh… des savants et des puissances,
+des puissances qui s’occupaient de la politique de la science, s’étaient dit : mais enfin, qu’est-ce
+que c’est… qu’est-ce que c’est que ces flux de savoir qui se décodent de plus en plus, qui euh…
+Où est-ce qu’on va ? Qu’est-ce que c’est que ce truc-là ? Et une espèce de remise en ordre qui a
+consisté à réconcilier ce qu’on appelle en gros l’indéterminisme avec le déterminisme. [60 :00]
+Un grand physicien français y a eu un rôle fondamental, à savoir [Louis de] Broglie, dans cette
+espèce de remise en ordre, et l’axiomatique de la physique, par exemple en France, s’est faite à
+partir d’élèves de Broglie. Ça a été vraiment comme dire : mais la physique indéterministe, elle
+nous entraîne dans des trucs… [Il ne termine pas]
+
+C’est exactement ce que je disais, si vous vous rappelez, pour la fameuse histoire… de la NASA,
+des flux de capitaux, des flux de capital, des flux de capitalisme qui sont tout prêts à s’envoyer
+dans la lune, mais, là, il y a quand même un Etat pour dire : ah non non non ! Euh… Faut pas
+euh… Faut pas aller trop loin. Faut faire un peu de reterritorialisation. Ah… Et alors on ligature,
+on colmate. L’axiomatique c’est un peu ça ; elle opère une conjugaison générale des flux qui les
+empêche, [61 :00] je dirais, qui les empêche d’aller trop loin, c’est-à-dire de se connecter avec
+des vecteurs de fuite. Elle opère euh… comment dire, oui je ne trouve pas le meilleur mot, elle
+opère comme une espèce de reterritorialisation symbolique.
+
+Et, en mathématiques, c’est pareil, l’axiomatique en mathématiques a vraiment par rapport…
+euh… je pense, par exemple, à l’espèce de fuite des géométries dans tous les sens. Et maintenant
+ça ne s’est pas arrangé, hein, à travers l’axiomatique ; ça continue à couler, à filer… partout. La
+situation des mathématiques actuelles, elle est… elle est quand même… très très curieuse, quand
+on entend parler les mathématiciens… ces… ces situations où, vraiment, le savoir mathématique
+s’est complètement fragmenté, où il y a un mathématicien au Japon qui comprend ce que le… ce
+que fait un mathématicien en Allemagne… Et puis voilà, et puis les autres… [62 :00] bon…
+euh…. Cette espèce de situation où vraiment les flux de savoir, là, sont… sont
+extraordinairement filants. Bon. L’axiomatique, c’est… je redis, l’axiomatique c’est une espèce
+de restructuration, de structuration, de reterritorialisation symbolique.
+
+Vous voyez en quel sens je ferais la distinction, donc, entre trois concepts : les conjonctions
+topiques ou qualifiées entre flux ; les conjugaisons généralisées de flux ; et quelque chose de
+plus : les connexions, c’est-à-dire ce qui pousse les flux encore plus loin, ce qui les fait échapper
+
+                                                                                                   15
+
+à l’axiomatique même et ce qui les mettent en rapport avec des vecteurs de fuite. Alors c’est en
+ce sens : est-ce qu’il n’y a pas quelque chose d’autre que l’axiomatique et qu’on pourrait appeler
+du type connecteurs ? Or je pense – et c’est la [63 :00] dernière remarque que je voudrais faire
+concernant cette histoire de mathématiques – je pense qu’il y a toujours eu en mathématiques
+quelque chose de très, très curieux, et c’est de ça que je voudrais parler pour finir dans l’histoire
+des mathématiques, parce que ça nous servira toujours pour notre parallèle avec euh… la
+politique.
+
+A la même époque que la formation des premières grandes axiomatiques, à laquelle Comtesse
+faisait allusion tout à l’heure, avec Hilbert et d’autres, coïncidait un mouvement mathématique
+qui me semble d’un très, très haut intérêt. Et là, bizarrement, pour reprendre – on retrouve
+toujours les mêmes problèmes – pour reprendre notre histoire : pourquoi est-ce que le centre de
+ce mouvement mathématique s’est-il trouvé dans les Pays-Bas ? C’est curieux, là, faudrait…
+faudrait des raisons… faudrait trouver des raisons… euh… pour ça. [64 :00] Et se constituait en
+réaction contre l’axiomatique une école très bizarre, très importante, de grands mathématiciens
+qui se nommaient intuitionnistes, l’intuitionnisme ou le constructivisme, constructionnisme.
+Remarquez : c’est d’autant plus intéressant qu’il y avait aussi des mouvements esthétiques qui se
+disaient constructivistes. Bon.
+
+Je ne sais pas s’il y avait des rapports possibles… je ne sais pas. Ces mathématiciens, je cite pour
+euh… si par hasard vous en entendiez parler dans un livre… euh… je cite le nom des principaux,
+c’était : [L.E.J.] Brouwer, B-R-O-U-W-E-R ; [Arend] Heyting, H-e-y-t-i-n-g ; [65:00] [George
+F.C.] Griss, G-r-i-s-s, et en France, un mathématicien très, très curieux, qui a beaucoup écrit, qui
+s’appelait [Georges] Bouligand, B-o-u-l-i-g-a-n-d et dont un des meilleurs livres – mais qu’on ne
+trouve, je crois, qu’en bibliothèque – s’appelle Le déclin… Le déclin des absolus mathématicologiques.4 Et ils s’opposaient à l’axiomatique, je crois, de deux manières simultanées.
+
+D’une part, ils étaient comme en retrait, parce qu’ils exigeaient des conditions de construction
+dans l’espace. Mais, d’autre part et en même temps, – en ce sens ils étaient vraiment en retrait –
+mais par d’autres aspects de leur œuvre et de leur réflexion, ils étaient très au-delà. [66 :00] Ce
+qui, évidemment, est important pour nous. Ils pouvaient être les deux à la fois. Comme s’ils
+avaient exigé que, à la lettre, les flux mathématiques aillent encore plus loin, débordent les
+limites de l’axiomatique, notamment ils avaient une manière de mettre en cause des principes
+que l’axiomatique conservait, notamment le principe dit du tiers exclu, selon lequel une
+proposition est vraie ou fausse, et ce qu’ils opposaient à l’axiomatique c’était – et là c’est très
+utile pour nous, je ne dis pas pourquoi encore – c’était ce qu’ils appelaient eux-mêmes, enfin
+certains d’entre eux, ce que certains d’entre eux appelaient un calcul des problèmes, un calcul
+des problèmes et, en effet, quand on voit ce qu’ils appellent un calcul des problèmes --
+notamment le mathématicien Griss a beaucoup fait de calcul des problèmes [67 :00] au sens…, il
+y avait aussi un russe là-dedans… Il y avait un ménage français… tiens ! J’ai un souvenir : il y
+avait un ménage français de mathématiciens-physiciens, élèves de Broglie, euh… qui
+représentaient comme une espèce de scène de ménage épistémologique [Rires] car le mari était
+un des meilleurs axiomaticiens et la femme était une intuitionniste, [Rires] et ils avaient
+beaucoup, beaucoup de talent, euh… ils ont divorcé, hein, [Rires] mais enfin…
+
+Une étudiante : [Inaudible]
+
+                                                                                                 16
+
+Deleuze : [Jean-Louis] Destouches, Destouches, et Paulette [Destouches-]Février, oui, oui, oui.
+Elle, elle faisait des communications sur le calcul des problèmes… euh… et, lui, il faisait de
+l’axiomatique… euh… tout à fait…
+
+Mais, ce qui m’intéresse, donc… – ce couple est quand même... euh… est quand même très
+important, parce qu’il a sûrement vécu une espèce de dualité d’inspiration… [68 :00] euh… – ce
+qui m’intéresse, c’est comment on peut déjà, nous, dans notre hypothèse, sans du tout rien
+préciser encore, poser la question : est-ce qu’il n’y a pas, au-delà même de la conjugaison
+généralisée telle que une axiomatique l’opère, est-ce qu’il n’y a pas quelque chose d’autre qui est
+du type « connexion avec des vecteurs particuliers » qui déborde l’axiomatique, c’est-à-dire un
+calcul des problèmes par opposition à une détermination des axiomes ? Et qu’est-ce que ce serait
+qu’un calcul des problèmes par opposition à une détermination d’axiomes ? Vous sentez que
+c’est notre seule chance en politique, si notre comparaison est fondée avec l’axiomatique.
+Comment sortir d’une axiomatique ?
+
+Or si je cherche dans l’histoire des sciences, dans l’histoire des mathématiques, je veux pour
+mémoire marquer juste trois temps qui me paraissent essentiels où on trouverait quelque chose
+de cette dualité, [69 :00] l’opposition de courants scientifiques. Opposition… Premier cas.
+Premier cas : opposition de deux courants scientifiques essentiels dans la géométrie grecque – je
+prends un exemple lointain – opposition de deux courants scientifiques très importants dans la
+géométrie grecque -- si … euh… je résume, c’est juste… là, vraiment pour mémoire que…
+euh… et pour pouvoir m’en servir plus tard -- vous avez une conception de la géométrie grecque
+qui est très simple, qui procède par : définitions, axiomes, postulats, théorèmes, démonstrations,
+corolaires. Cette conception de la géométrie trouve sa forme vraiment royale [70 :00] avec le
+géomètre Euclide. [Pause] Ne confondez surtout pas tout, je ne dis pas du tout que ce soit déjà de
+l’axiomatique. Je dis que c’est un système déductif. Ce n’est certainement pas encore de
+l’axiomatique, mais c’est un système qu’on pourrait appeler « système axiomes-théorèmes ».
+[Pause]
+
+Comment le définir, ce système déductif très général ? Je dirais que ce système déductif consiste
+à définir des essences pour en déduire des propriétés nécessaires. Il va tout entier de « essences »
+à « propriétés nécessaires ». [71 :00] Par exemple, la conception platonicienne non seulement des
+mathématiques, mais plus particulièrement de la géométrie, est une conception de ce type : on va
+des essences aux propriétés nécessaires et c’est la définition de la déduction, d’une science
+déductive idéale.
+
+Et puis il y a un autre courant beaucoup plus… bizarre, dès l’époque des Grecs. C’est un courant
+qui n’est plus théorématique – vous voyez je peux appeler la première conception une conception
+théorématique des mathématiques, et elle culmine, encore une fois, avec Euclide – l’autre
+conception, c’est une conception problématique. L’élément essentiel de cette conception,
+[72 :00] ce n’est plus la catégorie de théorème, théorème à démontrer ; c’est la catégorie de
+problème à résoudre.
+
+Vous me direz, et vous auriez raison : mais, dans la première conception, il y a déjà des
+problèmes. Réponse : oui, il y a des problèmes, mais des problèmes qui sont étroitement
+subordonnés aux théorèmes. Bien sûr, les deux se mélangent, mais ce n’est pas un argument, ça.
+
+                                                                                                  17
+
+Il y a un primat des théorèmes sur les problèmes. Bien plus, résoudre un problème, dans la
+première conception, c’est toujours le rapporter à des théorèmes qui permettent de les résoudre.
+Et, chez Euclide il y a bien des problèmes, mais la solution des problèmes ne fait qu’un et passe
+par la détermination des théorèmes qui rendront cette solution possible. C’est la catégorie
+« théorème » qui l’emporte sur la catégorie « problème ».
+
+Mais il y a des géomètres très bizarres. Alors vous sentez déjà, ceux qui connaissent un peu
+l’histoire grecque… [73 :00] ou l’histoire du platonisme, vous devez penser que, peut-être, ils
+sont liés, par exemple, à des courants qu’on appelle les Sophistes, qu’ils sont liés à des… à des
+gens d’autant plus bizarres qu’on a perdu les textes, mais on peut… enfin… [Inaudible] bon…
+Euh… C’est un courant problématiste. Et, le problème, ça se distingue du théorème comment ?
+Je dis le théorème, ce n’est pas difficile, vous allez de… – enfin, ce n’est pas difficile… – vous
+allez d’une essence aux propriétés qui en découlent nécessairement. Théorématiser, c’est
+déterminer les propriétés qui découlent d’une essence. Vous définissez l’essence du cercle, et
+vous déduisez les propriétés nécessaires. Euh… j’ai l’air de dire que c’est facile ; ce n’est pas
+facile, évidemment. Là-dessus, tous les problèmes, vous les subordonnez à vos théorèmes. Les
+autres, ils ne procèdent pas comme ça.
+
+Quelle est la différence entre un problème et un théorème ? C’est qu’un problème, ce n’est pas
+[74 :00] du type essence, c’est du type événement, quelque chose qui se passe, ou du type
+opération. Vous faites subir quelque chose à une figure et quelque chose d’extrinsèque ; vous lui
+faites subir une opération douloureuse, une ablation, une adjonction, une quadrature, une
+cubature, toute une chirurgie de la figure. Il ne s’agit plus du tout de chercher les propriétés qui
+découlent d’essences, il s’agit de chercher les métamorphoses qui sont liées à des événements,
+oui, [75 :00] ça me semble parfait comme formule, parfait, très clair. Ça, c’est la
+catégorie « problème ».
+
+Ah tiens, je vais couper, là, je vais couper un angle à mon triangle, qu’est-ce qui va se passer ?
+Tiens, je vais faire que… un plan coupe un cône en biais, là. Qu’est-ce qui va se passer ? Bon,
+c’est très, très curieux comme mode de penser. C’est une pensée événement et non plus du tout
+une pensée essence. Evénements d’un type spécial, ce seront des événements proprement
+mathématiques. On opposera aux essences géométriques, des évén… des événements
+proprement géométriques. Bon. Et là aussi, vous comprenez, il ne faut pas durcir, il ne faut pas
+trop durcir en tout cas. Bien sûr, euh… dans ce sens-là, aussi vous trouverez des théorèmes, mais
+cette fois-ci, les théorèmes seront tout à fait subordonnés aux problèmes. [76 :00]
+
+Or je crois que, dans la géométrie grecque, il y a eu une espèce de lutte très intense et,
+finalement, il y a eu une victoire. La tendance problème, elle aurait été… complètement, alors
+elle… euh… elle a l’équivalent d’Euclide, c’est ce qu’on sait, par exemple, de la géométrie
+d’Archimède. Bon, c’est la grande opposition Euclide-Archimède. [Pause] C’est vraiment des
+événements de la géométrie par opposition aux essences géométriques. Voilà mon premier cas.
+Vous voyez que, là, je peux dire : à la conception théorématique s’opposait déjà chez les Grecs
+une conception problématique.
+
+Deuxième exemple : du XVIIème [siècle] au XIXème, du XVIIème au XIXème, on s’accorde
+à… beaucoup d’auteurs, d’historiens, s’accordent à considérer que se montent [77 :00] des – pas
+
+                                                                                                  18
+
+seulement une – conceptions de la géométrie dont on peut faire dater la géométrie dite
+« moderne ». Or dans quelle voie ça se fait ? Ça se fait dans une double voie. J’essaie de définir
+la première voie, le renforcement d’une puissance symbolique, renforcement d’une puissance
+symbolique, c’est-à-dire : déborder l’intuition ou la représentation dans l’espace vers une
+puissance symbolique. C’est la voie de quoi, ça ? C’est la voie de l’algèbre. C’est la voie de la
+géométrie analytique, et ça s’ouvrira [78 :00] sur tout l’avenir des mathématiques. Mais au
+XVIIème siècle c’est avant tout le développement de l’algèbre et de la géométrie analytique.
+Donc, là, vous voyez, la représentation spatiale, c’est-à-dire l’intuition, est dépassée du côté de
+l’affirmation ou du développement d’une puissance symbolique, ouais, algèbre et analyse.
+
+Mais, en même temps, un autre courant… Euh… si j’essaie de situer des noms, c’est par
+exemple, Descartes. Ça, c’est très la voie de la géométrie cartésienne, d’où le rôle de Descartes
+dans la géométrie analytique. Et, ensuite, chez les successeurs de Descartes : tendance à faire de
+la géométrie analytique un modèle achevé [79 :00] pour l’ensemble de la géométrie. Mais il y a
+aussi des résistances et se dessine paradoxalement une tout autre voie coexistante. Et, cette tout
+autre voie, elle a des noms étranges et surtout… des noms étranges parce que c’est des hommes
+assez étranges qui l’amènent. Je cite, un dont on a parlé… euh… il y a… je sais plus, de
+nombreuses années… un géomètre très, très bizarre qui s’appelle [Girard] Desargues, D-e-s-a-rg-u-e-s, qui a très peu écrit, mais dont tout le monde considère qu’il a été fondamental pour le
+développement de la géométrie moderne. Alors il y a… il y a… un vieux livre du XIXème : Les
+œuvres de Desargues et toutes les aventures de sa vie. Il a eu tous les malheurs, [80 :00] il était
+condamné partout, au parlement, il a eu un procès au parlement… tout ça, bon.5
+
+Euh… si je fais, si j’essaie de faire la lignée… il s’occupait beaucoup…, il était en liaison avec,
+très bizarrement, des tailleurs de pierres. Vous voyez, pourquoi avec des tailleurs de pierres et
+que la taille des pierres, dans cette seconde conception, c’est très important ? Pourquoi ? Parce
+que, la taille des pierres, c’est vraiment du type « qu’est-ce qui se passe ? ». Evidemment la taille
+des pierres, c’est problématique. C’est évident. Arrondir, tailler, c’est du domaine des… non pas
+des propriétés qui découlent d’une essence, mais, comme on dit souvent dans le langage de
+l’époque, des affects ou des événements qui transforment une figure. [Pause] [81 :00] Un des
+textes de Desargues s’appelle, a un titre merveilleux, très très « Lewis Carroll » alors,
+« Brouillon d’une atteinte aux événements qui déterminent… que déterminent la rencontre d’un
+cône avec un plan ».6 Vous voyez il y a le truc : rencontre, atteinte aux événements. Vous
+pouvez sentir que ce n’est pas du langage cartésien, ça ; c’est… ça fait partie d’une autre
+tradition, ce langage-là. C’est du langage du courant problématiste. Bon, l’importance de
+Desargues est fondamentalement reconnue non seulement par Descartes, là, qui est très juste,
+qui, dans plusieurs lettres dit que Desargues c’est… c’est un géomètre formidable. Mais, là, ce
+n’est plus qu’une reconnaissance, c’est presque un disciple, mais un disciple qui… qui…
+dépassera le maître, [82 :00] c’est du côté de Pascal. Et c’est du côté des mathématiques à la
+Pascal et non plus à la Descartes que se trouve la descendance desarguienne, la descendance de
+Desargues.
+
+Bien après… -- ah… Pascal aussi, c’est une situation… c’est une situation dans la science très
+bizarre... -- bien après, vous avez un nom célèbre comme le créateur de la géométrie dite
+« descriptive », c’est [Gaspard] Monge. Et Monge ne cesse pas de faire une théorie qu’il appelle
+lui-même, dans son langage, « une théorie des affects particuliers », et il distingue les affects
+
+                                                                                                   19
+
+particuliers des corps des propriétés générales. Et c’est par-là que, quand il s’occupe de
+physique, c’est très important, puisqu’il traite les phénomènes, par exemple, électriques comme
+des affects particuliers des corps par distinction aux déterminations [83 :00] générales des figures
+du type « espace et mouvement ». En tout cas : géométrie descriptive de Monge. Or, Monge,
+c’est quoi ? C’est un courant très, très bizarre, parce que Monge, c’est… bon… c’est pleinement
+un savant, mais c’est un savant qui n’est pas de la même tradition que l’autre courant. Euh… il
+renvoie à un personnage… à un type de personnage dont on a parlé, là, l’année euh… je ne sais
+plus laquelle, où on s’occupait de ça, à savoir… euh… l’ingénieur, l’ingénieur militaire, la
+science de l’ingénieur militaire. C’est une chose très, très curieuse.
+
+Et puis, dans la ligne, alors… il y a vraiment une… une continuité, là, si on essaie d’établir des
+continuités… il y a une continuité, il me semble, Desargues – Pascal – Monge, et puis en
+quatrième, peut-être un des plus grands, il a sa petite rue à Paris, [84 :00] [Jean-Victor] Poncelet,
+Poncelet qui est un grand ingénieur militaire, mais surtout, surtout, l’inventeur de la géométrie
+dite projective -- projectif, c’est problématique ; pro-blème égale pro-jection. A la lettre, c’est…
+c’est… c’est le même mot, l’un en latin, l’autre en grec -- la géométrie projective de Poncelet,
+qui a un grand axiome, qui repose sur un axiome dit « de continuité ».
+
+Or, là aussi, pour en rester à des exemples aussi stupides que celui que j’ai pris pour
+l’axiomatique, qu’est-ce que c’est que l’axiome de continuité à la Poncelet, dans la géométrie
+projective ? Vous voyez… euh… un cercle ou un arc de cercle, hein, vous tracez une… droite
+qui coupe l’arc de cercle en deux points, hein, il y a deux points réels. [85 :00] Vous le faites
+monter. Vient le moment où il n’y a plus qu’un point réel. Vous continuerez à vous dire, vous,
+vous continuerez à dire : il y a deux points, mais, simplement, l’un est fictif, ou l’un est
+imaginaire. Vous montez encore. La droite sort du cercle et ne coupe plus… et ne coupe plus
+rien : vous continuerez à dire qu’il y a deux points fictifs, vous aurez établi une série de
+continuité entre cas hétérogènes, à savoir : trois cas hétérogènes, le cas où votre droite coupe
+effectivement le cercle en deux points, le cas où votre droite est une tangente, et, troisième cas, le
+cas où votre droite est extérieure au cercle. Vous me direz : quel intérêt d’introduire ces points
+imaginaires… ? Ah, si, je ne vous le dirai [86 :00] pas, parce que vous devez sentir que ça a un
+intérêt colossal, du point de vue de la géométrie, que ça entraîne une nouvelle conception de la
+géométrie.
+
+Si j’essaie de résumer, là, à ce niveau, l’exemple devient très simple… Oui, il devient… je
+dirais : dans les deux cas, aussi bien dans la conception, dans la première conception que dans la
+seconde conception, c’est-à-dire du côté de la géométrie analytique, Descartes, du côté de la
+géométrie projective constructive, Monge, Poncelet, Desargues etc…, dans les deux cas vous
+dépassez… – sinon il n’y aurait pas de science – dans les deux cas, vous dépassez les conditions
+de la représentation spatiale, c’est-à-dire vous dépassez la simple intuition. Ça, c’est commun
+aux deux. C’est par là que les deux sont de la science.
+
+Mais, dans un cas, [87 :00] vous dépassez la représentation spatiale ou l’intuition vers une
+puissance d’abstraction de plus en plus consistante, ou vers une puissance symbolique. Dans
+l’autre cas, je dirais, c’est tout différent – vous allez comprendre – vous le dépassez vers une
+trans-intuition, c’est-à-dire vous développez une espèce de… d’espace entre les cas. Dans un cas,
+je dirais, vous faites une conjugaison, dans l’autre cas vous établissez une connexion. [Pause]
+
+                                                                                                    20
+
+Vous vous élevez vers une espèce de… quoi ? Intuition trans-spatiale [88 :00] ou trans-intuition.
+Vous ne dépassez pas l’espace vers une puissance de symbole ; vous établissez des connecteurs
+d’espace. Vous déroulez un espace commun aux trois cas : la ligne qui coupe, la ligne tangente,
+la ligne extérieure au cercle.
+
+Je dirais que mon second exemple recoupe mon premier : j’appellerai conception, si vous voulez,
+« déductive » ou « théorématique » la conception qui dépasse la représentation spatiale vers la
+puissance d’abstr… euh… vers la puissance symbolique, et j’appellerai « problématique » la
+conception Desargues, Pascal, Monge euh… Poncelet, qui dépasse [89 :00] la représentation
+spatiale vers une trans-intuition ou vers une intuition trans-spatiale. Et, que les deux se
+mélangent… C’est possible que, à un certain niveau, les deux se mélangent, mais chaque fois il y
+a des tensions.
+
+Je prends un seul exemple parce que je me le rappelle, là, c’est que… euh… Poncelet a toute une
+polémique avec, précisément, un descendant… et un créateur, mais un descendant de la
+géométrie analytique, un type qui… poussait l’analyse à un niveau beaucoup plus… loin, et…
+euh… et qui lui… et qui est son contemporain, un mathématicien qui s’appelait [Augustin-Louis]
+Cauchy. Et l’espèce de tension Cauchy-Poncelet renouvelle, si vous voulez, dans des conditions
+complètement autres historiquement, renouvelle la même opposition que celle qu’on vient de
+voir chez les Grecs, là, entre un courant euclidien et un courant archimédien. Bien… [90 :00]
+
+Je dis : troisième exemple, dans les mathématiques modernes. Première voie : la formation d’une
+puissance axiomatique, [Pause] une puissance axiomatique qui consiste à dépasser la
+représentation spatiale vers un symbolisme de plus en plus… comment dire… euh… abstrait, au
+sens d’une symbolique des éléments quelconques ; et, d’autre part, le courant problématiste ou
+intuitionniste dont on a tort – vous voyez ce que je veux dire – on a tort de s’en faire une
+conception… lorsque ça arrive, parce que je crois qu’il y a des historiens des mathématiques qui
+présentent les choses comme ça, comme si mon second courant, là, était en [91 :00] régression
+simplement. Mais, en fait, ce n’est pas du tout un courant qui réclame simplement les droits de la
+représentation spatiale et qui dit « ah ben non… »… On présente très souvent les antiaxiomaticiens comme des gens qui, simplement, disent : ah, mais la représentation spatiale, on ne
+peut pas s’en passer et l’axiomatique a tort. Et je crois que ce n’est pas ça du tout. Ils sont
+beaucoup plus… le second courant, il est… il est aussi intéressant que le premier ; il n’est pas du
+tout en train de… de… de… de dire : ah, il faut garder de la représentation spatiale. Il dépasse la
+représentation spatiale non moins que l’autre. Archimède dépasse la représentation spatiale, mais
+il le fait par une méthode des limites ou de l’exhaustion, c’est-à-dire les métamorphoses de
+figures et les passages à la limite. Poncelet, il le fait avec son axiome de continuité. C’est bizarre,
+d’ailleurs qu’on appelle ça « axiome de continuité », « axiome » . Il faudrait retirer le mot
+« axiome », ce n’est évidemment pas un axiome de continuité, c’est une condition de… [92 :00]
+c’est une condition de problèmes, hein. Ce n’est pas du tout un axiome… On peut le traiter
+comme un axiome, à ce moment-là, c’est un mixte, c’est un mélange. Vous voyez, donc, je
+dirais : il ne dépasse pas moins que les autres les conditions de la représentation spatiale, mais,
+au lieu de la dépasser vers un symbolisme, à la limite un symbolisme de l’objet… [Fin de la
+cassette] [1 :32 :23]
+
+Partie 3
+
+                                                                                                    21
+
+… ils vont établir une continuité entre les trois cas discontinus, par exemple dans le cas de
+Poncelet, vous voyez, la ligne qui coupe le cercle, la ligne tangente, la ligne extérieure au cercle.
+Donc, entre ces trois cas, ils font couler ou ils font passer une espèce de ligne commune, une
+ligne fictive… bon. Mais, chez eux, ce n’est pas la puissance du symbole, c’est la fiction d’un
+entre-deux. [Pause] [93 :00]
+
+Donc si je résume je dirais : nous sommes en droit à partir de là, de considérer pas encore bien
+sûrement, mais de euh… mieux considérer notre hypothèse que trois concepts doivent être
+distingués : encore une fois celui des conjonctions topiques, celui des conjugaisons généralisées,
+et celui des connexions, des connexions, j’appellerais ça presque, à la limite, des connexions
+créatrices, ou des connexions anticipatrices. Ce sera un monde différent, connexions
+anticipatrices, et elles ne procéderaient pas par axiomatique : elles procéderaient par calcul des
+prob… des problèmes.
+
+D’où l’importance que, dans l’école dite intuitionniste ou constructionniste, l’importance dans
+cette école, de… [Pause] [94 :00] ce qu’ils appellent précisément un calcul des problèmes. Le
+livre de Bouligand que je citais, Le déclin des absolus mathématico-logiques, la thèse, toute la
+thèse est celle-ci, avec des exemples très riches, très variés : qu’il y aurait en mathématiques
+deux éléments irréductibles, l’un que Bouligand appelle "élément de la synthèse globale", et
+l’autre qu’il appelle "l’élément problème". Et sans doute, il montre qu’un problème ne peut être
+résolu que par les catégories de la synthèse globale, mais inversement, il montre, que la cat… les
+catégories de la synthèse globale ne peuvent procéder, ne peuvent fonctionner, que grâce à des
+germes d’éléments problématiques agissant comme des espèces de cristaux là-dedans, agissant
+comme des virus, là-dedans.
+
+Et je crois que, lorsqu’il analyse -- c’est là la force de ce livre -- lorsqu’il analyse des cas très
+concrets, même si on comprend pas, il y en a qu’on comprend, [95 :00] donc… euh… il montre
+très bien, il recueille très bien cette tradition, il ne parle pas du tout des problèmes que… j’ai
+envisagés historiquement, mais euh… il est comme euh… l’état euh… de la première moitié du
+XXème siècle, il est un très, très bon représentant, de cette mathématique des événements, c’està-dire de cette mathématique problématique. Il y a eu un moment, tout un… tout un courant de
+profs de maths, anti-axiomati… euh… anti-axiomaticiens, euh… qui essayaient de faire un
+enseignement de… en gros, on peut dire l’axiomatique a gagné dans l’enseignement des
+mathématiques actuellement, même dans les petites classes… Euh… c’est tantôt de la logique
+formelle, c’est tantôt…le… la formalisation, euh… tantôt l’axiomatique qui a gagné. Si vous
+ouvrez un livre même de sixième, de… de cinquième, de quatrième, euh… de… de
+mathématiques.
+
+Or il y avait tout un courant qui disait : non, non, il ne faut pas aller dans ce sens-là. [96 :00] Il
+faut aller euh… faut aller dans une conception vraiment problématique, à savoir, au contraire,
+tout… tout faire basculer, faire un enseignement des mathématiques avant tout fondé non pas sur
+les axiomes. Euh… c’est très rigolo, je ne sais pas si... si… il faudrait que vous ayez des petits
+frères ou des…, mais enfin, beaucoup d’entre vous ont vu, ces livres… et puis, après tout, je suis
+bête… vous n’avez pas de mon âge… donc vous-mêmes vous êtes… vous avez peut-être été…
+enseignés avec cette méthode extrêmement axiomatisée, euh… en géométrie et en… et en
+arithmétique. On commence en effet par la théorie des ensembles… Je ne dis pas du tout que ce
+
+                                                                                                      22
+
+soit mal : c’est… c’est… ça fait bizarre… euh… Moi, je suis d’une génération où ce n’était ni
+l’un ni l’autre. Alors, ce n’était pas mieux, hein. C’était autre chose, c’était vraiment la vielle
+pédagogie.
+
+Mais, ces profs auxquels je pense, ces profs de mathématiques, tout à fait du lycée, c’était des
+très bons mathématiciens, mais réclamaient une toute autre conception : c’est ça qui m’intéresse,
+[97 :00] qui était vraiment la construction des problèmes, parce qu’ils disaient : il n’y a qu’au
+niveau des problèmes qu’on peut convier les élèves à une espèce d’activité sans que ça devienne
+un pur et simple bordel, à savoir, on leur fait construire un problème, et à ce moment-là, tiens,
+est-ce que tout ne se retrouverait pas ? Parce que tout problème n’a pas… quoi ? Je veux dire –
+pour nouer tout ce qu’on…, toutes ces remarques dispersées – un problème, un problème quoi ?
+Vous ne direz jamais d’un problème qu’il est vrai ou qu’il est faux. Ce qui est vrai ou faux, c’est
+une solution, c’est une démonstration. C’est la démonstration d’un théorème. Un problème, ce
+n’est pas vrai ou faux. Si : on voit bien ce qu’on appelle un faux problème, c’est… c’est un
+problème où il y a une faute. Ça arrive dans les concours tout le temps, euh… on donne de faux
+problèmes. Oui, faux problèmes. Ah, il y a une faute, il y a une donnée qui manque, donc c’est
+un faux problème. Mais, sinon, un problème, il n’est ni vrai ni faux en tant que [98 :00]
+problème.
+
+Seulement voilà, un problème, il a un sens ou il n’en a pas. Il y a des problèmes qui n’ont pas de
+sens. Et, là encore, ça ne fait qu’un avec la connerie, ça. Euh… la bêtise, ça consiste
+perpétuellement à poser des problèmes qui n’ont aucun sens. Or, là, ce n’est pas le domaine du
+vrai et du faux, c’est le d… le domaine du sens et du non-sens. Si bien qu’on retrouverait nos
+histoires. Bon, alors, faire surgir des événements mathématiques, ça, c’est une autre conception
+que l’axiomatisation, où au contraire, l’axiomatisation, on fait découler des propriétés
+nécessaires à partir d’un système d’axiomes. Voilà, alors je reprends euh…, pour conclure,
+brièvement… Quelle heure il est ?
+
+Un étudiant : [Inaudible]
+
+Deleuze : Quoi ? [99 :00] Midi vingt, mon dieu ! Euh… Vous n’en pouvez plus ! Euh… [Rires].
+C’était… Bon, alors je termine très rapidement. Je dis… Bon, qu’est-ce que… ? Au point où on
+est, on a au moins…euh… fait cette longue, longue parenthèse, qui nous amène à quoi ? Alors je
+reviens vraiment à ma question concernant l’État et la politique, puisque c’est là-dessus que je
+voudrais finir, euh… cette première série de recherches cette année.
+
+Ben, voilà. Ma question, elle s’est un peu précisée, c’est : quel est notre intérêt à nous, si nous
+essayons de traiter la situation actuelle comme une axiomatique, dans les conditions que je viens
+de dire : l’axiomatique, ce n’est pas du tout un savoir mécanique, ce n’est pas du tout un truc
+sans expérimentation, ce n’est pas du tout euh… une méthode infaillible, ce n’est pas… Mais, les
+données de la situation actuelle comme [100 :00] entrant dans une axiomatique, qu’est-ce qui
+arrive ?
+
+Comment, à ce moment-là, les problèmes politiques se posent-ils ? Qu’est-ce que ça veut dire,
+traiter la situation actuelle comme une axiomatique ? Ça veut dire deux choses : et que nous
+aurions des raisons d’assimiler le capitalisme à une axiomatique, et aussi que nous aurions des
+
+                                                                                                   23
+
+raisons… je veux dire, assimiler -- premier point -- assimiler à… le capitalisme à une
+axiomatique, je n’ai plus à le faire, parce que j’estime que ce qu’on a fait précédemment. Toutes
+nos définitions du capitalisme, consistaient à dire : oui, le capitalisme, il surgit lorsque les
+conjonctions topiques sont débordées, au profit d’une conjugaison généralisée, au profit d’une
+conjugaison généralisée de deux flux : le flux de richesse, devenu indépendant, [101 :00] le flux
+de travail devenu « libre », libre entre guillemets puisque, euh… [Il ne termine pas] Or, c’est
+cette conjugaison ou rencontres des flux décodés qui constitue le capital en tant que subjectivité.
+
+Donc, bon, on a des raisons de considérer le capitalisme comme une axiomatique sociale. La
+conséquence immédiate, c’est que les problèmes politiques ne se posent que très partiellement
+dans le cadre des pays et des États, que les problèmes politiques, immédiatement, se posent
+fondamentalement, toujours – sans qu’il y ait là une sorte de réflexion fondamentale, au
+contraire, ça se fait tout seul – se posent immédiatement dans un cadre mondial, hein, dans le
+cadre d’un système mondial, au point qu’il est très, très difficile de parler de ce qui se passe dans
+un pays sans tenir compte – et ça n’implique encore une fois aucun [102 :00] savoir spécial –
+sans tenir compte de l’ensemble d’une situation mondiale qui distribue les données. Troisième
+point : ce qui revient à dire, les États et les pays sont finalement analogues, mettons, à des
+modèles de réalisation par rapport à l’axiomatique du capital. [Pause]
+
+Et enfin, [Pause] en dernier point, nous constatons évidemment que cette situation est tout à
+fait… désespérante pour nous. Du moins elle ne le serait que si nous nous faisions de
+l’axiomatique l’idée, précisément, d’une espèce de puissance infaillible. [103 :00]
+Heureusement, nous avons pris nos précautions. Il y a plein de choses qui fuient sous les mailles
+d’une axiomatique ; il y a plein de choses qui foutent le camp, il y a plein de choses qui… qui ne
+se laissent pas axiomatiser, et qui continuent à couler, à travers les mailles de l’axiomatique, et
+c’est de ça qu’on a appelé le monde des connexions ou le calcul des problèmes-événements,
+événements comme irréductibles à l’ordre axiomatique en même temps qu’ils ne cessent de se
+produire dans cet ordre.
+
+La question serait donc : est-ce qu’on a de quoi se consoler avec ça ? Et quels seraient les
+problèmes, ou événements, quelles seraient les connexions qui travaillent l’axiomatique
+mondiale actuellement, de telle manière qu’il y ait, par ci par là, des sources d’espoir ? Problème
+urgent pour nous, hein ? [104 :00] Bon. [Pause] Or je rappelle -- comme ça, je retomberai
+exactement au point où je voudrais qu’on commence la prochaine fois -- je rappelle que, en effet,
+si je reviens au thème mathématique de l’axiomatique… Voilà : nous nous trouvons devant un
+certain nombre de problèmes liés à une axiomatique.7
+
+Donc, là, la comparaison axiomatique-situation mondiale ne vaut que si nous retrouvons quelque
+chose de semblable à l’ensemble de ces problèmes, au niveau de la situation mondiale. Je dirais :
+le premier problème, c’est celui de, dans une axiomatique, on peut ajouter jusqu’à un certain
+point, et jusqu’à un certain point, retirer des axiomes. C’est le problème de l’addition et du
+retrait. Une comparaison de l’axiomatique avec la situation mondiale ne vaut que si [105 :00]
+nous sommes capables de découvrir à l’œuvre, en acte, ce processus d’addition et de retrait des
+axiomes, au niveau du capitalisme. Est-ce qu’il y a bien une addition et un retrait des axiomes ?
+Des axiomes du capital ? Premier problème.
+
+                                                                                                                    24
+
+Deuxième problème, je dirais : ce n’est plus celui de l’adjonction et de la soustraction, du retrait
+et de l’addition, c’est celui de la saturation. Une axiomatique est dite saturée quand, justement,
+on ne peut plus rien lui ajouter. Or, à mon avis, quoique ça ne se voit pas forcément, s’il y a un
+auteur qui a traité, qui a su nous montrer de quelle manière le capitalisme fonctionnait comme
+une axiomatique, c’est Marx. Et c’est Marx pas n’importe où, c’est Marx dans un chapitre très
+beau, [106 :00] très important du Capital, qui est le chapitre sur la baisse tendancielle du taux de
+profit.8 Et la thèse de Marx, que nous aurons à voir -- mais je voudrais bien que certains d’entre
+vous la voient ou la revoient d’ici la semaine prochaine -- la thèse de Marx, en gros, est que le
+capitalisme ne cesse d’affronter des limites -- il y a l’idée de limites du capital, à chaque moment
+-- ne cesse d’affronter des limites, mais que ces limites lui sont immanentes.
+
+C’est une thèse très complexe, très belle mais très complexe. Vous voyez, elle est faite de
+plusieurs propositions qui s’articulent : le capitalisme ne cesse d’affronter des limites ;
+deuxièmement : ces limites lui sont fondamentalement, essentiellement immanentes ; troisième
+point : si bien qu’il ne cesse de s’y heurter, et, en même temps, de les déplacer, c’est-à-dire, de
+les repousser [107 :00] plus loin… et, plus loin, il va s’y heurter à nouveau, il va les repousser,
+les déplacer plus loin. C’est cette thèse des limites en tant qu’immanentes et non pas obstacles
+extérieurs, qui en ferait des limites absolues ; en d’autres termes, c’est lui qui engendre ses
+propres limites, et qui, dès lors, s’y heurte, et qui les déplace. Cette thèse fondamentale, je crois,
+pose le problème de la saturation de ce qu’on pourrait appeler : la saturation du système à tel ou
+tel moment.
+
+Troisièmement, troisième problème : les États et les pays… les États et les pays, les Étatsnations, peuvent d’une certaine manière être considérés comme des modèles de réalisation de
+cette axiomatique du capital. [Pause] [108 :00] En ce sens, quel est le statut des modèles de
+réalisation ? Quelle est la mesure de leur indépendance par rapport à la situation mondiale, par
+rapport à l’axiomatique elle-même ? Quelle est la mesure de leur dépendance, etc. ? C’est un
+autre problème, que celui de la saturation du système.
+
+Euh… Quatrième… Je ne sais plus… oui ? Quatre, c’est quatre, ça ? Petit quatre… Quatre,
+ouais. Oh ben, on verra après, hein ? Il y en a trop, hein ? Il y en a trop, mais bon…. On
+commencera par-là, la prochaine fois. Alors essayez de relire… ce chapitre de Marx, hein ? [Fin
+de la séance] [1 :48 :57]
+
+Notes
+
+    Deleuze considère Alois Riegl lors de la séance 5 sur la Peinture, le 12 mai 1981.
+ Deleuze se réfère aux textes de Henri Maldiney sur Cézanne lors de deux séances sur Spinoza, le 13 janvier et le
+31 mars 1981.
+  Deleuze attribue ce terme, « automate spirituel », à Spinoza lors de la séance sur la variation continue, le 24
+janvier 1978. Il revient à ce terme à plusieurs reprises : dans la première séance dans le séminaire sur Leibniz, celui
+qui suit ce séminaire sur l’Appareil d’État, le 15 avril 1980 ; et dans cinq séances de la quatrième année sur le
+cinéma et la philosophie : le 30 octobre 1984, le 6 novembre 1984, le 8 janvier 1985, le 23 avril 1985, et le 4 juin
+1985.
+
+                                                                                                                      25
+
+    Georges Bouligand et Jean Desgranges, Le déclin des absolus mathématico-logiques (Paris : SEDES, 1949).
+ Sur Girard Desargues et ses travaux aussi bien que sur les sections coniques, voir le deuxième séminaire sur
+Leibniz, notamment les séances du 18 novembre 1986 et celle du 3 mars 1987, aussi bien que Le Pli. Leibniz et le
+baroque (Paris : Minuit, 1987) pp. 28-30. Quant aux Œuvres de Desargues, plusieurs éditions modernes existent de
+ce texte ; il s’agit d’un ouvrage édité par Noël Germinal Poudra, publié en 1864.
+ Le titre semble être légèrement différent de celui que Deleuze cite : Brouillon Project d’une atteinte aux
+evenemens du rencontre d’une cone avec un plan. Voir l’étude de Jan P. Hogendijk, «Desargues’ Brouillon Project
+and the Conics of Apollonius”, Centaurus vol. 34 (1991), pp. 1-43, http://www.jphogendijk.nl/publ/Desargues2.pdf.
+  Comme on voit dans la séance précédente, sur l’axiomatique et les quatre problèmes détaillés par Deleuze, voir
+le plateau 13 (sur l’appareil de capture), « Proposition XIII. L’Axiomatique et situation actuelle, » Mille plateaux, pp.
+575-590. [« Axiomatics and the present day situation ATP 460-473]
+    Il s’agit sans doute du Capital, livre III, part III, chapitres 13-15.

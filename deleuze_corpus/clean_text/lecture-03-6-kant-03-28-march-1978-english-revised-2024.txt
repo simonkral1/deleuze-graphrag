@@ -1,0 +1,768 @@
+1
+
+Gilles Deleuze
+
+Seminar on Kant: Synthesis and Time
+
+Lecture 03, 28 March 1978
+
+Transcribed by WebDeleuze
+
+Translated by Melissa McMahon
+
+Kant was very interested in a bizarre author called Swedenborg, and Swedenborg had a certain
+conception not only of spirits, in the spiritualist sense, but he had a conception of space and time
+as a function of spiritualism.
+
+To answer your question: it seems to me that you aren't posing the problem in Kantian terms.
+When you say, for example: "I'm thinking of someone", and then this someone comes into the
+room. You are using "thinking" in an extremely general sense, that is, any activity of any given
+faculty referable to a so-called thinking subject, whatever the mode of thought. When you say
+that I am thinking of someone that means that I am imagining someone, or I remember someone,
+and then by chance, by coincidence, this someone comes into the room. "Thinking" can very
+well be used in vague and general terms. At the point we are at in our analysis, Kant has
+substituted a restricted use, in which to think does not mean to imagine or to remember, or to
+conceive, but in which thinking means solely to produce concepts. To feel means solely: to
+receive a sensible diversity, to apprehend a sensible diversity. To imagine means: either to
+produce images, or else to produce the concept's corresponding spatio-temporal determinations.
+
+So grant me that, at the level that we are on, whatever these restricted definitions and their value
+are, to think, to imagine, to feel, are not treated by Kant as modes of a same type of thought
+which could be substituted for one another, but as specific faculties. So that when you say "I
+remember someone", and this someone comes in, there is no activity of thought, there is an act of
+imagination, there is suddenly the sensible diversity which gives me this someone. That's what
+Kant would say.
+
+Kant says, in a text of the Critique of Pure Reason: "if cinnabar was sometimes red, sometimes
+red and sometimes black, sometimes heavy and sometimes light... I would never have the
+opportunity to associate - i.e. my imagination would never have the occasion to associate - the
+heavy cinnabar with the colour red..." If nature was not subject to concrete rules, there would be
+no associations of ideas. In other words, when I have an association of ideas, this implies that
+things, and no longer ideas, that things are themselves subject to rules analogous to the rules
+which are associated in us. Which is to say if Pierre did not come to Vincennes, or had not come
+to Vincennes, I would never have had the opportunity to associate the idea of Vincennes and the
+idea of Pierre.
+
+                                                                                                    2
+
+I will try to clarify this story of faculties, but you can well see that you can't invoke the example
+that you just gave as transforming the problem of the thought-imaginary relationship, because in
+fact it would be a matter of one of the forms of thought. When I think "of Pierre" and then Pierre
+is there, in fact I haven't thought anything since I haven't formed any concept at all. I imagined or
+remembered.
+
+There's something very, very curious in Kant. When Kant writes his three great critiques, the
+Critique of Pure Reason is in 1781, Kant is 57 years old, the Critique of Practical Reason is in
+1788, and finally the last very great work by Kant is the Critique of Judgement in 1799, he is 76
+years old. I was saying to myself that there aren't that many precocious philosophers. If he had
+died at the age of 50 he would be a sort of secondary philosopher, a good disciple of Leibniz, a
+good run-of-the-mill philosopher. There is only one case, the extraordinary case of Hume. With
+him, he has his whole system, all his concepts, at the age of 22-25, after which he only repeats,
+improves.
+
+Today, I would like to speak about this extraordinary book that is the Critique of Judgement; if I
+say that it is an extraordinary book it's because it is a book which founds a discipline, even if the
+word existed before. There is a particular discipline which will be radically founded by the
+Critique of Judgement, namely the foundation of all possible aesthetics. Aesthetics came into
+existence as something different from the history of art with the Critique of Judgement. It's really
+a very difficult book, don't try to understand each line of it, follow the rhythm.
+
+I would like to develop a bit the difference between the Cartesian "I think", such as it appears in
+Descartes, and the "I think" such as it appears in Kant. We must schematise at the level of a
+certain labor of thought. Already with Descartes, something appears which, it is said, will be of
+very great importance in the evolution of philosophy, namely: substance, that certain substances
+are therein determined as subjects. We can say very schematically that these formulae have been
+helpful. Not all substances, but a type of substance called thinking substance. Thinking substance
+is determined as subject. It's the discovery which will mark all philosophy said to be modern,
+from the 17th century onwards, it is the discovery of subjectivity.
+
+Why the discovery of subjectivity, why would subjectivity have to be discovered? It's the
+discovery of a subjectivity which is not the subjectivity of the empirical self, namely you and me.
+From the point of view of the labor of the concept, if I say: the Cartesian cogito is the assignation
+of substance as subject: "I think", the Kantian I think is very different. Everything happens as if a
+further step was taken, namely that the form of subjectivity breaks away from substance. The
+subject is no longer determinable as a substance. Subjectivity liberates itself from substantiality.
+Philosophers do not contradict each other, it's like with scholars, there is a whole labor of the
+concept. I will try to express Descartes' "I think" very concretely.
+
+Descartes' point of departure is a famous operation called doubt. He says, in some very beautiful
+texts, "perhaps this table on which I rap does not exist", and "perhaps my hand which raps on this
+table does not exist"; everyone knows very well that this is a manner of speaking. There is
+necessarily a discrepancy between the style and the content. It's not a matter of saying the table
+doesn't exist. Descartes' problem is something else entirely, it's the ground [fondement] of
+certainty, which is to say a certainty which would be exempted from all possible doubt. If I say
+
+                                                                                                       3
+
+"the table exists", its existence is of no matter to me, I am wondering whether it is a certainty
+which contains in itself its own ground. No. Certainly the table exists, it's understood, but this
+certainty does not contain in itself its own ground. Are there certainties which contain their own
+ground in themselves? At this point I move up a level: we say that we are sure that two and two
+make four; Dostoyevsky's heroes say: "I don't want two and two to make four". Can one not
+want two and two to make four? And when he says: I am certain that two and two make four, is
+that also a certainty which has its own ground in itself? Why would two and two make four? In
+this case one can demonstrate that two and two make four, which is complicated.
+
+On the other hand, Descartes thinks that it is the operation of doubt which will give us a certainty
+which contains in itself its own ground. Namely that there is one thing which I cannot doubt, I
+can doubt the existence of the table, I can doubt the proposition "two and two make four", I
+cannot doubt one thing, which is that in so far as I doubt, I think. In other words, the operation of
+doubt, in so far as doubting is thinking, will provide me with a certainty which contains in itself
+its own ground: I think! "I think" - it's a funny sort of formula. In certain texts, Descartes goes so
+far as to say that it is a new mode of definition. It's a definition of man. Why is it a definition of
+man? Before Descartes philosophy proceeded by definitions, scholasticism, definitions were
+given above all through generic and specific differences. Man is a rational animal. Animal is the
+genus, rational is the specific difference. Descartes says that when a definition of this type is
+given we are always referred to something else that we are supposed to know.
+
+In order to understand that man is a rational animal, we are supposed to know what an animal is,
+we must know what rational is. He will substitute a definition of another form entirely: I think.
+It's very curious, this "I think", because there is no need to know what thinking is. It is given in
+the act of thinking. There is a kind of implication, which is not at all an explicit relation between
+concepts, it's an act which is one with the act of thinking. With doubt, when I doubt, there is one
+thing which I cannot doubt, which is that as a self who doubts, I think. Self, what is the self? Is it
+my body, is it not my body? I have no idea since I can doubt my body. The only thing I cannot
+doubt is that since I doubt, I think. You can see that it is absolutely not a matter of an operation
+in which doubt would come to bear on [inaudible], but of an operation which consists in
+requiring a certainty which contains in itself its own ground as certainty.
+
+"I think" is thus an act through which I determine my certainty. The "I think" is a determination.
+It's an active determination. Not only can I not doubt my thought, but I cannot think without it,
+which is to say that the same implicit relation which goes from doubting to thinking, goes from
+thinking to being. In the same way that doubting is thinking, in order to think one must be. You
+can see the progression of the Cartesian formulae: I doubt, I think, I am. I doubt, I think, I am, I
+think is the determination, I am is the indeterminate existence, I am what? Well, the
+determination will determine the indeterminate existence. That the determination determines the
+indeterminate means: I am a thing that thinks. I am a thinking thing. Thus it is that what I am is
+determined by the determination "I think", is determined as the existence of a thinking thing.
+
+Descartes is told that that's all very well, but what proves to us that it is not the body which
+thinks in us? A materialist of the time says this to him. And Descartes replies - as soon as anyone
+makes an objection to him, he is very rude - he says: you haven't understood anything, I never
+claimed that it is not the body which thinks in us, he says exactly this: what I am claiming is that
+
+                                                                                                     4
+
+the knowledge which I have of my thought cannot depend on things which are not yet known. In
+other words, it is not a matter of knowing if it is the body or not the body which thinks in us, it is
+a matter of observing that, within the perspective of the Cartesian method, the consciousness
+which I have of my thought cannot depend on things which are not yet known, namely the body
+since doubt [unclear; possibly: also bears on this]. Thus this procedure, from a logical point of
+view, but a new type of logic since it is no longer a logic that operates through genera or
+differences, it's a logic of implications since Descartes is in the process of... in opposition to
+classical logic which was a logic of explicit relations between concepts. He launches a new type
+of logic which is a logic of implicit relations, a logic of implication.
+
+So, he has determined with the "I think", which is a determination, he has determined the
+existence of what thinks, and the existence of what thinks is determined as the existence of the
+thinking thing. He thus goes from the determination to the indeterminate, from the determination
+"I think" to the indeterminate "I am" and to the determined: I am a thing that thinks. He threads
+along his logic of implications: I doubt, I think, I am, I am a thing that thinks. He has thus
+discovered the zone where substance was subject.
+
+And Kant appears.
+
+What Descartes affirms is that the soul and the body are really distinct. It's more than an
+ontological separation. But what is it that he calls a real distinction, in conformity with the whole
+tradition? Again, words here are as defined as in science. A real distinction is not the distinction
+between two things, it's the distinction, a mode of distinction, between two things, it's the
+distinction, a mode of distinction, between two ideas and representations : two things are said to
+be really distinct when I can form the idea of one of them, which is to say when I can represent
+to myself the idea of one of them without introducing anything about the other. Representations
+thus form the criteria for real distinction. Two things being completely distinct is a proposition
+which, ultimately, has no meaning. We will get to the level of substance, Comtesse, you who
+know Descartes as well as I, after the fifth meditation. In the second meditation, there is
+absolutely no way of knowing if it is the body which thinks in me. Descartes says it
+categorically. The soul and the body, thought and extension are really distinguished - which is
+not the same thing as really distinct - as two ontologically separate, or separable, substances. He
+is not able to say this before the end of the meditations. In the second meditation, when he
+discovers the "cogito", the "I think", he absolutely cannot say it yet, and it's for this reason that
+among the novelties of Descartes' text, there is something which he very much insists on, and
+this is the true novelty of the meditations, even if you don't like Descartes very much, namely
+that it is the first book which introduces time into philosophical discourse.
+
+There is something tremendous in this. What he says in the second meditation, then what he says
+in the fifth, there is a temporality which has unfolded which meant that he could not say in the
+second what he will say in the fifth.
+
+This is not true of all philosophies; if I take Aristotle or Plato, there is a succession in the
+reading, but this succession corresponds to a chronological order and that's all. In Descartes there
+is the establishment of a temporal order which is constitutive of the metaphysical dimension.
+Broadly speaking, during the whole of the Middle Ages, there was a theory of forms of
+
+                                                                                                      5
+
+distinction, each author will create his own forms of distinction, but broadly there were three
+major types of distinction: real distinction, modal distinction and the distinction of reason. And if
+you relate these three types of distinction to things themselves, you produce an absurdity, if you
+give them an ontological bearing, they don't have an ontological bearing yet, they only have a
+representative bearing, namely: there is a real distinction between A and B when I can think A
+without thinking B, and B without thinking A. You can see that it is a matter of a criterion of
+thought, a criterion of representation. For example: two things are really distinct, and not truly
+distinguished, two things are really distinct when you can form the representation of one without
+introducing anything of the other, and reciprocally. This lighter is on this book, are they really
+distinct? Yes, I can represent the lighter to myself without introducing anything of the
+representation of the book, they are really distinct. It's possible that they are also truly
+distinguished, it would be enough for me to put the lighter in my pocket. Between the front and
+back of a piece of paper, there is a real distinction, I can represent to myself one side of the paper
+without having the least representation of the other. In things, front and back are not separate, but
+in my representation front and back correspond to two representations. I would say that there is a
+real distinction between the front and back of the paper. So there can be a real distinction
+between two things which are not truly distinguished.
+
+Second type of distinction: modal distinction. There is a modal distinction when I can think A, I
+can represent A to myself without B, but I can't represent to myself B alone. For example:
+extension and the figure. Let's suppose, broadly, that I can represent to myself extension without
+figure, I cannot represent to myself a figure without extension. I would say that between
+extension and figure there is a modal distinction. In relation to this, we must not transport it to
+the level of ontology too quickly, it does not mean at all that there is an extension without figure
+in things, perhaps there isn't. You can see it's the same gesture, it's the criteria of representation.
+
+Third distinction: the distinction of reason. When I represent to myself as two, two things which
+are one in the representation. In other words, the distinction of reason is abstraction. When I
+distinguish the front and back of the piece of paper, I do not make an abstraction since they are
+given as two in my representation, since there are two representations, but when you speak of a
+length without breadth, however small this length, there you make an abstraction. When you can
+have no possible representation of a length which would have no breadth, however small. Thus
+between length and breadth there is a distinction of reason.
+
+The way people talk about abstraction is amazing, they have absolutely no idea what it is.
+Philosophy has a kind of technique and a terminology like mathematics. Generally the word
+abstract is used for things in which there is no abstraction. The problem of abstraction is how can
+I make two things out of what only exists as one in my representation. It's not difficult to make a
+thing into two when I have two representations, but when I say the back of the piece of paper, I
+am not abstracting at all since the back is given to me in a representation which itself exists.
+When I say a length without thickness, there I am abstracting because I am separating two things
+which are necessarily given in each other in my representation.
+
+There is indeed a philosopher who started the theory of distinctions. And then the theologians of
+the Middle Ages were not guys concerned with God, that's like saying that the painters of the
+Renaissance were guys who thought about God, no, they thought about colours, they thought
+
+                                                                                                        6
+
+about lines, and they draw out the most bizarre things from Christ's body. What we call
+theologians are people who are in the process of inventing a logic, a physics, a dynamics, and
+one of the great things in the theology of the middle ages is the theory of distinctions... ok... up to
+this point it's completely independent of the question of knowing if things are truly distinguished
+or confused in themselves, so that in the whole story of the cogito, I doubt, I think, I am, I am a
+thing that thinks, Descartes can only conclude: the representation that I have of my thought, and
+the representation that I have of an extended body, are such that I can represent my thought to
+myself without representing anything to myself of extension; I can represent to myself an
+extension without representing anything to myself of my thought. This is enough for Descartes to
+say that thought and extension are really distinct. He cannot add yet that it is not the body which
+thinks in me... [Interruption of the recording]
+
+… So he will have to, in order to draw from the real distinction between representation-substance
+the ontological separation between substances, he will have to go through a whole analysis of the
+concept of God in which he says: if the real distinction between representation and substance
+was such that there was no corresponding true separation in things, an ontological separation in
+things, then God would be deceitful, God would be lying to us since the world would be double,
+God would be duplicitous, God would be full of duplicity since he would have made two nonconforming worlds: the world of representations and the world of things. You can see what that
+implies, philosophically, if God is deceitful... it would imply an entirely new way of posing of
+the problem of evil. But if I had the power to establish real distinctions between representations
+without there being a corresponding true separation between things, the world would be double:
+there would be the world of my representations and the world of things, so God would be always
+misleading me since he would inspire true ideas in me and these true ideas would correspond to
+nothing in things.
+
+To reply to Comtesse, I'm just saying that it's true that it's a story of ontological separation, but
+not so quickly, it will become a matter of ontological separation when Descartes is able to
+conclude: since I can represent thinking substance as really distinct from extended substance,
+then thinking substance and extended substance are two substances ontologically, and from that
+point on it is not the body which thinks in me. But before having gone through [the fifth
+meditation?], he absolutely cannot say this, he can only say: I conceive thinking substance as
+really distinct from extended substance, they are really distinct, since, once again, to be really
+distinct is the same thing as to be conceived as really distinct, two things whose representations
+are caused without one implying anything of the other are really distinct, he cannot yet affirm
+that it is not extension which thinks in me, that it is not the body which thinks in me.
+
+The one thing that seems interesting to me is this idea of implicit relations, but Descartes does
+not call it that, and from this the promotion of an order of time in the writing of philosophy...
+You are going to tell me that you understand everything.
+
+What does Kant do here? Kant wants to go further. It's inevitable, he wants to go further in
+relation to a previous philosopher, only this further has no pre-existence, he must create it. One
+of Kant's most beautiful texts is: "What does it mean: to orient oneself in thinking?" In this very
+beautiful text he develops a whole geographical conception of thought; he even has a new
+orientation, we must go further, Descartes did not go far enough: since he determined certain
+
+                                                                                                       7
+
+substances as subject, we must go further and break the link between the subject and substance.
+The subject is not substance. OK. What does that mean? He takes it up again and I will try to
+mark the stages: he says: "I think", fine. Which is to say that it is an active determination, and it's
+in this sense that Kant will name the "I think" as the form of spontaneity. It seems strange when
+he says that "I think" is the form of spontaneity, but everything is clear if you stick closely to the
+terminology; it means precisely: "I think" is a determination - he takes that from Descartes - and
+the "I think" accompanies each production of concepts. I cannot think a concept without thereby
+including the "I think". In other words, the "I" of the "I think" is the subject of all concepts, or, as
+he will say, it's the unity of the synthesis. Thus on this point, he changes the vocabulary, but he
+remains in agreement with Descartes. Why does he change vocabulary? It was to be expected, if
+he changes vocabulary while remaining in agreement with Descartes, it's because he will need
+this vocabulary for the moment when he will not agree, that's the first point.
+
+Second point: in order to think one must be, in other words, there is a relation of implication
+between the determination "I think" and the position of an indeterminate existence "I am". Kant
+says it all the time: the "I think" implies - often the words vary - a feeling of existence (here we
+can clearly see the lineage, between Descartes and Kant there was Rousseau). Sometimes he says
+a consciousness of an indeterminate existence; the "I think" implies a pure consciousness of an
+indeterminate existence. Agreement with Descartes up to this point. From this point on Descartes
+has no more problems, and it's when a philosopher has no more problems that the next
+philosopher is about to arrive. Descartes has no more problems because he has a determination,
+and he has posited an indeterminate existence hence something to be determined, and he will say
+that the determination determines the indeterminate. The determination: I think, the
+indeterminate: I am, the determination determines the indeterminate: I am a thing that thinks.
+
+Here Kant says no; it's the birth of German philosophy. I'm thinking of Leibniz. There are
+objections which are like reproaches. Beneath objections there are always theoretical reproaches.
+Leibniz already said of Descartes: he is too quick. It's like a judgement of taste. Kant takes on
+something of this, it's too quickly said. Kant: "I think" is a determination, agreed, determination
+implies the positing of an indeterminate existence "I am", agreed, but this doesn't tell me under
+what form this indeterminate existence is determinable, and this Descartes doesn't care about
+because he hasn't seen the problem. I think, I am, agreed. But what am I? Descartes replied: "I
+am a thing that thinks" since he applied the determination to the indeterminate. Now what I'm
+saying is becoming very clear: Descartes carried out an operation whereby he directly applied the
+determination to the existence to be determined. He directly applied the "I think" to the "I am" in
+order to get "I am a thing that thinks."
+
+Kant says OK, I think, I am. But what am I, what is it that I am? A thing that thinks? But by what
+right can he say that? Descartes would have become angry... Kant says to him: but you're stuck,
+you have posited an indeterminate existence and you claim to determine it with the determination
+"I think". You have no right to do that. You have a determination, you have posited an
+indeterminate existence, you can turn it around as much as you like, you will not make any
+headway. You are stuck there. Why? Because to draw from this the conclusion "I am a thing that
+thinks", it assumes - and you have no right to assume it - it assumes that the indeterminate
+existence is determinable as a substance or a thing. Res cogitans, in Latin, the thinking thing.
+
+                                                                                                     8
+
+Kant says, in accordance with all that has come before, which is to say what I tried to say the last
+time - the extraordinary change in the notion of phenomenon, the phenomenon no longer
+designating the appearance but the apparition, what appears in space and time - Kant can now
+say to us that the form under which an existence is determined within the conditions of our
+knowledge (what happens with angels, we have no idea), well, the form under which an
+existence is determinable under the conditions of our knowledge is the form of time.
+
+Thus the "I think" is the form of spontaneity or the most universal form of determination, but
+time is the most universal form of the determinable. Descartes' fatal conclusion was to confuse
+the indeterminate and the determinable, but the determination can only bear on the indeterminate
+as the mediation of the form of the determinable. In other words, I think, I am, the determination
+must determine the indeterminate existence "I am", but the indeterminate existence "I am" is
+only itself determinable under the form of time. It is only under the form of time, as the form of
+the determinable, that the form of thought will determine the indeterminate existence "I am".
+This is how my existence can be determined only as time.
+
+But if time is the form of the determinable, under which my indeterminate existence can be
+determined by the "I think", what form do I receive from the determinable? The form that I
+receive from the determinable is that of a phenomenon in time, since time is the form of
+apparition of phenomena. I appear and I appear to myself in time. But what is it to appear and to
+appear to oneself, to appear in time? They are the coordinates of a receptive, which is to say
+passive, being. Namely a being which has a cause, which does not act without also undergoing
+effects.
+
+Ok, we're at the end, and it's here that Kant will name the paradox of inner sense, the paradox of
+intimate sense: the "I think" is an active determination, it's the same form of the active
+determination, but the existence which it implies, the "I am", the indeterminate existence that the
+active determination of the "I think" implies, is only determinable in time, which is to say as the
+existence of a passive subject which undergoes all its modifications following the order and the
+course of time. In other words, I cannot - there is one sentence which is splendid, it's the Kantian
+version of what I was saying last time, namely that I is an other. This is what Kant says in the
+Critique of Pure Reason: "I cannot determine my existence as that of a spontaneous being, I only
+represent the spontaneity of my act of thinking". It's exactly "I is an other". I cannot determine
+my existence as that of an I, but I only represent the I to myself. The spontaneity of my act of
+thinking. The fact that I represent to myself the spontaneity of my act of thinking means that I
+represent the active determination of the "I think" to myself as the determination which
+determines my existence, but which can only determine it as the existence of a being which is not
+active, but a being on time [être sur le temps]. This is the line of time which separates the "I
+think" from the "I am". It's the pure and empty line of time which traverses, which effects this
+sort of crack in the I, between an "I think" as determination and an "I am" as determinable in
+time.
+
+Time has become the limit of thought and thought never ceases to have to deal with its own
+limit. Thought is limited from the inside. There is no longer an extended substance which limits
+thinking substance from the outside, and which resists thinking substance, but the form of
+thought is traversed through and through, as if cracked like a plate, it is cracked by the line of
+
+                                                                                                     9
+
+time. It makes time the interior limit of thought itself, which is to say the unthinkable in thought.
+From Kant onward, philosophy will give itself the task of thinking what is not thinkable, instead
+of giving itself the task of thinking what is exterior to thought. The true limit traverses and works
+thought from within.
+
+We rediscover what I tried to say the last time, namely: we find a sort of tension between two
+forms: the active form of spontaneity, or if you prefer, the "I think" as form of active
+determination, or form of the concept since "I think" is the formal unity of all concepts, so on the
+one hand the active form of determination, on the other the intuitive or receptive form of the
+determinable, time. The two are absolutely heterogeneous to each other, and yet there is a
+fundamental correlation: the one works in the other. Thought shelters in itself what resists
+thought.
+
+In what sense is Heidegger Kantian? There are famous phrases such as: "we are not yet
+thinking"; when he talks about time in relation to thought, it's in this way that he is Kantian. The
+direct line from Kant to Heidegger is truly the problem of time and its relation to thought. The
+big problem that Kant discovers is the nature of the relation between the form of determination,
+or activity, or spontaneity, and on the other hand the form of receptivity, or form of the
+determinable, time. If I shift slightly, I would no longer say the form of determination and the
+form of determinable, but: two types of determination which are heterogeneous. You will ask me
+by what right I can make this shift; passing from the form of determination: I think, form of the
+determinable: time, the idea that there are two types of determination remains to be seen, but you
+can sense that it is the outcome of a series of shifts which must be justified, namely the two types
+of determination, in this case the conceptual determination, as all concepts refer to the "I think",
+concepts are the acts of the "I think", thus on the one hand a conceptual determination, and on
+the other hand a spatio-temporal determination. The two are absolutely heterogeneous,
+irreducible, the conceptual determination and the spatio-temporal determination are absolutely
+irreducible to each other, and yet they never cease to correspond to each other in such a way that
+for each concept I can assign the spatio-temporal determinations which correspond to it, just as,
+the spatio-temporal determinations being given, I can make a concept correspond to them. In
+what way, this is what remains to be seen.
+
+If you grant me these shifts which we will define in a moment, it amounts to the same thing to
+say that Kant poses the problem of the relation between the form of determination "I think" and
+the form of the determinable = time, and in so doing completely upends [bouleverse] the element
+of philosophy, or to say, on a more precise level: no longer the "I think" but concepts, no longer
+time but the determinations of space and time, in this case it is a matter of the relation between
+the conceptual determination and the spatio-temporal determination. [Pause]
+
+… Our point of departure is this: how can we explain that conceptual determinations and spatiotemporal determinations correspond with each other when they are not at all of the same nature?
+What is a spatio-temporal determination? We will see that there are perhaps several kinds. Kant
+poses the question concerning the relation between the two types of determination on very
+different levels. One of these levels will be called that of the synthesis, another of these levels he
+calls that of the schema, and it would be disastrous for a reader of Kant to confuse the synthesis
+and the schema. I'm saying that the schema and the synthesis are operations which, in a certain
+
+                                                                                                   10
+
+way, put a conceptual determination and a spatio-temporal determination into relation, but then
+it's as if the synthesis will be shattered, pierced, will be overcome by a stupefying adventure
+which is the experience of the sublime. The experience of the sublime will knock over all the
+syntheses. But we do not live only on this. We live only on the syntheses and then the experience
+of the sublime, which is to say the infinity of the starry vault, or else the furious sea... The other
+case, the schema, is another case where spatio-temporal determinations and conceptual
+determinations come into correspondence, and there again there are conditions where our
+schemas shatter, and this will be the astonishing experience of the symbol and of symbolism. But
+the whole analysis of the sublime, and the whole analysis of the symbol and symbolism, the
+English had analyzed the sublime before him, but the whole novelty of Kant's analysis is
+obvious: it will be the Critique of Judgement, in his last book, as if to the extent that he aged, he
+became aware of the catastrophe. Of the double catastrophe of the crushing of the sublime, the
+sublime crushes me, and the irruption of the symbol, where our whole ground, the whole ground
+of our knowledge which we had constructed with syntheses and schemas, starts to shake.
+
+What is the synthesis? It's the synthesis of perception. But don't think that that goes without
+saying. I'm saying that it's from this level of the analysis of the synthesis of perception that Kant
+can be considered as the founder of phenomenology. That is, that discipline of philosophy which
+has as its object the study, not of appearances, but apparitions and the fact of appearing. What is
+the synthesis of perception? All phenomena are in space and time. There is strictly speaking an
+indefinite diversity in space and time. Moreover, space and time are themselves diverse: they are
+not only the forms in which diversity is given, but they also give us a properly spatial and
+temporal diversity: the diversity of heres and the diversity of nows; any moment in time is a
+possible now, any point in space is a possible here. Thus not only is there an indefinite diversity
+in space and time, but also an indefinite diversity of space and time itself. Thus for perception,
+certainly the diverse must be given to me, but if I had nothing but this given diverse, this
+receptivity of the diverse, it would never form a perception. When I say "I perceive", I perceive a
+hat, I perceive a book, for example, this means that I constitute a certain space and a certain time
+in space and time. Space and time are indefinitely divisible: any portion of space is a space, any
+portion of time is a time. So it is not space and time themselves which account for the operation
+by which I determine a space and a time. I perceive a piece of sugar: I perceive a complex of
+space and time. You will tell me: that works for space, I can see that, there is the form, the grain;
+but why time? Because it forms part of my perception to wait for the sugar to melt. When I
+perceive a thing, I perceive a certain temporality of the thing and a certain spatiality of the thing.
+So there we have, according to Kant, a properly logical order, not at all chronological, he doesn't
+say that we must start with one.
+
+There are three operations which constitute the synthesis, the synthesis operating on diversity in
+space and in time, and diversity in space and time at the same time. The synthesis consists in
+limiting a diversity in space and in time, and a diversity of space and time themselves, in order to
+say: it begins, it ends, etc.... The first aspect of the synthesis is what Kant calls the successive
+synthesis of the apprehension of parts, that is: every thing is a multiplicity and has a multiplicity
+of parts; I perceive parts, my eye runs over the thing. You will tell me that there are things small
+enough for me to perceive them at once. Yes and no, perhaps not, maybe so; moreover, however
+small something is, my perception can begin from the right or begin from the left, from the top or
+
+                                                                                                   11
+
+the bottom; it doesn't take very much time, it's a very contracted temporality. I carry out a
+synthesis of successive apprehension of parts.
+
+But by the same stroke things already become complicated, we must distinguish two cases, we
+have not finished. In any case the apprehension of parts is successive. There are cases where the
+succession is objective, this already complicates things. I perceive a house, for example: ... the
+foreground, the background, the perspective, the foreground becoming background etc. ... there
+is a kind of subjective apprehension. But I begin from the right, or I begin from the left, and I
+keep going; in both cases my apprehension is successive, but the succession has only a subjective
+value. I can begin with the top or the bottom, with the right or the left; this will be reversible or
+retrograde, whether from right to left or from left to right, I can say that it's the wall in front of
+me. The succession is in my apprehension, it is not in the thing, it is not in the phenomenon. By
+contrast, you are sitting on [inaudible], there again you have a succession, a successive
+apprehension of parts, but the succession is objective. When the succession is objective, you will
+say: I perceive an event. When the succession is grasped as solely [subjective?], you perceive a
+thing. We could say that an event is a phenomenon whose successive apprehension of parts is
+such that the succession therein is objective. By contrast a thing is such that the succession
+therein is only subjective. Thus the first aspect of the synthesis which consists in determining the
+parts of a space and a time is the synthesis of apprehension. Through this I determine the parts of
+a space. Let's suppose that you have carried out your successive apprehension of parts, suppose
+that you are in a curious situation, suppose that is that when you have arrived at the following
+part you have forgotten the previous one, you would not be able to perceive.
+
+There must in fact be an operation of contraction such that when you come to the following part,
+the preceding one is conserved, otherwise if you lose on one side what you gain on the other, you
+will never manage to determine a space and a time. This second aspect of the synthesis is the
+synthesis of reproduction. You must reproduce the preceding part when you come to the
+following part, so not only must you produce successive parts, but you have to reproduce the
+preceding parts with the following ones. The two aspects of the synthesis refer to the synthesis as
+the act of what? Not receptivity, receptivity is solely space and time and what appears in space
+and time is intuition. The concept is something else. The synthesis refers to the imagination, it is
+the act of the imagination.
+
+This act of the imagination is bizarre; see what he means: it's that through the two aspects, the
+apprehension of parts and the reproduction of parts, I effectively determine a space and a time.
+But according to Kant, to imagine is not to fabricate images, it is not to think of Pierre who is not
+there. To imagine is to determine a space and a time in space and time. There is certainly an
+empirical imagination. Empirical imagination is when Pierre is not there, I think of Pierre, or else
+I imagine Pierre, I dream. But the imagination which Kant will call transcendental is the act by
+which the imagination determines a space and a time, and it determines a space and a time
+through the synthesis of apprehension and the synthesis of reproduction.
+
+But something else again is needed. I am no longer in the situation of a diversity in space and in
+time, or a diversity of space and time itself, I am in the situation of a space and a time determined
+by the synthesis of the imagination. And yet I cannot yet say that I perceive. In order to perceive
+we still need for this space and this time, determined by the synthesis, or what comes to the same
+
+                                                                                                      12
+
+thing, that which contains this space and this time, must be related to a form, to a form of what?
+Not to a form of space or time since we have the form of space and time. What other form? You
+can see the progression. We started from the form of space and time in general, as the form of
+intuition, then the act of imagination determines a space, a given space and a given time, through
+the two aspects of the synthesis. In this case it's a form - not the form of space and time - but a
+spatio-temporal form, the form of a house or the form of a lion for example, but we need yet
+another form in order for there to be perception. It is necessary for this space and time, or what
+contains this determined space and time, to be related to the form of an object.
+
+At this point it becomes difficult to understand. What does it mean that I have to relate it to the
+form of an object? We can imagine a number of sensations where the sensible givens, the
+diverse, sensible diversity, are not related to the object-form. It's my perception which is
+constituted in such a way that sensible diversity is related to the form of an object. In other
+words, I do not perceive an object, it is my perception which presupposes the object-form as one
+of its conditions, it's not something, it's an empty form. The object-form is precisely the index by
+which sensible qualities, such as I experience them, are supposed to refer to something. What
+something? Precisely a something = nothing. Kant will invent the splendid formula: a something
+= x. You will tell me that it's not a something = x when I say it's a table or it's a lion, it's not
+nothing, but the any-object-whatever [l'objet quelconque], the object = x, only receives a
+determination as lion, table or lighter by the diversity that I relate to it. When I relate to the
+object = x a diversity comprising: long hair in the wind, a roar in the air, a heavy step, a run of
+antelopes, well, I say it's a lion. And then I say: look a mouse!
+
+What I would like you to understand is that in any case there is an any-object-whatever, the
+object = x is a pure form of perception. I do not perceive objects, and it's my perception which
+presupposes the object-form. So the object is specified and qualified by myself according to a
+given diversity, a given space and time that I relate it to; when I relate a given spatio-temporal
+diversity, when I relate a given spatio-temporal form to the object = x, the object = x is no longer
+x, I can say that it's a lion or a house. But inversely I could never say that it's a lion or a house if
+the empty form of the object = x, the any-object-whatever was not available to me, for it is not
+the sensible diversity and it is nothing in the sensible diversity which accounts for the operation
+by which the sensible diversity goes beyond itself towards something that I call an object. Thus,
+apart from the form of space and of time (the form of intuition), apart from the determined
+spatio-temporal form (the synthesis of the imagination), I also need a third form: the form of the
+any-object-whatever such as this form is related to the spatio-temporal form in saying "it's this".
+
+Such that the third aspect of the synthesis, after apprehension and reproduction, is what Kant
+calls recognition. To recognize. I effect a recognition when I say: "it's this". But "it's this"
+implies an operation whereby I go beyond what is given to me, I go beyond the forms of space
+and time, I go beyond purely spatio-temporal forms towards the form of an any-object-whatever
+that the spatio-temporal form will determine as such or such an object. But just as the two first
+acts of the synthesis, apprehension and reproduction, refer to the imagination, because it consists
+in determining a space and a time, so recognition is an act of the understanding. Why? You
+remember the concepts which are the representations of the understanding, they are the
+predicates of the any-object-whatever, of the object = x. Not every object is a lion, not every
+object is red, but every object has a cause, every object is one, every object is a multiplicity of
+
+                                                                                                   13
+
+parts, etc.... The predicates that you can attribute to any-object-whatever are the categories of the
+understanding, they are the concepts of the understanding. So recognition, the form of
+recognition, the form of the any-object-whatever is no longer in this case the synthesis of the
+imagination but the unity of the synthesis of [unclear word, possibly understanding, or
+recognition].
+
+It's the three aspects, apprehension, reproduction and recognition which constitute perception
+under the conditions [unclear words, possibly of an other of perception].
+
+A small note in parenthesis: above all never confuse, in the Kantian vocabulary, the object = x
+and the thing in itself. The thing in itself is opposed to the phenomenon since the phenomenon is
+the thing as it appears, whereas the object = x is not at all opposed to the phenomenon, it is the
+referring of all phenomena to the object-form. The thing in itself is situated outside of our
+possible knowledge, since we only know what appears, the form of the any-object-whatever is on
+the contrary a condition. The form of the object = x is a condition of our knowledge. We begin
+again from zero. I have all the elements [ensemble] of the synthesis: apprehension of successive
+parts, reproduction of preceding parts in the following ones, reference to the form of an anyobject-whatever. So I have referred a spatio-temporal form to a conceptual form: the objectform.
+
+So Kant says to himself... let's begin again at the beginning. We have tried to analyze an edifice
+which emerges from the ground: the edifice which emerges from the ground is the synthesis.
+What is underneath it? I have said: in order to perceive an object I apprehend its successive parts,
+but how do I choose these parts? It's a funny sort of thing because it varies greatly according to
+the object. Apprehending successive parts implies, even at the level of perception, it already
+implies something like a lived evaluation of a unit of measure. But in following the nature of
+objects there is no constant unit of measure. In reflection, yes; from the point of view of the
+understanding, yes, I indeed have a constant unit of measure. I can fix a standard and even so, we
+will see that this is not even true, but we could fix a standard, put it into place for example and
+say that there are so many meters. But this is obviously not what Kant means by the successive
+apprehension of parts. It's like a sort of qualitative measure according to the object. What does
+that mean? When I see a tree, for example, I carry out my apprehension of successive parts, I
+begin with the top, then I go towards the bottom, or the other way round, and I say that this tree
+must be as big as ten men... I choose a kind of sensible unit to carry out my successive
+apprehension of parts. And then, behind the tree, there is a mountain, and I say how big this
+mountain is, it must be ten trees tall. And then I look at the sun and I wonder how many
+mountains it is; I never stop changing the unit of measure according to my perceptions. My unit
+of measure must be in harmony with the thing to be measured; there are some amazing
+variations.
+
+Kant tells us in the Critique of Judgement, he is very careful not to before, he tells us that the
+most elementary act of the synthesis of perception presupposes a logical act. This synthesis of
+perception is in spite of everything a logical synthesis. I say in spite of everything because at the
+same time he gives "logic" an entirely new meaning. So once again I must choose a unit of
+measure, and this unit of measure is variable in each case in relation to the thing to be perceived,
+just as the thing to be perceived depends on the chosen unit. Beneath the successive
+
+                                                                                                 14
+
+apprehension of parts, which is a logical synthesis, even though it refers to the imagination, we
+need an aesthetic comprehension... this is no longer of the same order as measure; the aesthetic
+comprehension of a unit of measure such as it is supposed by measuring... Kant is in the process
+of discovering a sort of basis for the synthesis of apprehension, how an aesthetic comprehension
+of the unit of measure can be carried out because an aesthetic comprehension of the unit of
+measure is presupposed by the synthesis of the imagination in perception, namely the
+apprehension of an [unclear words, perhaps evaluation of a rhythm]. The evaluation of a rhythm
+will allow me to say: yes, I'll take that as a unit of measure in a given case; and the rhythms are
+always heterogeneous, we plunge into them in a sort of exploration. Beneath measures and their
+units, there are rhythms which give me, in each case, the aesthetic comprehension of the unit of
+measure.
+
+Beneath the measure there is the rhythm. But this is the catastrophe. Again we can no longer
+stop. We had the synthesis, we remained on the ground and the synthesis was established on the
+ground; we wanted to dig a bit and we discovered the phenomenon of aesthetic comprehension,
+and we can no longer stop. The rhythm is something which comes out of chaos, and the rhythm
+is something which can indeed perhaps return to chaos? What could happen? Let's approach this
+like a story. I look at something and I tell myself that I'm dizzy, or else my imagination wavers.
+What happens? In the first place I cannot choose a unit of measure. I don't have a unit of
+measure; it goes beyond my possible unit of measure. I look for an appropriate unit of measure
+and I don't have one. Each time I find one it is destroyed. So I am pushed as if by a wind at my
+back to choose bigger and bigger units of measure, and none is adequate. By the same stroke I
+cannot carry out my synthesis of apprehension. What I see is incommensurable to any unit of
+measure. Second catastrophe. In my panic I can perhaps distinguish parts, completely
+heterogeneous parts, but when I come to the next one everything happens as if I was struck by a
+dizzy spell: I forget the preceding one; I am pushed into going ever further and losing more and
+more. I can no longer carry out either my synthesis of apprehension or my synthesis of
+reproduction. Why? Because what I grasped, what struck my senses, was something which goes
+beyond any possibility of aesthetic apprehension!
+
+We have seen that aesthetic comprehension was - even though Kant does not say it, but it is what
+he is thinking of - was the grasping of a rhythm as basis of measure and the unit of measure. You
+can see the whole of the synthesis of perception: I can no longer apprehend the successive parts,
+I cannot reproduce the preceding parts as the following ones arrive, and finally I can no longer
+say what it is, I can no longer qualify the any-object-whatever. My whole structure of perception
+is in the process of exploding. Why? My whole structure of perception is in the process of
+exploding because we have seen that it was founded - not in the sense of a ground [fondement],
+but in the sense of a foundation [fondation] - we have seen that this whole perceptive synthesis
+found its foundation in aesthetic comprehension, which is to say the evaluation of a rhythm. Here
+it's as if this aesthetic comprehension, as evaluation of a rhythm which would serve as a
+foundation of measure, thus the synthesis of perception, is compromised, drowned in a chaos.
+The sublime.
+
+Two things are said to be sublime. Kant's response: two things are said to be sublime: the
+"mathematical" sublime (said to be mathematical because it is extensive), and what is called the
+dynamical sublime (an intensive sublime). Examples: the infinite spectacle of the calm sea is the
+
+                                                                                                       15
+
+mathematical sublime; the starry celestial vault when the sky is clear is the mathematical
+sublime; it inspires a sentiment close to respect within me, it's a dynamical [unclear word]
+sublime. In this case the infinity of an expanse gives way to the infinity of material forces, the
+intensive infinity of forces which fill space and time. The dynamical sublime is the tumultuous
+sea, it's the avalanche. In this case it's terror. Think to what extent Kant is at the centre of a
+certain conception of German Romanticism. I'll pass over the reasons why the dynamical
+sublime is more profound than the mathematical sublime. My second question on the sublime is:
+what effect does it have on me? We can move forward. I can no longer apprehend parts, I can no
+longer reproduce parts, I can no longer recognize something, and in effect the sublime, as Kant
+says, is the formless and the deformed. It is the infinite as encompassing all of space, or the
+infinite as overturning all of space; if my synthesis of perception is suppressed, this is because
+my aesthetic comprehension is itself compromised, which is to say: instead of a rhythm, I find
+myself in chaos.
+
+Everything happens as if the imagination (the synthesis of perception) was pushed to its own
+limit. Great, we are in the process of rediscovering on the level of the faculty of the imagination
+something which we found on the level of the faculty of thought: it is not only thought which has
+a consubstantial relation, a fundamental relation, with an interior limit, the imagination is itself
+traversed by a limit specific to it, and the sublime confronts the imagination with its own limit.
+The beautiful, according to Kant, is not this at all, the beautiful is a reflection of the form of the
+object in the imagination. The sublime is when the imagination is in the presence of its own
+limit, it is alarmed. There was an enormous ambiguity between rhythm and chaos; I refer you to
+Paul Klee's famous text, how rhythm emerges from chaos, the way in which the grey point jumps
+over itself and organizes a rhythm in chaos. The grey point having the double function of being
+both chaos and at the same time a rhythm in so far as it dynamically jumps over itself; it will
+organize chaos and allow rhythm. Cézanne tells us that we never look at a landscape, it looks at
+something, and it is absolute chaos, "iridescent chaos". Cézanne says that it's like a landslide, a
+cave-in.
+
+At this point I am one with the painting - this is Cézanne speaking - we are an iridescent chaos,
+etc. ... geological strata... translated into Kantian terms, it's really: I go from the synthesis of
+perception to [unclear word, perhaps: aesthetic] comprehension...
+
+Fortunately we are not caught up in the sublime all the time, this would be terrible, fortunately
+we hang on to our perception. At the moment that Kant says that in the sublime the imagination
+is taken to its own limit, and by the same stroke panicked, like a panicked compass, it is in the
+process of imagining what cannot be imagined; well at that moment, Kant says, in the respect of
+the mathematical sublime, or in the terror of the dynamic sublime, we suffer [éprouvons].
+At the same time that my imagination is crushed by its own limit, it is a limit which is like its
+founding kernel, it is the bottomless [sans fond]. What is this bottomlessness of the imagination?
+It's something which makes me discover in myself something like a faculty which is stronger
+than the imagination, and this is the faculty of ideas.
+
+A student: Can we say that music is the art of the sublime?
+
+                                                                                                       16
+
+Deleuze: That wouldn't be difficult. If I think, out of convenience for you, in terms of the history
+of philosophy, we can distinguish the arts of the beautiful and the arts of the sublime. However,
+about the arts of the beautiful and the arts of the sublime, you will find a long history with
+Schopenhauer and Nietzsche. But how do they make the distinction? Broadly, if you like, all art
+rests on an Idea; but in the arts of the beautiful it's as if the Idea is mediated, which is to say it is
+represented. There is a representation of the Idea. In the sublime the will appears for itself.
+Nietzsche, in so far as he is concerned with the origin of tragedy, will remain with this idea of a
+preeminence of music over all the arts because music makes the Idea appear as such, in
+opposition to the other arts which are condemned to representation.
+
+You should sense that an Idea is not from the imagination, but neither is it a concept of the
+understanding, it's something else still. We thus need a very particular status for the Idea since
+the whole game of the sublime is this: the imagination is vanquished and derailed before its own
+limit, but the joy which we experience is because an awareness arises in us of a superior faculty,
+which Kant will call the super-sensible faculty and which is the faculty of the Idea. With Kant
+we cease to think the problem of evil in terms of exteriority. Very broadly, in the classical
+tradition, there is a tendency rather to say that evil is matter, evil is the body, it's what opposes,
+it's what resists. It's with Kant that this very curious idea appears, which obviously comes from
+Protestantism, of reform, the idea that evil is something spiritual. It is truly within spirit and not
+matter as exterior. This is precisely what I was trying to say with the notion of limit in Kant: the
+limit is not something outside, it is something which works from within. Here evil is
+fundamentally bound to spirituality; it is not at all as it is in Plato, where if there is evil it is
+because souls fall, and obviously they incarnate themselves in a body. With the reform the devil
+is taken seriously, only taking the devil seriously can be a philosophical operation. Evil is not the
+body, evil is truly in thought qua thought.
+
+A student: Can you give the definitions of causality in Kant?
+
+Deleuze: There are several. The first definition of causality is: causality is the faculty of making
+something begin in the order of phenomena. It's a simple definition which implies two
+causalities: a causality which Kant calls phenomenal, namely that phenomena follow on from
+each other, and a phenomenon begins something which will be called its effect, and, second
+causality, the so-called free causality - because phenomenal causality is a determined causality
+and free causality is the faculty of beginning something in the order of phenomena on the basis
+of something which is not itself caused.
+
+Second definition of causality, those before were nominal definitions, second definition: it's the
+relation between phenomena when the succession in their apprehension corresponds to an
+objective rule. Example: the boat which goes down the flow of the river, there the succession
+corresponds to an objective rule in opposition to succession in the perception of reason, where
+there is no causality. I would not say that the right side determines the left side, whereas in the
+perception of the boat I would say that the preceding state determines the following state. [End of
+session]

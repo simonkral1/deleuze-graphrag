@@ -1,0 +1,1397 @@
+1
+
+Gilles Deleuze
+Seminar on Spinoza: The Velocities of Thought
+Lecture 07, 20 January 1981
+
+Transcription (for Paris 8): Parts 1 & 2, Denis Lemarchand, Part 3, Raphaëlle Morel
+d’Arleux
+
+Translation, Simon Duffy (for Web Deleuze); Augmented Translation: Charles J. Stivale
+
+[The WebDeleuze translation (and hence transcript) begins 13 minutes into the session, based on
+the BNF recording]
+
+Part 1
+
+[Deleuze coughing] Regarding Spinoza’s answers to questions that Blyenbergh asked, the first
+question: do good and evil exist from the point of view of nature? A very simple answer, as we
+saw: No, neither good nor evil from the point of view of nature, for a very simple reason, that
+within nature, there are only compositions of relations. Nature is precisely the infinite aggregate
+of all the compositions of relations (rapports).1
+
+Second question: But from a determined point of view, that is, from the point of view of a
+particular relation -- since we have seen that, not being substances, ultimately we are bundles of
+relations -- so, from the point of view of a particular bundle of relations, you or me, is there good
+(du bien) and evil (du mal)? No, but, but, there is good (du bon) and bad (du mauvais). The good
+(bon) is when my relation is composed with relations that suit me, which suit someone, that is,
+which are composed directly with him. The bad (mauvais) is when one or the totality of my
+relations is decomposed. I am still insisting on this since it is toward the goal of reaching this
+ethical link, and that the individual cannot be defined substantially. It's really an aggregate of
+relations.
+
+So, there is good and bad, but, but, does that mean that there is a criterion for distinguishing
+between vice and virtue? Notice that from the point of view of nature, there is not. There is
+neither vice nor virtue from the point of view of nature; once again, there are only relations that
+are composed. But from my particular point of view, there is indeed a criterion of distinction of
+vice and virtue, and that is what Spinoza answers to Blyenbergh, a criterion of distinction which
+is not reduced to my simple taste. I will not call virtue what I like, and I will not call vice what I
+do not like. There is a criterion of distinction which makes me say: oh yes, what is good in the
+sense of virtue is what’s bad in the sense of vice.
+
+What is this criterion of distinction? Well it's when you act. It turns out, and this is what, it seems
+to me, is new in Spinoza: it is this analysis, this mode of analysis of action. When you act, it
+turns out that your action is associated with the image of a thing. Now, it’s one thing or another;
+the image of the thing associated with your action is such that either your action decomposes the
+relation of this thing, directly decomposes the relation of this thing, or else is composed directly
+with the relation of this thing. [Pause] You are involved in an action -- there you have a very
+
+                                                                                                      2
+
+solid criterion, and it seems to me very, very new, precisely because it is not a substantial
+criterion; it is a criterion of relation, it is a criterion of relation.
+
+You commit an action; well, then you will not be looking into the action to see if it is good or
+bad. In a sense, even any action is good insofar as it expresses a power of action (puissance), the
+power of action of your body. Whatever it is, in this sense, it’s good. Unless you launch into an
+action which indeed suppresses, which destroys the relation of your body, that is, into a suicidal
+action. But, to the extent that it expresses a power of action in your body, it is good. Yet it can be
+a perverse action, vicious, like the murder by Nero, like Nero killing his mother.
+
+So, in what way is it bad? It’s that this action is associated with an image of a thing or of a being,
+"Clytemnestra," such that this action directly decomposes the relation of the thing.2 So, the
+criterion -- and here I am just summarizing since we saw it in detail the last time -- the criterion,
+understand, this is a criterion of -- of course, any action simultaneously composes and
+decomposes relations -- but what tells us this is a practical criterion, it seems very curious to me,
+specifically, that does not prevent there being a difference. From your point of view, you have
+only one thing to ask yourself: is the image of something with which your action is associated
+such that, directly, this thing is decomposed by your action or else such that it is composed, such
+that its relation is composed with that of your action? In one case, this will be vice; in another
+case, this will be virtue.
+
+See, in this sense, there is really an objective criterion of good and bad. It’s not a matter of taste.
+And I’m returning to my earlier example, the raised arm, etc. [From 13 January 1980] In fact,
+it’s a vice if you use it to associate it, by associating this action with the image of a thing whose
+relation will be decomposed, for example, someone whose head you are smacking, and if the
+same gesture or the supposedly same gesture, you associate it with the image of thing, for
+example, of a drumhead which vibrates under ... [Deleuze does not finish this], this is a virtue. --
+That would have to be relatively, I mean, [it] must not be abstract; if it remains abstract, this
+means that you are not Spinozist, it’s not ... But this is concrete, it is necessary to imagine
+someone who lives like that; here, this is a question of a lifestyle. -- Only, I suppose this is clear,
+that you have understood fully. We are not done with difficulties, we are not done with them;
+new difficulties will obviously arise, namely, there are good and bad, so in this sense, direct
+compositions or direct decompositions. There is no good nor evil. There is good and bad from
+my point of view. This good and this bad can be objectively defined. They are not just left to the
+taste of each individual. Fine.
+
+But then in what way is this not good and evil here? Why isn’t it good and evil? Understand, it
+seems to me once again that, fine, I am stopping for a short moment because, here, I am only
+summarizing what we saw the last time. Are there any questions? Is this all very clear? [Pause]
+It's very clear, so perfect, perfect, perfect. So, let's try to make progress within the very
+terminology of Spinoza. I would like for you to feel here in what sense, for example, a
+philosopher feels the need to specify at certain times when he has some new criteria for analysis
+of something. He really must specify it terminologically to create something like location
+markers for a reader, I really don't know.
+
+                                                                                                       3
+
+So, this relation, what will qualify an action as virtuous or vicious, is its relation association with
+an image of a thing. For the image of a thing, insofar as it is associated with action, there needs
+to be a word; an image of thing as associated with an action will be called an affection. The
+image of a thing as an affection, as associated with an action, is an affection, and of what? Not of
+action, but my power of action (puissance).3 It is an affection -- in Latin, I am giving the Latin
+word because it will be very important -- you’ll see later why -- that’s what Spinoza calls
+“affectio” and is translated, and you must translate it by affection. [Pause] – So, affection is
+exactly the image of something associated with an action or, which amounts to the same thing,
+the determination of my power of action under such or such an action. [Pause]
+
+So, in what sense is there neither good nor evil? In this sense, Spinoza tells us, that I am always
+as perfect as I can be, I am always as perfect as I can be as a function of the affection, as a
+function of the affections which determine my power of action. I'm always as perfect as I can be
+as a function of the conditions that determine my power of action. We are returning -- you have
+in mind the example because it seems to me a relatively clear one – so, here is my action, raising
+my arm and I strike. On this point, there are two cases: it turns out that I hit someone on the head
+and I knock him out, so I decompose his relation directly; I strike a drumhead which resonates
+there; I directly compose relations. So, these are two different affections, by calling affection the
+image of a thing to which the action is linked. [Pause]
+
+Where did this image of a thing come from? Spinoza is very, at the same time, very vague and
+very precise. For him, this is determinism: that, at a certain moment, my action is associated with
+such an image of a thing rather than another, and this involves the whole play of causes and
+effects which results with me as a part of nature. So, there is a whole external determinism which
+explains in each case that it’s this image rather than another. [Pause] And here we have him
+telling us, in any case, whatever may be the image of a thing to which you associate your action,
+that is, it’s understood, to which you are determined to associate your action, well you are always
+as perfect as you can be as a function of the affection you have. You see.
+
+What does that mean? Only that we have to… You must sense that there’s something there, that
+we are circling around something very strange. I am always as perfect as I can be as a function of
+the affection I have. What does that mean? [Here begins the WebDeleuze translation] Spinoza’s
+example even in the letters to Blyenbergh: I am led by a basely sensual appetite. Ah, you see. I
+am led by a basely sensual appetite. Or else, the other case: I feel a true love, I feel a true love.
+What are these two cases? It is necessary to try to understand them as a function of the criteria
+that Spinoza just gave us. A basely sensual appetite, even the mere expression, one feels that it is
+not good, that it is bad. It is bad, in what sense? When I am led by a basely sensual appetite, what
+does that mean?
+
+It means that, in this regard, there is an action or a tendency to action, for example, desire. What
+happens with desire when I am led by a basely sensual appetite? It is the desire of… Fine, what
+is this desire? It can only be qualified by its association with an image of a thing. [Pause] For
+example, I desire a bad woman, [Pause; Richard Pinhas suggests: Or several!] or even worse,
+even worse: several! [Laughter] What does it mean? Fine, we saw a bit of this when he
+suggested the difference between adultery, all that. Adultery, fine, he’s just trying to show --
+forget the ridiculous aspect of the examples, but they are not ridiculous, they are examples – he
+
+                                                                                                        4
+
+will try to show that, in this case, what he calls basely sensual, basely sensual appetite, the basely
+sensual consists in this: that the action, in any case, even, for example, making love, the action is
+a virtue! Why? Because this is something that my body can do, and don't ever forget the theme
+of power of action. This is in my body’s power of action. So, it’s a virtue in this sense. This is
+the expression of a power of action.
+
+And if I just remained here, I would have no means of distinguishing the basely sensual appetite
+from the most beautiful of loves. But there it is, when there is a basely sensual appetite, why is
+this? It’s because, in fact, I associate my action, or the image of my action, with the image of a
+thing whose relation is decomposed by this action, in several different ways. In any case, for
+example, if I am married, in the very example that Spinoza chose, I decompose a relation, the
+relation of the couple, or if the other person is married, I decompose the relation of the couple.
+But what’s more, in a basely sensual appetite, I decompose all sorts of relations: the basely
+sensual appetite with its taste, its taste for destruction, for good, we would again returning to the
+decompositions of relations, a kind of fascination of the decomposition of relations, of the
+destruction of relations, fine.
+
+On the contrary, in the most beautiful of loves – even here, notice that I don't invoke the mind at
+all; this would not be Spinozist as a function of parallelism -- I am invoking a love in the case of
+the most beautiful of loves, a love which is not less corporeal than the most basely sensual love.
+The difference is, simply, that in the most beautiful of loves -- my action [is] the same, exactly
+the same -- my physical action, my bodily action, is associated with an image of the thing whose
+relation is directly combined, directly composed with the relation of my action. It is in this sense
+that the two individuals, uniting in love, form an individual which has both of them as parts,
+Spinoza would say. On the contrary, in the basely sensual love, the one destroys the other, the
+other destroys the one, that is, there is a whole process of decomposition of relations. In short,
+they make love like they are knocking each other about.
+
+All this is very concrete. It has to function. Only we always come up against this, Spinoza tells
+us: you don't choose, in the end, the image of the thing with which your action is associated. It
+engages a whole play of causes and of effects which escape you. Indeed, what is it that occurs for
+you to grasp this basely sensual love? It’s not enough; you cannot say to yourself: Ha! I could do
+otherwise. Spinoza is not one of those who believes in a will… No, this is a whole determinism
+which associates the images of things with the actions. [Pause] So, what’s more troubling is the
+expression: I am as perfect as I can be as a function of the affections that I have. That is, if I am
+dominated by a basely sensual appetite, well then, I am as perfect as I can be, as perfect as it is
+possible, as perfect as it is in my power (pouvoir) to be.
+
+And could I say: I am deprived of (manque) a better state? Spinoza seems very firm. In the
+letters to Blyenbergh, he says: I cannot say that I am deprived of a better state, I cannot even say
+it because it doesn't make any sense. To say at the moment when I experience a basely sensual
+appetite -- once again, you will see in the text, if you haven't already seen it, this example which
+returns, because Blyenbergh clings there to this example; in fact, it is very simple, it is very clear
+– Well then, when I say, at the moment when I experience a basely sensual appetite, when I say:
+Ha! I am deprived of true love, if I say it, what does that mean? What does it mean to say to say I
+
+                                                                                                     5
+
+am deprived of something? Literally, it doesn't mean anything, absolutely nothing for Spinoza,
+but nothing!
+
+It means only that my mind compares a state that I have to a state that I don't have; in other
+words, it is not a real relation; it is a comparison of the mind, a pure comparison of the mind.
+And Spinoza goes so far as to say: “you might as well say at that moment there that the stone is
+deprived of sight.” You might as well say at that moment that the stone is deprived of sight. In
+fact, why wouldn’t I compare the stone to a human organism, and in the name of a same
+comparison of the mind, I would say: the stone doesn't see, therefore it is deprived of sight? And
+Spinoza said expressly -- I am not looking at the texts because you are reading them, I hope --
+Spinoza responds expressly to Blyenbergh: it is just as stupid to speak of the stone by saying that
+it is deprived of sight as it would be stupid, at the moment when I experience a basely sensual
+appetite, to say that I am deprived of a better love.
+
+So then, at this level, you understand, it’s very… We get the impression… We listen to Spinoza,
+and we tell ourselves, nonetheless, that there is something which doesn't work because in his
+comparison, I make the two judgments. I say of the stone, it can't see, it is deprived of sight; and
+I say of someone who experiences a basely sensual appetite, that they are deprived of virtue. Are
+these two propositions, as Spinoza claims, of the same type? It is so apparent that they are not the
+same, that we can be confident that if Spinoza says to us that they are of the same type, it is
+because he wants to be provocative. He wants to say to us: I challenge you to tell me the
+difference between the two propositions. But one feels the difference, we feel it. So, Spinoza’s
+provocation is going to allow us perhaps to find it.
+
+In the two cases, for the two propositions, “the stone (pierre) deprived of sight,” or “Pierre” --
+the name this time – “deprived of virtue”, is the comparison of the mind between two states, a
+state that I have and a state that I don't have, is the comparison of the mind of the same type?
+Evidently not! Why? To say that the stone is deprived of sight is, on the whole, to say that
+nothing in it contains the possibility of seeing, while, when I say he is deprived of true love, it is
+not a comparison of the same type, since, this time, I don’t rule out that at other moments, this
+being here has experienced something which resembled true love. In other words, the question
+specifies -- I will go very slowly, even if you have the impression that all this goes without
+saying -- is a comparison within the same being analogous to a comparison between two beings?
+
+Spinoza tells us… Spinoza doesn't retreat from the problem. He takes the case of the blind man,
+and he says to us calmly -- but once again, what does he have in mind in saying things like this to
+us, which are so obviously, how should I say this, inaccurate? -- He says to us: well, the blind
+man is deprived of nothing! Why? He is as perfect as he can be as a function of the affections
+that he has. He is deprived of visual images. Fine, to be blind is to be deprived of visual images.
+It’s true. That means that he doesn’t see, but neither does the stone see. And he says: there is no
+difference between the blind man and the stone from this point of view, namely: the one like the
+other doesn't have visual images. So, it is just as stupid, says Spinoza, it is just as stupid to say
+that the blind man is deprived of sight as it is to say the stone is deprived of sight. And the blind
+man, then? Well, he is as perfect as he can be, as a function of what? You see, even so, Spinoza
+doesn't say to us: as a function of his power of action; he says that the blind man is as perfect as
+he can be as a function of the affections of his power of action, that is, as a function of the
+
+                                                                                                     6
+
+images of which he is capable, as a function of the images of things of which he is capable,
+which are the true affections of his power of action. So, it would be entirely the same thing as
+saying: the stone doesn't have sight, as to say: the blind man doesn't have sight.
+
+Blyenbergh begins to understand something here. He begins to understand, nonetheless, that
+Spinoza, he… And why, why does he make this kind of provocation? And, Blyenbergh, once
+again, it appears to me a typical example of the extent to which the commentators are mistaken,
+it seems to me, in saying that Blyenbergh is stupid, because Blyenbergh doesn't get Spinoza
+wrong. Blyenbergh answers Spinoza immediately by saying: all that is very pretty, but you can
+only manage it if you insist upon -- he didn't say it in this form, but you will see, the text really
+comes down to the same thing – if you insist on a kind of pure instantaneity of the essence. It’s
+interesting as an objection; it is a good objection. Blyenbergh retorts: you cannot assimilate “the
+blind man not seeing” and “the stone not seeing”, you can only make such an assimilation if, at
+the same time, you pose a kind of pure instantaneity of the essence, namely: there belongs to an
+essence only the present, instantaneous affection that it experiences insofar as it experiences it.
+The objection here is very, very strong. If indeed I am saying: there belongs to my essence only
+the affection that I experience here and now, then, indeed, I am not deprived of anything. If I am
+blind, I am not deprived of sight; if I am dominated by a basely sensual appetite, I am not
+deprived of better love, I am not deprived of anything. There belongs to my essence, indeed, only
+the affection that I experience here and now.
+
+And Spinoza answers quietly: yes, that’s the way it is. This is curious. What is curious? That it’s
+the same man who never stops telling us that the essence is eternal, the singular essences, that is
+yours, mine, all the essences are eternal. That’s a way of saying that the essence doesn't endure.
+And, in the name of… but, as a matter of fact, there are two manners of not enduring, at first
+sight: the manner of eternity or the manner of instantaneity. And it is very curious how, slyly, he
+passes from one to the other. He began by telling us: the essences are eternal, and now he tells
+us: the essences are instantaneous. There belongs to my essence or, if you like, it becomes a very
+bizarre position, literally from the text: the essences are eternal, but the belongings of essence are
+instantaneous; there belongs to my essence only what I experience actually insofar as I
+experience it actually. And in fact, the expression, understand: the expression “I am as perfect as
+I can be as a function of the affection which determines my essence,” implies this strict
+instantaneity. [Pause]
+
+And here, it’s against, it’s against this, this is pretty much the high point of the correspondence
+because a very curious thing is going to happen. [Pause] Spinoza responds to this very violently
+because he increasingly loses patience with this correspondence. Blyenbergh protests here, he
+says: but in the end, you cannot define essence by instantaneity, what does this mean? Then it is
+a pure instantaneity; sometimes you have a basely sensual appetite, sometimes you have a better
+love, and you will say each time that you are as perfect as you can be there as if in a series of
+flashes? [Pause] And [Blyenbergh] says, No. In other words, Blyenbergh says to him: “you
+cannot do away with the phenomenon of duration.” There is a duration, and it is precisely
+according to this duration that you can become better. There is a becoming. It’s as a function of
+this duration that you can become better or worse. When you experience a basely sensual
+appetite, it is not a pure instantaneity which comes over you. You have to take it in terms of
+duration, notably: you become worse than you were before. And when a better love forms within
+
+                                                                                                      7
+
+you, you become better. There is an irreducibility of duration. In other words, essence cannot be
+measured in its instantaneous states. [Pause]
+
+And this is curious because Spinoza stops the correspondence. He doesn’t answer; on this point,
+no response from Spinoza. And at just the same time, Blyenbergh does something imprudent,
+that is, sensing that he has posed an important question to Spinoza, he starts to pose all sorts of
+questions. He thinks he has caught Spinoza out, and Spinoza tells him to back the fuck off
+(l’envoie chier). He says to him: fine, fine, give me a break, leave me in peace. He cuts the
+correspondence short; he stops, he won't answer anymore. As a result, then, we can, all that’s
+very dramatic because we could say: he didn't have anything to answer. [Pause] Well, yes he
+did; he did have something to answer… The response that Spinoza could have made, and we are
+certainly forced to conclude that he could have done it, so if he didn't make it, it is because he
+did not want to. The response is… it’s all in the Ethics.
+
+So, just as, on certain points, the correspondence with Blyenbergh goes farther than the Ethics,
+on other points, well… and for a simple reason I think, which is that, above all, Spinoza doesn't
+want to give Blyenbergh, for reasons which are his own, he above all doesn't want to give
+Blyenbergh the idea of what this book is, this book of which everyone is speaking at the time,
+that Spinoza feels the need to hide because he senses that he has a lot to fear. He doesn't want to
+give Blyenbergh, whom he feels to be an enemy, he doesn't want to give him an idea of what the
+Ethics is. So, he’s going to stop; he stops the correspondence. So, we can consider in this respect
+that he has a response that he doesn't want to give, that he doesn’t want to give because he tells
+himself: I will still have problems. But it now is up to us to try to reconstitute this answer.
+[Pause]
+
+Spinoza knows very well that there is duration. You see that we are now in the process of
+playing with three terms: eternity, instantaneity, duration. What is instantaneity? Eternity, let’s
+say, we don’t yet know at all what eternity is in Spinoza, but eternity, I am saying, is the
+modality of essence. It is the very modality of essence. Let’s suppose that the essence is eternal,
+fine, that is, it isn’t subject to time. What does this mean? We don’t know. What is instantaneity?
+Instantaneity is the modality of affection of essence. [Pause] The expression: I am always as
+perfect as I can be as a function of the affections that I have here and now. [Pause] So, affection
+is actually an instantaneous cut, and in fact, it is the kind of horizontal relation between an action
+and an image of a thing. It’s as if that would make cuts occur. [Pause]
+
+But that doesn’t prevent -- third dimension -- and it’s as if we were in the process of constituting
+the three dimensions of what we could call the sphere. Here I take a word, which is not at all
+Spinozist, but I select a word which allows us to regroup them [the dimensions], a Husserlian
+word -- the “sphere of belonging” of essence. Essence is what belongs to it. I believe that
+Spinoza would say that this sphere of belonging of essence has three dimensions. There is the
+essence itself, eternal; there are the affections of the essence here and now which are like so
+many instants, notably, what affects me at this moment; and then there is what? Well, it happens
+that, and here the terminology is all the more important, Spinoza rigorously distinguishes
+between affectio and affectus. It is complicated because there are a lot of translators who
+translate affectus-affectio by affection; all of the translators translate affectio by affection. That,
+that works, but there are lots of translators who translate affectus by feeling. On the one hand,
+
+                                                                                                       8
+
+this isn’t said much, in French, the difference between affection and feeling, and on the other
+hand, it’s a shame, even a slightly more barbaric word would be better. But it would be better, it
+seems to me, to translate affectus by affect, since the word exists in French; this retains at least
+the same root common to affectio and to affect. [The BNF recording is interrupted here; Web
+Deleuze continues] Therefore Spinoza, if only by his terminology, distinguishes well between the
+affectio and the affectus, the affection and the affect. [38:15]
+
+Part 2
+
+What is it, the affect? Spinoza tells us that it is something that the affection envelops. The
+affection envelops an affect. [The BNF recording returns here] You recall, the affection is the
+effect, literally, I’d say -- if I wanted to give it an absolutely rigorous definition -- it is the
+instantaneous effect of an image of a thing on me. For example, perceptions are affections. The
+image of things associated with my action is an affection. The affection envelops, implicates, all
+of these are the words Spinoza constantly uses. To envelope: it is necessary really to take them as
+material metaphors, that is, that within the affection there is an affect. What is it? And yet, there
+is a difference in nature between the affect and the affection. The affect is not something
+dependent on the affection, it is enveloped by the affection, but that’s something else. There is a
+difference in nature between the affects and the affections.
+
+What does my affection, that is, the image of the thing and the effect of this image on me, what
+does it envelop? What does it envelop? A passage. It envelops a passage or a transition. [Pause]
+Only it is necessary to take passage-transition in a very strong sense. Why? Because you see, it
+means it is something other than a comparison of mind. Here, we are no longer in the domain of
+a comparison of mind. It is not a comparison of the mind in two states. It is a passage or
+transition enveloped by the affection, by every affection. Every instantaneous affection envelops
+a passage or transition, transition or passage, to what? What is this passage, this transition? Once
+again, [it’s] not at all a comparison of the mind. I must add, in order to go more slowly, a lived
+passage, a lived transition, which obviously doesn’t mean conscious. Every state implicates a
+lived passage or transition.
+
+Passage from what to what, between what and what? And more precisely, however close the two
+moments of time may be, the two instants that I consider instant A and instant A prime. There is
+a passage from the preceding (antérieur) state to the current (actuel) state. The passage from the
+preceding state to the current state differs in nature with the preceding state and with the current
+state. There is a specificity of the transition, and it is precisely this that we call duration and that
+Spinoza calls duration. Duration is the lived passage, the lived transition. What is duration?
+Never a thing, but the passage from one thing to another. It suffices to add, insofar as it is lived.
+
+When, centuries later, Bergson will turn duration into a philosophical concept, it will obviously
+be with wholly different influences. It will occur as a function of himself above all; it will not be
+under the influence of Spinoza. Nevertheless, I am just pointing out that the Bergsonian use of
+duration coincides strictly. When Bergson tries to make us understand what he calls duration, he
+says: you can consider states, psychic states as close together as you want in time, that is, you
+can consider the state A and the state A prime‚ as separated by a minute, but just as well by a
+second, by a thousandth of a second, that is, you can make more and more cuts, increasingly
+
+                                                                                                         9
+
+tight, increasingly close to one another. You may well go to infinity, says Bergson, in your
+decomposition of time, by establishing cuts with increasing rapidity, but you will only ever reach
+states. And he adds that the states are always of space. The cuts are always spatial. And although
+you’ve brought your cuts together very well, you will necessarily let something escape; it is the
+passage from one cut to another, however small it may be.
+
+Now, what does he call duration? At its simplest, it’s the passage from one cut to another; it is
+the passage from one state to another. The passage from one state to another is not a state. Yes,
+this isn’t strong, but it is of extraordinary…, I believe, it’s a really profound status of living
+because henceforth, how can we speak of the passage, the passage from one state to another,
+without making a state out of it? And this is going to pose problems of expression, of style, of
+movement; it is going to pose all sorts of problems. And duration is that, it is the lived passage
+from one state to another insofar as it is irreducible to one state as to the other, insofar as it is
+irreducible to any state. This is what happens between two cuts. In one sense, duration always
+occurs behind our backs, it’s behind our backs that it happens and between two blinks of the eye.
+If you will, an approximation of duration, fine: I look at someone, I look at someone, duration is
+neither here nor there. Duration is… What has happened between the two? Although I would
+have gone as quickly as I wanted, my duration goes even more quickly, by definition, as if it was
+affected by a variable coefficient of speed. As quickly as I might go, my duration goes more
+quickly; however quickly that I may pass from one state to another, the passage will occur more
+quickly than me.
+
+So, there is a lived passage from one state to another that is irreducible to the two states. It is this
+that every affection envelops. I would say: every affection envelops the passage through which
+we reach it. [Pause] And the passage through which we reach it, or equally well, every affection
+envelops the passage through which we reach it and through which we move away towards
+another affection, however close the two affections considered may be. So, in order to have my
+line complete, it would be necessary for me to create a line of three times: A prime, A, A double
+prime; A is the instantaneous affection, of the present moment, A prime is that of a little while
+ago, A double prime is what is going to come. Fine, although I have brought them together as
+closely as possible, there is always something which separates them, namely the phenomenon of
+passage. Fine, this phenomenon of passage, insofar as it is a lived phenomenon, is duration: this
+is the third belonging of essence.
+
+So, I would say, I have a slightly stricter definition of affect; the affect: what affection envelops,
+what every affection envelops, and which nevertheless is of another nature; this is the passage.
+This is the lived transition from the preceding state to the current state, or from the current state
+to the following state. Good, so if you understand all that, for the moment we’re creating a kind
+of decomposition of the three dimensions of the essence, of the three elements belonging to
+essence: the essence belongs to itself under the form of the eternity; the affection belongs to
+essence under the form of instantaneity; the affect belongs to the essence under the form of
+duration.
+
+And the passage is what? What could a passage be? We have to discard the too spatial idea of
+passage. Every passage is there, and this is going to be the basis of his theory of affectus, of his
+theory of the affect. Every passage is there, and he doesn't say “implicates” – understand that at
+
+                                                                                                   10
+
+this level, the words are very, very important -- he will tell us of the affection that it implicates
+an affect. Every affection implicates, envelops, but the enveloped and the enveloping just don't
+have the same nature. Every affection, that is, every determinable state at a single moment
+envelops an affect, a passage. But the passage, I’m not asking what it envelops. It is the
+enveloped (enveloppé); I ask: what does it consist of, what is it? And Spinoza’s response, and it's
+obvious, what it is? It is increase or decrease of my power of action. It is increase or decrease of
+my power of action, even infinitesimally.
+
+I am choosing two cases. Here I am in a dark room – I mean, I’m developing all of this; it is
+perhaps useless, I don't know, but it is to persuade you that when you read a philosophical text, it
+is necessary that you have the most ordinary situations in your head, the most everyday ones --
+you are in a dark room. You are as perfect, Spinoza will say, judging from the point of view of
+affections, you are as perfect as you can be as a function of the affections that you have. Fine,
+you don't see anything, you don't have any visual affections. That’s all, there, that’s all there is.
+But you are as perfect as you can be. Suddenly, someone enters and turns on the lights without
+warning: I am completely dazzled. Because that I took the worst example for me, so no. I’ll
+change it [Laughter] because… my mistake. I’m in the dark, and someone arrives softly, all that,
+and turns on a light. Fine, this is going to be very complicated, this example. Fine, you have your
+two states which could be very close together in time, the state that I call: dark state, and small b,
+the lighted state. They can be very close together. I am saying: there is a passage from one to the
+other, however rapid as that may be, even unconscious, all that, to the point that your whole
+body, in Spinozist terms -- these are examples of the body -- your whole body has a kind of
+mobilization of itself, in order to adapt to this new state.
+
+The affect is what? It is the passage. The affection is the dark state and the lighted state; it’s two
+successive affections, in cuts. The passage is the lived transition from one to the other. Notice
+that, in this case, here there is no physical transition, there is a biological transition, it is your
+body which makes the transition. What does this mean? The passage is necessarily an increase of
+power of action or a decrease of power of action. Already one must understand -- and it is for
+this reason that this is so concrete – all this is not determined in advance.
+
+Suppose that, in the dark, you were deeply in a state of meditation. Your whole body was
+focused on this extreme meditation; you were getting hold of something. The other brute arrives
+and turns on the light. If needs be, you are losing an idea that you were going to have. You turn
+around, you are furious. We’ll hold onto this because we will use the same example again. You
+hate him, even if not for long, but you hate him, you say to him: “Hey!” You hate him. In that
+case, the passage to the lighted state will have brought you what? A decrease of power of action.
+Obviously, if you had looked for your glasses in the dark, there they would have brought you an
+increase of power. The guy who turned the light on, you say to him: “Thank you very much, I
+love you.” Good. So, we’re already saying that, maybe this story of increase and decrease of
+power of action, this is going to operate in quite variable directions and variable contexts. But,
+on the whole, there are directions. If we limit you, one could say, in general, without taking the
+context into account, if one increases the affections of which you are capable, there is an increase
+of power of action, if one decreases the affections of which you are capable there is a decrease of
+power of action. We can say this on the whole, even knowing that it is not always like this.
+
+                                                                                                    11
+
+So, what do I mean? I mean something very simple: it is that every instantaneous affection,
+Spinoza, you see, how he is very, very odd. He’ll say, by virtue of his rigor, he will say: well,
+yes, every affection is instantaneous, and this is what he responded to Blyenbergh. He didn't
+want to tell him anything else. And here, one could not say that he distorted his thought; he only
+gave half of it, he only gave one sphere, one small bit. Every affection is instantaneous, he will
+always say this, and he will always say: I am as perfect as I can be as a function of affections that
+I have in the instant. It is the sphere of belonging of the instantaneous essence. In this sense,
+there is neither good nor evil.
+
+But on the other hand, the instantaneous state always envelopes an increase or a decrease of
+power of action; in this sense there is good and bad. [Pause] As a result, not from the point of
+view of its state, but from the point of view of its passage, from the point of view of its duration,
+there is something bad in becoming blind, there is something good in becoming a seer (voyant),
+since it is either decrease of power of action or else increase of power of action. And here it is no
+longer the domain of a comparison of the mind between two states; it is the domain of the lived
+passage from one state to another, the lived passage in the affect. As a result, it seems to me that
+we can understand nothing of the Ethics, that is, of the theory of the affects, if we don't keep very
+much in mind the opposition that Spinoza established between the comparisons between two
+states of the mind, and the lived passages from one state to another, lived passages that can only
+be lived in the affects. Hence, here then, there remains for us few things to understand. [Pause] I
+would not say that the affects signal the decreases or increases of power of action; I would say
+that affects are the decreases and the increases of lived powers of action, not necessarily
+conscious once again.
+
+This is, I believe, a very, very… a very, very profound conception of the affect. So, let’s give
+them names in order to better situate ourselves. The affects which are increases of power of
+action we will call joys. The affects which are decreases of power of action we will call forms of
+sadness (tristesses). And affects are either based on joy, or else based on sadness, hence
+Spinoza’s very rigorous definitions. Sadness is the affect that corresponds to a decrease of
+power, of my power of action; joy is the affect which corresponds to an increase of my power of
+action. [Here begins a brief gap in the Web Deleuze transcription, of about 1 minute] So fine,
+why? If we understand this why, I believe that this is all there is left to understand. You will have
+all the elements in order to see precisely what is under discussion in the Ethics from the point of
+view of affects, once we’ve said that this is what interests Spinoza, these are affects.
+
+Why is sadness necessarily a decrease of power of action? You see, henceforth, what there is
+going to be that’s so new in Spinoza’s ethics in contrast to all morality. This is the perpetual cry
+of the Ethics: this isn’t that there is no good sadness, there is no good sadness. And the entire
+Spinozist critique of religion will precisely be that, according to him, the mystification of
+religion is to make us believe that there are good forms of sadness. In terms of power of action,
+there cannot be any good sadness because all sadness decreases my power of action. But why is
+sadness a decrease of power of action? Once again, of course, if you understand that, everything
+will be fine. [Return to the Web Deleuze transcription]
+
+Sadness is the affect enveloped by an affection. The affection is what? It is an image of a thing
+which causes me sadness, which gives me sadness. You see, there we find everything, this
+
+                                                                                                     12
+
+terminology is very rigorous. -- I’m repeating; I don't know any more what I was saying. Ah,
+fine -- The affect of sadness is enveloped by an affection. Affection is what, it is the image of a
+thing which gives me sadness. This image can be very imprecise, very confused, eh, it matters
+little. Here’s my question: why does the image of a thing which gives me sadness, why does this
+image of a thing envelop a decrease of power of action? What is this thing which gives me
+sadness?
+
+We have at least all of the elements to respond to it; now everything is regrouped. If you have
+followed me, everything must regroup harmoniously, very harmoniously. The thing which gives
+me sadness is the thing whose relations don't agree with mine. That is affection. All things whose
+relations tend to decompose one of my relations or the totality of my relations affect me with
+sadness. In terms of affectio -- you have there a strict correspondence -- in terms of affectio, I
+would say: the thing has relations which are not composed with mine, and which tend to
+decompose mine. Here I am speaking in terms of affectio. In terms of affects, I would say: this
+thing affects me with sadness, therefore by the same token, in the same way, decreases my power
+of action. You see I have the double language of instantaneous affections and of affects of
+passage.
+
+Hence, I return again to my question: why, but why? If we understood why, maybe we would
+understand everything. What happens? You see that he takes sadness in one sense; they are the
+two big affective tonalities. These are not two particular cases, sadness and joy; these are the two
+big affective tonalities, that is, affective in the sense of affectus, affect. [Pause] So, we are going
+to see as two lineages: the lineage based on sadness and the lineage based on joy, that are going
+to traverse the theory of the affects.
+
+Why does the thing whose relations don't agree with mine, why does it affect me with sadness,
+that is, decrease my power of action? You see we have a double impression: both that we’ve
+understood in advance, and then that we’re missing something in order to understand. What
+happens when something is presented having relations which don't compose with mine? It could
+be a gust of air. I am going back, I am in the dark, in my room, I am calm, no one is in my face
+(on me fout la paix). Someone enters, and he makes me flinch, he knocks on the door, he knocks
+on the door, and he makes me flinch. Fine, I lose an idea. He enters, and he starts to speak; I have
+fewer and fewer ideas. I’m affected by sadness, yes, I feel sadness, that is, I’ve been disturbed.
+Spinoza will say, the lineage of sadness is what? In response, I hate him; I hate him. I’m saying,
+“Oh, listen eh? That’s enough”. This cannot be very serious; it could be a small hate, he irritates
+me. “Ooo, I cannot have any peace”, all that, “I hate him!”
+
+What does it mean, hate? You see, sadness, fine; he said to us, fine, your power of action is
+decreased, so you experience sadness insofar as your power of acting is decreased. Okay, I hate
+him: that means that the thing whose relations don't compose with yours, you’re tending, this
+would only be what you have in mind, you’re tending toward its destruction. To hate is to want
+to destroy what threatens to destroy you. This is what hate means, that is, to want‚ to
+“want” in quotes, to “want” to decompose what threatens to decompose you. So, sadness
+engenders hate.
+
+                                                                                                    13
+
+Notice that it engenders joys too. Hate engenders joys, so the two lineages, on one hand sadness,
+on the other hand joy, are not going to be pure lineages. What are the joys of hate? The joys of
+hate, as Spinoza says: if you imagine the being that you hate being unhappy, your heart
+experiences a strange joy. One can even engender passions, and Spinoza does this marvelously.
+There are joys of hate. Okay, there are joys of hate. But are these joys…? We can at least already
+say -- and this is going to advance us a lot for later -- that these joys are strangely compensatory,
+that is, indirect. What is primary in hate, when you have feelings of hate, always look for the
+sadness at the base, that is, your power of action was impeded, was decreased.
+
+And although you will, if you have a diabolical heart, although you will believe that this heart
+flourishes in the joys of hate, these joys of hate, as immense as they may be, will never remove
+the nasty little sadness from which you started off; your joys are joys of compensation. The man
+of hate, the man of resentment, etc., for Spinoza, is the one for whom all joys are poisoned by the
+initial sadness, because sadness is in these same joys. In the end, he can only derive from this, he
+can derive joy only from sadness, the sadness that he experiences himself by virtue of the
+existence of the other, sadness that he imagines inflicting on the other to please himself, all of
+these are pitiful joys, says Spinoza. These are indirect joys. We rediscover our criteria of direct
+and indirect; you see, it all comes together at this level.
+
+As a result, I return to my question: in the end, then yes, it is necessary to say nonetheless, in
+what way does an affection, that is the image of something that doesn't agree with my own
+relations, in what way does this decrease my power of acting? It is both obvious and not. Here is
+what Spinoza means: suppose that you have a power of action, fine, let’s say in general the same,
+and there, first case you come up against something whose relations don't compose with yours.
+Second case, on the contrary, you encounter something whose relations compose with your own.
+Spinoza, in the Ethics, uses the Latin term: occursus; occursus is exactly this case, the encounter.
+I encounter bodies; my body never stops encountering bodies. Well then, the bodies that it
+encounters, sometimes have relations which compose, sometimes have relations which don't
+compose with it.
+
+What happens when I encounter a body whose relation doesn't compose with mine? Well then,
+here we are: I would say -- and you will see that in book IV of the Ethics, this doctrine is very
+strong; I cannot say that it is absolutely affirmed, but it is very much suggested -- a phenomenon
+happens which is like a kind of fixation. What does this mean, a fixation? That is, a part of my
+power of action is entirely devoted to investing and to isolating the trace, on me, of the object
+which doesn't agree with me. It is as if I tensed my muscles.
+
+Take once again the example: someone that I don't wish to see enters into the room. I say to
+myself, “Uh oh”, and in me occurs something like a kind of investment: a whole part of my
+power of action is there in order to ward off the effect on me of the object, of the disagreeable
+object. I invest the trace of the thing on me; I invest the effect of the thing on me. In other words,
+I try as much as possible to circumscribe the effect, to isolate it; in other words, I devote a part of
+my power to investing the trace of the thing. Why? Obviously in order to subtract it, to put it at a
+distance, to avert it. Well, understand that this goes without saying: this quantity of power of
+action that I’ve devoted to investing the trace of the disagreeable thing, this is as much of my
+power of action that is decreased, that is removed from me, that is as if immobilized.
+
+                                                                                                    14
+
+This is what is meant by: my power of action decreases. It is not that I have less power of action,
+it is that a part of my power of action is subtracted in this sense that it is necessarily allocated to
+averting the action of the thing. Everything happens as if a whole part of my power of action is
+no longer at my disposal. This is what the affective tonality “sadness” is: a part of my power of
+action serves this unworthy need which consists in warding off the thing, warding off the action
+of the thing, with as much immobilized power of action. To ward off the thing is to prevent it
+from destroying my relations; therefore I’ve toughened my relations; this can be a formidable
+effort, Spinoza said: how very like lost time, how much it would have been more valuable to
+avoid this situation. In any event, a part of my power of action is fixed, which is what is meant
+by a part of my power of action decreases. In fact, a part of my power of action is subtracted
+from me; it is no longer in my possession. It is invested, it is like a kind of hardening, a
+hardening of power of action, to the point that this almost hurts, you see, because of so much lost
+time!
+
+On the contrary, within joy, well, it is very curious, the experience of joy as Spinoza presents it.
+For example, I encounter something agreeable, which agrees with my relations, for example, I
+hear… Let’s take an example, the example of music. There are wounding sounds. There are
+wounding sounds which inspire in me an enormous sadness. What complicates all this is that
+there are always people who find these wounding sounds, on the contrary, delicious and
+harmonious. But this is what makes the joy of life, that is, the relations of love and hate. Because
+my hate toward the wounding sound is going to be extended to all those who like this wounding
+sound. So, I go home, I hear these wounding sounds which appear to me as challenges in
+everything, which really decompose all my relations. They enter my head, they enter my
+stomach, all that. Fine, my power of action, a whole part of it, is hardened in order to hold at a
+distance these sounds which penetrate me.
+
+I obtain silence, and I put on the music that I like; everything changes. The music that I like,
+what does that mean? It means the resonant relations are composed with my relations. And
+suppose that at that very moment my machine breaks. My machine breaks: I experience hate! --
+An objection? [Laughter] – Well, I experience a sadness, a huge sadness. Good, I put on music
+that I like, there, my whole body, and my soul -- it goes without saying -- compose its relations
+with the resonant relations. This is what is meant by the music that I like: my power of action is
+increased.
+
+So, for Spinoza, what interests me in this is that, in the experience of joy, there is never the same
+thing as in sadness, there is not at all an investment -- and we’ll see why -- there is not at all an
+investment of one hardened part which would mean that a certain quantity of power of action is
+subtracted from my power (pouvoir). That doesn’t occur, why? Because when the relations are
+composed, the two things of which the relations are composed, form a superior individual, a third
+individual which encompasses and takes them as parts. In other words, with regard to the music
+that I like, everything happens as if the direct composition of relations -- you see that we are
+always in the criteria of the direct -- a direct composition of relations is made, in such a way that
+a third individual is constituted, individual of which I, or the music, are no more than a part. I
+would say, from now on, that my power of action is in expansion, or that it increases.
+
+                                                                                                      15
+
+Notice the extent to which, if I am choosing these examples, that it is in order to persuade you
+nonetheless that, when -- and this also goes for Nietzsche -- that when authors speak of power of
+action, Spinoza of the increase and decrease of power of action, Nietzsche of the will of power
+(volonté de puissance) which also proceeds -- what Nietzsche calls affect‚ is exactly the same
+thing as what Spinoza calls affect. It is on this point that Nietzsche is Spinozist, that is, it is the
+decreases or increases of power of action. Well, they have in mind something which doesn't have
+anything to do with any conquest of a power (pouvoir) whatsoever. No doubt, they will say that
+the only power (pouvoir) is power of action in the end, namely: to increase one’s power of action
+is precisely to compose relations such that the thing and I, which compose the relations, are no
+more than two sub-individualities of a new individual, a formidable new individual.
+
+I am returning to an example: what distinguishes my basely sensual appetite from my best, most
+beautiful, love? It is exactly the same! The basely sensual appetite, you know, it’s all these
+expressions, so we can invite it all; it’s a joke (c’est pour rire) -- but in the end, you don’t find it
+funny – so it’s a joke. So, we can say anything, the sadness, the sadness; after love, the animal is
+sad. What does… eh? This sadness, what does Spinoza tell us? He would never say this, or else,
+that it is not worth the effort, there is no reason for me… so, sadness, fine. But there are people
+who cultivate sadness. Sense, sense this: where does this get us? [There is] this denunciation
+which is going to run throughout the Ethics, namely: there are people who are so devoid of
+powers of action (tellement impuissant) that they are the ones who are dangerous, they are the
+ones who seize power (pouvoir). And they can seize power (pouvoir) given how distant are the
+notions of power of action and of power (pouvoir). The people of power (pouvoir) are the
+impotent (impuissant) who can only construct their power (pouvoir) on the sadness of others.
+They need sadness. They need sadness. In fact, they can only reign over slaves, and the slave is
+precisely the regime of the decrease of power of action.
+
+There are people, right, who can only reign, who only acquire power (pouvoir) by way of
+sadness and by instituting a regime of sadness of the type: “repent”, of the type “hate someone”‚
+and “if you don't have anyone to hate, hate yourself,” etc., everything that Spinoza diagnoses as a
+kind of immense culture of sadness, the valorization of sadness, all of those who tell you: if you
+don't pass by way of sadness, you will not flourish. And, for Spinoza, this is an abomination.
+And if he writes an Ethics, it is in order to say: no! No! Everything you want, everything you
+want, but not this. So, yes, in fact, good = joy, bad = sadness.
+
+But I am saying, what is… Yes, I was saying, I have a problem there that I’ve lost in… I was
+saying, we have to see. Distinction… distinction what? [Students near Deleuze help him find the
+lecture thread] Distinction between basely sensual instinct and… Ah, yes, the basely sensual
+appetite, there we are. The basely sensual appetite, you see now, and the most beautiful of loves,
+the most beautiful of loves, this is not at all a spiritual thing, but not at all. It is when an
+encounter works, as one says, when it functions well. What does that mean? It’s functionalism,
+but a very beautiful functionalism. What does that mean?
+
+But that means that ideally, it is never like this completely because there are always local forms
+of sadness; Spinoza is not unaware of that, of course, there are always forms of sadness. The
+question is not if there is or if there isn’t. The question is the value that you give to them, that is,
+the indulgence that you grant them. The more you grant them indulgence, that is, the more you
+
+                                                                                                        16
+
+invest your power of action in order to invest the trace of the thing, the more you will lose power
+of action.
+
+So, in a happy love, in a love of joy, what happens? You compose a maximum of relations with a
+maximum of relations of the other, bodily, perceptual, all kinds of natures. Of course, bodily,
+yes, why not; but perceptive also. Ah yes? We’re going to listen to some music? Fine, let’s listen
+to some music! In a certain way, one never stops inventing, understand. When I was speaking of
+a third individual that… of which the two others are no more than parts, it didn’t at all mean that
+this third individual preexisted. It’s always by composing my relations with other relations and
+under a particular profile, under a particular aspect, that I invent this third individual of which the
+other and myself are no more than parts, sub-individuals. Good, well then, that’s it: each time
+that you proceed by composition of relations and composition of composed relations, you
+increase your power of action.
+
+On the other hand, the basely sensual appetite, it’s not because it is sensual that it is bad. It is
+because, fundamentally, it never stops playing on the decomposition of relations. It is really the
+“Come on, hurt me” kind of thing, the “Make me sad so I can make you sad” thing, [Laughter]
+the domestic squabble, etc. Ha, like we feel good with our little squabble; oh, how good we feel
+after, that is, little compensatory joys. All that is disgusting, it’s so foul, it’s the most pathetic life
+in the world. “Ah, I’m going… Come on, let’s get our squabble on; so, a session, ah yes, because
+it is necessary to hate each other, afterwards we love each other so much more”. Spinoza vomits
+when…, In the end, that makes… He tells himself: what is going on with these crazy people? If
+they did this, again for themselves, but these are contagious people, these are propagators. They
+won't let go of you until they have inoculated you with their sadness. What’s more, they treat you
+as idiots if you tell them that you don't understand, that it is not your thing. They tell you that this
+is the true life. And the more that they wallow in their squabble, their stupidity, their anguish,
+and all that, their “oooh”, the more that they hold on to you, the more that they inoculate you if
+they can hold on to you, then they pass it on to you.4
+
+Claire Parnet: Richard would like you to speak about appetite… [She laughs as she makes this
+joking suggestion]
+
+Deleuze: Of the composition of relations?! [Laughter] I’ve said everything on the composition of
+relations because, understand, above all… I don’t have that much to say because this is really…
+That doesn’t consist in… The misinterpretation would be to believe [it’s] “Let’s go look for a
+third individual of which we would only be the parts”. Not at all, this does not preexist, nor does
+the manner in which relations are decomposed. That preexists in Nature since Nature is
+everything, but from your point of view, it is very complicated. Here we are going to see what
+problems this poses for Spinoza because all this is very concrete all the same, about manners of
+living, how does one live? You don't know beforehand which are the relations. [Interruption of
+the BNF recording; Web Deleuze continues] [1:24:58]
+
+Part 3
+
+For example, you are not necessarily going to find your own music. I mean: it is not scientific, in
+what sense? You don't have a scientific knowledge of relations which would allow you to say:
+
+                                                                                                  17
+
+“there is the woman or the man who I must have”. [Return to BNF recording] We go along
+feeling our way, we go along blindly, that works, that doesn't work, etc. … And how to explain
+that there are people who only get involved with things in which they’re aware that it’s not going
+to work out? [Laughter] These are the people of sadness, they are the cultivators of sadness,
+because they think that that it’s here, the basis (fond) of existence.
+
+Otherwise, the long apprenticeship by which, as a function of the foreboding of my constituent
+relations, I vaguely apprehend first what agrees with me and what doesn't agree with me. You
+will tell me: “If this is in order to end up there, this isn’t, this isn’t strong.” Nothing but the
+expression: “Don’t do it, above all, don't do what doesn't agree with you”; no, well, Spinoza’s
+didn’t say it first, for starters, … But the proposition doesn’t mean anything, “do what doesn't
+agree with you”‚ if you take it out of all context, if you bring it as the conclusion of this
+conception -- that I find very grandiose – of relations which are composed, etc. How is someone
+very concrete going to lead his existence in such a manner that he is going to acquire a kind of
+affection, of affect, or of foreboding of the relations which agree with him, of the relations which
+don't agree with him, of situations where he must withdraw, of situations where he must engage
+himself, etc.? It’s no longer at all: “one must do this”, it is no longer at all the domain of
+morality. One doesn’t have to do anything at all, right, one doesn’t have to do anything at all.
+One must find, one must find one’s thing, that is, not at all to withdraw; one must invent the
+superior individualities into which I can enter as a part, for these individualities do not preexist.
+
+All that I meant… You see in what sense this takes on, I believe, a concrete signification, the two
+expressions take on a concrete signification, the two expressions: increase in power of action,
+decrease in power of action. These are the two basic affects. So, if I group together the aggregate
+– before asking you… what you think of all this – if I group together the Spinozist doctrine that
+we can call ethics, I would say – good, here, provided that we can use a more complicated term,
+but this allows me to regroup this – there is a sphere of belonging of essence. This sphere of
+belonging for the moment includes – we’ll see that this will get even more complicated – for the
+moment includes three dimensions: essence is eternal, essence is eternal, what does it mean?
+Your essence is eternal, your singular essence, that is, your own essence in particular, what does
+this mean? For the moment, we can only give one sense to this expression, namely: you are a
+degree of power of action. You are a degree of power of action: this is what Spinoza means when
+he says, verbatim: I am a part – pars – I am a part of the power (puissance) of God. I am a part of
+the power (puissance) of God, that means, literally: I am a degree of power of action. Immediate
+objection: I am a degree of power of action, fine, but after all: me as a baby, little kid… adult,
+old man, this is not the same degree of power of action; therefore, it varies, my degree of power
+of action. Okay, let’s leave that aside.
+
+How, why does this degree of power of action have, we’ll say, a latitude? [Pause] It has a
+latitude. Ok, but I am saying, on the whole, I am a degree of power of action, and it is in this
+sense that I am eternal. No one has the same degree of power of action as another. Fine -- you
+see, we will have need of this later – at the extreme, this is a quantitative conception of
+individuation. But it is a special quantity since it is a quantity of power of action. A quantity of
+power of action, we have always called this an intensity. Fine. It is to this and to this alone that
+Spinoza assigns the term “eternity”. I am a degree of power (puissance) of God, that means, I am
+eternal.
+
+                                                                                                        18
+
+Second sphere of belonging: I have instantaneous affections. We saw this, it is the dimension of
+instantaneity. According to this dimension, the relations compose or don't compose. [Pause] It is
+the dimension of affectio: composition or decomposition between things. [Pause]
+
+Third sphere of… Third dimension of belonging: the affects, notably, each time that an affection
+realizes my power of action, and it realizes it as perfectly as it can, as perfectly as is possible.
+The affection, in fact, that is, the sphere, the belonging 2, realizes my power of action; it realizes
+my power of action, and it realizes my power of action as perfectly as it can, as a function of the
+circumstances, according to here and now. It realizes my power here and now, as a function of
+my relations with things. Within the third dimension, each time an affection realizes my power
+of action, it doesn't do it without my power of action increasing or decreasing. This is the sphere
+of the affect. So, my power of action is an eternal degree; this doesn't prevent it from ceaselessly,
+within duration, increasing and decreasing. This same power of action, which is eternal in itself,
+doesn’t stop increasing and decreasing, that is varying in duration.
+
+How to understand this, after all? Well, understanding this, after all, is not difficult. If you
+reflect, I have just said: essence is a degree of power of action, that is: if it is a quantity, it is an
+intensive quantity. But an intensive quantity is not at all like an extensive quantity. An intensive
+quantity is inseparable from a threshold, that is, an intensive quantity is fundamentally, in itself,
+already a difference. The intensive quantity is made of differences. Does Spinoza go so far as to
+say something like this?
+
+Here, I am opening a parenthesis solely… of pseudo scholarship because it is important since... I
+can say, I can say that Spinoza, first of all, said explicitly pars potentiae, part of power
+(puissance). He says that “our essence is a part of our divine power” (puissance). I am saying, it
+is not a question of forcing the texts. By saying part of power (puissance)‚ this is not an
+extensive part; it is obviously an intensive part. I am still pointing out -- so in the domain of
+scholarship, but here I need it in order to justify everything that I’m saying -- that in the
+Scholastics of the Middle Age, the equality of two terms is absolutely current: gradus or pars,
+part or degree. Now, the degrees are very special parts, they are intensive parts. Fine, this is the
+first point.
+
+Second point: I point out that in letter XII to Meyer, a gentleman named [Louis] Meyer, there is a
+text that we will surely see the next time because it will allow us to draw conclusions on
+individuality. I point it out from starting now -- and I would like, for the next time, those who
+have the correspondence of Spinoza to have read the letter to Meyer, which is a famous letter,
+which is concerned with the infinite – well then, in this letter, Spinoza develops a very bizarre,
+very curious geometrical example. And he made this geometrical example the object of all sorts
+of commentaries, and it looked quite bizarre. And Leibniz, who was himself a very great
+mathematician, who had knowledge of the letter to Meyer, declared that he particularly admired
+Spinoza for this geometrical example which showed that Spinoza understood things that even his
+contemporaries didn't understand, said Leibniz. So, the text is all the more interesting with
+Leibniz’s benediction.
+
+Here is the figure that Spinoza proposes for our reflection: two circles of which one is inside the
+other, but above all they are not concentric. You see, eh? – I would have drag myself over to the
+
+                                                                                                      19
+
+board, and I cannot, … If there were someone in the back and could move up, well, that would
+be great… Two [non-]concentric circles of which one is inside the other. [Pause; Deleuze directs
+the student volunteer who is writing on the board] That’s perfect, you see now. And then, you
+mark, would you just mark, the greatest distance and the smallest one, … from one circle to the
+other… That’s it… and the smallest… Perfect!5
+
+You see, do you understand the figure? Here is what Spinoza tells us. Spinoza tells us something
+very interesting, it seems to me, he tells us: in the case of this double figure, you cannot say that
+you don't have a limit or threshold. You have a threshold; you have a limit. You even have two
+limits: the outer circle, the inner circle, or what comes down to the same thing, the greatest
+distance from one circle to the other, or the least distance. You have a maximum and a minimum.
+And he says: consider the sum – here, the Latin text is very important – “consider the sum of the
+inequalities of distance.”
+
+You see, you trace all the lines, all the segments which go from one circle to the other. You
+evidently have an infinity of them. Spinoza tells us: “consider the sum of the inequalities of
+distance.” You understand, he doesn't literally tell us to “consider the sum of the unequal
+distances,” he doesn't literally tell us to “consider the sum of the unequal distances,” that is, of
+the segments which go from one circle to the other. He tells us: “the sum of the inequalities of
+distance,” that is, the sum of the differences, and he says: “it is very curious, this infinity here”.
+We will see what he means, but I mention this text for the moment because I have a specific
+idea. He tells us: “it is very curious, this is an infinite sum, the sum of the inequalities of distance
+is infinite.” He could also have said that the unequal distances are an infinite sum. And yet there
+is a limit. There is indeed a limit since you have the limit of the large circle and the limit of the
+small circle.
+
+So, there is something infinite, and yet it is not unlimited. And he says, that is an odd infinity; it
+is a very special geometrical infinity: it is an infinity that you can say is infinite even though it is
+not unlimited. And in fact, the space encompassed between the two circles is not unlimited; the
+space encompassed between the two circles is perfectly limited. Fine, I am just reserving the
+expression of the letter to Meyer, “the sum of the inequalities of distance”, whereas he could
+have made the same reasoning by limiting himself to the simpler case, “the sum of unequal
+distances.”
+
+Why does he want to sum up the differences? For me, it is truly a text which, … which is
+important because it confirms… What does he have in his head that he doesn’t say? He needs it
+by virtue of his problem of essences. Essences are degrees of power of action, but what is a
+degree of power of action? A degree of power of action is a difference between a maximum and
+a minimum. It is in this way that it is an intensive quantity. A degree of power of action is a
+difference in itself. [Interruption of the Web Deleuze French transcription]6 You see the extent
+to which… then, the extent to which we are far from a substantialist vision of beings, of
+beings… [Anne Querrien indicates that she would like to ask a question]… Yes?
+
+Anne Querrien [Her comments are only partly audible]: … are inequalities of distance implies
+each time making a (…) you said earlier that (…) So, we reach the same types of aberrations
+(…)
+
+                                                                                                      20
+
+Deleuze: Completely, completely, completely, in all aspects there, this text, … which seems to
+refer to something else entirely, refers, it seems to me, to the status then of… of mode to a
+point… yes, it isn’t even through a simple integration that… No, no, you’re right…
+
+Querrien: [Inaudible]
+
+Deleuze: At the extreme, this would be… in mathematics through a series of so-called local
+integrations, one has to…
+
+Querrien: [Inaudible]
+
+Deleuze: Eh? Me neither, then. [Laughter]… Yeah. So, understand, in fact, “sum of inequalities
+of distance,” every essence is a degree of power of action, each degree of power of action is a
+difference, difference between a minimum and a maximum, henceforth, everything comes
+together quite well: you have essence, degree of power of action, in itself encompassed between
+two thresholds, and that goes on to infinity, because if you make the abstraction, if you abstract
+this threshold, this threshold itself is a difference between two thresholds, etc., to infinity. So, it’s
+quite astonishing how… you aren’t only a sum of relations, you are, in fact, a sum of, of
+differences between relations. This is a very strange conception. So, fine, then… You are a
+degree of eternal power of action, but degree of power of action signifies difference, difference
+between a maximum and a minimum.
+
+Second belonging of essence: affection realizes your power of action at each moment, that is,
+between the two limits, between the maximum and the minimum. [Pause] Third… And in this
+sense, in whatever way it realizes your power of action or your essence, affection is as perfect as
+it can be, it realizes the power of action in such a way that you cannot say: “there is something
+that isn’t realized.” [Pause] In any event, it realizes it.
+
+Third dimension, yes, but in this very way, the affection that realizes your power of action does
+not realize it without “reducing or increasing your power of action” within the frame of this
+threshold, of this maximum and this minimum, sometimes by increasing your power of action,
+sometimes by decreasing it.
+
+All these ideas that first seemed to be contradicting each other are gathered into a… into a
+system with an absolute, an absolute rigor. As a result, you do not stop here being a kind of
+vibration, a vibration with a maximum amplitude, a minimum amplitude, and what are the two
+extreme moments? What corresponds then in duration to the maximum and the minimum? To
+the minimum, it’s death; to the minimum, it’s death. Death is the affection that realizes at the
+final instant of your duration, that realizes your power of action by reducing it to the maximum.
+[Pause]
+
+The opposite of death is what, the opposite of death? It’s joy. It’s not birth, since at birth, you are
+born at the lowest of yourself necessarily; you cannot be worse, right?… So, joy, but a special
+joy that Spinoza will call with a special name: “beatitude,” beatitude that at the same time will be
+the experience of eternity according to Spinoza. Here, you realize your power of action in such a
+way that this power of action increases to the maximum. That is, you can translate “to the
+
+                                                                                                       21
+
+maximum”, well, suddenly, if I come back to “belonging of”, I would say: under all relations
+simultaneously. [Pause]
+
+Good… There we are, there we are… But it’s necessary that this be quite clear. Do you want to
+take a bit of a break? Eh? And then, you will say: if there are some unclear things, I’d be happy
+if we… Because at the point we’ve reached, here’s the point that I’ve reached: it’s good, we
+are… This is like a theoretical outline. How are we going to manage with it concretely? What are
+we going to do? That is, based on this, what is ethical life? Fine, so let’s take a short break.
+[Pause in the BNF recording]
+
+Deleuze: [Noise of everyone speaking] You’ll have to lower it down, eh?... [Noise of chairs, of
+discussions] I still see some of you talking there, eh? Fine, then… [The students keep talking;
+Georges Comtesse says that he wants to ask a question] Yeh!... Yeh, but speak up since they are
+quieting down, eh?
+
+Comtesse: At the very end, at the very end of what you said today, you spoke, you spoke of the
+... Of beatitude, [Deleuze: yeah] or, what Spinoza calls in the third book ... In the ... last book of
+Ethics, the glory ... [Deleuze: yeah] or freedom. Now, precisely, beatitude is, in a way, a limit for
+all the variations of power of action which are determined by affects as the realization of
+instantaneous affections. But can we say, in this case, since both affects and affections are affects
+and affections of finite modes as affections of nature, says Spinoza, can we say that the limit of
+variations in power of action, that is, beatitude, glory or freedom, still belongs to the regime of
+affects? In other words, can we say that beatitude is literally beyond joy and sadness, in other
+words, without affect?
+
+Deleuze: Well, I don't know. I do see what I would say to this question and what, I think,
+Spinoza says and, uh, I feel that the answer is not, is not sufficient in the sense that we can
+always, uh, try to... In my opinion, Spinoza would say -- and here, I have not yet started this
+point -- Spinoza would say, on this ... In fact, he distinguishes ... You see, in this system that I
+tried to present as a system of belonging of essence, things branch out a lot because the
+dimension of affect, we have seen that it has two poles: affects’ decrease in power of actionsadness, and affects’ increase in power of action-joy. But, in fact, it does not have just two
+dimensions, the dimension of affects; it has three of them, it has three. And I think that gives an
+answer to the question that Comtesse has just asked. Because [for] the affects of decrease or
+increase in power of action, there Spinoza is formal: these are passions. They’re passions. What
+does it mean? It means: "passion", as in all the terminology of the seventeenth century, is a very
+simple term which is opposed to "action"; passion is the opposite of action.
+
+So, understand it literally: the affects of increased power of action, that is, of joys, are no less
+passions than forms of sadness, or decreases. The distinction, at this level, the joy-sadness
+distinction, is a distinction within passion. There are joyful passions, and there are sad passions.
+Fine, those are the two kinds of passion affects. Why are even joys passions? Spinoza is very
+firm: he says -- this is exactly to the letter of Spinoza's text -- he tells us: "It is obligatory because
+my power to act can increase; although it may increase, I am still not its master. I am not yet
+master of this power to act.” So, increasing power to act tends towards the possession of power
+of action, but it doesn't yet possess power of action. So, this is a passion.
+
+                                                                                                       22
+
+Now he adds, and this is going to be the third dimension of affect. He adds: on the other hand, if
+you suppose" -- but then how can we suppose? This will throw us into a problem, that. – “If you
+suppose [there is] someone who is in possession of the power to act, we can no longer say,
+literally,” -- that will cause all kinds of problems for us. – “Strictly speaking, we can no longer
+say that his power to act increases: he possesses it to the maximum. Of someone who possesses
+the maximum power to act, he has exited from the regime of passion; he no longer suffers.”
+Comtesse’s question is exactly: "Should we say that he still has affects?" Spinoza seems formal
+to me: yes, he still has affects, but these affects are no longer passions. He has active affects.
+What does “active affects” mean? These active affects can only be joys. There we are.
+
+So, you see, the answer is complex. Whoever is in possession of his power to act has affects.
+Second proposition: these affects are necessarily joys, since they arise from the power to act.
+Third proposition: these joys are therefore not of the same type as the joys of increasing the
+power to act, which were passions, eh? There is, therefore, only one kind of sadness, decrease in
+the power to act, but there are two kinds of affect of joy: passion joys and action joys. Passion
+joys are all those which are defined by an increase in the power to act, action joys are all those
+which are defined as resulting from a possessed power to act.
+
+You will say to me: what does that mean in concrete terms? What are these active joys that are
+affects? In what way are they affects? Well, these are the affects under which the essence, that is,
+me or you, I affect myself, it is like an affection of self by self. Affect is passion or passive as
+long as it is caused by something other than me. I would then say that affect is a passion. When it
+is I who affects myself, affect is an action.
+
+You will notice that, for those who know Kant, for example, which is unrelated to Spinoza, in
+Kant's terminology, you find something like this when he very strangely defines, he says: "space
+is the form in which external objects affect me ”. And that's how he defines space; it’s very
+curious. He will say: "Space is the form in which external objects affect me. But time is the form
+in which I affect myself. " And Kant is developing a very curious theory of affection of self by
+self. Fine.
+
+For Spinoza, then, uh ... an entirely different world. This is not the same problem at all; there are
+also passive affects and active affects. Passive affects are passions; active affects are the affects
+by which I affect myself. Why is it in beatitude that I always affect myself? It’s because, at that
+moment -- we’ll see this; these are the most complicated things about that which Spinoza calls
+immortality -- but at the level of beatitude, when I have my power to act, it is that at that
+moment, I have composed my relations so much, I have acquired such a power of composition of
+relations there, that I have composed my relations with the whole world, with God itself -- what
+is most difficult here, that, uh ... this is the final stage, uh ... -- that nothing any longer reaches me
+from outside. What reaches me from outside is also what reaches me from inside, and vice versa.
+There is no longer any difference between the outside and the inside. So, at that moment, all of
+the affects are active.
+
+And in fact, the third kind of knowledge, which is eternity or beatitude, uh ... how will Spinoza
+define it? He will define it as the coexistence -- but the inner coexistence -- of three ideas: the
+idea of me, the idea of the world, and the idea of God. God, the world and me, eh, what more do
+
+                                                                                                      23
+
+you want? ... But in such a way that when God affects me, it is I who affect myself through God.
+... When I love God ... And conversely, when I love God, it is God who loves himself through
+me, etc., etc. There is a kind of interiority of the three elements of beatitude (God, the world and
+me). As a result, all the affects are active. Fine, but this we will see; it is, it belongs to part of a
+very special experience.
+
+But as for the question posed by Comtesse, I would answer, I would stick to the letter, there, of
+Spinozist terminology, namely: there is only one kind of sadness, but there are two very different
+kinds of joys. And you, what would you say? The same thing, right?
+
+Comtesse: Yeh, beatitude consists in affecting oneself by oneself.
+
+Deleuze: That's it. But on the other hand, whatever affects me, it’s me that affects me. So, uh ...
+we are not risking anything there, but precisely that involves something that we have not yet
+talked about: what is this story ... So, there is no longer only -- we thought we were done:
+decrease, increase in power to act, it was ... it was uh ... relatively clear; we understood, and lo
+and behold, there is still something else, namely power of action fully possessed. What is this,
+this fully possessed power of action? How do we reach this in such a way that there are active
+affects? It gets complicated. As a result, my sphere of belonging, you see, gets increasingly
+richer. Uh, there we are. Are there any other ...? Yes?
+
+Anne Querrien: [Comments nearly inaudible] Isn’t there an idea of crisis?
+
+Deleuze: What? An idea of what? [She repeats] Crisis! Of crisis?
+
+Querrien: Yes.
+
+Deleuze: Crisis of what?
+
+Querrien: [Comments nearly inaudible]
+
+Deleuze: Ah… I don’t understand. With this figure, you are saying, with this figure, everything
+is the same? [The “figure” seems to be a reference to the drawing of circles] [Answer: No] So
+everything is not the same?
+
+Querrien: [Comments nearly inaudible]
+
+Deleuze: This is annoying; I cannot even hear; it’s, it’s not that I don’t understand; I just cannot
+hear, so it’s even simpler. … Did someone hear and could you … [Whisperings in the room]
+
+Deleuze: This figure ... This figure ... What is said about this figure? Ah, what bothers me about
+this figure -- I'll tell you; I don't know if this answers you -- what bothers me about this figure is
+that I have the impression that this is an example which is suitable for several very different
+levels of Spinoza's thought. It is suitable ... I mean, it is suitable both for the aggregate of all
+essences, ... for all, the aggregate of all essences, and the same figure is also suitable for the
+analysis of each essence. It’s very complicated; I can say that; it’s my portrait of mine or of you,
+
+                                                                                                         24
+
+or I can say [that] it’s all of the portraits of essence. The geometrical problem posed, Anne, it
+seems to me that it has several aspects. It has an aspect by which it is an infinity which is not
+infinite through the multitude of parts, that is, a non-numerical infinity. This is the first paradox.
+
+Uh, there are even three paradoxes, it seems to me, and which refer, it seems to me, to three very
+different themes of Spinozism. And he groups them in this example: it is an infinity which is not
+constant since it can be double or triple, eh. So, it's an unequal infinity. Second, it is an infinity
+that has limits since there is a maximum and a minimum. And third, it is a non-numeric infinity.
+
+Anne Querrien: The sum is not finite.
+
+Deleuze: Not only.
+
+Querrien: What?
+
+Deleuze: Not only.
+
+Querrien: But it’s, it’s the sum. [Comments nearly inaudible]
+
+Deleuze: Not only.
+
+Querrien: But the distances, they are…
+
+Deleuze: They aren’t finite either, the distance. Each distance is finite.
+
+Querrien: Yes, ok. [Comments nearly inaudible] This unequal infinity is the infinite number of
+time that we can make the action of cutting…
+
+Deleuze: Okay, okay, okay. And this infinity ... This infinity has a second characteristic. The
+space between the two circles is limited. Moreover, it is this limit which makes it possible to
+define the conditions of this infinity. Moreover, this limited space includes an infinity of
+distances. So, it’s an infinity that cannot be said to be unlimited. It is an infinity which refers to
+boundary conditions.
+
+Third, it is a non-numeric infinity since it is not infinite through the multitude of its parts.
+Exactly like ... Think, for example, there he says something very strong. He prefers geometry
+rather than algebra, Spinoza; he does not believe in the future of algebra. But he strongly
+believes in geometry. Uh ... if you take the ... if you take, for example, an irrational magnitude
+(grandeur) ... Well uh, it's the same case, it's very similar. It’s a much simpler case, "an irrational
+magnitude". There you have themes of infinity properly ... which we will call properly geometric
+infinities, because infinity does not depend on a number. It is not because there is a number of
+parts, even greater than any given number, that it is infinite. It is not infinite by the multitude of
+parts. And all I wanted to say is that these three characteristics, it seems to me, are completely
+consistent, but refer to three different situations in Spinozism.
+
+Querrien: [Comments nearly inaudible]
+
+                                                                                                    25
+
+Deleuze: Yes, yes, but precisely, this is a situation of passage.
+
+Querrien: [Comments nearly inaudible] [Deleuze: Yes] [Comments nearly inaudible]
+
+Deleuze: You think that… Here, one must force him, eh, Spinoza, because…
+
+Querrien: [Comments nearly inaudible] [Deleuze: Yes] [Comments nearly inaudible] [Deleuze:
+Yes] [Comments nearly inaudible] [Deleuze: Yes, agreed, on that, I agree. Yes, yes, yes]
+[Comments nearly inaudible]
+
+Deleuze: Yes, but it’s… it’s just this that I meant by saying that it’s not a global integration. It
+can only be a succession of local integrations there that make, euh… [He does not complete this]
+
+Okay, so, listen, huh, listen. This is the point we’ve reached; I will continue with that ... and then
+we must finish. Uh! And to come back ... so ... Here we are exactly in the situation, well, uh ...
+All that, I suppose that you understood it, but here we are, we tell ourselves and ... although I
+may say all the time, “look out, it's not theory”, it nonetheless remains theory.
+
+It’s: so, what do we do in life? Well, then, we are born, well, we are born, but again we are not
+born with a science of relations, we have no science of relations. What will Spinoza even tell us
+about this? He is going to tell us something very striking, namely what? When you are born,
+well, you are at the mercy uh ... Fortunately you have parents, right, who protect you a bit. We
+are at the mercy of encounters. What is it ... There is even a state, there is even a well-known
+state which can be defined like this: each being is at the mercy there of encounters. This is called
+the state of nature. In a state of nature, you are at the mercy of encounters. So, you can still live
+with the idea ... Oh, my God, am I going to encounter, uh ... something that ... whose relations
+may or may not compose with mine? Notice that, already, this is agony. And the agony is, "oh la
+la, what’s going to happen to me today, huh? This is starting off badly, it’s starting off badly”.
+Well. Perpetual risk ...
+
+Because, if you take a precise body, a precise body, within the immensity of nature, a precise
+body within the immensity of nature all alone, all naked, admire ... or rather don’t, uh ... deplore
+this, because there are obviously fewer bodies whose relations are composed with one’s own
+than bodies whose relations do not agree with one’s own. So, this is not ... We are not winners in
+this whole story of the Ethics, we are -- how to say it? -- as other authors would say, "we are
+thrown into the world". But the state of nature, that means precisely being thrown into the world,
+namely, uh ... being in those kinds of relations, we tell ourselves ... we are ... we live at the mercy
+of encounters. You understand, I see something; I tell myself, that may be good to eat, but I say
+to myself: "oh ... all this may be arsenic. " So, from the moment in which we are not, in which
+we do not have a science of relations and of their combinations, how are we going to manage?
+This is where Spinoza thinks that ethics [or the Ethics] really means something. We will have to
+... And, and how are we ... We can then imagine the life problems of modes of existence. I mean,
+in what way? Well, it’s obvious; I think he offers us an outline which is extremely practical.
+
+You perhaps remember that I had specifically invoked Rousseau, [during the session of 9
+December 1980], as different as he may be from Spinoza, when I told you, well yes! There is a
+
+                                                                                                      26
+
+first aspect ... in the end, the problem is this: [The Web Deleuze translation begins again here] in
+contrast to many thinkers of his time, he is one of the philosophers who have said most
+profoundly: you know, you are born neither reasonable, nor free, nor intelligent. If you become
+reasonable, if you become free, etc., it is a matter of a becoming. But there is no author who is
+more indifferent to the problem of freedom as belonging to the nature of man. He thinks that
+nothing at all belongs to the nature of man. He is an author who thinks everything, really, in
+terms of becoming. So then, his question is: good, okay, without doubt, what does this mean,
+becoming reasonable? What does it mean, becoming free, once we admit that we are not? We are
+not born free; we are not born reasonable. We are born completely at the mercy of encounters,
+that is, we are born completely at the mercy of decompositions. And you must understand that
+this is normal in Spinoza. The authors who think that we are free by nature are the ones who
+create a certain idea out of nature. I believe we can only say we are “free by nature” if we don't
+conceive it as a substance, [Interruption in the BNF recording; Web Deleuze continues] that is as
+a relatively independent thing. If you conceive of yourself as a collection of relations, and not at
+all as a substance, the proposition I am free is plainly devoid of sense. It is not at all that I favor
+the opposite: it makes no sense, freedom or no freedom. On the other hand, perhaps the question
+has a sense: How to become free?
+
+Similarly, [Return to the BNF recording] to be reasonable can be understood if I am defined as a
+reasonable animal from the point of view of substance; this is the Aristotelian definition which
+implies that I am a substance. If I am an aggregate of relations, perhaps they are rational
+relations, but to say that this is reasonable is plainly devoid of all sense. So, if reasonable, free,
+etc., have a meaning, make any sense at all, it could only be the result of a becoming. Already
+this is very new. And how [does one become], once we’ve said “to be thrown into the world” is
+precisely to risk at every instant encountering something which decomposes me?
+
+Hence, I was saying: there is a first aspect of reason. The first effort of reason, I believe, is very
+odd in Spinoza; it is a kind of extraordinarily exploratory effort. And there you can’t say that it is
+insufficient because he encounters concrete explorations. It is all a kind of apprenticeship in
+order to evaluate or have signs; I did indeed say signs, to organize or to find signs that tell me a
+little of which relations agree with me and which relations don't agree with me. It is necessary to
+try; it is necessary to experiment, to try… -- And my own experience, I cannot really transmit it
+because perhaps it doesn't agree with another’s -- notably, it is like a kind of exploration so that
+each of us discovers at the same time what he likes and what he supports.
+
+Good, it is a little like this, if you will, that we live when we take medication. When you take
+medications, you must find your doses, your way there. You have to make selections, and the
+prescription of the doctor will not be sufficient. It will come in handy. But, there is something
+which goes beyond a simple science, or a simple application of science. You have to find your
+thing. It is like an apprenticeship in music, finding at the same time what agrees with you, what
+you are capable of doing.
+
+All this is already what Spinoza will call – and I believe it will be the first aspect of reason -- a
+kind of double aspect, selecting-composing, to select, selection, composition, that is, to manage
+to find by experimenting those relations with which mine compose, and drawing from them the
+consequences, that is: at any cost, flee as best as I can -- I can’t totally, I can’t completely -- but
+
+                                                                                                   27
+
+flee as much, to the maximum, the encounter with relations which don’t agree with me, and
+compose to the maximum, be composed to the maximum with the relations which agree with me.
+Here again, this seems, this seems, I would say, this is the first determination of freedom or of
+reason. So Rousseau’s theme, what he himself called “the materialism of the wise man”, you
+remember when I spoke a little of this idea of Rousseau’s, very, very curious, a kind of art of
+composing situations, this art of composing situations that consists above all of withdrawing
+from situations which don't agree with you, of entering into situations which agree with you, and
+all that. This is the first effort of reason.
+
+But, on this point, I insist, at this level, we have no previous knowledge, we have no preexisting
+knowledge, we don't have scientific knowledge. It is not about science. It is really about living
+experimentation; it is about apprenticeship. And I never stop deceiving myself, I never stop
+jumping into situations which don't agree with me, I never stop etc., etc. And little by little a kind
+of beginning of wisdom gets outlined, which comes down to what? Which comes down to what
+Spinoza was saying from the beginning, but the fact that each might know a little, has a vague
+idea of what he is capable of, once it’s said that the incapable people are not incapable people,
+these are people who rush into what they are not capable of, and then who drop what they are
+capable of.
+
+But, Spinoza asks: What can a body do, what can a body do? It doesn't mean a body in general; it
+means: yours, mine, of what are you capable? It is this kind of experimentation with capacity,
+trying to experiment with capacity, and at the same time constructing it, at the same time that one
+experiments with it. This is very, very concrete. And we don't have prior knowledge. I don't
+know, fine… There are domains of what am I capable. Who can say, here, I’m not… in both
+directions, there are people who are too modest who say: “Ah, I am not capable of it” in the
+sense of “I will not succeed”, and then there are the people too sure of themselves, who say: “Ha
+that, such a nasty thing, I am not capable of it”, but they could perhaps do it, we don't know. No
+one knows what he is capable of.
+
+I think that, for example, the things in the belle époque of existentialism, as it was nonetheless
+very much connected to the end of the war, to the concentration camps etc., there was a theme
+that [Karl] Jaspers had launched, and which was a theme, it seems to me, which was very
+profound: he defined, distinguished two types of situation, limit situations, what he called limit
+situations, and simple everyday situations. He said: limit situations could befall us at any time.
+These are precisely situations which we can’t anticipate, we cannot anticipate them. If you will,
+someone… someone who hasn’t been tortured, and what does that mean to say… He has no idea
+if he will hold out or if he won't hold out. If need be, the most courageous guys collapse, and the
+guys that one would have thought of, in some way, as pathetic, they hold out marvelously. One
+doesn't know.
+
+The limit situation is really a situation such as this, I learn at the last moment, sometimes too
+late, what I was capable of, what I was capable of, for better or worse. But we can’t say in
+advance. It is too easy to say: “Oh that, me, I would never do it!” And inversely. So, we all pass
+our time doing things like that, and then… But what we are really capable of, we pass right by it.
+So many people die without knowing and will never know what they were capable of, once
+again, within what’s awful as within what’s very good. Fine, these are surprises; it is necessary
+
+                                                                                                    28
+
+to surprise oneself. We tell ourselves: “Oh look! I would never have believed that I would have
+done it.” People, you know, are very clever (beaucoup d’art), you know, they have great skill.
+
+Generally, we always speak of the manner – here, this is some very complex Spinozism --
+because we always speak of the manner in which people destroy themselves, but I believe that,
+finally, it’s… it’s… that this talking is just hot air. There are people who destroy themselves,
+it’s… it’s, it’s sad, it is always a very sad spectacle, and then they get annoying! But [people]
+also have a kind of prudence, in the tricks they use! It's so funny how people connive because
+there are a lot of people who destroy themselves over instances which, precisely, have little need
+of their own involvement. So, obviously, they lose out because in the end, you understand, yeah,
+I suppose, fine: ultimately, someone who truly renders himself powerless, this is really someone
+who doesn't really want to see this through, it’s just not his thing. I expect that... In other words,
+for him, this is a very secondary relation; making a move (bouger) is a very secondary relation.
+Good, he manages to put himself in states where he can no longer move, and in a certain way he
+has what he wanted since he caved in over a secondary relation.
+
+It is very different when someone destroys himself in what he himself experiences as being his
+principal or constituent relations. If running doesn't interest you much, you can always take up
+chain-smoking, hey? [Laughter] So, people will tell you: “You are destroying yourself.” Well,
+then, fine, I myself would be satisfied to settle down on my small chair, eh? No, really, things
+would work out so much better this way since people would just leave me in peace! So, I’m
+destroying myself? No, not really. Obviously, I am destroying myself because if I can no longer
+move at all, in the end, I risk dying from problems of another sort that I would not have foreseen.
+Oh yes, this is annoying. But you see that even experiments, even in the things where selfdestruction is involved, there are tricks which imply a whole calculus of relations. One can very
+well destroy oneself over a point which is not essential for the person himself while also trying to
+keep what's essential. Oh, all this is complex. It is complex. People are sneaky, you don't know
+the extent to which you're all sneaky, everyone, everybody. So, fine, there we are.
+
+I am calling reason, or effort of reason, conatus of reason, effort of reason, this tendency to
+select, to choose relations, this apprenticeship of the relations which are composed or which are
+not composed. And I am indeed saying: as you have no prior science, you understand what
+Spinoza means: science, you are perhaps going to arrive at a science of relations. But what will it
+be? A strange sort of science. It won't be a theoretical science. The theory will perhaps be a part,
+but it will be a science in the sense of vital science. You will perhaps reach a science of relations,
+but you won’t absolutely have it. For the moment, you can only guide yourself by signs. And the
+sign – we’ve seen this, and there will be a moment the next time to return to look at this more
+closely – this is a crazily ambiguous language. The language of signs is the language of the
+equivocal, of equivocity. A sign always has several senses. So, what doesn’t suit me under one
+relation, is suitable for me under another relation. Ah, that one doesn’t suit me, but this one does.
+This is the language, and it’s here that Spinoza will always define the sign, including within it all
+sorts of signs through “equivocity.” The sign is the equivocal expression: I manage as best I can.
+
+And the signs are what? It is the signs of language which are fundamentally ambiguous,
+according to Spinoza. On one hand, they are the signs of language, and on the other hand, the
+signs of God, prophetic signs, and on the other hand, the signs of society: rewards, punishments,
+
+                                                                                                                     29
+
+etc. Prophetic signs, social signs, linguistic signs are the three great types of signs. And each
+time, this is the language of equivocity.
+
+And, we are forced to start off from there, to pass through there, in order to construct our
+apprenticeship, that is, what? In order to select our joys, eliminate our forms of sadness, that is,
+to make headway in a kind of apprehension of the relations which are composed, to reach an
+approximate knowledge (connaissance) through signs of the relations which agree with me and
+of the relations which don't agree with me.
+
+So, the first effort of reason, you see, is exactly to do everything in my power (pouvoir) in order
+to increase my power of acting, that is, in order to experience passive joys, in order to experience
+of the passion joys. The passion joys are what increase my power of acting as a function of still
+equivocal signs in which I don't possess this power of action (puissance). Do you see?
+
+So, the question which I have come to is: so fine, supposing that this is how it is, that there is this
+moment of long apprenticeship, how can I pass, how can this long apprenticeship lead me to a
+more certain stage, where I am more certain of myself, that is, where I become reasonable, where
+I become free? How can this be done? We will see next time. [2 :25 :25]
+
+Notes
+
+  In concert with the translation in Spinoza: Practical Philosophy by Robert Hurley, I have chosen to translate
+Deleuze’s “rapport” as relation, since Deleuze is gradually developing an argument, from one lecture to the next, of
+the importance of differential relations in both philosophical and mathematical terms.
+  See the references to Nero and to Clytemnestra, in fact, combine two separate examples of crimes, by Nero and by
+Orestes, presented in detail in the 13 January 1980 session.
+  In order to distinguish clearly between the two terms used for power, pouvoir and puissance, I translate the latter as
+“power of action,” which Deleuze will himself emphasize later in the session by using puissance d’agir, power of
+acting.
+  The Web Deleuze transcript notes here: “Gilles Deleuze looks extremely nauseated.”
+  Although Deleuze says “concentric circles”, he comments on this letter in Spinoza: Practical Philosophy, under
+the alphabetical entry “Infinite” (p.78; French edition, p. 112), where “nonconcentric” is clearly stated.
+  There is a gap in the Web Deleuze French transcript, hence in the translation, corresponding to 30 minutes of the
+session (approximately from minutes 101 to 131).
