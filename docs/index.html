@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deleuze GraphRAG</title>
+    <meta name="description" content="Rhizomatic knowledge graph and semantic search for Gilles Deleuze's philosophical corpus using GraphRAG and vector embeddings.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0a0c;
+            --bg-card: #111114;
+            --text: #e8e6e3;
+            --text-muted: #8a8a8a;
+            --accent: #c9a55c;
+            --border: #2a2a2e;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+        .logo {
+            font-family: 'Crimson Text', serif;
+            font-size: 4rem;
+            color: var(--accent);
+            margin-bottom: 1rem;
+        }
+        h1 {
+            font-family: 'Crimson Text', serif;
+            font-size: 2.5rem;
+            font-weight: 400;
+            margin-bottom: 0.5rem;
+        }
+        .tagline {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            font-style: italic;
+        }
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        h2 {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--accent);
+            margin-bottom: 1rem;
+        }
+        p { margin-bottom: 1rem; }
+        ul {
+            list-style: none;
+            margin: 1rem 0;
+        }
+        li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        li::before {
+            content: "~";
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+        }
+        code {
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            background: rgba(201, 165, 92, 0.1);
+            padding: 0.15rem 0.4rem;
+            border-radius: 3px;
+            font-size: 0.9em;
+        }
+        a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--accent);
+            transition: opacity 0.2s;
+        }
+        a:hover { opacity: 0.8; }
+        .btn {
+            display: inline-block;
+            background: var(--accent);
+            color: var(--bg);
+            padding: 0.75rem 1.5rem;
+            border-radius: 4px;
+            font-weight: 500;
+            border: none;
+            margin-top: 1rem;
+        }
+        .btn:hover { opacity: 0.9; border-bottom: none; }
+        footer {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">&delta;</div>
+            <h1>Deleuze GraphRAG</h1>
+            <p class="tagline">Rhizomatic knowledge graph for Deleuzian philosophy</p>
+        </header>
+
+        <div class="card">
+            <h2>What is this?</h2>
+            <p>A GraphRAG pipeline that transforms Gilles Deleuze's philosophical corpus (books and seminars) into a queryable rhizomatic knowledge graph. It combines:</p>
+            <ul>
+                <li>Graph-based concept extraction via GraphRAG</li>
+                <li>Quote-level vector search with Cohere embeddings</li>
+                <li>A nomad agent that routes queries between both systems</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>The Pipeline</h2>
+            <ul>
+                <li><strong>Corpus preparation</strong> &mdash; PDF to cleaned text + semantic chunks</li>
+                <li><strong>Prompt tuning</strong> &mdash; Bilingual extraction respecting Deleuzian ontology</li>
+                <li><strong>GraphRAG indexing</strong> &mdash; Entity/relationship extraction with community detection</li>
+                <li><strong>Vector index</strong> &mdash; Quote-level embeddings for exact passage citation</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Get Started</h2>
+            <p>Clone the repository and follow the setup instructions in the README.</p>
+            <a href="https://github.com/simonkral1/deleuze-graphrag" class="btn">View on GitHub &rarr;</a>
+        </div>
+
+        <footer>
+            <p>Powered by GraphRAG, Cohere embed-v4.0, and Claude</p>
+        </footer>
+    </div>
+</body>
+</html>
