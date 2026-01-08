@@ -1,158 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deleuze GraphRAG</title>
-    <meta name="description" content="Rhizomatic knowledge graph and semantic search for Gilles Deleuze's philosophical corpus using GraphRAG and vector embeddings.">
+    <title>Deleuzian Thinking Machine</title>
+    <meta name="description"
+        content="An agentic philosophical system that performs Deleuzian philosophy rather than summarizing it.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg: #0a0a0c;
-            --bg-card: #111114;
-            --text: #e8e6e3;
-            --text-muted: #8a8a8a;
-            --accent: #c9a55c;
-            --border: #2a2a2e;
-        }
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: 'Inter', sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.7;
-            min-height: 100vh;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 4rem 2rem;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 4rem;
-        }
-        .logo {
-            font-family: 'Crimson Text', serif;
-            font-size: 4rem;
-            color: var(--accent);
-            margin-bottom: 1rem;
-        }
-        h1 {
-            font-family: 'Crimson Text', serif;
-            font-size: 2.5rem;
-            font-weight: 400;
-            margin-bottom: 0.5rem;
-        }
-        .tagline {
-            color: var(--text-muted);
-            font-size: 1.1rem;
-            font-style: italic;
-        }
-        .card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 2rem;
-            margin-bottom: 2rem;
-        }
-        h2 {
-            font-family: 'Crimson Text', serif;
-            font-size: 1.5rem;
-            font-weight: 600;
-            color: var(--accent);
-            margin-bottom: 1rem;
-        }
-        p { margin-bottom: 1rem; }
-        ul {
-            list-style: none;
-            margin: 1rem 0;
-        }
-        li {
-            padding: 0.5rem 0;
-            padding-left: 1.5rem;
-            position: relative;
-        }
-        li::before {
-            content: "~";
-            position: absolute;
-            left: 0;
-            color: var(--accent);
-        }
-        code {
-            font-family: 'SF Mono', 'Fira Code', monospace;
-            background: rgba(201, 165, 92, 0.1);
-            padding: 0.15rem 0.4rem;
-            border-radius: 3px;
-            font-size: 0.9em;
-        }
-        a {
-            color: var(--accent);
-            text-decoration: none;
-            border-bottom: 1px dotted var(--accent);
-            transition: opacity 0.2s;
-        }
-        a:hover { opacity: 0.8; }
-        .btn {
-            display: inline-block;
-            background: var(--accent);
-            color: var(--bg);
-            padding: 0.75rem 1.5rem;
-            border-radius: 4px;
-            font-weight: 500;
-            border: none;
-            margin-top: 1rem;
-        }
-        .btn:hover { opacity: 0.9; border-bottom: none; }
-        footer {
-            text-align: center;
-            color: var(--text-muted);
-            font-size: 0.85rem;
-            margin-top: 4rem;
-            padding-top: 2rem;
-            border-top: 1px solid var(--border);
-        }
-    </style>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
 </head>
+
 <body>
     <div class="container">
-        <header>
-            <div class="logo">&delta;</div>
-            <h1>Deleuze GraphRAG</h1>
-            <p class="tagline">Rhizomatic knowledge graph for Deleuzian philosophy</p>
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <div class="logo-icon">δ</div>
+                <div class="logo-text">
+                    <h1>Thinking Machine</h1>
+                    <p class="tagline">after Deleuze</p>
+                    <nav style="margin-top: var(--space-sm);">
+                        <a href="graph.html"
+                            style="font-family: var(--font-mono); font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; text-decoration: none; border-bottom: 1px dotted var(--text-muted);">View
+                            Rhizome Graph &rarr;</a>
+                    </nav>
+                </div>
+            </div>
         </header>
 
-        <div class="card">
-            <h2>What is this?</h2>
-            <p>A GraphRAG pipeline that transforms Gilles Deleuze's philosophical corpus (books and seminars) into a queryable rhizomatic knowledge graph. It combines:</p>
-            <ul>
-                <li>Graph-based concept extraction via GraphRAG</li>
-                <li>Quote-level vector search with Cohere embeddings</li>
-                <li>A nomad agent that routes queries between both systems</li>
-            </ul>
-        </div>
+        <!-- Main content -->
+        <main class="main">
+            <!-- Configuration (Model & Budget) -->
+            <section class="config-section"
+                style="max-width: 800px; margin: 0 auto 1.5rem auto; padding: 0 1rem; display: flex; gap: 1.5rem; justify-content: flex-end; align-items: center; flex-wrap: wrap;">
+                <div class="control-group" style="display: flex; align-items: center; gap: 0.5rem;">
+                    <label for="model-select"
+                        style="font-family: var(--font-mono); font-size: 0.8rem; text-transform: uppercase;">Model:</label>
+                    <select id="model-select"
+                        style="padding: 4px 8px; border-radius: 4px; border: 1px solid var(--border-color); background: var(--bg-card); color: var(--text-main); font-family: var(--font-sans);">
+                        <option value="claude-sonnet-4-5-20250929">Sonnet 4.5</option>
+                        <option value="claude-haiku-4-5-20251001">Haiku 4.5 (Fast)</option>
+                        <option value="claude-opus-4-5-20251101">Opus 4.5</option>
+                    </select>
+                </div>
 
-        <div class="card">
-            <h2>The Pipeline</h2>
-            <ul>
-                <li><strong>Corpus preparation</strong> &mdash; PDF to cleaned text + semantic chunks</li>
-                <li><strong>Prompt tuning</strong> &mdash; Bilingual extraction respecting Deleuzian ontology</li>
-                <li><strong>GraphRAG indexing</strong> &mdash; Entity/relationship extraction with community detection</li>
-                <li><strong>Vector index</strong> &mdash; Quote-level embeddings for exact passage citation</li>
-            </ul>
-        </div>
+                <div class="control-group" style="display: flex; align-items: center; gap: 0.5rem;">
+                    <label for="budget-range"
+                        style="font-family: var(--font-mono); font-size: 0.8rem; text-transform: uppercase;">Thinking
+                        Budget: <span id="budget-value">8000</span></label>
+                    <input type="range" id="budget-range" min="1024" max="32000" step="1024" value="8000"
+                        style="width: 120px;">
+                </div>
+            </section>
 
-        <div class="card">
-            <h2>Get Started</h2>
-            <p>Clone the repository and follow the setup instructions in the README.</p>
-            <a href="https://github.com/simonkral1/deleuze-graphrag" class="btn">View on GitHub &rarr;</a>
-        </div>
+            <!-- Question input -->
+            <section class="input-section">
+                <form id="question-form" class="question-form">
+                    <div class="input-wrapper">
+                        <textarea id="question-input" name="question"
+                            placeholder="Ask a philosophical question... What is the relationship between desire and capitalism? How does the rhizome differ from the tree?"
+                            rows="3" required></textarea>
+                    </div>
+                    <button type="submit" id="submit-btn" class="submit-btn">
+                        <span class="btn-text">Think</span>
+                        <span class="btn-icon">→</span>
+                    </button>
+                </form>
+            </section>
 
-        <footer>
-            <p>Powered by GraphRAG, Cohere embed-v4.0, and Claude</p>
+            <!-- Response area -->
+            <section id="response-section" class="response-section hidden">
+                <!-- Process panel: combines thinking + tools in one collapsible area -->
+                <div id="process-panel" class="process-panel hidden">
+                    <button type="button" class="process-toggle" id="process-toggle">
+                        <span class="toggle-icon">◐</span>
+                        <span class="process-label">Process</span>
+                        <span id="routing-badge" class="routing-badge"></span>
+                        <span class="process-summary" id="process-summary"></span>
+                        <span class="toggle-chevron">▼</span>
+                    </button>
+                    <div id="process-content" class="process-content collapsed">
+                        <!-- Thinking section -->
+                        <div id="thinking-section" class="thinking-section">
+                            <div class="section-header">
+                                <span>Thinking</span>
+                                <span id="thinking-tokens" class="token-count"></span>
+                            </div>
+                            <div id="thinking-text" class="thinking-text"></div>
+                        </div>
+                        <!-- Tool calls section -->
+                        <div id="tools-section" class="tools-section">
+                            <div class="section-header">Tools Used</div>
+                            <div id="flow-container" class="flow-container"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Main response -->
+                <div class="response-card">
+                    <button id="copy-btn" class="copy-btn hidden" title="Copy to clipboard">
+                        <span class="copy-icon">⧉</span>
+                        <span class="copy-text">Copy</span>
+                    </button>
+                    <div id="response-text" class="response-text"></div>
+                    <div id="cursor" class="cursor hidden">▌</div>
+                </div>
+
+                <!-- Sources -->
+                <div id="sources-panel" class="sources-panel hidden">
+                    <h3 class="sources-title">Sources</h3>
+                    <ul id="sources-list" class="sources-list"></ul>
+                </div>
+            </section>
+
+            <!-- Loading indicator -->
+            <div id="loading" class="loading hidden">
+                <div class="loading-rhizome">
+                    <div class="node n1"></div>
+                    <div class="node n2"></div>
+                    <div class="node n3"></div>
+                    <div class="node n4"></div>
+                    <div class="node n5"></div>
+                    <svg class="connections" viewBox="0 0 100 100">
+                        <line class="line l1" x1="50" y1="50" x2="20" y2="20" />
+                        <line class="line l2" x1="50" y1="50" x2="80" y2="25" />
+                        <line class="line l3" x1="50" y1="50" x2="75" y2="75" />
+                        <line class="line l4" x1="50" y1="50" x2="25" y2="80" />
+                        <line class="line l5" x1="20" y1="20" x2="80" y2="25" />
+                    </svg>
+                </div>
+                <p class="loading-text">Becoming...</p>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Powered by Claude Opus 4.5 with Extended Thinking</p>
         </footer>
     </div>
+
+    <script src="app.js"></script>
 </body>
+
 </html>

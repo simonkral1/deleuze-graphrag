@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deleuzian Graph | Thinking Machine</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        #graph-container {
+            width: 100%;
+            height: 70vh;
+            border: 1px solid var(--border);
+            background-color: var(--bg-paper);
+        }
+
+        .controls {
+            margin-bottom: var(--space-md);
+            display: flex;
+            gap: var(--space-md);
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .search-container {
+            display: flex;
+            gap: var(--space-sm);
+            align-items: center;
+            margin-left: auto;
+        }
+
+        #node-search {
+            padding: var(--space-xs) var(--space-sm);
+            font-family: var(--font-mono);
+            font-size: 0.875rem;
+            border: 1px solid var(--border-light);
+            background: var(--bg-paper);
+            width: 200px;
+        }
+
+        #node-search:focus {
+            outline: none;
+            border-color: var(--border);
+        }
+
+        .search-btn {
+            padding: var(--space-xs) var(--space-sm);
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            background: var(--bg-paper);
+            border: 1px solid var(--border-light);
+            cursor: pointer;
+        }
+
+        .search-btn:hover {
+            background: var(--text);
+            color: var(--bg);
+        }
+
+        .legend {
+            position: absolute;
+            bottom: var(--space-md);
+            left: var(--space-md);
+            background: rgba(255, 255, 255, 0.95);
+            border: 1px solid var(--border-light);
+            padding: var(--space-sm) var(--space-md);
+            font-family: var(--font-mono);
+            font-size: 0.6875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .legend-title {
+            color: var(--text-muted);
+            margin-bottom: var(--space-xs);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+            margin: var(--space-xs) 0;
+            color: var(--text-secondary);
+        }
+
+        .legend-node {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--bg-paper);
+            border: 1px solid var(--border);
+        }
+
+        .legend-node.large {
+            width: 16px;
+            height: 16px;
+        }
+
+        .legend-edge {
+            width: 24px;
+            height: 1px;
+            background: var(--text-muted);
+            opacity: 0.5;
+        }
+
+        .graph-wrapper {
+            position: relative;
+        }
+
+        .search-result {
+            position: absolute;
+            top: var(--space-sm);
+            right: var(--space-sm);
+            background: rgba(255, 255, 255, 0.95);
+            border: 1px solid var(--border-light);
+            padding: var(--space-xs) var(--space-sm);
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container" style="max-width: 1200px;">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <a href="/" style="text-decoration: none; color: inherit;">
+                    <div class="logo-icon">δ</div>
+                    <div class="logo-text">
+                        <h1>Rhizome Visualization</h1>
+                        <p class="tagline">Mapping the Plateau</p>
+                    </div>
+                </a>
+            </div>
+            <nav style="margin-top: var(--space-md);">
+                <a href="/" style="color: var(--text); font-family: var(--font-mono); text-transform: uppercase;">&larr;
+                    Back to Thinking Machine</a>
+            </nav>
+        </header>
+
+        <!-- Main content -->
+        <main class="main">
+            <div class="controls">
+                <label for="node-limit" style="font-family: var(--font-mono);">Node Limit:</label>
+                <input type="range" id="node-limit" name="node-limit" min="50" max="2000" value="500" step="50"
+                    onchange="document.getElementById('limit-display').innerText = this.value">
+                <span id="limit-display" style="font-family: var(--font-mono);">500</span>
+                <button onclick="loadGraph()" class="submit-btn"
+                    style="padding: var(--space-xs) var(--space-md);">Update</button>
+
+                <div class="search-container">
+                    <input type="text" id="node-search" placeholder="Search concepts..."
+                        onkeydown="if(event.key === 'Enter') searchNode()">
+                    <button onclick="searchNode()" class="search-btn">Find</button>
+                    <button onclick="resetView()" class="search-btn">Reset</button>
+                </div>
+            </div>
+
+            <div class="graph-wrapper">
+                <div id="graph-container"></div>
+                <div id="search-result" class="search-result"></div>
+                <div class="legend">
+                    <div class="legend-title">Legend</div>
+                    <div class="legend-item">
+                        <div class="legend-node"></div>
+                        <span>Concept</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-node large"></div>
+                        <span>High connectivity</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-edge"></div>
+                        <span>Relationship</span>
+                    </div>
+                </div>
+            </div>
+            <div id="loading-message" class="loading-text" style="display: none; text-align: center; margin-top: 10px;">
+                Loading Rhizome...</div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>GraphRAG Visualization</p>
+        </footer>
+    </div>
+
+    <script>
+        let network = null;
+        let nodesDataset = null;
+        let originalColors = new Map();
+
+        function searchNode() {
+            const searchTerm = document.getElementById('node-search').value.toLowerCase().trim();
+            const searchResult = document.getElementById('search-result');
+
+            if (!searchTerm || !nodesDataset) {
+                searchResult.style.display = 'none';
+                return;
+            }
+
+            // Find matching nodes
+            const allNodes = nodesDataset.get();
+            const matches = allNodes.filter(node =>
+                node.label && node.label.toLowerCase().includes(searchTerm)
+            );
+
+            if (matches.length === 0) {
+                searchResult.textContent = 'No matches found';
+                searchResult.style.display = 'block';
+                return;
+            }
+
+            // Highlight matches
+            const updates = allNodes.map(node => {
+                const isMatch = matches.some(m => m.id === node.id);
+                if (!originalColors.has(node.id)) {
+                    originalColors.set(node.id, node.color);
+                }
+                return {
+                    id: node.id,
+                    color: isMatch ? {
+                        background: '#1a1a1a',
+                        border: '#1a1a1a'
+                    } : {
+                        background: '#f5f5f0',
+                        border: '#d0d0d0',
+                        opacity: 0.3
+                    }
+                };
+            });
+
+            nodesDataset.update(updates);
+
+            // Focus on first match
+            if (matches.length > 0) {
+                network.focus(matches[0].id, {
+                    scale: 1.5,
+                    animation: { duration: 500, easingFunction: 'easeInOutQuad' }
+                });
+                network.selectNodes([matches[0].id]);
+            }
+
+            searchResult.textContent = `Found ${matches.length} match${matches.length > 1 ? 'es' : ''}`;
+            searchResult.style.display = 'block';
+        }
+
+        function resetView() {
+            const searchResult = document.getElementById('search-result');
+            document.getElementById('node-search').value = '';
+            searchResult.style.display = 'none';
+
+            if (!nodesDataset) return;
+
+            // Reset all node colors
+            const updates = nodesDataset.get().map(node => ({
+                id: node.id,
+                color: {
+                    background: '#f5f5f0',
+                    border: '#2a2a2a'
+                }
+            }));
+            nodesDataset.update(updates);
+            originalColors.clear();
+
+            // Fit all nodes in view
+            network.fit({ animation: { duration: 500, easingFunction: 'easeInOutQuad' } });
+        }
+
+        async function loadGraph() {
+            const limit = document.getElementById('node-limit').value;
+            const container = document.getElementById('graph-container');
+            const loadingMsg = document.getElementById('loading-message');
+
+            loadingMsg.style.display = 'block';
+
+            try {
+                const response = await fetch(`/api/graph?limit=${limit}`);
+                const data = await response.json();
+
+                if (data.error) {
+                    alert('Error loading graph: ' + data.error);
+                    return;
+                }
+
+                nodesDataset = new vis.DataSet(data.nodes);
+                const nodes = nodesDataset;
+                const edges = new vis.DataSet(data.edges);
+                originalColors.clear();
+
+                const options = {
+                    nodes: {
+                        shape: 'dot',
+                        size: 16,
+                        font: {
+                            face: 'courier new',
+                            color: '#1a1a1a'
+                        },
+                        borderWidth: 1,
+                        color: {
+                            background: '#f5f5f0',
+                            border: '#2a2a2a',
+                            highlight: {
+                                background: '#1a1a1a',
+                                border: '#1a1a1a',
+                            }
+                        }
+                    },
+                    edges: {
+                        width: 0.5,
+                        color: { inherit: 'from', opacity: 0.3 },
+                        smooth: {
+                            type: 'continuous'
+                        }
+                    },
+                    physics: {
+                        stabilization: false,
+                        grid: {
+                            borderWidth: 0
+                        },
+                        barnesHut: {
+                            gravitationalConstant: -2000, // Stronger repulsion
+                            centralGravity: 0.1,
+                            springLength: 150,
+                            springConstant: 0.04,
+                            damping: 0.09,
+                            avoidOverlap: 0.1
+                        }
+                        // forceAtlas2Based: {
+                        //     gravitationalConstant: -26,
+                        //     centralGravity: 0.003,
+                        //     springLength: 230,
+                        //     springConstant: 0.18
+                        // },
+                        // maxVelocity: 146,
+                        // solver: 'forceAtlas2Based',
+                        // timestep: 0.35,
+                        // stabilization: { iterations: 150 }
+                    },
+                    interaction: {
+                        tooltipDelay: 200,
+                        hideEdgesOnDrag: true
+                    }
+                };
+
+                if (network) {
+                    network.destroy();
+                }
+
+                network = new vis.Network(container, { nodes, edges }, options);
+
+                network.on("click", function (params) {
+                    if (params.nodes.length > 0) {
+                        const nodeId = params.nodes[0];
+                        const node = nodes.get(nodeId);
+                        // console.log("Clicked node:", node);
+                    }
+                });
+
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Failed to load graph data.');
+            } finally {
+                loadingMsg.style.display = 'none';
+            }
+        }
+
+        // Initial load
+        window.addEventListener('DOMContentLoaded', loadGraph);
+    </script>
+</body>
+
+</html>
