@@ -19,6 +19,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from flask import Flask, Response, render_template, request, jsonify
+from flask_cors import CORS
 
 import anthropic
 import pandas as pd
@@ -29,6 +30,7 @@ import pandas as pd
 # =============================================================================
 
 app = Flask(__name__, static_folder="static", template_folder="static")
+CORS(app)  # Enable CORS for GitHub Pages frontend
 
 # Default settings
 VECTOR_STORE = Path("vector_store")
@@ -252,6 +254,7 @@ def health():
 # =============================================================================
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 7860))
     print("Starting Deleuzian Thinking Machine...")
-    print("Open http://localhost:5001 in your browser")
-    app.run(host="0.0.0.0", port=5001, debug=False, threaded=True)
+    print(f"Open http://localhost:{port} in your browser")
+    app.run(host="0.0.0.0", port=port, debug=False, threaded=True)

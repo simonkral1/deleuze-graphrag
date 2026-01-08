@@ -8,4 +8,8 @@ pyarrow==17.0.0
 tiktoken==0.7.0
 anthropic>=0.40.0
 lancedb
+flask
+flask-cors
+python-dotenv
+gunicorn
 
