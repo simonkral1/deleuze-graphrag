@@ -93,7 +93,8 @@ async function handleSubmit(e) {
         const model = document.getElementById('model-select').value;
         const budget = document.getElementById('budget-range').value;
 
-        const response = await fetch('/api/ask', {
+        const API_BASE = 'https://wisdomfunction-deleuze-thinking-machine.hf.space';
+        const response = await fetch(`${API_BASE}/api/ask`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
